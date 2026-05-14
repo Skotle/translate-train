@@ -1,0 +1,227 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 로피탈의 정리
+최근 수정 시각: 2026-04-30 15:26:49 [ [ [ ] [ [ 29 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ [ 로피탈 정리 에서 넘어옴 ] 분류 [ - 해석학(수학)
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 증명 2.1 . 고등학교 수준에서의 증명(x→a일 때 0 / 0꼴인 경우) 2.2 . x→a일 때 0 / 0꼴인 경우 2.3 . x→∞일 때 0 / 0 꼴인 경우 2.4 . x→a일 때 |(분모)|→∞ 꼴인 경우 3 . 내막 4 . 써도 되는 경우 4.1 . 예시 5 . 쓰면 안 되는 경우 6 . 기타
+
+1. 개요 [편집]
+I = ( a , b ) I = (a,b) I = ( a , b ) 를 − ∞ ≤ a < b ≤ ∞ -\infty \le a < b \le \infty − ∞ ≤ a < b ≤ ∞ 를 만족시키는 열린 구간 이라 하고, c c c 가 a ≤ c ≤ b a \le c \le b a ≤ c ≤ b 를 만족시킨다 하자. 함수 f , g : I − { c } → R f, g: I-\{c\} \to \mathbb{R} f , g : I − { c } → R 에 대해 - f f f 와 g g g 모두 I − { c } I-\{c\} I − { c } 에서 미분가능하고
+- lim ⁡ x → c f ( x ) = lim ⁡ x → c g ( x ) = 0 \displaystyle \lim_{x \to c} f(x) = \lim_{x \to c} g(x) = 0 x → c lim ​ f ( x ) = x → c lim ​ g ( x ) = 0 또는 lim ⁡ x → c ∣ g ( x ) ∣ = ∞ \displaystyle \lim_{x \to c} |g(x)| = \infty x → c lim ​ ∣ g ( x ) ∣ = ∞ 이고
+- lim ⁡ x → c f ′ ( x ) g ′ ( x ) \displaystyle \lim_{x \to c} \frac{f'(x)}{g'(x)} x → c lim ​ g ′ ( x ) f ′ ( x ) ​ 가 존재하며 [1]
+- I − { c } I-\{c\} I − { c } 의 모든 점 x x x 에서 g ′ ( x ) ≠ 0 g'(x) \ne 0 g ′ ( x )  = 0 이면 [2]
+
+lim ⁡ x → c f ( x ) g ( x ) = lim ⁡ x → c f ′ ( x ) g ′ ( x ) \displaystyle \lim_{x \to c} \frac{f(x)}{g(x)} = \lim_{x \to c} \frac{f'(x)}{g'(x)} x → c lim ​ g ( x ) f ( x ) ​ = x → c lim ​ g ′ ( x ) f ′ ( x ) ​ 이다. 또한 이 식은 양변이 좌극한( x → c − x \to c^- x → c − ) 혹은 우극한( x → c + x \to c^+ x → c + )일 때도 성립한다.
+
+영어: L'Hôpital's rule [3]
+프랑스어: La règle de L'Hôpital / Théorème de L'Hôpital
+
+간단히 말하면 몇 가지 조건을 만족시키는 [4] 분수꼴의 극한 값은 그 분자와 분모를 각각 미분 한 경우에도 같다는 정리이다.
+
+2. 증명 [편집]
+
+2.1. 고등학교 수준에서의 증명( x → a 일 때 0 / 0꼴인 경우) [편집]
+고등학교 수준( 엡실론-델타 논법 을 배우지 않은 경우)에도 일부 예외를 제외하고는 0/0꼴 부정형은 증명이 가능하다. α \alpha α 에서 도함수가 연속인 함수 [5] f ( x ) , g ( x ) f(x), g(x) f ( x ) , g ( x ) 를 생각하자. lim ⁡ x → α f ( x ) g ( x ) \displaystyle \lim_{x \to \alpha }\frac{f(x)}{g(x)} x → α lim ​ g ( x ) f ( x ) ​ f ( α ) = 0 f(\alpha)=0 f ( α ) = 0 , g ( α ) = 0 g(\alpha)=0 g ( α ) = 0 일 때, 이 식의 극한을 구하려 한다. 앞선 조건에 따라 이 식을 다음과 같이 변형 가능하다. lim ⁡ x → α f ( x ) − f ( α ) g ( x ) − g ( α ) \displaystyle \lim_{x \to \alpha} \frac{f(x)-f(\alpha)}{g(x)-g(\alpha)} x → α lim ​ g ( x ) − g ( α ) f ( x ) − f ( α ) ​ x는 α에 근접할 뿐, α가 아니기 때문에 분자와 분모를 x-α로 나눌 수 있다. lim ⁡ x → α f ( x ) − f ( α ) x − α g ( x ) − g ( α ) x − α \displaystyle \lim_{x \to \alpha}\cfrac{\cfrac{f(x)-f(\alpha)}{x-\alpha }}{\cfrac{g(x)-g(\alpha)}{x-\alpha}} x → α lim ​ x − α g ( x ) − g ( α ) ​ x − α f ( x ) − f ( α ) ​ ​ g ′ ( α ) ≠ 0 g'(\alpha) \neq 0 g ′ ( α )  = 0 인 경우, 극한 법칙에 의하여 몫의 극한은 극한의 몫이다. lim ⁡ x → α f ( x ) − f ( α ) x − α lim ⁡ x → α g ( x ) − g ( α ) x − α \displaystyle \cfrac{\displaystyle \lim_{x \to \alpha} \cfrac{f(x)-f(\alpha)}{x-\alpha}}{\displaystyle \lim_{x \to \alpha} \cfrac{g(x)-g(\alpha)}{x-\alpha}} x → α lim ​ x − α g ( x ) − g ( α ) ​ x → α lim ​ x − α f ( x ) − f ( α ) ​ ​ 미분의 정의에 의해 분모와 분자는 각각 원함수의 도함수와 같다. 그러므로 위 식은 f ′ ( α ) g ′ ( α ) \displaystyle \frac{f'(\alpha)}{g'(\alpha)} g ′ ( α ) f ′ ( α ) ​ 와 같다고 볼 수 있고, 처음에 g'(α)는 0이 되지 않는다고 정했으므로 이것은 lim ⁡ x → α f ′ ( x ) g ′ ( x ) \displaystyle \lim_{x \to \alpha} \frac{f'(x)}{g'(x)} x → α lim ​ g ′ ( x ) f ′ ( x ) ​ 이렇게 결론을 도출할 수 있다. 이 경우에 속하는 유형의 경우, 논술에서 이 정도 증명만 써도 감점은 안 당한다.
+
+이게 '고등학교 수준 증명'인 이유는 여기에 문제가 있기 때문인데, 바로 f ′ f' f ′ 과 g ′ g' g ′ 이 연속이라고 가정하는 것이다. 실제로 미분가능하지만 도함수가 불연속인 함수도 존재한다.
+
+g ′ ( α ) = 0 g'(\alpha) = 0 g ′ ( α ) = 0 인 경우, lim ⁡ x → α f ′ ( x ) g ′ ( x ) \displaystyle \lim_{x \to \alpha} \frac{f'(x)}{g'(x)} x → α lim ​ g ′ ( x ) f ′ ( x ) ​ 가 존재한다면 평균값 정리를 통해 다시 (원래 구하고자 하는) 극한으로 구성할 수 있다.
+
+2.2. x → a 일 때 0 / 0꼴인 경우 [편집]
+lim ⁡ x → a − f ( x ) = lim ⁡ x → a − g ( x ) = 0 \displaystyle \lim_{x\to a-}f(x)=\lim_{x\to a-}g(x)=0 x → a − lim ​ f ( x ) = x → a − lim ​ g ( x ) = 0 이고, 함수 f , g f, g f , g 는 적당한 열린 구간 ( a − d , a ) (a-d, a) ( a − d , a ) 에서 미분가능하며(d>0), 임의의 x ∈ ( a − d , a ) x\in (a-d, a) x ∈ ( a − d , a ) 에 대하여 g ( x ) ≠ 0 g(x)\neq 0 g ( x )  = 0 라고 하자. 또한 lim ⁡ x → a − f ′ ( x ) g ′ ( x ) = L \displaystyle \lim_{x\to a-}\frac{f'(x)}{g'(x)}=L x → a − lim ​ g ′ ( x ) f ′ ( x ) ​ = L 이 성립한다고 하자.
+
+함수 f ∗ , g ∗ f^*, g^* f ∗ , g ∗ 를 구간 ( a − d , a ) (a-d, a) ( a − d , a ) 에서는 각각 함숫값이 f , g f, g f , g 와 같고, 점 a a a 에서는 함숫값이 0이 되도록 정의한다. 그리고 x x x 가 구간 ( a − d , a ) (a-d, a) ( a − d , a ) 의 원소라 할 때, 다음과 같은 t의 함수를 정의한다. F ( t ) = f ( x ) g ∗ ( t ) − g ( x ) f ∗ ( t ) F(t)=f(x)g^*(t)-g(x)f^*(t) F ( t ) = f ( x ) g ∗ ( t ) − g ( x ) f ∗ ( t ) 그러면 F ( t ) F(t) F ( t ) 는 닫힌 구간 [ x , a ] [x, a] [ x , a ] 에서 연속이고, 열린 구간 ( x , a ) (x, a) ( x , a ) 에서 미분가능하며, F ( x ) = F ( a ) = 0 F(x)=F(a)=0 F ( x ) = F ( a ) = 0 이다. 따라서 롤의 정리에 의하여 F ′ ( c ) = 0 F'(c)=0 F ′ ( c ) = 0 인 c ∈ ( x , a ) c\in (x, a) c ∈ ( x , a ) 가 존재한다. 즉, f ( x ) g ′ ( c ) − g ( x ) f ′ ( c ) = 0 f(x)g'(c)-g(x)f'(c)=0 f ( x ) g ′ ( c ) − g ( x ) f ′ ( c ) = 0 이 성립한다.( 코시의 평균값 정리 ) 가정에 의하여 g ( x ) ≠ 0 , g ′ ( c ) ≠ 0 g(x)\neq 0, g'(c)\neq 0 g ( x )  = 0 , g ′ ( c )  = 0 이므로 다음이 성립함을 알 수 있다. f ( x ) g ( x ) = f ′ ( c ) g ′ ( c ) \displaystyle \frac{f(x)}{g(x)}=\frac{f'(c)}{g'(c)} g ( x ) f ( x ) ​ = g ′ ( c ) f ′ ( c ) ​ 한편, lim ⁡ x → a − f ′ ( x ) g ′ ( x ) = L \displaystyle \lim_{x\to a-}\frac{f'(x)}{g'(x)}=L x → a − lim ​ g ′ ( x ) f ′ ( x ) ​ = L 이므로 임의의 양수 ε \varepsilon ε 에 대하여 양수 δ ( ε ) \delta(\varepsilon) δ ( ε ) 이 존재하여 a − δ ( ε ) < x < a a-\delta(\varepsilon)<x<a a − δ ( ε ) < x < a 인 임의의 x ∈ ( a − d , a ) x\in (a-d, a) x ∈ ( a − d , a ) 에 대하여 ∣ f ′ ( x ) g ′ ( x ) − L ∣ < ε \displaystyle \left|\frac{f'(x)}{g'(x)}-L\right|<\varepsilon ​ g ′ ( x ) f ′ ( x ) ​ − L ​ < ε 이 성립한다. 그러면 x < c < a x<c<a x < c < a 이므로, a − δ ( ε ) < x < a a-\delta(\varepsilon)<x<a a − δ ( ε ) < x < a 인 임의의 x ∈ ( a − d , a ) x\in (a-d, a) x ∈ ( a − d , a ) 에 대하여 다음이 성립한다. ∣ f ( x ) g ( x ) − L ∣ = ∣ f ′ ( c ) g ′ ( c ) − L ∣ < ε \displaystyle \left|\frac{f(x)}{g(x)}-L\right|=\left|\frac{f'(c)}{g'(c)}-L\right|<\varepsilon ​ g ( x ) f ( x ) ​ − L ​ = ​ g ′ ( c ) f ′ ( c ) ​ − L ​ < ε 따라서 lim ⁡ x → a − f ( x ) g ( x ) = L \displaystyle \lim_{x\to a-}\frac{f(x)}{g(x)}=L x → a − lim ​ g ( x ) f ( x ) ​ = L 이다.
+
+x → a + x\rightarrow a^{+} x → a + 일 때는 거의 같은 방법으로 증명 가능하고, x → a x\rightarrow a x → a 일 때는 두 증명을 합치면 된다.
+
+2.3. x →∞일 때 0 / 0 꼴인 경우 [편집]
+lim ⁡ x → ∞ f ( x ) = lim ⁡ x → ∞ g ( x ) = 0 \displaystyle \lim_{x\to \infty}f(x)=\lim_{x\to \infty}g(x)=0 x → ∞ lim ​ f ( x ) = x → ∞ lim ​ g ( x ) = 0 이고, 함수 f , g f, g f , g 는 적당한 열린 구간 ( b , ∞ ) (b, \infty) ( b , ∞ ) 에서 미분 가능하며(b>0), 임의의 x ∈ ( b , ∞ ) x\in (b, \infty) x ∈ ( b , ∞ ) 에 대하여 g ′ ( x ) ≠ 0 g'(x)\neq 0 g ′ ( x )  = 0 라고 하자. 또한 lim ⁡ x → ∞ f ′ ( x ) g ′ ( x ) = L \displaystyle \lim_{x\to \infty}\frac{f'(x)}{g'(x)}=L x → ∞ lim ​ g ′ ( x ) f ′ ( x ) ​ = L 이 성립한다고 하자.
+
+함수 F , G F, G F , G 를 임의의 x ∈ ( 0 , 1 b ) \displaystyle x\in \left(0, \frac{1}{b}\right) x ∈ ( 0 , b 1 ​ ) 에 대하여 다음과 같이 정의한다. F ( x ) = f ( 1 x ) , G ( x ) = g ( 1 x ) \displaystyle F(x)=f\left(\frac{1}{x}\right) , G(x)=g\left(\frac{1}{x}\right) F ( x ) = f ( x 1 ​ ) , G ( x ) = g ( x 1 ​ ) 그러면 lim ⁡ x → 0 + F ( x ) = lim ⁡ x → 0 + G ( x ) = 0 \displaystyle \lim_{x\to 0+}F(x)=\lim_{x\to 0+}G(x)=0 x → 0 + lim ​ F ( x ) = x → 0 + lim ​ G ( x ) = 0 이고, 함수 F , G F, G F , G 는 열린 구간 ( 0 , 1 b ) \displaystyle \left(0, \frac{1}{b}\right) ( 0 , b 1 ​ ) 에서 미분 가능하며, 임의의 x ∈ ( 0 , 1 b ) \displaystyle x\in \left(0, \frac{1}{b}\right) x ∈ ( 0 , b 1 ​ ) 에 대하여 G ′ ( x ) ≠ 0 G'(x)\neq 0 G ′ ( x )  = 0 이다. 또한 lim ⁡ x → 0 + F ′ ( x ) G ′ ( x ) = L \displaystyle \lim_{x\to 0+}\frac{F'(x)}{G'(x)}=L x → 0 + lim ​ G ′ ( x ) F ′ ( x ) ​ = L 이 성립한다. 따라서 위에서 증명한 사실에 의해 다음이 성립한다. lim ⁡ x → 0 + F ( x ) G ( x ) = L \displaystyle \lim_{x\to 0+}\frac{F(x)}{G(x)}=L x → 0 + lim ​ G ( x ) F ( x ) ​ = L 따라서 lim ⁡ x → ∞ f ( x ) g ( x ) = L \displaystyle \lim_{x\to \infty}\frac{f(x)}{g(x)}=L x → ∞ lim ​ g ( x ) f ( x ) ​ = L 이다.
+
+2.4. x →a일 때 |(분모)|→∞ 꼴인 경우 [편집]
+lim ⁡ x → a − g ( x ) = ∞ \displaystyle\lim_{x\to a-}g(x)=\infty x → a − lim ​ g ( x ) = ∞ 이고, 함수 f , g f, g f , g 는 적당한 열린 구간 ( a − d , a ) (a-d, a) ( a − d , a ) 에서 미분 가능하며(d>0), 임의의 x ∈ ( a − d , a ) x\in (a-d, a) x ∈ ( a − d , a ) 에 대하여 g ′ ( x ) ≠ 0 g'(x)\neq 0 g ′ ( x )  = 0 라고 하자. 또한 lim ⁡ x → a − f ′ ( x ) g ′ ( x ) = L \displaystyle \lim_{x\to a-}\frac{f'(x)}{g'(x)}=L x → a − lim ​ g ′ ( x ) f ′ ( x ) ​ = L 이 성립한다고 하자.
+
+엡실론-델타 논법을 위해 먼저 임의로 양수 ε \varepsilon ε 을 잡자. 그리고 0 < ε 1 < ε 0<\varepsilon _1<\varepsilon 0 < ε 1 ​ < ε 을 만족시키는 ε 1 \varepsilon _1 ε 1 ​ 을 임의로 택한다. 그러면 lim ⁡ x → a − f ′ ( x ) g ′ ( x ) = L \displaystyle \lim_{x\to a-}\frac{f'(x)}{g'(x)}=L x → a − lim ​ g ′ ( x ) f ′ ( x ) ​ = L 이므로, a − δ 1 < x < a a-\delta_1<x<a a − δ 1 ​ < x < a 인 임의의 x ∈ ( a − d , a ) x\in (a-d, a) x ∈ ( a − d , a ) 에 대하여 ∣ f ′ ( x ) g ′ ( x ) − L ∣ < ε 1 \displaystyle \left|\frac{f'(x)}{g'(x)}-L\right|<\varepsilon_1 ​ g ′ ( x ) f ′ ( x ) ​ − L ​ < ε 1 ​ 이 성립하는 양수 δ 1 \delta_1 δ 1 ​ 이 존재한다.
+
+열린 구간 ( a − δ 1 , a ) (a-\delta_1, a) ( a − δ 1 ​ , a ) 에서 y < x y<x y < x 인 실수 y y y 를 임의로 택한다. 그러면 코시의 평균값 정리에 의해 f ( x ) − f ( y ) g ( x ) − g ( y ) = f ′ ( c ) g ′ ( c ) \displaystyle {f(x)-f(y)\over g(x)-g(y)}=\frac{f'(c)}{g'(c)} g ( x ) − g ( y ) f ( x ) − f ( y ) ​ = g ′ ( c ) f ′ ( c ) ​ 를 만족시키는 c ∈ ( y , x ) c\in (y, x) c ∈ ( y , x ) 가 존재한다.
+
+한편, f ( x ) g ( x ) = f ′ ( c ) g ′ ( c ) + 1 g ( x ) { f ( y ) − g ( y ) f ′ ( c ) g ′ ( c ) } \displaystyle \frac{f(x)}{g(x)}=\frac{f'(c)}{g'(c)}+\frac{1}{g(x)}\left\{f(y)-g(y)\frac{f'(c)}{g'(c)}\right\} g ( x ) f ( x ) ​ = g ′ ( c ) f ′ ( c ) ​ + g ( x ) 1 ​ { f ( y ) − g ( y ) g ′ ( c ) f ′ ( c ) ​ } 이므로 ∣ f ( x ) g ( x ) − L ∣ ≤ ∣ f ′ ( c ) g ′ ( c ) − L ∣ + 1 ∣ g ( x ) ∣ ∣ f ( y ) − g ( y ) f ′ ( c ) g ′ ( c ) ∣ \displaystyle \left|\frac{f(x)}{g(x)}-L\right|\leq \left|\frac{f'(c)}{g'(c)}-L\right|+\frac{1}{\left|g(x)\right|}\left|f(y)-g(y)\frac{f'(c)}{g'(c)}\right| ​ g ( x ) f ( x ) ​ − L ​ ≤ ​ g ′ ( c ) f ′ ( c ) ​ − L ​ + ∣ g ( x ) ∣ 1 ​ ​ f ( y ) − g ( y ) g ′ ( c ) f ′ ( c ) ​ ​ 이다.그러면 a − δ 1 < y < c < x < a a-\delta_1<y<c<x<a a − δ 1 ​ < y < c < x < a 이므로 다음이 성립한다. ∣ f ( x ) g ( x ) − L ∣ ≤ ε 1 + 1 ∣ g ( x ) ∣ ∣ f ( y ) − g ( y ) f ′ ( c ) g ′ ( c ) ∣ \displaystyle \left|\frac{f(x)}{g(x)}-L\right|\leq\varepsilon_1+\frac{1}{\left|g(x)\right|}\left|f(y)-g(y)\frac{f'(c)}{g'(c)}\right| ​ g ( x ) f ( x ) ​ − L ​ ≤ ε 1 ​ + ∣ g ( x ) ∣ 1 ​ ​ f ( y ) − g ( y ) g ′ ( c ) f ′ ( c ) ​ ​ y y y 값이 고정되었기 때문에 f ( y ) , g ( y ) \displaystyle f(y), g(y) f ( y ) , g ( y ) 는 상수이다. 또한 lim ⁡ x → a − f ′ ( x ) g ′ ( x ) = L \displaystyle \lim_{x\to a-}\frac{f'(x)}{g'(x)}=L x → a − lim ​ g ′ ( x ) f ′ ( x ) ​ = L 이고, 임의의 x ∈ ( a − d , a ) x\in (a-d, a) x ∈ ( a − d , a ) 에 대하여 g ′ ( x ) ≠ 0 g'(x)\neq 0 g ′ ( x )  = 0 이므로 x x x 가 구간 ( y , a ) (y, a) ( y , a ) 에서 임의로 값을 취할 때 f ′ ( c ) g ′ ( c ) \displaystyle \frac{f'(c)}{g'(c)} g ′ ( c ) f ′ ( c ) ​ 는 유계이다. 따라서 x x x 의 범위가 ( y , a ) (y, a) ( y , a ) 일 때 ∣ f ( y ) − g ( y ) f ′ ( c ) g ′ ( c ) ∣ \displaystyle \left|f(y)-g(y)\frac{f'(c)}{g'(c)}\right| ​ f ( y ) − g ( y ) g ′ ( c ) f ′ ( c ) ​ ​ 는 유계이다. 이때 그 상계 중 하나를 임의로 골라 M M M 이라 하자( M > 0 M>0 M > 0 ). 그러면 다음이 성립한다. ∣ f ( x ) g ( x ) − L ∣ ≤ ε 1 + M ∣ g ( x ) ∣ \displaystyle \left|\frac{f(x)}{g(x)}-L\right|\leq \varepsilon_1+\frac{M}{|g(x)|} ​ g ( x ) f ( x ) ​ − L ​ ≤ ε 1 ​ + ∣ g ( x ) ∣ M ​ R = M ε − ε 1 \displaystyle R=\frac{M}{\varepsilon-\varepsilon_1} R = ε − ε 1 ​ M ​ 이라 놓자. 그러면 lim ⁡ x → a − g ( x ) = ∞ \displaystyle \lim_{x\to a-}g(x)=\infty x → a − lim ​ g ( x ) = ∞ 이므로 a − δ R < x < a a-\delta_R<x<a a − δ R ​ < x < a 인 임의의 x ∈ ( a − d , a ) x\in (a-d, a) x ∈ ( a − d , a ) 에 대하여 g ( x ) > R \displaystyle g(x)>R g ( x ) > R 이 성립하는 양수 δ R \delta_R δ R ​ 이 존재한다. 그러므로 a − δ R < x < a a-\delta_R<x<a a − δ R ​ < x < a 일 때 다음이 성립한다. ∣ f ( x ) g ( x ) − L ∣ < ε \displaystyle \left|\frac{f(x)}{g(x)}-L\right|< \varepsilon ​ g ( x ) f ( x ) ​ − L ​ < ε 이제 δ = max ⁡ ( δ 1 , δ R ) \delta=\max(\delta_1, \delta_R) δ = max ( δ 1 ​ , δ R ​ ) 로 놓으면 a − δ < x < a a-\delta<x<a a − δ < x < a 인 임의의 x ∈ ( a − d , a ) x\in (a-d, a) x ∈ ( a − d , a ) 에 대하여 ∣ f ( x ) g ( x ) − L ∣ < ε \displaystyle \left|\frac{f(x)}{g(x)}-L\right|< \varepsilon ​ g ( x ) f ( x ) ​ − L ​ < ε 이다. 따라서 lim ⁡ x → a − f ( x ) g ( x ) = L \displaystyle \lim_{x\to a-}\frac{f(x)}{g(x)}=L x → a − lim ​ g ( x ) f ( x ) ​ = L 이다.
+
+마찬가지로 x → a + x\rightarrow a^{+} x → a + 일 때와 (분모) → − ∞ \text{(분모)} \to -\infty ( 분모 ) → − ∞ 일 때는 거의 같은 방법으로 증명 가능하고, x → a x\rightarrow a x → a 일 때는 총 네 가지의 증명을 합치면 된다.
+
+3. 내막 [편집]
+사실 스위스의 유명한 수학자 가문인 베르누이 가문 [6] 의 요한 베르누이 가 발견한 것인데, 이를 프랑스의 수학자 기욤 드 로피탈(Guillaume de l'Hôpital)이 자신의 책에 내놓아서 다른 사람의 이름이 붙어 버린 것이다. 때문에 이 정리의 이름을 베르누이에게 돌려줘야 한다는 의견도 많다. [7] 이렇게 된 이유에는 로피탈이 요한 베르누이의 얼치기 제자 로 친분이 있는 상태에서 아래와 같은 계약을 했기 때문. 비슷한 사례로는 삼차방정식의 근의 공식이 있다. 방정식/풀이 문서 참조.
+친애하는 요한에게 -
+우리는 서로에게 필요한 존재인 것 같소.
+나는 당신의 지적인 재능이 필요하고 당신은 나의 재정적 도움이 필요하지요, 그래서 이렇게 제안하오.
+나는 올해 연금으로 300리브르를 지급하고, 당신이 내게 보낸 여러 잡지의 대가로 200리브르를 더 내겠소. 나는 당신의 모든 시간을 나에게 바치기를 바라는 것은 아니고, 어떤 의문이나 문제가 생길 때마다 약간의 시간만을 내주기를 원하는 것이오,
+나는 당신이 새롭게 발견한 사실들에 대하여는 다른 사람에게 알리지 말고 나에게만 알려주기를 바라겠소. 특히 당신이 나에게 보낸 내용의 복사본을 다른 사람에게는 보내지 말 것을 요구하오. 나는 그것들이 세상에 알려지는 것을 원치 않소.
+
+이후 로피탈이 죽을 때까지 요한은 자신의 발견을 자신의 발견이라고 부를 수 없는 처지. 로피탈은 아주 자랑스럽게 책을 냈고, 이 정리로 명성을 얻었다. 책에 '그들의 발견을 자유롭게 사용하였으므로 무엇이든지 자신의 소유라고 주장하는 것은 다시 돌려줄 것이다'라는 포기선언이 있었지만... 실제로 요한은 로피탈이 책에 쓴 대로 자기가 이 정리를 발견했다고 날뛰며 로피탈을 남의 재능으로 돈벌이나 하는 놈이라며 신나게 씹었다. 요한은 이 일이 사무쳤는지 약 50년 후에 자신의 연구를 모아서 본인의 이름으로 책을 냈다.
+
+4. 써도 되는 경우 [편집]
+고등학교 교육과정에는 등재되어 있지 않으나 이 공식은 대학생도 아닌 고등학생에게까지 아주 유명하다.
+
+고등학교 참고서 중에서는 홍성대 가 최초로 수학의 정석 시리즈에서 '교육과정 밖이지만 쓰면 유용한 도구'로 이 정리를 소개했고 최근에는 많은 참고서 내에서도 교과 내용 외라는 조건을 달아줘서 나오는 편. 심지어 개념중심 강의가 아닌 EBS 수능특강 에서조차 몇몇 선생님들이 '이거 알면 좋아요'라며 따로 적어 줄 정도. [8] 어떤 수학식을 발견하여 이를 배워야 하는 학생들에게 욕을 먹는 가우스 나 뉴턴 , 라이프니츠 (각각 가우스 기호와 미분) 등의 수학자들과는 달리, 로피탈은 이 정리 하나로 학생들에게 존경받고 있다. 그런데 그 학생들이 대학생이 되어 로피탈의 정리의 증명을 배우게 되면 로피탈을 욕하게 된다는 것이 아이러니하다.
+
+난이도가 낮은 객관식이나 단답형 주관식을 풀 때 매우 강력한 도구이다. 로피탈의 정리를 썼을 때 더 쉽게 구할 수 있겠다 싶으면 바로 위아래 미분 때려 버리자. 한 번 때렸는데 안 나오면 두 번, 세 번 때리자. 계속 때리면 결국 답이 나온다. 초월함수의 경우 식이 복잡해지므로 집중해서 때리자.
+
+사실 고등학교에서 로피탈의 정리는 초월함수(지수·로그함수, 삼각함수 등)의 미분보다 다항함수의 미분에서 빛을 발하는데, 자칫 로피탈의 정리를 썼다가 식이 어지럽게 꼬이는 문제가 나오지 않기 때문이다. 그리고 차수가 자연수인 경우의 미분법뿐만 아니라, 유리함수, 무리함수, 그리고 합성함수의 미분법 도 알아 두는 것이 좋다. 단순 계산 문제는 그냥 풀 수 있고, 좀 더 난이도가 있는 문제도 훨씬 수월하게 풀 수 있는 경우가 많기 때문이다. 미분과 적분 이 더럽게 많이 나오는 편입 수학에서도 필수요소 . 수능 때와 달리 아무 생각도 하지 않고 로피탈의 정리를 쓰면 된다. 게다가 이쪽은 로피탈의 정리를 정식으로 배우므로 마음대로 사용해도 문제 없다.
+
+많은 수험생이 애용하고 있으며 대다수 수학교사들이 수업 중 적어도 한 번씩은 언급함에도 불구하고 로피탈의 정리는 교과과정에 속해 있지 않다. 왜냐하면 고등학교 수학 교과과정으로는 엡실론-델타 논법 때문에 로피탈의 정리를 증명할 수 없기 때문이다. [9] 내신의 객관식이나 단답형 주관식이라면 간단히 풀 수 있겠으나, 서술형 문제를 로피탈의 정리로 풀어버리면 그 부분은 인정하지 않는다.
+
+미국에서는 학교에서 로피탈의 정리를 가르쳐주는 데다가 시험에서 쓰면 유용하다고 배우기까지 한다. 일단 대부분의 미적분 교과서에 짤막하게나마 나오는 내용이기도 하고 실제 AP과정에서 가르쳐 주기까지 하며 출제범위에 들어가 있다. 이는 Calculus AB/BC 모두에 해당된다.
+
+4.1. 예시 [편집]
+2021학년도 수능 나형 17번
+
+고교 교육과정에서 로피탈의 정리를 다루지 않으므로 본래 출제 의도는 다음과 같다.
+
+우선, 첫째 식에서 x → 0 x\to 0 x → 0 이면 분모 x x x 는 0 0 0 으로 수렴하는데, 첫째 식 전체의 수렴값이 존재하므로 분자 역시 0 0 0 으로 수렴한다. 또한, f ( x ) f(x) f ( x ) 와 g ( x ) g(x) g ( x ) 는 다항함수 이므로 실수 전체의 집합에서 연속이고, 따라서 극한값과 함숫값이 일치한다.
+
+lim ⁡ x → 0 { f ( x ) + g ( x ) } = 0 f ( 0 ) + g ( 0 ) = 0 \begin{aligned}\displaystyle\lim_{x\to 0}\{f(x)+g(x)\}&=0\\f(0)+g(0)&=0\end{aligned} x → 0 lim ​ { f ( x ) + g ( x )} f ( 0 ) + g ( 0 ) ​ = 0 = 0 ​
+그러므로 첫째 식을 다음과 같이 고쳐 쓸 수 있다.
+
+lim ⁡ x → 0 f ( x ) + g ( x ) x = lim ⁡ x → 0 f ( x ) + g ( x ) − { f ( 0 ) + g ( 0 ) } x − 0 = f ′ ( 0 ) + g ′ ( 0 ) = 3 \begin{aligned}\displaystyle\lim_{x\to 0}\dfrac{f(x)+g(x)}x&=\lim_{x\to 0}\dfrac{f(x)+g(x)-\{f(0)+g(0)\}}{x-0}\\&=f'(0)+g'(0)\\&=3\end{aligned} x → 0 lim ​ x f ( x ) + g ( x ) ​ ​ = x → 0 lim ​ x − 0 f ( x ) + g ( x ) − { f ( 0 ) + g ( 0 )} ​ = f ′ ( 0 ) + g ′ ( 0 ) = 3 ​ 주의 [펼치기·접기] lim ⁡ x → 0 f ( x ) + g ( x ) x = lim ⁡ x → 0 f ( x ) + g ( x ) − { f ( 0 ) + g ( 0 ) } x − 0 = lim ⁡ x → 0 f ( x ) − f ( 0 ) x − 0 + lim ⁡ x → 0 g ( x ) − g ( 0 ) x − 0 = f ′ ( 0 ) + g ′ ( 0 ) = 3 \begin{aligned}\displaystyle\lim_{x\to 0}\dfrac{f(x)+g(x)}x&=\lim_{x\to 0}\dfrac{f(x)+g(x)-\{f(0)+g(0)\}}{x-0}\\&=\lim_{x\to 0}\dfrac{f(x)-f(0)}{x-0}+\lim_{x\to 0}\dfrac{g(x)-g(0)}{x-0}\\&=f'(0)+g'(0)\\&=3\end{aligned} x → 0 lim ​ x f ( x ) + g ( x ) ​ ​ = x → 0 lim ​ x − 0 f ( x ) + g ( x ) − { f ( 0 ) + g ( 0 )} ​ = x → 0 lim ​ x − 0 f ( x ) − f ( 0 ) ​ + x → 0 lim ​ x − 0 g ( x ) − g ( 0 ) ​ = f ′ ( 0 ) + g ′ ( 0 ) = 3 ​
+
+분명히 위 식은 옳지만, 다음을 명심해야 한다.
+
+lim ⁡ x → 0 f ( x ) x ≠ f ′ ( 0 ) lim ⁡ x → 0 g ( x ) x ≠ g ′ ( 0 ) \begin{aligned}\displaystyle\lim_{x\to 0}\dfrac{f(x)}{x}&\neq f'(0)\\\lim_{x\to 0}\dfrac{g(x)}{x}&\neq g'(0)\end{aligned} x → 0 lim ​ x f ( x ) ​ x → 0 lim ​ x g ( x ) ​ ​  = f ′ ( 0 )  = g ′ ( 0 ) ​
+이는 a + b = 1 + 2 a+b=1+2 a + b = 1 + 2 라고 해서 a = 1 , b = 2 a=1,\;b=2 a = 1 , b = 2 라는 법은 없는 것과 마찬가지이다. 위 두 식이 모두 등식이 되려면 f ( 0 ) = g ( 0 ) = 0 f(0)=g(0)=0 f ( 0 ) = g ( 0 ) = 0 이어야 하는데, f ( 0 ) + g ( 0 ) = 0 f(0)+g(0)=0 f ( 0 ) + g ( 0 ) = 0 이라고 하여 f ( 0 ) = g ( 0 ) = 0 f(0)=g(0)=0 f ( 0 ) = g ( 0 ) = 0 이라는 법은 없다. 꼭 이게 아니더라도, h ′ ( 0 ) = f ′ ( 0 ) g ( 0 ) + f ( 0 ) g ′ ( 0 ) h'(0)=f'(0)g(0)+f(0)g'(0) h ′ ( 0 ) = f ′ ( 0 ) g ( 0 ) + f ( 0 ) g ′ ( 0 ) 인 이상 f ( 0 ) = g ( 0 ) = 0 f(0)=g(0)=0 f ( 0 ) = g ( 0 ) = 0 이라면 f ′ ( 0 ) f'(0) f ′ ( 0 ) 과 g ′ ( 0 ) g'(0) g ′ ( 0 ) 의 값을 구할 필요도 없이 h ′ ( 0 ) = 0 h'(0)=0 h ′ ( 0 ) = 0 이 되어 버리는데 보기에 0 0 0 은 없을뿐더러 상식적으로 이렇게 시시한 문제를 낼 리가 없다.
+둘째 식 역시 x → 0 x\to 0 x → 0 이면 분모 x x x 는 0 0 0 으로 수렴하므로 분자 역시 0 0 0 으로 수렴하며, 극한값과 함숫값이 일치한다.
+
+lim ⁡ x → 0 { f ( x ) + 3 } = f ( 0 ) + 3 = 0 ∴ f ( 0 ) = − 3 , g ( 0 ) = 3 ( ∵ f ( 0 ) + g ( 0 ) = 0 ) \begin{aligned}\displaystyle\lim_{x\to 0}\{f(x)+3\}&=f(0)+3=0\\\therefore f(0)=-3,\;g(0)&=3\;(\because f(0)+g(0)=0)\end{aligned} x → 0 lim ​ { f ( x ) + 3 } ∴ f ( 0 ) = − 3 , g ( 0 ) ​ = f ( 0 ) + 3 = 0 = 3 ( ∵ f ( 0 ) + g ( 0 ) = 0 ) ​
+그러므로 둘째 식을 다음과 같이 고쳐 쓸 수 있다.
+
+lim ⁡ x → 0 f ( x ) + 3 x g ( x ) = lim ⁡ x → 0 f ( x ) − f ( 0 ) x − 0 ⋅ 1 g ( x ) = f ′ ( 0 ) 3 = 2 ∴ f ′ ( 0 ) = 6 ∴ g ′ ( 0 ) = − 3 ( ∵ f ′ ( 0 ) + g ′ ( 0 ) = 3 ) \begin{aligned}\displaystyle\lim_{x\to 0}\dfrac{f(x)+3}{xg(x)}&=\displaystyle\lim_{x\to 0}\dfrac{f(x)-f(0)}{x-0}\cdot\dfrac1{g(x)}\\&=\dfrac{f'(0)}3\\&=2\\\therefore f'(0)&=6\\\therefore g'(0)&=-3\;(\because f'(0)+g'(0)=3)\end{aligned} x → 0 lim ​ xg ( x ) f ( x ) + 3 ​ ∴ f ′ ( 0 ) ∴ g ′ ( 0 ) ​ = x → 0 lim ​ x − 0 f ( x ) − f ( 0 ) ​ ⋅ g ( x ) 1 ​ = 3 f ′ ( 0 ) ​ = 2 = 6 = − 3 ( ∵ f ′ ( 0 ) + g ′ ( 0 ) = 3 ) ​
+
+∴ h ′ ( 0 ) = f ′ ⁣ ( 0 ) g ( 0 ) + f ( 0 ) g ′ ⁣ ( 0 ) = 6 ⋅ 3 + ( − 3 ) ⋅ ( − 3 ) = 27 \begin{aligned}\therefore h'(0)&=f'\!(0)g(0)+f(0)g'\!(0)\\&=6\cdot 3+(-3)\cdot(-3)\\&=27\end{aligned} ∴ h ′ ( 0 ) ​ = f ′ ( 0 ) g ( 0 ) + f ( 0 ) g ′ ( 0 ) = 6 ⋅ 3 + ( − 3 ) ⋅ ( − 3 ) = 27 ​
+로피탈의 정리를 사용하면 풀이가 한결 간단해진다. 우선, 앞서 밝혔듯이 첫째 식과 둘째의 식의 분모가 0 0 0 으로 수렴하므로 분자 역시 0 0 0 으로 수렴하며, 극한값과 함숫값이 일치한다.
+
+lim ⁡ x → 0 { f ( x ) + g ( x ) } = 0 → f ( 0 ) + g ( 0 ) = 0 lim ⁡ x → 0 { f ( x ) + 3 } = 0 → f ( 0 ) = − 3 → g ( 0 ) = 3 \begin{aligned}\displaystyle\lim_{x\to 0}\{f(x)+g(x)\}=0\quad&\rightarrow\quad f(0)+g(0)=0\\\displaystyle\lim_{x\to 0}\{f(x)+3\}=0\quad&\rightarrow\quad f(0)=-3\\&\rightarrow\quad g(0)=3\end{aligned} x → 0 lim ​ { f ( x ) + g ( x )} = 0 x → 0 lim ​ { f ( x ) + 3 } = 0 ​ → f ( 0 ) + g ( 0 ) = 0 → f ( 0 ) = − 3 → g ( 0 ) = 3 ​
+첫째 식과 둘째 식 모두 분모와 분자가 0 0 0 으로 수렴하므로 로피탈의 정리를 사용할 수 있다.
+
+lim ⁡ x → 0 f ( x ) + g ( x ) x = lim ⁡ x → 0 f ′ ( x ) + g ′ ( x ) 1 = f ′ ( 0 ) + g ′ ( 0 ) = 3 lim ⁡ x → 0 f ( x ) + 3 x g ( x ) = lim ⁡ x → 0 f ′ ( x ) g ( x ) + x g ′ ( x ) = f ′ ( 0 ) g ( 0 ) = f ′ ( 0 ) 3 = 2 ∴ f ′ ( 0 ) = 6 , g ′ ( 0 ) = − 3 \begin{aligned}\displaystyle\lim_{x\to 0}\dfrac{f(x)+g(x)}x&=\displaystyle\lim_{x\to 0}\dfrac{f'(x)+g'(x)}1\\&=f'(0)+g'(0)\\&=3\\\displaystyle\lim_{x\to 0}\dfrac{f(x)+3}{xg(x)}&=\displaystyle\lim_{x\to 0}\dfrac{f'(x)}{g(x)+xg'(x)}\\&=\dfrac{f'(0)}{g(0)}=\dfrac{f'(0)}3\\&=2\end{aligned}\\\therefore f'(0)=6,\;g'(0)=-3 x → 0 lim ​ x f ( x ) + g ( x ) ​ x → 0 lim ​ xg ( x ) f ( x ) + 3 ​ ​ = x → 0 lim ​ 1 f ′ ( x ) + g ′ ( x ) ​ = f ′ ( 0 ) + g ′ ( 0 ) = 3 = x → 0 lim ​ g ( x ) + x g ′ ( x ) f ′ ( x ) ​ = g ( 0 ) f ′ ( 0 ) ​ = 3 f ′ ( 0 ) ​ = 2 ​ ∴ f ′ ( 0 ) = 6 , g ′ ( 0 ) = − 3
+∴ h ′ ( 0 ) = f ′ ⁣ ( 0 ) g ( 0 ) + f ( 0 ) g ′ ⁣ ( 0 ) = 6 ⋅ 3 + ( − 3 ) ⋅ ( − 3 ) = 27 \begin{aligned}\therefore h'(0)&=f'\!(0)g(0)+f(0)g'\!(0)\\&=6\cdot 3+(-3)\cdot(-3)\\&=27\end{aligned} ∴ h ′ ( 0 ) ​ = f ′ ( 0 ) g ( 0 ) + f ( 0 ) g ′ ( 0 ) = 6 ⋅ 3 + ( − 3 ) ⋅ ( − 3 ) = 27 ​
+
+5. 쓰면 안 되는 경우 [편집]
+그러나 서술형 시험이나 자연계 논술 에서 풀이과정을 적을 때 별다른 첨언 없이 로피탈의 정리를 쓰면 그 부분은 틀린 것으로 처리한다. 대표적으로 대학입시가 본고사 인 일본을 들 수 있다. [10] 이는 당연한 것이, 공식적으로는 고등학교 과정에 없는 내용이기 때문이다. 학교에서 교사들이 알려주게 되더라도 이러한 사항을 말해주는 것이 보통이다. 특히 논술을 노리고 있다면 로피탈의 정리를 쓰지 않고 문제를 해결하려는 연습이 많이 필요하다.
+
+도저히 로피탈의 정리를 안 쓰고는 풀 수 없다면, 실제 증명까지 해야한다. 논술에서는 학생이 스스로 증명하는 경우에 한하여, 로피탈의 정리 사용을 가지고 감점하지는 않는다. 고등학교 수준에서도 증명 가능하기 때문에 이 경우는 오답처리할 명분이 없다.
+
+풀이과정을 증명할 필요가 없는 객관식 문제에서도 기계적으로 문제를 풀면 큰일나는 경우가 있다. 공통적으로 일반 다항함수가 아닌 지수함수나 삼각함수, 로그함수들 중 둘 이상이 뒤섞인 문제들인데 이런 걸 정직하게 위아래 미분해서 풀게되면 식 특성상 시간이 무지 많이 걸리게 되고 계산 실수가 나와서 틀리게 되는 경우가 많다. 아래의 문항은 3점이지만 정답률 37%를 자랑하는 2010학년도 대학수학능력시험 6월 모의평가 수리 가형 미적분 27번이다.
+
+lim ⁡ x → 0 e 1 − sin ⁡ x − e 1 − tan ⁡ x tan ⁡ x − sin ⁡ x = l’H o ˆ pital lim ⁡ x → 0 e ( e tan ⁡ x − e sin ⁡ x cos ⁡ 3 x ) sec ⁡ 3 x sec ⁡ 2 x − cos ⁡ x = l’H o ˆ pital lim ⁡ x → 0 e − sin ⁡ x − tan ⁡ x + 1 cos ⁡ 2 x ( e tan ⁡ x − e sin ⁡ x sec ⁡ 6 x + e tan ⁡ x tan ⁡ x sec ⁡ x + 2 e sin ⁡ x tan ⁡ x sec ⁡ 4 x ) 2 tan ⁡ x sec ⁡ 2 x + sin ⁡ x \displaystyle \begin{aligned} &\lim_{x\to0}\frac{e^{1-\sin x}-e^{1-\tan x}}{\tan x-\sin x} \\ &\xlongequal{\textsf{l'H\^opital}} \lim_{x\to0}\frac{e\left(e^{\tan x}-e^{\sin x}\cos^{3}x\right)\sec^{3}x}{\sec^{2}x-\cos x} \\ & \xlongequal{\textsf{l'H\^opital}} \lim_{x\to0}\frac{e^{-\sin x-\tan x+1}\cos^{2}x\left(e^{\tan x}-e^{\sin x}\sec^{6}x+e^{\tan x}\tan x\sec x+2e^{\sin x}\tan x\sec^{4}x\right)}{2\tan x\sec^{2}x+\sin x} \end{aligned} ​ x → 0 lim ​ tan x − sin x e 1 − s i n x − e 1 − t a n x ​ l’H o ˆ pital x → 0 lim ​ sec 2 x − cos x e ( e t a n x − e s i n x cos 3 x ) sec 3 x ​ l’H o ˆ pital x → 0 lim ​ 2 tan x sec 2 x + sin x e − s i n x − t a n x + 1 cos 2 x ( e t a n x − e s i n x sec 6 x + e t a n x tan x sec x + 2 e s i n x tan x sec 4 x ) ​ ​
+
+미분했을 때 나오는 식. 정답은 여기 로. [보충설명1] [보충설명2] [보충설명3]
+
+위와 같은 문제는 주어진 식을 평균변화율의 극한식이 나오도록 변형해서 푸는 문제가 많은데, 이 방법이 충분히 익숙해졌다면 실제로 이 방법으로 푸는 게 로피탈의 정리를 사용해서 푸는 것보다 더 편리한 것을 느낄 수 있다. 사실 이 문제는 평균변화율의 수렴 (즉 미분계수 의 정의식) 을 사용하면 답이 4번임을 훨씬 쉽게 알 수 있다.
+
+초월함수의 경우는 테일러 급수 를 사용하는 편이 훨씬 쉽다.
+
+또다른 예시로는 p p p 를 상수라 하고 n n n 을 변수로 놓을 때 p 2 4 n tan ⁡ ( π n ) \displaystyle \frac{{p}^{2}}{ 4n \tan\left ( \frac{\pi}{n} \right )} 4 n tan ( n π ​ ) p 2 ​ 와 p 2 π 4 n 2 tan ⁡ 2 ( π n ) \displaystyle \frac{{p}^{2}\pi}{ 4{n}^{2} \tan^{2}\left ( \frac{\pi}{n} \right )} 4 n 2 tan 2 ( n π ​ ) p 2 π ​ 의 극한값을 구하는 상황이 있다. [정답과해설] 로피탈의 정리로 풀 수 있긴 하지만 시간이 많이 낭비됨을 알 수 있다. 정답은 둘 다 p 2 4 π \displaystyle \frac{p^2}{4\pi} 4 π p 2 ​ . 급수전개하거나 삼각함수의 극한을 이용해서 바로 풀 수 있는 문제다. n n n 을 1 n \displaystyle \frac{1}{n} n 1 ​ 으로 바꾸고 1 n \displaystyle \frac{1}{n} n 1 ​ 이 0 \displaystyle 0 0 으로 접근하게 하면 삼각함수의 극한의 정의를 이용해서 풀 수 있기 때문.
+
+다른 풀이: f ( x ) = 1 − x \displaystyle f\left ( x \right )=1-x f ( x ) = 1 − x 로 놓고 미분계수의 정의를 이용해도 풀린다.
+
+lim ⁡ x → 0 + 1 − cos ⁡ x sin ⁡ x = lim ⁡ x → 0 + sin ⁡ x 2 1 − cos ⁡ x cos ⁡ x = lim ⁡ x → 0 + sin ⁡ x 2 cos ⁡ x 1 − cos ⁡ x = lim ⁡ x → 0 + 1 2 cos ⁡ x × lim ⁡ x → 0 + sin ⁡ x 1 − cos ⁡ x = 1 2 lim ⁡ x → 0 + sin ⁡ x 1 − cos ⁡ x \displaystyle \lim_{x \to 0^+} \frac{\sqrt{1 - \cos x}}{\sin x} = \lim_{x \to 0^+} \frac{\frac{\sin x}{2 \sqrt{1 - \cos x}}}{\cos x} = \lim_{x \to 0^+} \frac{\sin x}{2 \cos x \sqrt{1 - \cos x}} = \lim_{x \to 0^+} \frac{1}{2 \cos x} \times \lim_{x \to 0^+} \frac{\sin x}{\sqrt{1 - \cos x}} = \frac{1}{2} \lim_{x \to 0^+} \frac{\sin x}{\sqrt{1 - \cos x}} x → 0 + lim ​ sin x 1 − cos x ​ ​ = x → 0 + lim ​ cos x 2 1 − c o s x ​ s i n x ​ ​ = x → 0 + lim ​ 2 cos x 1 − cos x ​ sin x ​ = x → 0 + lim ​ 2 cos x 1 ​ × x → 0 + lim ​ 1 − cos x ​ sin x ​ = 2 1 ​ x → 0 + lim ​ 1 − cos x ​ sin x ​
+
+또 다른 예로 로피탈의 정리를 적용했더니 분자 분모가 서로 바뀌어서 나오는 경우도 있다. 여기에 로피탈의 정리를 적용하면 원래대로 돌아온다. 즉 로피탈의 정리를 적용할 때마다 분자와 분모 식이 서로 뒤바뀌면서 순환한다. 그런데 이 경우는 진동, 1 \displaystyle 1 1 로 수렴, − 1 \displaystyle -1 − 1 로 수렴 중 하나라는 것을 알 수 있어서 로피탈의 정리를 쓴 것이 유용하다고 생각할 수도 있다.
+
+사실 사인함수를 루트 안에 집어넣고 리미트도 안으로 들어오고 난 뒤에는 로피탈의 정리를 쓰면 풀린다.
+
+lim ⁡ x → ∞ x + sin ⁡ x x = 1 lim ⁡ x → ∞ 1 + cos ⁡ x 1 ⟶ 발산(진동) \displaystyle \begin{aligned} &\lim_{x\to\infty}\frac{x+\sin x}{x} = 1\\[1em] &\lim_{x\to\infty}\frac{1+\cos x}{1} \color{red} \longrightarrow \textsf{발산(진동)} \end{aligned} ​ x → ∞ lim ​ x x + sin x ​ = 1 x → ∞ lim ​ 1 1 + cos x ​ ⟶ 발산 ( 진동 ) ​
+
+원래함수의 비율의 극한이 ∞ ∞ \displaystyle {\infty\over \infty} ∞ ∞ ​ 이라 로피탈의 정리를 적용해도 될 것 같지만 실제로 적용하면 1 1 1 이 아닌 발산으로 나온다. 이처럼 미분한 함수의 비율의 극한값이 존재하거나 무한대로 발산하는 경우가 아니라면 로피탈의 정리를 적용할 수 없다.
+
+6. 기타 [편집]
+분모가 무한대꼴로 가는 경우의 증명을 살펴보면 분자가 무한대로 발산한다는 내용을 사용하지 않는다. 즉, 분자가 발산한다는 조건이 없더라도 다른 조건을 만족시키는 경우 로피탈의 정리가 여전히 성립한다. 따라서 다음과 같은 극한을 구할 수도 있다. 함수 f ( x ) f(x) f ( x ) 가 ( 0 , ∞ ) (0,\, \infty) ( 0 , ∞ ) 에서 미분가능할 때, lim ⁡ x → ∞ { f ( x ) + f ′ ( x ) } = L \displaystyle \lim_{x \to \infty} \{f(x)+f'(x)\}=L x → ∞ lim ​ { f ( x ) + f ′ ( x )} = L 이면 lim ⁡ x → ∞ f ( x ) = L \displaystyle \lim_{x \to \infty}f(x)=L x → ∞ lim ​ f ( x ) = L 이다.
+
+증명.
+먼저 ( f ( x ) e x ) ′ = ( f ( x ) + f ′ ( x ) ) e x \displaystyle \left(f(x)e^x\right)'=\left(f(x)+f'(x)\right)e^x ( f ( x ) e x ) ′ = ( f ( x ) + f ′ ( x ) ) e x 이다.
+따라서 로피탈의 정리에 의해 lim ⁡ x → ∞ { f ( x ) + f ′ ( x ) } = lim ⁡ x → ∞ ( f ( x ) + f ′ ( x ) ) e x e x = lim ⁡ x → ∞ f ( x ) e x e x = lim ⁡ x → ∞ f ( x ) = L \displaystyle \lim_{x \to \infty} \{f(x)+f'(x)\}=\lim_{x \to \infty}\frac{(f(x)+f'(x))e^x}{e^x}=\lim_{x \to \infty}\frac{f(x)e^x}{e^x}= \lim_{x \to \infty}f(x)=L x → ∞ lim ​ { f ( x ) + f ′ ( x )} = x → ∞ lim ​ e x ( f ( x ) + f ′ ( x )) e x ​ = x → ∞ lim ​ e x f ( x ) e x ​ = x → ∞ lim ​ f ( x ) = L 이다.
+
+만약 평소에 로피탈의 정리를 사용하고 있었고, 자신의 수학성적이 상위권이라면 테일러 급수 쪽을 배우는 것도 추천한다. 로피탈의 정리보다 정확한 답을 낼 가능성이 높아지기 때문.
+Indeterminate forms - L'Hospital's rule
+18.01 Single Variable Calculus, [15] Fall 2006 (Fall 2007)
+데이비드 제리슨 교수 - MIT 수학과
+
+진짜로 진지하게 로피탈의 정리를 공부하고 싶은 분들을 위하여... 증명을 하지는 않지만(18:35 부분 참조), 로피탈의 정리를 쓸 때 주의사항이나 조건(38:28 참조), 로피탈의 정리를 쓰기 전엔 주의해야 하며(45:37) [16] 너무 맹신하지 말라는(46:37) 내용을 담고 있다.
+
+수열 버전으로 슈톨츠-체사로 정리 가 있다. 로피탈의 정리의 이산적인 형태. [17]
+
+등비수열 의 합에서 공비가 1일 경우, 공비가 1이 아닐 경우의 공식에 로피탈의 정리를 이용해 공비가 1일 경우의 공식을 유도할 수 있다.
+
+상기한 "쓰면 편리하지만 함정에 빠지기 쉽다"라는 점에서 2010년대 초중반에 흥했던 학교대사전 등에서는 마검 이라고 부르며 경외시했다는 풍문이 있다. [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 남동구컴퓨터 오마이피씨
+www.omypc.co.kr
+[ [ 고사양게이밍 ] [ 하이엔드PC ] [ 윈도우탑재 ] [ 파워게이밍 ] ]
+전국 무료출장AS. 무이자할부. 당일발송!. 고사양 특가! 남동구컴퓨터
+
+] | [ 전국24시 출장비0원 컴닥터
+www.컴닥터본사.kr v-if
+[ [ 홈페이지접수 ] [ 온라인문의 ] [ 체인점찾기 ] [ 서비스요금 ] ]
+전국 대표 컴닥터 컴퓨터수리 데이터복구 20분 무료 출장 서비스, A/S안심서비스
+
+]
+
+[1] lim ⁡ x → c f ′ ( x ) \displaystyle \lim_{x \to c}f'(x) x → c lim ​ f ′ ( x ) 와 lim ⁡ x → c g ′ ( x ) \displaystyle \lim_{x \to c}g'(x) x → c lim ​ g ′ ( x ) 의 값이 0이 아닌 실수여야 할 필요는 없다. 즉, 로피탈의 정리를 여러 번 사용할 수 있다. [2] 이 조건이 붙는 이유는 당연히 0으로 나누기 는 정의되지 않기 때문. c가 g'의 해집합의 limit point인 경우, 로랑 급수 를 이용해야 한다. [3] 명칭을 L'Hôpital 대신 L'Hospital이라고 쓰기도 한다. 로피탈 본인도 생전에 자기 이름을 L'Hospital 로 적었다. 그 뒤 18세기에 프랑스어 철자법이 개정되면서 한 단어 안에서 모음과 자음 사이의 s가 묵음이 된 경우 그 s를 없애고 바로 앞 모음 글자에 circonflexe(ˆ)를 추가하게 되었고, 이에 따라 L'Hospital은 L'Hôpital이 되었다. 이러한 이유로 영어권에서는 현대 프랑스어 철자법에 따른 L'Hôpital과 로피탈 본인이 생전에 사용했던 철자 L'Hospital이 혼용되고 있다. 첨언하면, 성씨에 있는 Hôpital은 프랑스어로 병원 이라는 뜻이며, 영어의 hospital과 같은 뿌리를 갖는다. [4] 미분가능+ 부정형 [5] 또는 일급함수(C^1) [6] 수학과 과학 분야에서 베르누이 란 이름이 많이 나오는데 동일 인물인 경우도 있으나 대개 성만 같고 다른 사람이다. 유체역학 쪽의 다니엘 베르누이 도 이 가문. 당시에 라이프니츠 를 도와 미적분학의 기초를 만들었다. [7] 그러나 위의 다니엘 베르누이가 만든 베르누이 정리 라는 별개의 정리가 있어서 혼동 할 수 있다는 반론도 있다. [8] 여담으로 EBS 강의는 교과서나 연계교재에 나오지 않는 교과외를 거의 다루지 않는 편이다. 그러나 강사가 직접 교재를 집필하는 수능개념의 경우에는 교과외를 넣는 강사들이 종종 있다. [9] 수학의 정석 미적분 II 실력편에서 증명을 간단하게 서술한 것이 있다. 방법은 롤의 정리를 이용해서 코시의 평균값 정리 를 증명하고, 다시 그 평균값 정리를 이용해 로피탈의 정리를 증명하는 식으로 되어 있다. [10] 다만 내신 의 경우 교사 재량에 따라 봐주는 경우도 있다. 이유는 상술했듯이 이론적으로는 고등학교 교육과정 내에서 유도가 가능하기 때문. [보충설명1] 사실 평균값 정리를 쓰면 바로 e 1 − x e^{1-x} e 1 − x 에서 x = 0 x=0 x = 0 일 때 기울기에 − 1 -1 − 1 을 곱한 것임을 알 수 있다. 그래서 답은 4번 e이다. [보충설명2] 또는 분모가 ( 1 − sin ⁡ x ) − ( 1 − tan ⁡ x ) (1-\sin x)-(1-\tan x) ( 1 − sin x ) − ( 1 − tan x ) 임을 파악했다면 y = e x + C y=e^x + C y = e x + C (C는 어떤 상수)의 x = 1 x=1 x = 1 에서의 기울기가 답임을 알 수도 있다. 처음에 알아채기는 쉽지 않지만 이 편이 분모의 부호를 고려할 필요가 없어 훨씬 깔끔하다. [보충설명3] 사실 이 문제는 로피탈의 정리를 3번 사용해야 정상적인 답이 나온다. 그 후, x x x 를 0 0 0 으로 보내버리면 분모는 3 3 3 , 분자는 3 e 3e 3 e 로 가므로 답은 e e e 이다. 다만 분모분자의 삼계도함수는 다음과 같다. 분자식의 삼계도함수 분모식의 삼계도함수 [정답과해설] 첫 번째 문제 lim ⁡ n → ∞ p 2 4 n tan ⁡ ( π n ) \displaystyle \lim_{n\rightarrow \infty}\frac{p^{2}}{4n\tan\left( \frac{\pi}{n} \right)} n → ∞ lim ​ 4 n tan ( n π ​ ) p 2 ​ 을 구해 보면 일단 상수를 밖으로 내보내면 p 2 4 lim ⁡ n → ∞ 1 n tan ⁡ ( π n ) \displaystyle \frac{p^{2}}{4}\lim_{n\rightarrow \infty}\frac{1}{n\tan\left(\frac{\pi}{n} \right)} 4 p 2 ​ n → ∞ lim ​ n tan ( n π ​ ) 1 ​ 가 된다. 이제 π n = t \displaystyle \frac{\pi}{n}=t n π ​ = t 로 치환하면 n t = π \displaystyle nt=\pi n t = π 가 된다.그리고 n → ∞ , t → 0 \displaystyle n\rightarrow \infty,t\rightarrow 0 n → ∞ , t → 0 이므로, p 2 4 lim ⁡ t → 0 1 π t tan ⁡ ( t ) \displaystyle \frac{p^{2}}{4}\lim_{t\rightarrow 0}\frac{1}{\frac{\pi}{t}\tan(t)} 4 p 2 ​ t → 0 lim ​ t π ​ tan ( t ) 1 ​ 이렇게 된다. 역시 이제 극한식에서 분모와 분자에 각각 t t t 를 곱해주면 p 2 4 lim ⁡ t → 0 t π tan ⁡ ( t ) \displaystyle \frac{p^{2}}{4}\lim_{t\rightarrow 0}\frac{t}{\pi\tan(t)} 4 p 2 ​ t → 0 lim ​ π tan ( t ) t ​ 가 된다. 상수 π \displaystyle \pi π 를 즉시 극한식 밖으로 빼내주자. 그러면 p 2 4 π lim ⁡ t → 0 t tan ⁡ ( t ) \displaystyle \frac{p^{2}}{4\pi}\lim_{t\rightarrow0}\frac{t}{\tan(t)} 4 π p 2 ​ t → 0 lim ​ tan ( t ) t ​ 가 된다.이제 이 시점에서 로피탈의 정리를 적용하면 p 2 4 π lim ⁡ t → 0 1 sec ⁡ 2 t \displaystyle \frac{p^{2}}{4\pi}\lim_{t\rightarrow 0}\frac{1}{\sec^2 t} 4 π p 2 ​ t → 0 lim ​ sec 2 t 1 ​ 이게 된다. 각각 대입하면 1 1 \displaystyle \frac{1}{1} 1 1 ​ 이므로 답은 p 2 4 π \displaystyle \frac{p^{2}}{4\pi} 4 π p 2 ​ 이다. [15] 일변수 함수의 미적분으로, 한국 고등학교 수학Ⅱ , 미적분Ⅰ 수준. 일변수 미적분 정도는 영어 용어와 강의를 알아들을 수 있는 수준을 갖췄다면 고교수학 수준으로도 충분히 도전할 수 있다. [16] Look before you l'hop라고 개그를 친다. 원본은 물론 Look before you leap. [17] 수열은 정의역이 자연수인 함수이다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

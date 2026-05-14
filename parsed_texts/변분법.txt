@@ -1,0 +1,182 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 변분법
+최근 수정 시각: 2026-04-15 21:22:32 [ [ [ ] [ [ 9 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 미적분
+- 해석학(수학)
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 역사 3 . 변분법의 기본 보조정리 3.1 . 증명 4 . 오일러-라그랑주 방정식 4.1 . 다변수함수의 오일러-라그랑주 방정식 4.2 . 구속 조건이 있는 오일러-라그랑주 방정식 4.2.1 . 일반 구속 조건 4.2.2 . 적분형 구속 조건 4.2.3 . 예제 5 . δ 표기법
+
+1. 개요 [편집]
+변분법 ( 變 分 法 , calculus of variations)은 수학의 한 분야로서 범함수 의 최소 또는 최대를 찾는 방법 등을 가리키는 용어이다. 예를 들어 ( x 1 , y 1 ) (x_1,\,y_1) ( x 1 ​ , y 1 ​ ) 라는 점과 ( x 2 , y 2 ) (x_2,\,y_2) ( x 2 ​ , y 2 ​ ) 라는 점을 연결하는 다양한 곡선들의 집합을 생각해 보자. 이들 중 가장 짧은 것, 즉 두 점 사이의 최단경로는 두 점을 연결한 직선이 된다. 직관적으로는 답을 쉽게 알 수 있지만 그것을 실제로 수학적인 엄밀성을 갖춰 증명하는 것은 쉽지 않다. 또 다른 예로, 일정한 길이의 닫힌 곡선으로 만들 수 있는 도형을 생각해 보자. 무수히 많은 가능한 도형들 중 가장 넓이가 큰 것은 원이 될 것이다. 그러나 그 증명을 위해 모든 가능한 도형들을 만들어 넓이를 비교해 볼 수는 없다.
+
+다양한 물리학 문제가 무언가를 최소화하거나 최대화하는 것을 요구하고 있고 고전역학을 기술하기 위해 도입된 페르마의 원리 , 해밀턴의 원리 등을 실제로 적용하기 위해서는 최소 경로, 최소 시간, 최소 작용 등을 주는 운동을 찾아야 하므로 물리학자들에게 오히려 더 친숙한 수학적인 도구라고도 할 수 있다.
+
+변분법 문제를 푸는 방법은 최적화 문제의 1계 조건에서 얻어지는 방정식의 해를 구하는 것이다. 이 1계 조건이 오일러-라그랑주 방정식 이다. 또한 오일러-라그랑주 방정식은 최적화의 필요조건이므로 그 해가 충분조건도 만족하는지는 2계 조건을 따져 보아야 알 수 있다.
+
+미분방정식의 풀이법인 변수분리법 을 비공식적으로 '변분법'이라고 줄여 말하기도 하므로, 헷갈리지 않게 주의하자.
+
+여담으로 변분법의 발전은 고전 역학의 패러다임을 기하학(Geometry) 중심에서 해석학(Analysis) 중심으로 전환시킨 결정적인 계기가 되었다. 아이작 뉴턴은 1687년《프린키피아》에서 미적분을 활용하면서도 그 증명 방식은 유클리드 기하학적 작도에 의존하였는데, 이는 당시의 엄밀성 기준이 기하학에 있었기 때문이다.
+
+그러나 이후 오일러와 라그랑주가 변분법을 정립하면서, 물리학은 '힘의 화살표'를 그리는 시각적 직관에서 벗어나 '라그랑지안(Lagrangian)'이라는 스칼라 함수를 다루는 대수적 체계로 진화하였다. 이는 라그랑주가 자신의 저서 1788년《해석역학》 서문에서 "이 책에는 단 하나의 도판(그림)도 들어있지 않다"고 선언한 것에서 극명하게 나타난다. 이로써 수학은 시각적 궤적의 제약에서 벗어나 추상적인 다차원 공간에서도 논리적 엄밀함을 유지할 수 있게 되었다.
+
+2. 역사 [편집]
+1687년 뉴턴은 프린키피아 에서 유체 내부에서 운동하는 물체의 저항을 최소로 만드는 표면의 모양에 대해서 논의한다. 이를 변분법의 시초라고 볼 것인지에 대해선 사람마다 의견이 다르다.
+
+변분법은 1696년 6월 요한 베르누이 가 《새 문제의 해법을 위하여 수학자들이 초대되다》( Problema novum ad cuius solutionem Mathematici invitantur )라는 제목으로 '박식한 자들의 행동'( Acta Eruditorum )이라는 학술지에 최속 하강 곡선(Brachistochrone curve) 문제를 다른 수학자들에게 난제로 제시하면서 시작되었다. 이 문제에 대해 라이프니츠 , 아이작 뉴턴 , 요한 베르누이 자신, 야코프 베르누이 , 로피탈 등이 답을 제출하였다. 그 중에서 야코프 베르누이가 답을 구한 방식이 변분법의 아이디어의 단초가 되었다.
+
+본격적인 변분법에 대한 연구는 오일러 부터 시작되며 변분법이라는 이름도 오일러의 저서에서 비롯된다. 이후에 천재 소년 라그랑주 가 오일러의 저서를 보고 연구하여 자신만의 개선점을 오일러에게 편지로 알리자 오일러가 자신의 방법을 버리고 라그랑주의 방법을 받아들였다는 것은 유명한 일화다. [1] 그래서 1계 조건 방정식이 오일러-라그랑주 방정식이라고 불린다.
+
+이후에 야코비 , 바이어슈트라스 등의 수학자들이 2계 조건에 관한 연구를 진척시켰다. 특히 힐베르트의 23가지 문제 중 마지막 변분법에 대한 문제는 그 문제를 설명하면서 힐베르트 가 2계 충분 조건의 기존 성과를 정리하고 자신의 연구결과를 덧붙이는 것을 발표하는 것으로 사실상 문제 아닌 문제가 되어버렸다. 이후 변분법은 좀더 유연한 최적제어론 (Optimal control)과 동적 계획법 (Dynamic programming)으로 계승되어 발전된다.
+
+3. 변분법의 기본 보조정리 [편집]
+변분법의 기본 보조정리(Fundamental Lemma of Calculus of Variations)는 오일러-라그랑주 방정식 의 증명에 있어서 핵심적인 보조정리이다.
+
+f ⁣ : [ a , b ] → R f\colon [a,\,b] \to \Bbb R f : [ a , b ] → R 이 연속함수 이고, 컴팩트 지지이자 매끄러운 임의의 함수 η ( x ) \eta(x) η ( x ) 에 대하여 다음이 성립한다고 하자, ∫ a b f ( x ) η ( x ) d x = 0 \displaystyle \int_a^b f(x)\eta(x){\rm\,d}x=0 ∫ a b ​ f ( x ) η ( x ) d x = 0
+
+그러면, f ( x ) ≡ 0 f(x) \equiv 0 f ( x ) ≡ 0 이다.
+
+참고로, 매끄러운 함수는 무한번 미분가능한 함수를 뜻하고, 컴팩트 지지 함수는 { x ∈ R ∣ η ( x ) ≠ 0 } \{x\in\mathbb R\mid\eta(x)\ne0\} { x ∈ R ∣ η ( x )  = 0 } 의 폐포(closure)가 유계인 것을 의미한다.
+
+컴팩트 지지 대신에 좀 더 약한 조건인 c ∉ ( a , b ) c\notin(a,\,b) c ∈ / ( a , b ) 인 모든 점 c c c 에 관해 η ( c ) = 0 \eta(c)=0 η ( c ) = 0 인 조건을 넣기도 한다.
+
+3.1. 증명 [편집]
+f ( x ) ≢ 0 f(x) \not\equiv 0 f ( x )  ≡ 0 이라 가정하자. 편의상 x = ξ x = \xi x = ξ 의 근방 N = { x ∈ [ a , b ] ⁣ : ξ 1 < x < ξ 2 } {\cal N} = \{x \in [a,\,b] \colon \xi_1 < x < \xi_2 \} N = { x ∈ [ a , b ] : ξ 1 ​ < x < ξ 2 ​ } 에서 f ( x ) > 0 f(x)>0 f ( x ) > 0 이라 하자.
+이때, 위에서 언급하였던 조건보다 약화되어 두 번 미분가능한 함수에 대해 위 명제를 보일 것이다. [2] η ( x ) = ( x − ξ 1 ) 4 ( x − ξ 2 ) 4 1 N ( x ) \eta(x) = (x - \xi_1)^4(x - \xi_2)^4 \bm1_{\cal N}(x) η ( x ) = ( x − ξ 1 ​ ) 4 ( x − ξ 2 ​ ) 4 1 N ​ ( x ) [3] 이라 하자.
+
+그러면, ∫ a b f ( x ) η ( x ) d x = ∫ a ξ 1 f ( x ) η ( x ) d x + ∫ ξ 1 ξ 2 f ( x ) η ( x ) d x + ∫ ξ 2 b f ( x ) η ( x ) d x = ∫ ξ 1 ξ 2 f ( x ) η ( x ) d x \begin{aligned} \int_a^b f(x)\eta(x){\rm\,d}x &= \int_a^{\xi_1} f(x)\eta(x){\rm\,d}x + \int_{\xi_1}^{\xi_2} f(x)\eta(x){\rm\,d}x + \int_{\xi_2}^b f(x)\eta(x){\rm\,d}x \\ &= \int_{\xi_1}^{\xi_2} f(x)\eta(x){\rm\,d}x \end{aligned} ∫ a b ​ f ( x ) η ( x ) d x ​ = ∫ a ξ 1 ​ ​ f ( x ) η ( x ) d x + ∫ ξ 1 ​ ξ 2 ​ ​ f ( x ) η ( x ) d x + ∫ ξ 2 ​ b ​ f ( x ) η ( x ) d x = ∫ ξ 1 ​ ξ 2 ​ ​ f ( x ) η ( x ) d x ​
+
+여기서 f f f , η \eta η 모두 N \cal N N 에서 양의 부호를 가지므로, 적분의 성질에 의해 N \cal N N 위의 적분 ∫ ξ 1 ξ 2 f ( x ) η ( x ) d x \displaystyle \int_{\xi_1}^{\xi_2} f(x)\eta(x){\rm\,d}x ∫ ξ 1 ​ ξ 2 ​ ​ f ( x ) η ( x ) d x 도 양의 부호를 갖는다.
+따라서 ∫ a b f ( x ) η ( x ) d x > 0 \displaystyle \int_a^b f(x)\eta(x){\rm\,d}x > 0 ∫ a b ​ f ( x ) η ( x ) d x > 0 인데, 이는 가정에서 ∫ a b f ( x ) η ( x ) d x = 0 \displaystyle \int_a^b f(x)\eta(x){\rm\,d}x = 0 ∫ a b ​ f ( x ) η ( x ) d x = 0 라고 한 것과 모순이다.
+같은 논지로 f < 0 f<0 f < 0 인 경우도 증명할 수 있다.
+그러므로 f ( x ) ≡ 0 f(x) \equiv 0 f ( x ) ≡ 0 이다.
+
+4. 오일러-라그랑주 방정식 [편집]
+자세한 내용은 오일러-라그랑주 방정식 문서를 참고하십시오. 변수를 하나만 가지는 함수 y ( x ) y(x) y ( x ) 와 그 도함수 y ′ ( x ) y'(x) y ′ ( x ) 를 변수로 가지는 어떤 범함수 (functional) J = ∫ x 1 x 2 f { y ( x ) , y ′ ( x ) , x } d x \displaystyle J = \int_{x_1}^{x_2} f\{y(x),\,y'(x),\, x \}{\rm\,d}x J = ∫ x 1 ​ x 2 ​ ​ f { y ( x ) , y ′ ( x ) , x } d x
+
+의 극값(극소 또는 극대)가 될 때, f f f 가 만족하는 미분방정식은 다음과 같다. ∂ f ∂ y − d d x ∂ f ∂ y ′ = 0 \dfrac{\partial f}{\partial y} - \dfrac{\rm d}{{\rm d}x}\dfrac{\partial f}{\partial y'} = 0 ∂ y ∂ f ​ − d x d ​ ∂ y ′ ∂ f ​ = 0
+
+이를 오일러-라그랑주 방정식 이라 한다.
+
+4.1. 다변수함수의 오일러-라그랑주 방정식 [편집]
+범함수 J J J 가 y ( x ) y(x) y ( x ) 뿐만 아니라 다른 변수 y 1 ( x ) , y 2 ( x ) , y 3 ( x ) , ⋯ y_1(x),\,y_2(x),\,y_3(x),\,\cdots y 1 ​ ( x ) , y 2 ​ ( x ) , y 3 ​ ( x ) , ⋯ 등을 가지는 다변수함수 일 수도 있다. 이때는 단순히 각 변수에 대해 오일러-라그랑주 방정식을 여러 번 써 주면 된다. 예를 들어 J = ∫ x 1 x 2 f { y ( x ) , y ′ ( x ) , z ( x ) , z ′ ( x ) , x } d x \displaystyle J = \int_{x_1}^{x_2} f\{y(x),\,y'(x),\,z(x),\,z'(x),\,x\}{\rm\,d}x J = ∫ x 1 ​ x 2 ​ ​ f { y ( x ) , y ′ ( x ) , z ( x ) , z ′ ( x ) , x } d x
+
+가 극값이 될 때 f f f 가 만족하는 미분방정식은 다음 연립방정식이다. { ∂ f ∂ y − d d x ∂ f ∂ y ′ = 0 ∂ f ∂ z − d d x ∂ f ∂ z ′ = 0 \begin{cases} \cfrac{\partial f}{\partial y} - \cfrac{\rm d}{{\rm d}x}\cfrac{\partial f}{\partial y'} = 0 \\ \cfrac{\partial f}{\partial z} - \cfrac{\rm d}{{\rm d}x}\cfrac{\partial f}{\partial z'} = 0 \end{cases} ⎩ ⎨ ⎧ ​ ∂ y ∂ f ​ − d x d ​ ∂ y ′ ∂ f ​ = 0 ∂ z ∂ f ​ − d x d ​ ∂ z ′ ∂ f ​ = 0 ​
+
+일반적으로 간단히 J = ∫ x 1 x 2 f { y i ( x ) , y i ′ ( x ) , x } d x ( i = 1 , 2 , ⋯ , n ) \displaystyle J = \int_{x_1}^{x_2} f\{ y_i(x),\,{y_i}'(x),\,x\}{\rm\,d}x \quad (i=1,\,2,\,\cdots,\,n) J = ∫ x 1 ​ x 2 ​ ​ f { y i ​ ( x ) , y i ​ ′ ( x ) , x } d x ( i = 1 , 2 , ⋯ , n ) 가 극값이 되는 f f f 는 다음 연립방정식이 성립한다. ∂ f ∂ y i − d d x ∂ f ∂ y i ′ = 0 \dfrac{\partial f}{\partial y_i} - \dfrac{\rm d}{{\rm d}x}\dfrac{\partial f}{\partial {y_i}'} = 0 ∂ y i ​ ∂ f ​ − d x d ​ ∂ y i ​ ′ ∂ f ​ = 0
+
+4.2. 구속 조건이 있는 오일러-라그랑주 방정식 [편집]
+라그랑주 승수법 에 의하면, 어떤 조건 g ( x , y , z ) = 0 g(x,\,y,\,z)=0 g ( x , y , z ) = 0 을 만족할 때 f ( x , y , z ) f(x,\,y,\,z) f ( x , y , z ) 의 극값의 좌표는, 어떤 실수 λ \lambda λ 가 존재하여 다음 식을 만족한다. ∇ f ( x , y , z ) + λ ∇ g ( x , y , z ) = 0 \bm\nabla f(x,\,y,\,z) + \lambda \bm\nabla g(x,\,y,\,z) = 0 ∇ f ( x , y , z ) + λ ∇ g ( x , y , z ) = 0
+
+그러면 위 식에서 나온 3개의 연립방정식과 구속 조건 g ( x , y , z ) = 0 g(x,\,y,\,z)=0 g ( x , y , z ) = 0 까지 4개의 식을 연립하여 x x x , y y y , z z z , λ \lambda λ 를 구하면 된다. 구속 조건이 있는(contrained) 오일러-라그랑주 방정식도 비슷한 방법으로 풀 수 있다.
+
+4.2.1. 일반 구속 조건 [편집]
+비슷한 원리로, 구속 조건 g ( y , x ) = 0 g(y,\,x)=0 g ( y , x ) = 0 을 만족하는 범함수 J = ∫ x 1 x 2 f { y ( x ) , y ′ ( x ) , x } d x \displaystyle J = \int_{x_1}^{x_2} f\{y(x),\,y'(x),\,x\}{\rm\,d}x J = ∫ x 1 ​ x 2 ​ ​ f { y ( x ) , y ′ ( x ) , x } d x 가 극값이 될 때, 어떤 함수 λ ( x ) \lambda(x) λ ( x ) 가 존재하여 다음 방정식을 만족한다. ∂ f ∂ y − d d x ∂ f ∂ y ′ + λ ( x ) ∂ g ∂ y = 0 \dfrac{\partial f}{\partial y} - \dfrac{\rm d}{{\rm d}x} \dfrac{\partial f}{\partial y'} + \lambda(x)\dfrac{\partial g}{\partial y} = 0 ∂ y ∂ f ​ − d x d ​ ∂ y ′ ∂ f ​ + λ ( x ) ∂ y ∂ g ​ = 0
+
+그런 다음 구속 조건 g = 0 g=0 g = 0 이랑 연립해서 y y y 와 λ \lambda λ 를 둘 다 구할 수 있다.
+
+일반적으로, f f f 가 여러 변수 y 1 , y 2 , ⋯ , y m y_1,\,y_2,\,\cdots,\,y_m y 1 ​ , y 2 ​ , ⋯ , y m ​ 의 함수이고, 구속 조건도 g 1 , g 2 , ⋯ , g n g_1,\,g_2,\,\cdots,\,g_n g 1 ​ , g 2 ​ , ⋯ , g n ​ 으로 여러 개라면, J J J 가 극값이 되는 방정식은 다음과 같다. (각각의 i i i 마다 성립하는 m m m 개의 연립 방정식이고, 서로 다른 어떤 함수 λ 1 , λ 2 , ⋯ , λ n \lambda_1,\,\lambda_2,\,\cdots,\,\lambda_n λ 1 ​ , λ 2 ​ , ⋯ , λ n ​ 가 존재한다.) ∂ f ∂ y i − d d x ∂ f ∂ y i ′ + λ j ( x ) ∂ g j ∂ y i = 0 \dfrac{\partial f}{\partial y_i} - \dfrac{\rm d}{{\rm d}x} \dfrac{\partial f}{\partial{y_i}'} + \lambda_j(x)\dfrac{\partial g_j}{\partial y_i} = 0 ∂ y i ​ ∂ f ​ − d x d ​ ∂ y i ​ ′ ∂ f ​ + λ j ​ ( x ) ∂ y i ​ ∂ g j ​ ​ = 0
+
+그러면 위 m m m 개의 연립 방정식과 n n n 개의 구속 조건 g j = 0 g_j = 0 g j ​ = 0 를 연립해서 y 1 , y 2 , ⋯ , y m , λ 1 , λ 2 , ⋯ , λ n y_1,\,y_2,\,\cdots,\,y_m,\,\lambda_1,\,\lambda_2,\,\cdots,\,\lambda_n y 1 ​ , y 2 ​ , ⋯ , y m ​ , λ 1 ​ , λ 2 ​ , ⋯ , λ n ​ 을 구할 수 있다. ( m + n m+n m + n 개의 식이 있으므로 m + n m+n m + n 개의 미지수를 풀 수 있다.)
+
+4.2.2. 적분형 구속 조건 [편집]
+범함수 J J J 가 있을 때, 가끔 구속 조건이 단순한 y , x y,\,x y , x 에 대한 함수가 아니라 다음과 같은 적분으로 정의된 범함수의 꼴일 수도 있다. K = ∫ x 1 x 2 g { y ( x ) , y ′ ( x ) , x } d x \displaystyle K = \int_{x_1}^{x_2} g\{y(x),\,y'(x),\,x\}{\rm\,d}x K = ∫ x 1 ​ x 2 ​ ​ g { y ( x ) , y ′ ( x ) , x } d x
+
+이런 경우 푸는 방법은 더 쉬워진다. 그냥 어떤 실수 λ \lambda λ 가 존재하여 J + λ K J + \lambda K J + λ K 가 극값이 되면 된다. 즉, ∫ x 1 x 2 ( f + λ g ) d x \displaystyle \int_{x_1}^{x_2}(f + \lambda g){\rm\,d}x ∫ x 1 ​ x 2 ​ ​ ( f + λ g ) d x 가 극값을 가지면 된다. 이때 만족하는 방정식은 다음과 같이 될 것이다. ∂ f ∂ y − d d x ∂ f ∂ y ′ + λ ( ∂ g ∂ y − d d x ∂ g ∂ y ′ ) = 0 \dfrac{\partial f}{\partial y} - \dfrac{\rm d}{{\rm d}x} \dfrac{\partial f}{\partial y'} + \lambda{\left(\dfrac{\partial g}{\partial y} - \dfrac{\rm d}{{\rm d}x}\dfrac{\partial g}{\partial y'}\right)} = 0 ∂ y ∂ f ​ − d x d ​ ∂ y ′ ∂ f ​ + λ ( ∂ y ∂ g ​ − d x d ​ ∂ y ′ ∂ g ​ ) = 0
+
+4.2.3. 예제 [편집]
+
+5. δ 표기법 [편집]
+가끔 변분법에서 범함수 J J J 에 대해서 ∂ x ∂ α d α \cfrac{\partial x}{\partial \alpha}{\rm\,d}\alpha ∂ α ∂ x ​ d α 를 간단히 δ \delta δ (델타)를 사용해 δ x \delta x δ x 로 표기하기도 한다. 설명하자면 δ \delta δ 는 무한소만큼 벗어난 매개변수에 대한 차이이다. 예를 들어, 오일러-라그랑주 방정식의 유도 과정 에서 다음 식을 보자. (먼저 오일러-라그랑주 방정식 문서를 읽고 와야 이해하기 쉽다) ∂ J ∂ α = ∫ x 1 x 2 ( ∂ f ∂ y − d d x ∂ f ∂ y ′ ) η ( x ) d x \displaystyle \frac{\partial J}{\partial \alpha} = \int_{x_1}^{x_2} {\left( \frac{\partial f}{\partial y} - \frac{\rm d}{{\rm d}x} \frac{\partial f}{\partial y'} \right)} \eta(x){\rm\,d}x ∂ α ∂ J ​ = ∫ x 1 ​ x 2 ​ ​ ( ∂ y ∂ f ​ − d x d ​ ∂ y ′ ∂ f ​ ) η ( x ) d x
+
+여기서 관계식 η ( x ) = ∂ y ∂ α \eta (x) = \cfrac{\partial y}{\partial \alpha} η ( x ) = ∂ α ∂ y ​ 를 대입하고 양변에 d α {\rm d}\alpha d α 를 곱하면 다음과 같은 형태로 쓸 수 있다. ∂ J ∂ α d α = ∫ x 1 x 2 ( ∂ f ∂ y − d d x ∂ f ∂ y ′ ) ∂ y ∂ α d α d x \displaystyle \frac{\partial J}{\partial \alpha}{\rm\,d}\alpha = \int_{x_1}^{x_2} {\left( \frac{\partial f}{\partial y} - \frac{\rm d}{{\rm d}x} \frac{\partial f}{\partial y'} \right)} \frac{\partial y}{\partial \alpha}{\rm\,d}\alpha{\rm\,d}x ∂ α ∂ J ​ d α = ∫ x 1 ​ x 2 ​ ​ ( ∂ y ∂ f ​ − d x d ​ ∂ y ′ ∂ f ​ ) ∂ α ∂ y ​ d α d x
+
+이것을 δ \delta δ 표기법으로 쓰면 다음과 같다. δ J = ∫ x 1 x 2 ( ∂ f ∂ y − d d x ∂ f ∂ y ′ ) δ y d x \displaystyle \delta J = \int_{x_1}^{x_2} {\left( \frac{\partial f}{\partial y} - \frac{\rm d}{{\rm d}x} \frac{\partial f}{\partial y'} \right)}\,\delta y{\rm\,d}x δ J = ∫ x 1 ​ x 2 ​ ​ ( ∂ y ∂ f ​ − d x d ​ ∂ y ′ ∂ f ​ ) δ y d x
+
+이때, δ y \delta y δ y 를 y y y 의 변분 (variation)이라고 한다. 여기서 δ y \delta y δ y 가 의미하는 것은 실제 경로 y ( 0 , x ) y(0,\,x) y ( 0 , x ) 에서 무한소만큼 살짝 벗어난 경로와의 차이이다. 오일러-라그랑주 방정식에서와 마찬가지로, 이것은 임의의 δ y \delta y δ y 에 대하여 0이 되어야 한다. 따라서 J J J 가 극값을 가진다는 것은 다시 말하면 δ J = 0 \delta J = 0 δ J = 0 으로도 쓸 수 있다. 따라서 다음은 모두 동치이다. δ J = 0 ⟺ ∂ J ∂ α ∣ α = 0 = 0 ⟺ ∂ f ∂ y i − d d x ∂ f ∂ y i ′ = 0 \begin{aligned} \delta J = 0 &\Longleftrightarrow {\left. \frac{\partial J}{\partial \alpha} \right|}_{\alpha = 0} = 0 \\ &\Longleftrightarrow \frac{\partial f}{\partial y_i} - \frac{\rm d}{{\rm d}x}\frac{\partial f}{\partial {y_i}'} = 0 \end{aligned} δ J = 0 ​ ⟺ ∂ α ∂ J ​ ​ α = 0 ​ = 0 ⟺ ∂ y i ​ ∂ f ​ − d x d ​ ∂ y i ​ ′ ∂ f ​ = 0 ​
+
+그런데 여기까지만 보면 그냥 표기법만 달라진 것인데 굳이 왜 δ \delta δ 를 쓰는지 잘 이해가 되지 않을 수 있다. 지금까지 계속 '무한소만큼 벗어난 매개변수에 대한 차이'라는 표현을 썼는데, 이것이 직관적으로 의미하는 것이 무엇인지 알아보자. 예를 들어 δ y \delta y δ y 는 다음 그림과 같다.
+
+즉, δ y \delta y δ y 는 아주아주 살짝 벗어난 경로와의 차이라고 이해하면 된다. 이때 J J J 의 차이는 δ J \delta J δ J 이다. 그런데 J J J 의 정의를 보자. J = ∫ x 1 x 2 f { y ( x ) , y ′ ( x ) , x } d x \displaystyle J = \int_{x_1}^{x_2} f\{y(x),\,y'(x),\,x\}{\rm\,d}x J = ∫ x 1 ​ x 2 ​ ​ f { y ( x ) , y ′ ( x ) , x } d x
+
+이 식에서 f f f 는 y ( x ) y(x) y ( x ) , y ′ ( x ) y'(x) y ′ ( x ) , x x x 의 함수이다. 그런데 y ( x ) y(x) y ( x ) , y ′ ( x ) y'(x) y ′ ( x ) 는 또 x x x 의 함수이다. 이때 y ( x ) y(x) y ( x ) , y ′ ( x ) y'(x) y ′ ( x ) 가 f \bm f f 의 변수 (variable)이며, x x x 는 매개변수 (parameter)이다. 그런데 변분이란 α \alpha α 에 대한 작은 변화를 보는 것이다. 알다시피 y y y , y ′ y' y ′ 만이 α \alpha α 의 함수이고 x x x 와는 독립이다. 즉 매개변수인 x x x 는 제외하고 변수인 y y y 와 y ′ y' y ′ 의 변화만 보겠다는 것이다. 즉 변분은 변동만 고려하는 일종의 전미분 과 비슷하다. 그래서 변분법을 영어로 ' 변분 의 미적분학'(calculus of variations )이라고 하는 것이다. 따라서 전미분과의 차이는 다음과 같다. - 전미분 d f {\rm d}f d f
+d f = ∂ f ∂ y d y + ∂ f ∂ y ′ d y ′ + ∂ f ∂ x d x {\rm d}f = \cfrac{\partial f}{\partial y}{\rm\,d}y + \cfrac{\partial f}{\partial y'}{\rm\,d}y' + \cfrac{\partial f}{\partial x}{\rm\,d}x d f = ∂ y ∂ f ​ d y + ∂ y ′ ∂ f ​ d y ′ + ∂ x ∂ f ​ d x
+- 변분 δ f \delta f δ f
+δ f = ∂ f ∂ y ∂ y ∂ α d α + ∂ f ∂ y ′ ∂ y ′ ∂ α d α = ∂ f ∂ y δ y + ∂ f ∂ y ′ δ y ′ \begin{aligned}\delta f &= \frac{\partial f}{\partial y}\frac{\partial y}{\partial\alpha}{\rm\,d}\alpha + \frac{\partial f}{\partial y'}\frac{\partial y'}{\partial\alpha}{\rm\,d}\alpha \\ &= \frac{\partial f}{\partial y}\,\delta y + \frac{\partial f}{\partial y'}\,\delta y'\end{aligned} δ f ​ = ∂ y ∂ f ​ ∂ α ∂ y ​ d α + ∂ y ′ ∂ f ​ ∂ α ∂ y ′ ​ d α = ∂ y ∂ f ​ δ y + ∂ y ′ ∂ f ​ δ y ′ ​
+
+그러면 δ \delta δ 표기법을 써서 오일러-라그랑주 방정식을 증명할 수도 있다. δ J = ∫ x 1 x 2 δ f d x = ∫ x 1 x 2 ( ∂ f ∂ y δ y + ∂ f ∂ y ′ δ y ′ ) d x \displaystyle \delta J = \int_{x_1}^{x_2} \delta f{\rm\,d}x = \int_{x_1}^{x_2} {\left( \frac{\partial f}{\partial y}\,\delta y + \frac{\partial f}{\partial y'}\,\delta y'\right)}{\rm\,d}x δ J = ∫ x 1 ​ x 2 ​ ​ δ f d x = ∫ x 1 ​ x 2 ​ ​ ( ∂ y ∂ f ​ δ y + ∂ y ′ ∂ f ​ δ y ′ ) d x
+
+그런데, δ y ′ = ( δ y ) ′ \delta y' = (\delta y)' δ y ′ = ( δ y ) ′ 이 성립한다. 따라서 오일러-라그랑주 방정식에서 했던 것처럼 두 번째 항을 부분적분하면 δ J = ∫ x 1 x 2 ( ∂ f ∂ y − d d x ∂ f ∂ y ′ ) δ y d x \displaystyle \delta J = \int_{x_1}^{x_2} {\left( \frac{\partial f}{\partial y} - \frac{\rm d}{{\rm d}x} \frac{\partial f}{\partial y'} \right)}\,\delta y{\rm\,d}x δ J = ∫ x 1 ​ x 2 ​ ​ ( ∂ y ∂ f ​ − d x d ​ ∂ y ′ ∂ f ​ ) δ y d x
+
+따라서 δ J = 0 \delta J = 0 δ J = 0 이 되려면 괄호 안이 0이 되어야 하고 오일러-라그랑주 방정식을 얻는다.
+
+다만 주의할 것은, 이 표기법은 그저 편리를 위해 간단히 줄여 쓴 것일 뿐이지 수학적으로 아주 엄밀한 것은 아니라는 것이다. 그래서 이 표기법은 주로 물리학 에서 사용한다. [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 2021 우수업체 우먼카
+www.happy-car.kr v-if
+15년연속 고객만족 최우수업체, TV출연 여성CEO운영, 수원중고차 실매물 5만대
+
+] | [ 인천남동구,서울365치과의원
+seoul365dental.com v-if
+박준규 대표원장, 인천 남동구 예술로 138 212~214호
+
+]
+
+[1] 현재의 변분법 과목에서도 라그랑주의 아이디어를 이용해서 1계 조건을 도출하는 방법을 설명한다. [2] 매끄러운 함수 버전일 때는 exp ⁡ ( − 1 1 − x 2 ) \exp(-\frac{1}{1-x^2}) exp ( − 1 − x 2 1 ​ ) 를 적절히 변형한 함수를 쓴다. [3] 1 N \bm1_{\cal N} 1 N ​ 은 근방 N \cal N N 에 속하는 원소인지를 판별하는 지시함수 이다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

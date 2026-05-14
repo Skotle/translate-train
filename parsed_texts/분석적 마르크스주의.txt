@@ -1,0 +1,166 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 분석적 마르크스주의
+최근 수정 시각: 2026-02-06 21:37:09 [ [ [ ] [ v-if ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 마르크스주의
+]
+
+[ [ ] [ 마르크스주의
+[ 이론 전반 ] 개념
+기초 | 변증법 · 변증법적 유물론 · 사적 유물론
+경제학 | 노동가치론 · 추상적 노동과 구체적 노동 · 사회적 필요 노동 시간 · 가치법칙 · 가치형태 · 사용가치 · 교환가치 · 잉여가치 · 잉여노동 · 잉여생산 · 생산수단 · 생산양식 ( 자본주의 · 사회주의 ) · 생산력 · 생산관계 · 상품 ( 상품물신성 · 상품생산 ) · 착취 · 임금노동 · 자본 ( 자본축적 · 자본의 유기적 구성 ) · 재생산 · 과잉생산 · 과잉축적 · 이윤율의 경향적 저하법칙 · 공황 · 국가독점자본주의 · 제국주의 · 산업예비군
+사회학 | 소외론 · 계급 ( 노동계급 · 자본가계급 · 소자산계급 · 룸펜프롤레타리아트 ) · 계급의식 · 계급투쟁 · 허위의식 · 국가론 ( 부르주아 독재 · 프롤레타리아 독재 ) · 사회구성체 ( 원시공산제 · 자본주의 사회구성체 · 공산주의 사회 ) · 헤게모니 · 사회적 재생산 · 토대와 상부구조 · 여성해방론
+역사학 | 본원적 축적 · 부르주아 혁명 · 프롤레타리아 혁명 · 세계 혁명
+
+[ 분파 ] ? : 레닌주의 계열인지 논란 있음
+혁명적 마르크스주의
+레닌주의 | 볼셰비키-레닌주의 | 볼셰비키-레닌주의 · 파블로주의 · 신트로츠키주의 ( 클리프주의 ) · 제3의 진영
+마르크스-레닌주의 | 마르크스-레닌주의 · 마오주의 · 마르크스-레닌-마오주의 ( 곤살로 사상 ) · 카스트로주의 ? · 호자주의 · 호찌민 사상 ? · 주체사상 ?
+기타 | 좌파공산주의 (이탈리아 경향)
+기타 | 좌파공산주의 (네덜란드-독일 경향) · 룩셈부르크주의 · 불가능주의
+서구 마르크스주의
+서구 마르크스주의 · 프랑크푸르트 학파 · 구조적 마르크스주의
+자유지상주의적 마르크스주의
+드레온주의 · 자율주의
+기타 계열
+중도 마르크스주의 · 분석적 마르크스주의 · 유럽공산주의 · 포스트 마르크스주의 · 생태마르크스주의
+
+[ 인물 ] 이론가
+창시자 | 카를 마르크스 · 프리드리히 엥겔스
+경제학 | 블라디미르 레닌 · 니콜라이 부하린 · 예브게니 프레오브라젠스키 · 니콜라이 차골로프 · 루돌프 힐퍼딩 · 에르네스트 만델 · 폴 스위지 · 김수행 · 프레드 모즐리 · 성두현
+정치이론 | 카를 카우츠키 · 블라디미르 레닌 · 로자 룩셈부르크 · 레프 트로츠키 · 마오쩌둥 · 안토니오 그람시 · 조르주 소렐 · 토니 클리프 · 루이 알튀세르 · 니코스 풀란차스 · 핼 드레이퍼
+철학 | 게오르기 플레하노프 · 게오르크 루카치 · 안토니오 그람시 · 테오도어 아도르노 · 장폴 사르트르 · 알랭 바디우 · 가라타니 고진 · 알렉스 캘리니코스 · 슬라보예 지젝 · 마크 피셔
+비판이론 | 막스 호르크하이머 · 테오도어 아도르노 · 헤르베르트 마르쿠제
+미학 | 게오르크 루카치 · 발터 벤야민 · 테오도어 아도르노
+분석적 마르크스주의 | 제럴드 앨런 코헨 · 욘 엘스터 · 존 로머 · 에릭 올린 라이트 · 필리프 판 파레이스
+심리학 | 레프 비고츠키 · 빌헬름 라이히 · 에리히 프롬
+역사학 | 에릭 홉스봄 · E. P. 톰슨 · 이매뉴얼 월러스틴
+지리학 | 앙리 르페브르 · 데이비드 하비
+생태학 | 존 벨라미 포스터 · 제임스 오코너 · 사이토 고헤이
+여성학 | 클라라 체트킨 · 알렉산드라 콜론타이 · 앤절라 데이비스 · 실비아 페데리치 · 우에노 치즈코
+
+1 . 개요 2 . 대표적인 학자 3 . 핵심 이론 및 방법론 4 . 주요 저서 및 논문 5 . 도덕·규범철학 논의 6 . 분석적 마르크스주의에 대한 비판 7 . 참고
+
+1. 개요 [편집]
+분석적 마르크스주의 (Analytical Marxism)는 1970년대 후반 영미권의 철학자와 사회과학자들을 중심으로 등장한 마르크스주의 이론 경향으로, 전통적 마르크스주의의 핵심 명제를 분석철학 적 개념 분석 과 신고전파 경제학 의 방법론을 통해 재검토하고 발전시키고자 한다. [1]
+
+이는 마르크스주의와 이른바 "부르주아 사회과학" 사이에 근본적인 방법론적 단절이 있다는 전통적 견해를 거부하고, 오히려 논리적 엄밀성(logical rigor)과 명료한 개념 규정 및 경험적 검증을 중시하는 접근법을 취한다. [2] 분석적 마르크스주의자들은 마르크스의 주장을 과학적 기준에 따라 명확하게 서술하고 논증해야 반박과 토론이 가능하다고 보며, 모호하거나 변증법만을 내세우는 기존 마르크스주의 이론 풍토를 비판하였다. [3]
+
+이들은 이론의 논리적 일관성과 개념들의 정확한 의미를 중시하고, 전통적 마르크스주의 명제들이 논리적으로 어떤 조건에서 성립하는지 엄밀히 따져보는 작업을 수행하였다. 또한 마르크스주의 이론이 함축하는 규범적 가치(평등, 공동체 등)를 솔직하게 인정하고 분석하며, 자본주의를 대체할 사회주의적 대안 설계에도 관심을 두는 점에서 기존의 마르크스주의와 구별된다. 요컨대, 분석적 마르크스주의는 전통적 마르크스주의의 주요 주제(역사 발전, 계급, 착취 등)는 공유하되, 그것들을 다루는 방법론에서 비판적이고 개방적인 태도를 취함으로써 형성된 사조이다. [4]
+
+마르크스주의자들 이외에도 힐렐 슈타이너 , 앤드루 레빈, 사무엘 보울즈 등 여러 학자가 이 그룹과 교류하였다. 이들은 매년 "9월 그룹(September Group)"이라는 워크숍 모임에서 연구 성과를 공유하였는데, 초기에는 스스로를 일컬어 "개소리 없는 마르크스주의 그룹(Non-Bullshit Marxism Group)" 이라고 부르기도 했다. [5]
+
+이들은 전통적 마르크스주의의 교조적·변증법적 방식을 벗어나 분석철학의 논리적 언어분석과 사회과학적 방법론을 도입하려고 시도하였다. 존 로머, 욘 엘스터, G. A. 코헨 등 대표적 학자들은 역사유물론, 계급, 착취를 애매한 변증법 대신 합리적 선택이론, 게임이론, 방법론적 개인주의로 설명 가능하게 만들고 평등과 정의의 개념의 규범적 근거를 탐구하며 마르크스의 특정한 주장들은 결정론적 해석에서 벗어나 인과적, 설명적 이론으로 재해석되어, 그 결과 '필연적 역사 발전'과 같은 신화를 걷어냈다는 평가를 받는다. 전통적 마르크스주의로부터는 "개혁적이고 환원적"이라는 비판을 받지만, 이를 통해 마르크스주의를 현대 자유주의 정치철학, 게임이론, 합리적 선택이론과 같은 현대 사상과 대화할 수 있는 형태로 발전시켰으며 동구권 붕괴 이후 영향력이 약화하였으나, 마르크스 담론을 현대 사회과학의 언어로 번역한 시도로 자리매김했으며, 오늘날에도 정의론, 분배철학 논의 속에서 일련의 전환점으로 평가되고 있다.
+
+이하 아래 서술은 스탠퍼드 철학 백과사전 과 브리태니커 대백과사전 에 수록된 분석적 마르크스주의 관련 문서를 주요 참고 자료로 하여 작성하였다.
+
+2. 대표적인 학자 [편집]
+분석적 마르크스주의 흐름에는 여러 분야의 학자들이 참여했다. 주요 인물로는 다음과 같다:
+- 제럴드 앨런 코헨 – 영국 출신 캐나다 철학자로, 분석적 마르크스주의의 효시 가운데 한 명이다. 그의 저서 《마르크스 역사의 이론: 변호 Karl Marx's Theory of History: A Defence》 (1978)은 마르크스의 역사유물론을 기능적 방식으로 해석·옹호하여 이 흐름의 출발점을 마련했다. 코헨은 생산력과 생산관계의 관계를 기능적 설명으로 파악함으로써 마르크스 이론의 논리적 난점을 해결하려 했으며, [6] 이후 마르크스주의와 평등주의에 관한 규범철학 논의에도 크게 기여했다.
+
+- 욘 엘스터 – 노르웨이 출신의 사회과학자이며 정치철학자이다. 그는 《마르크스 이해하기 Making Sense of Marx》 (1985)에서 합리적 선택 이론과 방법론적 개체주의의 관점으로 마르크스 이론을 종합적으로 재평가하였다. 엘스터는 코헨의 기능적 역사설명을 비판하며, 모든 사회과학적 설명은 개별 행위자의 인과적 행동에 기반해야 한다고 주장했다. [7]
+그는 노동가치론 등 전통 이론의 많은 부분을 폐기하고 명확한 인과적 메커니즘에 입각한 설명만을 채택함으로써, 마르크스주의를 보다 과학적으로 만들고자 했다.
+
+- 존 로머 – 미국의 경제학자로, 마르크스주의 경제이론을 수리경제학과 게임 이론으로 재구성한 업적으로 유명하다. 첫 저서 《마르크스주의 경제이론의 분석적 기초》 (1981)에서 신고전파 경제모델을 활용해 마르크스 경제학을 재해석했고, 《착취와 계급에 관한 일반 이론》 (1982)에서는 합리적 행위자 모델을 통해 계급과 착취의 발생 과정을 공식적으로 모형화하였다. [8] 로머는 노동가치설 없이도 착취 개념을 정의할 수 있음을 보였고, 시장 교환과 자산 소유의 차이에 주목하여 계급형성과 분배를 설명하였다. [9] 이후에도 로머는 시장사회주의 등 대안적 분배 모델을 제시하며 사회주의 설계에 대한 논의를 발전시켰다.
+
+- 에릭 올린 라이트 – 미국의 사회학자로, 마르크스주의 계급이론을 경험사회학적으로 발전시켰다. 그는 로머의 이론적 틀을 받아들여 자본주의 사회의 계급 구조를 분석한 《계급 Class》 (1985)을 저술하였고, [10] 계급 위치와 착취 개념을 재정의하여 현대 사회에서의 복합적 계급 지위(예: 모순적 계급 위치 등)를 실증적으로 연구하였다. 말년에는 《실현가능한 유토피아들 Envisioning real utopias》과 같은 저작에서 대안적 사회제도 모색에도 기여하였다.
+
+- 아담 쉐보르스키 – 폴란드 태생 미국 정치과학자로, 마르크스주의를 정치학적 합리적 선택 모델로 분석하였다. 그의 저서 《자본주의와 사회민주주의 Capitalism and Social Democracy》 (1985)은 사회민주주의 정당이 민주 선거 환경에서 왜 급진노선을 유지하기 어려운지를 게임 이론으로 설명하여, 자본주의 체제 내 개혁의 한계를 분석적 시각에서 논했다. [11] 쉐보르스키의 연구는 계급 타협과 정치 전략에 관한 마르크스주의 논의를 엄밀한 이론으로 다듬는 데 기여하였다.
+
+이중에 욘 엘스터와 아담 쉐보르스키는 나중에 9월 그룹에서 벗어나서 독자적인 연구의 경로로 나아갔고 이러한 9월 그룹의 핵심 인물들뿐 아니라, 스스로를 분석적 마르크스주의자라고 규정하지는 않았던 이들도 포함하여 이 흐름과 긴밀하게 연관된 연구를 수행한 학자들도 존재하였다. 이들 가운데에는 앨런 칼링, 노먼 게라스, 앤드루 레빈, 대니얼 리틀, 리처드 밀러, 찰스 라이트 밀스 , 리처드 노먼, 제프리 레이먼, 데브라 자츠, 데이비드 슈바이카르트 , 윌리엄 쇼, 토미 셸비, 엘리엇 소버, 이안 스티드먼, 니콜라스 브루살리스, 로버트 폴 울프 , 앨런 우드 등이 포함된다. 이들은 서로 다른 시기와 맥락에서 분석적 마르크스주의와 관련된 문제의식을 다루었다. [12]
+
+이들의 작업은 직·간접적으로 이러한 지적 흐름을 전개하는 역할을 하였으며, 이들 가운데에는 합리적 선택 마르크스주의와 같은 좁은 범주의 이론적 접근을 직접 비판하며 그 한계를 드러내려 한 학자들도 포함되었다. [13]
+
+3. 핵심 이론 및 방법론 [편집]
+『자본』의 변증법적 방법을 이해하고 감상하는 것은 마르크스를 그의 본연의 조건에서 이해하는 데 필수적이다. 그러나 많은 사람들, 심지어 일부 마르크스주의자들조차도 이에 동의하지 않는다. 소위 분석적 마르크스주의자들—즉, G.A. 코헨, 존 로머, 로버트 브렌너와 같은 이들—은 변증법을 일축한다. 이들은 실제로 스스로를 "헛소리 없는 마르크스주의자"라고 부르는 것을 좋아한다. 그들은 마르크스의 주장을 일련의 분석적 명제로 전환하기를 선호한다. 또 다른 이들은 그의 주장을 세계의 인과 모델로 전환한다. 심지어 마르크스를 표현하는 실증주의적 방식도 존재하는데, 이는 그의 이론을 경험적 데이터에 근거하여 검증할 수 있도록 한다. 이와 같이, 이러한 각각의 경우에서 변증법은 제거된다. [14] -데이비드 하비. (2010)『Companion to Marx's Capital』중에서-
+
+분석적 마르크스주의자들은 방법론적 개인주의, 합리적 선택이론, 게임이론, 계량적 접근법 등을 활용하고, 기능적이면서도 행위자 중심적인 설명을 강조하며, 마르크스주의 이론을 분석철학과 현대 사회과학의 엄밀한 방법론을 통해 재구성하고자 하였다. [15] 이들은 변증법적 분석은 모호하고 불분명한 사고에서 비롯된 것으로 간주하고 배제하면서 역사 변동, 계급, 착취 등 마르크스주의의 핵심 개념들을 보다 명확하게 재정의하려 했으며, 도덕과 정의의 문제를 불필요하고 부차적인 것으로 생각했던 전통적 마르크스주의자들과 달리, 마르크스주의 내의 도덕적‧규범적 문제를 정의론과 도덕이론의 관점에서 분석하고자 한 점도 특징이다. 이러한 과정에서 노동가치론, 역사적 필연성, 토대-상부구조 도식과 같은 전통 마르크스주의의 주요 개념들은 비판적으로 재검토되었으며, 그 결과 상당 부분이 수정되거나 폐기되기에 이르렀다. [16]
+
+분석적 마르크스주의는 마르크스 전통 이론의 재구성을 위해 다음과 같은 몇 가지 핵심적인 이론적 접근과 방법론을 활용한다.
+
+합리적 선택 이론과 방법론적 개체주의:
+분석적 마르크스주의자들 중 많은 이들이 사회현상을 설명함에 있어 개인 행위자의 선택과 이해관계를 출발점으로 삼았다. 즉, 거시적 구조나 계급 현상도 궁극적으로는 개인들이 합리적으로 자신의 이익을 극대화하려는 선택의 집합으로 파악될 수 있다고 본 것이다. [17] 이러한 방법론적 개체주의는 마르크스 이론의 거시적 개념들을 미시적 행위 모델로 뒷받침하고자 하는 시도로서, 로머의 계급모델이나 엘스터와 쉐보르스키의 정치모델 등에 활용되었다. 반면 이러한 접근은 전통적 마르크스주의의 전체론적 설명(예: 계급의식이나 집합행동의 자발적 발생 등)을 의심하게 만들었고, 변증법적 분석은 "불분명한 신비화"에 가깝다며 배격하는 입장을 낳았다. [18]
+
+기능적 접근과 그 비판:
+G. A. 코헨은 마르크스의 역사유물론을 기능적 설명으로 재해석하였다. 그는 한 사회의 생산관계 구조(예: 소유제도)가 그 사회의 생산력 발전에 기여하기 때문에 유지·선택된 것이라고 설명하였는데, 이를 생물학에서 특정 형질이 생존에 유용하기 때문에 진화적으로 선택된다는 설명에 비유했다. [19] 이러한 기능적 접근은 마르크스가 생산력과 생산관계 중 무엇이 원인이고 결과인지 애매하게 서술한 부분을 논리적으로 정밀하게 다듬은 것으로 평가받았지만, [20] 동시에 인과적 메커니즘의 부재를 이유로 비판도 받았다. 욘 엘스터는 코헨의 설명이 기능의 결과를 기술할 뿐 어떻게 그 결과가 실현되는지에 대한 구체적 인과를 제시하지 않는다고 지적하며, 기능 설명이 정당화되려면 개별 행위자들의 의도나 다른 인과적 기전으로 뒷받침되어야 한다고 주장했다. [21] 결국 분석적 마르크스주의 내에서도 역사유물론에 대한 입장은 분화되어, 코헨처럼 제한된 범위에서 법칙성을 인정하려는 입장과 엘스터처럼 보편사적 법칙을 부정하고 중범위 이론에 집중하자는 입장이 공존하게 되었다.
+
+마르크스 이론들의 재평가와 수정
+분석적 마르크스주의자들은 마르크스의 이론 체계를 전체적으로 수용하기보다, 개별 주장들의 진위와 타당성을 하나씩 검증하는 태도를 보였다. [22] 예를 들어, 전통 마르크스경제학의 근간이었던 노동가치론에 대해서 존 로머와 욘 엘스터 등은 비판적으로 검토한 끝에 해당 개념을 폐기하거나 대체된 형태로 재규정하였고, [23] 계급과 착취 개념도 새로운 정의를 통해 (도덕적 함의를 배제한 채) 순수한 경제적 불균형 현상으로 모델화하였다. 또한 엘스터를 비롯한 분석적 마르크스주의자들은 역사 발전의 필연성이나 혁명의 불가피성과 같은 명제들을 더 이상 받아들이지 않고, 대신 경험적 근거가 뒷받침되는 범위 내에서 조건부적인 주장으로 바꾸어 해석하였다. 이러한 재평가 작업을 통해, 몇몇 전통 이론들은 폐기되거나 수정되었고, 다른 일부 개념들은 현대 사회과학의 이론 틀 속에서 "살아남은 마르크스주의"로 재구성되었다. [24]
+
+4. 주요 저서 및 논문 [편집]
+존 로머의 대표작인 《착취와 계급에 관한 일반 이론A General Theory of Exploitation and Class》 (1982) 표지. 이 저서는 마르크스주의의 핵심 개념인 계급과 착취를 게임이론적 모형으로 분석한 연구로서, 합리적 개인들의 자산 보유 여부에 따라 계급 연합이 형성되고 잉여가 배분되는 과정을 공식화하였다. 이러한 접근을 통해 로머는 전통적 노동가치론 없이도 착취를 정의할 수 있음을 보였으며, 분석적 마르크스주의의 엄밀한 이론화 경향을 잘 보여준다
+
+분석적 마르크스주의의 주요 저작으로는 다음과 같은 것들이 있다:
+- G. A. 코헨, 《마르크스 역사의 이론: 변호 Karl Marx's Theory of History: A Defence》 (1978) – 마르크스의 역사유물론을 분석철학적 관점에서 논리적으로 재구성하여 옹호한 저작. 생산력 발전이 역사 발전을 이끈다는 마르크스의 논제를 엄밀히 해석하고, 기반과 상부구조의 기능적 연관을 제시하였다. [25] [26]
+
+- 존 로머, 《마르크스주의 경제이론의 분석적 기초 Analytical Foundations of Marxian Economic Theory》 (1981) – 마르크스 경제학의 가정을 미시경제학 모델로 재해석한 책. 경쟁균형 모형 등 신고전파 경제이론을 활용하여 착취와 계급의 경제적 의미를 분석하고, 이후의 공식모델 연구의 토대를 구축했다. [27]
+
+- 욘 엘스터, 《마르크스 이해하기 Making Sense of Marx》 (1985) – 마르크스 저술 전반을 분석철학과 사회과학의 시각으로 검토한 종합서. 합리적 선택 이론과 방법론적 개체주의를 동원하여 마르크스 이론의 타당한 부분과 폐기해야 할 부분을 구분하였고, 특히 보편사적 역사법칙과 노동가치설 등에 대한 철저한 비판을 제시했다. [28]
+
+- 에릭 올린 라이트, 《계급 Class》 (1985) – 현대 자본주의 사회의 계급 구조를 실증적으로 분석한 연구. 마르크스주의 계급이론을 설문조사와 통계자료에 적용하여 계급 범주를 조직화(operationalize)하였고, 자본가·노동자 사이의 중간계층(모순적 계급 지위 등)을 이론화함으로써 계급 개념을 발전시켰다. [29]
+
+- 아담 쉐보르스키, 《자본주의와 사회민주주의 Capitalism and Social Democracy》 (1985) – 민주주의 체제에서 좌파 정당의 전략을 분석한 정치경제학 연구. 계급 투표 연합의 형성과 사회개혁 정책이 직면하는 제약을 게임 이론으로 모델링하여, 왜 사회민주주의 정당이 급진적 사회주의로 이행하지 못하고 타협하게 되는지 설명하였다. [30]
+
+- G. A. 코헨, 《역사, 노동, 그리고 자유: 마르크스의 테마 History, Labour, and Freedom: Themes from Marx》 (1988) 는 G. A. 코헨이 1970‒80년대에 발표한 주요 논문을 개정해 묶은 책으로, 생산력 발전을 중심에 둔 역사유물론 재구성, 노동·착취 개념을 통한 자본주의 분석, 그리고 자유·평등·사회주의적 정의에 대한 규범적 논의를 한데 아우른다. 코헨은 기능적 설명과 인과적 설명을 결합해 마르크스의 역사 이론을 옹호하고, 노동가치론적 관점의 약점을 인정하면서도 착취를 '노동이 창출한 가치를 부당 이전받는 구조'로 규정해 계급 지배를 분석하며, 로버트 노직의 자유지상주의를 비판하고 사회주의적 분배 정의의 도덕적 기반을 탐구한다. 이렇게 책은 코헨 사상의 과학적(설명적)·규범적 두 축을 연결하며 이후 그의 규범적, 도덕적 철학 작업의 토대를 마련한 대표적인 저작으로 평가된다.
+
+5. 도덕·규범철학 논의 [편집]
+그들에게 사회주의는 더 이상 전통적인 관점에서와 같이 "역사적 필연성" 같은 관점으로 보증될 수 있는 것이 아니었다. 분석적 마르크스주의자들은 전통적 마르크스주의가 도덕과 정의에 관한 문제를 경시하거나 무시해온 점을 비판하며 기존 이론의 "역사적 필연성"에 기대던 설명 방식을 벗어나, 사회주의의 규범적 정당성을 도덕철학적, 정치철학적 논의 위에 새롭게 구축해야 한다고 보았다.
+
+그들은 마르크스주의의 규범적 기초를 모호하게 두지 않고 존 롤스 와 로버트 노직 을 비롯한 현대 정의론과 분배철학 관련 논의 속에서 분석철학의 정치철학적 언어로 번역하며, 자유, 평등, 정의 같은 규범적 개념들을 면밀히 다루고자 하였다.
+
+6. 분석적 마르크스주의에 대한 비판 [편집]
+분석적 마르크스주의가 제기한 새로운 접근에 대해 여러 비판도 제기되었다.
+
+방법론적 비판
+전통적 마르크스주의자들은 분석적 마르크스주의가 마르크스주의 고유의 변증법적 분석법을 포기하고 부르주아 사회과학의 도구에 의존한다고 비판했다. 이들은 마르크스주의는 전체적인 사회관계의 유기적 분석과 모순의 통찰을 본질로 하는데, 분석적 접근은 그것을 개별적 요소로 분해하여 생명력을 잃게 만든다고 주장한다. 또한 일부 평론가들은 분석적 마르크스주의자들이 결국 자본주의 주류학술의 방법론에 매몰되어 마르크스주의적 급진성을 약화시킨다고 평가했다. [31]
+
+이론 내용에 대한 비판
+몇몇 평론가들은 분석적 마르크스주의가 마르크스의 핵심 개념들을 지나치게 추상적이고 개인주의적인 틀로 바꾸어 놓아서, 그 결과물이 기존 부르주아 사회과학 이론과 다를 바 없어졌다고 지적한다. [32] 예를 들어, 계급이나 착취 개념을 도덕적 함의를 제거한 채 경제적 교환관계로만 정의하고, 역사 발전도 특수한 조건 속의 우연적 결과로 파악함으로써 마르크스주의 고유의 역사성과 체제비판적 관점이 희석되었다는 것이다.
+
+규범적 성향에 대한 비판
+분석적 마르크스주의자들이 마르크스주의의 도덕철학적 쟁점(정의, 평등 등)을 적극 다루고 사회주의 대안을 구상한 데 대해서도 이견이 있다. 일부는 애초에 마르크스주의는 별도의 윤리학에 의존하지 않고도 과학적·객관적 비판으로 충분하며, 노골적인 도덕담론은 혁명적 실천에 별 도움을 주지 못한다고 주장한다. 또 다른 비판자로서는 분석적 마르크스주의가 자유주의적 평등론과 점차 융합되어 급진적 변혁 이념을 잃고 체제 내 개선론으로 귀착되었다고 평가하기도 한다. [33] 이러한 비판자들은 분석적 마르크스주의가 결과적으로 "마르크스 없는 마르크스주의", 혹은 급진성이 제거된 학술적 논의에 그쳤다고 결론내리기도 한다.
+
+7. 참고 [편집]
+스탠포드 철학백과 분석적 마르크스주의 문서:
+https://plato.stanford.edu/entries/marxism-analytical/
+
+브리태니커 대백과사전 분석적 마르크스주의 문서:
+https://www.britannica.com/topic/analytical-Marxism [ 인천남동구인테리어 태영데코
+www.tydeco.co.kr v-if
+욕실인테리어.실내인테리어.착한가격,도배/장판.페인트.샤시.책임견적시공전문업체
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 확실한 지원금! 인터넷가입
+internetsignal.shop v-if
+[ [ 인터넷가입 ] [ 전국최대 ] [ 지원금받기 ] ]
+남동인터넷 비밀지원금지급 고객불만Zero 당일개통! 당일입금! 확실한 요금설계
+
+]
+
+[1] The Editors of Encyclopaedia Britannica (2023, December 7). analytical Marxism. Encyclopedia Britannica. [2] The Editors of Encyclopaedia Britannica (2023, December 7). analytical Marxism. Encyclopedia Britannica. [3] The Editors of Encyclopaedia Britannica (2023, December 7). analytical Marxism. Encyclopedia Britannica. [4] Leopold, David, "Analytical Marxism", The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.) [5] Leopold, David, "Analytical Marxism", The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.) [6] The Editors of Encyclopaedia Britannica (2023, December 7). analytical Marxism. Encyclopedia Britannica. [7] The Editors of Encyclopaedia Britannica (2023, December 7). analytical Marxism. Encyclopedia Britannica. [8] The Editors of Encyclopaedia Britannica (2023, December 7). analytical Marxism. Encyclopedia Britannica. [9] The Editors of Encyclopaedia Britannica (2023, December 7). analytical Marxism. Encyclopedia Britannica. [10] The Editors of Encyclopaedia Britannica (2023, December 7). analytical Marxism. Encyclopedia Britannica. [11] The Editors of Encyclopaedia Britannica (2023, December 7). analytical Marxism. Encyclopedia Britannica. [12] Leopold, David, "Analytical Marxism", The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.) [13] Leopold, David, "Analytical Marxism", The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.) [14] 원문: Getting to know and appreciate the dialectical method of Capital is essential to understanding Marx on his own terms. Quite a lot of people, including some Marxists, would disagree. The so-called analytical Marxists—people like G.A. Cohen, John Roemer and Robert Brenner—dismiss dialectics. They actually like to call themselves no-bullshit Marxists. They prefer to convert Marx’s argument into a series of analytic propositions. Others convert his argument into a causal model of the world. There is even a positivist way of representing Marx that allows his theory to be tested against empirical data. In each of these cases, dialectics gets stripped away. [15] The Editors of Encyclopaedia Britannica (2023, December 7). analytical Marxism. Encyclopedia Britannica. [16] Leopold, David, "Analytical Marxism", The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.) [17] The Editors of Encyclopaedia Britannica (2023, December 7). analytical Marxism. Encyclopedia Britannica. [18] The Editors of Encyclopaedia Britannica (2023, December 7). analytical Marxism. Encyclopedia Britannica. [19] The Editors of Encyclopaedia Britannica (2023, December 7). analytical Marxism. Encyclopedia Britannica. [20] The Editors of Encyclopaedia Britannica (2023, December 7). analytical Marxism. Encyclopedia Britannica. [21] The Editors of Encyclopaedia Britannica (2023, December 7). analytical Marxism. Encyclopedia Britannica. [22] Leopold, David, "Analytical Marxism", The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.) [23] The Editors of Encyclopaedia Britannica (2023, December 7). analytical Marxism. Encyclopedia Britannica. [24] Leopold, David, "Analytical Marxism", The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.) [25] Leopold, David, "Analytical Marxism", The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.) [26] The Editors of Encyclopaedia Britannica (2023, December 7). analytical Marxism. Encyclopedia Britannica. [27] The Editors of Encyclopaedia Britannica (2023, December 7). analytical Marxism. Encyclopedia Britannica. [28] The Editors of Encyclopaedia Britannica (2023, December 7). analytical Marxism. Encyclopedia Britannica. [29] The Editors of Encyclopaedia Britannica (2023, December 7). analytical Marxism. Encyclopedia Britannica. [30] The Editors of Encyclopaedia Britannica (2023, December 7). analytical Marxism. Encyclopedia Britannica. [31] Leopold, David, "Analytical Marxism", The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.) [32] Leopold, David, "Analytical Marxism", The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.) [33] Leopold, David, "Analytical Marxism", The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.) ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

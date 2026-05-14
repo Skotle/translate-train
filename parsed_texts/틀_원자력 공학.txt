@@ -1,0 +1,64 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+[ 틀 : ] 원자력 공학
+최근 수정 시각: 2026-01-06 22:22:05 [ [ [ ] [ [ 1 ] ] ] [ [ [ ] [ 편집 요청 ] ] ] [ 편집 요청 ] [ 편집 권한이 부족합니다. 로그인된 사용자 OR 해당 문서 기여자(이)여야 합니다. 해당 문서의 ACL 탭 을 확인하시기 바랍니다. [
+편집 권한이 부족한 경우 아래의 '편집 요청' 버튼으로 편집 요청을 생성할 수 있습니다. [편집 요청 도움말] ] ] [ 편집 요청 ] [ 닫기 ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 둘러보기 틀/공학
+- 둘러보기 틀/물리학
+- 원자력공학
+]
+
+[ [ ] [ 원자력공학
+Nuclear Engineering
+[ 펼치기 · 접기 ] 기반 학문
+물리학 ( 핵물리학 · 상대성 이론 · 양자역학 · 열역학 · 물리화학 · 통계역학 ) · 수학 ( 수치해석학 · 미분방정식 · 선형대수학 · 통계학 )
+기술
+핵분열 및
+핵분열 발전 | 사이클로트론 · 원자로 · 핵연료 · 감속재 · RBMK · 경수로(LWR) · 중수로(HWR) · 가압수형(PWR) · 가압중수로(PHWR) · 비등수형(BWR) · 증식로 (BR) · TBR · 고속증식로 (FBR) · 소듐냉각고속로 (SFR) · SMR · System 80 · CANDU · OPR1000 · APR1400 · APR+ · ECCS · Magnox · ACR · MCP · MCG · MELCOR · PUREX · VVER · 핵연료 재처리 · 파이로프로세싱 · 원자폭탄 · 더티밤 · 폭축렌즈
+핵융합 및
+핵융합 발전 | 사이클로트론 · Lawson Criterion · Flux Loop · NBI · Langmuir probe · 자기장 가둠 핵융합로 · Magnetic Mirror · 토카막 · 스텔러레이터 · bumpy torus · Tandem Mirror · Spheromak · RFP · 관성 가둠식 핵융합로 · ICF · Fast Ignition · 레이저 빛 핵융합로 · 정전 핀치식 핵융합로 · Z-핀치 식 핵융합로 · θ-Pinch 식 핵융합로 · 스크류 핀치식 핵융합로 · 관성 &정전식 핵융합로 · Fusor · MTF · MIF · MagLIF · Levitated Dipole · 거품핵융합로 · 뮤온 촉매 핵융합로 · 상온 핵융합로 · KSTAR · 수소폭탄 (열핵폭탄) · 폭축렌즈 · 텔러-울람 설계
+방사선 전달 전산 모사 | 몬테카를로 코드 · MCNP · MCNPX · Geant4 · Serpent · FLUKA · PENELOPE
+방사선의과학 | 영상의학 · CT · X선 · PET · SPECT · MRI · 핵의학 · 양성자치료
+기타
+방사능 · 방사선 · 방사선 피폭 · 방사선비상 · 방사성 폐기물 · 원자력 사고
+국제원자력기구 · 한국수력원자력 · 한국원자력연구원 · 한국핵융합에너지연구원 · 탈원전 ( 탈원전/대한민국 )
+
+[ 확실한 지원금! 인터넷가입
+internetsignal.shop v-if
+[ [ 인터넷가입 ] [ 전국최대 ] [ 지원금받기 ] ]
+남동인터넷 비밀지원금지급 고객불만Zero 당일개통! 당일입금! 확실한 요금설계
+
+] | [ 남동인터넷 가입센터
+www.tv-road.co.kr v-if
+이달특가상품 디지털파격할인.결합상품, 와이파이공유기 제공, 설치비무료
+
+] | [ KCTV광주방송 가입,사은품
+cable-tv.co.kr v-if
+남동인터넷 신규가입할인, 결합특가할인, 실시간스포츠, 당일설치.
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

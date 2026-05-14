@@ -1,0 +1,164 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 리우빌의 정리
+최근 수정 시각: 2026-04-19 23:47:08 [ [ [ ] [ [ 5 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 해석학(수학)
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 증명 3 . 여담 4 . 관련 문서
+
+1. 개요 [편집]
+Théorème de Liouville / Liouville's theorem
+
+복소해석학 에서 사용되는 가장 우아한 정리중 하나로, '복소평면상의 영역 D D D 의 내부에서 유계인 전해석 복소함수 [1] 는 상수함수밖에 없다.'라는 정리다.
+
+통계역학 의 리우빌 정리, 그리고 미분대수학의 리우빌 정리와는 무관한 정리이다.
+
+엄밀히 말하면 1844년에 코시가 특정 영역상에서 전해석 함수(entire function)이며 유계인 함수는 그 영역 내부에서 상수함수라는 것을 증명했으며, 리우빌은 3년 뒤인 1847년에 극점(pole)을 갖지 않는 타원함수는 상수함수 라는 것을 증명했다.
+
+타원함수는 복소평면상에서 두 복소수 방향으로 주기 ω 1 , ω 2 \omega_1, \omega_2 ω 1 ​ , ω 2 ​ 를 갖는 함수로, 두 세타함수의 비로 나타낼 수 있는데 그 표현꼴 중 하나로 ( m , n ) ∈ C 2 \left(m, n\right)\in \mathbb{C}^2 ( m , n ) ∈ C 2 일 때 { m ω 1 + n ω 2 } \{m\omega_1+n\omega_2\} { m ω 1 ​ + n ω 2 ​ } 로 축약할 수 있다. 그런데, ( m , n ) ∈ [ 0 , 1 ] \left(m,n\right)\in\left[0,1\right] ( m , n ) ∈ [ 0 , 1 ] 로 두면 이 안에서 주기를 어떻게 줘도 저 함수값은 복소수 범위 내에서 최대값을 가지게 되므로 유계가 되고, 따라서 리우빌의 정리에 의한 자명한 결과로 상수함수가 될 수밖에 없는데 이 정리가 원래 증명자인 코시의 이름을 덮어버린 것.
+
+참고로 이 결과값에 의하여 타원함수는 극점을 반드시 2개 이상 [2] 가지는 함수 라는 성질을 지닌다. 0개 지닐 경우는 상수함수라서 무시할 수 있기 때문.
+
+여담으로 반드시 복소평면 상에서 정의된 전해석 복소함수일 필요는 없다. R n \mathbb{R}^n R n 위에서 정의된 라플라스 방정식 의 해집합인 조화함수도 모두 리우빌의 정리를 만족하기 때문.
+
+2. 증명 [편집]
+코시 적분공식
+함수 f f f 가 단순연결영역 D \mathcal{D} D 에서 해석적일 경우, D \mathcal{D} D 내부의 임의의 단순 폐곡선 C \mathcal{C} C 에 대하여, 폐곡선 내부의 점 z 0 z_0 z 0 ​ 을 잡으면 ∮ C f ( z ) ( z − z 0 ) n + 1 d z = 2 π i n ! f ( n ) ( z 0 ) \displaystyle\oint_{\mathcal{C}}\frac{f(z)}{\left(z-z_0\right)^{n+1}}dz=\frac{2\pi i}{n!}f^{\left(n\right)}\left(z_0\right) ∮ C ​ ( z − z 0 ​ ) n + 1 f ( z ) ​ d z = n ! 2 π i ​ f ( n ) ( z 0 ​ )
+
+코시 부등식의 유도
+먼저, 임의의 단순 폐곡선에 대하여 코시 적분공식이 성립하므로, C : ∣ z − z 0 ∣ = R \mathcal{C}:\left|z-z_0\right|=R C : ∣ z − z 0 ​ ∣ = R 로 둬도 성립한다.
+∮ C f ( z ) ( z − z 0 ) n + 1 d z = 2 π i n ! f ( n ) ( z 0 ) \displaystyle\oint_{\mathcal{C}}\frac{f(z)}{\left(z-z_0\right)^{n+1}}dz=\frac{2\pi i}{n!}f^{\left(n\right)}\left(z_0\right) ∮ C ​ ( z − z 0 ​ ) n + 1 f ( z ) ​ d z = n ! 2 π i ​ f ( n ) ( z 0 ​ ) 이므로, f ( n ) ( z 0 ) = n ! 2 π i ∮ C f ( z ) ( z − z 0 ) n + 1 d z \displaystyle f^{\left(n\right)}\left(z_0\right)=\frac{n!}{2\pi i}\oint_{\mathcal{C}}\frac{f(z)}{\left(z-z_0\right)^{n+1}}dz f ( n ) ( z 0 ​ ) = 2 π i n ! ​ ∮ C ​ ( z − z 0 ​ ) n + 1 f ( z ) ​ d z 로 표기할 수 있다.
+이제, 양 변에 절대값을 씌우자.
+∣ f ( n ) ( z 0 ) ∣ = ∣ n ! 2 π i ∣ ∮ C ∣ f ( z ) ∣ ∣ z − z 0 ∣ n + 1 ∣ d z ∣ \displaystyle \left|f^{\left(n\right)}\left(z_0\right)\right|=\left|\frac{n!}{2\pi i}\right|\oint_{\mathcal{C}}\frac{\left|f(z)\right|}{\left|z-z_0\right|^{n+1}}\left|dz\right| ​ f ( n ) ( z 0 ​ ) ​ = ​ 2 π i n ! ​ ​ ∮ C ​ ∣ z − z 0 ​ ∣ n + 1 ∣ f ( z ) ∣ ​ ∣ d z ∣
+그런데 최대 크기 원리(Maximum Modulus Principle)에 의하여 이 함수가 최대값이 존재한다면. 즉 유계라면 그 최대값이 되는 지점은 경계선상. 즉 여기서는 z 0 z_0 z 0 ​ 을 중심으로 하는 원주상에 존재해야 한다. 함수 f f f 는 전제에서 해석적이라 했으므로, 최대값이 존재한다고 가정하자.
+즉 ∣ f ( z ) ∣ ≤ M R \left|f(z)\right|\leq M_R ∣ f ( z ) ∣ ≤ M R ​ 을 만족하는 양의 실수 M R M_R M R ​ 이 존재한다.
+그러면 ∣ f ( n ) ( z 0 ) ∣ = ∣ n ! 2 π i ∣ ∮ C ∣ f ( z ) ∣ ∣ z − z 0 ∣ n + 1 ∣ d z ∣ ≤ ∣ n ! 2 π i ∣ ∮ C M R ∣ z − z 0 ∣ n + 1 ∣ d z ∣ \displaystyle \left|f^{\left(n\right)}\left(z_0\right)\right|=\left|\frac{n!}{2\pi i}\right|\oint_{\mathcal{C}}\frac{\left|f(z)\right|}{\left|z-z_0\right|^{n+1}}\left|dz\right|\leq\left|\frac{n!}{2\pi i}\right|\oint_{\mathcal{C}}\frac{M_R}{\left|z-z_0\right|^{n+1}}\left|dz\right| ​ f ( n ) ( z 0 ​ ) ​ = ​ 2 π i n ! ​ ​ ∮ C ​ ∣ z − z 0 ​ ∣ n + 1 ∣ f ( z ) ∣ ​ ∣ d z ∣ ≤ ​ 2 π i n ! ​ ​ ∮ C ​ ∣ z − z 0 ​ ∣ n + 1 M R ​ ​ ∣ d z ∣ 이 됨은 자명하다.
+그런데 ∣ z − z 0 ∣ = R \left|z-z_0\right|=R ∣ z − z 0 ​ ∣ = R 이며, M R M_R M R ​ 은 상수이므로, 적분 밖으로 빼낼 수 있다.
+즉 ∣ f ( n ) ( z 0 ) ∣ ≤ ∣ n ! 2 π i ∣ M R R n + 1 ∮ C ∣ d z ∣ \displaystyle \left|f^{\left(n\right)}\left(z_0\right)\right|\leq\left|\frac{n!}{2\pi i}\right|\frac{M_R}{R^{n+1}}\oint_{\mathcal{C}}\left|dz\right| ​ f ( n ) ( z 0 ​ ) ​ ≤ ​ 2 π i n ! ​ ​ R n + 1 M R ​ ​ ∮ C ​ ∣ d z ∣ 이 되고, ∮ C ∣ d z ∣ = 2 π R \displaystyle \oint_{\mathcal{C}}\left|dz\right|=2\pi R ∮ C ​ ∣ d z ∣ = 2 π R 이므로
+∣ f ( n ) ( z 0 ) ∣ ≤ ∣ n ! 2 π i ∣ M R R n + 1 ∮ C ∣ d z ∣ = 2 π R ∣ n ! 2 π ∣ M R R n + 1 = n ! M R R n \displaystyle \left|f^{\left(n\right)}\left(z_0\right)\right|\leq\left|\frac{n!}{2\pi i}\right|\frac{M_R}{R^{n+1}}\oint_{\mathcal{C}}\left|dz\right|=2\pi R\left|\frac{n!}{2\pi}\right|\frac{M_R}{R^{n+1}}=\frac{n! M_R}{R^n} ​ f ( n ) ( z 0 ​ ) ​ ≤ ​ 2 π i n ! ​ ​ R n + 1 M R ​ ​ ∮ C ​ ∣ d z ∣ = 2 π R ​ 2 π n ! ​ ​ R n + 1 M R ​ ​ = R n n ! M R ​ ​ .
+즉 ∣ f ( n ) ( z 0 ) ∣ ≤ n ! M R R n \displaystyle \left|f^{\left(n\right)}\left(z_0\right)\right|\leq\frac{n! M_R}{R^n} ​ f ( n ) ( z 0 ​ ) ​ ≤ R n n ! M R ​ ​ 이 된다.■
+
+코시 부등식을 적분공식에서 유도했다. 이걸 전제로 아래 증명을 시작하자.
+리우빌의 정리의 증명
+함수 f f f 가 전해석함수이며, 복소평면에서 유계라고 가정하자.
+이때 이 함수는 전해석함수이므로 복소평면의 임의의 점 z 0 z_0 z 0 ​ 과, 그 점을 중심으로 반지름이 R R R 인 양의 방향의 원, C R C_R C R ​ 의 둘레와 그 내부에서 항상 해석적이므로, 코시 부등식(Cauchy's inequality)에 의하여 다음이 성립한다.
+- ∣ f ( n ) ( z 0 ) ∣ ≤ n ! M R R n \left|f^{\left(n\right)}(z_0)\right|\leq\displaystyle \frac{n! M_R}{R^n} ​ f ( n ) ( z 0 ​ ) ​ ≤ R n n ! M R ​ ​
+
+(단, M R M_R M R ​ 은 C R C_R C R ​ 상에서의 ∣ f ( z ) ∣ \left|f\left(z\right)\right| ∣ f ( z ) ∣ 의 최대값이다.)
+
+이제 이걸 기반으로 증명해보자.
+f f f 는 전해석함수이므로 임의의 z 0 z_0 z 0 ​ 와 R R R 을 선택하더라도, 그 내부에서 항상 해석적이다.
+
+∣ f ( n ) ( z 0 ) ∣ ≤ n ! M R R n \left|f^{\left(n\right)}(z_0)\right|\leq\displaystyle \frac{n! M_R}{R^n} ​ f ( n ) ( z 0 ​ ) ​ ≤ R n n ! M R ​ ​ 에서 n = 1 n=1 n = 1 을 취하자.
+그러면 이 부등식은 ∣ f ′ ( z 0 ) ∣ ≤ M R R \left|f'(z_0)\right|\leq\displaystyle \frac{M_R}{R} ∣ f ′ ( z 0 ​ ) ∣ ≤ R M R ​ ​ 이 된다.
+
+그런데 전제로 함수 f f f 는 유계이므로, 음이 아닌 상수 M M M 이 존재하여, ∀ z ∈ C \forall z \in C ∀ z ∈ C 에 대해, ∣ f ( z ) ∣ ≤ M \left|f(z)\right|\leq M ∣ f ( z ) ∣ ≤ M 이 성립한다.
+또한 M R M_R M R ​ 은 범위 C R C_R C R ​ 의 경계선상에서 ∣ f ( z ) ∣ \left|f(z)\right| ∣ f ( z ) ∣ 의 최대값인데, f f f 가 유계이므로, M R ≤ M M_R\leq M M R ​ ≤ M 이 성립하므로, ∣ f ′ ( z 0 ) ∣ ≤ M R R ≤ M R \left|f'(z_0)\right|\leq\displaystyle \frac{M_R}{R}\leq \frac{M}{R} ∣ f ′ ( z 0 ​ ) ∣ ≤ R M R ​ ​ ≤ R M ​ 이 되고,
+따라서 ∣ f ′ ( z 0 ) ∣ ≤ M R \left|f'(z_0)\right|\leq \displaystyle \frac{M}{R} ∣ f ′ ( z 0 ​ ) ∣ ≤ R M ​ 이 된다.
+그런데 M M M 과 R R R 은 임의의 독립적인 음이 아닌 실수이므로, ϵ \epsilon ϵ 을 임의의 음이 아닌 실수라고 했을 때, R R R 을 충분히 크게 잡아서 M R \displaystyle \frac{M}{R} R M ​ 의 값을 ϵ \epsilon ϵ 보다 작게 만들 수 있다.
+그러므로 ∣ f ′ ( z 0 ) ∣ ≤ M R \left|f'(z_0)\right|\leq \displaystyle \frac{M}{R} ∣ f ′ ( z 0 ​ ) ∣ ≤ R M ​ 을 모든 M , R M, R M , R 에 대해 항상 만족시키기 위해서는 f ′ ( z ) = 0 f'(z)=0 f ′ ( z ) = 0 이어야 한다.
+어떤 영역의 모든 점에서 f ′ ( z ) = 0 f'(z)=0 f ′ ( z ) = 0 이므로, 함수 f f f 는 주어진 영역 C R C_R C R ​ 에서 상수함수가 되며, R R R 역시 임의로 크게 잡을 수 있으므로, 복소평면 전체에서 f f f 는 상수함수가 된다.
+따라서 f f f 가 복소평면 전체에서 유계인 함수라면, 상수함수가 되어야 한다.(Q.E.D.)
+
+이 문단의 내용 중 전체 또는 일부는 대수학의 기본정리 문서의 r98 판, 3.1번 문단 에서 가져왔습니다. 이전 역사 보러 가기
+
+3. 여담 [편집]
+대수학의 기본정리 를 증명하는 방법 중 하나다.
+
+리우빌의 정리 라는 이름이지만 이 정리를 최초로 증명한 사람은 바로 오귀스탱루이 코시 이고 리우빌 은 따름 정리만 증명했다.
+
+리우빌의 정리의 자명한 결과로, 다음 4가지 명제 역시 참이 됨을 알 수 있다.
+이하의 증명은 모두 전 구간에서 아래로 유계 인 것을 전제하고 증명한다. 위로 유계 역시 비슷한 방법으로 증명할 수 있다. - ① ℜ ( f ( z ) ) \Re \left(f(z)\right) ℜ ( f ( z ) ) 가 위로 유계, 혹은 아래로 유계라면 f ( z ) f(z) f ( z ) 는 상수함수다.
+
+[증명 ①] ℜ ( f ( z ) ) \Re \left(f(z)\right) ℜ ( f ( z ) ) 가 아래로 유계이므로 그 하한값을 α \alpha α 라고 하자.
+그리고 max ⁡ ( 1 − α , 1 ) = A \max\left(1-\alpha, 1\right)=\Alpha max ( 1 − α , 1 ) = A 라고 하자.
+그러면 ∣ f ( z ) + A ∣ ≥ 1|f(z)+\Alpha|\geq1 ∣ f ( z ) + A ∣ ≥ 1 이므로 1 ∣ f ( z ) + A ∣ ≤ 1 \displaystyle \frac{1}{|f(z)+\Alpha|}\leq1 ∣ f ( z ) + A ∣ 1 ​ ≤ 1 이 된다.
+따라서 리우빌의 정리에 따라 1 ∣ f ( z ) + A ∣ \displaystyle \frac{1}{|f(z)+\Alpha|} ∣ f ( z ) + A ∣ 1 ​ 는 상수함수가 되고, f ( z ) f(z) f ( z ) 도 상수함수임이 자명하다. - ② ℑ ( f ( z ) ) \Im \left(f(z)\right) ℑ ( f ( z ) ) 가 위로 유계, 혹은 아래로 유계라면 f ( z ) f(z) f ( z ) 는 상수함수다.
+
+[증명 ②] ℑ ( f ( z ) ) \Im \left(f(z)\right) ℑ ( f ( z ) ) 가 아래로 유계이므로 그 하한값을 β \beta β 라고 하자.
+그리고 max ⁡ ( 1 − β , 1 ) = B \max\left(1-\beta, 1\right)=\Beta max ( 1 − β , 1 ) = B 라고 하자.
+그러면 ∣ f ( z ) + i B ∣ ≥ 1|f(z)+i\Beta|\geq1 ∣ f ( z ) + i B ∣ ≥ 1 이므로 1 ∣ f ( z ) + i B ∣ ≤ 1 \displaystyle \frac{1}{|f(z)+i\Beta|}\leq1 ∣ f ( z ) + i B ∣ 1 ​ ≤ 1 이 된다.
+따라서 리우빌의 정리에 따라 1 ∣ f ( z ) + i B ∣ \displaystyle \frac{1}{|f(z)+i\Beta|} ∣ f ( z ) + i B ∣ 1 ​ 는 상수함수가 되고, f ( z ) f(z) f ( z ) 도 상수함수임이 자명하다. - ③ ∣ f ( z ) ∣|f(z)| ∣ f ( z ) ∣ 가 위로 유계, 혹은 아래로 유계라면 f ( z ) f(z) f ( z ) 는 상수함수다.
+
+[증명 ③] ∣ f ( z ) ∣|f(z)| ∣ f ( z ) ∣ 가 아래로 유계이므로 그 하한값을 γ \gamma γ 라고 하자.
+그리고 max ⁡ ( 1 , γ ) = Γ \max\left(1, \gamma\right)=\Gamma max ( 1 , γ ) = Γ 라고 하자.
+그러면 ∣ f ( z ) ∣ + Γ ≥ 1|f(z)|+\Gamma\geq1 ∣ f ( z ) ∣ + Γ ≥ 1 이므로 1 ∣ f ( z ) ∣ + Γ ≤ 1 \displaystyle \frac{1}{|f(z)|+\Gamma}\leq1 ∣ f ( z ) ∣ + Γ 1 ​ ≤ 1 이 된다.
+따라서 리우빌의 정리에 따라 1 ∣ f ( z ) ∣ + Γ \displaystyle \frac{1}{|f(z)|+\Gamma} ∣ f ( z ) ∣ + Γ 1 ​ 는 상수함수가 되고, f ( z ) f(z) f ( z ) 도 상수함수임이 자명하다. - ④ ℜ ( f ( z ) ) \Re \left(f(z)\right) ℜ ( f ( z ) ) 와 ℑ ( f ( z ) ) \Im \left(f(z)\right) ℑ ( f ( z ) ) 의 실수배 선형결합이 유계라면 f ( z ) f(z) f ( z ) 는 상수함수다.
+
+또한 이 결과로, f ( z ) f(z) f ( z ) 가 상수함수가 아니라면 실수부와 허수부 모두가 유계가 아니며, 또한 실수부와 허수부의 선형결합으로 유계를 만들 수 없다 라는 것을 알 수 있다.
+
+4. 관련 문서 [편집]
+- 이름과 실제가 다른 것
+
+[ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 남동구퀵서비스 하나로퀵물류
+1577-3410.com
+[ [ 하나로퀵업체 ] [ 화물퀵서비스 ] [ 법인신청접수 ] [ 하나로퀵후기 ] ]
+기사실명제 퀵, 안전퀵 배송, 실시간배송조회, 24시간 안전퀵, 믿을수있는퀵서비스
+
+] | [ 남동구퀵배송 퀵브라더스
+www.1599-8330.com v-if
+[ [ 착한요금 ] [ 전국배송 ] [ ktx특송퀵 ] [ 버스.항공퀵 ] ]
+전국 어디든지 구석구석 당일배송, 저렴한요금, 카드결제OK, 친절상담, 비밀엄수
+
+]
+
+[1] 즉 ∃ M > 0 , ∀ z ∈ D , ∣ f ( z ) ∣ ≤ M \exist M>0, \forall z \in D, \left|f(z)\right|\leq M ∃ M > 0 , ∀ z ∈ D , ∣ f ( z ) ∣ ≤ M 라는 소리. [2] 중첩해서 1개가 될 수도 있다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

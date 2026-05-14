@@ -1,0 +1,144 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 오일러 방정식
+최근 수정 시각: 2025-08-10 13:51:50 [ [ [ ] [ [ 8 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 미분방정식
+- 물리학
+- 레온하르트 오일러
+]
+
+[ [ ] [ 유체역학
+Fluid Mechanics
+[ 펼치기 · 접기 ] 유체와 힘 | 유체 · 뉴턴 유체 · 비뉴턴 유체 (멱법칙 유체 · 오스트발트-드 웰 관계식 · 허쉘-버클리 유체 · 리-아이링 이론) · 압력 · 부력 ( 아르키메데스의 원리 ) · 항력 ( 수직항력 · 스토크스 법칙 ) · 응력 ( 응용 ) · 양력 · 표면장력 · 상 · 밀도 · 기체 법칙 ( 이상 기체 법칙 ) · 달랑베르의 역설
+유체동역학 | 유동 ( 압축성 · 탄성 · 점성 / 점성계수 ) · 난류 및 층류 · 레이놀즈 수송 정리 (체적 검사)
+무차원수 | 마하 수 · 레이놀즈 수 · 프란틀 수 · 레일리 수 · 그라스호프 수 · 슈미트 수 · 네버러 수 · 프루드 수
+방정식 | 나비에-스토크스 방정식 · 연속 방정식 · 오일러 방정식 · 구성 방정식 · 베르누이 방정식 · 파스칼의 원리 · 브라운 운동 방정식 · 하겐-푸아죄유 법칙 · 글래드스톤-데일 방정식
+응용 및 현상 | 날씨 · 모세관 현상 · 마그누스 효과 · 케이 효과 · 카르만 효과 · 코안더 효과 · 사이펀 의 원리 · 대류 현상 · 슬립 스트림 · 최대동압점 · 스탈링 방정식 · 벤추리 효과 · 레인-엠든 방정식 · 엠든-찬드라세카르 방정식 · 라이덴프로스트 효과
+유체역학 연구 | 전산유체역학 ( CFD ) · 풍동 실험 · 차원분석
+
+최소작용의 원리와 관련있는 2계 상미분방정식에 대한 내용은 오일러-라그랑주 방정식 문서를 참고하십시오.
+1 . 개요 1.1 . 유도 1 1.2 . 유도 2 1.3 . 의미 1.4 . 운동량 에 대한 연속 방정식 1.4.1 . 유도 2 . 관련 문서
+
+1. 개요 [편집]
+오일러 방정식(Euler equation)은 유체역학 에서 단열·비점성 유체를 기술하는 편미분방정식 으로 레온하르트 오일러 에 의해 정립되었다. 고전역학 과 변분법 에서 지칭하는 오일러-라그랑주 방정식 은 다른 개념이므로 주의. 또한 오일러 등식 과도 다르다.
+
+유체역학에서 비점성 유체, 즉 전단 응력 (shearing stress)이 0 P a 0{\rm\,Pa} 0 Pa 인 유체의 운동량 의 변화를 묘사하는 물질 (시간) 도함수(material derivative 또는 material time derivative)에 관한 미분 방정식이다.
+ρ D u D t = − ∇ P + ρ g \displaystyle \rho \frac{D \mathbf{u}}{Dt}=-\nabla P+\rho \mathbf{g} ρ D t D u ​ = − ∇ P + ρ g
+
+1.1. 유도 1 [편집]
+밀도가 ρ \displaystyle \rho ρ 인 유체가 중력장 g \displaystyle \mathbf{g} g 내에서 유체 사이의 압력이 P \displaystyle P P 로 주어진 상황을 생각해보자. 어떤 폐곡면 S \mathbf{S} S 로 둘러싸인 영역 V \mathbf{V} V 내에 있는 유체가 갖는 운동량의 변화는
+∂ ∂ t ∫ V ρ u d 3 r = − ∮ S u ( ρ u ⋅ d a ) − ∮ S P d a + ∫ V ρ g d 3 r \displaystyle \frac{\partial}{\partial t} \int_\mathbf{V} \rho\mathbf{u} d^3 r = - \oint_\mathbf{S} \mathbf{u}(\rho\mathbf{u} \cdot d\mathbf{a}) - \oint_\mathbf{S} P d\mathbf{a} + \int_\mathbf{V}\rho\mathbf{g} d^3 r ∂ t ∂ ​ ∫ V ​ ρ u d 3 r = − ∮ S ​ u ( ρ u ⋅ d a ) − ∮ S ​ P d a + ∫ V ​ ρ g d 3 r
+
+와 같은 방정식으로 표현된다.
+
+여기서 좌변은 영역 V \mathbf{V} V 내에 있는 유체의 단위 시간당 운동량의 변화량을 뜻하고 우변의 첫째항, 둘째항, 셋째항은 각각 단위 시간당 경계면 S \mathbf{S} S 를 통해 유입되는 유체가 갖는 운동량, 압력에 의해 영역 V \mathbf{V} V 내의 유체가 받는 힘, 영역 V \mathbf{V} V 내에 있는 유체가 받는 중력을 의미한다.
+
+위 방정식에 발산 정리 를 적용하면
+∂ ∂ t ( ρ u ) = − e i ∇ ⋅ [ u i ( ρ u ) ] − ∇ P + ρ g \displaystyle \frac{\partial}{\partial t}(\rho\mathbf{u}) = -\mathbf{e}_{i} \nabla \cdot [u_{i} (\rho \mathbf{u})] - \nabla P + \rho \mathbf{g} ∂ t ∂ ​ ( ρ u ) = − e i ​ ∇ ⋅ [ u i ​ ( ρ u )] − ∇ P + ρ g
+
+와 같이 정리된다.
+
+이 방정식의 우변의 첫째항을 이항하여 정리하면 다음과 같이 오일러 방정식(Euler equation)이 유도된다. (참고: 질량 에 대한 연속 방정식 )
+ρ D u D t = − ∇ P + ρ g \displaystyle \rho \frac{D \mathbf{u}}{Dt}=-\nabla P+\rho \mathbf{g} ρ D t D u ​ = − ∇ P + ρ g
+
+여기서 D D t ≡ ∂ ∂ t + ( u ⋅ ∇ ) = ∂ ∂ t + u i ∂ ∂ x i \displaystyle\frac{D}{Dt} \equiv \frac{\partial}{\partial t}+(\mathbf{u}\cdot \nabla)=\frac{\partial}{\partial t}+u_{i} \frac{\partial}{\partial x_{i}} D t D ​ ≡ ∂ t ∂ ​ + ( u ⋅ ∇ ) = ∂ t ∂ ​ + u i ​ ∂ x i ​ ∂ ​ 는 물질 도함수(material derivative)라 불린다.
+
+homentropic flow(단위 질량당 엔트로피 가 공간에 걸쳐 균일)로 가정하면 w w w 를 단위 질량당 엔탈피 (enthalpy)라 할 때 열역학 에 따르면 d P ρ = d w \displaystyle \frac{dP}{\rho} = dw ρ d P ​ = d w 라 표현할 수 있는 것이 알려져 있다. 정리하면 다음과 같은 결과를 얻는다.
+∂ u ∂ t + ( u ⋅ ∇ ) u = − ∇ w + g \displaystyle \frac{ \partial \mathbf{u} }{ \partial t } + \left(\mathbf{u} \cdot \nabla\right) \mathbf{u} = -\nabla w + \mathbf{g} ∂ t ∂ u ​ + ( u ⋅ ∇ ) u = − ∇ w + g [1]
+
+한편, 이 식이 다루는 대상이 '비점성'이라고 했는데, 이제 여기 좌변에다가 점성항 − ν ∇ 2 u - \nu \nabla^2 \mathbf{u} − ν ∇ 2 u 를 얹어주면 바로 나비에-스토크스 방정식 이 된다.
+
+1.2. 유도 2 [편집]
+
+길이, 너비, 높이가 각각 d x , d y , d z \text{d}x,\text{d}y,\text{d}z d x , d y , d z 인 유체의 미소부피를 고려해보자. 점성과 외력이 없다면 이 미소부피가 가속하는 이유는 각 면들에 가해지는 압력들의 차이 때문이다. 예를 들어, x x x 방향으로 작용하는 압력 차이는 ∂ P ∂ x d x \displaystyle \frac{\partial P}{\partial x} \text{d}x ∂ x ∂ P ​ d x 이다.
+
+힘 = 압력 x 면적이므로 이 압력 차이 때문에 나타나는 힘은 ∂ P ∂ x d x d y d z = ∂ P ∂ x d V \displaystyle \frac{\partial P}{\partial x} \text{d}x\text{d}y\text{d}z=\frac{\partial P}{\partial x} \text{d}V ∂ x ∂ P ​ d x d y d z = ∂ x ∂ P ​ d V 이다.
+
+이게 양수라면 이 미소부피는 음의 x x x 방향으로 가속하므로 d F x = − ∂ P ∂ x d V \displaystyle \text{d}F_x = -\frac{\partial P}{\partial x} \text{d}V d F x ​ = − ∂ x ∂ P ​ d V 가 성립한다.
+d F = − ∇ P d V \displaystyle \text{d} \textbf{F} = -\nabla P \, \text{d}V d F = − ∇ P d V
+
+이제 뉴턴의 제2 법칙을 적용하자. F = m a ⇒ − ∇ P d V = d m a = ρ d V a ⇒ − ∇ P = ρ a ⇒ − ∇ P = ρ D u D t \displaystyle \textbf{F} =m \textbf{a} \Rightarrow -\nabla P \, \text{d}V=\text{d}m \, \textbf{a}=\rho \, \text{d}V \textbf{a} \Rightarrow -\nabla P=\rho \, \textbf{a}\Rightarrow -\nabla P=\rho \, \frac{\text{D} \textbf{u}}{\text{D}t} F = m a ⇒ − ∇ P d V = d m a = ρ d V a ⇒ − ∇ P = ρ a ⇒ − ∇ P = ρ D t D u ​ .
+
+여기서 D u D t \displaystyle \frac{\text{D} \textbf{u}}{\text{D}t} D t D u ​ 는 "material derivative" 또는 "total derivative"라고 하는 항이다. 단, u \displaystyle \textbf{u} u 는 유체의 속도를 나타내는, x , y , z , t \displaystyle x,y,z,t x , y , z , t 의 벡터함수이다.
+
+D u D t = ∂ u ∂ t + ∂ u ∂ x d x d t + ∂ u ∂ y d y d t + ∂ u ∂ z d z d t = ∂ u ∂ t + ( ∂ ∂ x u x + ∂ ∂ y u y + ∂ ∂ z u z ) u = ∂ u ∂ t + ( u ⋅ ∇ ) u \displaystyle \frac{\text{D} \textbf{u}}{\text{D}t}=\frac{\partial \textbf{u}}{\partial t}+\frac{\partial \textbf{u}}{\partial x} \, \frac{\text{d}x}{\text{d}t}+\frac{\partial \textbf{u}}{\partial y} \, \frac{\text{d}y}{\text{d}t}+\frac{\partial \textbf{u}}{\partial z} \, \frac{\text{d}z}{\text{d}t}=\frac{\partial \textbf{u}}{\partial t}+\Bigg(\frac{\partial}{\partial x} \, u_x+\frac{\partial}{\partial y} \, u_y+\frac{\partial}{\partial z} \, u_z\Bigg)\textbf{u}=\frac{\partial \textbf{u}}{\partial t}+(\textbf{u}\cdot \nabla)\textbf{u} D t D u ​ = ∂ t ∂ u ​ + ∂ x ∂ u ​ d t d x ​ + ∂ y ∂ u ​ d t d y ​ + ∂ z ∂ u ​ d t d z ​ = ∂ t ∂ u ​ + ( ∂ x ∂ ​ u x ​ + ∂ y ∂ ​ u y ​ + ∂ z ∂ ​ u z ​ ) u = ∂ t ∂ u ​ + ( u ⋅ ∇ ) u
+
+이제 양쪽을 ρ \displaystyle \rho ρ 로 나누고 중력 같은 외력에 의한 가속도 g \displaystyle \textbf{g} g 를 더해주면 된다. ∇ P ρ = ∇ w \displaystyle \frac{\nabla P}{\rho}=\nabla w ρ ∇ P ​ = ∇ w 를 사용하면 익숙한 오일러 방정식 완성.
+∂ u ∂ t + ( u ⋅ ∇ ) u = − ∇ w + g \displaystyle \frac{\partial \textbf{u}}{\partial t}+(\textbf{u}\cdot \nabla)\textbf{u}=-\nabla w+\textbf{g} ∂ t ∂ u ​ + ( u ⋅ ∇ ) u = − ∇ w + g
+
+보너스로, 점성을 고려하고 싶다면 우항에 ν ∇ 2 u \nu \nabla^2 \textbf{u} ν ∇ 2 u 를 더해줘야 한다. ∇ 2 \nabla^2 ∇ 2 은 라플라시안 연산자 며, ν \nu ν 는 뉴턴의 점성법칙에 나오는 점성상수 [2] .
+
+점성으로 인한 가속도가 왜 ν ∇ 2 u \nu \nabla^2 \textbf{u} ν ∇ 2 u 일까? 라플라시안 항목에서도 서술되어 있듯이, 여기서 ∇ 2 u \nabla^2 \textbf{u} ∇ 2 u 의 물리적 의미는 어떤 미소부피의 속도와 이 미소부피 근방의 평균적인 유체 속도의 차이다. 이 속도 차이가 클수록 이 미소부피는 점성에 의해 받는 힘이 늘어나며, 이 미소부피의 속도가 주위 유체들로 (또는 주위 유체의 속도가 미소부피로) '전달'된다 [3] .
+
+이렇게 ν ∇ 2 u \nu \nabla^2 \textbf{u} ν ∇ 2 u 를 우변에 더해주고 좌변으로 옮기면 나오는게 그 유명한 (비압축성) 나비에-스토크스 방정식 . 더 자세한 정보는 나비에-스토크스 방정식 문서에.
+∂ u ∂ t + ( u ⋅ ∇ ) u − ν ∇ 2 u = − ∇ w + g \displaystyle \frac{\partial \textbf{u}}{\partial t}+(\textbf{u}\cdot \nabla)\textbf{u}-\nu \nabla^2 \textbf{u}=-\nabla w+\textbf{g} ∂ t ∂ u ​ + ( u ⋅ ∇ ) u − ν ∇ 2 u = − ∇ w + g
+
+1.3. 의미 [편집]
+뉴턴법칙 중 제2법칙을 유체의 운동에 적용한 것에 지나지 않는다.
+
+이 방정식은 (위치에 따른) 압력의 차이와 유체에 가해지는 중력이 유체의 운동량의 (시간에 따른) 변화를 유도 함을 표현한다.
+
+1.4. 운동량 에 대한 연속 방정식 [편집]
+오일러 방정식을 텐서 를 이용하여 정리한 방정식이다. 여기서 Π \displaystyle \mathbf{\Pi} Π 는 운동량 선속 텐서(momentum flux tensor)라 불리는 2차 텐서이다.
+∂ ∂ t ( ρ u ) + ∇ ⋅ Π = ρ g \displaystyle \frac{\partial}{\partial t}(\rho \mathbf{u}) + \nabla \cdot \mathbf{\Pi} = \rho \mathbf{g} ∂ t ∂ ​ ( ρ u ) + ∇ ⋅ Π = ρ g
+
+1.4.1. 유도 [편집]
+오일러 방정식에서
+
+ρ [ ∂ u ∂ t + ( u ⋅ ∇ ) u ] = ∂ ∂ t ( ρ u ) − u ∂ ρ ∂ t + ( ρ u ⋅ ∇ ) u = ∂ ∂ t ( ρ u ) + u [ ∇ ⋅ ( ρ u ) ] + ( ρ u ⋅ ∇ ) u = ∂ ∂ t ( ρ u ) + e i ∇ ⋅ ( ρ u i u ) \displaystyle \rho \left [ \frac{\partial \mathbf{u}}{\partial t} + \left ( \mathbf{u} \cdot \nabla \right ) \mathbf{u} \right ] = \frac{\partial}{\partial t} \left ( \rho \mathbf{u} \right ) - \mathbf{u} \frac{\partial \rho}{\partial t} + \left ( \rho \mathbf{u} \cdot \nabla \right ) \mathbf{u} = \frac{\partial}{\partial t} \left ( \rho \mathbf{u} \right ) + \mathbf{u} \left [ \nabla \cdot \left ( \rho \mathbf{u} \right ) \right ] + \left ( \rho \mathbf{u} \cdot \nabla \right ) \mathbf{u} = \frac{\partial}{\partial t} \left ( \rho \mathbf{u} \right ) + \mathbf{e}_{i} \nabla \cdot \left ( \rho u_{i} \mathbf{u} \right ) ρ [ ∂ t ∂ u ​ + ( u ⋅ ∇ ) u ] = ∂ t ∂ ​ ( ρ u ) − u ∂ t ∂ ρ ​ + ( ρ u ⋅ ∇ ) u = ∂ t ∂ ​ ( ρ u ) + u [ ∇ ⋅ ( ρ u ) ] + ( ρ u ⋅ ∇ ) u = ∂ t ∂ ​ ( ρ u ) + e i ​ ∇ ⋅ ( ρ u i ​ u )
+
+∇ P = e i ∂ P ∂ x i = e i ∂ ∂ x j ( P δ i j ) = e i ∇ ⋅ [ e j ( P δ i j ) ] \displaystyle \nabla P = \mathbf{e}_{i} \frac{\partial P}{\partial x_{i}} = \mathbf{e}_{i} \frac{\partial}{\partial x_{j}}(P \delta_{ij}) = \mathbf{e}_{i} \nabla \cdot\left [ \mathbf{e}_{j}(P \delta_{ij}) \right ] ∇ P = e i ​ ∂ x i ​ ∂ P ​ = e i ​ ∂ x j ​ ∂ ​ ( P δ ij ​ ) = e i ​ ∇ ⋅ [ e j ​ ( P δ ij ​ ) ]
+
+라 할 수 있으므로 이를 대입하여 정리하면 다음과 같이 정리된다. (참고: 질량 에 대한 연속 방정식 )
+∂ ∂ t ( ρ u ) + e i ∇ ⋅ [ e j ( P δ i j + ρ u i u j ) ] = ρ g \displaystyle \frac{\partial}{\partial t} (\rho \mathbf{u}) + \mathbf{e}_{i} \nabla \cdot\left [ \mathbf{e}_{j}(P \delta_{ij} + \rho u_{i} u_{j}) \right ] = \rho \mathbf{g} ∂ t ∂ ​ ( ρ u ) + e i ​ ∇ ⋅ [ e j ​ ( P δ ij ​ + ρ u i ​ u j ​ ) ] = ρ g
+
+Π i j ≡ P δ i j + ρ u i u j \displaystyle \Pi_{ij} \equiv P \delta_{ij} + \rho u_{i} u_{j} Π ij ​ ≡ P δ ij ​ + ρ u i ​ u j ​ 라 정의하면
+∂ ∂ t ( ρ u ) + ∇ ⋅ Π = ρ g \displaystyle \frac{\partial}{\partial t}(\rho \mathbf{u}) + \nabla \cdot \mathbf{\Pi} = \rho \mathbf{g} ∂ t ∂ ​ ( ρ u ) + ∇ ⋅ Π = ρ g
+
+과 같이 운동량 에 대한 연속 방정식을 얻는다.
+
+2. 관련 문서 [편집]
+- 나비에-스토크스 방정식
+- 연속 방정식
+- 레이놀즈 수송 정리
+
+[ 남동구컴퓨터수리 쿠팡
+www.coupang.com v-if
+[ [ 로켓프레시 ] [ 골드박스 ] [ 로켓직구 ] [ 로켓배송 ] ]
+세련된 남동구컴퓨터수리, 감성 가득한 디자인으로 식탁 분위기를 바꿔보세요.
+
+] | [ 전국24시 출장비0원 컴닥터
+www.컴닥터본사.kr v-if
+[ [ 홈페이지접수 ] [ 온라인문의 ] [ 체인점찾기 ] [ 서비스요금 ] ]
+전국 대표 컴닥터 컴퓨터수리 데이터복구 20분 무료 출장 서비스, A/S안심서비스
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+]
+
+[1] 표기법은 나비에-스토크스 방정식 항목의 식과 동일하다 [2] 점성이 일정한 유체를 '뉴턴 유체'라고 부른다. 비뉴턴 유체에는 이 형태의 나비에 스토크스 방정식이 안 먹힌다. [3] 뜨거운 곳에서 차가운 곳으로 흐르는 열 전달과 매우 비슷하다. 사실 열 방정식 도 라플라시안으로 서술된다. 여기선 이 점성항을 직관적이게 설명했는데, 좀 더 수학적으로 엄밀하게 구하려면 텐서 개념이 필요하다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

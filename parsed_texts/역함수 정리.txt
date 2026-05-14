@@ -1,0 +1,139 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 역함수 정리
+최근 수정 시각: 2025-12-27 04:30:02 [ [ [ ] [ [ 4 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 미적분
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 진술 2.1 . 일변수 함수 2.2 . 다변수 벡터함수 3 . 증명 3.1 . 일변수 함수 3.2 . 다변수 벡터함수 3.2.1 . 가역 선형사상의 성질 3.2.2 . 국소적 일대일에 대한 증명 3.2.3 . 함수를 제한할 열린집합 찾기 3.2.4 . 역함수의 미분계수 4 . 활용
+
+1. 개요 [편집]
+逆 函 數 定 理 / inverse function theorem
+
+역함수 의 미분법에 관련된 정리이다. 일급 함수(한 번 미분 가능하고, 그 미분한 것이 연속인 함수)가 국소적으로 역함수를 가질 조건과 역함수의 미분계수를 구하는 법을 제공한다.
+
+고교과정에서 배우는 역함수의 미분법을 정당화해주는 정리이지만, 보통 대학 과정에 상응하기 때문에 고교 교과과정에선 생략된다. 고교과정에서는 역함수의 미분계수가 단순히 원함수 미분계수의 역수라고 배웠지만, [1] 사실 엄밀히 따진다면 역함수가 미분 가능한지부터 따져보는 것이 먼저가 되어야 하는데, 이것을 보장해주는 정리인 것이다. 역함수 정리는 음함수 (implicit function)의 미분법을 비슷하게 보장해주는 음함수 정리의 증명에서도 필수적인 역할을 한다.
+
+역함수의 미분법은 연쇄 법칙 의 한 예로 볼 수 있다. 원함수와 역함수의 합성함수 는 항등함수 이다. 즉, 원함수 y = f ( x ) y=f(x) y = f ( x ) 의 역함수 y = g ( x ) y=g(x) y = g ( x ) 에 대해 f ( g ( x ) ) = x f(g(x))=x f ( g ( x )) = x 이므로 양변을 미분하면 f ′ ( g ( x ) ) g ′ ( x ) = 1 f'(g(x))g'(x)=1 f ′ ( g ( x )) g ′ ( x ) = 1 이 되어 역함수의 도함수는 g ′ ( x ) = 1 f ′ ( g ( x ) ) \displaystyle g'(x)={1 \over f'(g(x))} g ′ ( x ) = f ′ ( g ( x )) 1 ​ 이다.
+
+2. 진술 [편집]
+
+2.1. 일변수 함수 [편집]
+일급 함수 f : A → R f:A \rightarrow \mathbb{R} f : A → R 가 있을 때, ( A A A 는 실수의 열린 부분집합)
+A A A 의 한 점 a a a 에 대하여 f ′ ( a ) ≠ 0 f'(a) \neq 0 f ′ ( a )  = 0 이면
+
+a a a 와 f ( a ) f\left(a\right) f ( a ) 를 각각 포함하는 적당한 열린구간 I I I , J J J 에 대하여, f f f 를 제한한 함수 g : I → J , x ⟼ f ( x ) g: I \rightarrow J, x \longmapsto f\left(x\right) g : I → J , x ⟼ f ( x ) 가 일대일 대응이고, g − 1 g^{-1} g − 1 이 일급이다. 또한 ( g − 1 ) ′ ( f ( a ) ) = 1 f ′ ( a ) \displaystyle \left(g^{-1}\right)' \left(f\left(a\right)\right)=\frac{1}{f'\left(a\right)} ( g − 1 ) ′ ( f ( a ) ) = f ′ ( a ) 1 ​ 가 성립한다.
+
+2.2. 다변수 벡터함수 [편집]
+일급 함수 F : U → R n F:\mathcal{U} \rightarrow \mathbb{R}^n F : U → R n 가 있을 때, ( U ⊂ R n \mathcal{U} \subset \mathbb{R}^n U ⊂ R n 는 열린집합)
+U \mathcal{U} U 의 한 점 P P P 에 대하여 det ⁡ J F ( P ) ≠ 0 \det J_F \left(P\right) \neq 0 det J F ​ ( P )  = 0 이면
+
+P P P 와 F ( P ) F\left(P\right) F ( P ) 를 각각 포함하는 적당한 열린집합 U U U , V V V 에 대하여, F F F 를 제한한 함수 G : U → V , X ⟼ F ( X ) G: U \rightarrow V, X \longmapsto F\left(X\right) G : U → V , X ⟼ F ( X ) 가 일대일 대응이고, G − 1 G^{-1} G − 1 이 일급이다. 또한 J G − 1 ( F ( P ) ) = ( J F ( P ) ) − 1 \displaystyle J_{G^{-1}} \left(F\left(P\right)\right)=\left(J_F\left(P\right)\right)^{-1} J G − 1 ​ ( F ( P ) ) = ( J F ​ ( P ) ) − 1 가 성립한다.
+
+3. 증명 [편집]
+
+3.1. 일변수 함수 [편집]
+WLOG f ′ ( a ) > 0 f'\left(a \right) >0 f ′ ( a ) > 0 라고 하자. f ′ f' f ′ 이 연속함수이므로 a a a 의 충분히 작은 근방에서 f ′ f' f ′ 의 값은 여전히 양수가 된다.
+
+그러한 근방을 열린구간 I I I 라고 하자. 그러면 I I I 의 모든 원소 x x x 에 대해 f ′ ( x ) > 0 f'\left(x \right) >0 f ′ ( x ) > 0 이다. 따라서 평균값 정리에 의하여 f f f 는 I I I 에서 순증가한다. 또한 사이값 정리에 의해 I I I 의 상 f ( I ) f\left(I\right) f ( I ) 도 구간이다. 특히 f f f 가 순증가하므로 f ( I ) f\left(I\right) f ( I ) 도 I I I 와 같이 열린구간이 된다. 이때 J = f ( I ) J = f\left(I\right) J = f ( I ) 라 하면 f f f 를 제한한 함수
+g : I → J , x ⟼ f ( x ) g: I \rightarrow J, x \longmapsto f\left(x\right) g : I → J , x ⟼ f ( x ) 가 일대일 대응이다. 그러므로 역함수 g − 1 g^{-1} g − 1 가 존재한다.
+
+이제 범위가 I I I 인 두 변수 x 1 , x 2 x_1, x_2 x 1 ​ , x 2 ​ 와 범위가 J J J 인 두 변수 y 1 , y 2 y_1, y_2 y 1 ​ , y 2 ​ 가 다음과 같은 관계로 연관되어 있다고 하자. y 1 = g ( x 1 ) , y 2 = g ( x 2 ) y_1=g\left(x_1\right), y_2= g\left(x_2\right) y 1 ​ = g ( x 1 ​ ) , y 2 ​ = g ( x 2 ​ ) 그러면 함수 g g g 가 연속이므로 x 2 → x 1 x_2 \rightarrow x_1 x 2 ​ → x 1 ​ 일 때 y 2 → y 1 y_2 \rightarrow y_1 y 2 ​ → y 1 ​ 이다. 그런데 g g g 가 일대일 대응이므로 y 2 → y 1 y_2 \rightarrow y_1 y 2 ​ → y 1 ​ 일 때 x 2 → x 1 x_2 \rightarrow x_1 x 2 ​ → x 1 ​ 도 된다. 따라서 ( g − 1 ) ′ ( y 1 ) = lim ⁡ y 2 → y 1 g − 1 ( y 2 ) − g − 1 ( y 1 ) y 2 − y 1 = lim ⁡ x 2 → x 1 x 2 − x 1 g ( x 2 ) − g ( x 1 ) = 1 g ′ ( x 1 ) \displaystyle \left(g^{-1}\right)' \left(y_1\right) =\lim_{y_2 \to y_1} \frac{g^{-1}\left(y_2\right) - g^{-1}\left(y_1\right)}{y_2 - y_1} =\lim_{x_2 \to x_1} \frac{x_2 - x_1}{g\left(x_2\right) - g\left(x_1\right)} =\frac{1}{g'\left(x_1\right)} ( g − 1 ) ′ ( y 1 ​ ) = y 2 ​ → y 1 ​ lim ​ y 2 ​ − y 1 ​ g − 1 ( y 2 ​ ) − g − 1 ( y 1 ​ ) ​ = x 2 ​ → x 1 ​ lim ​ g ( x 2 ​ ) − g ( x 1 ​ ) x 2 ​ − x 1 ​ ​ = g ′ ( x 1 ​ ) 1 ​ 이다. g ′ g' g ′ 의 값은 0이 아니므로 ( g − 1 ) ′ \left(g^{-1}\right)' ( g − 1 ) ′ 은 연속이다. 즉, g − 1 g^{-1} g − 1 는 일급이다. 그리고 위의 x 1 x_1 x 1 ​ 에 a a a 를 대입하면 ( g − 1 ) ′ ( f ( a ) ) = 1 f ′ ( a ) \displaystyle \left(g^{-1}\right)' \left(f\left(a\right)\right)=\frac{1}{f'\left(a\right)} ( g − 1 ) ′ ( f ( a ) ) = f ′ ( a ) 1 ​ 를 얻는다.
+
+3.2. 다변수 벡터함수 [편집]
+
+3.2.1. 가역 선형사상의 성질 [편집]
+det ⁡ J F ( P ) ≠ 0 \det J_F \left(P\right) \neq 0 det J F ​ ( P )  = 0 이면 J F ( P ) J_F \left(P\right) J F ​ ( P ) 이 가역행렬이다. 이때 다음과 같이 선형사상 L L L 을 정의하자. L : R n → R n , X ⟼ J F ( P ) X L: \mathbb {R}^n \rightarrow \mathbb{R}^n, X \longmapsto J_F \left(P\right)X L : R n → R n , X ⟼ J F ​ ( P ) X 그러면 L L L 은 가역인 선형사상이다.
+
+L L L 에 의한 단위구면 S = { X ∈ R n ∣ ∣ X ∣ = 1 } S=\left\{ X \in \mathbb{R}^n | \ \left| X \right| = 1 \right\} S = { X ∈ R n ∣ ∣ X ∣ = 1 } 의 상 L ( S ) L\left(S\right) L ( S ) 을 생각하자. L L L 이 가역인 선형사상이므로 0 ∉ L ( S ) \mathbf{0} \notin L\left(S\right) 0 ∈ / L ( S ) 이다. 또한 L L L 은 연속이므로 0 \mathbf{0} 0 에서 거리가 ε \varepsilon ε 이하인 영역 B = { X ∈ R n ∣ ∣ X ∣ ≤ ε } B= \left\{ X \in \mathbb{R}^n | \ \left|X \right| \leq \varepsilon \right\} B = { X ∈ R n ∣ ∣ X ∣ ≤ ε } 는 ε \varepsilon ε 이 충분히 작으면 L ( S ) L\left(S\right) L ( S ) 와 서로소가 된다. 따라서 inf ⁡ X ∈ S ∣ L ( X ) ∣ \displaystyle \inf_{X \in S} \left| L\left(X \right) \right| X ∈ S in f ​ ∣ L ( X ) ∣ 는 양수이다.
+
+3.2.2. 국소적 일대일에 대한 증명 [편집]
+이제 일급 함수 F F F 가 점 P P P 근방에서 국소적으로 일대일함수가 됨을 증명한다. F F F 는 미분가능한 함수이므로 다음이 성립한다. lim ⁡ Y → X F ( Y ) − F ( X ) − J F ( X ) ( Y − X ) ∣ Y − X ∣ = 0 \displaystyle \lim_{Y \to X} \frac{F\left(Y\right) - F\left(X\right) - J_F \left(X\right) \left(Y-X\right)}{\left|Y-X\right|} = \mathbf{0} Y → X lim ​ ∣ Y − X ∣ F ( Y ) − F ( X ) − J F ​ ( X ) ( Y − X ) ​ = 0 여기서 ε ( X , Y ) = F ( Y ) − F ( X ) − J F ( X ) ( Y − X ) ∣ Y − X ∣ \displaystyle \varepsilon \left(X, Y\right) = \frac{F\left(Y\right) - F\left(X\right) - J_F \left(X\right) \left(Y-X\right)}{\left|Y-X\right|} ε ( X , Y ) = ∣ Y − X ∣ F ( Y ) − F ( X ) − J F ​ ( X ) ( Y − X ) ​ 라고 하자. 그러면 F ( Y ) − F ( X ) ∣ Y − X ∣ = J F ( X ) Y − X ∣ Y − X ∣ + ε ( X , Y ) \displaystyle \frac{F\left(Y\right) - F\left(X\right)}{\left|Y-X\right|} = J_F \left(X\right) \frac{Y-X}{\left|Y-X\right|} + \varepsilon \left(X, Y\right) ∣ Y − X ∣ F ( Y ) − F ( X ) ​ = J F ​ ( X ) ∣ Y − X ∣ Y − X ​ + ε ( X , Y ) 이다.
+
+한편 F F F 가 일급이므로 lim ⁡ X → P J F ( X ) = J F ( P ) \displaystyle \lim_{X \to P} J_F \left(X\right) = J_F \left(P\right) X → P lim ​ J F ​ ( X ) = J F ​ ( P ) 이다. 여기서 행렬함수 A X = J F ( X ) − J F ( P ) A_X = J_F \left(X\right) - J_F \left(P\right) A X ​ = J F ​ ( X ) − J F ​ ( P ) 를 정의하면 F ( Y ) − F ( X ) ∣ Y − X ∣ = J F ( P ) Y − X ∣ Y − X ∣ + A X Y − X ∣ Y − X ∣ + ε ( X , Y ) \displaystyle \frac{F\left(Y\right) - F\left(X\right)}{\left|Y-X\right|} = J_F \left(P\right) \frac{Y-X}{\left|Y-X\right|} +A_X \frac{Y-X}{\left|Y-X\right|}+ \varepsilon \left(X, Y\right) ∣ Y − X ∣ F ( Y ) − F ( X ) ​ = J F ​ ( P ) ∣ Y − X ∣ Y − X ​ + A X ​ ∣ Y − X ∣ Y − X ​ + ε ( X , Y ) 이다. 따라서 다음의 부등식이 성립한다. ∣ F ( Y ) − F ( X ) ∣ ∣ Y − X ∣ ≥ ∣ ∣ J F ( P ) Y − X ∣ Y − X ∣ ∣ − ∣ A X Y − X ∣ Y − X ∣ + ε ( X , Y ) ∣ ∣ \displaystyle \frac{\left|F\left(Y\right) - F\left(X\right)\right|}{\left|Y-X\right|} \geq \left| \ \left|J_F \left(P\right) \frac{Y-X}{\left|Y-X\right|} \right| - \left| A_X \frac{Y-X}{\left|Y-X\right|}+\varepsilon \left(X, Y\right) \right| \ \right| ∣ Y − X ∣ ∣ F ( Y ) − F ( X ) ∣ ​ ≥ ​ ​ J F ​ ( P ) ∣ Y − X ∣ Y − X ​ ​ − ​ A X ​ ∣ Y − X ∣ Y − X ​ + ε ( X , Y ) ​ ​ X , Y X, Y X , Y 를 P P P 의 근방 D D D 에 있는 서로 다른 두 점이라 하자. 그러면 D D D 가 { P } \{P\} { P } 로 수축할 때 ∣ J F ( P ) Y − X ∣ Y − X ∣ ∣ \displaystyle \left|J_F \left(P\right) \frac{Y-X}{\left|Y-X\right|} \right| ​ J F ​ ( P ) ∣ Y − X ∣ Y − X ​ ​ 의 하한은 어떤 양수로 수렴한다. 그에 반해 ∣ A X Y − X ∣ Y − X ∣ + ε ( X , Y ) ∣ \displaystyle \left| A_X \frac{Y-X}{\left|Y-X\right|}+\varepsilon \left(X, Y\right) \right| ​ A X ​ ∣ Y − X ∣ Y − X ​ + ε ( X , Y ) ​ 의 상한은 0으로 수렴한다. 따라서 D D D 가 충분히 작은 P P P 의 근방일 때, 고정된 양수 ε 0 \varepsilon_0 ε 0 ​ 에 대하여 ∣ F ( Y ) − F ( X ) ∣ ≥ ε 0 ∣ Y − X ∣ \displaystyle \left|F\left(Y\right) - F\left(X\right)\right| \geq \varepsilon_0 \left|Y-X\right| ∣ F ( Y ) − F ( X ) ∣ ≥ ε 0 ​ ∣ Y − X ∣ 가 성립하게 된다. 따라서 F F F 는 D D D 에서 일대일이다.
+
+3.2.3. 함수를 제한할 열린집합 찾기 [편집]
+위에서 잡은 D D D 는 유계가 되도록 하는 것이 가능하다. 이때 ∂ D \partial D ∂ D 는 유계인 닫힌집합이 되므로 최대 최소의 정리에 의하여 min ⁡ X ∈ ∂ D ∣ F ( X ) − F ( P ) ∣ \displaystyle \min_{X \in \partial D} \left| F\left(X\right) - F\left(P\right)\right| X ∈ ∂ D min ​ ∣ F ( X ) − F ( P ) ∣ 가 존재한다. 이 값을 d d d 라 하자. 그리고 다음과 같이 집합 V V V 를 정의한다. V = { Y ∈ R n ∣ ∣ F ( P ) − Y ∣ < d } V= \left\{ Y\in \mathbb{R}^n | \ \left|F\left(P\right) - Y \right| < d \right\} V = { Y ∈ R n ∣ ∣ F ( P ) − Y ∣ < d } 이때 V V V 의 임의의 한 원소 Y Y Y 에 대하여, D D D 의 폐포 D ˉ \bar{D} D ˉ 에서 정의된 함수 f : D ˉ → R , X ⟼ ∣ F ( X ) − Y ∣ 2 f: \bar{D} \to \mathbb{R}, X \longmapsto \left|F\left(X\right) - Y \right|^2 f : D ˉ → R , X ⟼ ∣ F ( X ) − Y ∣ 2 를 생각하면 f f f 는 유계인 닫힌집합에서 정의된 연속함수이므로 최솟값을 갖는다. 그런데 X ∈ ∂ D X \in \partial D X ∈ ∂ D 라면 f ( P ) < f ( X ) f\left(P\right) < f\left(X\right) f ( P ) < f ( X ) 이므로 ∂ D \partial D ∂ D 에서는 최솟값을 갖지 않는다. 따라서 f f f 는 D D D 의 내부 i n t D \mathrm{int} D int D 에서 최솟값을 갖는다.
+
+i n t D \mathrm{int} D int D 는 열린집합이므로 최소점에서 ∇ f ( X ) = 0 \nabla f \left(X\right) = \mathbf{0} ∇ f ( X ) = 0 이다. 즉, 2 ( F ( X ) − Y ) T J F ( X ) = 0 2 \left(F\left(X\right) - Y \right)^T J_F \left(X\right) = \mathbf{0} 2 ( F ( X ) − Y ) T J F ​ ( X ) = 0 이 성립하고, 여기서 J F ( X ) J_F \left(X\right) J F ​ ( X ) 는 가역행렬이므로 F ( X ) − Y = 0 F\left(X\right) - Y = \mathbf{0} F ( X ) − Y = 0 이다. 이로부터 V V V 의 임의의 원소 Y Y Y 에 대해 F ( X ) = Y F\left(X\right) = Y F ( X ) = Y 인 X ∈ D X \in D X ∈ D 가 존재함을 알 수 있다.
+
+그러면 V V V 의 역상 F − 1 ( V ) F^{-1}\left(V\right) F − 1 ( V ) 와 D D D 의 교집합을 U U U 라고 하면 F F F 가 연속함수이므로 U U U 는 열린집합이다. 따라서 F F F 를 다음과 같이 제한하면 G : U → V , X ⟼ F ( X ) G: U \rightarrow V, X \longmapsto F\left(X\right) G : U → V , X ⟼ F ( X ) G G G 는 일대일 대응이다.
+
+3.2.4. 역함수의 미분계수 [편집]
+동점 X 1 , X 2 X_1, X_2 X 1 ​ , X 2 ​ 의 범위가 U U U 이고, 동점 Y 1 , Y 2 Y_1, Y_2 Y 1 ​ , Y 2 ​ 의 범위가 V V V 일 때 동점들이 다음과 같이 연관되어 있다고 하자. Y 1 = G ( X 1 ) , Y 2 = G ( X 2 ) Y_1=G\left(X_1\right), Y_2=G\left(X_2\right) Y 1 ​ = G ( X 1 ​ ) , Y 2 ​ = G ( X 2 ​ ) 그러면 G G G 가 연속이고 일대일 대응이므로 Y 2 → Y 1 Y_2 \to Y_1 Y 2 ​ → Y 1 ​ 일 때 X 2 → X 1 X_2 \to X_1 X 2 ​ → X 1 ​ 이다. 따라서 lim ⁡ Y 2 → Y 1 G − 1 ( Y 2 ) − G − 1 ( Y 1 ) − ( J F ( X 1 ) ) − 1 ( Y 2 − Y 1 ) ∣ Y 2 − Y 1 ∣ = lim ⁡ X 2 → X 1 X 2 − X 1 − ( J F ( X 1 ) ) − 1 ( F ( X 2 ) − F ( X 1 ) ) ∣ F ( X 2 ) − F ( X 1 ) ∣ = 0 \displaystyle \lim_{Y_2 \to Y_1} \frac{G^{-1}\left(Y_2\right) - G^{-1}\left(Y_1\right) - \left(J_F \left(X_1\right) \right)^{-1} \left(Y_2-Y_1\right)}{\left|Y_2-Y_1\right|} = \lim_{X_2 \to X_1} \frac{X_2 - X_1 - \left(J_F \left(X_1\right) \right)^{-1} \left(F(X_2)-F(X_1)\right)}{\left|F(X_2)-F(X_1)\right|} = \mathbf{0} Y 2 ​ → Y 1 ​ lim ​ ∣ Y 2 ​ − Y 1 ​ ∣ G − 1 ( Y 2 ​ ) − G − 1 ( Y 1 ​ ) − ( J F ​ ( X 1 ​ ) ) − 1 ( Y 2 ​ − Y 1 ​ ) ​ = X 2 ​ → X 1 ​ lim ​ ∣ F ( X 2 ​ ) − F ( X 1 ​ ) ∣ X 2 ​ − X 1 ​ − ( J F ​ ( X 1 ​ ) ) − 1 ( F ( X 2 ​ ) − F ( X 1 ​ ) ) ​ = 0 이다. 즉, J G − 1 ( F ( P ) ) = ( J F ( P ) ) − 1 \displaystyle J_{G^{-1}} \left(F\left(P\right)\right)=\left(J_F\left(P\right)\right)^{-1} J G − 1 ​ ( F ( P ) ) = ( J F ​ ( P ) ) − 1 이 성립한다.
+
+4. 활용 [편집]
+어떤 함수가 실수 전체의 집합에서 미분가능하다고 해서 그 함수의 역함수도 그러하다는 보장은 없다. 직관적으로는 역함수의 그래프가 직선 y = x y=x y = x 에 대하여 대칭일 뿐 그래프의 형상 자체는 첨점이 없이 '부드러우므로' 역함수 역시 미분불가능한 점이 없으리라고 짐작하기 쉬우나, 다음과 같이 원래 함수에서 미분계수 가 0 0 0 인 점이 있으면 역함수에서는 미분계수가 발산하여 제대로 정의되지 않는 현상이 발생한다.
+
+따라서 미분가능한 함수의 역함수 역시 미분가능하려면 원래 함수에서 미분계수가 0 0 0 인 점이 존재하지 않아야 한다. 역함수의 미분가능성에 대한 함정을 간접적으로 알게 해 주는 문제가 전국연합학력평가 에 출제된 바 있다.
+2021학년도 7월 미적분 29번
+
+삼차함수 는 다항함수 의 일종으로서 실수 전체의 집합에서 미분가능하다. 만약 역함수가 존재하고 미분가능한 함수는 무조건 그 역함수 역시 미분가능하다면 구태여 '실수 전체의 집합에서 미분가능한 역함수'라는 표현을 사용할 이유가 없다. a a a 와 b b b 의 값에 따라서 미분가능하지 않은 역함수도 나올 수 있기 때문에 이 조건이 하나의 조건으로서 유효하게 기능한다고 할 수 있다. [ 인천남동구,서울365치과의원
+seoul365dental.com v-if
+박준규 대표원장, 인천 남동구 예술로 138 212~214호
+
+] | [ 남동구치과 다비안치과의원
+www.dabien.co.kr v-if
+인천논현역100m, 세심한진료, 철저한 사후관리, 임플란트, 교정, 충치, 잇몸
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+]
+
+[1] 합성함수의 미분법과, 역함수와 원함수를 합성하면 일차식 x가 되는 성질을 이용해 증명한다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

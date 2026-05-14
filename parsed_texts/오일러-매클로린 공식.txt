@@ -1,0 +1,141 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 오일러-매클로린 공식
+최근 수정 시각: 2026-04-09 00:24:14 [ [ [ ] [ [ 3 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 해석학(수학)
+- 공식
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 주기화된 베르누이 다항식 3 . 증명 3.1 . 다른 형태들 4 . 사용
+
+1. 개요 [편집]
+오일러-매클로린 공식(Euler-Maclaurin formula, 간단히 EMF)은 레온하르트 오일러 와 콜린 매클로린 이 1700년대에 각각 발견한 공식으로, 유한합과 적분 사이의 관계를 나타내는 식이다. 이를 통해 유한합을 적분으로 근사 하거나 반대로 적분을 유한합으로 근사할 수 있다. ∑ k = m n − 1 f ( k ) = ∫ m n f ( x ) d x + ∑ r = 1 p B r r ! ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m ) ) + ( − 1 ) ( p + 1 ) p ! ∫ m n B p ( x − ⌊ x ⌋ ) f ( p ) ( x ) d x \displaystyle \begin{aligned} \sum_{k=m}^{n-1} f(k) = &\int_m^n f(x) \,{\rm d}x +\sum_{r=1}^p \frac{B_r}{r!} ( f^{(r-1)}(n) -f^{(r-1)}(m) ) \\ &+\frac{(-1)^{(p+1)}}{p!} \int_m^n B_p(x-\lfloor x\rfloor) f^{(p)}(x) \,{\rm d}x \end{aligned} k = m ∑ n − 1 ​ f ( k ) = ​ ∫ m n ​ f ( x ) d x + r = 1 ∑ p ​ r ! B r ​ ​ ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m )) + p ! ( − 1 ) ( p + 1 ) ​ ∫ m n ​ B p ​ ( x − ⌊ x ⌋) f ( p ) ( x ) d x ​
+
+여기서 m m m , n n n 은 m < n m<n m < n 인 정수 이고 p p p 는 p ∈ Z 0 + p\in\Z^{0+} p ∈ Z 0 + 이다. [1] p = 0 p=0 p = 0 일 경우 시그마는 공합(empty sum) 상태가 되고, 공합을 0으로 정의하는 관례에 따라 여기서도 p = 0 p=0 p = 0 일 때 시그마의 값을 0으로 정의한다. 그리고 함수 f ( x ) f(x) f ( x ) 는 f ( x ) ∈ C p ( [ m , n ] ) f(x) \in C^p([m,n]) f ( x ) ∈ C p ([ m , n ]) 이고 [2] f ( r ) ( x ) f^{(r)}(x) f ( r ) ( x ) 는 함수 f ( x ) f(x) f ( x ) 의 r r r 계도함수를 의미하며, B r B_r B r ​ 은 베르누이 수 , B p ( x ) B_p(x) B p ​ ( x ) 는 베르누이 다항식 이다. ⌊ x ⌋ \lfloor x \rfloor ⌊ x ⌋ 는 최대 정수 함수 이다. 오일러-매클로린 공식은 필요에 따라 조금씩 형태가 다른 식들도 쓴다. 다른 형태들 문단 참고.
+
+본 문서에서는 베르누이 수 와 베르누이 다항식 의 여러 성질들이 빈번히 사용되므로, 각 문서들의 내용을 숙지하고 있는 상태에서 아래의 내용들을 보는 것이 좋다.
+
+2. 주기화된 베르누이 다항식 [편집]
+주기 화된 베르누이 다항식 b n ( x ) b_n(x) b n ​ ( x ) 를 다음과 같이 정의하자. b n ( x ) = B n ( x − ⌊ x ⌋ ) b_n(x) = B_n(x - \lfloor x \rfloor) b n ​ ( x ) = B n ​ ( x − ⌊ x ⌋)
+
+여기서 ⌊ x ⌋ \lfloor x \rfloor ⌊ x ⌋ 는 최대 정수 함수 이다. 그러면 임의의 정수 k k k 에 대해 다음이 성립한다. b n ( k ) = B n ( k − ⌊ k ⌋ ) = B n ( 0 ) = B n b_n(k) = B_n(k - \lfloor k \rfloor) = B_n(0) = B_n b n ​ ( k ) = B n ​ ( k − ⌊ k ⌋) = B n ​ ( 0 ) = B n ​
+
+한편, B 0 ( x ) = 1 B_0(x)=1 B 0 ​ ( x ) = 1 이므로 다음이 성립한다. b 0 ( x ) = 1 b_0(x) = 1 b 0 ​ ( x ) = 1
+
+이제 b n ( x ) b_n(x) b n ​ ( x ) 를 적분해보자. 임의의 정수 k k k 에 대해 구간 [ k , k + 1 ) [k,k+1) [ k , k + 1 ) 에서 b n ( x ) b_n(x) b n ​ ( x ) 를 적분하면 아래와 같다. ∫ k k + 1 b n ( x ) d x = lim ⁡ a → 1 − ∫ k k + a B n ( x − ⌊ x ⌋ ) d x = lim ⁡ a → 1 − ∫ k k + a B n ( x − k ) d x = lim ⁡ a → 1 − ∫ 0 a B n ( x ) d x = ⁣ [ 1 n + 1 B n + 1 ( x ) ] 0 1 = B n + 1 ( 1 ) − B n + 1 ( 0 ) n + 1 = B n + 1 + − B n + 1 n + 1 \displaystyle \begin{aligned} \int_k^{k+1} b_n(x) \,{\rm d}x &= \lim_{a\to1-} \int_k^{k+a} B_n(x - \lfloor x \rfloor) \,{\rm d}x = \lim_{a\to1-} \int_k^{k+a} B_n(x - k) \,{\rm d}x \\ &= \lim_{a\to1-} \int_0^a B_n(x) \,{\rm d}x = \!\biggl[ \frac1{n+1} B_{n+1}(x) \biggr]_0^1 = \frac{B_{n+1}(1) - B_{n+1}(0)}{n+1} \\ &= \frac{B^+_{n+1} - B_{n+1}}{n+1} \end{aligned} ∫ k k + 1 ​ b n ​ ( x ) d x ​ = a → 1 − lim ​ ∫ k k + a ​ B n ​ ( x − ⌊ x ⌋) d x = a → 1 − lim ​ ∫ k k + a ​ B n ​ ( x − k ) d x = a → 1 − lim ​ ∫ 0 a ​ B n ​ ( x ) d x = [ n + 1 1 ​ B n + 1 ​ ( x ) ] 0 1 ​ = n + 1 B n + 1 ​ ( 1 ) − B n + 1 ​ ( 0 ) ​ = n + 1 B n + 1 + ​ − B n + 1 ​ ​ ​
+
+본 문서에서는 이를 편의상 다음과 같이 표기하자. ∫ k k + 1 b n ( x ) d x = 1 n + 1 [ b n + 1 ( x ) ] k k + 1 = B n + 1 ( 1 ) − B n + 1 ( 0 ) n + 1 \displaystyle \begin{aligned} \int_k^{k+1} b_n(x) \,{\rm d}x = \frac1{n+1} [ b_{n+1}(x) ]_k^{k+1} = \frac{B_{n+1}(1) - B_{n+1}(0)}{n+1} \end{aligned} ∫ k k + 1 ​ b n ​ ( x ) d x = n + 1 1 ​ [ b n + 1 ​ ( x ) ] k k + 1 ​ = n + 1 B n + 1 ​ ( 1 ) − B n + 1 ​ ( 0 ) ​ ​
+
+즉, 아래의 첫째 줄처럼 계산해야 한다. 둘째 줄처럼 계산하면 틀린 계산이다. ∫ k k + 1 b n ( x ) d x = 1 n + 1 [ b n + 1 ( x ) ] k k + 1 = lim ⁡ a → 1 − b n + 1 ( k + a ) − b n + 1 ( k ) n + 1 = B n + 1 ( 1 ) − B n + 1 ( 0 ) n + 1 = B n + 1 + − B n + 1 n + 1 ≠ b n + 1 ( k + 1 ) − b n + 1 ( k ) n + 1 = B n + 1 ( 0 ) − B n + 1 ( 0 ) n + 1 = 0 \displaystyle \begin{aligned} \int_k^{k+1} b_n(x) \,{\rm d}x = \frac1{n+1} [ b_{n+1}(x) ]_k^{k+1} &= \frac{\displaystyle \lim_{a\to1-} b_{n+1}(k+a) - b_{n+1}(k)}{n+1} = \frac{B_{n+1}(1) - B_{n+1}(0)}{n+1} = \frac{B^+_{n+1} - B_{n+1}}{n+1} \\ &\ne \frac{b_{n+1}(k+1) - b_{n+1}(k)}{n+1} = \frac{B_{n+1}(0) - B_{n+1}(0)}{n+1} = 0 \end{aligned} ∫ k k + 1 ​ b n ​ ( x ) d x = n + 1 1 ​ [ b n + 1 ​ ( x ) ] k k + 1 ​ ​ = n + 1 a → 1 − lim ​ b n + 1 ​ ( k + a ) − b n + 1 ​ ( k ) ​ = n + 1 B n + 1 ​ ( 1 ) − B n + 1 ​ ( 0 ) ​ = n + 1 B n + 1 + ​ − B n + 1 ​ ​  = n + 1 b n + 1 ​ ( k + 1 ) − b n + 1 ​ ( k ) ​ = n + 1 B n + 1 ​ ( 0 ) − B n + 1 ​ ( 0 ) ​ = 0 ​
+
+3. 증명 [편집]
+b 0 ( x ) = 1 b_0(x) = 1 b 0 ​ ( x ) = 1 이므로, m ≤ k < n m \le k < n m ≤ k < n 인 정수 k k k 에 대해 f ( x ) f(x) f ( x ) 를 다음과 같이 적분할 수 있다. ∫ k k + 1 f ( x ) d x = ∫ k k + 1 b 0 ( x ) f ( x ) d x = 1 1 ! [ b 1 ( x ) f ( x ) ] k k + 1 − 1 1 ! ∫ k k + 1 b 1 ( x ) f ′ ( x ) d x = 1 1 ! [ b 1 ( x ) f ( x ) ] k k + 1 − 1 2 ! [ b 2 ( x ) f ′ ( x ) ] k k + 1 + 1 2 ! ∫ k k + 1 b 2 ( x ) f ′ ′ ( x ) d x = 1 1 ! [ b 1 ( x ) f ( x ) ] k k + 1 − 1 2 ! [ b 2 ( x ) f ′ ( x ) ] k k + 1 + 1 3 ! [ b 3 ( x ) f ′ ′ ( x ) ] k k + 1 − 1 3 ! ∫ k k + 1 b 3 ( x ) f ′ ′ ′ ( x ) d x = ⋯ = ∑ r = 1 p ( − 1 ) r − 1 r ! [ b r ( x ) f ( r − 1 ) ( x ) ] k k + 1 − ( − 1 ) p + 1 p ! ∫ k k + 1 b p ( x ) f ( p ) ( x ) d x \displaystyle \begin{aligned} \int_k^{k+1} f(x) \,{\rm d}x &= \int_k^{k+1} b_0(x) f(x) \,{\rm d}x \\ &= \frac1{1!} \biggl[ b_1(x)f(x) \biggr]_k^{k+1} -\frac1{1!} \int_k^{k+1} b_1(x)f'(x) \,{\rm d}x \\ &= \frac1{1!} \biggl[ b_1(x)f(x) \biggr]_k^{k+1} -\frac1{2!} \biggl[ b_2(x)f'(x) \biggr]_k^{k+1} +\frac1{2!} \int_k^{k+1} b_2(x)f''(x) \,{\rm d}x \\ &= \frac1{1!} \biggl[ b_1(x)f(x) \biggr]_k^{k+1} -\frac1{2!} \biggl[ b_2(x)f'(x) \biggr]_k^{k+1} +\frac1{3!} \biggl[ b_3(x)f''(x) \biggr]_k^{k+1} -\frac1{3!} \int_k^{k+1} b_3(x)f'''(x) \,{\rm d}x \\ &= \cdots \\ &= \sum_{r=1}^p \frac{(-1)^{r-1}}{r!} [ b_r(x)f^{(r-1)}(x) ]_k^{k+1} -\frac{(-1)^{p+1}}{p!} \int_k^{k+1} b_p(x)f^{(p)}(x) \,{\rm d}x \end{aligned} ∫ k k + 1 ​ f ( x ) d x ​ = ∫ k k + 1 ​ b 0 ​ ( x ) f ( x ) d x = 1 ! 1 ​ [ b 1 ​ ( x ) f ( x ) ] k k + 1 ​ − 1 ! 1 ​ ∫ k k + 1 ​ b 1 ​ ( x ) f ′ ( x ) d x = 1 ! 1 ​ [ b 1 ​ ( x ) f ( x ) ] k k + 1 ​ − 2 ! 1 ​ [ b 2 ​ ( x ) f ′ ( x ) ] k k + 1 ​ + 2 ! 1 ​ ∫ k k + 1 ​ b 2 ​ ( x ) f ′′ ( x ) d x = 1 ! 1 ​ [ b 1 ​ ( x ) f ( x ) ] k k + 1 ​ − 2 ! 1 ​ [ b 2 ​ ( x ) f ′ ( x ) ] k k + 1 ​ + 3 ! 1 ​ [ b 3 ​ ( x ) f ′′ ( x ) ] k k + 1 ​ − 3 ! 1 ​ ∫ k k + 1 ​ b 3 ​ ( x ) f ′′′ ( x ) d x = ⋯ = r = 1 ∑ p ​ r ! ( − 1 ) r − 1 ​ [ b r ​ ( x ) f ( r − 1 ) ( x ) ] k k + 1 ​ − p ! ( − 1 ) p + 1 ​ ∫ k k + 1 ​ b p ​ ( x ) f ( p ) ( x ) d x ​
+
+한편, r = 1 r=1 r = 1 인 경우 시그마 안의 항을 다음과 같이 정리할 수 있고 1 1 ! [ b 1 ( x ) f ( x ) ] k k + 1 = B 1 ( 1 ) f ( k + 1 ) − B 1 ( 0 ) f ( k ) = 1 2 ( f ( k + 1 ) + f ( k ) ) \begin{aligned} \dfrac1{1!} [ b_1(x)f(x) ]_k^{k+1} &= B_1(1)f(k+1) -B_1(0)f(k) \\ &= \dfrac12 ( f(k+1)+f(k) ) \end{aligned} 1 ! 1 ​ [ b 1 ​ ( x ) f ( x ) ] k k + 1 ​ ​ = B 1 ​ ( 1 ) f ( k + 1 ) − B 1 ​ ( 0 ) f ( k ) = 2 1 ​ ( f ( k + 1 ) + f ( k )) ​
+
+r ≥ 2 r\ge2 r ≥ 2 의 짝수인 경우, b r ( k + 1 ) = B r ( 1 ) = B r + = B r b_r(k+1) = B_r(1) = B^+_r = B_r b r ​ ( k + 1 ) = B r ​ ( 1 ) = B r + ​ = B r ​ 이고 b r ( k ) = B r ( 0 ) = B r b_r(k) = B_r(0) = B_r b r ​ ( k ) = B r ​ ( 0 ) = B r ​ 이므로 다음과 같다. ( − 1 ) r − 1 r ! [ b r ( x ) f ( r − 1 ) ( x ) ] k k + 1 = − 1 r ! ( B r f ( r − 1 ) ( k + 1 ) − B r f ( r − 1 ) ( k ) ) = − B r r ! ( f ( r − 1 ) ( k + 1 ) − f ( r − 1 ) ( k ) ) \begin{aligned} \dfrac{(-1)^{r-1}}{r!} [ b_r(x)f^{(r-1)}(x) ]_k^{k+1} &= \dfrac{-1}{r!} ( B_rf^{(r-1)}(k+1) -B_rf^{(r-1)}(k) ) \\ &= -\dfrac{B_r}{r!} ( f^{(r-1)}(k+1) -f^{(r-1)}(k) ) \end{aligned} r ! ( − 1 ) r − 1 ​ [ b r ​ ( x ) f ( r − 1 ) ( x ) ] k k + 1 ​ ​ = r ! − 1 ​ ( B r ​ f ( r − 1 ) ( k + 1 ) − B r ​ f ( r − 1 ) ( k )) = − r ! B r ​ ​ ( f ( r − 1 ) ( k + 1 ) − f ( r − 1 ) ( k )) ​
+
+r ≥ 2 r\ge2 r ≥ 2 의 홀수인 경우, b r ( k + 1 ) = b r ( k ) = B r = 0 b_r(k+1) = b_r(k) = B_r = 0 b r ​ ( k + 1 ) = b r ​ ( k ) = B r ​ = 0 이어서 아래와 같이 항이 지워지므로 홀수인 항은 신경쓸 필요가 없다. ( − 1 ) r − 1 r ! [ b r ( x ) f ( r − 1 ) ( x ) ] k k + 1 = ( − 1 ) r − 1 r ! ( b r ( k + 1 ) f ( r − 1 ) ( k + 1 ) − b r ( k ) f ( r − 1 ) ( k ) ) = 0 \begin{aligned} \dfrac{(-1)^{r-1}}{r!} [ b_r(x)f^{(r-1)}(x) ]_k^{k+1} &= \dfrac{(-1)^{r-1}}{r!} ( b_r(k+1)f^{(r-1)}(k+1) -b_r(k)f^{(r-1)}(k) ) \\ &= 0 \end{aligned} r ! ( − 1 ) r − 1 ​ [ b r ​ ( x ) f ( r − 1 ) ( x ) ] k k + 1 ​ ​ = r ! ( − 1 ) r − 1 ​ ( b r ​ ( k + 1 ) f ( r − 1 ) ( k + 1 ) − b r ​ ( k ) f ( r − 1 ) ( k )) = 0 ​
+
+따라서 위 세 경우를 모두 종합하면 아래와 같이 정리된다. ∫ k k + 1 f ( x ) d x = ∑ r = 1 p ( − 1 ) r − 1 r ! [ b r ( x ) f ( r − 1 ) ( x ) ] k k + 1 + ( − 1 ) p p ! ∫ k k + 1 b p ( x ) f ( p ) ( x ) d x = 1 2 ( f ( k + 1 ) + f ( k ) ) − ∑ r = 2 p B r r ! ( f ( r − 1 ) ( k + 1 ) − f ( r − 1 ) ( k ) ) − ( − 1 ) p + 1 p ! ∫ k k + 1 b p ( x ) f ( p ) ( x ) d x \displaystyle \begin{aligned} \int_k^{k+1} f(x) \,{\rm d}x &= \sum_{r=1}^p \frac{(-1)^{r-1}}{r!} [ b_r(x)f^{(r-1)}(x) ]_k^{k+1} +\frac{(-1)^p}{p!} \int_k^{k+1} b_p(x)f^{(p)}(x) \,{\rm d}x \\ &= \frac12 ( f(k+1) +f(k) ) -\sum_{r=2}^p \frac{B_r}{r!} ( f^{(r-1)}(k+1) -f^{(r-1)}(k) ) -\frac{(-1)^{p+1}}{p!} \int_k^{k+1} b_p(x)f^{(p)}(x) \,{\rm d}x \end{aligned} ∫ k k + 1 ​ f ( x ) d x ​ = r = 1 ∑ p ​ r ! ( − 1 ) r − 1 ​ [ b r ​ ( x ) f ( r − 1 ) ( x ) ] k k + 1 ​ + p ! ( − 1 ) p ​ ∫ k k + 1 ​ b p ​ ( x ) f ( p ) ( x ) d x = 2 1 ​ ( f ( k + 1 ) + f ( k )) − r = 2 ∑ p ​ r ! B r ​ ​ ( f ( r − 1 ) ( k + 1 ) − f ( r − 1 ) ( k )) − p ! ( − 1 ) p + 1 ​ ∫ k k + 1 ​ b p ​ ( x ) f ( p ) ( x ) d x ​
+
+위 식을 k = m k=m k = m 부터 k = n − 1 k=n-1 k = n − 1 까지 합하자. ∑ k = m n − 1 ∫ k k + 1 f ( x ) d x = ∫ m n f ( x ) d x = ∑ k = m n − 1 [ 1 2 ( f ( k + 1 ) + f ( k ) ) − ∑ r = 2 p B r r ! ( f ( r − 1 ) ( k + 1 ) − f ( r − 1 ) ( k ) ) − ( − 1 ) p + 1 p ! ∫ k k + 1 b p ( x ) f ( p ) ( x ) d x ] = ∑ k = m n − 1 f ( k + 1 ) + f ( k ) 2 − ∑ r = 2 p B r r ! ∑ k = m n − 1 ( f ( r − 1 ) ( k + 1 ) − f ( r − 1 ) ( k ) ) − ( − 1 ) p + 1 p ! ∑ k = m n − 1 ∫ k k + 1 b p ( x ) f ( p ) ( x ) d x = ⁣ ( ∑ k = m n f ( k ) − f ( n ) + f ( m ) 2 ) ⁣ − ∑ r = 2 p B r r ! ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m ) ) − ( − 1 ) p + 1 p ! ∫ m n b p ( x ) f ( p ) ( x ) d x ⇒ ∫ m n f ( x ) d x = ⁣ ( ∑ k = m n f ( k ) − f ( n ) + f ( m ) 2 ) ⁣ − ∑ r = 2 p B r r ! ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m ) ) − ( − 1 ) p + 1 p ! ∫ m n b p ( x ) f ( p ) ( x ) d x \displaystyle \begin{aligned} \sum_{k=m}^{n-1} \int_k^{k+1} f(x) \,{\rm d}x &= \int_m^n f(x) \,{\rm d}x \\ &= \sum_{k=m}^{n-1} \Biggl[ \frac12 ( f(k+1) +f(k) ) -\sum_{r=2}^p \frac{B_r}{r!} ( f^{(r-1)}(k+1) -f^{(r-1)}(k) ) -\frac{(-1)^{p+1}}{p!} \int_k^{k+1} b_p(x)f^{(p)}(x) \,{\rm d}x \Biggr] \\ &= \sum_{k=m}^{n-1} \frac{f(k+1) +f(k)}2 -\sum_{r=2}^p \frac{B_r}{r!} \sum_{k=m}^{n-1} ( f^{(r-1)}(k+1) -f^{(r-1)}(k) ) -\frac{(-1)^{p+1}}{p!} \sum_{k=m}^{n-1} \int_k^{k+1} b_p(x)f^{(p)}(x) \,{\rm d}x \\ &= \!\Biggl( \sum_{k=m}^n f(k) -\frac{f(n)+f(m)}2 \Biggr) \!-\sum_{r=2}^p \frac{B_r}{r!} ( f^{(r-1)}(n) -f^{(r-1)}(m) ) -\frac{(-1)^{p+1}}{p!} \int_m^n b_p(x)f^{(p)}(x) \,{\rm d}x \\ \Rightarrow \int_m^n f(x) \,{\rm d}x &= \!\Biggl( \sum_{k=m}^n f(k) -\frac{f(n)+f(m)}2 \Biggr) \!-\sum_{r=2}^p \frac{B_r}{r!} ( f^{(r-1)}(n) -f^{(r-1)}(m) ) -\frac{(-1)^{p+1}}{p!} \int_m^n b_p(x)f^{(p)}(x) \,{\rm d}x \end{aligned} k = m ∑ n − 1 ​ ∫ k k + 1 ​ f ( x ) d x ⇒ ∫ m n ​ f ( x ) d x ​ = ∫ m n ​ f ( x ) d x = k = m ∑ n − 1 ​ [ 2 1 ​ ( f ( k + 1 ) + f ( k )) − r = 2 ∑ p ​ r ! B r ​ ​ ( f ( r − 1 ) ( k + 1 ) − f ( r − 1 ) ( k )) − p ! ( − 1 ) p + 1 ​ ∫ k k + 1 ​ b p ​ ( x ) f ( p ) ( x ) d x ] = k = m ∑ n − 1 ​ 2 f ( k + 1 ) + f ( k ) ​ − r = 2 ∑ p ​ r ! B r ​ ​ k = m ∑ n − 1 ​ ( f ( r − 1 ) ( k + 1 ) − f ( r − 1 ) ( k )) − p ! ( − 1 ) p + 1 ​ k = m ∑ n − 1 ​ ∫ k k + 1 ​ b p ​ ( x ) f ( p ) ( x ) d x = ( k = m ∑ n ​ f ( k ) − 2 f ( n ) + f ( m ) ​ ) − r = 2 ∑ p ​ r ! B r ​ ​ ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m )) − p ! ( − 1 ) p + 1 ​ ∫ m n ​ b p ​ ( x ) f ( p ) ( x ) d x = ( k = m ∑ n ​ f ( k ) − 2 f ( n ) + f ( m ) ​ ) − r = 2 ∑ p ​ r ! B r ​ ​ ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m )) − p ! ( − 1 ) p + 1 ​ ∫ m n ​ b p ​ ( x ) f ( p ) ( x ) d x ​
+
+f ( k ) f(k) f ( k ) 에 대한 합만 남기고 나머지 항을 다 넘기면 ∑ k = m n f ( k ) = ∫ m n f ( x ) d x + f ( n ) + f ( m ) 2 + ∑ r = 2 p B r r ! ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m ) ) + ( − 1 ) p + 1 p ! ∫ m n b p ( x ) f ( p ) ( x ) d x \displaystyle \begin{aligned} \sum_{k=m}^n f(k) = \int_m^n f(x) \,{\rm d}x +\frac{f(n)+f(m)}2 +\sum_{r=2}^p \frac{B_r}{r!} ( f^{(r-1)}(n) -f^{(r-1)}(m) ) +\frac{(-1)^{p+1}}{p!} \int_m^n b_p(x)f^{(p)}(x) \,{\rm d}x \end{aligned} k = m ∑ n ​ f ( k ) = ∫ m n ​ f ( x ) d x + 2 f ( n ) + f ( m ) ​ + r = 2 ∑ p ​ r ! B r ​ ​ ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m )) + p ! ( − 1 ) p + 1 ​ ∫ m n ​ b p ​ ( x ) f ( p ) ( x ) d x ​
+
+양 변에서 f ( n ) f(n) f ( n ) 을 빼면 ∑ k = m n − 1 f ( k ) = ∫ m n f ( x ) d x − f ( n ) − f ( m ) 2 + ∑ r = 2 p B r r ! ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m ) ) + ( − 1 ) p + 1 p ! ∫ m n b p ( x ) f ( p ) ( x ) d x \displaystyle \begin{aligned} \sum_{k=m}^{n-1} f(k) = \int_m^n f(x) \,{\rm d}x -\frac{f(n)-f(m)}2 +\sum_{r=2}^p \frac{B_r}{r!} ( f^{(r-1)}(n) -f^{(r-1)}(m) ) +\frac{(-1)^{p+1}}{p!} \int_m^n b_p(x)f^{(p)}(x) \,{\rm d}x \end{aligned} k = m ∑ n − 1 ​ f ( k ) = ∫ m n ​ f ( x ) d x − 2 f ( n ) − f ( m ) ​ + r = 2 ∑ p ​ r ! B r ​ ​ ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m )) + p ! ( − 1 ) p + 1 ​ ∫ m n ​ b p ​ ( x ) f ( p ) ( x ) d x ​
+
+B 1 = − 1 2 B_1 = -\dfrac12 B 1 ​ = − 2 1 ​ 이므로 다음과 같이 분수 항을 시그마 안으로 넣을 수 있다. ∑ k = m n − 1 f ( k ) = ∫ m n f ( x ) d x + ∑ r = 1 p B r r ! ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m ) ) + ( − 1 ) p + 1 p ! ∫ m n b p ( x ) f ( p ) ( x ) d x = ∫ m n f ( x ) d x + ∑ r = 1 p B r r ! ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m ) ) + ( − 1 ) p + 1 p ! ∫ m n B p ( x − ⌊ x ⌋ ) f ( p ) ( x ) d x \displaystyle \begin{aligned} \sum_{k=m}^{n-1} f(k) &= \int_m^n f(x) \,{\rm d}x +\sum_{r=1}^p \frac{B_r}{r!} ( f^{(r-1)}(n) -f^{(r-1)}(m) ) +\frac{(-1)^{p+1}}{p!} \int_m^n b_p(x)f^{(p)}(x) \,{\rm d}x \\ &= \int_m^n f(x) \,{\rm d}x +\sum_{r=1}^p \frac{B_r}{r!} ( f^{(r-1)}(n) -f^{(r-1)}(m) ) +\frac{(-1)^{p+1}}{p!} \int_m^n B_p(x-\lfloor x\rfloor)f^{(p)}(x) \,{\rm d}x \\ \end{aligned} k = m ∑ n − 1 ​ f ( k ) ​ = ∫ m n ​ f ( x ) d x + r = 1 ∑ p ​ r ! B r ​ ​ ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m )) + p ! ( − 1 ) p + 1 ​ ∫ m n ​ b p ​ ( x ) f ( p ) ( x ) d x = ∫ m n ​ f ( x ) d x + r = 1 ∑ p ​ r ! B r ​ ​ ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m )) + p ! ( − 1 ) p + 1 ​ ∫ m n ​ B p ​ ( x − ⌊ x ⌋) f ( p ) ( x ) d x ​
+
+3.1. 다른 형태들 [편집]
+앞서 증명한 형태는 다음과 같다. 본 문단에서는 편의를 위해 이를 형태1 로 부를 것이다. ∑ k = m n − 1 f ( k ) = ∫ m n f ( x ) d x + ∑ r = 1 p B r r ! ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m ) ) + ( − 1 ) p + 1 p ! ∫ m n B p ( x − ⌊ x ⌋ ) f ( p ) ( x ) d x \displaystyle \begin{aligned} \sum_{k=m}^{n-1} f(k) = \int_m^n f(x) \,{\rm d}x +\sum_{r=1}^p \frac{B_r}{r!} ( f^{(r-1)}(n) -f^{(r-1)}(m) ) +\frac{(-1)^{p+1}}{p!} \int_m^n B_p(x-\lfloor x\rfloor) f^{(p)}(x) \,{\rm d}x \end{aligned} k = m ∑ n − 1 ​ f ( k ) = ∫ m n ​ f ( x ) d x + r = 1 ∑ p ​ r ! B r ​ ​ ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m )) + p ! ( − 1 ) p + 1 ​ ∫ m n ​ B p ​ ( x − ⌊ x ⌋) f ( p ) ( x ) d x ​
+
+아래에서 소개하는 형태들은 모두 똑같은 이름으로 불리고 있지만, 일부가 미묘하게 다른 식들이다. 물론 모두 같은 의미를 지니고 있다. 모두 현장에서 각각의 필요에 맞게 약간의 변형을 가한 식들이다.
+
+위의 형태1에서 r = 1 r=1 r = 1 인 부분을 시그마 밖으로 빼내자. B 1 = − 1 2 B_1=-\dfrac12 B 1 ​ = − 2 1 ​ 임을 이용하면 다음과 같다. ∑ k = m n − 1 f ( k ) = ∫ m n f ( x ) d x − f ( n ) − f ( m ) 2 + ∑ r = 2 p B r r ! ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m ) ) + ( − 1 ) p + 1 p ! ∫ m n B p ( x − ⌊ x ⌋ ) f ( p ) ( x ) d x \displaystyle \begin{aligned} \sum_{k=m}^{n-1} f(k) = \int_m^n f(x) \,{\rm d}x -\frac{f(n)-f(m)}2 +\sum_{r=2}^p \frac{B_r}{r!} ( f^{(r-1)}(n) -f^{(r-1)}(m) ) +\frac{(-1)^{p+1}}{p!} \int_m^n B_p(x-\lfloor x\rfloor) f^{(p)}(x) \,{\rm d}x \end{aligned} k = m ∑ n − 1 ​ f ( k ) = ∫ m n ​ f ( x ) d x − 2 f ( n ) − f ( m ) ​ + r = 2 ∑ p ​ r ! B r ​ ​ ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m )) + p ! ( − 1 ) p + 1 ​ ∫ m n ​ B p ​ ( x − ⌊ x ⌋) f ( p ) ( x ) d x ​
+
+양 변에 f ( n ) f(n) f ( n ) 을 더하면 아래와 같은 형태2 가 얻어진다. ∑ k = m n f ( k ) = ∫ m n f ( x ) d x + f ( n ) + f ( m ) 2 + ∑ r = 2 p B r r ! ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m ) ) + ( − 1 ) p + 1 p ! ∫ m n B p ( x − ⌊ x ⌋ ) f ( p ) ( x ) d x \displaystyle \begin{aligned} \sum_{k=m}^n f(k) = \int_m^n f(x) \,{\rm d}x +\frac{f(n)+f(m)}2 +\sum_{r=2}^p \frac{B_r}{r!} ( f^{(r-1)}(n) -f^{(r-1)}(m) ) +\frac{(-1)^{p+1}}{p!} \int_m^n B_p(x-\lfloor x\rfloor) f^{(p)}(x) \,{\rm d}x \end{aligned} k = m ∑ n ​ f ( k ) = ∫ m n ​ f ( x ) d x + 2 f ( n ) + f ( m ) ​ + r = 2 ∑ p ​ r ! B r ​ ​ ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m )) + p ! ( − 1 ) p + 1 ​ ∫ m n ​ B p ​ ( x − ⌊ x ⌋) f ( p ) ( x ) d x ​
+
+형태2의 양 변에서 f ( m ) f(m) f ( m ) 을 빼면 다음과 같다. ∑ k = m + 1 n f ( k ) = ∫ m n f ( x ) d x + f ( n ) − f ( m ) 2 + ∑ r = 2 p B r r ! ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m ) ) + ( − 1 ) p + 1 p ! ∫ m n B p ( x − ⌊ x ⌋ ) f ( p ) ( x ) d x \displaystyle \begin{aligned} \sum_{k=m+1}^n f(k) = \int_m^n f(x) \,{\rm d}x +\frac{f(n)-f(m)}2 +\sum_{r=2}^p \frac{B_r}{r!} ( f^{(r-1)}(n) -f^{(r-1)}(m) ) +\frac{(-1)^{p+1}}{p!} \int_m^n B_p(x-\lfloor x\rfloor) f^{(p)}(x) \,{\rm d}x \end{aligned} k = m + 1 ∑ n ​ f ( k ) = ∫ m n ​ f ( x ) d x + 2 f ( n ) − f ( m ) ​ + r = 2 ∑ p ​ r ! B r ​ ​ ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m )) + p ! ( − 1 ) p + 1 ​ ∫ m n ​ B p ​ ( x − ⌊ x ⌋) f ( p ) ( x ) d x ​
+
+B 1 + = 1 2 B^+_1=\dfrac12 B 1 + ​ = 2 1 ​ 이고 r ≥ 2 r\ge2 r ≥ 2 인 모든 r r r 에 대해 B r + = B r B^+_r=B_r B r + ​ = B r ​ 임을 이용하면 아래와 같은 형태3 을 얻을 수 있다. ∑ k = m + 1 n f ( k ) = ∫ m n f ( x ) d x + ∑ r = 1 p B r + r ! ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m ) ) + ( − 1 ) p + 1 p ! ∫ m n B p ( x − ⌊ x ⌋ ) f ( p ) ( x ) d x \displaystyle \begin{aligned} \sum_{k=m+1}^n f(k) = \int_m^n f(x) \,{\rm d}x +\sum_{r=1}^p \frac{B^+_r}{r!} ( f^{(r-1)}(n) -f^{(r-1)}(m) ) +\frac{(-1)^{p+1}}{p!} \int_m^n B_p(x-\lfloor x\rfloor) f^{(p)}(x) \,{\rm d}x \end{aligned} k = m + 1 ∑ n ​ f ( k ) = ∫ m n ​ f ( x ) d x + r = 1 ∑ p ​ r ! B r + ​ ​ ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m )) + p ! ( − 1 ) p + 1 ​ ∫ m n ​ B p ​ ( x − ⌊ x ⌋) f ( p ) ( x ) d x ​
+
+형태2에서 r r r 이 r ≥ 2 r\ge2 r ≥ 2 인 홀수인 경우 B r = 0 B_r=0 B r ​ = 0 이므로 급수에 아무런 영향을 미치지 않는다. 따라서 시그마에서 r r r 이 짝수인 경우에 대한 항만 더해도 충분하다. 그러면 아래와 같이 형태4 를 얻을 수 있다. ∑ k = m n f ( k ) = ∫ m n f ( x ) d x + f ( n ) + f ( m ) 2 + ∑ r = 1 ⌊ p 2 ⌋ B 2 r ( 2 r ) ! ( f ( 2 r − 1 ) ( n ) − f ( 2 r − 1 ) ( m ) ) + ( − 1 ) p + 1 p ! ∫ m n B p ( x − ⌊ x ⌋ ) f ( p ) ( x ) d x \displaystyle \begin{aligned} \sum_{k=m}^n f(k) = \int_m^n f(x) \,{\rm d}x +\frac{f(n)+f(m)}2 +\sum_{r=1}^{\normalsize \lfloor \frac p2 \rfloor} \frac{B_{2r}}{(2r)!} ( f^{(2r-1)}(n) -f^{(2r-1)}(m) ) +\frac{(-1)^{p+1}}{p!} \int_m^n B_p(x-\lfloor x\rfloor) f^{(p)}(x) \,{\rm d}x \end{aligned} k = m ∑ n ​ f ( k ) = ∫ m n ​ f ( x ) d x + 2 f ( n ) + f ( m ) ​ + r = 1 ∑ ⌊ 2 p ​ ⌋ ​ ( 2 r )! B 2 r ​ ​ ( f ( 2 r − 1 ) ( n ) − f ( 2 r − 1 ) ( m )) + p ! ( − 1 ) p + 1 ​ ∫ m n ​ B p ​ ( x − ⌊ x ⌋) f ( p ) ( x ) d x ​
+
+p = 2 q p=2q p = 2 q 로 치환하자. ∑ k = m n f ( k ) = ∫ m n f ( x ) d x + f ( n ) + f ( m ) 2 + ∑ r = 1 q B 2 r ( 2 r ) ! ( f ( 2 r − 1 ) ( n ) − f ( 2 r − 1 ) ( m ) ) − 1 ( 2 q ) ! ∫ m n B 2 q ( x − ⌊ x ⌋ ) f ( 2 q ) ( x ) d x \displaystyle \begin{aligned} \sum_{k=m}^n f(k) = \int_m^n f(x) \,{\rm d}x +\frac{f(n)+f(m)}2 +\sum_{r=1}^{q} \frac{B_{2r}}{(2r)!} ( f^{(2r-1)}(n) -f^{(2r-1)}(m) ) -\frac1{(2q)!} \int_m^n B_{2q}(x-\lfloor x\rfloor) f^{(2q)}(x) \,{\rm d}x \end{aligned} k = m ∑ n ​ f ( k ) = ∫ m n ​ f ( x ) d x + 2 f ( n ) + f ( m ) ​ + r = 1 ∑ q ​ ( 2 r )! B 2 r ​ ​ ( f ( 2 r − 1 ) ( n ) − f ( 2 r − 1 ) ( m )) − ( 2 q )! 1 ​ ∫ m n ​ B 2 q ​ ( x − ⌊ x ⌋) f ( 2 q ) ( x ) d x ​
+
+부분적분을 한번 더 수행하면 다음과 같다. ∑ k = m n f ( k ) = ∫ m n f ( x ) d x + f ( n ) + f ( m ) 2 + ∑ r = 1 q B 2 r ( 2 r ) ! ( f ( 2 r − 1 ) ( n ) − f ( 2 r − 1 ) ( m ) ) − B 2 q + 1 ( 2 q + 1 ) ! ( f ( 2 q ) ( n ) − f ( 2 q ) ( m ) ) + 1 ( 2 q + 1 ) ! ∫ m n B 2 q + 1 ( x − ⌊ x ⌋ ) f ( 2 q + 1 ) ( x ) d x \displaystyle \begin{aligned} \sum_{k=m}^n f(k) =& \int_m^n f(x) \,{\rm d}x +\frac{f(n)+f(m)}2 +\sum_{r=1}^{q} \frac{B_{2r}}{(2r)!} ( f^{(2r-1)}(n) -f^{(2r-1)}(m) ) \\ &-\frac{B_{2q+1}}{(2q+1)!} ( f^{(2q)}(n) -f^{(2q)}(m) ) +\frac1{(2q+1)!} \int_m^n B_{2q+1}(x-\lfloor x\rfloor) f^{(2q+1)}(x) \,{\rm d}x \end{aligned} k = m ∑ n ​ f ( k ) = ​ ∫ m n ​ f ( x ) d x + 2 f ( n ) + f ( m ) ​ + r = 1 ∑ q ​ ( 2 r )! B 2 r ​ ​ ( f ( 2 r − 1 ) ( n ) − f ( 2 r − 1 ) ( m )) − ( 2 q + 1 )! B 2 q + 1 ​ ​ ( f ( 2 q ) ( n ) − f ( 2 q ) ( m )) + ( 2 q + 1 )! 1 ​ ∫ m n ​ B 2 q + 1 ​ ( x − ⌊ x ⌋) f ( 2 q + 1 ) ( x ) d x ​
+
+B 2 q + 1 = 0 B_{2q+1}=0 B 2 q + 1 ​ = 0 이므로 부분적분으로 생긴 분수 항은 사라지고 마지막 적분만 남는다. 그러면 아래와 같이 형태5 가 얻어진다. ∑ k = m n f ( k ) = ∫ m n f ( x ) d x + f ( n ) + f ( m ) 2 + ∑ r = 1 q B 2 r ( 2 r ) ! ( f ( 2 r − 1 ) ( n ) − f ( 2 r − 1 ) ( m ) ) + 1 ( 2 q + 1 ) ! ∫ m n B 2 q + 1 ( x − ⌊ x ⌋ ) f ( 2 q + 1 ) ( x ) d x \displaystyle \begin{aligned} \sum_{k=m}^n f(k) =& \int_m^n f(x) \,{\rm d}x +\frac{f(n)+f(m)}2 +\sum_{r=1}^{q} \frac{B_{2r}}{(2r)!} ( f^{(2r-1)}(n) -f^{(2r-1)}(m) ) +\frac1{(2q+1)!} \int_m^n B_{2q+1}(x-\lfloor x\rfloor) f^{(2q+1)}(x) \,{\rm d}x \end{aligned} k = m ∑ n ​ f ( k ) = ​ ∫ m n ​ f ( x ) d x + 2 f ( n ) + f ( m ) ​ + r = 1 ∑ q ​ ( 2 r )! B 2 r ​ ​ ( f ( 2 r − 1 ) ( n ) − f ( 2 r − 1 ) ( m )) + ( 2 q + 1 )! 1 ​ ∫ m n ​ B 2 q + 1 ​ ( x − ⌊ x ⌋) f ( 2 q + 1 ) ( x ) d x ​
+
+4. 사용 [편집]
+제타 함수 의 음의 정수로의 해석적 연속 , 스털링 근사 의 증명 등에 쓰인다. [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 여성강사 가능! 일신운전학원
+isdrive.co.kr
+불안한 초보도 안심! 여성 강사 배치, 1:1 집중지도, 카카오&네이버톡톡 상담
+
+] | [ 남동구이사 하나로퀵
+www.1577-3410.com
+[ [ 기사실명제퀵 ] [ 빠르게배송퀵 ] [ 퀵서비스전문 ] [ 배송배달조회 ] ]
+5분 내 출발 가능! 오토바이 용달 빠른 당일퀵배송 실명제퀵기사 안전배송퀵전문업체
+
+]
+
+[1] 0 0 0 이상의 정수 [2] 구간 [ m , n ] [m,n] [ m , n ] 에서 p p p 계도함수가 연속 ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

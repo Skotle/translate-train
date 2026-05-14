@@ -1,0 +1,119 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 2차 잉여
+최근 수정 시각: 2026-03-11 00:37:52 [ [ [ ] [ [ 5 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 정수론
+]
+
+[ [ ] [ 정수론
+Number Theory
+[ 펼치기 · 접기 ] 공리
+페아노 공리계 · 정렬 원리 · 수학적 귀납법 · 아르키메데스 성질
+산술
+나눗셈 | 약수 · 배수 | 배수 · 약수 ( 소인수 ) · 소인수분해 ( 목록 · 알고리즘 ) · 공배수 · 공약수 · 최소공배수 · 최대공약수
+약수들의 합에 따른 수의 분류 | 완전수 · 부족수 · 과잉수 ( 반완전수 · 괴짜수 ) · 친화수 · 사교수 · 혼약수 · 불가촉 수
+정리 | 베주 항등식 · 산술의 기본정리 · 나눗셈 정리
+기타 | 유클리드 호제법 · 서로소 · 페리 수열
+디오판토스 방정식 | 페르마의 마지막 정리 · 피타고라스 세 쌍 · 과일 분수방정식 문제 · 버치-스위너턴다이어 추측 (미해결)
+모듈러 연산
+모듈러 역원 · 2차 잉여 · 기약잉여계 · 완전잉여계 · 중국인의 나머지 정리 · 합동식 · 페르마의 소정리 · 오일러 정리 · 윌슨의 정리
+소수론
+수의 분류 | 소수 · 합성수 · 메르센 소수 · 쌍둥이 소수 ( 사촌 소수 · 섹시 소수 ) · 페르마 소수 · 레퓨닛 수
+분야 | 대수적 정수론 ( 국소체 ) · 해석적 정수론
+산술함수 | 뫼비우스 함수 · 소수 계량 함수 · 소인수 계량 함수 · 약수 함수 · 오일러 파이 함수 · 폰 망골트 함수 · 체비쇼프 함수 · 소수생성다항식
+정리 | 그린 타오 정리 · 페르마의 두 제곱수 정리 · 디리클레 정리 · 소피 제르맹의 정리 · 리만 가설 (미해결) · 골드바흐 추측 (미해결) ( 천의 정리 ) · 폴리냑 추측 (미해결) · 소수 정리
+기타 | 에라토스테네스의 체 · 윌런스의 공식 · 밀러-라빈 소수판별법 · 울람 나선
+
+1 . 개요 2 . 성질 2.1 . 오일러 판정법 2.2 . 가우스 판정법 2.3 . 가우스 의 상호법칙 3 . 관련 문서
+
+1. 개요 [편집]
+二 次 剩 餘 / quadratic residue
+
+m m m 이 1보다 큰 자연수이고, gcd ⁡ ( a , m ) = 1 \gcd(a,m)=1 g cd ( a , m ) = 1 일 때, 합동식 x 2 ≡ a ( m o d m ) x^2\equiv a\pmod m x 2 ≡ a ( mod m ) 이 해를 가지면 a a a 를 법 m m m 에 관한 2차 잉여 (quadratic residue)라 하고, 이 합동식이 해를 갖지 않으면 a a a 를 법 m m m 에 관한 2차 비잉여 (non-quadratic residue)라 한다. p p p 가 임의의 홀수 인 소수 이고, gcd ⁡ ( a , p ) = 1 \gcd(a,p)=1 g cd ( a , p ) = 1 일 때 a a a 가 법 p p p 에 관한 2차 잉여이면 ( a p ) = 1 \biggl(\dfrac ap\biggr)=1 ( p a ​ ) = 1 로 표시하고, 그렇지 않으면 ( a p ) = − 1 \biggl(\dfrac ap\biggr)=-1 ( p a ​ ) = − 1 로 표시한다. 이 때, ( a p ) \biggl(\dfrac ap\biggr) ( p a ​ ) 를 르장드르 기호 (Legendre symbol)라 한다.
+
+이것을 일반화한 것으로 야코비 기호 가 있다. 1보다 큰 홀수 P P P 에 대하여 P = p 1 p 2 ⋯ p m P=p_1p_2\cdots p_m P = p 1 ​ p 2 ​ ⋯ p m ​ 이 성립한다고 하자. 단, p 1 , p 2 , ⋯ , p m p_1,p_2,\cdots,p_m p 1 ​ , p 2 ​ , ⋯ , p m ​ 는 홀수인 소수이며, 이 중에는 같은 것이 있을 수 있다. 이때, gcd ⁡ ( b , P ) = 1 \gcd(b,P)=1 g cd ( b , P ) = 1 인 수 b b b 에 대하여 야코비 기호 ( b P ) = ( b p 1 ) ( b p 2 ) ⋯ ( b p m ) \biggl(\dfrac bP\biggr)=\biggl(\dfrac b{p_1}\biggr)\biggl(\dfrac b{p_2}\biggr)\cdots\biggl(\dfrac b{p_m}\biggr) ( P b ​ ) = ( p 1 ​ b ​ ) ( p 2 ​ b ​ ) ⋯ ( p m ​ b ​ ) 로 정의한다. 야코비 기호에 대해서도 아래의 르장드르 기호의 성질들은 성립하나, ( b P ) = 1 \biggl(\dfrac bP\biggr)=1 ( P b ​ ) = 1 이라 해서 b b b 가 법 P P P 에 대한 이차 잉여인 것은 아니다. 다만, 홀수 소수 p p p 에 대하여 야코비 기호 ( a p ) \biggl(\dfrac ap\biggr) ( p a ​ ) 는 르장드르 기호와 계산값이 완벽하게 일치하며, 이를 이용하여 르장드르 기호의 계산을 할 수 있다.
+
+2. 성질 [편집]
+p p p 가 홀수 인 소수 이고, a , b a,b a , b 가 p p p 와 서로소 일 때, 다음이 성립한다.
+- a ≡ b ( m o d p ) a\equiv b\pmod p a ≡ b ( mod p ) 이면, ( a p ) = ( b p ) \biggl(\dfrac ap\biggr)=\biggl(\dfrac bp\biggr) ( p a ​ ) = ( p b ​ ) .
+- ( a b p ) = ( a p ) ( b p ) \biggl(\dfrac abp\biggr)=\biggl(\dfrac ap\biggr)\biggl(\dfrac bp\biggr) ( b a ​ p ) = ( p a ​ ) ( p b ​ ) .
+- ( a 2 p ) = 1 \biggl(\dfrac{a^2}p\biggr)=1 ( p a 2 ​ ) = 1 .
+- ( a 2 b p ) = ( b p ) \biggl(\dfrac{a^2b}p\biggr)=\biggl(\dfrac bp\biggr) ( p a 2 b ​ ) = ( p b ​ ) .
+- ( 1 p ) = 1 \biggl(\dfrac1p\biggr)=1 ( p 1 ​ ) = 1 .
+- p p p 가 홀수인 소수일 때, ( − 1 p ) = ( − 1 ) p − 1 2 \biggl(\dfrac{-1}p\biggr)=(-1)^{\textstyle\frac{p-1}2} ( p − 1 ​ ) = ( − 1 ) 2 p − 1 ​ .
+- p p p 가 홀수인 소수일 때, p p p 의 완전잉여계 중에는 p − 1 2 \dfrac{p-1}2 2 p − 1 ​ 개의 2차 잉여와 p − 1 2 \dfrac{p-1}2 2 p − 1 ​ 개의 2차 비잉여가 존재한다.
+
+1~5의 증명:
+어려운 증명 없이 르장드르 기호의 정의로 충분히 해결할 수 있다.
+
+6번의 증명: 윌슨의 정리 를 이용하면, − 1 ≡ ( p − 1 ) ! ≡ 1 × 2 × ⋯ × p − 1 2 × ( p − p − 1 2 ) × ⋯ × ( p − 2 ) × ( p − 1 ) ≡ ( 1 × 2 × ⋯ × p − 1 2 ) 2 ( − 1 ) p − 1 2 ( m o d p ) -1\equiv(p-1)!\equiv1\times2\times\cdots\times\dfrac{p-1}2\times\biggl(p-\dfrac{p-1}2\biggr)\times\cdots\times(p-2)\times(p-1)\equiv\biggl(1\times2\times\cdots\times\dfrac{p-1}2\biggr)^2(-1)^{\textstyle\frac{p-1}2}\pmod p − 1 ≡ ( p − 1 )! ≡ 1 × 2 × ⋯ × 2 p − 1 ​ × ( p − 2 p − 1 ​ ) × ⋯ × ( p − 2 ) × ( p − 1 ) ≡ ( 1 × 2 × ⋯ × 2 p − 1 ​ ) 2 ( − 1 ) 2 p − 1 ​ ( mod p ) 이므로 ( − 1 ) p − 1 2 = 1 (-1)^{\textstyle\frac{p-1}2}=1 ( − 1 ) 2 p − 1 ​ = 1 이면 − 1 -1 − 1 은 p p p 의 2차잉여가 된다. 한편 ( − 1 ) p − 1 2 = − 1 (-1)^{\textstyle\frac{p-1}2}=-1 ( − 1 ) 2 p − 1 ​ = − 1 이면, x 2 ≡ − 1 ( m o d p ) x^2\equiv-1\pmod p x 2 ≡ − 1 ( mod p ) 이라고 할 때 x p − 1 ≡ ( − 1 ) p − 1 2 ≡ − 1 ( m o d p ) x^{p-1}\equiv(-1)^{\textstyle\frac{p-1}2}\equiv-1\pmod{p} x p − 1 ≡ ( − 1 ) 2 p − 1 ​ ≡ − 1 ( mod p ) 이므로 페르마 소정리 에 모순이다. 따라서 이 경우 − 1 -1 − 1 이 p p p 의 2차잉여가 아니다.
+
+7번의 증명: 임의의 완전잉여계 중에서, p p p 와 서로소 이고, 2차 잉여 가 되기 위해서는 1 2 , 2 2 , ⋯ , ( p − 1 ) 2 1^2,2^2,\cdots,(p-1)^2 1 2 , 2 2 , ⋯ , ( p − 1 ) 2 중 어떤 한 원소와 법 p p p 에 의해 같아야 한다. 그런데, ( p − n ) 2 ≡ ( − n ) 2 ≡ n 2 ( m o d p ) (p-n)^2\equiv(-n)^2\equiv n^2\pmod p ( p − n ) 2 ≡ ( − n ) 2 ≡ n 2 ( mod p ) 이므로 그 원소는 1 2 , 2 2 , ⋯ , ( p − 1 2 ) 2 1^2,2^2,\cdots,\biggl(\dfrac{p-1}2\biggr)^2 1 2 , 2 2 , ⋯ , ( 2 p − 1 ​ ) 2 중 한 원소와 법 p p p 에 의해 같아야 한다. 한편, 1 2 , 2 2 , ⋯ , ( p − 1 2 ) 2 1^2,2^2,\cdots,\biggl(\dfrac{p-1}2\biggr)^2 1 2 , 2 2 , ⋯ , ( 2 p − 1 ​ ) 2 은 법 p p p 에 의해 각기 다르므로, 2차 잉여는 p − 1 2 \dfrac{p-1}2 2 p − 1 ​ 개이다. 따라서, 2차 비잉여도 p − 1 − p − 1 2 = p − 1 2 p-1-\dfrac{p-1}2=\dfrac{p-1}2 p − 1 − 2 p − 1 ​ = 2 p − 1 ​ 개이다.
+
+2.1. 오일러 판정법 [편집]
+p p p 가 홀수인 소수이고, gcd ⁡ ( a , p ) = 1 \gcd(a,p)=1 g cd ( a , p ) = 1 일 때, ( a p ) ≡ a p − 1 2 ( m o d p ) \biggl(\dfrac ap\biggr)\equiv a^{\textstyle\frac{p-1}2}\pmod p ( p a ​ ) ≡ a 2 p − 1 ​ ( mod p ) 이다. 또, a a a 가 법 p p p 에 관한 2차 잉여이면, 이차 합동식 x 2 ≡ a ( m o d p ) x^2\equiv a\pmod p x 2 ≡ a ( mod p ) 는 꼭 두 개의 해 x ≡ ± x 0 ( m o d p ) x\equiv\pm x_0\pmod p x ≡ ± x 0 ​ ( mod p ) 를 갖는다.
+
+증명 : x 2 ≡ a ( m o d p ) x^2\equiv a\pmod p x 2 ≡ a ( mod p ) 의 해가 존재한다고 하자. 즉, ( a p ) = 1 \biggl(\dfrac ap\biggr)=1 ( p a ​ ) = 1 이라고 하자. 이때 gcd ⁡ ( a , p ) = 1 \gcd(a,p)=1 g cd ( a , p ) = 1 이므로 gcd ⁡ ( x , p ) = 1 \gcd(x,p)=1 g cd ( x , p ) = 1 이다.
+
+그러면 페르마의 소정리 에 의해 x p − 1 ≡ 1 ( m o d p ) x^{p-1}\equiv1\pmod p x p − 1 ≡ 1 ( mod p ) 이므로, a ( p − 1 ) / 2 ≡ x p − 1 ≡ 1 ( m o d p ) a^{(p-1)/2}\equiv x^{p-1}\equiv1\pmod p a ( p − 1 ) /2 ≡ x p − 1 ≡ 1 ( mod p ) 이다. 즉, ( a p ) = 1 ≡ a ( p − 1 ) / 2 ( m o d p ) \biggl(\dfrac ap\biggr)=1\equiv a^{(p-1)/2}\pmod p ( p a ​ ) = 1 ≡ a ( p − 1 ) /2 ( mod p )
+
+반대로, a ( p − 1 ) / 2 ≡ 1 ( m o d p ) a^{(p-1)/2}\equiv1\pmod p a ( p − 1 ) /2 ≡ 1 ( mod p ) 이라고 하자. 이때 r r r 을 p p p 의 원시근 [1] 이라고 하면 r k ≡ a ( m o d p ) r^k\equiv a\pmod p r k ≡ a ( mod p ) 인 정수 k k k 가 존재한다. 그러면 r k ( p − 1 ) / 2 ≡ a ( p − 1 ) / 2 ≡ 1 ( m o d p ) r^{k(p-1)/2}\equiv a^{(p-1)/2}\equiv1\pmod p r k ( p − 1 ) /2 ≡ a ( p − 1 ) /2 ≡ 1 ( mod p ) 이다.
+
+여기서 r r r 이 p p p 의 원시근이므로 ( p − 1 ) ∣ k ( p − 1 ) 2 (p-1)\biggm|\dfrac{k(p-1)}2 ( p − 1 ) ​ 2 k ( p − 1 ) ​ 이어야 하고, k k k 는 짝수가 된다. 즉, k = 2 l k=2l k = 2 l 로 쓸 수 있고, ( r l ) 2 ≡ a ( m o d p ) \bigl(r^l\bigr)^2\equiv a\pmod p ( r l ) 2 ≡ a ( mod p ) 이므로 x 2 ≡ a ( m o d p ) x^2\equiv a\pmod p x 2 ≡ a ( mod p ) 의 해가 존재한다. 따라서 ( a p ) = 1 ≡ a ( p − 1 ) / 2 ( m o d p ) \biggl(\dfrac ap\biggr)=1\equiv a^{(p-1)/2}\pmod p ( p a ​ ) = 1 ≡ a ( p − 1 ) /2 ( mod p )
+
+마찬가지로 x 2 ≡ a ( m o d p ) x^2\equiv a\pmod p x 2 ≡ a ( mod p ) 의 해가 없는 경우, 즉 ( a p ) = − 1 \biggl(\dfrac ap\biggr)=-1 ( p a ​ ) = − 1 인 경우에 위와 같이 원시근 r r r 를 생각하면 r k ≡ a ( m o d p ) r^k\equiv a\pmod p r k ≡ a ( mod p ) 인 k k k 가 홀수여야 한다. 따라서 a p − 1 ≡ 1 ( m o d p ) a^{p-1}\equiv1\pmod p a p − 1 ≡ 1 ( mod p ) 이 성립하는데 a ( p − 1 ) / 2 ≡ 1 ( m o d p ) a^{(p-1)/2}\equiv1\pmod p a ( p − 1 ) /2 ≡ 1 ( mod p ) 은 성립할 수 없으므로, a ( p − 1 ) / 2 ≡ − 1 ( m o d p ) a^{(p-1)/2}\equiv-1\pmod p a ( p − 1 ) /2 ≡ − 1 ( mod p ) 이다.
+
+2.2. 가우스 판정법 [편집]
+p p p 가 홀수인 소수일 때, 다음이 성립한다. - ( 2 p ) = ( − 1 ) p 2 − 1 8 \biggl(\dfrac 2p\biggr)=(-1)^{\textstyle\frac{p^2-1}8} ( p 2 ​ ) = ( − 1 ) 8 p 2 − 1 ​
+- gcd ⁡ ( a , p ) = 1 \gcd(a,p)=1 g cd ( a , p ) = 1 일 때, ( a p ) = ( − 1 ) n \biggl(\dfrac ap\biggr)=(-1)^n ( p a ​ ) = ( − 1 ) n . 여기서 n n n 은 { a , 2 a , ⋯ , p − 1 2 a } \biggl\{a, 2a,\cdots,\dfrac{p-1}2a\biggr\} { a , 2 a , ⋯ , 2 p − 1 ​ a } 중에서 p p p 로 나눈 나머지가 p 2 \dfrac p2 2 p ​ 보다 큰 것의 개수
+- gcd ⁡ ( a , 2 p ) = 1 \gcd(a,2p)=1 g cd ( a , 2 p ) = 1 일 때, ( a p ) = ( − 1 ) t \biggl(\dfrac ap\biggr)=(-1)^t ( p a ​ ) = ( − 1 ) t . 여기서 t = ∑ j = 1 p − 1 2 ⌊ j a p ⌋ \displaystyle t=\sum_{j=1}^\frac{p-1}2\biggl\lfloor\frac{ja}p\biggr\rfloor t = j = 1 ∑ 2 p − 1 ​ ​ ⌊ p j a ​ ⌋ .
+
+위 식에서 ⌊ ⋅ ⌋ \lfloor\cdot\rfloor ⌊ ⋅ ⌋ 는 바닥함수 를 뜻한다.
+
+2.3. 가우스 의 상호법칙 [편집]
+p , q p,q p , q 가 서로 다른 홀수인 소수일 때, ( p q ) ( q p ) = ( − 1 ) p − 1 2 ⋅ q − 1 2 \biggl(\dfrac pq\biggr)\biggl(\dfrac qp\biggr)=(-1)^{\textstyle\frac{p-1}2\cdot\frac{q-1}2} ( q p ​ ) ( p q ​ ) = ( − 1 ) 2 p − 1 ​ ⋅ 2 q − 1 ​ 이다.
+
+3. 관련 문서 [편집]
+- 합동식
+- 완전잉여계
+- 기약잉여계
+- 잉여
+
+[ KCTV광주방송 가입,사은품
+cable-tv.co.kr v-if
+남동케이블방송 신규가입할인, 결합특가할인, 실시간스포츠, 당일설치.
+
+] | [ 남동케이블방송 가입센터
+www.tv-road.co.kr v-if
+이달특가상품 디지털파격할인.결합상품, 와이파이공유기 제공, 설치비무료
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+]
+
+[1] 원시근은 법 p에 대한 위수가 p − 1 p-1 p − 1 인 것을 말한다. r r r 이 p p p 의 원시근이면 { r , r 2 , ⋯ , r p − 1 } ≡ { 1 , 2 , ⋯ , p − 1 } ( m o d p ) \bigl\{r,r^2,\cdots,r^{p-1}\bigr\}\equiv\{1,2,\cdots,p-1\}\pmod p { r , r 2 , ⋯ , r p − 1 } ≡ { 1 , 2 , ⋯ , p − 1 } ( mod p ) 이다. 참고로 법 p p p 에 대한 b b b 의 위수란 b x ≡ 1 ( m o d p ) b^x\equiv1\pmod p b x ≡ 1 ( mod p ) 인 최소의 정수 x x x 로, ord ⁡ p ( b ) \operatorname{ord}_p\left(b\right) ord p ​ ( b ) 로 나타낸다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

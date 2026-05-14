@@ -1,0 +1,141 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 각운동량
+최근 수정 시각: 2026-03-09 01:28:59 [ [ [ ] [ [ 20 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 물리량
+- 역학
+]
+
+[ [ ] [ 고전역학
+Classical Mechanics
+[ 펼치기 · 접기 ] 기본 개념 | 텐서 ( 스칼라 · 벡터 ) · 모멘트 · 위치 · 거리 ( 변위 · 이동거리 ) · 시간 · 공간 · 질량 ( 질량중심 ) · 속력 ( 속도 · 가속도 ) · 운동 ( 운동량 ) · 힘 · 합력 · 뉴턴의 운동법칙 · 일 ( 일률 ) · 에너지 ( 퍼텐셜 에너지 · 운동 에너지 ) · 보존력 · 운동량 보존의 법칙 · 에너지 보존 법칙 · 질량 보존 법칙 · 운동 방정식
+동역학 | 관성 좌표계 · 비관성 좌표계 ( 관성력 ) · 항력 ( 수직항력 · 마찰력 ) · 등속직선운동 · 등가속도 운동 · 자유 낙하 · 포물선 운동 · 원운동 ( 구심력 · 원심력 · 등속 원운동 ) · 전향력 · 운동학 · 질점의 운동역학 · 입자계의 운동역학 · 운동 방정식
+정역학 및 강체 역학 | 정적 평형 · 블록 쌓기 문제 · 강체 · 응력 ( /응용 ) · 충돌 · 충격량 · 각속도 ( 각가속도 ) · 각운동량 ( 각운동량 보존 법칙 · 떨어지는 고양이 문제 ) · 토크 ( 비틀림 ) · 관성 모멘트 · 관성 텐서 · 우력 · 반력 · 탄성력 ( 후크 법칙 · 탄성의 한계 ) · 구성방정식 · 장동 · 소성 · 고체역학
+천체 역학 | 중심력 · 만유인력의 법칙 · 이체문제 ( 케플러의 법칙 ) · 기조력 · 삼체문제 ( 라그랑주점 ) · 궤도역학 · 수정 뉴턴 역학 · 비리얼 정리
+진동 및 파동 | 각진동수 · 진동수 · 주기 · 파장 · 파수 · 스넬의 법칙 · 전반사 · 하위헌스 원리 · 페르마의 원리 · 간섭 · 회절 · 조화 진동자 · 산란 · 진동학 · 파동방정식 · 막의 진동 · 정상파 · 결합된 진동 · 도플러 효과 · 음향학
+해석 역학 | 일반화 좌표계 ( 자유도 ) · 변분법 { 오일러 방정식 ( 벨트라미 항등식 )} · 라그랑주 역학 ( 해밀턴의 원리 · 라그랑지안 · 작용 ) · 해밀턴 역학 ( 해밀토니안 · 푸아송 괄호 · 정준 변환 · 해밀턴-야코비 방정식 · 위상 공간 ) · 뇌터 정리 · 르장드르 변환 · 고전장론
+응용 및 기타 문서 | 기계공학 ( 기계공학 둘러보기 ) · 건축학 ( 건축공학 · 구조역학 ) · 토목공학 · 매달린 줄 문제 · 치올코프스키 로켓 방정식 · 탄도학 ( 탄도 계수 ) · 자이로스코프 · 공명 · 운동 방정식 · 진자 ( 단진자 ) · 사이클로이드
+
+각운동량
+angular momentum
+물리량 유형 | 유사벡터
+기호 | L \bf L L
+차원 | M L 2 T − 1 \sf ML^2T^{-1} M L 2 T − 1 [1]
+단위 | SI 단위계 | k g ⋅ m 2 / s \rm kg{\cdot}m^2/s kg ⋅ m 2 /s [2]
+CGS 단위계 | g ⋅ c m 2 / s \rm g{\cdot}cm^2/s g ⋅ c m 2 /s [3]
+정의 | r × p \bf r\bm\times p r × p [4]
+
+1 . 개요 2 . 토크 와의 관계 3 . 각운동량 보존 4 . 축을 중심으로 회전하는 강체 4.1 . 각운동량 4.2 . 토크 와의 관계 5 . 일반적인 각운동량 6 . 양자역학에서의 각운동량
+
+1. 개요 [편집]
+각운동량 ( 角 運 動 量 , angular momentum)은 회전하는 물체가 갖는 운동량으로, 벡터 물리량이다. 선운동량 p \bf p p 를 갖는 변위 r \bf r r 의 질점이 갖는 각운동량은 다음과 같다. L ≡ r × p {\bf L} \equiv {\bf r\bm\times p} L ≡ r × p
+
+국제단위계 에서 규정한 단위는 k g ⋅ m 2 / s \rm kg{\cdot}m^2/s kg ⋅ m 2 /s 이다. 그러나 엄밀하게는 우변을 r a d \rm rad rad 으로 나눈 표기 L ≡ r × p / r a d {\bf L} \equiv {\bf r\bm\times p}/{\rm rad} L ≡ r × p / rad
+
+가 맞고, 단위도 k g ⋅ m 2 / ( s ⋅ r a d ) \rm kg{\cdot}m^2/(s{\cdot}rad) kg ⋅ m 2 / ( s ⋅ rad ) 으로 써야 한다. 이는 본 물리량의 이름이 '각'운동량인 것과도 연관이 있다. [5]
+
+질량 m m m 의 질점이 선속도 v \bf v v 를 가질 때 선운동량 p = m v {\bf p} = m{\bf v} p = m v 임을 이용하여 다음과 같이 쓸 수도 있다. L = m r × v / r a d {\bf L} = m{\bf r\bm\times v}/{\rm rad} L = m r × v / rad
+
+각운동량은 원점에 대해서도, 회전축에 대해서도 생각할 수 있다. 둘을 잘 구분하여야 한다. 이 문서에서는 원점에 대한 각운동량은 L \bf L L 로, 회전축( z z z 축으로 설정)에 대한 각운동량은 L z {\bf L}_z L z ​ 로 나타냈다. [6]
+
+(에너지)/(회전량) 차원을 갖는 토크 를 시간으로 적분한 물리량이기 때문에 ( 작용 )/(회전량) 차원을 갖는다. 이는 양자역학에서 각운동량이 ℏ \hbar ℏ 의 배수로 나타나는 것과도 관련이 있다. [7]
+
+2. 토크 와의 관계 [편집]
+물체에 F \bf F F 의 힘이 가해졌다고 하자. 뉴턴 제2법칙 에 따라 F = d p d t {\bf F}=\dfrac{{\rm d}{\bf p}}{{\rm d}t} F = d t d p ​
+
+이고, 이에 따른 토크는 N = r × F / r a d \bf N = r\bm\times F/{\rm rad} N = r × F/ rad [8] 이므로 N = r × d p d t / r a d = { d d t ( r × p ) − d r d t × p } / r a d = d d t ( r × p ) / r a d − d r d t × p / r a d = d L d t − v × m v / r a d = d L d t \begin{aligned} \bf N &= {\bf r}\bm\times \frac{{\rm d}{\bf p}}{{\rm d}t}/{\rm rad} \\ &= {\left\{\frac{{\rm d}}{{\rm d}t}({\bf r\bm\times p}) - \frac{{\rm d}{\bf r}}{{\rm d}t}\bm\times {\bf p}\right\}}/{\rm rad} \\ &= \frac{{\rm d}}{{\rm d}t}({\bf r\bm\times p})/{\rm rad} - \frac{{\rm d}{\bf r}}{{\rm d}t}\bm\times {\bf p}/{\rm rad} \\ &= \frac{{\rm d}{\bf L}}{{\rm d}t}- {\bf v}\bm\times m{\bf v}/{\rm rad} \\ &= \frac{{\rm d}{\bf L}}{{\rm d}t} \end{aligned} N ​ = r × d t d p ​ / rad = { d t d ​ ( r × p ) − d t d r ​ × p } / rad = d t d ​ ( r × p ) / rad − d t d r ​ × p / rad = d t d L ​ − v × m v / rad = d t d L ​ ​
+
+이 결과를 이용하여 각운동량을 다음과 같이 나타낼 수도 있다. L = ∫ N d t \displaystyle {\bf L} = \int {\bf N}{\rm\,d}t L = ∫ N d t
+
+이는 마치 선운동량일 때 충격량과 운동량 변화량의 관계와 비슷하다.
+
+3. 각운동량 보존 [편집]
+위 문단의 결과에서 물체에 가해지는 토크 N \bf N N 이 0 J / r a d \bf0{\rm\,J/rad} 0 J/rad 이면, 각운동량 L \bf L L 의 시간 변화는 없다. 즉, 물체에 가해지는 토크가 없으면 각운동량은 보존된다.
+
+각운동량 보존이 적용된 예로는 떨어지는 고양이 문제 가 있다.
+
+4. 축을 중심으로 회전하는 강체 [편집]
+위 문단까지는 질점을 논의했고, 이번 문단에서는 강체를 논의한다.
+
+4.1. 각운동량 [편집]
+강체가 공간 좌표 내 z z z 축을 회전축으로 하여 회전한다고 하자. [9] 이때 각속도 ω = ω z ^ \bm\omega = \omega{\bf\hat z} ω = ω z ^ 는 z z z 축 방향이다. 강체 내 j j j 번째 입자의 질량을 m j m_j m j ​ , 위치 벡터를 r j = x j x ^ + y j y ^ + z j z ^ {\bf r}_j = x_j{\bf\hat x} +y_j{\bf\hat y} +z_j{\bf\hat z} r j ​ = x j ​ x ^ + y j ​ y ^ ​ + z j ​ z ^ , 속도 벡터를 v j {\bf v}_j v j ​ 라 하면, j j j 번째 입자의 각운동량은 다음과 같다. L j = m j r j × v j / r a d {\bf L}_j = m_j{\bf r}_j\bm\times{\bf v}_j/{\rm rad} L j ​ = m j ​ r j ​ × v j ​ / rad
+
+한편 v j = ω × r j / r a d {\bf v}_j = \bm{\omega\times{\bf r}}_j/{\rm rad} v j ​ = ω × r j ​ / rad [10] 이므로, 대입하고 크로스곱의 삼중곱 공식 을 적용하면 ( ∣ r j ∣ = r j|{\bf r}_j| = r_j ∣ r j ​ ∣ = r j ​ 라 하자.) L j = m j r j × ( ω × r j ) / r a d 2 = m j [ r j 2 ω − ( ω ⋅ r j ) r j ] / r a d 2 \begin{aligned} {\bf L}_j &= m_j {\bf r}_j \bm\times(\bm{\omega\times{\bf r}}_j)/{\rm rad^2} \\ &= m_j[{r_j}^2\bm\omega - (\bm{\omega\cdot{\bf r}}_j){\bf r}_j]/{\rm rad^2} \end{aligned} L j ​ ​ = m j ​ r j ​ × ( ω × r j ​ ) / ra d 2 = m j ​ [ r j ​ 2 ω − ( ω ⋅ r j ​ ) r j ​ ] / ra d 2 ​
+
+위 식에서 회전축과 평행한 성분만 생각하면 [ L j ] z = m j ( r j 2 − z j 2 ) ω / r a d 2 [{\bf L}_j]_z = m_j({r_j}^2-{z_j}^2)\omega/{\rm rad^2} [ L j ​ ] z ​ = m j ​ ( r j ​ 2 − z j ​ 2 ) ω / ra d 2
+
+식에서 나온 r j 2 − z j 2 ≡ d j 2 {r_j}^2-{z_j}^2 \equiv {d_j}^2 r j ​ 2 − z j ​ 2 ≡ d j ​ 2 은 회전축과 j j j 번째 입자 사이의 거리의 제곱이다. 이상에서 j j j 번째 입자의 각운동량의 축과 평행한 성분은 아래와 같이 나타낼 수 있다. [ L j ] z = m j d j 2 ω / r a d 2 [{\bf L}_j]_z = m_j{d_j}^2\omega/{\rm rad^2} [ L j ​ ] z ​ = m j ​ d j ​ 2 ω / ra d 2
+
+강체의 각운동량은 각 입자의 각운동량을 모두 합하면 된다. L z = ∑ j [ L j ] z = ⁣ [ ∑ j m j d j 2 / r a d 2 ] ω \begin{aligned} L_z &= \sum_j [{\bf L}_j]_z \\ &= \!\Biggl[ \sum_j m_j{d_j}^2/{\rm rad^2} \Biggr] \omega \end{aligned} L z ​ ​ = j ∑ ​ [ L j ​ ] z ​ = [ j ∑ ​ m j ​ d j ​ 2 / ra d 2 ] ω ​
+
+이때, 대괄호 항을 관성 모멘트 I I I [11] 로 정의하여 L z = I ω L_z = I\omega L z ​ = I ω
+
+로 쓴다. 즉, 한 회전축을 기준으로 회전하는 강체의, 회전축에 대한 각운동량의 크기는 관성 모멘트와 각속도 크기의 곱으로 주어진다.
+
+지금까지 z z z 축을 회전축으로 하여 회전하는 상황에 대해 논의했으므로, 위 식에서 각속도와 각운동량은 모두 회전축과 평행하기 때문에 아래와 같이 벡터 표기법으로 쓸 수 있다. L z = I ω {\bf L}_z = I\bm\omega L z ​ = I ω
+
+다만, 분석한 상황은 물리적으로 매우 초등적임에 유의해야 한다. 이 문단의 결과로는 모든 각운동량이 각속도와 평행한 것처럼 보이나 팽이 와 같은 세차 운동 을 하는 물체는 각운동량과 각속도가 평행하지 않다. 이러한 운동의 분석엔 더 높은 수준의 역학적 분석이 필요하다. 관성 텐서 문서를 참고하라.
+
+강체가 한 회전축을 중심으로 회전한다면 그 축과 평행한 성분의 각운동량만 가진다.(즉, 위 상황에서 L x = L y = 0 k g ⋅ m 2 / ( s ⋅ r a d ) L_x = L_y = 0{\rm\,kg{\cdot}m^2/(s{\cdot}rad)} L x ​ = L y ​ = 0 kg ⋅ m 2 / ( s ⋅ rad ) 이다.) 이는 해당 상황에서 각속도는 회전축과 평행한 성분만 가지기 때문이다.
+
+또한 결과에서 나온 각운동량이 원점에 대한 각운동량이 아닌 회전축에 대한 각운동량(회전축과 평행한 성분)임에 유의하여야 한다.
+
+4.2. 토크 와의 관계 [편집]
+z z z 축을 회전축으로 하여 회전하는 강체 내 j j j 번째 입자가 받는 힘은 뉴턴 제2법칙에 의하여 F j = d p j d t {\bf F}_j = \dfrac{{\rm d}{\bf p}_j}{{\rm d}t} F j ​ = d t d p j ​ ​
+
+따라서 각 입자가 받는 회전축에 대한 토크는 다음과 같다. ( N z ) j = d j × d p j d t / r a d ({\bf N}_z)_j = {\bf d}_j\bm\times\dfrac{{\rm d}{\bf p}_j}{{\rm d}t}/{\rm rad} ( N z ​ ) j ​ = d j ​ × d t d p j ​ ​ / rad
+
+이때, d j {\bf d}_j d j ​ 는 j j j 번째 입자의 위치에서 회전축으로부터 내린 수선의 발 을 시점으로 하는 위치 벡터이다. ( N z ) j = d j × d p j d t / r a d = { d d t ( d j × p j ) − d d j d t × p j } / r a d \begin{aligned} ({\bf N}_z)_j &= {\bf d}_j \bm\times \frac{{\rm d}{\bf p}_j}{{\rm d}t}/{\rm rad} \\ &= {\left\{\frac{{\rm d}}{{\rm d}t}({\bf d}_j\bm\times{\bf p}_j)-\frac{{\rm d}{\bf d}_j}{{\rm d}t}\bm\times{\bf p}_j\right\}}/{\rm rad} \end{aligned} ( N z ​ ) j ​ ​ = d j ​ × d t d p j ​ ​ / rad = { d t d ​ ( d j ​ × p j ​ ) − d t d d j ​ ​ × p j ​ } / rad ​
+
+입자의 원점에서의 위치 벡터를 원점으로부터 수선의 발까지의 벡터 α j \bm\alpha_j α j ​ 를 이용하여 r j = α j + d j {\bf r}_j = \bm\alpha_j +{\bf d}_j r j ​ = α j ​ + d j ​ 의 형태로 쓰고, p j = m j ( d r j / d t ) {\bf p}_j = m_j ({\rm d}{\bf r}_j/{\rm d}t) p j ​ = m j ​ ( d r j ​ / d t ) , d α j / d t = 0 {\rm d}\bm\alpha_j/{\rm d}t=0 d α j ​ / d t = 0 임을 이용하면 우변의 제2항은 사라지며, 제1항은 ( L z ) j ({\bf L}_z)_j ( L z ​ ) j ​ 이다. [12] ( N z ) j = d ( L z ) j d t \begin{aligned} ({\bf N}_z)_j &= \frac{{\rm d}({\bf L}_z)_j}{{\rm d}t} \end{aligned} ( N z ​ ) j ​ ​ = d t d ( L z ​ ) j ​ ​ ​
+
+이상에서 다음과 같은 관계식이 성립한다. N z = ∑ j ( N z ) j = d L z d t \displaystyle {\bf N}_z = \sum_j ({\bf N}_z)_j = \frac{{\rm d}{\bf L}_z}{{\rm d}t} N z ​ = j ∑ ​ ( N z ​ ) j ​ = d t d L z ​ ​
+
+즉, 물체에 가해지는 회전축에 대한 토크가 없으면 회전축에 대한 각운동량은 보존된다. 이것을 수식으로 나타내면 아래와 같다. I ω = c o n s t . I \bm\omega = {\sf const.} I ω = const.
+
+흔히 이 내용을 김연아 에 빗대 설명하곤 한다. 김연아가 팔을 뻗고 회전을 하다가 팔을 오므리면 회전 속도가 빨라지는데, 이는 김연아가 팔을 오므리면서 관성 모멘트가 줄어드는 대신 관성 모멘트와 각속도의 곱은 일정하므로 각속도(회전속도)가 빨라지기 때문에 생기는 현상이다.
+
+한편, 계의 관성 모멘트가 시간에 의존하지 않는다면 다음과 같이 쓸 수 있다. α \boldsymbol{\alpha} α 는 각가속도 이다. N z = I d ω d t = I α \begin{aligned} {\bf N}_z &= I \frac{{\rm d}\bm\omega}{{\rm d}t} = I\bm\alpha \end{aligned} N z ​ ​ = I d t d ω ​ = I α ​
+
+5. 일반적인 각운동량 [편집]
+자세한 내용은 관성 텐서 문서의 4 번 문단을 참고하십시오.
+
+6. 양자역학에서의 각운동량 [편집]
+자세한 내용은 각운동량 연산자 문서를 참고하십시오. [1] 엄밀하게는 평면각 이 무차원량이 아니기 때문에 여기에 차원 기호 A \sf A A 를 사용하면 M L 2 T − 1 A − 1 \sf ML^2T^{-1}A^{-1} M L 2 T − 1 A − 1 이 된다. 현행 국제단위계에서는 A = 1 {\sf A} = {\sf1} A = 1 로 약속하고 있다. [2] 이 역시 k g ⋅ m 2 / ( s ⋅ r a d ) \rm kg{\cdot}m^2/(s{\cdot}rad) kg ⋅ m 2 / ( s ⋅ rad ) 으로 기술하는 것이 정확하다. 현행 국제단위계 에서는 r a d = 1 \rm rad = 1 rad = 1 로 약속하고 있다. [3] 위와 마찬가지로, g ⋅ c m 2 / ( s ⋅ r a d ) \rm g{\cdot}cm^2/(s{\cdot}rad) g ⋅ c m 2 / ( s ⋅ rad ) 으로 기술하는 것이 정확하다. [4] 이 역시 마찬가지로 r × p / r a d {\bf r\bm\times p}/{\rm rad} r × p / rad 으로 기술해야 한다. [5] 현행 국제단위계에서는 각도를 무차원량, 즉 r a d = 1 \rm rad = 1 rad = 1 로 규정 하고 있기 때문에 일단 위와 같이 써도 일반적으로 널리 알려진 공식과 결과적으론 같지만, 사실 각도는 무차원량이 아니기 때문에 r a d \rm rad rad 표기를 살려서 써야 한다. 돌림힘 문서의 유도 과정 항목도 참고. [6] 일부 일반물리학 서적은 이를 구분하지 않고 개념을 전개하여 학습자들에게 혼동을 일으킨다. [7] 이 역시 정확히는 ℏ / r a d \hbar/{\rm rad} ℏ/ rad 의 배수로 나타나는 것이다. 이에 대해서, 양자역학 분야에서 이미 잘 쓰이고 있는 ℏ \hbar ℏ 사용의 보정을 피하기 위해 P. Quincey(2021) (arXiv 버전 )처럼 ℏ \hbar ℏ 는 ℏ = h 2 π r a d \hbar = \cfrac h{2\pi{\rm\,rad}} ℏ = 2 π rad h ​ 으로 재정의하고 기존의 h 2 π \cfrac h{2\pi} 2 π h ​ 는 h ˇ \check h h ˇ (h-check)라는 새 기호를 도입해서 나타내자고 하는 의견도 있다. [8] 토크는 회전 운동 에너지를 발생시키는 물리량으로서 W = ∫ N ⋅ d θ \displaystyle W = \int \bm{{\bf N}\cdot{\rm d}\theta} W = ∫ N ⋅ d θ 로 정의되며 회전당 에너지 차원을 갖는다. 따라서 r a d \rm rad rad 이 나눠진 표기로 써야 맞다. 자세한 유도 과정은 돌림힘 문서 참고. [9] 아래의 내용은 임의의 축일 때도 성립한다. [10] ω \bm\omega ω 는 r a d / s {\rm rad/s} rad/s 단위를 가지므로 m / s \rm m/s m/s 단위를 갖는 선속도와 단위 관계를 맞추기 위해서는 우변을 r a d \rm rad rad 으로 나눠야 한다. 자세한 것은 각속도 문서 참고. [11] 관성 모멘트에 대한 자세한 논의는 해당 문서에서 다루고 있다. [12] p j {\bf p}_j p j ​ , d j {\bf d}_j d j ​ 는 모두 x x x , y y y 성분만 가져서 d j × p j / r a d {\bf d}_j\bm\times{\bf p}_j/{\rm rad} d j ​ × p j ​ / rad 은 z z z 축 방향이며, 둘은 수직임에 따라 d j × p j / r a d {\bf d}_j \bm\times{\bf p}_j/{\rm rad} d j ​ × p j ​ / rad 의 크기는 m j d j v j / r a d = m j d j 2 ω / r a d 2 m_jd_jv_j/{\rm rad} = m_j{d_j}^2\omega/{\rm rad^2} m j ​ d j ​ v j ​ / rad = m j ​ d j ​ 2 ω / ra d 2 이기 때문이다. 이 문서의 내용 중 전체 또는 일부는 운동량 문서의 r66 판에서 가져왔습니다. 이전 역사 보러 가기 [ 인천남동구,서울365치과의원
+seoul365dental.com v-if
+박준규 대표원장, 인천 남동구 예술로 138 212~214호
+
+] | [ 남동구치과 다비안치과의원
+www.dabien.co.kr v-if
+인천논현역100m, 세심한진료, 철저한 사후관리, 임플란트, 교정, 충치, 잇몸
+
+] | [ 인천논현동 맛집 소문난껍데기
+map.naver.com/p/entry/place/1943388597 v-if
+여기 껍데기 안 먹어봤다는 건 인생의 반을 손해 본 거예요! 동네 맛집의 자부심!
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

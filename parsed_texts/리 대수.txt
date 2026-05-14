@@ -1,0 +1,605 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 리 대수
+최근 수정 시각: 2026-03-31 04:25:15 [ [ [ ] [ [ 2 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 대수학
+]
+
+[ [ ] [ 대수학
+Algebra
+[ 펼치기 · 접기 ] 이론
+기본 대상 | 연산 · 항등식 ( 가비의 이 · 곱셈 공식 ( 통분 · 약분 ) · 인수분해 ) · 부등식 ( 절대부등식 ) · 방정식 ( /풀이 · 근 ( 무연근 · 허근 · 비에트의 정리 ( 근과 계수의 관계 ) · 제곱근 ( 이중근호 · 개방법 ) · 환원 불능 ) · 부정 · 불능 ) · 비례식 · 다항식 · 산술 ( 시계 산술 )
+수 체계 | 자연수 · 소수 · 정수 · 음수 · 유리수 · 실수 ( 무리수 ( 대수적 무리수 · 초월수 ) · 초실수 ) · 복소수 ( 허수 ) · 사원수 · 팔원수 · 대수적 수 · 벡터 공간
+다루는 대상과 주요 토픽
+대수적 구조
+군(group) | 대칭군 · 기본군 · 자유군 · 리 군 · 괴물군 · 점군 · 순환군 · 공간대칭군 · 군의 작용 · 동형 정리 · 케일리 정리 · 실로우 정리 · 클라인 사원군
+환(ring) | 아이디얼
+체(field) | 갈루아 이론 · 분해체
+대수 | 가환대수 · 리 대수 · 불 대수 ( 크로네커 델타 )
+마그마 · 반군 · 모노이드 | 자유 모노이드 · 가환 모노이드
+선형대수학 | 스칼라 · 벡터 · 행렬 · 텐서 ( 텐서곱 ) · 벡터 공간 ( 선형사상 ) · 가군 (module) · 내적 공간 ( 그람-슈미트 과정 · 수반 연산자 )
+정리·추측
+대수학의 기본정리 · 나머지 정리 · 유클리드 호제법 · 부분분수분해 · PID 위의 유한생성 가군의 기본정리 · 산술·기하 평균 부등식 · 바이어슈트라스 분해 정리 · 호지 추측 미해결 · 가환대수에서의 호몰로지 추측 미해결
+관련 하위 분야
+범주론 | 함자 · 수반 · 자연 변환 · 모나드 · 쌍대성 · 토포스 이론 · 타입 이론
+대수 위상수학 | 연속변형성 · 기본군 · 피복공간 · 사슬 복합체 · 호몰로지 대수학 ( 호몰로지 · 코호몰로지 ) · 사상류군 · 닐센-서스턴 분류 · 호프대수
+대수기하학 | 대수 다양체 · 층 · 스킴 · 에탈 코호몰로지 · 모티브
+대수적 정수론 | 타원곡선 · 디오판토스 방정식 · 유리근 정리 · 모듈러성 정리
+가환대수학 | 스펙트럼 정리
+표현론 | 실베스터 행렬
+기타 및 관련 문서
+수학 관련 정보 · 추상화 · 케일리 표 · 1학년의 꿈 · 노름 · 혼합계산 · 이항연산의 성질( 결합법칙 · 분배법칙 · 소거법칙 · 교환법칙 · 흡수법칙 ) · 교재 · 과일 분수방정식 문제
+
+1 . 개요 2 . 정의 3 . 예시 4 . 기본적인 표기 및 용어들 5 . 종류 및 대략적인 구조 5.1 . 아벨리안 리 대수 5.1.1 . 센터 5.1.2 . Toral 부분대수 5.2 . 멱영 리 대수 5.2.1 . Nil-radical 5.2.2 . 카르탕 부분대수 5.3 . 가해 리 대수 5.3.1 . Radical 5.3.2 . 보렐 부분대수 5.4 . 반단순 리 대수 5.4.1 . 레비 인수 5.5 . 단순 리 대수 6 . 반단순 리 대수의 성질 및 분류 6.1 . 성질 6.2 . 3차원 split 단순 리 대수와 그 기약 표현들 6.3 . Root 공간 분해 6.4 . Root system의 구조 6.4.1 . Base 6.4.2 . 바일 군 6.4.3 . 기약 root system 6.4.4 . 카르탕 행렬 6.5 . Root system의 분류
+
+1. 개요 [편집]
+리 대수 (Lie algebra)는 리 군 (Lie group)을 다루면서 나타난 대수적 구조 중 하나이다. 다양한 대응정리들 덕분에 리 대수만 잘 연구해도 해당 리 군에 대해 잘 알 수 있으며, 리 군에만 한정 짓기에는 제법 독립적인 대수적 구조가 있기에 [1] 다양한 분야에서 연구되고 있는 대상이다.
+
+특히 유한 차원 단순 리 대수(finite-dimensional simple Lie algebras)와 유한 차원 표현(finite-dimensional representations)의 분류 및 존재성이 모두 증명된 것은 유명하며, 이 결과 및 이로부터 얻은 다양한 아이디어들이 여러 분야에서 활용되고 있다.
+
+2. 정의 [편집]
+다음과 같이 리 대수를 정의할 수 있다. 주어진 벡터 공간 g \mathfrak{g} g 에 대하여 다음과 같은 이중선형 사상(bilinear map) [ , ] : g × g → g [,] : \mathfrak{g} \times \mathfrak{g} \to \mathfrak{g} [ , ] : g × g → g 가 있다고 하자. - (반대칭성; anti-symmetry) 모든 A , B ∈ g A, B \in \mathfrak{g} A , B ∈ g 에 대하여 [ A , B ] = − [ B , A ] [A, B] = -[B, A] [ A , B ] = − [ B , A ] , [2]
+- (야코비 항등식; Jacobi identity) 모든 A , B , C ∈ g A, B, C \in \mathfrak{g} A , B , C ∈ g 에 대하여 [ A , [ B , C ] ] + [ B , [ C , A ] ] + [ C , [ A , B ] ] = 0 [A, [B, C]] + [B, [C, A]] + [C, [A, B]] = 0 [ A , [ B , C ]] + [ B , [ C , A ]] + [ C , [ A , B ]] = 0 . [3]
+
+그러면, 그리고 그럴 때에만, g \mathfrak{g} g (와 그 벡터 공간 구조 및 [ ⋅ , ⋅ ] [\cdot,\cdot] [ ⋅ , ⋅ ] )를 리 대수(Lie algebra) 라고 부른다.
+
+시작은 리 군의 리 대수에서 출발했고, 사실 행렬의 교환자 (commutator)로도 많이 표현되지만 [4] 위 정의에서는 리 군이라든가 행렬이라든가 그런 거 싹 다 빼고 대신에 이들이 가지는 공통의 기본적이고도 중요한 성질들만 가져다 썼음을 보자.
+
+물리학에서 곧잘 사용하는 정의와 사뭇 다르다는 것을 알 수 있다. 보통 물리학에서는 다음에다 반대칭성과 야코비 항등식을 만족하는 X i X_i X i ​ 들로 생성된 공간을 가리켜 리 대수라고 부른다. [5]
+
+[ X k , X l ] = i f k l m X m \displaystyle [X_k, X_l] = i{f_{kl}}^m X_m [ X k ​ , X l ​ ] = i f k l ​ m X m ​ .
+
+크게 걱정 안 해도 되는 게, 어차피 X i X_i X i ​ 들을 모두 − − 1 X i -\sqrt{-1} X_i − − 1 ​ X i ​ 로 바꾸면 수학에서 쓰던 것과 같은 것이 나온다. 이러한 차이는 물리학자들이 주로 유니터리한 연산자(unitary operator)들의 생성자(generator)를 에르미트 연산자(Hermitian)로 두는 것을 원하기 때문이다. 같은 이유로 행렬 군의 경우 수학에서는 exp ⁡ X \exp{X} exp X 같이 쓰는 반면 물리학에서는 exp ⁡ − 1 X \exp{\sqrt{-1}X} exp − 1 ​ X , 그러니까 exp ⁡ i X \exp{iX} exp i X 와 같이 쓴다. 이 점을 유의하고 각 분야의 내용을 참고하면 좋을 것이다.
+
+그 외에도 위의 정의에서 체 (field)에 대한 제약 같은 게 없다는 걸 보자. 체가 실수 체, 복소수 체가 아니어도 상관 없다는 이야기이다. 물론 표수(characteristic)가 0이 아닌 체도 괜찮다.
+
+주의 : 아래에서 다루게 될 내용 거의 대부분은 표수가 0인 체 위에서만 이야기된다. 따라서 앞으로 특별한 서술이 없으면 모든 체의 표수는 0이다. 다만 체가 대수적으로 닫힌 경우까지는 항상 가정하지 않을 것인데, 물론 많은 결과들이 대수적으로 닫힌 체 위에서 쉽게 이끌어지긴 하지만, 목표 중 하나가 사실 실수 체 위의 리 대수들이기 때문에 맘놓고 대수적으로 닫힌 체만 생각하는 건 무리라고 본다.
+
+3. 예시 [편집]
+사실 알려진 리 군의 리 대수들만 모아도 이미 한가득이다.(...) 리 군 문서에서도 서술되어 있다시피 주어진 리 군의 이름을 프락투어(fraktur) 폰트 로 바꿔서 쓰는 게 관례이고, [6] 따라서 우리는 이미 g l ( n , R ) \mathfrak{gl}(n, \R) gl ( n , R ) , g l ( n , C ) \mathfrak{gl}(n, \mathbb{C}) gl ( n , C ) , s l ( n , R ) \mathfrak{sl}(n, \R) sl ( n , R ) , s l ( n , C ) \mathfrak{sl}(n, \mathbb{C}) sl ( n , C ) , s o ( n ) \mathfrak{so}(n) so ( n ) , s u ( n ) \mathfrak{su}(n) su ( n ) , s p ( n , R ) \mathfrak{sp}(n, \R) sp ( n , R ) , s o ( m , n ) \mathfrak{so}(m, n) so ( m , n ) 등을 이미 가지고 있는 셈이다. 다만 o ( n ) \mathfrak{o}(n) o ( n ) 같은 것들은 빠졌는데, 이건 어차피 s o ( n ) \mathfrak{so}(n) so ( n ) 과 같다. 여기서는 이들을 다시 소개하되, 좀 더 구체적인 식으로 간단하게 정의하도록 하겠다. 참고로 g l ( n , R ) \mathfrak{gl}(n, \R) gl ( n , R ) , g l ( n , C ) \mathfrak{gl}(n, \mathbb{C}) gl ( n , C ) 는 연산 구조만 빼고 어차피 각각 실수 행렬, 복소수 행렬을 모두 모은 집합과 똑같다.(...)
+- s l ( n , R ) = { A ∈ g l ( n , R ) ∣ tr A = 0 } \mathfrak{sl}(n, \R) = \left\{ A \in \mathfrak{gl}(n, \R) \; | \; \textrm{tr } A = 0 \right\} sl ( n , R ) = { A ∈ gl ( n , R ) ∣ tr A = 0 }
+- s l ( n , C ) = { A ∈ g l ( n , C ) ∣ tr A = 0 } \mathfrak{sl}(n, \mathbb{C}) = \left\{ A \in \mathfrak{gl}(n, \mathbb{C}) \; | \; \textrm{tr } A = 0 \right\} sl ( n , C ) = { A ∈ gl ( n , C ) ∣ tr A = 0 }
+- s o ( n ) = { A ∈ g l ( n , R ) ∣ A + A T = 0 } \mathfrak{so}(n) = \left\{ A \in \mathfrak{gl}(n, \R) \; | \; A + A^T = 0 \right\} so ( n ) = { A ∈ gl ( n , R ) ∣ A + A T = 0 }
+- s u ( n ) = { A ∈ g l ( n , C ) ∣ A + A † = 0 } \mathfrak{su}(n) = \left\{ A \in \mathfrak{gl}(n, \mathbb{C}) \; | \; A + A^\dagger = 0 \right\} su ( n ) = { A ∈ gl ( n , C ) ∣ A + A † = 0 }
+- s p ( n , R ) = { A ∈ g l ( n , R ) ∣ A T M n + M n A = 0 } \mathfrak{sp}(n, \R) = \left\{ A \in \mathfrak{gl}(n, \R) \; | \; A^T M_n + M_n A = 0 \right\} sp ( n , R ) = { A ∈ gl ( n , R ) ∣ A T M n ​ + M n ​ A = 0 } [7]
+- s o ( m , n ) = { A ∈ g l ( n , R ) ∣ A T J m , n + J m , n A = 0 } \mathfrak{so}(m, n) = \left\{ A \in \mathfrak{gl}(n, \R) \; | \; A^T J_{m,n} + J_{m,n} A = 0 \right\} so ( m , n ) = { A ∈ gl ( n , R ) ∣ A T J m , n ​ + J m , n ​ A = 0 } [8]
+
+그 외에도 3차원 유클리드 공간 R 3 \R^3 R 3 에서 정의된 벡터 곱 역시 리 대수 구조를 가진다. 이 리 대수는 s o ( 3 ) \mathfrak{so}(3) so ( 3 ) 와 동형이기도 하다.
+
+물론 이것 외에도 엄청나게 많은 리 대수들이 존재한다. 리 군이 무한히 많이 존재하니 이건 뭐 당연하겠다. 하지만 여기에 주어진 체가 무엇이 됐든 상관이 없다는 것 때문에 리 대수의 목록은 밑도끝도 없이 늘어날 것이다. 재밌는 건 리 군과는 달리 모든 유한 차원 리 대수는 행렬로 잘 나타낼 수 있다 . [9] [10]
+
+행렬들 혹은 선형사상들의 경우에서 교환자를 이용해 리 대수를 정의하는 것을 보았다. 그런데 교환자라는 게 사실 associative한 곱이 주어져 있으면 항상 잘 정의되며 반대칭성은 물론 자코비 항등식도 잘 만족한다. 그래서 약간 더 추상적으로 다음을 생각할 수 있다. 임의의 associative 대수 A \mathcal{A} A 를 생각해 보자. 이제 이 대수에서 원래 주어져 있던 곱 구조를 잊어버리고 대신에 교환자를 넣어 보자. [11] 그럼 이 새로운 대수는 리 대수이다. 책에 따라 다르겠지만 여기서는 A L \mathcal{A}_L A L ​ 로 표기하겠다. [12]
+
+한편 주어진 대수(대수 구조) (algebra)의 미분 연산자(derivation)들을 모은 공간에 보통의(usual) 교환자를 주면 역시 리 대수가 된다. 대수학에서는 주어진 대수를 A \mathcal{A} A 라고 표기하였을 때 [13] D ∈ L ( A ) D \in L(\mathcal{A}) D ∈ L ( A ) 가 모든 A , B ∈ A A, B \in \mathcal{A} A , B ∈ A 에 대하여 D ( A B ) = ( D A ) B + A ( D B ) D(AB) = (DA)B + A(DB) D ( A B ) = ( D A ) B + A ( D B ) , 즉 일반 라이프니츠 룰(General Leibniz's Rule)을 만족한다면 [14] , 이때 임의의 두 미분 연산자 D 1 , D 2 D_1, D_2 D 1 ​ , D 2 ​ 에 대하여 [ D 1 , D 2 ] ≡ D 1 D 2 − D 2 D 1 [D_1, D_2] \equiv D_1 D_2 - D_2 D_1 [ D 1 ​ , D 2 ​ ] ≡ D 1 ​ D 2 ​ − D 2 ​ D 1 ​ 역시 (물론 선형 연산자이고) 라이프니츠 룰을 만족한다는 것을 쉽게 보일 수 있다. 미분 연산자들을 모두 모은 공간은 Der A \textrm{Der }\mathcal{A} Der A 로 표기되며, 앞의 논의에 의하여 Der A \textrm{Der }\mathcal{A} Der A 가 리 대수를 이룬다는 것을 알 수 있다.
+
+그 중에서도 어떤 특정 성질을 만족하는 리 대수들은 완전하게 분류할 수 있다. 유한 차원 (반)단순(finite-dimensional (semi)simple) 리 대수들의 분류가 바로 그것이다. 주어진 체의 표수가 0이라는 가정 하에 이들은 유한한 개수의 카테고리들로 완전하게 분류가 되어 있으며, 각 카테고리 안에 포함된 리 대수들의 (뼈대에 해당하는) 구조 역시 완전히 밝혀진 상태이다. 다만 주어진 체에 따라 카테고리들이 많이 바뀔 수 있다는 점에 주의하자. 제일 단순한 케이스는 주어진 체가 대수적으로 닫혀 있을 때(algebraically closed)이다. 만약 주어진 체가 대수적으로 닫혀 있지 않으면 그 체의 대수적 폐체(algebraic closure)에서부터 리 대수들의 카테고리들을 가져온 다음, 이걸 적절히 확장하여야 한다. 대표적인 예로 복소수 체 위의 유한 차원 단순 리 대수들의 분류가 완전히 끝나 있는 것을 토대로 하여 실수 체 위의 유한 차원 단순 리 대수들의 분류를 완전하게 해낼 수 있다. [15]
+
+4. 기본적인 표기 및 용어들 [편집]
+몇 가지 표기 및 용어들을 소개하겠다.
+
+흔히 그렇듯, 주어진 리 대수의 부분공간이 리 괄호에도 닫혀 있으면 그리고 그럴 때에만 해당 부분공간을 리 부분대수(Lie subalgebra) 혹은 그냥 부분대수(subalgebra)라고 부른다.
+
+아이디얼(ideal) 을 보자. 물론 이건 보통의 환 이나 대수(대수 구조) 에서 정의되는 그 아이디얼과 똑같은 정의를 가진다. 즉, 다음을 만족하는 부분대수 (혹은 부분공간) i \mathfrak{i} i 를 일컫는 용어이다.
+
+[ A , X ] ∈ i \displaystyle [A, X] \in \mathfrak{i} [ A , X ] ∈ i for all A ∈ g , X ∈ i \displaystyle A \in \mathfrak{g}, X \in \mathfrak{i} A ∈ g , X ∈ i .
+
+어떤 두 부분대수 h , k \mathfrak{h}, \mathfrak{k} h , k 에 대하여 [ A , B ] [A, B] [ A , B ] for A ∈ h , B ∈ k A \in \mathfrak{h}, B \in \mathfrak{k} A ∈ h , B ∈ k 를 모두 모은 뒤 이것들로 span하여 얻은 집합을 [ h , k ] [\mathfrak{h}, \mathfrak{k}] [ h , k ] 라고 표기한다. 특히 h = k \mathfrak{h} = \mathfrak{k} h = k 일 경우 이걸 h 2 \mathfrak{h}^2 h 2 (또는 k 2 \mathfrak{k}^2 k 2 )라고 표기한다. 물론 이 역시 환이나 대수에서 흔히 정의하는 것과 똑같은 것이다. 한편 h , k \mathfrak{h}, \mathfrak{k} h , k 가 둘 다 아이디얼이면 [ h , k ] [\mathfrak{h}, \mathfrak{k}] [ h , k ] 역시 아이디얼임을 쉽게 보일 수 있다. 특히 g 2 \mathfrak{g}^2 g 2 는 아이디얼이다. 그리고 마찬가지로 다음이 정의된다.
+
+h 3 = [ h 2 , h ] \mathfrak{h}^3 = [\mathfrak{h}^2, \mathfrak{h}] h 3 = [ h 2 , h ] , h 4 = [ h 3 , h ] \mathfrak{h}^4 = [\mathfrak{h}^3, \mathfrak{h}] h 4 = [ h 3 , h ] , ⋯ \cdots ⋯
+
+물론 h \mathfrak{h} h 이 아이디얼이면 이들 역시 아이디얼이다.
+
+다만 h 2 \mathfrak{h}^2 h 2 를 h ′ \mathfrak{h}' h ′ 으로 표기하는 경우가 많다. 리 대수의 곱이 자기자신에 대하여 미분(derivation)으로 작용하기 때문에 이렇게 표기하곤 한다. [16] 그리고 다음 표기를 쓴다.
+
+h ′ ′ = ( h ′ ) ′ \mathfrak{h}'' = (\mathfrak{h}')' h ′′ = ( h ′ ) ′ , h ′ ′ ′ = ( h ′ ′ ) ′ ) = ( ( h ′ ) ′ ) ′ \mathfrak{h}''' = (\mathfrak{h}'')') = ((\mathfrak{h}')')' h ′′′ = ( h ′′ ) ′ ) = (( h ′ ) ′ ) ′ ,
+h ( 4 ) = h ′ ′ ′ ′ = ( h ′ ′ ′ ) ′ ) = ( ( ( h ′ ) ′ ) ′ ) ′ \mathfrak{h}^{(4)} = \mathfrak{h}'''' = (\mathfrak{h}''')') = (((\mathfrak{h}')')')' h ( 4 ) = h ′′′′ = ( h ′′′ ) ′ ) = ((( h ′ ) ′ ) ′ ) ′ , ⋯ \cdots ⋯
+
+물론 위와 마찬가지로 h \mathfrak{h} h 이 아이디얼이면 이들 역시 아이디얼이다.
+
+그리고 모든 양의 정수 n n n 에 대하여 다음이 항상 성립한다는 것을 쉽게 보일 수 있다.
+
+h ( n ) ⊆ h n \mathfrak{h}^{(n)} \subseteq \mathfrak{h}^{n} h ( n ) ⊆ h n . [17]
+
+아이디얼에 대하여 하나 더 추가하자. 리 대수 g \mathfrak{g} g 의 한 리 부분대수 h \mathfrak{h} h 를 생각해 보자. 이 리 부분대수가 물론 항상 아이디얼이진 않지만, 어떤 더 큰 적당한 리 부분대수 안에서는 아이디얼일 수 있다. 예를 들어 자기자신 안에서는 분명 아이디얼이다. 만약 모든 A ∈ h A \in \mathfrak{h} A ∈ h 에 대하여 [ A , X ] ∈ h [A, X] \in \mathfrak{h} [ A , X ] ∈ h 인 X ∈ g X \in \mathfrak{g} X ∈ g 들을 모두 모으면, 이 집합이 한 리 부분대수를 이루며 이 안에서 h \mathfrak{h} h 가 아이디얼임을 바로 알 수 있다. 이 리 부분대수를 가리켜 h \mathfrak{h} h 의 normalizer 라고 부른다. 여기서 특수한 경우 두 가지를 들 수 있다. 하나는 normalizer가 전체 리 대수 g \mathfrak{g} g 와 같은 경우이고, 물론 이 경우에 h \mathfrak{h} h 는 g \mathfrak{g} g 의 아이디얼이다. 한편 아예 반대로 normalizer가 가장 작은 경우를 보자면 h \mathfrak{h} h 의 normalizer가 h \mathfrak{h} h 와 같은 경우를 생각할 수 있을텐데, 이러한 h \mathfrak{h} h 를 가리켜 self-normalizing하다고 말한다.
+
+물론 리 대수들 간의 준동형사상도 정의할 수 있다. 두 리 대수 g \mathfrak{g} g 와 h \mathfrak{h} h 에 대하여 ϕ ( [ A , B ] ) = [ ϕ ( A ) , ϕ ( B \phi([A, B]) = [\phi(A), \phi(B ϕ ([ A , B ]) = [ ϕ ( A ) , ϕ ( B )] ( A , B ∈ g A, B \in \mathfrak{g} A , B ∈ g )를 만족하는 선형사상 ϕ \phi ϕ 를 가리켜 리 대수 준동형사상(Lie algebra homomorphism) 혹은 그냥 준동형사상(homomorphism)이라고 부른다. 물론 kernel과 image도 여타 대수적 객체들의 준동형사상에서 했던 것처럼 정의한다. 그리고 당연히 kernel은 아이디얼이다. 한편 일대일 대응인 리 대수 준동형사상을 가리켜 리 대수 동형사상(Lie algebra isomorphism) 혹은 그냥 동형사상(isomorphism)하다고 한다. [18] 그리고 두 리 대수가 어떤 리 대수 동형사상을 가지면 두 리 대수가 동형(isomorphic)하다고 말한다. 물론 동형인 두 리 대수는 적어도 리 대수만으로 봤을 때 완전히 같은 것이라고 간주할 수 있다. 리 대수 이론에서 중요한 것 중 하나가 바로 이 동형 클래스들을 분류하는 것으로, 아래에 소개되어 있듯이 (대수적으로 닫힌 체 혹은 실수 체 위에서) 유한 차원 단순 리 대수들의 동형 클래스들은 모조리 분류되어 있다. [19]
+
+이제 표현에 대해 말해 보자. 그 전에 소개해야 할 것이 있다. 벡터 공간 V V V 와 A , B ∈ L ( V ) A, B \in L(V) A , B ∈ L ( V ) 에 대하여 [ A , B ] = A B − B A [A, B] = AB - BA [ A , B ] = A B − B A 는 반대칭성과 자코비 항등식 모두를 만족하는 이중선형 연산임은 잘 알려져 있다. [20] 이제 L ( V ) L(V) L ( V ) 에서 원래 선형 연산자 곱 연산을 잊어버리고 대신에 교환자 연산자를 넣어 리 대수를 만들자. 이를 g l ( V ) \mathfrak{gl}(V) gl ( V ) 라고 표기한다. 예시에서 소개한 대로라면 g l ( V ) = L ( V ) L \mathfrak{gl}(V) = L(V)_L gl ( V ) = L ( V ) L ​ 이라는 이야기이다. 이제 임의의 다른 리 대수 g \mathfrak{g} g 에 대하여 리 대수 준동형사상 ρ : g → g l ( V ) \rho: \mathfrak{g} \to \mathfrak{gl}(V) ρ : g → gl ( V ) , 즉 ρ ( [ A , B ] ) = [ ρ ( A ) , ρ ( B ) ] = ρ ( A ) ρ ( B ) − ρ ( B ) ρ ( A ) \rho([A, B]) = [ \rho(A), \rho(B) ] = \rho(A) \rho(B) - \rho(B) \rho(A) ρ ([ A , B ]) = [ ρ ( A ) , ρ ( B )] = ρ ( A ) ρ ( B ) − ρ ( B ) ρ ( A ) 를 만족하는 선형사상 ρ \rho ρ 를 표현(representation) 이라고 부른다. 리 대수의 분류 못지 않게 표현의 분류 역시 엄청나게 중요하다. 표현을 통해 좀 더 실질적인 응용이 가능하기 때문이다. 예를 들어 물리학에서 군론이나 리 대수 가지고 하는 무언가를 한다고 하면 십중팔구 이 표현만 가지고 노는 것이다. 추가로, ρ \rho ρ 가 단사이면 (injective) 또는 그럴 때에만 표현 ρ \rho ρ 가 faithful 하다고 한다.
+
+한편, A ∈ g A \in \mathfrak{g} A ∈ g 에 대하여 g ∋ X ↦ [ A , X ] \mathfrak{g} \ni X \mapsto [A, X] g ∋ X ↦ [ A , X ] 인 사상(map)을 생각할 수 있다. 이걸 보통 ad A \textrm{ad }A ad A 라고 표기한다. 또한 리 대수 정의의 주석 중 하나에서 설명했다시피 이건 리 대수에 대한 미분(derivation)이기도 하다. 즉, ad A ∈ Der g \textrm{ad }A \in \textrm{Der }\mathfrak{g} ad A ∈ Der g 이다. 그런 이유로 ad A \textrm{ad }A ad A 를 inner derivation이라고 부르기도 한다. 또한 ad A \textrm{ad }A ad A 들을 모두 모은 집합을 ad g \textrm{ad }\mathfrak{g} ad g 로 표기하는데, 사실 자코비 항등식으로부터 모든 A , B ∈ g A, B \in \mathfrak{g} A , B ∈ g 에 대하여 다음이 성립함을 알 수 있다.
+
+ad [ A , B ] = [ ad A , ad B ] \textrm{ad }[A, B] = [\textrm{ad }A, \textrm{ad }B] ad [ A , B ] = [ ad A , ad B ] .
+
+이로부터 ad g \textrm{ad }\mathfrak{g} ad g 가 리 대수를 이룬다는 것을 알 수 있다. 이걸 또 다르게 표현하자면 ad : g → g l ( g ) \textrm{ad} : \mathfrak{g} \to \mathfrak{gl}(\mathfrak{g}) ad : g → gl ( g ) 이 g \mathfrak{g} g 의 한 표현임을 알 수 있다는 것이다. 이 표현을 가리켜 adjoint 표현(adjoint representation)이라고 부른다.
+
+또한 각 ad A \textrm{ad }A ad A 가 어떤 성질을 가지는지도 중요하다. 특히 ad A \textrm{ad }A ad A 가 반단순(semisimple)하면 [21] , 그리고 그럴 때에만 A A A 가 ad-semisimple 하다고 말한다. 한편 ad A \textrm{ad }A ad A 가 멱영원(nilpotent element)이면, 그리고 그럴 때에만 A A A 가 ad-nilpotent 하다고 말한다.
+
+유한 차원 리 대수에 대하여 다음과 같은 이차 형식을 생각해 보자. 해당 리 대수의 두 원소 A , B A, B A , B 에 대하여 κ ( A , B ) = tr ( ( ad A ) ( ad B ) ) \kappa(A, B) = \textrm{tr }((\textrm{ad }A)(\textrm{ad }B)) κ ( A , B ) = tr (( ad A ) ( ad B )) 로 정의되는 이차 형식 κ \kappa κ 를 생각할 수 있다. 이를 킬링 형식(Killing form) 이라고 부른다. [22] 앞으로 소개될 Cartan's criteria에 있어서 핵심적인 도구로, 단순 리 대수의 구조를 다룰 때에도 중심적인 역할을 한다.
+
+5. 종류 및 대략적인 구조 [편집]
+
+5.1. 아벨리안 리 대수 [편집]
+리 대수 g \mathfrak{g} g 에 대해 [ A , B ] = 0 [A, B] = 0 [ A , B ] = 0 for every A , B ∈ g A, B \in \mathfrak{g} A , B ∈ g 임이 성립한다면, 그리고 그럴 때에만 g \mathfrak{g} g 가 아벨리안 (Abelian) 하다고 [23] 말한다. 제일 단순한 형태의 리 대수이며, 그냥 아무 벡터 공간을 잡은 다음에 곱하면 무조건 0이 되는 연산을 정의하기만 하면 끝이기에 해당 벡터 공간의 차원 만으로도 완전하게 결정된다. 그래도 핵심적인 구조에서 툭하면 튀어나오는 녀석이다. 다음에 소개될 센터와 toral 부분대수가 그 예이다.
+
+5.1.1. 센터 [편집]
+다른 대수적 구조들과 마찬가지로 리 대수 역시 센터를 가진다. 정확하게, 모든 A ∈ g A \in \mathfrak{g} A ∈ g 에 대하여 [ A , X ] = 0 [A, X] = 0 [ A , X ] = 0 인 X ∈ g X \in \mathfrak{g} X ∈ g 를 모두 모은 공간을 가리켜 센터(center) 라고 부른다. 이게 아이디얼이고 아벨리안임을 바로 보일 수 있다. 책에 따라 표기가 다른데, Z ( g ) Z(\mathfrak{g}) Z ( g ) 라고 표기하기도 하고 [24] c g \mathfrak{c}_\mathfrak{g} c g ​ 라고 표기하기도 한다.
+
+이게 항상 adjoint 표현의 kernel과 같음을 쉽게 보일 수 있다. 이런 성질도 있고 이래저래 이 녀석으로부터 얻어지는 몫대수(quotient algebra)가 유용하기에 [25] 증명에서 자주 볼 수 있다.
+
+5.1.2. Toral 부분대수 [편집]
+주어진 리 대수의 어떤 부분대수는 그 원소들이 전부 ad-semisimple할 수 있다. 이런 부분대수를 가리켜 Toral 부분대수(toral subalgebra) 라고 부른다. [26] 물론 모든 리 대수가 0이 아닌 toral 부분대수를 가지지는 않는다. 하지만 적어도 모든 유한 차원 반단순 리 대수는 0이 아닌 toral 부분대수를 가진다. 여기서 최대 toral 부분대수 를 [27] 생각할 수 있다. 몇몇 리 대수 책들에서 [28] 이를 먼저 소개한 다음, 카르탕 부분대수 대신 이걸 이용한 root 공간 분해(root space decomposition)를 통하여 유한 차원 반단순 리 대수들의 [29] 구조를 분석한다. 그리고 나중에 이 최대 toral 부분대수가 (유한 차원 반단순 리 대수 한정으로) 카르탕 부분대수와 같다는 걸 볼 수 있다.
+
+이 toral 부분대수는 대수적으로 닫힌 체 위에서, 혹은 적어도 이 부분대수에 포함된 모든 원소들의 adjoint representation이 대각화가능하면, 아벨리안하다는 걸 증명할 수 있다. [30] [31]
+
+5.2. 멱영 리 대수 [편집]
+리 대수 g \mathfrak{g} g 가 g n = 0 \mathfrak{g}^n = 0 g n = 0 이 되는 어떤 양의 정수 n n n 을 가진다면, 그리고 그럴 때에만 g \mathfrak{g} g 가 멱영(nilpotent) 하다고 말한다. 의외로 흔하게 볼 수 있는 건데, 아벨리안 대수 역시 당연히 nilpotent하고, 예를 들어 대각 성분이 모두 0인 n × n n \times n n × n 상(하)삼각행렬들을 모두 모은 집합에 보통 벡터 공간 구조와 행렬의 교환자를 줘서 만든 리 대수 역시 nilpotent하다.
+
+멱영 리 대수는 다음과 같은 중요한 성질을 만족한다.
+( Engel의 정리 ) 유한 차원 리 대수 g \mathfrak{g} g 가 nilpotent할 필요충분조건은 g \mathfrak{g} g 의 모든 원소들이 ad-nilpotent하다는 것이다. [32]
+
+멱영 리 대수가 아래 소개될 카르탕 부분대수 등으로 인하여 여기저기서 등장하며, 이때 위 Engel의 정리가 유용한 도구로 많이 작용한다.
+
+5.2.1. Nil-radical [편집]
+리 대수 역시 nil-radical을 가진다. 즉, 최대 멱영 아이디얼을 nil-radical 이라고 부른다. 주어진 리 대수를 g \mathfrak{g} g 라고 표기했을 때 이의 radical을 Nil g \textrm{Nil }\mathfrak{g} Nil g 라고 표기하기도 한다. 임의의 두 멱영 아이디얼의 합 역시 멱영 아이디얼인 것으로부터 모든 멱영 아이디얼이 nil-radical에 포함됨을 알 수 있다. 아래의 radical과 엮어서 여러 재밌는 성질들을 가진다.
+
+참고로 어떤 표현에 대하여 nil-radical의 모든 원소들의 표현이 전부 멱영원이면, 그리고 그럴 때에만 그 표현을 nilrepresentation이라고 부른다. 예를 들어 adjoint 표현이 nilrepresentation이다. Ado의 정리를 확장한 버전 중 하나가 바로 모든 유한 차원 리 대수는 finite-dimensional faithful nilrepresentation을 가진다는 것이다. [33]
+
+5.2.2. 카르탕 부분대수 [편집]
+Nilpotent 리 대수들 중에서 매우 특별한 종류가 있다. 특별히 self-normalizing한 멱영 리 부분대수를 카르탕 부분대수(Cartan subalgebra; CSA) 라고 부른다.
+
+많은 리 대수 책들에서 카르탕 부분대수를 직접 이용하여 유한 차원 반단순 리 대수들의 구조를 분석한다. [34] [35] 또한 다음과 같은 중요한 성질들이 성립한다.
+모든 유한 차원 리 대수는 카르탕 부분대수를 갖는다. [36] [37]
+
+Split한 유한 차원 반단순 리 대수의 어떤 리 부분대수가 카르탕 부분대수일 필요충분조건인 이 리 부분대수가 최대 toral 부분대수인 것이다. [38]
+
+여기서 split하다는 것은, 어떤 카르탕 부분대수이 갖는 모든 원소들의 adjoint가 대각화 가능(diagonalizable)하다는 것이다. 대수적으로 닫힌 체 위에서 모든 유한 차원 반단순 리 대수가 split하다는 것을 보일 수 있다.
+대수적으로 닫힌 체 위에서 [39] 주어진 유한 차원 리 대수의 모든 카르탕 부분대수는 conjugate하다. 즉, 임의의 두 카르탕 부분대수 h 1 \mathfrak{h}_1 h 1 ​ 와 h 2 \mathfrak{h}_2 h 2 ​ 에 대하여 적당한 자기동형사상(automorphism) τ \tau τ 가 존재하여 h 2 = τ ( h 1 ) \mathfrak{h}_2 = \tau(\mathfrak{h}_1) h 2 ​ = τ ( h 1 ​ ) 이다. [40] [41]
+
+임의의 유한 차원 리 대수가 가지는 모든 카르탕 부분대수는 같은 차원을 가진다. [42]
+
+특히 주어진 리 대수의 모든 카르탕 부분대수가 같은 차원을 가진다는 것은 이 공통 차원을 주어진 리 대수의 어떤 특징적인 파라미터로 볼 수 있다는 것을 시사한다. 마치 주어진 리 대수의 차원처럼. 이 카르탕 부분대수들의 공통 차원을 가리켜 랭크(rank) 라고 부른다. 여기서 특징적인 파라미터라고 하면 보통 두 동형인 리 대수가 공통으로 가지게 될 값이라는 것을 의미한다. 다르게 말하자면, 만약 두 리 대수가 다른 랭크를 가진다면 이 두 리 대수들은 동형일 수 없다는 것을 의미한다. [43] 이는 유한 차원 반단순 리 대수의 분류에서도 유용한데, 왜냐하면 이런저런 종류의 리 대수들이 있을 것임을 찾더라도 이 중에 중복되는 걸 솎아낼 필요가 당연히 필요할텐데, 이때 차원과 더불어 랭크를 통하여 찾아낸 종류들이 서로 아예 다르다는 것을 거의 대부분 보일 수 있다. [44]
+
+5.3. 가해 리 대수 [편집]
+비슷하게, 리 대수 g \mathfrak{g} g 가 g ( n ) = 0 \mathfrak{g}^{(n)} = 0 g ( n ) = 0 이 되는 어떤 양의 정수 n n n 을 가진다면, 그리고 그럴 때에만 g \mathfrak{g} g 가 가해(solvable) 하다고 말한다. 의외로 흔하게 볼 수 있는 건데, 아벨리안 대수 역시 당연히 가해 리 대수이고, 예를 들어 n × n n \times n n × n 상(하)삼각행렬들을 [45] 모두 모은 집합에 보통 벡터 공간 구조와 행렬의 교환자를 줘서 만든 리 대수 역시 가해 리 대수이다.
+
+가해 리 대수는 다음과 같은 중요한 성질들을 만족한다. 보통 멱영 리 대수들과 많이 엮인다.
+모든 멱영 리 대수는 가해 리 대수이다. [46]
+
+( Lie의 정리 ) [47] 유한 차원 선형 가해 리 대수 g ⊆ g l ( V ) \mathfrak{g} \subseteq \mathfrak{gl}(V) g ⊆ gl ( V ) ( V V V 는 유한 차원 벡터 공간)에 대하여 g \mathfrak{g} g 의 모든 원소가 상(하)삼각행렬이 되도록 하는 V V V 의 기저가 존재한다. [48]
+
+n n n 차원 리 대수 g \mathfrak{g} g 에 대하여 g \mathfrak{g} g 가 가해 리 대수일 필요충분조건은 g m ⊆ g m + 1 \mathfrak{g}_m \subseteq \mathfrak{g}_{m + 1} g m ​ ⊆ g m + 1 ​ 이고 dim ⁡ g m = m \dim{\mathfrak{g}_m} = m dim g m ​ = m 인 g \mathfrak{g} g 의 아이디얼들 g m \mathfrak{g}_m g m ​ 들이 존재한다는 것이다. [49]
+
+유한 차원 리 대수 g \mathfrak{g} g 에 대하여 g \mathfrak{g} g 가 가해 리 대수일 필요충분조건은 g ′ \mathfrak{g}' g ′ 이 멱영 리 대수인 것이다. [50]
+
+( Cartan's criterion for solvability ) 유한 차원 리 대수 g \mathfrak{g} g 에 대하여 모든 A ∈ g A \in \mathfrak{g} A ∈ g 와 B ∈ g ′ B \in \mathfrak{g}' B ∈ g ′ 에 대해 κ ( A , B ) = 0 \kappa(A, B) = 0 κ ( A , B ) = 0 ( κ \kappa κ 는 g \mathfrak{g} g 의 Killing form)이면, g \mathfrak{g} g 는 가해 리 대수이다. [51]
+
+5.3.1. Radical [편집]
+리 대수 역시 radical을 가진다. 즉, 최대 가해 아이디얼을 radical 이라고 부른다. 주어진 리 대수를 g \mathfrak{g} g 라고 표기했을 때 이의 radical을 Rad g \textrm{Rad }\mathfrak{g} Rad g 라고 표기하기도 한다. 임의의 두 가해 아이디얼의 합 역시 가해 아이디얼인 것으로부터 모든 가해 아이디얼이 radical에 포함됨을 알 수 있다.
+
+Radical은 리 대수의 구조에서 중요한 역할을 한다. 곧 소개할 레비 인수에서도 중요한 역할을 하며, 리 대수의 구조를 파악할 때에도 이런저런 좋은 환경을 제공해 준다. 특히 유용한 아이디얼들을 많이 포함하고 있어서 차원에 대한 수학적 귀납법 같은 것을 쓰는 데에 있어서 많은 도움을 준다.
+
+한편 다음과 같은 성질들이 성립된다.
+[ g , Rad g ] ⊆ Nil g [ \mathfrak{g}, \textrm{Rad }\mathfrak{g} ] \subseteq \textrm{Nil }\mathfrak{g} [ g , Rad g ] ⊆ Nil g [52]
+
+임의의 미분 연산자 D D D 에 대하여 D ( Rad g ) ⊆ Nil g D(\textrm{Rad }\mathfrak{g}) \subseteq \textrm{Nil }\mathfrak{g} D ( Rad g ) ⊆ Nil g [53]
+
+c g ⊆ Nil g ⊆ Rad g \mathfrak{c}_\mathfrak{g} \subseteq \textrm{Nil }\mathfrak{g} \subseteq \textrm{Rad }\mathfrak{g} c g ​ ⊆ Nil g ⊆ Rad g [54]
+
+5.3.2. 보렐 부분대수 [편집]
+Radical 말고도 리 대수들이 가지는 중요한 가해 리 부분대수가 있다. 최대 가해 리 부분대수(maximal solvable Lie subalgebra)를 생각할 수 있는데, 이걸 보통 보렐 부분대수(Borel subalgebra; BSA) 라고 부른다. 카르탕 부분대수처럼 이 역시 중요한 성질을 가진다.
+표수가 0인 대수적으로 닫힌 체 위에서 주어진 유한 차원 리 대수의 모든 보렐 부분대수는 conjugate하다. 즉, 임의의 두 보렐 부분대수 b 1 \mathfrak{b}_1 b 1 ​ 와 b 2 \mathfrak{b}_2 b 2 ​ 에 대하여 적당한 자기동형사상(automorphism) τ \tau τ 가 존재하여 b 2 = τ ( b 1 ) \mathfrak{b}_2 = \tau(\mathfrak{b}_1) b 2 ​ = τ ( b 1 ​ ) 이다. [55] [56]
+
+5.4. 반단순 리 대수 [편집]
+주어진 리 대수는 물론 항상 radical을 가진다. 이게 리 대수 전체일 수도 있지만 일단 최소한 0일 수도 있으며, 실제로 0인 것들도 있다. 이러한 리 대수를 반단순 리 대수(semisimple Lie algebra) 라고 부른다. 사실 상 리 대수 이론의 주인공(?)이다. 위에서도 반단순 리 대수 이야기가 몹시 자주 나왔으며, 특히 이들의 분류 이야기가 제법 자주 나온 것을 알 수 있다. 리 대수 이론의 상당 부분이 유한 차원 반단순 리 대수들과 이들의 표현이 가지는 구조를 연구하는 데에 할애되어 있다. 자세한 이야기는 아래 항목에서 다루도록 하겠다.
+
+5.4.1. 레비 인수 [편집]
+한편 반단순 리 대수가 아닌 리 대수라 하더라도 반단순 리 대수의 영향에서 벗어날 수 없는데, 왜냐하면 다음의 정리가 있기 때문이다.
+유한 차원 리 대수 g \mathfrak{g} g 에 대하여 g \mathfrak{g} g 의 radical을 r \mathfrak{r} r 이라고 표기하면, g 1 ≅ g / r \mathfrak{g}_1 \cong \mathfrak{g} / \mathfrak{r} g 1 ​ ≅ g / r 이며 g = g 1 ⊕ r \mathfrak{g} = \mathfrak{g}_1 \oplus \mathfrak{r} g = g 1 ​ ⊕ r 인 반단순 리 부분대수 g 1 \mathfrak{g}_1 g 1 ​ 이 존재한다. [57]
+
+그리고 이러한 리 부분대수를 가리켜 레비 인수(Levi factor) 라고 부른다. 어차피 반단순 리 부분대수들은 모두 분류가 되어 있으니, 이걸 가지고 주어진 리 대수가 가지는 구조의 상당 부분을 파악할 수 있다.
+
+또한 다음이 성립한다.
+( Levi-Mal'cev 정리 ) 임의의 두 레비 인수 g 1 \mathfrak{g}_1 g 1 ​ 과 g 2 \mathfrak{g}_2 g 2 ​ 는 conjugate하다. 특히 g \mathfrak{g} g 의 nil-radical에 속한 어떤 Z Z Z 이 존재하여 g 2 = ( exp ⁡ ad Z ) g 1 \mathfrak{g}_2 = (\exp{\textrm{ad }Z}) \mathfrak{g}_1 g 2 ​ = ( exp ad Z ) g 1 ​ 이다. [58]
+
+5.5. 단순 리 대수 [편집]
+아벨리안이 아니고 아이디얼이 0과 자기 자신 뿐인 리 대수를 단순 리 대수(simple Lie algebra) 라고 부른다. 저런 아이디얼의 강한 제한 덕분에 모든 단순 리 대수는 반단순 리 대수이다. 사실 위에서 반단순 리 대수가 주인공이라고 했지만 어떻게 보면 페이크 주인공이고 단순 리 대수가 진주인공일 수 있는데, 왜냐하면 모든 반단순 리 대수는 유한한 개수의 단순 리 대수로 (그것도 유일한 방법으로) 쪼개지기 때문이다. 따라서 단순 리 대수들만 다 알아도 반단순 리 대수들을 다 알게 되는 것이다. 그럼에도 아래에 소개할 Cartan's criterion for semisimplicity에 반단순 리 대수 및 단순 리 대수들의 구조와 분류가 상당 부분 빚을 지고 있는 걸 감안하긴 해야겠지만.
+
+6. 반단순 리 대수의 성질 및 분류 [편집]
+본격적으로 리 대수 이론의 주인공인 반단순 리 대수에 대해 살펴 보자. 실제로 거의 모든 리 대수에 대한 책은 반단순 리 대수와 그 표현들에 대부분의 분량을 할애하고 있다. 그만큼 연구가 많이 되었으며 중요한 성질 및 결과들이 많은 대상들이다.
+
+6.1. 성질 [편집]
+우선 다음과 같은 중요하고도 유용한 성질들이 성립한다.
+주어진 유한 차원 리 대수가 반단순이면 그리고 그럴 때에만 해당 리 대수는 0이 아닌 아벨리안 아이디얼을 가지지 않는다. [59] [60]
+
+( Cartan's criterion for semisimplicity ) 주어진 유한 차원 리 대수가 반단순이면 그리고 그럴 때에만 킬링 형식이 non-degenerate하다. [61] [62] [63]
+
+모든 유한 차원 반단순 리 대수는 단순 아이디얼들의 직접합으로 써지며 이는 유일하다. [64]
+
+유한 차원 반단순 리 대수 g \mathfrak{g} g 에 대하여 g ′ = g \mathfrak{g}' = \mathfrak{g} g ′ = g 이다. [65]
+
+유한 차원 반단순 리 대수 g \mathfrak{g} g 에 대하여 Der g = ad g \textrm{Der }\mathfrak{g} = \textrm{ad }\mathfrak{g} Der g = ad g 이다. [66] [67]
+
+유한 차원 반단순 리 대수 g \mathfrak{g} g 에 대하여 모든 A ∈ g A \in \mathfrak{g} A ∈ g 에 대해 ad A = ad S + ad N \textrm{ad }A = \textrm{ad }S + \textrm{ad }N ad A = ad S + ad N 이 조르당 분해 (Jordan decomposition)이도록 하는, 즉 각각 ad-semisimple, ad-nilpotent하고 서로 교환이 되는 유일한 S , N ∈ g S, N \in \mathfrak{g} S , N ∈ g 가 존재한다. [68]
+
+유한 차원 반단순 리 대수의 1차원 표현은 모두 자명하다. [69]
+
+유한 차원 반단순 리 대수의 모든 faithful한 유한 차원 표현은 0이 아닌 캐시미어 (Casimir) 연산자를 가지며 이는 리 대수의 표현에 들어 간 모든 원소들과 교환된다. [70]
+
+( 바일(Weyl)의 완전분해가능 정리 ) 유한 차원 반단순 리 대수의 모든 유한 차원 표현은, 만약 어떤 0이 아니고 전체와 다른 (non-zero proper) 부분표현을 가진다면, 항상 그 부분표현과 안 겹치는 또다른 부분표현의 직접합(direct sum)으로 써질 수 있다. 따라서 이들 표현들은 항상 완전분해가능(completely reducible)하다.
+가군(module)의 언어로 이를 표현하자면, 유한 차원 반단순 리 대수의 모든 유한 차원 가군 V V V 는, 만약 어떤 0이 아니고 전체와 다른 부분가군(submodule) W W W 를 가진다면, 어떤 또다른 부분가군 U U U 가 존재하여 V = W ⊕ U V = W \oplus U V = W ⊕ U 이다. [71]
+
+유한 차원 반단순 리 대수의 모든 유한 차원 표현은 기약 표현(irreducible representation)들의 직접합(direct sum)으로 쓸 수 있다. [72] [73]
+
+유한 차원 반단순 리 대수들이 단순 리 대수들의 합으로 써진다는 것은 반단순 리 대수들을 다루는 것에 엄청난 편의성을 가져다 준다. 단순 리 대수들만 알아도 된다는 뜻이다. 그리고 바일의 정리 역시 굉장히 중요하다. 이 역시 유한 차원 반단순 리 대수의 표현들을 알기 위해 기약 표현들만 알면 그만이라는 결론을 주기 때문이다. 그리고 앞으로 소개할 3차원 split 단순 리 대수( = s l ( 2 , F ) =\mathfrak{sl}(2, F) = sl ( 2 , F ) )와 이 녀석의 기약 표현들, root 공간 분해와 더불어 이 정리로부터 유한 차원 반단순 리 대수들의 구조와 그 기약 표현들을 효과적으로 분해하고 표현할 수 있게 된다.
+
+6.2. 3차원 split 단순 리 대수와 그 기약 표현들 [편집]
+여기서 소개할 3차원 split 단순 리 대수와 그 기약 표현들은 그야말로 유한 차원 단순 리 대수들과 이들 유한 차원 표현의 원자 와도 같은 존재들이다. Root 공간 분해와 바일 정리를 통해 단순 리 대수의 구조가 가지는 패턴을 이끌어낼 수 있다.
+
+먼저 3차원 split 단순 리 대수 를 정의해 보자. 어떤 3차원 벡터 공간 s \mathfrak{s} s 에서 기저 H , E , F H, E, F H , E , F 를 고른 다음, 다음을 만족하는 반대칭 이중선형 연산 [ ⋅ , ⋅ ] : s × s → s [\cdot,\cdot]: \mathfrak{s} \times \mathfrak{s} \to \mathfrak{s} [ ⋅ , ⋅ ] : s × s → s 를 생각해 보자.
+
+[ H , E ] = 2 E , [ H , F ] = − 2 F , [ E , F ] = H \displaystyle [H, E] = 2E, \;\;\; [H, F] = -2F, \;\;\; [E, F] = H [ H , E ] = 2 E , [ H , F ] = − 2 F , [ E , F ] = H .
+
+이 연산이 자코비 항등식 또한 만족한다는 것을 쉽게 보일 수 있다. [74] 따라서 [ ⋅ , ⋅ ] [\cdot,\cdot] [ ⋅ , ⋅ ] 을 얹으면 s \mathfrak{s} s 가 리 대수임을 알 수 있다.
+
+어떤 리 대수를 처음 봤을 때 보통 처음 하는 일이 바로 이 리 대수가 어떤 아이디얼을 가지는가를 파악하는 것이다. 물론 영공간은 말할 것도 없다. 이제 영공간이 아닌 임의의 아이디얼 i \mathfrak{i} i 를 생각해 보자. 여기서 H H H , E E E , F F F 모두가 i \mathfrak{i} i 에 포함되면 i = s \mathfrak{i} = \mathfrak{s} i = s 임을 기억하자. 이제 H ∈ i H \in \mathfrak{i} H ∈ i 라고 가정해 보자. 그러면 E = 1 2 [ H , E ] E = \frac{1}{2} [H, E] E = 2 1 ​ [ H , E ] 이므로 E ∈ i E \in \mathfrak{i} E ∈ i 이다. [75] 같은 이유로 F = − 1 2 [ H , F ] ∈ i F = -\frac{1}{2} [H, F] \in \mathfrak{i} F = − 2 1 ​ [ H , F ] ∈ i 이다. 따라서 이 경우 i = s \mathfrak{i} = \mathfrak{s} i = s 이다. 만약 E ∈ i E \in \mathfrak{i} E ∈ i 또는 F ∈ i F \in \mathfrak{i} F ∈ i 이면 어떨까? 그러면 H = [ E , F ] H = [E, F] H = [ E , F ] 이므로 H ∈ i H \in \mathfrak{i} H ∈ i 가 성립하므로 역시 i = s \mathfrak{i} = \mathfrak{s} i = s 임을 알 수 있다. 즉, H H H , E E E , F F F 셋 중 하나라도 i \mathfrak{i} i 에 포함되어 있으면 i = s \mathfrak{i} = \mathfrak{s} i = s 이다.
+
+이제 임의의 0이 아닌 X ∈ i X \in \mathfrak{i} X ∈ i 를 생각해 보자. 이걸 X = a H + b E + c F X = aH + bE + cF X = a H + b E + c F ( a , b , c a, b, c a , b , c 는 모두 0은 아닌 스칼라)와 같이 쓸 수 있을 것이다. 이제 다음을 보자.
+
+X = a H + b E + c F \displaystyle X = aH + bE + cF X = a H + b E + c F ,
+[ H , X ] = 2 b E − 2 c F \displaystyle [H, X] = 2bE - 2cF [ H , X ] = 2 b E − 2 c F ,
+[ H , [ H , X ] ] = 4 b E + 4 c F \displaystyle [H, [H, X]] = 4bE + 4cF [ H , [ H , X ]] = 4 b E + 4 c F .
+
+그러면 이 셋이 i \mathfrak{i} i 에 포함됨을 알 수 있다. 물론 이들의 임의의 선형결합 역시 i \mathfrak{i} i 에 포함된다. 그런데 a a a , b b b , c c c 셋 중 적당한 둘을 소거시켜 보면, 이 셋의 적당한 선형결합이 H H H , E E E , F F F 셋 중 하나와 같다는 것을 알 수 있다. 따라서 아무 영공간이 아닌 아이디얼 i \mathfrak{i} i 을 잡으면 이 아이디얼이 H H H , E E E , F F F 셋 중 최소 하나를 포함한다는 것을, 따라서 i = s \mathfrak{i} = \mathfrak{s} i = s 임을 알 수 있다. 결국 s \mathfrak{s} s 가 단순 리 대수임을 알아내었다. 참고로 주어진 체를 k k k 라고 표기한다면, s ≅ s l ( 2 , k ) \mathfrak{s} \cong \mathfrak{sl}(2, k) s ≅ sl ( 2 , k ) 임을 바로 알 수 있다. [76]
+
+이제 리 대수 이론에서 제일 중요한 요소 중 하나인 s \mathfrak{s} s 의 유한 차원 기약 표현(finite-dimensional irreducible representation)들에 대해 알아 보자. 여기서 편의 상 표현과 가군(module)을 혼동하여 쓸 것이다. 어차피 둘은 상호호환하므로 상관 없다. 특히, ρ ( H ) v \rho(H)v ρ ( H ) v , ρ ( E ) v \rho(E)v ρ ( E ) v , ρ ( F ) v \rho(F)v ρ ( F ) v 대신 간단하게 H v Hv H v , E v Ev E v , F v Fv F v 와 같이 쓸 것이다. 특히, [ H , E ] v = ( H E − E H ) v [H, E]v = (HE - EH)v [ H , E ] v = ( H E − E H ) v , [ H , F ] v = ( H F − F H ) v [H, F]v = (HF - FH)v [ H , F ] v = ( H F − F H ) v , [ E , F ] = ( E F − F E ) v [E, F] = (EF - FE)v [ E , F ] = ( E F − F E ) v 와 같이 쓸 수 있을 것이다. [77] [78]
+
+유한 차원 기약 표현 ρ : s → g l ( V ) \rho: \mathfrak{s} \to \mathfrak{gl}(V) ρ : s → gl ( V ) 하나를 아무 거나 고른 뒤, 이제 H H H ( = ρ ( H ) =\rho(H) = ρ ( H ) )의 한 고윳값(eigenvalue) λ 0 \lambda_0 λ 0 ​ 를 생각해 보도록 하자. 다만 지금 대수적으로 닫힌 체 위에서 논다고 가정하지 않았으므로 고윳값의 존재를 장담할 수 없다. 여기서 꼼수를 하나 부리자. 잠시 H H H 가 고윳값을 갖도록 체를 최소한으로만 (minimally) 확장해 보자. 물론 (좀 거창하긴 하지만) 대수적 폐체(algebraic closure)가 존재하므로 그러한 최소 확장이 어쨌든 존재한다는 것을 알 수 있다. [79] 특히 애초부터 주어진 체 위에서 H H H 가 고윳값을 가진다면 그 최소 확장 체가 바로 원래 체 자신과 같을 것이다. 그리고 미리 말하자면, 앞으로 보이게 될 결과로부터 사실 모든 고윳값이 어차피 원래 주어진 체에 잘 포함되어 있다는 걸 알 수 있다. 그래도 아직 그건 모르겠으니 일단 안전과 엄밀함을 위하여 이런 안전장치를 설정하자는 것이다.
+
+그러면 H v = λ 0 v Hv = \lambda_0 v H v = λ 0 ​ v 인 v ∈ V v \in V v ∈ V 가 존재할 것이다. 여기서 다음을 보자.
+
+H E v = ( E H + [ H , E ] ) v = E ( H v ) + 2 E v = ( λ 0 + 2 ) E v \displaystyle HEv = (EH + [H, E])v = E(Hv) + 2Ev = (\lambda_0 + 2)Ev H E v = ( E H + [ H , E ]) v = E ( H v ) + 2 E v = ( λ 0 ​ + 2 ) E v ,
+H F v = ( F H + [ H , F ] ) v = F ( H v ) − 2 F v = ( λ 0 − 2 ) F v \displaystyle HFv = (FH + [H, F])v = F(Hv) - 2Fv = (\lambda_0 - 2)Fv H F v = ( F H + [ H , F ]) v = F ( H v ) − 2 F v = ( λ 0 ​ − 2 ) F v .
+
+그리고 이게 v v v 뿐만 아니라 임의의 H H H 의 고유벡터에 대해서도, 물론 λ 0 \lambda_0 λ 0 ​ 를 해당 고윳값으로 바꿨을 때, 잘 성립한다는 것을 알 수 있다. 이로부터 먼저 임의의 음이 아닌 정수 r r r 에 대하여 다음을 알 수 있다.
+
+H E r v = ( λ 0 + 2 r ) E r v \displaystyle HE^r v = (\lambda_0 + 2r)E^r v H E r v = ( λ 0 ​ + 2 r ) E r v .
+
+즉, 고유벡터들 v v v , E v Ev E v , E 2 v E^2 v E 2 v , ⋯ \cdots ⋯ , E r v E^r v E r v , ⋯ \cdots ⋯ 를 얻었다. 그런데 고윳값이 서로 다른 고유벡터들을 모은 집합은 항상 선형독립(linearly independent)이다. 지금 V V V 가 유한 차원이므로 v v v , E v Ev E v , E 2 v E^2 v E 2 v , ⋯ \cdots ⋯ , E r v E^r v E r v 이 선형독립이도록 하는 최대의 r r r 이 반드시 존재해야 한다. 게다가 그렇다고 E r + 1 v E^{r+1} v E r + 1 v 가 저들의 선형결합으로 써질 수도 없다. 그래서 다음을 얻을 수 밖에 없다.
+
+E r + 1 v = 0 \displaystyle E^{r+1} v = 0 E r + 1 v = 0 .
+
+이제, e 0 = E r v e_0 = E^r v e 0 ​ = E r v 라고 표기하자. 그리고 λ = λ 0 + 2 r \lambda = \lambda_0 + 2r λ = λ 0 ​ + 2 r 이라고 하자. e 0 e_0 e 0 ​ 역시 H H H 의 고유벡터이다. 그러면 위와 같이 고유벡터들 e 0 e_0 e 0 ​ , F e 0 Fe_0 F e 0 ​ , F 2 e 0 F^2 e_0 F 2 e 0 ​ , ⋯ \cdots ⋯ , F n e 0 F^n e_0 F n e 0 ​ , ⋯ \cdots ⋯ 를 얻을 수 있다. 그리고 위와 똑같이 e 0 e_0 e 0 ​ , F e 0 Fe_0 F e 0 ​ , F 2 e 0 F^2 e_0 F 2 e 0 ​ , ⋯ \cdots ⋯ , F n e 0 F^n e_0 F n e 0 ​ 가 선형독립이도록 하는 최대의 n n n 이 반드시 존재해야 할 것이고, 이때 F n + 1 e 0 = 0 F^{n + 1} e_0 = 0 F n + 1 e 0 ​ = 0 이어야 함을 알 수 있다.
+
+더 나아가기 전에 항등식 하나를 알아보자.
+임의의 양의 정수 i i i 에 대하여 [ E , F i ] = i F i − 1 ( H − ( i − 1 ) 1 ) \displaystyle [E, F^i] = iF^{i - 1} (H - (i - 1)1) [ E , F i ] = i F i − 1 ( H − ( i − 1 ) 1 ) . [80] [81]
+
+[항등식 증명] 항등식 [ X , A B ] = [ X , A ] B + A [ X , B ] [X, AB] = [X, A]B + A[X, B] [ X , A B ] = [ X , A ] B + A [ X , B ] 을 이용한다. 먼저 이 식으로부터 [ X , A i ] = ∑ j = 0 i − 1 A i − j − 1 [ X , A ] A j [X, A^i] = \sum_{j = 0}^{i - 1} A^{i - j - 1} [X, A] A^j [ X , A i ] = ∑ j = 0 i − 1 ​ A i − j − 1 [ X , A ] A j 가 성립한다는 것을 쉽게 알 수 있을 것이다. 이를 통해 다음과 같이 전개할 수 있다.
+
+[ E , F i ] = ∑ j = 0 i − 1 F i − j − 1 [ E , F ] F j \displaystyle [E, F^i] = \sum_{j = 0}^{i - 1} F^{i - j - 1} [E, F] F^{j} [ E , F i ] = j = 0 ∑ i − 1 ​ F i − j − 1 [ E , F ] F j
+= ∑ j = 0 i − 1 F i − j − 1 H F j \displaystyle = \sum_{j = 0}^{i - 1} F^{i - j - 1} H F^{j} = j = 0 ∑ i − 1 ​ F i − j − 1 H F j
+= ∑ j = 0 i − 1 F i − j − 1 ( F j H + [ H , F j ] ) \displaystyle = \sum_{j = 0}^{i - 1} F^{i - j - 1} \left( F^{j} H + [H, F^{j}] \right) = j = 0 ∑ i − 1 ​ F i − j − 1 ( F j H + [ H , F j ] ) .
+
+여기서 [ H , F j ] = ∑ q = 0 j − 1 F j − q − 1 [ H , F ] F q = ∑ q = 0 j − 1 F j − q − 1 ( − 2 F ) F q = − 2 j F j [H, F^{j}] = \sum_{q = 0}^{j - 1} F^{j - q - 1} [H, F] F^{q} = \sum_{q = 0}^{j - 1} F^{j - q - 1} (-2F) F^{q} = -2jF^{j} [ H , F j ] = ∑ q = 0 j − 1 ​ F j − q − 1 [ H , F ] F q = ∑ q = 0 j − 1 ​ F j − q − 1 ( − 2 F ) F q = − 2 j F j 임을 알 수 있다. 이로부터 다음을 얻는다.
+
+[ E , F i ] \displaystyle [E, F^i] [ E , F i ]
+= ∑ j = 0 i − 1 F i − j − 1 ( F j H + F j ( − 2 j 1 ) ) \displaystyle = \sum_{j = 0}^{i - 1} F^{i - j - 1} \left( F^{j} H + F^{j} (-2j1) \right) = j = 0 ∑ i − 1 ​ F i − j − 1 ( F j H + F j ( − 2 j 1 ) )
+= F i − 1 ∑ j = 0 i − 1 ( H − 2 j 1 ) ) \displaystyle = F^{i - 1} \sum_{j = 0}^{i - 1} \left( H - 2j1) \right) = F i − 1 j = 0 ∑ i − 1 ​ ( H − 2 j 1 ) )
+= i F i − 1 ( H − ( i − 1 ) 1 ) ) \displaystyle = i F^{i - 1} \left( H - (i - 1)1) \right) = i F i − 1 ( H − ( i − 1 ) 1 ) ) . QED
+
+이제부터 편의 상 양의 정수 i i i ( i ≤ n i \le n i ≤ n )에 대하여 e i : = 1 i ! F i e 0 e_i := \frac{1}{i!} F^i e_0 e i ​ := i ! 1 ​ F i e 0 ​ 라고 하자. 그러면 위 항등식과 특히 E e 0 = 0 E e_0 = 0 E e 0 ​ = 0 인 것으로부터 다음을 알 수 있다.
+
+E e i = 1 i ! E F i e 0 = 1 i ! ( F i E + [ E , F i ] ) e 0 \displaystyle Ee_i = \frac{1}{i!} EF^i e_0 = \frac{1}{i!} ( F^i E + [E, F^i] ) e_0 E e i ​ = i ! 1 ​ E F i e 0 ​ = i ! 1 ​ ( F i E + [ E , F i ]) e 0 ​
+= 1 i ! [ E , F i ] e 0 = 1 i ! ( i F i − 1 ( H − ( i − 1 ) 1 ) ) e 0 \displaystyle = \frac{1}{i!} [E, F^i] e_0 = \frac{1}{i!} \left( i F^{i - 1} \left( H - (i - 1)1 \right) \right) e_0 = i ! 1 ​ [ E , F i ] e 0 ​ = i ! 1 ​ ( i F i − 1 ( H − ( i − 1 ) 1 ) ) e 0 ​
+= 1 ( i − 1 ) ! F i − 1 ( H e 0 − ( i − 1 ) e 0 ) \displaystyle = \frac{1}{(i - 1)!} F^{i - 1} \left( He_0 - (i - 1)e_0 \right) = ( i − 1 )! 1 ​ F i − 1 ( H e 0 ​ − ( i − 1 ) e 0 ​ )
+= ( λ − i + 1 ) e i − 1 \displaystyle = (\lambda - i + 1) e_{i - 1} = ( λ − i + 1 ) e i − 1 ​ .
+
+그리고 F e i = ( i + 1 ) e i + 1 Fe_i = (i + 1) e_{i + 1} F e i ​ = ( i + 1 ) e i + 1 ​ 임을 알 수 있다.
+
+지금까지 얻은 결과를 정리해 보자.
+
+H e i = ( λ − 2 i ) e i \displaystyle He_i = (\lambda - 2i) e_i H e i ​ = ( λ − 2 i ) e i ​ ,
+E e 0 = 0 \displaystyle Ee_0 = 0 E e 0 ​ = 0 ,
+E e i = ( λ − i + 1 ) e i − 1 \displaystyle Ee_i = (\lambda - i + 1) e_{i - 1} E e i ​ = ( λ − i + 1 ) e i − 1 ​ ( i > 0 i > 0 i > 0 ),
+F e i = ( i + 1 ) e i + 1 \displaystyle Fe_i = (i + 1) e_{i + 1} F e i ​ = ( i + 1 ) e i + 1 ​ ( i < n i < n i < n ),
+F e n = 0 \displaystyle Fe_n = 0 F e n ​ = 0 .
+
+이로부터 모든 i i i 에 대하여 H e i He_i H e i ​ , E e i Ee_i E e i ​ , F e i Fe_i F e i ​ 모두가 e j e_j e j ​ 들의 선형결합으로 써진다는 것을 알 수 있다. 이는 e 0 e_0 e 0 ​ , e 1 e_1 e 1 ​ , e 2 e_2 e 2 ​ , ⋯ \cdots ⋯ , e n e_n e n ​ 으로 span된 V V V 의 부분공간이 H H H , E E E , F F F -invariant하다는 것을 시사한다. 이로부터 모든 A ∈ s A \in \mathfrak{s} A ∈ s 에 대하여 저 부분공간이 A A A -invariant하다는 것을 알 수 있다. 즉, 그 부분공간이 사실 영공간이 아닌 V V V 의 부분가군(submodule)이라는 것이다. 이제 V V V 가 기약이라는 가정 때문에 사실 그 부분공간이 V V V 와 같아야 한다는 것을 알 수 있다. 즉, V V V 의 특정한 기저를 얻어 이로부터 H H H , E E E , F F F 의 특별한 행렬 표현을 얻어낸 것이다. 특히 n + 1 n + 1 n + 1 이 dim ⁡ V \dim{V} dim V 와 같아야 함을 알 수 있다.
+
+여기서 다음으로 드는 고민은 λ \lambda λ 가 무엇인가 하는 것이다. 보다 구체적으로 가능한 λ \lambda λ 의 값이 무엇인지 알아 보겠다는 것이다. 이를 위해 H E − E H = 2 E HE - EH = 2E H E − E H = 2 E , H F − F H = − 2 F HF - FH = -2F H F − F H = − 2 F , E F − F E = H EF - FE = H E F − F E = H 임을 확인해 볼 필요가 있다. 이를 위해 모든 i i i 에 대하여 ( H E − E H ) e i = 2 E e i (HE - EH) e_i = 2E e_i ( H E − E H ) e i ​ = 2 E e i ​ , ( H F − F H ) e i = − 2 F e i (HF - FH) e_i = -2F e_i ( H F − F H ) e i ​ = − 2 F e i ​ , ( E F − F E ) e i = H e i (EF - FE) e_i = He_i ( E F − F E ) e i ​ = H e i ​ 인가를 확인해 보자는 것이다. 여기서 처음 두 개는 정말 쉽게 확인이 가능하다. 게다가 지금까지 사실 상 저 둘을 줄기차게 사용해 온 것이니, 저 둘만큼은 항상 성립하는 것이 당연하겠다. 그리고 i < n i < n i < n 인 경우에도 세번째 식이 잘 성립한다는 것을 간단하게 보일 수 있다. 문제는 ( E F − F E ) e n = H e n (EF - FE) e_n = He_n ( E F − F E ) e n ​ = H e n ​ 인데, 한 번 계산해 보자.
+
+H e n = ( λ − 2 n ) e n \displaystyle He_n = (\lambda - 2n) e_n H e n ​ = ( λ − 2 n ) e n ​ ,
+( E F − F E ) e n = E ( F e n ) − F ( E e n ) = − F ( E e n ) \displaystyle (EF - FE)e_n = E(Fe_n) - F(Ee_n) = -F(Ee_n) ( E F − F E ) e n ​ = E ( F e n ​ ) − F ( E e n ​ ) = − F ( E e n ​ )
+= − F ( ( λ − n + 1 ) e n − 1 ) \displaystyle = -F\left( \left( \lambda - n + 1 \right) e_{n - 1} \right) = − F ( ( λ − n + 1 ) e n − 1 ​ )
+= ( n − 1 − λ ) F e n − 1 \displaystyle = \left( n - 1 - \lambda \right) Fe_{n - 1} = ( n − 1 − λ ) F e n − 1 ​
+= n ( n − 1 − λ ) e n \displaystyle = n \left( n - 1 - \lambda \right) e_n = n ( n − 1 − λ ) e n ​ .
+
+이로부터 E F − E F = H EF - EF = H E F − E F = H 가 성립하기 위해서는 n ( n − 1 − λ ) = λ − 2 n n \left( n - 1 - \lambda \right) = \lambda - 2n n ( n − 1 − λ ) = λ − 2 n 이 성립해야 함을 알 수 있다. 이걸 정리하면 이게 다음이 성립해야 함과 같다는 것을 알 수 있다.
+
+λ = n \displaystyle \lambda = n λ = n .
+
+즉, λ \lambda λ 가 다른 값도 아닌 n n n 과 같아야 리 대수의 표현이 성립한다는 것이다. 다르게 말하자면 애초부터 λ = n \lambda = n λ = n 이어야 했던 것이다. 여기서 그러면 H H H 의 고윳값이 사실 모두 정수여야 함을 확인하자. 말했다시피 사실 이로부터 맨 처음에 설정한 체의 최소 확장이 다름 아닌 그냥 원래 체 자신으로 냅두는 것이어야 함을 알 수 있다. 이는 곧 이 결과가 (표수가 0이기만 하면) 체의 선택에 상관 없이 성립한다는 것을 말해준다.
+
+한편 임의의 음이 아닌 정수 n n n 과 ( n + 1 ) (n + 1) ( n + 1 ) -차원 벡터 공간 V V V 에 대하여 아무 기저 e 0 e_0 e 0 ​ , e 1 e_1 e 1 ​ , e 2 e_2 e 2 ​ , ⋯ \cdots ⋯ , e n e_n e n ​ 을 잡았을 때, λ = n \lambda = n λ = n 을 대입하고 난 위 다섯 개의 식을 만족하는 H , E , F ∈ L ( V ) H, E, F \in L(V) H , E , F ∈ L ( V ) 를 항상 찾을 수 있음이 당연하다. 이것까지 종합하면 결국 다음을 알 수 있게 된다.
+임의의 음이 아닌 정수 n n n 에 대하여 3차원 split 단순 리 대수의 ( n + 1 ) (n + 1) ( n + 1 ) -차원 기약 표현은 항상 존재하며 또한 각 n n n 별로 단 하나만 존재한다 (up to isomorphism). 특히 적당한 기저 e 0 e_0 e 0 ​ , e 1 e_1 e 1 ​ , e 2 e_2 e 2 ​ , ⋯ \cdots ⋯ , e n e_n e n ​ 가 존재해 다음이 만족된다.
+H e i = ( n − 2 i ) e i \displaystyle He_i = (n - 2i) e_i H e i ​ = ( n − 2 i ) e i ​ ,
+E e 0 = 0 \displaystyle Ee_0 = 0 E e 0 ​ = 0 ,
+E e i = ( n − i + 1 ) e i − 1 \displaystyle Ee_i = (n - i + 1) e_{i - 1} E e i ​ = ( n − i + 1 ) e i − 1 ​ ( i > 0 i > 0 i > 0 ),
+F e i = ( i + 1 ) e i + 1 \displaystyle Fe_i = (i + 1) e_{i + 1} F e i ​ = ( i + 1 ) e i + 1 ​ ( i < n i < n i < n ),
+F e n = 0 \displaystyle Fe_n = 0 F e n ​ = 0 .
+
+여기에 바일의 완전분해가능 정리까지 더하면 s \mathfrak{s} s 의 모든 유한 차원 표현이 어떻게 생겼는지 알 수 있게 된다. 물론 기약 표현이 아니면 어떤 기약 표현들로 구성되어 있는지 따로 조사해야 할 필요가 있다. 그래도 여기에서 소개하지 않겠지만 몇 가지 기계적인 방법과 힌트들이 있다. [82] 특히 이런 작업을 통해 일반적인 유한 차원 반단순 split 리 대수들의 구조를 파헤칠 수 있다.
+
+참고로 H H H 의 고윳값들을 특별히 weight이라고 부른다. 그리고 고유벡터들을 weight 벡터라고 부른다. 특히 공통된 weight을 가진 weight 벡터들을 모으면 부분공간이 되는데, 이를 weight space라고 부른다. 물론 유한 차원 기약 표현에서는 위에서 보였다시피 모든 weight space가 1차원이지만, 일반적인 유한 차원 표현에서는 그렇지 않을 수 있다. 나중에 이 개념들을 일반적인 유한 차원 (반)단순 리 대수의 유한 차원 표현에서 확장할 수 있다.
+
+6.3. Root 공간 분해 [편집]
+이제 본격적으로 일반적인 유한 차원 split 반단순 리 대수의 구조에 대해 알아보자. 이를 위해 먼저 해야 하는 것이 바로 root 공간 분해(root space decomposition) 이다.
+
+Root 공간 분해는 조르당 분해 문서에서 소개되는 제1분해정리를 확장한 것으로 볼 수 있다. 어떤 유한 차원 벡터 공간 g \mathfrak{g} g 에 대하여 (잠깐 리 대수 구조를 무시하자) L ( g ) L(\mathfrak{g}) L ( g ) 의 어떤 부분공간 D \mathcal{D} D 가 서로 교환(commutative)이며 대각화 가능한 원소들로 구성되어 있다고 하자. 그러면 서로 교환이고 둘 다 대각화 가능인 임의의 두 선형 연산자에 대하여 이 둘을 동시에 대각화하는 (simultaneous diagonalization) 기저가 존재한다. 이걸 확장하면 모든 D \mathcal{D} D 의 원소들을 대각화하는 기저를 찾을 수 있다. [83] 이걸 D \mathcal{D} D 의 듀얼 공간 D ∗ \mathcal{D}^* D ∗ 를 이용하여 더 예쁘게 정리할 수 있다. α ∈ D ∗ \alpha \in \mathcal{D}^* α ∈ D ∗ 에 대하여 다음을 생각해 보자.
+
+g α = { X ∈ g ∣ H X = α ( H ) X for all H ∈ D } \displaystyle \mathfrak{g}_\alpha = \{ X \in \mathfrak{g} \;|\; HX = \alpha(H)X \textrm{ for all } H \in \mathcal{D} \} g α ​ = { X ∈ g ∣ H X = α ( H ) X for all H ∈ D } .
+
+그러면 위에서 얻은 모든 D \mathcal{D} D 의 원소들을 대각화하는 기저를 통해 다음이 성립함을 알 수 있다.
+
+g = ⨁ α ∈ D ∗ g α \displaystyle \mathfrak{g} = \bigoplus_{\alpha \in \mathcal{D}^*} \mathfrak{g}_\alpha g = α ∈ D ∗ ⨁ ​ g α ​ .
+
+이제 g \mathfrak{g} g 가 유한 차원 split 반단순 리 대수라고 생각하고 이것의 카르탕 부분대수 (Cartan subalgebra) 혹은 최대 toral 부분대수 h \mathfrak{h} h 를 하나 고르자. 그러면 h \mathfrak{h} h 는 Abelian하고 모든 H ∈ h H \in \mathfrak{h} H ∈ h 에 대하여 ad H \textrm{ad} H ad H 는 semisimple하다. ( h \mathfrak{h} h 가 toral이면 위에서 설명한 바에 따라 잘 성립하는 거고, 카르탕 부분대수이면 따로 이걸 증명해야 한다. [84] )
+
+단, 여기서 한 가지 중요한 가정을 해야 한다. 바로 split하다는 가정인데, 카르탕 부분대수를 설명하면서 소개한 성질이다. h \mathfrak{h} h 가 최대 toral 부분대수이면 비슷하게 모든 원소의 adjoint가 대각화가능하다는 것으로 받아들이자. 물론 이는 항상 성립하는 것이 아니며 체의 선택에 크게 달려 있는 것이다. 예를 들어 대수적으로 닫힌 체 위에서 논다면 split함이 항상 성립한다.
+
+그러면 ad h \textrm{ad } \mathfrak{h} ad h 가 L ( g ) L(\mathfrak{g}) L ( g ) 의 부분공간이며 모든 원소들이 교환이므로 위에서 소개한 root 공간 분해를 수행할 수 있다. 다만 g \mathfrak{g} g 의 adjoint representation이 faithful하므로 ( ad h ) ∗ (\textrm{ad } \mathfrak{h})^* ( ad h ) ∗ 대신에 h ∗ \mathfrak{h}^* h ∗ 를 써도 큰 무리는 없을 것이다. 무슨 말이냐면, 다음과 같은 약간 변형된 root 공간 분해를 할 수 있다는 것이다.
+
+g = ⨁ α ∈ h ∗ g α \displaystyle \mathfrak{g} = \bigoplus_{\alpha \in \mathfrak{h}^*} \mathfrak{g}_\alpha g = α ∈ h ∗ ⨁ ​ g α ​ ,
+g α = { X ∈ g ∣ ( ad H ) X = α ( H ) X for all H ∈ h } \displaystyle \mathfrak{g}_\alpha = \{ X \in \mathfrak{g} \;|\; (\textrm{ad }H)X = \alpha(H)X \textrm{ for all } H \in \mathfrak{h} \} g α ​ = { X ∈ g ∣ ( ad H ) X = α ( H ) X for all H ∈ h } .
+
+여기서부터 유한 차원 반단순 split 리 대수의 구조에 대한 탐색이 시작된다. 제일 먼저, g α ≠ 0 \mathfrak{g}_\alpha \ne 0 g α ​  = 0 이면서 α ≠ 0 \alpha \ne 0 α  = 0 인 α \alpha α 들을 모은 집합을 Φ \Phi Φ 라고 표기하자. g \mathfrak{g} g 가 유한 차원이므로 당연히 Φ \Phi Φ 는 유한해야 한다. 한편, 몇 가지 관찰을 통해 g 0 \mathfrak{g}_0 g 0 ​ 가 사실 h \mathfrak{h} h 와 같아야 함을 알 수 있다. [85] 그러면 다음과 같이 root 공간 분해를 쓸 수 있을 것이다.
+
+g = h ⊕ ⨁ α ∈ Φ g α \displaystyle \mathfrak{g} = \mathfrak{h} \oplus \bigoplus_{\alpha \in \Phi} \mathfrak{g}_\alpha g = h ⊕ α ∈ Φ ⨁ ​ g α ​ .
+
+여기서 하나 더 정의하자. κ \kappa κ 를 g \mathfrak{g} g 의 킬링 형식이라고 하자. 그러면 h \mathfrak{h} h 의 이차 형식 κ ∣ h × h \kappa|_{\mathfrak{h} \times \mathfrak{h}} κ ∣ h × h ​ 가 non-denegerate함을 확인할 수 있다. (보통 g 0 = h \mathfrak{g}_0 = \mathfrak{h} g 0 ​ = h 임을 밝히는 과정에서 같이 밝혀진다.) 그러면 임의의 λ ∈ h ∗ \lambda \in \mathfrak{h}^* λ ∈ h ∗ 에 대하여 T λ ∈ h T_\lambda \in \mathfrak{h} T λ ​ ∈ h 가 딱 하나 존재하여 모든 H ∈ h H \in \mathfrak{h} H ∈ h 에 대해 λ ( H ) = κ ( T λ , H ) \lambda(H) = \kappa(T_\lambda, H) λ ( H ) = κ ( T λ ​ , H ) 이다. 이로부터 λ , μ ∈ h ∗ \lambda, \mu \in \mathfrak{h}^* λ , μ ∈ h ∗ 에 대하여 ( λ , μ ) : = κ ( T λ , T μ ) (\lambda, \mu) := \kappa(T_\lambda, T_\mu) ( λ , μ ) := κ ( T λ ​ , T μ ​ ) 라고 가정하면 이는 h ∗ \mathfrak{h}^* h ∗ 의 이차 형식이며 물론 non-degenerate하다. 이 이차 형식이 리 대수 이론에서 몹시 자주 쓰인다.
+
+이제 더 나아가 다음 여러 성질들을 알 수 있다.
+α + β ≠ 0 \alpha + \beta \ne 0 α + β  = 0 인 모든 모든 α , β ∈ Φ \alpha, \beta \in \Phi α , β ∈ Φ 와 X ∈ g α X \in \mathfrak{g}_\alpha X ∈ g α ​ , Y ∈ g β Y \in \mathfrak{g}_\beta Y ∈ g β ​ 에 대하여 κ ( X , Y ) = 0 \kappa(X, Y) = 0 κ ( X , Y ) = 0 이다.
+
+모든 α ∈ Φ \alpha \in \Phi α ∈ Φ 에 대하여 ( α , α ) ≠ 0 (\alpha, \alpha) \ne 0 ( α , α )  = 0 이다.
+
+모든 α ∈ Φ \alpha \in \Phi α ∈ Φ 에 대하여 dim ⁡ g α = 1 \dim{\mathfrak{g}_\alpha} = 1 dim g α ​ = 1 이다.
+
+모든 α , β ∈ Φ \alpha, \beta \in \Phi α , β ∈ Φ 에 대하여 [ g α , g β ] = g α + β [\mathfrak{g}_\alpha, \mathfrak{g}_\beta] = \mathfrak{g}_{\alpha + \beta} [ g α ​ , g β ​ ] = g α + β ​ 이다. [86]
+
+각 α , β ∈ Φ \alpha, \beta \in \Phi α , β ∈ Φ 에 대하여 음이 아닌 두 정수 q , r q, r q , r 이 존재하여, β + i α \beta + i \alpha β + i α 가 Φ \Phi Φ 에 포함되면, 그리고 그럴 때에만 i i i 는 − r ≤ i ≤ q -r \le i \le q − r ≤ i ≤ q 인 정수이며, 특히 r − q = 2 ( β , α ) ( α , α ) \displaystyle r - q = \frac{2(\beta, \alpha)}{(\alpha, \alpha)} r − q = ( α , α ) 2 ( β , α ) ​ 이다. 특별히 여기서 소개된 β + i α \beta + i \alpha β + i α 들의 모임을 α \alpha α -string through β \beta β 라고 부른다.
+
+( RS1 ) Φ \Phi Φ 는 공집합이 아니며 0을 포함하지 않고 유한하며 span하여 전체 벡터공간 [87] 을 생성한다.
+( RS2 ) 임의의 α ∈ Φ \alpha \in \Phi α ∈ Φ 에 대하여 − α ∈ Φ -\alpha \in \Phi − α ∈ Φ 이며, 그 외 α \alpha α 의 다른 모든 스칼라배는 Φ \Phi Φ 에 포함되어 있지 않다.
+( RS3 ) 임의의 α , β ∈ Φ \alpha, \beta \in \Phi α , β ∈ Φ 에 대하여 β − 2 ( β , α ) ( α , α ) α ∈ Φ \displaystyle \beta - \frac{2(\beta, \alpha)}{(\alpha, \alpha)} \alpha \in \Phi β − ( α , α ) 2 ( β , α ) ​ α ∈ Φ 이다.
+( RS4 ) 임의의 α , β ∈ Φ \alpha, \beta \in \Phi α , β ∈ Φ 에 대하여 2 ( β , α ) ( α , α ) \displaystyle \frac{2(\beta, \alpha)}{(\alpha, \alpha)} ( α , α ) 2 ( β , α ) ​ 는 정수이다.
+
+임의의 λ , μ ∈ h ∗ \lambda, \mu \in \mathfrak{h}^* λ , μ ∈ h ∗ 에 대하여 ( λ , μ ) = ∑ α ∈ Φ ( λ , α ) ( μ , α ) \displaystyle (\lambda, \mu) = \sum_{\alpha \in \Phi} (\lambda, \alpha) (\mu, \alpha) ( λ , μ ) = α ∈ Φ ∑ ​ ( λ , α ) ( μ , α ) 이다.
+
+g \mathfrak{g} g 는 ⋃ α ∈ Φ g α \bigcup_{\alpha \in \Phi} \mathfrak{g}_\alpha ⋃ α ∈ Φ ​ g α ​ 에 의하여 생성된다.
+
+Φ \Phi Φ 가 포함하는 h ∗ \mathfrak{h}^* h ∗ 의 기저로 Φ \Phi Φ 의 원소들을 표현하면 그 계수(coefficient)들은 모두 유리수이다.
+
+Φ \Phi Φ 로 (혹은 Φ \Phi Φ 에 포함된 기저로) Q \mathbb{Q} Q -span하여 얻은 h ∗ \mathfrak{h}^* h ∗ 의 Q \mathbb{Q} Q -부분공간을 [88] h Q ∗ \mathfrak{h}^*_\mathbb{Q} h Q ∗ ​ 라고 표기하자. 그러면 이 위에서 앞서 소개한 h ∗ \mathfrak{h}^* h ∗ 의 이차 형식은 positive-definite하다. [89] [90]
+
+뭔가 많긴 한데, (RS1~4)들을 제외하면 어째 g \mathfrak{g} g 의 구조가 생각보다 훨씬 단순하다는 것을 보여준다. 특히 여기서 중요한 건 각 α ∈ Φ \alpha \in \Phi α ∈ Φ 에 대하여 어떤 적당한 E α ∈ g α E_\alpha \in \mathfrak{g}_{\alpha} E α ​ ∈ g α ​ 와 F α ∈ g − α F_\alpha \in \mathfrak{g}_{-\alpha} F α ​ ∈ g − α ​ 가 존재해, H α = [ E α , F α ] ( ∈ g 0 ) H_\alpha = [E_\alpha, F_\alpha] \; (\in \mathfrak{g}_0) H α ​ = [ E α ​ , F α ​ ] ( ∈ g 0 ​ ) 라고 두면 [91] 사실 다음이 성립한다.
+
+[ H α , E α ] = 2 E α \displaystyle [H_\alpha, E_\alpha] = 2E_\alpha [ H α ​ , E α ​ ] = 2 E α ​ , [ H α , F α ] = − 2 F α \displaystyle [H_\alpha, F_\alpha] = -2F_\alpha [ H α ​ , F α ​ ] = − 2 F α ​ , [ E α , F α ] = H α \displaystyle [E_\alpha, F_\alpha] = H_\alpha [ E α ​ , F α ​ ] = H α ​ .
+
+즉, 각 α ∈ Φ \alpha \in \Phi α ∈ Φ 에 대응하는 3차원 split 단순 리 부분대수가 존재한다. 이걸 s α \mathfrak{s}_\alpha s α ​ 라고 표기하자. 사실 위의 성질들을 증명하는 과정 중에서 자연스럽게 튀어나오며, 특히 (RS2)의 뒤 절반, dim ⁡ g α = 1 \dim{\mathfrak{g}_\alpha} = 1 dim g α ​ = 1 , (RS3), (RS4), 그리고 [ g α , g β ] = g α + β [\mathfrak{g}_\alpha, \mathfrak{g}_\beta] = \mathfrak{g}_{\alpha + \beta} [ g α ​ , g β ​ ] = g α + β ​ 는 g \mathfrak{g} g 를 ad s α \textrm{ad }\mathfrak{s}_\alpha ad s α ​ -가군(module)로 보고 바일의 완전분해정리를 통해 g \mathfrak{g} g 의 기약 부분가군이 무엇인가 하는 질문을 샅샅이 파헤치면서 증명이 된다.
+
+한편 g \mathfrak{g} g 의 구조 거의 대부분이 이제 Φ \Phi Φ 의 생김새에 따라 결정된다는 것이 분명해 보인다. 지금 단계에선 아직 완전히 결정된다고 말하기 곤란하지만, 사실 같은 생김새의 Φ \Phi Φ 를 가진 두 유한 차원 split (반)단순 리 대수는 동형이라는 것 을 보일 수 있다. [92] 따라서 유한 차원 split (반)단순 리 대수를 분류하는 작업은 이제 Φ \Phi Φ 가 가질 수 있는 생김새 를 분류하는 것으로 귀결된다. 생김새라는 말이 상당히 모호한데, 위에서 나열한 성질들 중 마지막 성질은 이 모호함을 해소하기 위한 아주 좋은 놀이터로 우리를 이끌어준다. 저 성질을 보면 바로 유클리드 공간(Euclidean space)이 연상될 것이다. 사실 우리가 처음부터 뛰놀던 체가 어떤 것이든 상관 없이 결국 얻어진 것은 h Q ∗ \mathfrak{h}^*_\mathbb{Q} h Q ∗ ​ 위에서의 성질이었고, 이걸 같은 차원의 유클리드 공간으로 옮겨 가 작업을 해도 별 문제는 없을 것이다. 뭘 하려는 거냐면, 이제부터 Φ \Phi Φ 의 추상화를 하려는 것이다. 위에서 말한 Φ \Phi Φ 자체 만의 중요한 성질들이 있는데, 바로 (RS1)~(RS4)이다. [93] 만약 유클리드 공간의 부분집합( Φ \Phi Φ )들 중에서 (RS1)~(RS4)를 만족하는 것들이 어떤 게 있는지를 죄다 알 수 있다면, 어떤 유한 차원 split (반)단순 리 대수를 고르든 이에 해당하는 Φ \Phi Φ 는 그 리스트들 중 하나와 같은 생김새를 가질 것이기 때문이다. 이제 여기서 (RS1)~(RS4)를 만족하는 만족하는 어떤 유클리드 공간의 한 부분집합 Φ \Phi Φ 를 root system 이라고 부른다. 한편, 계속 '같은 생김새'라는 표현을 쓰는데, 이는 root system에 유클리드 공간에서의 회전 혹은 (0을 곱하는 것을 제외한) 스케일링을 줘도 (RS1)~(RS4)가 그대로 성립한다는 것 때문에 쓰는 표현이다. 그런데 회전 혹은 스케일링 정도면 워낙 자연스러워서, 만약 두 root system이 어떤 적당한 회전 및 스케일링을 통해 완전히 서로 겹칠 수 있다면 [94] , 두 root system을 다르게 취급할 이유는 없을 것이다.
+
+결국 여기서부터 유한 차원 split (반)단순 리 대수를 모두 분류하자는 목표는 root system들의 분류 로 전환되었음을 알 수 있다.
+
+주의해야 할 점은 만약 root system들을 모두 분류했고 그 클래스에 해당하는 root system이 정말 존재한다는 것을 밝혔다고 해도 이 root sytem들 하나하나에 해당하는 유한 차원 split (반)단순 리 대수가 정말로 존재하느냐 하는 질문은 별개의 것이다. 대충 생각하자면 후보군을 찾은 것에 지나지 않는다는 것이다. 그것만 해도 굉장하고 유용한 성과지만 각 후보군에 해당하는 리 대수가 정말 존재하는지 를 밝히는 것도 무척 중요한 작업일 것이다. 다행히 앞으로 소개할 root system 각각에 해당하는 유한 차원 split 단순 리 대수가 모두 존재한다는 것을 증명할 수 있다. [95]
+
+6.4. Root system의 구조 [편집]
+위에서 소개한 root system을 모두 분류하려면 먼저 root system이 가지는 성질들을 탐구해야 한다. Root system 공리들 (RS1)~(RS4)가 독특하고 강력한 제한을 주기 때문에 root system이 여러 재밌는 성질들을 가진다는 것을 알 수 있다.
+
+먼저 표기 하나를 소개하겠다. 그러고 보면 2 ( β , α ) ( α , α ) \frac{2(\beta, \alpha)}{(\alpha, \alpha)} ( α , α ) 2 ( β , α ) ​ 이 녀석이 위에서 몹시 자주 나왔던 것을 볼 수 있다. 물론 이건 root system을 탐구하면서 몹시 자주 나오는 녀석이다. 이걸 간단하게 표기하는 것이 이래저래 편리할 것이므로, 앞으로 ⟨ β , α ⟩ : = 2 ( β , α ) ( α , α ) \langle \beta, \alpha \rangle := \frac{2(\beta, \alpha)}{(\alpha, \alpha)} ⟨ β , α ⟩ := ( α , α ) 2 ( β , α ) ​ 라고 쓰도록 하겠다. 한편, 유클리드 공간 하나를 잡아 이를 고정하고 E E E 라고 표기하도록 하겠다. 또한 l : = dim ⁡ E l := \dim{E} l := dim E 이라고 표기하도록 하겠다. 그리고 앞으로 별 언급이 없으면 Φ \Phi Φ 는 어떤 root system이라고 하겠다.
+
+6.4.1. Base [편집]
+Base라고 불리는 root system의 독특한 구조를 보여주는 부분집합이 있다. 부분집합 Δ ⊆ Φ \Delta \subseteq \Phi Δ ⊆ Φ 에 대한 다음 공리들을 보자.
+( B1 ) Δ \Delta Δ 는 E E E 의 한 기저이다.
+( B2 ) 모든 Φ \Phi Φ 의 원소에 대하여 이를 Δ \Delta Δ 의 일차결합으로 썼을 때 모든 계수가 음이 아닌 정수들(non-negative intergers)이거나 양이 아닌 정수들(non-positive intergers)이다.
+
+이제 Δ ⊆ Φ \Delta \subseteq \Phi Δ ⊆ Φ 이 B1과 B2를 만족하면, 그리고 그럴 때에만 Δ \Delta Δ 를 가리켜 base 라고 부른다.
+
+어차피 RS1에 의하여 B1을 만족하는 부분집합이야 당연히 존재하겠지만, B2를 만족하는 게 항상 존재할 것 같아 보이지는 않아 보인다. 하지만 흥미롭게도 모든 root system은 적어도 하나의 base를 가진다. [96] 게다가 하나만 가지지 않는다. 더군다나 Φ \Phi Φ 의 임의의 원소에 대하여 이를 포함하는 base를 항상 찾을 수 있다. [97] 사실 이들 base들 간의 관계는 root system을 다루는 데에 있어서 매우 중요한 문제이며 곧 소개할 바일 군과 밀접한 관계를 가진다. 더군다나 base에 의하여 root system의 구조가 완전히 결정된다는 것을 보일 수 있다. 이에 대해선 곧 자세히 설명하도록 하겠다.
+
+앞으로 base의 원소들을 α 1 \alpha_1 α 1 ​ , α 2 \alpha_2 α 2 ​ , ⋯ \cdots ⋯ , α l \alpha_l α l ​ 이라고 표기하겠다. 더 나아가 별다른 이야기 없이 이 표기를 쓴다는 것은 이미 base 하나를 선택했으며 이것들이 그 base의 원소들이라는 것을 암묵적으로 선언하는 것이다. 이때 이 α i \alpha_i α i ​ 들을 가리켜 단순 root (simple root)이라고 종종 부른다. 한편, Φ \Phi Φ 의 모든 원소들은 ∑ i a i α i \sum_i a_i \alpha_i ∑ i ​ a i ​ α i ​ 로 쓸 수 있을 것이고 B2에 의하여 모든 a i a_i a i ​ 들이 음이 아닌 정수이거나, 모든 a i a_i a i ​ 들이 양이 아닌 정수일 것이다. 전자의 경우, 해당 root을 positive root이라고 부르고, 후자의 경우 negative root이라고 부를 것이다. 만약 별다른 이야기 없이 simple root, positive root, negative root 이 단어들이 튀어 나오면 어떤 임의의 base가 암묵적으로 이미 정의된 상태라고 할 것이다.
+
+6.4.2. 바일 군 [편집]
+λ ∈ E \lambda \in E λ ∈ E 에 대하여 E ∋ μ ↦ σ λ μ : = μ − 2 ( μ , λ ) ( λ , λ ) E \ni \mu \mapsto \sigma_\lambda \mu := \mu - \frac{2(\mu, \lambda)}{(\lambda, \lambda)} E ∋ μ ↦ σ λ ​ μ := μ − ( λ , λ ) 2 ( μ , λ ) ​ 로 보내는 사상 σ λ : E → E \sigma_\lambda: E \to E σ λ ​ : E → E 를 정의하자. 이는 잘 알려진 반사 (reflection) 사상이다. 이제 특별히 α ∈ E \alpha \in E α ∈ E 에 대한 반사 σ α \sigma_\alpha σ α ​ 를 가리켜 바일 반사(Weyl reflection)라고 부르자. 그리고 모든 α ∈ E \alpha \in E α ∈ E 에 대하여 σ α \sigma_\alpha σ α ​ 를 모두 모은 뒤 이들로 생성된 G L ( E ) GL(E) G L ( E ) 의 부분군을 W \mathcal{W} W 라고 표기하자. 이 부분군을 가리켜 바일 군(Weyl group) 이라고 부르자.
+
+여기서 편의를 위해 σ α i \sigma_{\alpha_i} σ α i ​ ​ 를 σ i \sigma_i σ i ​ 라고 표기하겠다. 이제 다음 성질들이 성립한다.
+바일 군은 항상 유한하다. [98]
+
+임의의 σ ∈ W \sigma \in \mathcal{W} σ ∈ W 에 대하여 Φ \Phi Φ 는 σ \sigma σ -invariant하다. [99]
+
+임의의 base Δ \Delta Δ 와 σ ∈ W \sigma \in \mathcal{W} σ ∈ W 에 대하여 σ ( Δ ) \sigma(\Delta) σ ( Δ ) 역시 base이다.
+
+(Transitivity of the action of Weyl group on the family of bases) 임의의 두 base Δ \Delta Δ 과 Δ ′ \Delta' Δ ′ 에 대하여 Δ = σ ( Δ ′ ) \Delta = \sigma (\Delta') Δ = σ ( Δ ′ ) 를 만족하는 σ ∈ W \sigma \in \mathcal{W} σ ∈ W 가 존재한다.
+
+(Simplicity of the action of Weyl group on the family of bases) 임의의 base Δ \Delta Δ 에 대하여 Δ = σ ( Δ ) \Delta = \sigma (\Delta) Δ = σ ( Δ ) 를 만족하는 σ ∈ W \sigma \in \mathcal{W} σ ∈ W 는 σ = 1 \sigma = 1 σ = 1 하나 뿐이다.
+
+W \mathcal{W} W 는 σ 1 \sigma_1 σ 1 ​ , σ 2 \sigma_2 σ 2 ​ , ⋯ \cdots ⋯ , σ l \sigma_l σ l ​ 로 생성된다. [100]
+
+그 외에도 이런저런 흥미로운 성질들이 있지만 여기에서 더 다루지는 않겠다.
+
+한편 바일 군이 유클리드 공간에서의 반사 혹은 회전 중 일부이며 따라서 바일 군의 모든 원소를 Φ \Phi Φ 의 '자기동형사상(automorphism)' 정도로 생각해도 좋을 것이다. 비록 바일 군이 Φ \Phi Φ 의 모든 '자기동형사상(automorphism)'들이 아니지만 [101] 모든 base들을 연결시켜 주기에는 충분하고, 이는 주어진 root system이 가지는 base의 '구조'가 유일하며, base의 구조가 root system의 구조를 완전히 결정짓는다는 사실에 대한 좋은 근거가 되어 준다.
+
+6.4.3. 기약 root system [편집]
+다음과 같은 정의를 보자. 어떤 root system Φ \Phi Φ 에 대하여 공집합도 아니고 전체 Φ \Phi Φ 와도 다른 (즉 non-empty, proper한) 부분집합 Φ 1 \Phi_1 Φ 1 ​ 이 있어, Φ 2 : = Φ ∖ Φ 1 \Phi_2 := \Phi \smallsetminus \Phi_1 Φ 2 ​ := Φ ∖ Φ 1 ​ 라고 뒀을 때 임의의 α ∈ Φ 1 \alpha \in \Phi_1 α ∈ Φ 1 ​ 과 β ∈ Φ 2 \beta \in \Phi_2 β ∈ Φ 2 ​ 에 대하여 ( α , β ) = 0 (\alpha, \beta) = 0 ( α , β ) = 0 이면, 그리고 그럴 때에만 Φ \Phi Φ 가 가약(reducible) 이라고 말한다. 반대로, root system Φ \Phi Φ 가 가약이지 않다면, 그리고 그럴 때에만 Φ \Phi Φ 가 기약(irreducible) 이라고 말한다.
+
+여기서 가약인 root system에 속한 위의 두 부분집합 Φ 1 \Phi_1 Φ 1 ​ 과 Φ 2 \Phi_2 Φ 2 ​ 가 이들 각각으로 생성된 E E E 의 부분공간 안에 포함된 root system들이라는 것을 쉽게 보일 수 있다. 따라서 가약은 root system은 더 작은 root system들이 단순하게 합쳐진 것으로 간주될 수 있다. 여기서 더 나아가면 결국 모든 root system이 기약(irreducible) root system들의 단순 결합임을 알 수 있다.
+
+주어진 root system을 기약 root system들로 쪼개는 작업은 유한 차원 split 반단순 리 대수의 분류 및 구조 파악에 있어서 중요하다. 다음과 같은 성질이 만족되기 때문이다.
+임의의 유한 차원 split 반단순 리 대수의 root system이 구해졌을 때, 이 root system의 기약 root subsystem들 각각은 주어진 리 대수의 단순 아이디얼들 각각의 root system에 해당한다. [102]
+
+따라서 기약 root system들만 분류해도 유한 차원 split 반단순 리 대수의 분류 작업에 있어서 충분하다는 것을 알 수 있다.
+
+한편 주어진 root system의 base Δ \Delta Δ 가 비어 있지 않고 Δ \Delta Δ 전체와도 같지 않은 부분집합 Δ 1 \Delta_1 Δ 1 ​ 을 가져, 모든 α ∈ Δ 1 \alpha \in \Delta_1 α ∈ Δ 1 ​ 과 β ∈ Δ 2 : = Δ ∖ Δ 1 \beta \in \Delta_2 := \Delta \smallsetminus \Delta_1 β ∈ Δ 2 ​ := Δ ∖ Δ 1 ​ 에 대하여 ( α , β ) = 0 (\alpha, \beta) = 0 ( α , β ) = 0 이면, 그리고 그럴 때에만 Δ \Delta Δ 가 가약(reducible)이라고 말한다. 물론 가약이 아니면 그리고 그럴 때에만 Δ \Delta Δ 를 기약(irreducible)이라고 말한다. 그러면 다음과 같은 성질이 성립한다. 이 역시 base가 주어진 root system의 구조를 결정짓는다는 사실에 대한 좋은 근거가 된다.
+어떤 root system이 가약이면 이 root system의 모든 base 역시 가약이다. 거꾸로, 어떤 root system이 가약인 base를 가지면 그 root system 역시 가약이다. 특히 각 subsystem과 base의 교집합은 해당 subsystem의 한 base이다.
+
+6.4.4. 카르탕 행렬 [편집]
+위에서 소개한 base로 다시 돌아가 보자. Base 하나를 잡고 그 원소들을 α 1 \alpha_1 α 1 ​ , α 2 \alpha_2 α 2 ​ , ⋯ \cdots ⋯ , α l \alpha_l α l ​ 로 표기하겠다. 이때 ⟨ α i , α j ⟩ = 2 ( α i , α j ) ( α j , α j ) \langle \alpha_i, \alpha_j \rangle = \frac{2 (\alpha_i, \alpha_j)}{(\alpha_j, \alpha_j)} ⟨ α i ​ , α j ​ ⟩ = ( α j ​ , α j ​ ) 2 ( α i ​ , α j ​ ) ​ 로 이루어진 l × l l \times l l × l -행렬을 생각할 수 있다. 이 행렬을 가리켜 카르탕 행렬(Cartan matrix) 이라고 부른다. 특히 앞서 소개한 바일 군의 성질에 의하여 주어진 root system의 카르탕 행렬은 행과 열의 교환을 고려했을 때 유일하다는 것을 알 수 있다. 또한 두 root systems가 동일한 카르탕 행렬을 가지면 그리고 그럴 때에만 두 root systems가 '동형'이라는 것을 알 수 있다. 이는 root system이 주어져 있을 때 카르탕 행렬만을 이용하여 root system의 원소들을 재구성할 수 있다는 사실로부터 알 수 있다. 다르게 표현하자면, 어떤 ∑ i = 1 l a i α i \sum_{i = 1}^l a_i \alpha_i ∑ i = 1 l ​ a i ​ α i ​ 가 주어진 root system에 포함되어 있는지 여부를 ⟨ α i , α j ⟩ \langle \alpha_i, \alpha_j \rangle ⟨ α i ​ , α j ​ ⟩ 들만 가지고 판별할 수 있다는 것이다. [103]
+
+편의 상 위의 카르탕 행렬을 A = ( a i j ) A = (a_{ij}) A = ( a ij ​ ) 라고 표기하자. 그러면 카르탕 행렬 A A A 는 다음 성질들을 만족한다.
+(CM1) 모든 i i i 에 대하여 a i i = 2 a_{ii} = 2 a ii ​ = 2 이다. [104]
+(CM2) 모든 서로 다른 i , j i, j i , j 에 대하여 a i j a_{ij} a ij ​ 는 양이 아닌 정수이다. [105]
+(CM3) a i j = 0 a_{ij} = 0 a ij ​ = 0 이면, 그리고 그럴 때에만 a j i = 0 a_{ji} = 0 a j i ​ = 0 [106]
+(CM4) 모든 대각성분이 양수인 어떤 대각행렬 D D D 와 positive-definite한 대칭행렬 S S S 가 존재하여 A = D S A = DS A = D S 이다.
+
+이때 CM4는 D D D 의 각 대각성분을 순서대로 2 ( α i , α i ) \frac{2}{(\alpha_i, \alpha_i)} ( α i ​ , α i ​ ) 2 ​ 로 두고 S S S 의 각 성분을 ( α i , α j ) (\alpha_i, \alpha_j) ( α i ​ , α j ​ ) 로 두어 D D D 와 S S S 를 정의하는 식으로 설명할 수 있다. 유클리드 공간 E E E 에 주어진 이중선형 형식이 항상 positive-definite하다는 것으로부터 S S S 가 positive-definite하다는 것이 얻어진다.
+
+한편 위에서 말한 root system이 기약인 것과 base가 기약인 것 간의 관계로부터 다음을 바로 알 수 있다. 주어진 root system이 기약이면, 그리고 그럴 때에만 카르탕 행렬은 대각블럭행렬 꼴로 써지지 않는다.
+
+거꾸로, 이 성질들을 만족하는 행렬을 얼마든지 만들 수 있을 것 같아 보인다. 하지만 결코 그렇지 않다. 사실 무한히 많긴 하지만 이들은 극히 몇 가지의 경우로만 제한되며, 특히 E E E 의 차원을 고정한 경우 유한한 경우에만 한정된다. 기약 root system에 해당하는 카르탕 행렬만 생각한다면 차원 당 많아야 5가지 밖에 찾을 수 없다. 그리고 특정한 패턴으로 나눌 경우, 이들은 겨우 7가지로만 분류가 된다. 이 결과야말로 유한 차원 split 반단순 리 대수의 분류를 완성짓는 결과이다.
+
+6.5. Root system의 분류 [편집]
+지금까지 root system의 성질에 대하여 대략적으로 살펴 보았다. 특히 두 유한 차원 split 반단순 리 대수가 같은 root system을 가지면 두 리 대수가 동형이라는 사실과 각 root system에 대하여 유한 차원 split 반단순 리 대수가 존재한다는 사실을 짚어 보았다. 그리고 root system의 분류가 결국 카르탕 행렬들의 분류로 단순화된 것을 보았다. 이제 카르탕 행렬들을 모두 찾는 것으로 유한 차원 split 반단순 리 대수들의 분류를 완성지어 보자.
+
+여기서 주목할 것은 (CM2)와 (CM4)인데, 특히 S S S 와 같은 행렬이 어떤 꼴을 가질 수 있는가를 보는 것이 주요 관건이다. 왜냐하면 S S S 는 실제로 있어야 할 어떤 기저 벡터들 간의 스칼라 곱을 표현한 것이어야 하기 때문이다. 다만 S S S 보다는 이걸 더 간략화한 것을 먼저 다루는 편이 더 좋다. 여기서 e i = 1 ( α i , α i ) α i e_i = \frac{1}{(\alpha_i, \alpha_i)} \alpha_i e i ​ = ( α i ​ , α i ​ ) 1 ​ α i ​ 라고 두면 e i e_i e i ​ 들은 모두 단위 벡터(normalized vector)이다. 이제 다음을 생각해 보자.
+
+S ~ : = ( ( e i , e j ) ) ( i , j ) \displaystyle \tilde{S} := \left( (e_i, e_j) \right)_{(i, j)} S ~ := ( ( e i ​ , e j ​ ) ) ( i , j ) ​ .
+
+너무 많이 간략화한 것이 아닐까 하는 우려가 들겠지만 다음 식을 보면 어느 정도 진정이 될 것이다.
+
+4 ( e i , e j ) 2 = 4 × ( α i , α j ) ( α i , α i ) ( α j , α j ) ( α j , α i ) ( α j , α j ) ( α i , α i ) = 2 ( α i , α j ) ( α j , α j ) 2 ( α j , α i ) ( α i , α i ) = ⟨ α i , α j ⟩ ⟨ α j , α i ⟩ \displaystyle 4(e_i, e_j)^2 = 4 \times \frac{(\alpha_i, \alpha_j)}{\sqrt{(\alpha_i, \alpha_i) (\alpha_j, \alpha_j)}} \frac{(\alpha_j, \alpha_i)}{\sqrt{(\alpha_j, \alpha_j) (\alpha_i, \alpha_i)}} = \frac{2(\alpha_i, \alpha_j)}{(\alpha_j, \alpha_j)} \frac{2(\alpha_j, \alpha_i)}{(\alpha_i, \alpha_i)} = \langle \alpha_i, \alpha_j \rangle \langle \alpha_j, \alpha_i \rangle 4 ( e i ​ , e j ​ ) 2 = 4 × ( α i ​ , α i ​ ) ( α j ​ , α j ​ ) ​ ( α i ​ , α j ​ ) ​ ( α j ​ , α j ​ ) ( α i ​ , α i ​ ) ​ ( α j ​ , α i ​ ) ​ = ( α j ​ , α j ​ ) 2 ( α i ​ , α j ​ ) ​ ( α i ​ , α i ​ ) 2 ( α j ​ , α i ​ ) ​ = ⟨ α i ​ , α j ​ ⟩ ⟨ α j ​ , α i ​ ⟩ .
+
+특히 ⟨ α i , α j ⟩ \langle \alpha_i, \alpha_j \rangle ⟨ α i ​ , α j ​ ⟩ 가 양이 아닌 정수이어야 한다는 점, 특히 -3보단 크거나 같아야 한다는 점, 그리고 ⟨ α i , α j ⟩ \langle \alpha_i, \alpha_j \rangle ⟨ α i ​ , α j ​ ⟩ 와 ⟨ α j , α i ⟩ \langle \alpha_j, \alpha_i \rangle ⟨ α j ​ , α i ​ ⟩ 둘 다 0이 아니면 적어도 둘 중 하나가 -1이어야 한다는 것을 상기하면, (CM2)에 따라 서로 다른 모든 i , j i, j i , j 에 대하여 다음이 성립해야 한다. (물론 ( e i , e j ) = 1 (e_i, e_j) = 1 ( e i ​ , e j ​ ) = 1 이다.)
+( e i , e j ) ≤ 0 , 4 ( e i , e j ) 2 = 0 , 1 , 2 , 3 \displaystyle (e_i, e_j) \le 0, \;\; 4(e_i, e_j)^2 = 0, 1, 2, 3 ( e i ​ , e j ​ ) ≤ 0 , 4 ( e i ​ , e j ​ ) 2 = 0 , 1 , 2 , 3 . [107]
+
+결국 이러한 성질을 만족하는 단위 벡터들로 이루어진 기저들을 모두 찾아내면 카르탕 행렬들의 분류, 혹은 root system들의 분류 중 상당 부분을 해낼 수 있다. 어떤 root system이 주어져 있다면 임의의 base를 골라 단위벡터로 만든 것들이 찾아낸 그 기저들 중 하나이어야 할 것이기 때문이다. [108] 물론 normalization을 다시 거꾸로 되돌리는 것도 고민해야 할 일이겠지만, 이 또한 지금 목표로 하고 있는 기저들의 분류가 모두 끝나면 쉽게 얻을 수 있는 내용이다. [109]
+
+하나 더, 어차피 기약 root system들만 찾기만 하면 될 일이다. 그리고 기약 root system으로부터 얻어진 ( e j , e j ) (e_j, e_j) ( e j ​ , e j ​ ) 들은 다음을 만족한다는 것을 쉽게 알 수 있다.
+I ≠ ∅ I \ne \emptyset I  = ∅ , I c ≠ ∅ I^c \ne \emptyset I c  = ∅ 이며 모든 i ∈ I i \in I i ∈ I , j ∉ I j \notin I j ∈ / I 에 대하여 ( e i , e j ) = 0 (e_i, e_j) = 0 ( e i ​ , e j ​ ) = 0 인 index들의 부분집합 I I I 는 존재하지 않는다.
+
+이는 기약 성질로부터 바로 나온다.
+
+이러한 성질들을 만족하는 단위기저 ( e i ) (e_i) ( e i ​ ) 들을 분류하기 위한 유용한 도구 하나를 소개하도록 하겠다. 딘킨 도표(Dynkin diagram) 와 콕세터 도표(Coxeter diagram) 이 그것이다. 여기서는 먼저 콕세터 도표부터 구성해 보도록 하자. 어떤 단위기저 ( e i ) = ( e 1 , e 2 , ⋯ , e l ) (e_i) = (e_1, e_2, \cdots, e_l) ( e i ​ ) = ( e 1 ​ , e 2 ​ , ⋯ , e l ​ ) 이 있을 때 다음 절차를 따라 그림을 그릴 수 있다.
+- 먼저 평면 상에 l l l 개의 점을 찍자. 이 각 점들은 e i e_i e i ​ 하나 씩에 대응된다. e i e_i e i ​ 에 대응하는 점을 i i i 번째 점이라고 칭하겠다.
+- 서로 다른 i , j i, j i , j 에 대하여 i i i 번째 점과 j j j 번째 점을 잇는 선을 긋되 4 ( e i , e j ) 2 4(e_i, e_j)^2 4 ( e i ​ , e j ​ ) 2 개의 선을 긋는다. 물론 4 ( e i , e j ) 2 = 0 4(e_i, e_j)^2 = 0 4 ( e i ​ , e j ​ ) 2 = 0 이면 선을 긋지 않는다.
+
+예를 들어 카르탕 행렬 A A A 와 위에서 구한 방식대로 얻어낸 S ~ \tilde{S} S ~ 이 다음과 같을 때 콕세터 도표를 다음과 같이 그리겠다는 것이다.
+카르탕 행렬 A A A | S ~ \tilde{S} S ~ | 콕세터 도표
+( 2 − 1 − 1 2 ) \begin{pmatrix} 2 & -1 \\ -1 & 2 \end{pmatrix} ( 2 − 1 ​ − 1 2 ​ ) | ( 1 − 1 / 2 − 1 / 2 1 ) \begin{pmatrix} 1 & -1/2 \\ -1/2 & 1 \end{pmatrix} ( 1 − 1/2 ​ − 1/2 1 ​ )
+( 2 − 1 − 3 2 ) \begin{pmatrix} 2 & -1 \\ -3 & 2 \end{pmatrix} ( 2 − 3 ​ − 1 2 ​ ) | ( 1 − 3 / 2 − 3 / 2 1 ) \begin{pmatrix} 1 & -\sqrt{3}/2 \\ -\sqrt{3}/2 & 1 \end{pmatrix} ( 1 − 3 ​ /2 ​ − 3 ​ /2 1 ​ )
+( 2 − 1 0 − 1 2 − 1 0 − 1 2 ) \begin{pmatrix} 2 & -1 & 0 \\ -1 & 2 & -1 \\ 0 & -1 & 2 \end{pmatrix} ​ 2 − 1 0 ​ − 1 2 − 1 ​ 0 − 1 2 ​ ​ | ( 1 − 1 / 2 0 − 1 / 2 1 − 1 / 2 0 − 1 / 2 1 ) \begin{pmatrix} 1 & -1/2 & 0 \\ -1/2 & 1 & -1/2 \\ 0 & -1/2 & 1 \end{pmatrix} ​ 1 − 1/2 0 ​ − 1/2 1 − 1/2 ​ 0 − 1/2 1 ​ ​
+( 2 − 1 0 0 − 1 2 − 2 0 0 − 1 2 − 1 0 0 − 1 2 ) \begin{pmatrix} 2 & -1 & 0 & 0 \\ -1 & 2 & -2 & 0 \\ 0 & -1 & 2 & -1 \\ 0 & 0 & -1 & 2 \end{pmatrix} ​ 2 − 1 0 0 ​ − 1 2 − 1 0 ​ 0 − 2 2 − 1 ​ 0 0 − 1 2 ​ ​ | ( 1 − 1 / 2 0 0 − 1 / 2 1 − 2 / 2 0 0 − 2 / 2 1 − 1 / 2 0 0 − 1 / 2 1 ) \begin{pmatrix} 1 & -1/2 & 0 & 0 \\ -1/2 & 1 & -\sqrt{2}/2 & 0 \\ 0 & -\sqrt{2}/2 & 1 & -1/2 \\ 0 & 0 & -1/2 & 1 \end{pmatrix} ​ 1 − 1/2 0 0 ​ − 1/2 1 − 2 ​ /2 0 ​ 0 − 2 ​ /2 1 − 1/2 ​ 0 0 − 1/2 1 ​ ​
+
+여기서 콕세터 도표에서 한 가지 특별한 부분을 짚고 가도록 하겠다. 다음 그림과 같은 부분을 자주 보게 될 것이다.
+
+즉, i 1 i_1 i 1 ​ , i 2 i_2 i 2 ​ , ⋯ \cdots ⋯ , i m i_m i m ​ 번째 점들이 있어, 모든 j = 2 , 3 , ⋯ , m − 1 j = 2, 3, \cdots, m - 1 j = 2 , 3 , ⋯ , m − 1 에 대하여 i j i_j i j ​ 번째 점은 각각 i j − 1 i_{j - 1} i j − 1 ​ , i j + 1 i_{j + 1} i j + 1 ​ 하고만 선 하나 짜리 연결만을 가지며 그 외에 다른 어떤 점들과도 연결을 가지지 않는다. 이러한 점들과 그 연결들을 가리켜 단순사슬(simple chain)이라고 부른다.
+
+이제부터 할 일은 콕세터 도표가 어떤 모양이어야 할지 탐구하는 것이다. 차근차근 해내다 보면 콕세터 도표가 가질 수 있는 모양에 상당한 제약을 줄 것이다. [110]
+콕세터 도표는 모두 연결이다. 즉, 연결되지 않는 두 부분으로 쪼개지지 않는다.
+
+이는 위에서 언급된 기약 성질로부터 바로 얻어지는 성질이다.
+콕세터 도표에서 점을 지우고 지워진 점에 연결된 선들도 지워서 얻은 도표가 만약 잘 연결되어 있으면 이 새로운 도표 역시 콕세터 도표이다.
+
+콕세터 도표가 가질 수 있는 연결의 개수는 점들의 개수보다 적다. [111]
+
+콕세터 도표는 루프를 포함할 수 없다.
+
+루프를 포함하는 게 있다고 하자. 그 루프에 포함되지 않는 점들을 모두 지운 도표는 물론 잘 연결된 도표이고 이 역시 콕세터 도표일텐데, 이 루프를 포함한 새로운 도표가 가지는 연결의 개수는 점들의 개수보다 많거나 같을 것이다. 따라서 모순이 발생한다.
+콕세터 도표의 한 점에 연결된 선의 개수는 많아야 3개이다.
+
+콕세터 도표가 가지는 임의의 단순사슬에 대해, 이 단순사슬의 양 끝을 제외한 모든 점을 지운 다음 남은 두 양 끝점을 하나로 합쳐서 다시 그렸다고 하자. 그러면 이 새로운 도표 역시 콕세터 도표이다.
+
+여기까지 얻은 내용을 통해 중요한 사실 하나를 알아낼 수 있다. 즉, 다음과 같은 부분을 포함한 콕세터 도표는 존재하지 않는다는 것이다.
+
+가운데의 단순사슬을 한 점으로 축약시키면 다음을 포함하는 도표를 얻게 될 것이다.
+
+즉, 4개의 선을 포함하는 점이 생긴다. 콕세터 도표는 그런 점을 가질 수 없기 때문에 애초부터 위와 같은 부분을 포함한 도표는 콕세터 도표일 수 없는 것이다.
+
+이는 선 3개를 가지는 점의 개수에 강한 제약을 준다. 만약 그런 점이 일단 3개라도 있으면 위와 같은 금지된 부분이 반드시 존재하기 때문이다. 따라서 선 3개짜리 점의 개수는 많아야 2개라는 사실을 알 수 있다. 그리고 2개를 가지는 경우조차 제약이 생기는데, 결론부터 말하자면 다음과 같은 경우만 가능해진다.
+
+그 외의 경우에도 항상 금지된 부분이 발생하기 때문임을 쉽게 알 수 있다.
+
+이제 이들 결과를 종합해 보면 콕세터 도표가 다음과 같은 모양이어야 함을 알 수 있다.
+
+거의 다 됐다. 이제 관심을 가질 것은 저 한없이 길어질 것 같은 부분들에 어떤 제약을 줄 수 있는가 하는 것이다. 첫번째 단순사슬의 경우에는 사실 별다른 추가 제약을 줄 수 없다. 마지막 세 줄 짜리 연결 하나만 달랑 있는 것은 더 제약을 줄 여지조차 없어 보인다. 남은 건 나머지 둘인데, 해야 할 일은 m , n m, n m , n , 그리고 p , q , r p, q, r p , q , r 이 어떤 값을 가져야 콕세터 도표가 될 여지가 있느냐는 것이다. 단, 여기서 대칭성을 고려하여 m ≥ n m \ge n m ≥ n , p ≥ q ≥ r p \ge q \ge r p ≥ q ≥ r 이라고 가정해도 별 상관 없을 것이다. 이때 결국 다음과 같은 제약이 있다는 것이 밝혀졌다.
+- n = 1 \displaystyle n = 1 n = 1
+- m = n = 2 \displaystyle m = n = 2 m = n = 2
+
+그리고
+- q = r = 1 \displaystyle q = r = 1 q = r = 1
+- p = 2 , 3 , 4 , q = 2 , r = 1 \displaystyle p = 2, 3, 4, q = 2, r = 1 p = 2 , 3 , 4 , q = 2 , r = 1
+
+이제 이들 결과를 종합하면 콕세터 도표의 후보가 최종적으로 다음과 같아야 함을 알 수 있다.
+
+지금까지 콕세터 도표의 후보들을 모두 찾아내 보았다. 하지만 우리의 목표는 콕세터 도표가 아닌 카르탕 행렬이다. 콕세터 도표로부터 행렬 S ~ \tilde{S} S ~ 만 얻어낼 수 있다는 걸 상기하자. 사실 ( α i , α i ) (\alpha_i, \alpha_i) ( α i ​ , α i ​ ) 가 뭔지 알기만 하면 S ~ \tilde{S} S ~ 으로부터 바로 S S S 를 얻어낼 수 있고 또한 D D D 가 뭔지 바로 재구성해낼 수 있다. 이를 위해 ( α i , α i ) (\alpha_i, \alpha_i) ( α i ​ , α i ​ ) 로 가능한 것이 무엇인가를 찾아내야 한다는 것이다.
+
+예를 들어 A, D, E 타입은 사실 ( α i , α i ) = 1 (\alpha_i, \alpha_i) = 1 ( α i ​ , α i ​ ) = 1 이기만 해도 된다는 것을 알 수 있다. 나머지 타입에 대하여 D D D 가 어때야 하는지 알아내기 위해 행렬 S ~ \tilde{S} S ~ 의 각 성분 ( e i , e j ) (e_i, e_j) ( e i ​ , e j ​ ) 를 상기해 보도록 하자. 그리고 4 ( e i , e j ) 2 = ⟨ α i , α j ⟩ ⟨ α j , α i ⟩ 4 (e_i, e_j)^2 = \langle \alpha_i, \alpha_j \rangle \langle \alpha_j, \alpha_i \rangle 4 ( e i ​ , e j ​ ) 2 = ⟨ α i ​ , α j ​ ⟩ ⟨ α j ​ , α i ​ ⟩ 인 것도 상기하자. 한편, 만약 ( e i , e j ) ≠ 0 (e_i, e_j) \ne 0 ( e i ​ , e j ​ )  = 0 이면 다음을 얻을 수 있다.
+
+⟨ α i , α j ⟩ ⟨ α j , α i ⟩ = 2 ( α i , α j ) ( α j , α j ) 2 ( α j , α i ) ( α i , α i ) = ( α i , α i ) ( α j , α j ) \displaystyle \frac{\langle \alpha_i, \alpha_j \rangle}{\langle \alpha_j, \alpha_i \rangle} = \frac{ \frac{2 (\alpha_i, \alpha_j)}{(\alpha_j, \alpha_j)} }{ \frac{2 (\alpha_j, \alpha_i)}{(\alpha_i, \alpha_i)} } = \frac{(\alpha_i, \alpha_i)}{(\alpha_j, \alpha_j)} ⟨ α j ​ , α i ​ ⟩ ⟨ α i ​ , α j ​ ⟩ ​ = ( α i ​ , α i ​ ) 2 ( α j ​ , α i ​ ) ​ ( α j ​ , α j ​ ) 2 ( α i ​ , α j ​ ) ​ ​ = ( α j ​ , α j ​ ) ( α i ​ , α i ​ ) ​ .
+
+그런데 사실 이 경우 ⟨ α i , α j ⟩ \langle \alpha_i, \alpha_j \rangle ⟨ α i ​ , α j ​ ⟩ 과 ⟨ α j , α i ⟩ \langle \alpha_j, \alpha_i \rangle ⟨ α j ​ , α i ​ ⟩ 는 모두 음의 정수이며 둘 중 적어도 하나는 -1이다. 따라서 사실 ⟨ α i , α j ⟩ ⟨ α j , α i ⟩ \frac{\langle \alpha_i, \alpha_j \rangle}{\langle \alpha_j, \alpha_i \rangle} ⟨ α j ​ , α i ​ ⟩ ⟨ α i ​ , α j ​ ⟩ ​ 과 ⟨ α j , α i ⟩ ⟨ α i , α j ⟩ \frac{\langle \alpha_j, \alpha_i \rangle}{\langle \alpha_i, \alpha_j \rangle} ⟨ α i ​ , α j ​ ⟩ ⟨ α j ​ , α i ​ ⟩ ​ 둘 중 하나는 반드시 ⟨ α i , α j ⟩ ⟨ α j , α i ⟩ \langle \alpha_i, \alpha_j \rangle \langle \alpha_j, \alpha_i \rangle ⟨ α i ​ , α j ​ ⟩ ⟨ α j ​ , α i ​ ⟩ 과 같아야 한다. 그리고 나머지 하나는 다른 하나의 역수이다. 따라서 다음을 얻을 수 있다.
+( e i , e j ) ≠ 0 \displaystyle (e_i, e_j) \ne 0 ( e i ​ , e j ​ )  = 0 이면, ( α i , α i ) ( α j , α j ) \displaystyle \frac{(\alpha_i, \alpha_i)}{(\alpha_j, \alpha_j)} ( α j ​ , α j ​ ) ( α i ​ , α i ​ ) ​ 는 4 ( e i , e j ) 2 \displaystyle 4 (e_i, e_j)^2 4 ( e i ​ , e j ​ ) 2 와 같거나 1 4 ( e i , e j ) 2 \displaystyle \frac{1}{4 (e_i, e_j)^2} 4 ( e i ​ , e j ​ ) 2 1 ​ 와 같다.
+
+예를 들어 ( e i , e j ) = − 1 2 (e_i, e_j) = -\frac{1}{2} ( e i ​ , e j ​ ) = − 2 1 ​ 이면 (그리고 그럴 때에만) ( α i , α i ) = ( α j , α j ) (\alpha_i, \alpha_i) = (\alpha_j, \alpha_j) ( α i ​ , α i ​ ) = ( α j ​ , α j ​ ) 이다. 하지만 ( e i , e j ) (e_i, e_j) ( e i ​ , e j ​ ) 가 0이 아니면서 − 1 2 -\frac{1}{2} − 2 1 ​ 도 아니면 ( α i , α i ) ( α j , α j ) \frac{(\alpha_i, \alpha_i)}{(\alpha_j, \alpha_j)} ( α j ​ , α j ​ ) ( α i ​ , α i ​ ) ​ 가 가질 수 있는 값은 두 가지로 갈리게 된다. 이 분기에서 어떤 선택을 하느냐에 따라 ( α i , α i ) (\alpha_i, \alpha_i) ( α i ​ , α i ​ ) 들의 값이 결정되는 것이다. 사실 완전히 결정되는 건 아니고 예를 들어 a i = ( α i , α i ) ( α 1 , α 1 ) a_i = \frac{(\alpha_i, \alpha_i)}{(\alpha_1, \alpha_1)} a i ​ = ( α 1 ​ , α 1 ​ ) ( α i ​ , α i ​ ) ​ 로 뒀을 때 a i a_i a i ​ 가 얼마냐 정도만 결정할 수 있는 거지만, 카르탕 행렬을 재구성할 때에는 필요한 건 사실 저 a i a_i a i ​ 정도 뿐임을 쉽게 알 수 있을 것이다. [112]
+
+예를 들어 B C 3 BC_3 B C 3 ​ 타입을 살펴 보자. 이때 해당하는 행렬 S ~ \tilde{S} S ~ 는 다음과 같다.
+
+S ~ = ( 1 − 1 / 2 0 − 1 / 2 1 − 2 / 2 0 − 2 / 2 1 ) \tilde{S} = \displaystyle \begin{pmatrix} 1 & -1/2 & 0 \\ -1/2 & 1 & -\sqrt{2}/2 \\ 0 & -\sqrt{2}/2 & 1 \end{pmatrix} S ~ = ​ 1 − 1/2 0 ​ − 1/2 1 − 2 ​ /2 ​ 0 − 2 ​ /2 1 ​ ​ .
+
+여기서 4 ( e i , e j ) 2 4 (e_i, e_j)^2 4 ( e i ​ , e j ​ ) 2 는 ( i , j ) (i, j) ( i , j ) 가 ( 2 , 3 ) (2, 3) ( 2 , 3 ) 혹은 ( 3 , 2 ) (3, 2) ( 3 , 2 ) 일 때 빼면 항상 0이거나 1이다. 따라서 ( α 1 , α 1 ) = ( α 2 , α 2 ) (\alpha_1, \alpha_1) = (\alpha_2, \alpha_2) ( α 1 ​ , α 1 ​ ) = ( α 2 ​ , α 2 ​ ) 이다. 한편, 다음 둘 중 하나가 성립해야 함을 알 수 있다.
+- ( α 3 , α 3 ) = 1 4 ( e 2 , e 3 ) 2 ( α 2 , α 2 ) = 1 2 ( α 2 , α 2 ) \displaystyle (\alpha_3, \alpha_3) = \frac{1}{4 (e_2, e_3)^2} (\alpha_2, \alpha_2) = \frac{1}{2} (\alpha_2, \alpha_2) ( α 3 ​ , α 3 ​ ) = 4 ( e 2 ​ , e 3 ​ ) 2 1 ​ ( α 2 ​ , α 2 ​ ) = 2 1 ​ ( α 2 ​ , α 2 ​ )
+- ( α 3 , α 3 ) = ( 4 ( e 2 , e 3 ) 2 ) ( α 2 , α 2 ) = 2 ( α 2 , α 2 ) \displaystyle (\alpha_3, \alpha_3) = (4 (e_2, e_3)^2) (\alpha_2, \alpha_2) = 2 (\alpha_2, \alpha_2) ( α 3 ​ , α 3 ​ ) = ( 4 ( e 2 ​ , e 3 ​ ) 2 ) ( α 2 ​ , α 2 ​ ) = 2 ( α 2 ​ , α 2 ​ )
+
+이제 각 경우에 대하여 S S S 를 복원할 수 있고, D D D 도 계산하여 카르탕 행렬 A A A 가 다음과 같아야 함을 알 수 있다.
+
+( 2 − 1 0 − 1 2 − 2 0 − 1 2 ) \displaystyle \begin{pmatrix} 2 & -1 & 0 \\ -1 & 2 & -2 \\ 0 & -1 & 2 \end{pmatrix} ​ 2 − 1 0 ​ − 1 2 − 1 ​ 0 − 2 2 ​ ​ 또는 ( 2 − 1 0 − 1 2 − 1 0 − 2 2 ) \displaystyle \begin{pmatrix} 2 & -1 & 0 \\ -1 & 2 & -1 \\ 0 & -2 & 2 \end{pmatrix} ​ 2 − 1 0 ​ − 1 2 − 2 ​ 0 − 1 2 ​ ​ .
+
+이 두 행렬들이 카르탕 행렬이기 위한 조건들을 모두 만족한다는 것을 쉽게 보일 수 있다. 이런 식으로 카르탕 행렬을 재구성할 수 있다. 위와 같은 선택 분기는 콕세터 도표에서 선 2개 이상의 연결이 등장하는 연결의 개수만큼 등장할텐데, 다행스럽게도 모든 콕세터 도표는 그러한 연결을 하나도 안 갖거나 딱 하나만 가지므로 일이 더 쉬워진다. 즉, 콕세터 도표 하나로부터 카르탕 행렬이 많아야 두 개 생긴다는 뜻이다. 그리고 그마저도 F 4 F_4 F 4 ​ , G 2 G_2 G 2 ​ 타입에서는 단순히 α i \alpha_i α i ​ 의 인덱스 순서를 뒤집기만 하는 것으로 두 카르탕 행렬 중 하나를 다른 하나로 변환할 수 있기 때문에 이 두 타입이 가지는 카르탕 행렬은 딱 하나 뿐임을 알 수 있다. 다만 B C l BC_l B C l ​ 타입에서는 l ≥ 3 l \ge 3 l ≥ 3 인 경우 그러한 뒤집기를 포함해 그 어떤 방식으로 순서를 뒤섞어도 두 카르탕 행렬 중 하나를 다른 하나로 변환할 수 없다. 따라서 이 타입에서는 카르탕 행렬이 두 개 나온다고 할 수 있다.
+
+한편 위의 분기를 보면 결국 ( α i , α i ) (\alpha_i, \alpha_i) ( α i ​ , α i ​ ) 와 ( α j , α j ) (\alpha_j, \alpha_j) ( α j ​ , α j ​ ) 중 어느 것을 큰 것으로 잡을 거냐는 선택과 동일하다는 것을 볼 수 있다. 이걸 콕세터 도표에 따로 표시하여 도표를 다시 그릴 수 있을 것이다. 그리고 그 정보만 가지고 있어도 카르탕 행렬을 유일하게 하나만 재구성해낼 수 있음을 위에서 확인했다. 이러한 특별한 표기가 추가된 도표를 가리켜 딘킨 도표(Dynkin diagram) 이라고 부른다. 그리고 최종적으로 다음과 같은 딘킨 도표들이 있음을 확인하였다.
+
+그리고 모든 단순 리 대수가 바로 이 딘킨 도표들 중 적어도 하나에 대응한다는 것을 알 수 있다. 단, B 1 B_1 B 1 ​ , C 1 C_1 C 1 ​ , C 2 C_2 C 2 ​ , D 1 D_1 D 1 ​ , D 2 D_2 D 2 ​ , D 3 D_3 D 3 ​ 는 이미 다른 것과 겹치기 때문에 보통 생략하는 편이다. [113]
+
+사실 한 가지 더 짚고 가야 할 점이 있다. 지금까지 살펴본 내용은 어디까지나 주어진 root system이 있을 때 해당 딘킨 도표를 그리면 저 리스트에 있는 것들 중 하나와 같아야 한다 이다. 그리고 이건 저 리스트에 있는 딘킨 도표 각각에 대해 대응하는 root system이 존재한다 는 것과 전혀 다른 이야기이다. [114] 이건 따로 증명해야 하는데, 두 가지 방법이 있다.
+- 해당 딘킨 도표를 가지는 단순 리 대수를 찾는다
+- 해당 딘킨 도표를 가지는 root system을 찾는다
+
+사실 위에서 잠깐 언급한 내용 중 하나인 'root system이 주어져 있으면 이와 동형인 root system을 가지는 단순 리 대수가 유일하게 존재한다'는 사실을 생각하면 두번째를 증명하는 편이 더 경제적일 것으로 보인다. 실제로 가능한 방법이며, 더 자세한 내용은 Humphreys (1972) 중 Chapter 12를 읽어 보는 것으로 얻을 수 있다. [115]
+
+물론 첫번째 방법도 연구가 완료된 상황이다. 사실 A l A_l A l ​ , B l B_l B l ​ , C l C_l C l ​ , D l D_l D l ​ 은 고전 리 군(classic Lie group)에 해당하는 것들로 이미 잘 알려져 있는 것들이다. 나머지 다섯 개의 타입 E 6 E_6 E 6 ​ , E 7 E_7 E 7 ​ , E 8 E_8 E 8 ​ , F 4 F_4 F 4 ​ , G 2 G_2 G 2 ​ 를 가리켜 예외적 타입(exceptional type)이라고 부르며 해당 리 군 혹은 리 대수를 가리켜 예외적 단순 리 군(exceptional simple Lie group), 예외적 단순 리 대수(exceptional simple Lie algebra)라고 부른다. 이들 예외적 단순 리 군 혹은 예외적 단순 리 대수의 직접적인 재구성은 특수한 대수적 구조 위에서 수행할 수 있다. G 2 G_2 G 2 ​ 의 경우 팔원수 에서 [116] 직접 구성이 가능함을 알 수 있다. 이에 대한 설명을 Jacobson (1962), Humphreys (1972)에서 찾을 수 있다. 특히 Jacobson (1962)에서는 G 2 G_2 G 2 ​ 뿐만 아니라 Jordan 대수를 이용하여 F 4 F_4 F 4 ​ , E 6 E_6 E 6 ​ 을 직접 구성해낸다. E 7 E_7 E 7 ​ 은 보통 E 8 E_8 E 8 ​ 을 구성해낸 다음 그 부분대수로 구성하는 식으로 찾아낸다. E 8 E_8 E 8 ​ 을 직접 구성하는 방법은 예를 들어 위키 페이지 를 참고하자. [ 고급단독주택형 허브로움요양원
+blog.naver.com/herbroum v-if
+남동구 신축 단독요양원 재활물리치료 고급인테리어 1인실 2인실 테라스있는요양원
+
+] | [ 10년이상경력 간호박사요양원
+map.naver.com/p/entry/place/1548755161 v-if
+간호사상주,10년이상경력의 베테랑들이 직접케어,병원급관리 가능한요양원
+
+] | [ 인천논현동 맛집 소문난껍데기
+map.naver.com/p/entry/place/1943388597 v-if
+여기 껍데기 안 먹어봤다는 건 인생의 반을 손해 본 거예요! 동네 맛집의 자부심!
+
+]
+
+[1] 예를 들어 실수 혹은 복소수 체(field)가 아닌 다른 체 위에서도 가지고 놀 수 있다. [2] [ A , A ] = 0 [A, A] = 0 [ A , A ] = 0 이라고 표현할 수 있다. 다만 주어진 체(field)의 표수(characteristic)가 2이면 본문의 명제가 지켜진다는 보장이 없다. (선형대수학에서부터 표수가 2인 체를 제외하는 것도 그 체가 워낙 특이해서인데 여기서도 마찬가지이다.) [3] 혹은 [ A , [ B , C ] ] = [ [ A , B ] , C ] + [ B , [ A , C ] ] [A, [B, C]] = [[A, B], C] + [B, [A, C]] [ A , [ B , C ]] = [[ A , B ] , C ] + [ B , [ A , C ]] 로 쓸 수 있다. 이게 왜 중요하냐면, ' [ A , [A, [ A , ' 요걸 D A D_A D A ​ 라고 표현했을 때 (보통 이걸 ad A \textrm{ad }A ad A 라고 많이 표기한다) 이걸 D A ( [ B , C ] ) = [ D A ( B ) , C ] + [ B , D A ( C ) ] D_A([B, C]) = [D_A(B), C] + [B, D_A(C) ] D A ​ ([ B , C ]) = [ D A ​ ( B ) , C ] + [ B , D A ​ ( C )] 이기 때문이다. 즉, D A D_A D A ​ 는 Leibniz's rule을 만족한다. 따라서 D A D_A D A ​ 를 미분(derivation)으로 간주할 수 있다. [4] 더 일반적으로 보자면 모든 리 대수가 정말 이런 식으로 표현 될 수 있긴 하다. Universal enveloping algebra를 보자. [5] 예를 들어 M. E. Peskin, D. V. Schroeder, An Introduction to Quantum Field Theory 중 Section 15.4를 보라. [6] 하지만 이건 리 군과 같이 리 대수를 생각하는 경우 한정으로 보인다. 리 군을 딱히 다루지 않고 순수 대수학적인 리 대수만을 다루는 책들에서는 굳이 이 관례를 따르지 않는다. 근데 Lang 의 Algebra 에선 프락투어로 쓴다 예를 들어 N. Jacobson의 Lie Algebras (Dover, 1962)와 Humphreys의 Introduction to Lie Algebras and Representation Theory (Springer, 1972)를 보자. [7] M n M_n M n ​ 의 정의는 리 군 문서를 보자. [8] J m , n J_{m,n} J m , n ​ 의 정의는 리 군 문서를 보자. [9] 정확하게 표현하자면 모든 유한 차원 리 대수는 finite-dimensional faithful representation을 가진다는 것이다. Ado의 정리로 명명된 결과이다. 예를 들어 W. Fulton, J. Harris의 Representation Theory, A First Course (Springer, 1991) 중 Appendix E를 보자. [10] Ado의 정리는 주어진 체의 표수가 0일 때에만 성립한다. 나중에 K. Iwasawa가 표수에 대한 제한도 없애는 데에 성공하였다. 이 때문에 Ado-Iwasawa 정리라고 부르기도 한다. 예를 들어 N. Jacobson (1962) 중 Chapter 6을 보자. Right-handed notation의 압박이 심각하지만 어떻게든 버텨보자 [11] 사실 "대수 A \mathcal{A} A "라고 한다는 것은 4-tuple ( A , + , ⋅ scalar , ⋅ ) (\mathcal{A}, +, \cdot_{\textrm{scalar}}, \cdot) ( A , + , ⋅ scalar ​ , ⋅ ) 을 말하는 것이다. (여기서 ⋅ scalar \cdot_{\textrm{scalar}} ⋅ scalar ​ 는 물론 벡터 공간에서의 스칼라 곱이고 ⋅ \cdot ⋅ 은 대수의 곱 연산이다.) 귀찮고 어차피 다들 잘 알아먹어서 그냥 A \mathcal{A} A 라고 쓰는 것이지. 본문에서 말한 건 ( A , + , ⋅ scalar , ⋅ ) (\mathcal{A}, +, \cdot_{\textrm{scalar}}, \cdot) ( A , + , ⋅ scalar ​ , ⋅ ) 말고 ( A , + , ⋅ scalar , [ , ] ) (\mathcal{A}, +, \cdot_{\textrm{scalar}}, [,]) ( A , + , ⋅ scalar ​ , [ , ]) 를 생각하자는 것이다. [12] Humphreys (1972)의 표기를 따른 것이다. [13] 이때 이게 무슨 대수인지 상관 없다. 즉, A \mathcal{A} A 가 associative하든 Lie하든 전혀 상관 없다. [14] 즉, 해석학의 미분 연산자를 대수학적 관점에서 추상화한 내용인 것이다. 사실 매끄러운 일변수 실함수들을 모은 R \R R -대수를 생각했을 때 저 성질을 만족하면서 항등함수를 1로 보내는 미분은 우리가 아는 그 미분 연산자 d d x \frac{d}{dx} d x d ​ 하나 뿐임을 보일 수 있다. 예를 들어 J. M. Lee, Introduction to Smooth Manifolds, 2nd Ed. (Springer, 2012)의 Proposition 3.2를 보면 이에 대한 좀 더 일반적인 결과를 볼 수 있다. [15] 이 문단에서 했던 것처럼 앞으로도 계속 유한 차원 이라는 말을 꼬박꼬박 붙일 것이다. 대부분의 책에선 그냥 '별 이야기가 없으면 앞으로 이야기할 리 대수라든가 벡터 공간 뭐 그런 것들은 전부 유한 차원임'이라고 맨 처음에 못 박아 버리고 그 다음엔 '유한 차원'이란 말을 다 생략해 버리지만, 여기서는 강조 차원에서 생략하지 않고 항상 밝히겠다. 사실 유한 차원에서의 이야기와 무한 차원에서의 이야기는 리 대수든 뭐든 벡터 공간 위에서 노는 그 어떤 거든 아예 다른 세상의 이야기이다. [16] 군 에서 교환자(commutator)들로 생성된 부분군을 생각하자. [17] Humphreys (1972) 중 Section 3.2를 보자... 라고 해 봤자 여기에선 아예 'Clearly'라고 해 버린다.(...) [18] 여기서도 역사상이 존재할 경우 그 역사상 역시 리 대수 준동형사상임을 쉽게 보일 수 있다. [19] 즉 어떤 카탈로그가 있어서, 그 어떤 유한 차원 단순 리 대수를 들고 와도 그 카탈로그에 포함된 것들 중 하나와 동형이라는 것이다. 물론 그 카탈로그에 포함된 것들이 어떻게 생겼는지도 죄다 알려져 있다. [20] 물론 이거랑 리 군의 리 대수가 바로 추상적 리 대수의 모티브이다. [21] 최소다항식(minimal polynomial)을 인수분해했을 때 모든 인수의 차수가 1인 경우를 말한다. 대각화 가능(diagonalizable)한 경우가 대표적인 예이다. 사실 최소다항식이 완전분해 될 때까지 체를 확장했을 때 대각화 가능하면, 그리고 그럴 때에만 반단순하다는 것을 알 수 있다. [22] 물론 죽여주는 형식이란 뜻으로 쓴 게 아니다.(...) 수학자 빌헬름 킬링(1847-1923)의 이름을 딴 것이다. 이 분은 소푸스 리와는 독립적으로 리 대수 구조를 처음 고안해냈으며, 비록 엄밀함이 떨어지긴 하지만 최초로 대수적으로 닫힌 체 위에서의 단순 리 대수(simple Lie algebra)들의 분류를 해낸 사람이다 (나중에 엘리 카르탕에 의하여 엄밀한 증명이 완성된다). [23] 수학자 닐스 헨리크 아벨 의 이름을 딴 용어이다. 그런데 인명을 딴 용어임에도 워낙 많이 쓰인 탓에 소문자로 많이 표기되곤 한다. [24] 센터(center)에 해당하는 독일어 Zentrum에서 따왔다. [25] 예를 들어 차원에 대한 수학적 귀납법 을 생각할 때 제일 먼저 시도해 보는 것이다. 특히 이때의 몫대수가 adjoint 표현과 동형인 것이 많은 경우 유용하다. [26] Toral은 ' torus 한' 정도의 뜻이다. 컴팩트 리 군을 다룰 때 torus 모양의 (즉 ( S 1 ) n (S^1)^n ( S 1 ) n 모양의) 리 부분군을 자주 다루는데, 이런 리 부분군들 중 적당한 것들은 모든 원소들이 ad-semisimple한 리 대수를 가진다. 여기서 toral 부분대수라는 이름을 딴 것이라고 볼 수 있다. [27] 여기서 물론 '최대'는 이 toral 부분대수를 포함하는 더 큰 toral 부분대수가 없다는 뜻이다. [28] 예를 들어 Humphreys (1972)를 보자. [29] 정확하게, split한 것들만 해당한다. 어차피 대수적으로 닫힌 체 위에서 놀면 모든 유한 차원 반단순 리 대수들이 split해지긴 한다. 카르탕 부분대수 파트에서 split함의 정의를 소개하겠다. [30] Humphreys (1972) 중 8.1 Lemma를 보자. [31] 대수적으로 닫힌 체 조건이라든가 대각화가능 같은 조건이 없을 때 반례가 존재한다. 예를 들어 s u ( 2 ) = R ( 0 − 1 − 1 0 ) + R ( 0 1 − 1 0 ) + R ( − 1 0 0 − − 1 ) \mathfrak{su}(2) = \R \left( \begin{array}{cc} 0 & \sqrt{-1} \\ \sqrt{-1} & 0 \end{array} \right) + \R \left( \begin{array}{cc} 0 & 1 \\ -1 & 0 \end{array} \right) + \R \left( \begin{array}{cc} \sqrt{-1} & 0 \\ 0 & -\sqrt{-1} \end{array} \right) su ( 2 ) = R ( 0 − 1 ​ ​ − 1 ​ 0 ​ ) + R ( 0 − 1 ​ 1 0 ​ ) + R ( − 1 ​ 0 ​ 0 − − 1 ​ ​ ) 을 생각해 보자. (잘 알려진 Pauli 행렬들에 − 1 \sqrt{-1} − 1 ​ 을 곱한 다음 span한 것이다.) 이 리 대수의 모든 원소들이 ad-semisimple함을 쉽게 알 수 있는데, 이 리 대수가 아벨리안하지 않음 또한 분명하다. [32] Humphreys (1972) 중 Section 3.3을 보자. 여기에서 소개하는 또다른 Theorem 역시 몹시 유용하다. [33] W. Fulton, J. Harris (1991) 중 Theorem E.4를 보자. [34] N. Jacobson (1962), W. Fulton, J. Harris (1991) 등. [35] 엘리 카르탄(Elie Cartan) [36] Humphreys (1972) 중 Section 15.3 Theorem 또는 W. Fulton, J. Harris (1991) 중 Proposition D.3를 보자. [37] 단 이건 표수가 0인 체 한정으로만 참인 성질이다. 표수가 0이 아닌 체 위에서의 CSA 존재성 증명은 오래된 open problem이다. [38] Humphreys (1972) 중 Section 15.3 Collorary를 보자. [39] 이 가정이 없으면 일반적으로 참이 아니다. 간단한 예로 R \R R 위의 s l ( 2 ) \mathfrak{sl}(2) sl ( 2 ) 에서 ( 1 0 0 − 1 ) \left( \begin{array}{cc} 1 & 0 \\ 0 & -1 \end{array} \right) ( 1 0 ​ 0 − 1 ​ ) 와 ( 0 1 − 1 0 ) \left( \begin{array}{cc} 0 & 1 \\ -1 & 0 \end{array} \right) ( 0 − 1 ​ 1 0 ​ ) 는 서로의 어떤 실수 배와도 similar하지 않으며, 이로 인하여 이 둘 각각으로 이루는 카르탕 부분대수들이 conjugate하다고 할 수 없다는 것을 알 수 있다. [40] 특히 이 자기동형사상들이 어떤 특수한 꼴에 속한다는 것을 알 수 있다. 자세한 건 Humphreys (1972) 중 Chapter 16을 보자. [41] Humphreys (1972)에서 소개된 증명은 아래에서 언급하듯이 보렐 부분대수까지 동원하여 증명하는 것이다. 그래서 조금 더 결과가 풍성하긴 하지만 그 증명이 길고 복잡하다.(...) 그런 거 필요 없고 보다 짧은 증명을 원한다면 N. Jacobson (1962), W. Fulton, J. Harris (1991)의 대수기하학적(!) 증명을 참고하자. [42] 바로 위 성질의 직접적인 결과이다. 어차피 적당한 체의 확장(field extension) 위에서 논다면 두 카르탕 부분대수가 conjugate하다는 것을 알 수 있을 거고, 체의 확장을 하더라도 부분대수들의 차원은 똑같을 것이므로 이 결과를 가진다. [43] 물론 두 리 대수가 다른 차원을 가져도 이 두 리 대수가 동형일 수 없다. [44] 다만 차원과 랭크 만으로는 완전하지 않다. 최소 차원을 가지는 자명하지 않은 (non-trivial) 표현이라든가 자기동형사상군(automorphism group)의 모양을 봐야 유한 차원 반단순 리 대수들의 분류를 완전하게 끝낼 수 있다. [45] 대각 성분이 뭐든 상관 없다. [46] 위에서 소개한 항등식 h ( n ) ⊆ h n \mathfrak{h}^{(n)} \subseteq \mathfrak{h}^{n} h ( n ) ⊆ h n 에 의하여 자명하다. [47] 물론 그 소푸스 리가 증명한 것이다. 이거 말고도 Lie의 정리라고 불리는 것들이 제법 많다. 하지만 대충 맥락 보고 그 중 무슨 정리가 쓰인 건지 쉽게 알 수 있긴 하다. 예를 들어 추상적 리 대수를 다룰 땐 흔히 이 정리를 말하는 것이다. [48] Humphreys (1972) 중 4.1 Theorem을 보자. [49] Humphreys (1972) 중 4.1 Collorary B를 보자. 다만 한쪽 방향만 증명되어 있는데, 반대쪽 방향의 증명은 연습문제로 간단하니 한 번 풀어보자. 나무위키에서도 연습문제를 낸다 [50] Humphreys (1972) 중 4.1 Collorary C 또는 W. Fulton, J. Harris (1991) 중 Lemma C. 20를 보자. [51] Humphreys (1972) 중 Section 4.3 Theorem을 보자. [52] W. Fulton, J. Harris (1991), Lemma C.20를 보자. [53] W. Fulton, J. Harris (1991), Proposition C.24를 보자. [54] 위의 정의들 및 성질들에 의하여 당연. [55] 카르탕 부분대수처럼 이 자기동형사상들 역시 어떤 특수한 꼴에 속한다는 것을 알 수 있다. 자세한 건 Humphreys (1972) 중 Chapter 16을 보자. [56] 사실 Humphreys (1972)에서는 먼저 보렐 부분대수들이 conjugate하다는 것을 보인 다음, 이를 이용하여 카르탕 부분대수들이 conjugate하다는 것을 보인다. [57] W. Fulton, J. Harris (1991), Theorem E.1을 보자. [58] N. Jacobson (1962) 중 Theorem 3.48을 보자. 여기서는 Malcev-Harish-Chandra theorem으로 소개되어 있다. [59] 만약 radical r \mathfrak{r} r 이 0이 아니면 r ( r ) ≠ 0 \mathfrak{r}^{(r)} \ne 0 r ( r )  = 0 (단 r ( 0 ) = r \mathfrak{r}^{(0)} = \mathfrak{r} r ( 0 ) = r )이도록 하는 최대의 음이 아닌 정수 r r r 이 존재할 것이고, 이때 그 최대성으로 인하여 r ( r + 1 ) = 0 \mathfrak{r}^{(r+1)} = 0 r ( r + 1 ) = 0 이므로 r ( r ) \mathfrak{r}^{(r)} r ( r ) 은 0이 아닌 아벨리안 아이디얼이다. (참고로 이 아벨리안 아이디얼은 심심하면 증명에 사용되곤 한다.) 반대로, 0이 아닌 아벨리안 아이디얼은 물론 가해 아이디얼이므로 이는 radical에 포함될 것이다. [60] Cartan's criterion for semisimplicity 증명에 종종 사용되는 사실이나 (예를 들어 Humphreys (1972) 중 5.1 Theorem의 증명을 보자) 여기서도 증명이 안 나와 있다. 너무 쉬운 거라 별 언급을 안 한 것일 수도. [61] Humphreys (1972) 중 5.1 Theorem을 보자. [62] 모든 A A A 에 대하여 κ ( A , X ) = 0 \kappa(A, X) = 0 κ ( A , X ) = 0 이면 X = 0 X = 0 X = 0 이면, 그리고 그럴 때에만 κ \kappa κ 가 non-degenerate하다고 말한다. [63] 사실 임의의 유한 차원 faithful 표현 ρ \rho ρ 에 대하여 이차 형식 β ρ ( A , B ) = tr ( ρ ( A ) ρ ( B ) ) \beta_\rho(A, B) = \textrm{tr }(\rho(A) \rho(B)) β ρ ​ ( A , B ) = tr ( ρ ( A ) ρ ( B )) 를 정의하였을 때 주어진 리 대수가 반단순이면 β ρ \beta_\rho β ρ ​ 역시 non-degenerate하다는 걸 보일 수 있다. 이렇게 확장된 결과를 표현론에서도 잘 써먹는다. [64] Humphreys (1972) 중 5.2 Theorem을 보자. [65] Humphreys (1972) 중 5.2 Collorary를 보자. 즉, 바로 위 정리의 직접적인 결과이다. 더 정확하게, 단순 리 대수에 대해서 성립하는 성질을 위 정리로부터 그대로 일반화한 것이다. [66] Humphreys (1972) 중 5.3 Theorem을 보자. [67] 즉 모든 미분 연산자(derivation)은 inner하다. [68] Humphreys (1972) 중 5.4를 보자. 사실 바로 위 정리의 직접적인 결과이다. 보다 정확하게는 모든 미분 연산자를 조르당 분해해서 얻은 두 파트들 역시 미분 연산자들임을 이용한 것이다. [69] 즉 표현 ρ : g → g l ( V ) \rho: \mathfrak{g} \to \mathfrak{gl}(V) ρ : g → gl ( V ) 에서 V V V 가 1차원이면 ρ = 0 \rho = 0 ρ = 0 이라는 것이다. g ′ = g \mathfrak{g}' = \mathfrak{g} g ′ = g 임과 trace를 이용하여 쉽게 증명할 수 있다. [70] Humphreys (1972) 중 6.2를 보자. g \mathfrak{g} g 의 한 기저와 어떤 듀얼 기저(주어진 표현을 이용하여 위에서 소개한 β ρ \beta_\rho β ρ ​ 를 만들 수 있는데, 이에 대한 것이다)의 조합으로 나타낸 원소이다. 표현론에서는 물론 양자역학이나 양자장론 등에서도 자주 쓰인다. 보다 일반적인 정의는 S. Lang의 Algebra, 3rd Ed. (Springer, 2002) 중 Chapter XVI, 연습문제 14번을 보자. [71] Humphreys (1972) 중 6.3을 보자. Whitehead's lemma라는 리 대수의 호몰로지와 관련된 보조정리가 있는데, 이걸 이용한 증명을 N. Jacobson (1962)에서 찾을 수 있다. [72] 바일의 완전분해가능 정리의 직접적인 결과이다. 사실 상 동치. [73] 다만 이와 같은 분해가 유일하지 않다. 사실 어떤 동형 클래스가 들어갔고 이것들이 각각 몇 번 들어갔는가까진 유일하게 결정된다. 그래서 만약 기약 부분표현들이 각각 모두 동형이지 않다면 그 분해가 유일하다. 하지만 만약 어떤 두 기약 부분표현이 동형이라면, 이 둘의 적당한 두 선형결합으로 바꿔치기한 것을 생각하여 분해가 유일하지 않음을 알 수 있다. [74] 사실 다중선형성+3차원이라는 사실 때문에 [ H , [ E , F ] ] + [ E , [ F , H ] ] + [ F , [ H , E ] ] = 0 [H, [E, F]] + [E, [F, H]] + [F, [H, E]] = 0 [ H , [ E , F ]] + [ E , [ F , H ]] + [ F , [ H , E ]] = 0 인 것만 보이면 충분하다. [75] 임의의 A ∈ i A \in \mathfrak{i} A ∈ i , X ∈ s X \in \mathfrak{s} X ∈ s 에 대하여 [ A , X ] ∈ i [A, X] \in \mathfrak{i} [ A , X ] ∈ i 임을 상기하자. [76] ( 1 0 0 − 1 ) \left( \begin{array}{cc} 1 & 0 \\ 0 & -1 \end{array} \right) ( 1 0 ​ 0 − 1 ​ ) , ( 0 1 0 0 ) \left( \begin{array}{cc} 0 & 1 \\ 0 & 0 \end{array} \right) ( 0 0 ​ 1 0 ​ ) , ( 0 0 1 0 ) \left( \begin{array}{cc} 0 & 0 \\ 1 & 0 \end{array} \right) ( 0 1 ​ 0 0 ​ ) 각각을 H H H , E E E , F F F 에 대응시키면 된다. [77] 여기서부터 전개되는 내용의 아이디어는 사실 로런츠군 문서에서도 나오는 것이다. 다만 저 문서에서는 클렙시-고든 계수(Clebsch-Gordon coefficient)와 같은 물리학자들에게 보다 적합한 요소들이 쓰인다. 사실 기약 표현의 수학적 성질을 보고 싶을 때 클렙시-고든 계수는 오히려 너무 복잡하게 만드므로 (게다가 실수 체에 종속적인 결과로 보이게 만든다) 리 대수를 다루는 수학책들에선 아래와 같은 보다 단순한 방식으로 전개하는 것이 보통이다. 그래도 이 아이디어 자체는 심지어 웬만한 양자역학 책에서도 소개되므로 물리학도들에게도 익숙한 광경일 것이다. [78] 하지만 계수 차이라든가 바로 다음 문단에서 짚고 가는 고윳값과 체 문제를 빼더라도 아래의 방법이 양자역학에서의 방법과 아주 같은 것은 아니다. 양자역학에선 캐시미어 연산자( L ⃗ 2 \vec{L}^2 L 2 )의 고윳값을 이용하여 H H H ( L z L_z L z ​ )의 고유벡터들이 유한하도록 제어하는 반면에 (생각해 보면 각운동량의 상태들로 이루어진 공간이 딱히 유한 차원이라고 예상하지 않았다) 아래 방법에서는 애초부터 유한 차원 벡터 공간에서만 노는 상황이라 고유벡터들의 개수가 알아서 제어된다. [79] Least element를 이야기하는 게 아니라는 것을 유념해 두자. 이게 잘 있으면 어차피 상관 없는 이야기겠지만. [80] 여기서 맨 끝의 1은 항등사상 혹은 행렬에서 단위행렬 쯤 되는 것이다. 어차피 다 항등원들이다. 보다 일반적으로, universal enveloping algebra의 항등원일 수도 있다. 그런 이유로 1로 쓰는 것이 오히려 바람직할 수도 있다. [81] Universal enveloping algebra 이야기로부터 짐작할 수 있겠지만 이 항등식은 유한 차원 기약 표현에서만 성립하는 것이 아니다. 실제로 N. Jacobson(1962), Humphreys (1972)에서 일반적인 유한 차원 단순 리 대수의 유한 차원 기약 표현의 존재성을 증명할 때에도 어떤 차원을 모를 (유한 차원인지도 무한 차원인지도 모를) 표현 위에서 이 항등식이 사용된다. [82] 사실 물리학자들이 각운동량 합을 할 때 클렙시-고든 계수 같은 걸 동원해서 텐서곱 상태 ∣ l 1 , m 1 ⟩ ⊗ ∣ l 2 , m 2 ⟩| l_1, m_1 \rangle \otimes | l_2, m_2 \rangle ∣ l 1 ​ , m 1 ​ ⟩ ⊗ ∣ l 2 ​ , m 2 ​ ⟩ 를 단일 각운동량 상태들 ∣ l 1 + l 2 , m ⟩|l_1 + l_2, m \rangle ∣ l 1 ​ + l 2 ​ , m ⟩ ( m = − ( l 1 + l 2 ) , − ( l 1 + l 2 ) + 1 , ⋯ , l 1 + l 2 − 1 , l 1 + l 2 m = -(l_1 + l_2), -(l_1 + l_2) + 1, \cdots, l_1 + l_2 - 1, l_1 + l_2 m = − ( l 1 ​ + l 2 ​ ) , − ( l 1 ​ + l 2 ​ ) + 1 , ⋯ , l 1 ​ + l 2 ​ − 1 , l 1 ​ + l 2 ​ )로 쪼개는 작업이 이에 해당한다. [83] D \mathcal{D} D 의 적당한 기저 하나를 잡은 다음, 이것들만 대각화시켜도 충분하다는 것을 쉽게 알 수 있다. [84] 예를 들어 W. Fulton, J. Harris (1991) 중 Lemma D. 6, 7을 보자. [85] Humphreys (1972) 중 Section 8.2를 보자. [86] 일반적인 root 공간 분해에서 [ g α , g β ] ⊆ g α + β [\mathfrak{g}_\alpha, \mathfrak{g}_\beta] \subseteq \mathfrak{g}_{\alpha + \beta} [ g α ​ , g β ​ ] ⊆ g α + β ​ 까지는 성립한다. 하지만 등호는 일반적으로 성립하지 않는다. [87] 이 다소 두리뭉실한 표현을 쓴 이유를 아래에서 확인할 수 있다. [88] 물론 h ∗ \mathfrak{h}^* h ∗ 는 Q \mathbb{Q} Q 위의 벡터공간(a vector space over Q \mathbb{Q} Q )이기도 하다. [89] 여기까지 소개된 모든 성질들의 증명을 Humphreys (1972) 중 Section 8.3~8.5에서 볼 수 있다. [90] 책에서는 이 문서에서 나열된 순서대로 성질들을 소개하지 않았다. 사실 이 순서대로 증명이 이루어지기도 곤란한 것이, 예를 들어 (RS2)의 뒤 절반, (RS3), (RS4)는 (RS1) 이전의 내용들이 증명 혹은 증명되는 과정 중에서 보여지는 것들이다. 더군다나, 아래에 설명되어 있지만, 이들을 증명할 때 아래에 소개될 3차원 split 단순 리 대수들과 바일의 완전분해정리가 필수이다. [91] 사실 H α = 2 ( α , α ) T α H_\alpha = \frac{2}{(\alpha, \alpha)} T_\alpha H α ​ = ( α , α ) 2 ​ T α ​ 이다. [92] Humphreys (1972) 중 Section 14.2를 보자. [93] α \alpha α -string은 사실 (RS1)~(RS4)로부터 유도가 가능하다. 위에서는 다만 (RS1)~(RS4)들을 증명하는 과정에서 거꾸로 α \alpha α -string의 존재가 먼저 그리고 따로 밝혀진 다음 활용되었던 것이다. 한편 (RS4) 바로 다음에 소개된 성질은 안 그래 보여도 사실 주어진 리 대수에 상당히 의존적인 결과이며, 따라서 지금 소개하려는 추상화에 적합하지 않다. [94] 유클리드 기하학의 표현을 빌려, 말 그대로 닮음꼴이면 [95] 예를 들어 Humphreys (1972) 중 Chapter 18을 보자. 보통 널리 쓰이는 Serre의 방법을 소개하고 있다. [96] 예를 들어 Humphreys (1972) 중 Section 10.1을 보자. [97] 예를 들어 Humphreys (1972) 중 Theorem 10.3 (c)를 보자. [98] 예를 들어 Humphreys (1972) 중 Section 9.2를 보자. [99] RS3에 의하여 당연. [100] 여기까지의 내용들은 모두 Humphreys (1972) 중 Section 10.3에서 증명된다. [101] 사실 base들에 가해지는 바일 군의 작용이 simple하다는 것으로부터 짐작할 수 있는 내용이다. 주어진 base를 그 자신으로 보내고 Φ \Phi Φ 는 보존하되 항등사상은 아닌 사상을 찾을 수 있기 때문이다. 하지만 그마저도 매우 제한된다. 특히 아래에 소개될 Dynkin 도형으로부터 그 제약을 얻을 수 있다. 해당 변환들은 반드시 주어진 root system의 Dynkin 도형을 보존해야 하는데, 이 제약만으로도 가능한 해당 변환들이 얼마 되지 않는다는 것을 알 수 있다. 더군다나 Dynkin 도형을 보존하는 isometry들과 바일 군을 합성한 게 사실 주어진 root system의 '자기동형사상' 전부임을 또한 알 수 있다. 이 사실은 해당 유한 차원 (반)단순 리 대수의 자기동형사상과도 밀접한 연관을 가진다. 예를 들어 N. Jacobson (1962) 중 Chapter 9를 보자. [102] Humphreys (1972) 중 Section 14.1을 보라. [103] 이때 root system이 주어져 있어야 한다 는 것이 중요하다. 주어진 root system 없이 카르탕 행렬만 가지고 root system의 원소들을 찾는다든가 할 수 없다는 것이다. 지금 유일성을 따지는 중이지 존재성을 따지는 중이 아니라는 것으로 받아들여도 좋다. [104] ⟨ β , α ⟩ \langle \beta, \alpha \rangle ⟨ β , α ⟩ 의 정의에 의하여 당연. [105] ⟨ β , α ⟩ > 0 \langle \beta, \alpha \rangle > 0 ⟨ β , α ⟩ > 0 이면 β − α \beta - \alpha β − α 가 한 root이어야 하는 성질이 있다. 여기에 B2를 고려하면 ⟨ β , α ⟩ \langle \beta, \alpha \rangle ⟨ β , α ⟩ 가 양수일 수 없다는 것을 알 수 있다. [106] 역시 ⟨ β , α ⟩ \langle \beta, \alpha \rangle ⟨ β , α ⟩ 의 정의에 의하여 당연. [107] 물론 이러기 위한 필요충분조건은 ( e i , e j ) = 0 , − 1 2 , − 2 2 , − 3 2 (e_i, e_j) = 0, -\frac{1}{2}, -\frac{\sqrt{2}}{2}, -\frac{\sqrt{3}}{2} ( e i ​ , e j ​ ) = 0 , − 2 1 ​ , − 2 2 ​ ​ , − 2 3 ​ ​ 인 것이다. 참고로 이들은 각각 cos ⁡ π 2 \cos{\frac{\pi}{2}} cos 2 π ​ , cos ⁡ 2 π 3 \cos{\frac{2\pi}{3}} cos 3 2 π ​ , cos ⁡ 3 π 4 \cos{\frac{3\pi}{4}} cos 4 3 π ​ , cos ⁡ 5 π 6 \cos{\frac{5\pi}{6}} cos 6 5 π ​ 과 같다. [108] (적당한 재배열 하에서) 같은 ( e j , e j ) (e_j, e_j) ( e j ​ , e j ​ ) 행렬을 가지는 걸 찾기만 하면 된다. [109] 이와 같은 방식을 N. Jacobson이 처음 제시한 것으로 알려져 있다. [110] 이하 내용의 자세한 증명 및 내용은 Humphreys (1972) 중 Section 11.4를 보도록 하자. [111] 선의 개수가 아니다. 다르게 말하자면 i < j i < j i < j 이면서 ( e i , e j ) (e_i, e_j) ( e i ​ , e j ​ ) 가 0이 아닌 순서쌍 ( i , j ) (i, j) ( i , j ) 의 개수이다. [112] 사실 이때 ( α 1 , α 1 ) (\alpha_1, \alpha_1) ( α 1 ​ , α 1 ​ ) 은 전체 스케일만 결정짓는 값이다. 하지만 root system에서 전체 스케일은 전혀 중요하지 않다는 것을 이미 봤다. 이와 일맥상통하는 내용이라고 봐도 무방하다. [113] 예를 들어 B 1 B_1 B 1 ​ , C 1 C_1 C 1 ​ , D 1 D_1 D 1 ​ 은 A 1 A_1 A 1 ​ 과 겹치며, C 2 C_2 C 2 ​ 는 B 2 B_2 B 2 ​ 와 겹친다. [114] 명제의 역 혹은 이를 생각해도 좋다. [115] 기약 root system이 가져야 할 몇 가지 성질들을 이용하여 유클리드 공간의 적당한 격자 군에 포함된 특정 원소들을 적절히 고르는 방법을 설계한 다음, 여러 가능한 옵션들을 통하여 딘킨 도표들 하나하나에 대응하는 root system을 직접 구성하는 방식이다. [116] Cayley 대수라고도 불린다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

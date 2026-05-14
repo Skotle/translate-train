@@ -1,0 +1,294 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 푸리에 해석
+최근 수정 시각: 2026-04-26 15:16:01 [ [ [ ] [ [ 26 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 해석학(수학)
+- 삼각함수
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+삼각함수 · 쌍곡선함수
+Trigonometric Functions · Hyperbolic Functions
+[ 펼치기 · 접기 ] 기하학 | 평면기하학 ( 삼각형 · 삼각비 · 원 · 쌍곡선 )
+해석학 | 좌표계 · 복소평면 · 함수 ( 초월함수 · 특수함수 ) · 바이어슈트라스 분해 정리 · 미타그레플레르 정리 · 오일러 공식 · 푸리에 해석 ( 푸리에 변환 )
+삼각함수 | 사인곡선 ( 위상수학자의 사인곡선 ) · 역삼각함수 · 도함수 · 역도함수 · 관련 함수 · 삼각함수의 덧셈정리 · 삼각 적분 함수 · 구데르만 함수 · 프레넬 적분 함수 · 디리클레 함수 · 바이어슈트라스 함수 · 볼테라 함수 · 에어리 함수 · 야코비 타원 함수
+쌍곡선함수 | 현수선 · 쌍곡선 적분 함수 · 구데르만 함수
+
+1 . 개요 2 . 푸리에 급수 2.1 . 도입 2.2 . 푸리에 계수 2.3 . 홀함수와 짝함수 2.4 . 일반적인 주기 함수 2.4.1 . 다른 적분 구간 2.5 . 복소 푸리에 급수 2.5.1 . 파스발 정리 2.6 . 스튀름 리우빌 이론 2.7 . 병리적 함수 2.8 . 깁스 현상 3 . 푸리에 변환 3.1 . 편미분방정식 4 . 응용 4.1 . 공학 4.2 . 물리학
+
+1. 개요 [편집]
+푸리에 해석 (푸리에解析, Fourier analysis / 佛 : L'analyse harmonique)은 조제프 푸리에 가 정립한 수치해석 이론이다. 푸리에 해석은 발전을 거듭하면서 '조화해석학(harmonic analysis)'이라는 해석학의 새로운 분야로 탄생하게 된다.
+
+임의의 함수 를 삼각함수 또는 지수함수 [1] 의 일차결합으로 나타내는 것, 혹은 그 사고방식을 응용하는 해석학 의 한 분야. 선형대수학 의 언어를 빌리자면, 두 함수 f f f , g g g 의 내적
+
+⟨ f , g ⟩ = 1 P ∫ x 0 x 0 + P f ( x ) g ( x ) ‾ d x \displaystyle \langle f, \, g\rangle = \frac{1}{P}\int_{x_0}^{x_0+P} f(x) \overline{g(x)} dx ⟨ f , g ⟩ = P 1 ​ ∫ x 0 ​ x 0 ​ + P ​ f ( x ) g ( x ) ​ d x
+를 갖는 수 공간( L 2 L^2 L 2 공간)에 대한 정규 직교 기저(orthonormal basis)로서 삼각함수 혹은 지수함수 를 생각하는 것이다. 이러한 관점에서 함수 u k ( x ) = e i k x u_k(x)=e^{ikx} u k ​ ( x ) = e ik x 은 직교기저를 이룬다고 할 수 있다. 즉 다음의 관계가 성립한다. [2]
+
+⟨ u m , u n ⟩ = 1 2 π ∫ − π π e i m x e − i n x d x = 1 2 π ∫ − π π e i ( m − n ) x d x = δ m , n = { 1 ( m = n ) 0 ( m ≠ n ) \displaystyle \begin{aligned} \langle u_m, \, u_n \rangle &= \frac{1}{2\pi} \int_{-\pi}^{\pi} e^{imx}e^{-inx} dx \\&= \frac{1}{2\pi} \int_{-\pi}^{\pi} e^{i(m-n)x} dx \\&=\delta_{m,\,n} \\&=\begin{cases} 1 & (m=n) \\ 0 & (m \neq n) \end{cases} \end{aligned} ⟨ u m ​ , u n ​ ⟩ ​ = 2 π 1 ​ ∫ − π π ​ e im x e − in x d x = 2 π 1 ​ ∫ − π π ​ e i ( m − n ) x d x = δ m , n ​ = { 1 0 ​ ( m = n ) ( m  = n ) ​ ​
+따라서 { u k } k = − ∞ ∞ \left\{u_k\right\}_{k=-\infty}^{\infty} { u k ​ } k = − ∞ ∞ ​ 는 L 2 L^2 L 2 공간의 정규직교집합이 되고, 이 함수들의 선형 결합 으로 임의의 함수를 표현하는 것이 푸리에 급수의 기본적인 목적이다. 실제 응용되는 학문에 따라 상수 2 π 2\pi 2 π 를 무시하기도 하고, 또 e i k x e^{ikx} e ik x 대신 e i k ω x e^{ik\omega x} e ik ω x 과 같이 변수를 스케일링해서 사용하기도 한다.
+
+본 문서의 내용을 이해하려면 미적분학 , 선형대수학 , 해석학 모두 먼저 전반적으로 이해해야 한다. [3] 좀 더 심화된 내용을 원한다면 각종 전공 교재를 참고한다.
+
+푸리에 해석의 특징 으로는 함수 분해, 선형성, 대칭, 주기성 등의 특징이 존재하며, 전기 공학, 물리학 및 경제학을 포함하여 많은 과학 및 공학 분야에서 중요한 도구이기도 하다.
+
+2. 푸리에 급수 [편집]
+아래 문단들을 요약하면 아래와 같다. 주기가 T T T 이고, 구간 [ x 0 , x 0 + T ] [x_{0},\,x_{0}+T] [ x 0 ​ , x 0 ​ + T ] 의 함수가 주기적으로 반복되는 함수는 사인 함수와 코사인 함수의 합
+
+f ( x ) = ∑ n = 1 ∞ a n sin ⁡ ( n ω x ) + ∑ n = 1 ∞ b n cos ⁡ ( n ω x ) + b 0 ( ω = 2 π T ) \displaystyle f(x)=\sum_{n=1}^{\infty} a_{n}\sin{(n\omega x)}+ \sum_{n=1}^{\infty} b_{n}\cos{(n \omega x) }+b_{0} \quad \left( \omega=\frac{2\pi}{T}\right) f ( x ) = n = 1 ∑ ∞ ​ a n ​ sin ( nω x ) + n = 1 ∑ ∞ ​ b n ​ cos ( nω x ) + b 0 ​ ( ω = T 2 π ​ )
+으로 전개할 수 있고, 이 급수를 푸리에 급수 라 한다. 각 계수는 아래와 같고, 해당 계수를 푸리에 계수 라 한다.
+
+a n = 2 T ∫ x 0 x 0 + T f ( x ) sin ⁡ ( n ω x ) d x b n = 2 T ∫ x 0 x 0 + T f ( x ) cos ⁡ ( n ω x ) d x b 0 = 1 T ∫ x 0 x 0 + T f ( x ) d x \displaystyle \begin{aligned}a_{n}&=\frac{2}{T} \int_{x_{0}}^{x_{0}+T} f(x)\sin{(n \omega x)}\,{\rm d}x \\ b_{n}&=\frac{2}{T} \int_{x_{0}}^{x_{0}+T} f(x)\cos{(n \omega x)}\,{\rm d}x \\ b_{0}&=\frac{1}{T} \int_{x_{0}}^{x_{0}+T} f(x)\,{\rm d}x \end{aligned} a n ​ b n ​ b 0 ​ ​ = T 2 ​ ∫ x 0 ​ x 0 ​ + T ​ f ( x ) sin ( nω x ) d x = T 2 ​ ∫ x 0 ​ x 0 ​ + T ​ f ( x ) cos ( nω x ) d x = T 1 ​ ∫ x 0 ​ x 0 ​ + T ​ f ( x ) d x ​
+푸리에 급수는 복소 푸리에 급수
+f ( x ) = ∑ n = − ∞ ∞ c n e i n ω x \displaystyle f(x)=\sum_{n=-\infty}^{\infty} c_{n} e^{in \omega x} f ( x ) = n = − ∞ ∑ ∞ ​ c n ​ e inω x 으로 전개할 수 있으며, 계수는 아래와 같다.
+
+c n = 1 T ∫ x 0 x 0 + T f ( x ) e − i n ω x d x \displaystyle c_{n}=\frac{1}{T}\int_{x_{0}}^{x_{0}+T}f(x)\,e^{-in \omega x} \,{\rm d}x c n ​ = T 1 ​ ∫ x 0 ​ x 0 ​ + T ​ f ( x ) e − inω x d x
+
+2.1. 도입 [편집]
+푸리에 급수(Fourier series) 는 주기 함수를 사인 함수와 코사인 함수로 전개하는 것이다. 즉,
+
+f ( x ) = ∑ n = 0 ∞ a n sin ⁡ ( n x ) + ∑ n = 0 ∞ b n cos ⁡ ( n x ) ⋯ ( ∗ ) \displaystyle f(x)=\sum_{n=0}^{\infty} a_{n}\sin{(nx)}+ \sum_{n=0}^{\infty} b_{n}\cos{(nx)} \, \cdots \, (\ast) f ( x ) = n = 0 ∑ ∞ ​ a n ​ sin ( n x ) + n = 0 ∑ ∞ ​ b n ​ cos ( n x ) ⋯ ( ∗ )
+물론 더욱 중요한 문제는 위 급수가 수렴하는가이다. 흔히 다루는 함수가 조각적으로 미분 가능하고 유계인 경우는 위의 급수가 f ( x ) f(x) f ( x ) 의 좌극한과 우극한의 평균 으로 균등수렴 한다. [4]
+
+일반적인 주기 함수를 논하기 전에 주기가 2 π 2\pi 2 π 인 f ( x ) f(x) f ( x ) 를 고려하자. 사인 함수와 코사인 함수는 구간 [ − π , π ] [-\pi,\,\pi] [ − π , π ] 에서 다음과 같은 관계가 있다.(단, m m m , n n n 은 자연수이다.)
+
+1 2 π ∫ − π π sin ⁡ ( m x ) sin ⁡ ( n x ) d x = 1 2 δ m , n 1 2 π ∫ − π π cos ⁡ ( m x ) cos ⁡ ( n x ) d x = 1 2 δ m , n 1 2 π ∫ − π π sin ⁡ ( m x ) cos ⁡ ( n x ) d x = 0 \displaystyle \begin{aligned} \frac{1}{2 \pi}\int_{-\pi}^{\pi} \sin{(mx)}\sin{(nx)} \,{\rm d }x&=\frac{1}{2}\delta_{m,\,n} \\ \frac{1}{2 \pi}\int_{-\pi}^{\pi} \cos{(mx)}\cos{(nx)} \,{\rm d }x&=\frac{1}{2}\delta_{m,\,n} \\ \frac{1}{2 \pi}\int_{-\pi}^{\pi} \sin{(mx)}\cos{(nx)} \,{\rm d }x &=0 \end{aligned} 2 π 1 ​ ∫ − π π ​ sin ( m x ) sin ( n x ) d x 2 π 1 ​ ∫ − π π ​ cos ( m x ) cos ( n x ) d x 2 π 1 ​ ∫ − π π ​ sin ( m x ) cos ( n x ) d x ​ = 2 1 ​ δ m , n ​ = 2 1 ​ δ m , n ​ = 0 ​
+즉, sin ⁡ ( m x ) \sin{(mx)} sin ( m x ) 와 cos ⁡ ( n x ) \cos{(nx)} cos ( n x ) 집합이 위에 서술한 내적에 대해 서로 직교함을 나타낸다.
+
+2.2. 푸리에 계수 [편집]
+식 ( ∗ ) (\ast) ( ∗ ) 에 sin ⁡ ( m x ) \sin{(mx)} sin ( m x ) 를 곱하고, [ − π , π ] [-\pi,\,\pi] [ − π , π ] 에 대하여 적분하면 m ≠ 0 m \neq 0 m  = 0 일 때
+∫ − π π f ( x ) sin ⁡ ( m x ) d x = ∑ n = 0 ∞ a n ∫ − π π sin ⁡ ( n x ) sin ⁡ ( m x ) d x + ∑ n = 0 ∞ b n ∫ − π π cos ⁡ ( n x ) sin ⁡ ( m x ) d x = a 0 ⋅ 0 + ∑ n = 1 ∞ π a n δ n , m + b 0 ∑ n = 0 ∞ ∫ − π π sin ⁡ ( m x ) d x + ∑ n = 1 ∞ b n ⋅ 0 = π a m ( n ≥ 1 ) \displaystyle \begin{aligned} \int_{-\pi}^{\pi} f(x)\sin{(mx)}\,{\rm d}x&=\sum_{n=0}^{\infty} a_{n}\int_{-\pi}^{\pi} \sin{(nx)}\sin{(mx)}\,{\rm d} x+ \sum_{n=0}^{\infty} b_{n}\int_{-\pi}^{\pi} \cos{(nx)}\sin{(mx)}\,{\rm d} x \\&=a_{0}\cdot 0+\sum_{n=1}^{\infty} \pi a_{n} \delta_{n,\,m}+b_{0}\sum_{n=0}^{\infty} \int_{-\pi}^{\pi} \sin{(mx)}\,{\rm d} x +\sum_{n=1}^{\infty} b_{n}\cdot 0 \\&= \pi a_{m} \quad (n \geq 1) \end{aligned} ∫ − π π ​ f ( x ) sin ( m x ) d x ​ = n = 0 ∑ ∞ ​ a n ​ ∫ − π π ​ sin ( n x ) sin ( m x ) d x + n = 0 ∑ ∞ ​ b n ​ ∫ − π π ​ cos ( n x ) sin ( m x ) d x = a 0 ​ ⋅ 0 + n = 1 ∑ ∞ ​ π a n ​ δ n , m ​ + b 0 ​ n = 0 ∑ ∞ ​ ∫ − π π ​ sin ( m x ) d x + n = 1 ∑ ∞ ​ b n ​ ⋅ 0 = π a m ​ ( n ≥ 1 ) ​
+
+m m m , n n n 은 더미 변수이므로 상호 교환가능함에 따라
+
+a n = 1 π ∫ − π π f ( x ) sin ⁡ ( n x ) d x ( n ≥ 1 ) \displaystyle a_{n}=\frac{1}{\pi} \int_{-\pi}^{\pi} f(x)\sin{(nx)}\,{\rm d}x \quad (n \geq 1) a n ​ = π 1 ​ ∫ − π π ​ f ( x ) sin ( n x ) d x ( n ≥ 1 )
+
+식 ( ∗ ) (\ast) ( ∗ ) 에 cos ⁡ ( m x ) \cos{(mx)} cos ( m x ) 를 곱하여 구간 [ − π , π ] [-\pi,\,\pi] [ − π , π ] 에 대하여 적분하면 m ≠ 0 m \neq 0 m  = 0 일 때,
+∫ − π π f ( x ) cos ⁡ ( m x ) d x = ∑ n = 0 ∞ a n ∫ − π π sin ⁡ ( n x ) cos ⁡ ( m x ) d x + ∑ n = 0 ∞ b n ∫ − π π cos ⁡ ( n x ) cos ⁡ ( m x ) d x = ∑ n = 0 ∞ a n ⋅ 0 + b 0 ∫ − π π cos ⁡ ( m x ) d x + ∑ n = 1 ∞ π b n δ n , m = π b m ( n ≥ 1 ) \displaystyle \begin{aligned} \int_{-\pi}^{\pi} f(x)\cos{(mx)}\,{\rm d}x&=\sum_{n=0}^{\infty} a_{n}\int_{-\pi}^{\pi} \sin{(nx)}\cos{(mx)}\,{\rm d} x+ \sum_{n=0}^{\infty} b_{n}\int_{-\pi}^{\pi} \cos{(nx)}\cos{(mx)}\,{\rm d} x \\&=\sum_{n=0}^{\infty} a_{n} \cdot 0+b_{0} \int_{-\pi}^{\pi}\cos{(mx)} \,{\rm d} x \ + \sum_{n=1}^{\infty} \pi b_{n} \delta_{n,\,m} \\&= \pi b_{m} \quad (n \geq 1) \end{aligned} ∫ − π π ​ f ( x ) cos ( m x ) d x ​ = n = 0 ∑ ∞ ​ a n ​ ∫ − π π ​ sin ( n x ) cos ( m x ) d x + n = 0 ∑ ∞ ​ b n ​ ∫ − π π ​ cos ( n x ) cos ( m x ) d x = n = 0 ∑ ∞ ​ a n ​ ⋅ 0 + b 0 ​ ∫ − π π ​ cos ( m x ) d x + n = 1 ∑ ∞ ​ π b n ​ δ n , m ​ = π b m ​ ( n ≥ 1 ) ​
+
+m m m , n n n 은 더미 변수이므로 상호 교환가능함에 따라
+
+b n = 1 π ∫ − π π f ( x ) cos ⁡ ( n x ) d x ( n ≥ 1 ) \displaystyle b_{n}=\frac{1}{\pi} \int_{-\pi}^{\pi} f(x)\cos{(nx)}\,{\rm d}x \quad (n \geq 1) b n ​ = π 1 ​ ∫ − π π ​ f ( x ) cos ( n x ) d x ( n ≥ 1 )
+
+한편, 식 ( ∗ ) (\ast) ( ∗ ) 에서 sin ⁡ ( 0 x ) = 0 \sin{(0x)}=0 sin ( 0 x ) = 0 , cos ⁡ ( 0 x ) = 1 \cos{(0x)}=1 cos ( 0 x ) = 1 임과 위 결과를 이용하면
+
+f ( x ) = ∑ n = 1 ∞ a n sin ⁡ ( n x ) + ∑ n = 1 ∞ b n cos ⁡ ( n x ) + b 0 \displaystyle \begin{aligned} f(x)=\sum_{n=1}^{\infty} a_{n}\sin{(nx)}+\sum_{n=1}^{\infty} b_{n}\cos{(nx)}+b_{0} \end{aligned} f ( x ) = n = 1 ∑ ∞ ​ a n ​ sin ( n x ) + n = 1 ∑ ∞ ​ b n ​ cos ( n x ) + b 0 ​ ​
+로 정리할 수 있다. 양변을 [ − π , π ] [-\pi,\,\pi] [ − π , π ] 에 대해 적분하면,
+∫ − π π f ( x ) d x = ∑ n = 1 ∞ a n ∫ − π π sin ⁡ ( n x ) d x + ∑ n = 1 ∞ b n ∫ − π π cos ⁡ ( n x ) d x + b 0 ∫ − π π d x \displaystyle \begin{aligned} \int_{-\pi}^{\pi}f(x)\,{\rm d}x=\sum_{n=1}^{\infty} a_{n} \int_{-\pi}^{\pi} \sin{(nx)}\,{\rm d}x+\sum_{n=1}^{\infty} b_{n} \int_{-\pi}^{\pi} \cos{(nx)}\,{\rm d}x+b_{0 }\int_{-\pi}^{\pi} \,{\rm d}x \end{aligned} ∫ − π π ​ f ( x ) d x = n = 1 ∑ ∞ ​ a n ​ ∫ − π π ​ sin ( n x ) d x + n = 1 ∑ ∞ ​ b n ​ ∫ − π π ​ cos ( n x ) d x + b 0 ​ ∫ − π π ​ d x ​
+
+삼각함수의 주기성 때문에 우변의 제 1, 2항은 사라진다.
+
+∫ − π π f ( x ) d x = 2 π b 0 → b 0 = 1 2 π ∫ − π π f ( x ) d x \displaystyle \begin{aligned} \int_{-\pi}^{\pi}f(x)\,{\rm d}x=2\pi b_{0} \quad \to\quad b_{0}=\frac{1}{2\pi}\int_{-\pi}^{\pi}f(x)\,{\rm d}x \end{aligned} ∫ − π π ​ f ( x ) d x = 2 π b 0 ​ → b 0 ​ = 2 π 1 ​ ∫ − π π ​ f ( x ) d x ​
+이상의 결과를 정리하면 아래와 같다.
+
+f ( x ) = ∑ n = 1 ∞ a n sin ⁡ ( n x ) + ∑ n = 1 ∞ b n cos ⁡ ( n x ) + b 0 ( a n = 1 π ∫ − π π f ( x ) sin ⁡ ( n x ) d x b n = 1 π ∫ − π π f ( x ) cos ⁡ ( n x ) d x b 0 = 1 2 π ∫ − π π f ( x ) d x ) \displaystyle \begin{aligned} &f(x)=\sum_{n=1}^{\infty} a_{n}\sin{(nx)}+\sum_{n=1}^{\infty} b_{n}\cos{(nx)}+b_{0} \\ &\begin{pmatrix} \begin{aligned}a_{n}&=\frac{1}{\pi} \int_{-\pi}^{\pi} f(x)\sin{(nx)}\,{\rm d}x \\ b_{n}&=\frac{1}{\pi} \int_{-\pi}^{\pi} f(x)\cos{(nx)}\,{\rm d}x \\ b_{0}&=\frac{1}{2\pi}\int_{-\pi}^{\pi}f(x)\,{\rm d}x \end{aligned} \end{pmatrix}\end{aligned} ​ f ( x ) = n = 1 ∑ ∞ ​ a n ​ sin ( n x ) + n = 1 ∑ ∞ ​ b n ​ cos ( n x ) + b 0 ​ ​ a n ​ b n ​ b 0 ​ ​ = π 1 ​ ∫ − π π ​ f ( x ) sin ( n x ) d x = π 1 ​ ∫ − π π ​ f ( x ) cos ( n x ) d x = 2 π 1 ​ ∫ − π π ​ f ( x ) d x ​ ​ ​ ​
+위에서 구한 계수를 푸리에 계수(Fourier coefficients) 라 한다.
+
+아래의 그림은 적색 함수 에 대하여 n n n 차항까지 푸리에 급수로 전개했을 때의 모습을 나타낸다. n n n 이 증가할수록 본 함수와 유사해지는 것을 볼 수 있다.
+
+2.3. 홀함수와 짝함수 [편집]
+sin ⁡ ( n x ) \sin{(nx)} sin ( n x ) 는 홀함수, cos ⁡ ( n x ) \cos{(nx)} cos ( n x ) 는 짝함수이다. 홀함수와 짝함수의 곱은 홀함수, 홀함수와 홀함수의 곱은 짝함수, 짝함수와 짝함수의 곱은 짝함수이므로 f ( x ) f(x) f ( x ) 가 홀함수이냐 짝함수이냐에 따라 계수의 유형을 정할 수 있다. 왜냐하면, 해당 구간에 대한 홀함수의 정적분 값은 0이고, 짝함수에 대한 정적분 값은 [ 0 , π ] [0,\,\pi] [ 0 , π ] 에 대한 정적분 값의 2배가 되기 때문이다.
+
+f ( x ) f(x) f ( x ) 가 홀함수일 경우 위 사실을 적용하면,
+
+a n = 2 ⋅ 1 π ∫ 0 π f ( x ) sin ⁡ ( n x ) d x b n = 0 \displaystyle \begin{aligned} a_{n}&=2\cdot \frac{1}{\pi}\int_{0}^{\pi} f(x)\sin{(nx)}\,{\rm d}x \\ \displaystyle b_{n}&=0 \end{aligned} a n ​ b n ​ ​ = 2 ⋅ π 1 ​ ∫ 0 π ​ f ( x ) sin ( n x ) d x = 0 ​
+과 같이 사인 급수 항만 남는다.
+
+f ( x ) f(x) f ( x ) 가 짝함수일 경우 위 사실을 적용하면,
+
+a n = 0 b n = 2 ⋅ 1 π ∫ 0 π f ( x ) cos ⁡ ( n x ) d x \displaystyle \begin{aligned} a_{n}&=0 \\ \displaystyle b_{n}&=2\cdot \frac{1}{\pi}\int_{0}^{\pi} f(x)\cos{(nx)}\,{\rm d}x \end{aligned} a n ​ b n ​ ​ = 0 = 2 ⋅ π 1 ​ ∫ 0 π ​ f ( x ) cos ( n x ) d x ​
+이므로 코사인 급수 항만 남는다.
+
+이것은 당연한 결과이다. 홀함수의 경우 홀함수로만 전개되어야 홀함수 개형을 유지할 수 있으므로 홀함수인 사인 항만 남는 것이다. 짝함수의 경우에도 마찬가지의 이유이다.
+
+이 사실은 푸리에 급수의 계수를 구할 때, 함수의 개형을 먼저 봐서 판단 후 한 쪽의 계수만 구하면 됨을 시사하며, 아래의 일반적인 주기 함수에 대해서도 동일하게 성립한다.
+
+2.4. 일반적인 주기 함수 [편집]
+이번에는 주기가 T T T 인 함수인 f ( x ) f(x) f ( x ) 생각해보자. 이 경우에는
+
+t = T 2 π x \displaystyle t=\frac{T}{2\pi}x t = 2 π T ​ x
+의 치환을 이용하면,
+
+1 T ∫ − T / 2 T / 2 sin ⁡ ( m ω t ) sin ⁡ ( n ω t ) d t = 1 2 δ m , n 1 T ∫ − T / 2 T / 2 cos ⁡ ( m ω t ) cos ⁡ ( n ω t ) d t = 1 2 δ m , n 1 T ∫ − T / 2 T / 2 sin ⁡ ( m ω t ) cos ⁡ ( n ω t ) d t = 0 \displaystyle \begin{aligned} \frac{1}{T}\int_{-T/2}^{T/2} \sin{(m \omega t)}\sin{(n \omega t)} \,{\rm d }t &=\frac{1}{2}\delta_{m,\,n} \\ \frac{1}{T}\int_{-T/2}^{T/2} \cos{(m \omega t)}\cos{(n \omega t)} \,{\rm d }t &=\frac{1}{2}\delta_{m,\,n} \\ \frac{1}{T}\int_{-T/2}^{T/2} \sin{(m \omega t)}\cos{(n \omega t)} \,{\rm d }t &=0 \end{aligned} T 1 ​ ∫ − T /2 T /2 ​ sin ( mω t ) sin ( nω t ) d t T 1 ​ ∫ − T /2 T /2 ​ cos ( mω t ) cos ( nω t ) d t T 1 ​ ∫ − T /2 T /2 ​ sin ( mω t ) cos ( nω t ) d t ​ = 2 1 ​ δ m , n ​ = 2 1 ​ δ m , n ​ = 0 ​
+를 만족시킴을 확인할 수 있다. (단, ω = 2 π / T \omega=2\pi/T ω = 2 π / T )
+
+따라서 f ( x ) f(x) f ( x ) 를 다음과 같이 전개할 수 있다.
+
+f ( x ) = ∑ n = 1 ∞ a n sin ⁡ ( n ω x ) + ∑ n = 0 ∞ b n cos ⁡ ( n ω x ) ( a n = 2 T ∫ − T / 2 T / 2 f ( x ) sin ⁡ ( n ω x ) d x b n = 2 T ∫ − T / 2 T / 2 f ( x ) cos ⁡ ( n ω x ) d x b 0 = 1 T ∫ − T / 2 T / 2 f ( x ) d x ω = 2 π T ) \displaystyle \begin{aligned} & f(x)=\sum_{n=1}^{\infty} a_{n}\sin{(n\omega x)}+ \sum_{n=0}^{\infty} b_{n}\cos{(n \omega x) } \\ &\begin{pmatrix} \begin{aligned}a_{n}&=\frac{2}{T} \int_{-T/2}^{T/2} f(x)\sin{(n \omega x)}\,{\rm d}x \\ b_{n}&=\frac{2}{T} \int_{-T/2}^{T/2} f(x)\cos{(n \omega x)}\,{\rm d}x \\ b_{0}&=\frac{1}{T} \int_{-T/2}^{T/2} f(x)\,{\rm d}x \\ \omega&=\frac{2\pi}{T} \end{aligned} \end{pmatrix} \end{aligned} ​ f ( x ) = n = 1 ∑ ∞ ​ a n ​ sin ( nω x ) + n = 0 ∑ ∞ ​ b n ​ cos ( nω x ) ​ a n ​ b n ​ b 0 ​ ω ​ = T 2 ​ ∫ − T /2 T /2 ​ f ( x ) sin ( nω x ) d x = T 2 ​ ∫ − T /2 T /2 ​ f ( x ) cos ( nω x ) d x = T 1 ​ ∫ − T /2 T /2 ​ f ( x ) d x = T 2 π ​ ​ ​ ​ ​
+
+다음의 예는 주기가 4인 함수 f ( x ) f(x) f ( x ) 를 푸리에 급수로 전개해본 것이다.
+
+2.4.1. 다른 적분 구간 [편집]
+위의 푸리에 계수를 구할 때 적분 구간은 [ − T / 2 , T / 2 ] [-T/2,\,T/2] [ − T /2 , T /2 ] 를 사용하나, 실제의 경우 해당 구간이 복잡한 계산을 요하는 경우가 많다. 주기가 T T T 이면서 구간 [ x 0 , x 0 + T ] [x_{0},\,x_{0}+T] [ x 0 ​ , x 0 ​ + T ] 의 함수가 주기적으로 반복되는 주기 함수에 대한 푸리에 계수를 쉽게 구하려면 어떻게 해야할까? 놀랍게도 위에서 주어졌던 내적 관계가 구간 [ x 0 , x 0 + T ] [x_{0},\,x_{0}+T] [ x 0 ​ , x 0 ​ + T ] 에서도 성립한다. 즉,
+
+1 T ∫ x 0 x 0 + T sin ⁡ ( m x ) sin ⁡ ( n x ) d x = 1 2 δ m , n 1 T ∫ x 0 x 0 + T cos ⁡ ( m x ) cos ⁡ ( n x ) d x = 1 2 δ m , n 1 T ∫ x 0 x 0 + T sin ⁡ ( m x ) cos ⁡ ( n x ) d x = 0 \displaystyle \begin{aligned} \frac{1}{T}\int_{x_{0}}^{x_{0}+T} \sin{(mx)}\sin{(nx)} \,{\rm d }x&=\frac{1}{2}\delta_{m,\,n} \\ \frac{1}{T}\int_{x_{0}}^{x_{0}+T} \cos{(mx)}\cos{(nx)} \,{\rm d }x&=\frac{1}{2}\delta_{m,\,n} \\ \frac{1}{T}\int_{x_{0}}^{x_{0}+T} \sin{(mx)}\cos{(nx)} \,{\rm d }x &=0 \end{aligned} T 1 ​ ∫ x 0 ​ x 0 ​ + T ​ sin ( m x ) sin ( n x ) d x T 1 ​ ∫ x 0 ​ x 0 ​ + T ​ cos ( m x ) cos ( n x ) d x T 1 ​ ∫ x 0 ​ x 0 ​ + T ​ sin ( m x ) cos ( n x ) d x ​ = 2 1 ​ δ m , n ​ = 2 1 ​ δ m , n ​ = 0 ​
+따라서 해당 구간 또한 계수를 구할 때 쓸 수 있고, 그 결과는 아래와 같다.
+
+f ( x ) = ∑ n = 1 ∞ a n sin ⁡ ( n ω x ) + ∑ n = 0 ∞ b n cos ⁡ ( n ω x ) ( a n = 2 T ∫ x 0 x 0 + T f ( x ) sin ⁡ ( n ω x ) d x b n = 2 T ∫ x 0 x 0 + T f ( x ) cos ⁡ ( n ω x ) d x b 0 = 1 T ∫ x 0 x 0 + T f ( x ) d x ) \displaystyle \begin{aligned} & f(x)=\sum_{n=1}^{\infty} a_{n}\sin{(n\omega x)}+ \sum_{n=0}^{\infty} b_{n}\cos{(n \omega x) } \\ &\begin{pmatrix} \begin{aligned}a_{n}&=\frac{2}{T} \int_{x_{0}}^{x_{0}+T} f(x)\sin{(n \omega x)}\,{\rm d}x \\ b_{n}&=\frac{2}{T} \int_{x_{0}}^{x_{0}+T} f(x)\cos{(n \omega x)}\,{\rm d}x \\ b_{0}&=\frac{1}{T} \int_{x_{0}}^{x_{0}+T} f(x)\,{\rm d}x \end{aligned} \end{pmatrix} \end{aligned} ​ f ( x ) = n = 1 ∑ ∞ ​ a n ​ sin ( nω x ) + n = 0 ∑ ∞ ​ b n ​ cos ( nω x ) ​ a n ​ b n ​ b 0 ​ ​ = T 2 ​ ∫ x 0 ​ x 0 ​ + T ​ f ( x ) sin ( nω x ) d x = T 2 ​ ∫ x 0 ​ x 0 ​ + T ​ f ( x ) cos ( nω x ) d x = T 1 ​ ∫ x 0 ​ x 0 ​ + T ​ f ( x ) d x ​ ​ ​ ​
+
+2.5. 복소 푸리에 급수 [편집]
+푸리에 급수를 오일러 공식
+
+e i x = cos ⁡ x + i sin ⁡ x e^{ix}=\cos{x}+i\sin{x} e i x = cos x + i sin x
+을 이용하여 좀 더 간단한 꼴로 바꾸어 보자.
+
+sin ⁡ x = e i x − e − i x 2 i cos ⁡ x = e i x + e − i x 2 \displaystyle \begin{aligned} \sin{x}&=\frac{e^{ix}-e^{-ix}}{2i} \\ \cos{x}&=\frac{e^{ix}+e^{-ix}}{2} \end{aligned} sin x cos x ​ = 2 i e i x − e − i x ​ = 2 e i x + e − i x ​ ​
+를 이용하면, f ( x ) = ∑ n = 1 ∞ a n ⋅ e i n ω x − e − i n ω x 2 i + ∑ n = 1 ∞ b n ⋅ e i n ω x + e − i n ω x 2 + b 0 = ∑ n = 1 ∞ 1 2 ( b n − i a n ) e i n ω x + ∑ n = 1 ∞ 1 2 ( b n + i a n ) e − i n ω x + b 0 \displaystyle \begin{aligned} f(x)&=\sum_{n=1}^{\infty} a_{n} \cdot \frac{e^{i n \omega x}-e^{-i n \omega x}}{2i} + \sum_{n=1}^{\infty} b_{n} \cdot \frac{e^{in \omega x}+e^{-in \omega x}}{2}+b_{0} \\&=\sum_{n=1}^{\infty} \frac{1}{2}(b_{n}-ia_{n})e^{i n\omega x}+\sum_{n=1}^{\infty} \frac{1}{2}(b_{n}+ia_{n})e^{-i n\omega x}+b_{0} \end{aligned} f ( x ) ​ = n = 1 ∑ ∞ ​ a n ​ ⋅ 2 i e inω x − e − inω x ​ + n = 1 ∑ ∞ ​ b n ​ ⋅ 2 e inω x + e − inω x ​ + b 0 ​ = n = 1 ∑ ∞ ​ 2 1 ​ ( b n ​ − i a n ​ ) e inω x + n = 1 ∑ ∞ ​ 2 1 ​ ( b n ​ + i a n ​ ) e − inω x + b 0 ​ ​
+
+위 결과를 다음과 같이 쓸 수 있다.
+
+f ( x ) = ∑ n = − ∞ ∞ c n e i n ω x ( c n = 1 2 ( b n − i a n ) ( n ≥ 1 ) c 0 = b 0 c − n = 1 2 ( b n + i a n ) ( n ≥ 1 ) ) \displaystyle \begin{aligned} &f(x)=\sum_{n=-\infty}^{\infty} c_{n} e^{in \omega x} \\ &\begin{pmatrix} \begin{aligned} c_{n}&=\frac{1}{2}(b_{n}-ia_{n}) \quad (n \geq 1) \\ c_{0}&=b_{0} \\ c_{-n}&=\frac{1}{2}(b_{n}+ia_{n}) \quad (n \geq 1) \end{aligned} \end{pmatrix} \end{aligned} ​ f ( x ) = n = − ∞ ∑ ∞ ​ c n ​ e inω x ​ c n ​ c 0 ​ c − n ​ ​ = 2 1 ​ ( b n ​ − i a n ​ ) ( n ≥ 1 ) = b 0 ​ = 2 1 ​ ( b n ​ + i a n ​ ) ( n ≥ 1 ) ​ ​ ​ ​
+n ≥ 1 n \geq 1 n ≥ 1 일 때, 각 계수를 구해보면, c n = 1 2 2 T [ ∫ − T / 2 T / 2 f ( x ) ⋅ [ cos ⁡ ( n ω x ) − i sin ⁡ ( n ω x ) ] d x ] = 1 T ∫ − T / 2 T / 2 f ( x ) e − i n ω x d x c 0 = 1 T ∫ − T / 2 T / 2 f ( x ) d x = 1 T ∫ − T / 2 T / 2 f ( x ) e i ⋅ 0 ⋅ ω x d x c − n = 1 2 2 T [ ∫ − T / 2 T / 2 f ( x ) ⋅ [ cos ⁡ ( n ω x ) + i sin ⁡ ( n ω x ) ] d x ] = 1 T ∫ − T / 2 T / 2 f ( x ) e + i n ω x d x = 1 T ∫ − T / 2 T / 2 f ( x ) e − i ( − n ) ω x d x \displaystyle \begin{aligned} c_{n}&= \frac{1}{2}\frac{2}{T} \left[ \int_{-T/2}^{T/2} f(x) \cdot [\cos{(n \omega x)}-i\sin{(n \omega x)}]\,{\rm d}x \right] \\&=\frac{1}{T}\int_{-T/2}^{T/2}f(x)e^{-in \omega x} \,{\rm d}x \\ \\ c_{0}&=\frac{1}{T} \int_{-T/2}^{T/2} f(x)\,{\rm d}x \\ &=\frac{1}{T} \int_{-T/2}^{T/2} f(x)e^{i\cdot 0 \cdot \omega x}\,{\rm d}x \\ \\ c_{-n}&= \frac{1}{2}\frac{2}{T} \left[ \int_{-T/2}^{T/2} f(x) \cdot [\cos{(n \omega x)}+i\sin{(n \omega x)}]\,{\rm d}x \right] \\&=\frac{1}{T}\int_{-T/2}^{T/2}f(x)e^{+in \omega x} \,{\rm d}x \\&=\frac{1}{T}\int_{-T/2}^{T/2}f(x)e^{-i(-n) \omega x} \,{\rm d}x \end{aligned} c n ​ c 0 ​ c − n ​ ​ = 2 1 ​ T 2 ​ [ ∫ − T /2 T /2 ​ f ( x ) ⋅ [ cos ( nω x ) − i sin ( nω x ) ] d x ] = T 1 ​ ∫ − T /2 T /2 ​ f ( x ) e − inω x d x = T 1 ​ ∫ − T /2 T /2 ​ f ( x ) d x = T 1 ​ ∫ − T /2 T /2 ​ f ( x ) e i ⋅ 0 ⋅ ω x d x = 2 1 ​ T 2 ​ [ ∫ − T /2 T /2 ​ f ( x ) ⋅ [ cos ( nω x ) + i sin ( nω x ) ] d x ] = T 1 ​ ∫ − T /2 T /2 ​ f ( x ) e + inω x d x = T 1 ​ ∫ − T /2 T /2 ​ f ( x ) e − i ( − n ) ω x d x ​
+
+이 결과는 종합하여 아래와 같이 쓸 수 있다.
+
+c n = 1 T ∫ − T / 2 T / 2 f ( x ) e − i n ω x d x \displaystyle \begin{aligned} c_{n}=\frac{1}{T}\int_{-T/2}^{T/2}f(x)e^{-in \omega x} \,{\rm d}x \end{aligned} c n ​ = T 1 ​ ∫ − T /2 T /2 ​ f ( x ) e − inω x d x ​
+적분 구간은 '다른 적분 구간' 문단에서도 다뤘듯이 다음과 같이 쓸 수도 있다.
+
+c n = 1 T ∫ x 0 x 0 + T f ( x ) e − i n ω x d x \displaystyle \begin{aligned} c_{n}=\frac{1}{T}\int_{x_{0}}^{x_{0}+T}f(x)e^{-in \omega x} \,{\rm d}x \end{aligned} c n ​ = T 1 ​ ∫ x 0 ​ x 0 ​ + T ​ f ( x ) e − inω x d x ​
+이 결과는 f ( x ) f(x) f ( x ) 를 전개할 때 쓰인 정규 직교 기저를 지수함수 로 바꿀 수 있음을 의미하는데, 실제로 구간 [ − T / 2 , T / 2 ] [-T/2,\,T/2] [ − T /2 , T /2 ] 에서 지수 함수 e i n ω x e^{in \omega x} e inω x 은 직교한다.
+
+2.5.1. 파스발 정리 [편집]
+복소 푸리에 급수를 활용하여 또 하나의 흥미로운 정리를 이끌어낼 수 있다. 푸리에 급수로 전개 가능한 두 함수 f ( x ) f(x) f ( x ) , g ( x ) g(x) g ( x ) 를 고려하자. 이때, 아래와 같이 전개 가능할 것이다.
+
+f ( x ) = ∑ n = − ∞ ∞ c n e i n ω x g ( x ) = ∑ n = − ∞ ∞ d n e i n ω x \begin{aligned} f(x)&=\sum_{n=-\infty}^{\infty} c_{n} e^{i n \omega x} \\ g(x)&=\sum_{n=-\infty}^{\infty} d_{n} e^{i n \omega x} \end{aligned} f ( x ) g ( x ) ​ = n = − ∞ ∑ ∞ ​ c n ​ e inω x = n = − ∞ ∑ ∞ ​ d n ​ e inω x ​
+g ( x ) g(x) g ( x ) 에 복소 켤레를 취하여 f ( x ) f(x) f ( x ) 에 곱하면,
+
+f ( x ) g ( x ) ‾ = ∑ n = − ∞ ∞ c n g ( x ) ‾ e i n ω x \begin{aligned} f(x)\overline{g(x)}&=\sum_{n=-\infty}^{\infty} c_{n} \overline{g(x)} e^{in \omega x} \end{aligned} f ( x ) g ( x ) ​ ​ = n = − ∞ ∑ ∞ ​ c n ​ g ( x ) ​ e inω x ​
+양변을 T T T 로 나누고, [ x 0 , x 0 + T ] [x_{0},\,x_{0}+T] [ x 0 ​ , x 0 ​ + T ] 구간에 대하여 적분하면, 1 T ∫ x 0 x 0 + T f ( x ) g ( x ) ‾ d x = ∑ n = − ∞ ∞ c n ⋅ 1 T ∫ x 0 x 0 + T g ( x ) ‾ e i n ω x d x = ∑ n = − ∞ ∞ c n ⋅ 1 T ∫ x 0 x 0 + T g ( x ) e − i n ω x d x ‾ = ∑ n = − ∞ ∞ c n d n ‾ \begin{aligned} \frac{1}{T} \int_{x_{0}}^{x_{0}+T} f(x)\overline{g(x)}\,{\rm d}x&=\sum_{n=-\infty}^{\infty} c_{n} \cdot \frac{1}{T} \int_{x_{0}}^{x_{0}+T} \overline{g(x)} e^{in \omega x} \,{\rm d}x \\ &=\sum_{n=-\infty}^{\infty} c_{n} \cdot \overline{ \frac{1}{T} \int_{x_{0}}^{x_{0}+T} g(x) e^{-in \omega x} \,{\rm d}x } \\ &=\sum_{n=-\infty}^{\infty} c_{n} \overline{d_{n}} \end{aligned} T 1 ​ ∫ x 0 ​ x 0 ​ + T ​ f ( x ) g ( x ) ​ d x ​ = n = − ∞ ∑ ∞ ​ c n ​ ⋅ T 1 ​ ∫ x 0 ​ x 0 ​ + T ​ g ( x ) ​ e inω x d x = n = − ∞ ∑ ∞ ​ c n ​ ⋅ T 1 ​ ∫ x 0 ​ x 0 ​ + T ​ g ( x ) e − inω x d x ​ = n = − ∞ ∑ ∞ ​ c n ​ d n ​ ​ ​
+
+f ( x ) = g ( x ) f(x)=g(x) f ( x ) = g ( x ) 라면, 아래와 같은 식을 얻는다.
+
+1 T ∫ x 0 x 0 + T ∣ f ( x ) ∣ 2 d x = ∑ n = − ∞ ∞ ∣ c n ∣ 2 \begin{aligned} \frac{1}{T} \int_{x_{0}}^{x_{0}+T} |f(x)|^{2}\,{\rm d}x&=\sum_{n=-\infty}^{\infty} |c_{n}|^{2} \end{aligned} T 1 ​ ∫ x 0 ​ x 0 ​ + T ​ ∣ f ( x ) ∣ 2 d x ​ = n = − ∞ ∑ ∞ ​ ∣ c n ​ ∣ 2 ​
+이를 파스발 정리(Parseval’s theorem) 라 한다.
+
+이것을 이용하면 쉽게 구할 수 없던 급수의 합을 쉽게 구할 수 있다.
+[급수의 예]
+파스발 정리를 사용해서 ∑ n = 1 ∞ n − 4 \sum_{n=1}^{\infty} n^{-4} ∑ n = 1 ∞ ​ n − 4 [5] 를 구해보자. [ − 1 / 2 , 1 / 2 ] [-1/2,\,1/2] [ − 1/2 , 1/2 ] 에서 정의된 f ( x ) = x 2 f(x)=x^{2} f ( x ) = x 2 에 대하여 파스발 정리를 사용하면, ∫ − 1 / 2 1 / 2 ∣ x 2 ∣ 2 d x = ∑ n = − ∞ ∞ ∣ c n ∣ 2 \displaystyle \int_{-1/2}^{1/2} |x^{2}|^{2}\,{\rm d}x=\sum_{n=-\infty}^{\infty} |c_{n}|^{2} ∫ − 1/2 1/2 ​ ∣ x 2 ∣ 2 d x = n = − ∞ ∑ ∞ ​ ∣ c n ​ ∣ 2
+
+한편, c n = ∫ − 1 / 2 1 / 2 x 2 e − 2 π i n x d x = { cos ⁡ ( n π ) 2 n 2 π 2 ( n ≠ 0 ) 1 12 ( n = 0 ) ∴ ∣ c n ∣ 2 = { cos ⁡ 2 ( n π ) 4 n 4 π 4 ( n ≠ 0 ) 1 144 ( n = 0 ) \displaystyle \begin{aligned} c_{n}&=\int_{-1/2}^{1/2} x^{2}e^{-2\pi in x}\,{\rm d} x \\&=\begin{cases}\dfrac{\cos{(n \pi)}}{2n^{2}\pi^{2}} & (n \neq 0) \\ \dfrac{1}{12} & (n =0)\end{cases}\\ \\ \therefore |c_{n}|^{2}&=\begin{cases}\dfrac{\cos^{2}{(n \pi)}}{4n^{4}\pi^{4}} & (n \neq 0) \\ \dfrac{1}{144} & (n =0)\end{cases} \end{aligned} c n ​ ∴ ∣ c n ​ ∣ 2 ​ = ∫ − 1/2 1/2 ​ x 2 e − 2 π in x d x = ⎩ ⎨ ⎧ ​ 2 n 2 π 2 cos ( nπ ) ​ 12 1 ​ ​ ( n  = 0 ) ( n = 0 ) ​ = ⎩ ⎨ ⎧ ​ 4 n 4 π 4 cos 2 ( nπ ) ​ 144 1 ​ ​ ( n  = 0 ) ( n = 0 ) ​ ​
+
+이에 따라 ∑ n = − ∞ ∞ ∣ c n ∣ 2 = 1 144 + 1 4 π 4 ∑ n = − ∞ − 1 cos ⁡ 2 ( n π ) n 4 + 1 4 π 4 ∑ n = 1 ∞ cos ⁡ 2 ( n π ) n 4 = 1 144 + 2 ⋅ 1 4 π 4 ∑ n = 1 ∞ 1 n 4 \displaystyle \begin{aligned} \sum_{n=-\infty}^{\infty} |c_{n}|^{2}&=\frac{1}{144}+\frac{1}{4\pi^{4}}\sum_{n=-\infty}^{-1} \frac{\cos^{2}{(n \pi)}}{n^{4}}+\frac{1}{4\pi^{4}}\sum_{n=1}^{\infty} \frac{\cos^{2}{(n \pi)}}{n^{4}} \\&=\frac{1}{144} +2 \cdot \frac{1}{4\pi^{4}}\sum_{n=1}^{\infty} \frac{1}{n^{4}} \end{aligned} n = − ∞ ∑ ∞ ​ ∣ c n ​ ∣ 2 ​ = 144 1 ​ + 4 π 4 1 ​ n = − ∞ ∑ − 1 ​ n 4 cos 2 ( nπ ) ​ + 4 π 4 1 ​ n = 1 ∑ ∞ ​ n 4 cos 2 ( nπ ) ​ = 144 1 ​ + 2 ⋅ 4 π 4 1 ​ n = 1 ∑ ∞ ​ n 4 1 ​ ​
+
+이고, 맨 위 식에 대입하면 1 80 = 1 144 + 1 2 π 4 ∑ n = 1 ∞ 1 n 4 → ∑ n = 1 ∞ 1 n 4 = π 4 90 \displaystyle \begin{aligned} \frac{1}{80}= \frac{1}{144} + \frac{1}{2\pi^{4}}\sum_{n=1}^{\infty} \frac{1}{n^{4}} \, \to \, \sum_{n=1}^{\infty} \frac{1}{n^{4}}=\frac{\pi^{4}}{90} \end{aligned} 80 1 ​ = 144 1 ​ + 2 π 4 1 ​ n = 1 ∑ ∞ ​ n 4 1 ​ → n = 1 ∑ ∞ ​ n 4 1 ​ = 90 π 4 ​ ​
+
+이외에도 [ s i n c ( x ) ] 4 [{\rm sinc}(x) ]^4 [ sinc ( x ) ] 4 의 이상적분값 [6] 을 구하는 등 여러모로 쓰임새가 많다.
+
+2.6. 스튀름 리우빌 이론 [편집]
+일반적으로 2계 선형 상미분 방정식의 해로는 비슷한 일을 할 수 있는데 르장드르 함수 , 베셀 함수 , 에르미트 함수 , 라게르 함수 등이 있다.
+
+2.7. 병리적 함수 [편집]
+일부 병리적 함수 의 정의가 푸리에 급수를 이용한다. 대표적으로 완전 불연속 함수의 일종인 디리클레 함수 , 연속이지만 어디서든 미분이 불가능한 함수로 최초로 제시된 바이어슈트라스 함수 가 있다.
+
+2.8. 깁스 현상 [편집]
+수학 이론상으로는 무한히 많은 사인파를 합성하면 어떤 비주기함수든지 푸리에 급수로 근사할 수 있다. 그러나 현실에서는 사인파를 무한히 중첩시키는 것이 구현하기 어렵기 때문에 적당히 많은 양의 신호를 중첩시키는 식(=푸리에 급수의 부분합)으로 구현하고 이때 불연속점 부근에서 신호가 튀는(overshoot) 진동현상이 발생하는데, 이를 깁스 현상(Gibbs phenomenon)이라고 한다.
+
+3. 푸리에 변환 [편집]
+자세한 내용은 푸리에 변환 문서를 참고하십시오.
+함수 h ( x ) h(x) h ( x ) 에 대해 F [ h ] \mathcal{F}[h] F [ h ] [7] 라는 함수를
+
+F [ h ] ( t ) = ∫ − ∞ ∞ h ( x ) e − 2 π i t x d x \displaystyle \mathcal{F}[h](t) = \int_{-\infty}^{\infty} h(x) e^{-2 \pi itx} \,{\rm d}x F [ h ] ( t ) = ∫ − ∞ ∞ ​ h ( x ) e − 2 π i t x d x [8] [9]
+로 정의하고, 위 변환 F \mathcal{F} F 를 푸리에 변환이라 정의한다. [10]
+
+역시 위의 식을 언제 정의할 수 있는지가 문제가 된다. 예를 들어 위에서 h ( x ) = 1 h(x)=1 h ( x ) = 1 인 경우는 적분이 전혀 의미가 없다. 따라서 보통 변환의 정의역과 공역을 먼저 정해준다. [11] 자주 쓰이는 정의역과 공역의 조합은 (정의역 → \to → 공역) L 1 → L ∞ L^{1} \to L^{\infty} L 1 → L ∞ , L 2 → L 2 L^{2} \to L^{2} L 2 → L 2 , S → S S \to S S → S 등이 있다. 여기서 L p L^{p} L p 공간은 적분
+
+∫ ∣ h ( x ) ∣ p d x \displaystyle \int |h(x)|^p\,{\rm d}x ∫ ∣ h ( x ) ∣ p d x
+가 존재하는 함수들의 공간, L ∞ L^\infty L ∞ 는 유계함수들의 공간, S S S 는 슈바르츠 공간(Schwartz space)으로 모든 도함수들이 ( x x x 가 커짐에 따라) 빠르게 감소하는 공간이다.
+
+이 푸리에 변환은 라플라스 변환 과 매우 비슷하다. 당장 위의 t t t 에 i s is i s 를 넣어보면 알 수 있다. 함수의 미분은 푸리에 변환을 하면 변수와의 곱이 되고, 곱은 합성곱(convolution)으로 옮겨진다. 따라서 미분방정식의 라플라스 변환 풀이는 그대로 푸리에 변환 풀이로 고칠 수 있다. 하지만 라플라스 변환보다 훨씬 좋은 점은 역변환이 매우 쉽다는 것이다. 바로 자기 자신이 역변환이다. [12] [13]
+
+푸리에 변환의 역변환
+
+F − 1 [ g ] ( x ) = ∈ g ( t ) e 2 π i t x d t \displaystyle \mathcal{F}^{-1} [g](x) = \in g(t)e^{2\pi itx} \,{\rm d}t F − 1 [ g ] ( x ) =∈ g ( t ) e 2 π i t x d t
+에서 g = F [ h ] g = \mathcal{F}[h] g = F [ h ] 로 놓으면
+
+h ( x ) = ∫ F [ h ] e 2 π i t x d t \displaystyle h(x) = \int \mathcal{F}[h]e^{2\pi itx} \,{\rm d}t h ( x ) = ∫ F [ h ] e 2 π i t x d t
+가 되고, 이는 h ( x ) h(x) h ( x ) 를 지수함수 e 2 π i t x e^{2\pi itx} e 2 π i t x 들의 '연속적 일차결합'으로 나타낼 수 있다는 의미이다. 이러한 취지에서 푸리에 급수와 푸리에 변환을 같이 묶어 푸리에 해석이라 말할 수 있는 것.
+
+3.1. 편미분방정식 [편집]
+미분방정식 , 특히 편미분방정식의 해법에 매우 중요한 기법이다. [14] 편미분 항목에도 나와 있듯이 해석해를 도출할 수 있는 선형 편미분방정식은 일반적으로 변수분리법을 통해 편미분방정식을 상미분방정식 여러 개의 곱으로 표현한다. 문제는 편미분방정식이 경계값 문제이고, 분리해서 도출해낸 상미분방정식의 해가 대부분 sin, cos의 조합으로 표현되는 것부터 시작된다. 이 경우 경계값을 만족시키게 되는 해가 일정 주기로 무한 개가 쏟아져 나오게 되는 것.
+
+이렇게 무한급수 형태로 나오는 사인, 코사인 조합은 바로 푸리에 급수로 나타낼 수 있으며, 여기에서 앞서 설명한 사인/코사인 직교성질을 이용해 잘 정리해 주면 경계조건을 만족시키는 편미분방정식의 해가 도출되는 것이다. 한편 앞서도 말했듯이 무한급수 형태로 해가 도출되기 때문에, 속칭 '모드' 내지는 '고유값(eigenvalue)' [15] 이라 불리는 해의 특정한 양상이 뽑아져 나올 수 있어 편미분방정식이 기술하는 특정 물리현상의 양상을 손쉽게 수식화할 수 있게 된다.
+
+또 주로 사용되는 다른 곳은 유체역학 이다. 나비에-스토크스 방정식 항목에 나와있듯, 이 방정식은 풀기 어려운 편미분방정식의 형태이지만 몇가지 물리적 조건을 더해서 위 방정식을 푸리에 해석을 통해 컴퓨터로 계산해내는 방법이 많이 쓰인다. 사실상 유체의 몇가지 단순한 경우를 제외하고는 거의 대부분 푸리에 해석을 이용해서 계산해낸다고 보면 된다. [16] [17]
+
+이렇게 중요한 도구다 보니 여기저기에 많이 불려나와 써먹히는 공학인들의 필수요소 지만 배우기 까다롭다. 그렇기에 대개의 경우, 푸리에 급수를 본격적으로 활용하기 이전에 미리 기본 지식을 익힐 수 있도록 하기 위해 공학수학이나 미분방정식 등의 별도의 과목을 개설하는 것으로 학사과정이 편성되어 있다.
+
+4. 응용 [편집]
+
+4.1. 공학 [편집]
+특정 신호에서 푸리에 해석의 결과는 주파수 영역에서의 신호 관찰이라고 할 수 있다. 이 결과와 가장 유사한 모습을 볼 수 있는 것이 이퀄라이저 인데, 이퀄라이저에서 표시하는 것처럼 어떤 신호는 어떤 주파수 성분을 갖는다. 반대로 푸리에 역변환을 이용하면 특정한 주파수 성분의 구성을 갖는 신호를 만들 수 있는데, 이를 이용하여 특정 주파수 대역의 크기를 줄이거나 키우는 등의 디지털 필터 동작을 구성할 수 있다.
+
+신호 처리 그 자체인 통신공학에서도 사용하는데, 푸리에 변환을 사용해 시스템과 결정론적 신호(deterministic signal)를 주파수 영역에서 분석할 뿐만 아니라, 광의의 정상성(wide-sense stationarity)이 성립하는 확률적 신호의 경우 자기상관함수(autocorrelation function)를 푸리에 변환해서 스펙트럼에 대한 정보를 얻을 수 있다. [18] 이를 이용한 통신의 신호 분석 및 처리는 통신공학에서 기본 중의 기본이며, 아예 송신단에서 주파수 영역에서 보았을 때 디지털 데이터를 만든 다음 고속 푸리에 역변환을(IFFT) 하고 적절히 가공해서 전송하면, 수신단에서 고속 푸리에 변환을(FFT) 해서 데이터를 받는데, 이것이 바로 현재의 LTE, 무선랜, 디지털 방송 등에서 사용하는 OFDM(직교 주파수 분할 다중화, orthogonal frequency division multiplexing)이다.
+
+4.2. 물리학 [편집]
+양자역학 과 고체물리학 이후 모든 물리학의 수학적 근거라고 할 수 있다. 임의의 공간에서의 모든 파동함수 는 반드시 빈 공간의 슈뢰딩거 방정식 의 해인 평면파 꼴의 선형 결합으로 표현이 가능하며, 이를 푸리에 공간에서 해석할 시 정량적으로 기술이 가능하기 때문. 여기에서 한 발 더 나아가서, 입자의 위치 및 시간에 대응하는 파동벡터 및 진동수를 입자-파동 이중성의 수학적 근거로 인정하여 정량적으로 기술한다. 학부 양자역학을 수강할 때 입자와 파동의 중간적인 형태로서 'wave packet'을 예제로 풀어보게 된다.
+
+고체물리학에서는 아예 주기성을 갖고 반복되는 계를 풀게 되는데, 이 때의 파동함수를 Bloch wave라 부르며 파동벡터가 슈뢰딩거 방정식을 만족시키는 좋은 양자수가 된다. 이에 대응하는 수많은 물리적 예제들을 배우는 학문이 고체물리학이라 해도 과언이 아닐 정도. [ 하나로퀵남동구용달
+www.1577-3410.com
+[ [ 퀵서비스접수 ] [ 퀵서비스안내 ] [ 쉽고빠른배달 ] [ 하나로퀵배송 ] ]
+퀵배달 퀵배송은 오토바이 다마스 라보 등 이용 지정된 시간 내에 물품을 전달긴급퀵
+
+] | [ 한국로지스 !친절배송!
+www.18332442.co.kr v-if
+한국로지스, 포장이사, 리프트화물, 용달, 전국당일특송 365일 가능합니다.
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+]
+
+[1] 이 둘은 서로 큰 관련성이 있다. 오일러 공식 참고. [2] 이때 δ m , n \delta_{m, n} δ m , n ​ 는 크로네커 델타 이다. [3] 대다수의 해석학 입문 서적에서는 한 챕터 정도를 할애하여 간단한 수준으로 소개하고, Stein의 서적처럼 푸리에만을 집중적으로 다루는 책도 있다. [4] 조각적 연속조건만으로는 충분하지 않을 수 있다. 모든 점에서 연속이지만 특정한 점에서 푸리에 급수가 발산하는 반례가 존재하기 때문이다. 물론 다른 더 약한 조건들도 존재하고, L p L^p L p 공간에서의 수렴은 훨씬 약한 조건에서도 성립한다. [5] 이 급수는 ζ ( 4 ) \zeta(4) ζ ( 4 ) 와 같다. [6] 삼각파 를 이용해서 ( − ∞ , ∞ ) (-\infty,\, \infty) ( − ∞ , ∞ ) 범위에서 2 π / 3 2\pi/3 2 π /3 를 도출할 수 있다. 참고로 부정적분은 1 6 [ 8 S i ( 4 x ) − 4 S i ( 2 x ) − x − 3 [ sin ⁡ 2 x [ 4 x 2 + cos ⁡ 2 x ( 8 x 2 − 1 ) + 2 x ( sin ⁡ 2 x ) + 1 ] ] ] + c o n s t . \dfrac{1}{6}\left[8\,{\rm Si}(4x) -4\,{\rm Si}(2x) - x^{-3} \left[\sin^{2} x [4x^2 + \cos 2x(8x^2 - 1)+ 2x(\sin 2x) + 1] \right] \right] + {\sf const.} 6 1 ​ [ 8 Si ( 4 x ) − 4 Si ( 2 x ) − x − 3 [ sin 2 x [ 4 x 2 + cos 2 x ( 8 x 2 − 1 ) + 2 x ( sin 2 x ) + 1 ] ] ] + const. 이다.(단, S i {\rm Si} Si 는 사인 적분 함수 .) [7] h ^ \hat h h ^ 로 표기하기도 한다. [8] i i i 는 허수 단위 [9] e − 2 π i t x e^{-2 \pi itx} e − 2 π i t x 을 c i s ( − 2 π t x ) {\rm cis}({-2 \pi tx}) cis ( − 2 π t x ) 로 고쳐 쓰기도 한다. 거듭제곱 부분에 주요 변수가 몰려 있기 때문에 저런 작은 글자로 쭉 쓰기가 번거로운 면이 있기 때문. [10] 푸리에 변환을 ∫ − ∞ ∞ e − i t x h ( x ) d x \displaystyle\ \int_{-\infty}^{\infty} e^{-itx} h(x) dx ∫ − ∞ ∞ ​ e − i t x h ( x ) d x 로 정의하는 수학자들도 있다. 역시 절반 정도의 비율. [11] 마치 역삼각함수의 정의역 공역 정하는 걸 생각해 보면 되겠다. [12] 엄밀하게는 F 2 h ( t ) = F [ F [ h ] ] ( t ) = h ( − t ) \mathcal{F}^{2} h(t) = \mathcal{F}[\mathcal{F}[h]](t) = h(-t) F 2 h ( t ) = F [ F [ h ]] ( t ) = h ( − t ) 가 성립. [13] 앞에서 말한 e − i t x d x e^{-itx} dx e − i t x d x 를 사용하는 다른 버전에서는 이렇게 두 번 합성을 하면 상수 2 π 2\pi 2 π 가 붙는다. 이것을 해결하기 위해 푸리에 변환과 역변환 모두에 1 / 2 π 1/\sqrt{2\pi} 1/ 2 π ​ 를 곱해주거나, 역변환만 1 / 2 π 1/2\pi 1/2 π 배를 해주는 서로 다른 관습이 있다. [14] 보통 미분방정식에 푸리에 해석을 적용할 때, 스튀름-리우빌 이론(Sturm-Liouville theory), y ′ ′ ( x ) + λ y ′ ( x ) = 0 y''(x)+\lambda y'(x) = 0 y ′′ ( x ) + λ y ′ ( x ) = 0 을 예시로 많이 든다. [15] 혹은 고유값을 결정하는 exponential 함수 자체를 eigenfunction이라고 한다. [16] 물론 쉬운 유체역학 시뮬레이션 (CFD- 전산유체역학 이라고 함)에 한해서 나비에-스토크스 방정식 의 이류나 확산부분만을 계산할 때는 방정식이 극단적으로 단순해지기 때문에 푸리에 변환까지 필요없고 단순한 차분( d x {\rm d}x d x 대신 Δ x \Delta x Δ x 를 사용한 컴퓨터에서의 계산)만으로도 쉽게 계산해낼 수 있다. [17] 일반적으로 DNS(Direct Numerical Simulation)기법을 통해서 나비에-스토크스 방정식 을 풀경우, Homogeneous, isotropic turbulence를 가정할 때 많이(finite difference method의 경우보다 훨씬 더 정확도가 높다.) 사용된다. [18] 이를 이용한 계측기기가 스펙트럼 분석기 이다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

@@ -1,0 +1,441 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 나블라
+최근 수정 시각: 2026-04-13 11:34:10 [ [ [ ] [ [ 39 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 해석학(수학)
+- 물리학
+- 특수 문자
+]
+
+[ [ ] [ 사운드 볼텍스의 7번째 작품에 대한 내용은 사운드 볼텍스 나블라 문서를 참고하십시오.
+해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+선형대수학
+Linear Algebra
+[ 펼치기 · 접기 ] ▲ 대수학
+기본 대상 | 일차함수 · 벡터 · 행렬 · 선형 변환
+대수적 구조 | 가군(모듈) · 벡터 공간 · 내적 공간 · 노름 공간
+선형 연산자 | 기본 개념 | 연립방정식 ( 1차 · 2차 ) · 행렬곱 · 단위행렬 · 역행렬 과 크라메르 공식 · 가역행렬 · 전치행렬 · 행렬식 ( 라플라스 전개 ) · 주대각합
+선형계 | 기본행연산 과 기본행렬 · 가우스-조르당 소거법 · 행사다리꼴 · 행렬표현 · 라그랑주 보간법
+주요 정리 | 선형대수학의 기본정리 · 차원 정리 · 가역행렬의 기본정리 · 스펙트럼 정리
+기타 | 제곱근행렬 · 멱등행렬 · 멱영행렬 · 대칭행렬 · 에르미트 행렬 · 야코비 행렬 · 방데르몽드 행렬 · 아다마르 행렬 변환 · 노름(수학) · 벡터장
+벡터공간의 분해 | 행렬의 닮음(상사) · 고유치 문제 · 케일리-해밀턴 정리 · 대각화 ( 대각행렬 ) · 삼각화 · 조르당 분해
+벡터의 연산 | 노름 · 거리함수 · 내적 · 외적 ( 신발끈 공식 ) · 다중선형형식 · ∇ · 크로네커 델타
+내적공간 | 그람-슈미트 과정 · 수반 연산자 ( 에르미트 내적 )
+다중선형대수 | 텐서 · 텐서곱 · 레비치비타 기호
+
+1 . 개요 2 . 표기 3 . 정의 4 . 벡터로 볼 수 있는가? 5 . 연산 5.1 . 기울기벡터(gradient) 5.1.1 . 방향도함수와 기울기벡터 5.1.2 . level set과 기울기벡터 5.1.3 . 기울기벡터의 기하학적 의미 5.2 . 발산(divergence) 5.2.1 . 정성적 분석 5.3 . 회전(curl) 5.3.1 . 정성적 분석 5.3.1.1 . 물리학 적 회전과의 관계 5.4 . 라플라시안(Laplacian) 5.5 . 벡터 라플라시안(vector Laplacian) 5.6 . 달랑베르시안(d'Alembertian) 5.7 . 예제 6 . 주요 항등식 6.1 . 1계 도함수 6.2 . 2계 도함수 7 . 외부 링크
+
+1. 개요 [편집]
+나블라 연산자 (nabla operator, ∇ \boldsymbol\nabla ∇ ) 또는 델 연산자 (del operator)는 다차원 미분 의 기본이 되는 연산자 이다. 기호 ∇ \boldsymbol\nabla ∇ 는 윌리엄 로원 해밀턴 이 고안했다. 사실 기호는 같지만 연산의 스칼라곱 · 벡터곱 여부, 연산 대상의 스칼라 · 벡터 여부에 따라 계산 방식이 달라지는 수학적 표기법(notation)이므로 주의해야 한다.
+
+물리학 이 학부 수준 이상으로 가게 되면 기본적으로 한 물리량의 변화에 대한 다른 물리량의 변화를 예측한다는 관점 으로 세상을 바라보기 때문에, 일반 전자기학 을 시작으로 양자역학 이나 고전역학 등 모든 곳에서 튀어나온다. 나비에-스토크스 방정식 문서의 두 식에서도 볼 수 있는데, 그 아래의 스칼라 식 풀이를 보면 이것이 얼마나 심오한 의미인지를 알 수 있다.
+
+2. 표기 [편집]
+나블라 연산자는 '나블라(nabla, νάβλα)'라고 불리는 동명의 현악기인 '페니키아 하프'와 형태가 비슷하다는 데에 착안해 그 이름을 따왔으며, ∇ \boldsymbol\nabla ∇ 라는 역삼각형 모양의 기호로 표기한다. Δ \Delta Δ (대문자 델타)를 뒤집은 것처럼 보이기도 한다. '델 연산자'라고도 부른다. 벡터처럼 다룰 수 있는 연산자이므로 간혹 ∇ → \overrightarrow\nabla ∇ 로 표현하기도 한다. 아주 간혹 ∇ ‾ \overline\nabla ∇ 로 표기하기도 한다.
+
+나블라 연산자를 나타내는 문자 ∇는 유니코드 의 U+2207에 배당되어 있다. [1]
+
+∇ ⁣ f \boldsymbol\nabla\!f ∇ f 일 때는 기울기 연산자, ∇ ⋅ V \boldsymbol{\nabla\,\cdot}\,\bf V ∇ ⋅ V 일 때는 발산 연산자, ∇ × V \boldsymbol{\nabla\,\times}\,\bf V ∇ × V 일 때는 회전 연산자이다.
+
+3. 정의 [편집]
+나블라 연산자는 아래와 같이 정의된다.
+
+∇ ≡ ∑ i = 1 n 1 h i ∂ ∂ x i x ^ i \displaystyle \begin{aligned} \boldsymbol\nabla \equiv \sum_{i=1}^n \frac1{h_i} \frac{\partial}{\partial x_i} {\bf\hat x}_i \end{aligned} ∇ ≡ i = 1 ∑ n ​ h i ​ 1 ​ ∂ x i ​ ∂ ​ x ^ i ​ ​
+x ^ i {\bf\hat x}_i x ^ i ​ 는 x i x_i x i ​ 축 방향의 단위 벡터를 의미하며, 직교 좌표계에선 말 그대로 단위 벡터지만 사용하는 좌표계에 따라 바뀔 수 있다. 이중 극좌표계나 원통 좌표계나 구면 좌표계 같이, 직교(Cartesian) 좌표계는 아니지만 서로 직교하는(orthogonal) 좌표계에 대해서는 scaling factor h i h_i h i ​ 만큼 보정하여 계산해야 하며 [2] 그 값들은 각각 다음과 같다. - 직교 좌표계 : h x = 1 , h y = 1 , h z = 1 h_x=1, h_y=1, h_z=1 h x ​ = 1 , h y ​ = 1 , h z ​ = 1
+- 원통 좌표계 : h r = 1 , h θ = r , h z = 1 h_r=1, h_\theta=r, h_z=1 h r ​ = 1 , h θ ​ = r , h z ​ = 1
+- 구면 좌표계 : h ρ = 1 , h θ = ρ , h ϕ = ρ sin ⁡ θ h_\rho=1, h_\theta=\rho, h_\phi=\rho\sin\theta h ρ ​ = 1 , h θ ​ = ρ , h ϕ ​ = ρ sin θ
+
+∇ ⁣ f \boldsymbol\nabla\!f ∇ f 를 읽을 때에는 그레이디언트 에프(gradient f f f , g r a d ⁡ f \operatorname{\bf grad}f grad f )라고 부른다. 이 연산자는 연산 결과를 벡터로 다룰 수 있게 해준다. 이때 그레이디언트 에프는 나블라 연산자가 함수 f f f 를 '그레이디언트 벡터장 '으로 표현한 것이다. 참고로 ∇ ⁣ f = g r a d ⁡ f \boldsymbol\nabla\!f = \operatorname{\bf grad}f ∇ f = grad f 라고 쓰기도 한다.
+
+4. 벡터로 볼 수 있는가? [편집]
+이 문단에서는 위에서 언급한 것과 같이 정말로 나블라 연산자를 벡터로 취급할 수 있는지를 살펴볼 것이다. 단, 직교 좌표계에서만 이를 논할 것이며, '벡터'라고 함은 좌표변환 규칙을 따르는 1차 텐서로서 정의할 것이다. 결론부터 말하자면, 나블라는 정확히는 벡터가 아닌 코벡터에 해당하는 연산자이지만, 유한차원 벡터공간의 자기 쌍대성 (self duality)에 의해서 코벡터는 벡터와 같이 취급될 수 있기에 아래 따르는 모든 문단에선 나블라를 벡터와 같이 취급할 것이다.
+
+V가 벡터이고 W가 코벡터라면 좌표변환에 의해 각 성분들이 다음과 같은 좌표변환 규칙을 만족한다.
+
+V i ′ = ∑ j a j i V j W i ′ = ∑ j a i j W j \begin{aligned} V_i' &= \sum_j a_{ji} V_j \\ W_i' &= \sum_j a_{ij} W_j \end{aligned} V i ′ ​ W i ′ ​ ​ = j ∑ ​ a j i ​ V j ​ = j ∑ ​ a ij ​ W j ​ ​
+여기서 V i V_i V i ​ 는 V \bf V V 의 i i i 번째 성분, 프라임( ′ ' ′ )은 좌표변환이 이루어진 후의 성분임을 나타내는 것이며, a i j a_{ij} a ij ​ 는 좌표변환을 기술하는 텐서 [3] 의 ( i , j ) (i,j) ( i , j ) 번째 성분이다. 이 때, a i j a_{ij} a ij ​ 는 특수 직교군의 원소이기 때문에 a i j a_{ij} a ij ​ 와 a j i a_{ji} a j i ​ 는 서로 역변환의 관계에 놓여있다.
+
+우선 나블라 연산자 특성상 미분연산자가 포함되어 있기 때문에, 이 미분연산자를 적용할 어떤 스칼라 함수 ϕ \phi ϕ 를 도입하자. 그렇다면 나블라 연산자의 i i i 번째 성분을 연쇄 법칙 에 의해 다음과 같이 쓸 수 있다.
+
+∂ ϕ ′ ∂ x i ′ = ∑ j ∂ ϕ ∂ x j ∂ x j ∂ x i ′ \displaystyle \begin{aligned} \frac{\partial\phi'}{\partial x_i'} = \sum_j \frac{\partial\phi}{\partial x_j} \frac{\partial x_j}{\partial x_i'} \end{aligned} ∂ x i ′ ​ ∂ ϕ ′ ​ = j ∑ ​ ∂ x j ​ ∂ ϕ ​ ∂ x i ′ ​ ∂ x j ​ ​ ​
+참고로 스칼라는 좌표변환 유무에 관계 없이 같기 때문에 위와 같이 쓸 수 있으며, 맨 위와 같이 프라임은 좌표변환 후의 양임을 강조한 것이다. 이때, 역변환을 이용하여
+
+x j = ∑ k a k j x k ′ \displaystyle \begin{aligned} x_j = \sum_k a_{kj} x_k' \end{aligned} x j ​ = k ∑ ​ a k j ​ x k ′ ​ ​
+로 쓸 수 있다. 따라서
+
+∂ ϕ ′ ∂ x i ′ = ∑ j ∂ ϕ ∂ x j ∂ ∂ x i ′ ( ∑ k a k j x k ′ ) = ∑ j ∂ ϕ ∂ x j ( ∑ k a k j ∂ x k ′ ∂ x i ′ ) = ∑ j ∂ ϕ ∂ x j ( ∑ k δ k i a k j ) \displaystyle \begin{aligned} \frac{\partial\phi'}{\partial x_i'} &= \sum_j \frac{\partial\phi}{\partial x_j} \frac{\partial}{\partial x_i'} \Biggl( \sum_k a_{kj} x_k' \Biggr) \\ &= \sum_j \frac{\partial\phi}{\partial x_j} \Biggl( \sum_k a_{kj} \frac{\partial x_k'}{\partial x_i'} \Biggr) \\ &= \sum_j \frac{\partial\phi}{\partial x_j} \Biggl( \sum_k \delta_{ki} a_{kj} \Biggr) \end{aligned} ∂ x i ′ ​ ∂ ϕ ′ ​ ​ = j ∑ ​ ∂ x j ​ ∂ ϕ ​ ∂ x i ′ ​ ∂ ​ ( k ∑ ​ a k j ​ x k ′ ​ ) = j ∑ ​ ∂ x j ​ ∂ ϕ ​ ( k ∑ ​ a k j ​ ∂ x i ′ ​ ∂ x k ′ ​ ​ ) = j ∑ ​ ∂ x j ​ ∂ ϕ ​ ( k ∑ ​ δ k i ​ a k j ​ ) ​
+이다. 여기서 δ k j \delta_{kj} δ k j ​ 는 크로네커 델타 이다. 이상에서 ∂ ϕ ′ ∂ x i ′ = ∑ j a i j ∂ ϕ ∂ x j → ∂ ∂ x i ′ = ∑ j a i j ∂ ∂ x j \displaystyle \begin{aligned} \frac{\partial\phi'}{\partial x_i'} = \sum_j a_{ij} \frac{\partial\phi}{\partial x_j} \quad \to \quad \frac{\partial}{\partial x_i'} = \sum_j a_{ij} \frac{\partial}{\partial x_j} \end{aligned} ∂ x i ′ ​ ∂ ϕ ′ ​ = j ∑ ​ a ij ​ ∂ x j ​ ∂ ϕ ​ → ∂ x i ′ ​ ∂ ​ = j ∑ ​ a ij ​ ∂ x j ​ ∂ ​ ​
+
+인데 이것은 벡터의 좌표변환 식의 역과 동일함을 볼 수 있다. 따라서 나블라 연산자는 벡터가 아니라 코벡터임을 알 수 있다.
+
+5. 연산 [편집]
+
+5.1. 기울기벡터(gradient) [편집]
+그라디언트 , 그래디언트 , 그레디언트 는 여기로 연결됩니다. 디자인 용어에 대한 내용은 그라데이션 문서를, 기업에 대한 내용은 그래디언트(기업) 문서를, 재즈 앨범에 대한 내용은 gradient 문서를 참고하십시오.
+그레이디언트를 직관적·시각적으로 이해하는 데 도움을 주는 영상
+
+기울기벡터 또는 그레이디언트 [4] 는 스칼라 함수의 변화량을 알기 위해 쓰인다. 이게 변화량, 경사(구배) 등과 관련이 있는 이유는 아랫문단의 방향도함수를 참고해보면 쉽게 이해할 수 있다.
+
+연산의 결과는 스칼라 함수가 벡터 함수로 변환된다. 벡터 함수가 어떤 스칼라 함수의 기울기벡터로 표현된다는 것은 그 함수의 퍼텐셜을 구할 수 있다는 것을 의미하며, 벡터 문제를 스칼라 문제로 환원시킬 수 있다는 점에서 매우 큰 메리트를 갖는다. 대표적인 예로 전기 퍼텐셜 이 있다.(물론 세부 정의는 다소 다르지만.) 기울기벡터의 역연산은 경로적분(선적분) 이다. [5] 미분의 역연산이 적분인 것을 생각하면 좋을 것이다.
+
+아래는 3차원 직교 좌표계, 원통 좌표계, 구면 좌표계의 기울기벡터를 나타낸 것이다. - 직교 좌표계 : ∇ ⁣ f = ∂ f ∂ x x ^ + ∂ f ∂ y y ^ + ∂ f ∂ z z ^ \begin{aligned} \bm\nabla\!f = \dfrac{\partial f}{\partial x} \,{\bf\hat x} +\dfrac{\partial f}{\partial y} \,{\bf\hat y} +\dfrac{\partial f}{\partial z} \,{\bf\hat z} \end{aligned} ∇ f = ∂ x ∂ f ​ x ^ + ∂ y ∂ f ​ y ^ ​ + ∂ z ∂ f ​ z ^ ​
+- 원통 좌표계 : ∇ ⁣ f = ∂ f ∂ r r ^ + 1 r ∂ f ∂ θ θ ^ + ∂ f ∂ z z ^ \begin{aligned} \bm\nabla\!f = \dfrac{\partial f}{\partial r} \,\bm{\hat r} +\dfrac1r \dfrac{\partial f}{\partial\theta} \,\bm{\hat\theta} +\dfrac{\partial f}{\partial z} \,{\bf\hat z} \end{aligned} ∇ f = ∂ r ∂ f ​ r ^ + r 1 ​ ∂ θ ∂ f ​ θ ^ + ∂ z ∂ f ​ z ^ ​
+- 구면 좌표계 : ∇ ⁣ f = ∂ f ∂ ρ ρ ^ + 1 r sin ⁡ ϕ ∂ f ∂ θ θ ^ + 1 ρ ∂ f ∂ ϕ ϕ ^ \begin{aligned} \bm\nabla\!f = \dfrac{\partial f}{\partial\rho} \,{\bf\hat\rho} +\dfrac1{r\sin\phi} \dfrac{\partial f}{\partial\theta} \,\bm{\hat\theta} +\dfrac1\rho \dfrac{\partial f}{\partial\phi} \,\bm{\hat\phi} \end{aligned} ∇ f = ∂ ρ ∂ f ​ ρ ^ ​ + r sin ϕ 1 ​ ∂ θ ∂ f ​ θ ^ + ρ 1 ​ ∂ ϕ ∂ f ​ ϕ ^ ​ ​
+
+5.1.1. 방향도함수와 기울기벡터 [편집]
+다변수함수 에서, 어느 한 변수의 변화율만을 계산하는 것을 편미분 이라 한다. 편미분은 한 변수에 대해서만 추적할 수 있는 것이 흠으로, 때론 어떤 공간에서 단위 벡터
+
+u = ∑ i u i x ^ i \begin{aligned} {\bf u} = \sum_i u_i {\bf\hat x}_i \end{aligned} u = i ∑ ​ u i ​ x ^ i ​ ​
+의 방향으로 점 ( x 1 , x 2 , ⋯ , x n ) (x_1, x_2, \cdots, x_n) ( x 1 ​ , x 2 ​ , ⋯ , x n ​ ) 위의 변화율을 추적하고 싶을 때도 있을 것이다. 이처럼 다변수 함수에서 방향에 따른 변화율을 계산할 수 있게 해주는 편도함수의 일종 출처 을 방향도함수(directional derivative) 라 한다. 사실 편미분 또한 단위벡터를 표준기저벡터로 놓은 경우와 같으므로 방향도함수의 특수한 경우라고 볼 수 있다.
+
+n n n 차원 도형에 대해 점 ( x 1 , x 2 , ⋯ , x n ) (x_1, x_2, \cdots, x_n) ( x 1 ​ , x 2 ​ , ⋯ , x n ​ ) 이 h u h\bf u h u 로 이동된 후의 점을 ( x 1 + h u 1 , x 2 + h u 2 , ⋯ , x n + h u n ) (x_1+hu_1, x_2+hu_2, \cdots, x_n+hu_n) ( x 1 ​ + h u 1 ​ , x 2 ​ + h u 2 ​ , ⋯ , x n ​ + h u n ​ ) 으로 쓸 수 있으므로, 방향도함수를 D u f = lim ⁡ h → 0 f ( x 1 + h u 1 , x 2 + h u 2 , ⋯ , x n − 1 + h u n − 1 ) − f ( x 1 , x 2 , ⋯ , x n − 1 ) h \begin{aligned} D_{\bf u}f = \lim_{h\to0} \frac{f(x_1+hu_1, x_2+hu_2, \cdots, x_{n-1}+hu_{n-1}) -f(x_1, x_2, \cdots, x_{n-1})}h \end{aligned} D u ​ f = h → 0 lim ​ h f ( x 1 ​ + h u 1 ​ , x 2 ​ + h u 2 ​ , ⋯ , x n − 1 ​ + h u n − 1 ​ ) − f ( x 1 ​ , x 2 ​ , ⋯ , x n − 1 ​ ) ​ ​
+
+으로 쓸 수 있다. 여기서 f f f 는 임의의 스칼라 함수이다.
+
+이제 다음과 같은 함수를 고려하자. g ( h ) ≡ f ( x 1 + h u 1 , x 2 + h u 2 , ⋯ , x i + h u i ) \begin{aligned} g(h) \equiv f(x_1+hu_1, x_2+hu_2, \cdots, x_i+hu_i) \end{aligned} g ( h ) ≡ f ( x 1 ​ + h u 1 ​ , x 2 ​ + h u 2 ​ , ⋯ , x i ​ + h u i ​ ) ​
+
+이때, g ′ ( 0 ) = lim ⁡ h → 0 g ( h ) − g ( 0 ) h = lim ⁡ h → 0 f ( x 1 + h u 1 , x 2 + h u 2 , ⋯ , x i + h u i ) − f ( x 1 , x 2 , ⋯ , x i ) h \displaystyle \begin{aligned} g'(0) &= \lim_{h\to0} \frac{g(h)-g(0)}h \\ &= \lim_{h\to0} \frac{f(x_1+hu_1, x_2+hu_2, \cdots, x_i+hu_i) -f(x_1, x_2, \cdots, x_i)}h \end{aligned} g ′ ( 0 ) ​ = h → 0 lim ​ h g ( h ) − g ( 0 ) ​ = h → 0 lim ​ h f ( x 1 ​ + h u 1 ​ , x 2 ​ + h u 2 ​ , ⋯ , x i ​ + h u i ​ ) − f ( x 1 ​ , x 2 ​ , ⋯ , x i ​ ) ​ ​
+
+한편, g ′ ( 0 ) = ∑ i ∂ f ∂ ( x i + h u i ) d ( x i + h u i ) d h ∣ h = 0 = ∑ i ∂ f ∂ x i u i \displaystyle \begin{aligned} g'(0) &= \Biggl. \sum_i \frac{\partial f}{\partial (x_i+hu_i)} \frac{{\rm d}(x_i+hu_i)}{{\rm d}h} \Biggr|_{h=0} \\ &= \sum_i \frac{\partial f}{\partial x_i} \,u_i \end{aligned} g ′ ( 0 ) ​ = i ∑ ​ ∂ ( x i ​ + h u i ​ ) ∂ f ​ d h d ( x i ​ + h u i ​ ) ​ ​ h = 0 ​ = i ∑ ​ ∂ x i ​ ∂ f ​ u i ​ ​
+
+이상에서
+
+D u f = ∑ i ∂ f ∂ x i u i \begin{aligned} D_{\bf u}f = \sum_i \dfrac{\partial f}{\partial x_i} \,u_i \end{aligned} D u ​ f = i ∑ ​ ∂ x i ​ ∂ f ​ u i ​ ​
+이것은 벡터의 내적 D u f = ⁣ ( ∑ i = 1 n − 1 ∂ f ∂ x i x ^ i ) ⁣ ⋅ ⁣ ( ∑ i = 1 n − 1 u i x ^ i ) = ∇ ⁣ f ⋅ u \displaystyle \begin{aligned} D_{\bf u}f &= \!\left( \sum_{i=1}^{n-1} \frac{\partial f}{\partial x_i} \,{\bf\hat x}_i \right) \!\boldsymbol\cdot \!\left( \sum_{i=1}^{n-1} u_i {\bf\hat x}_i \right) \\ &= \boldsymbol\nabla\!f \boldsymbol\cdot \bf u \end{aligned} D u ​ f ​ = ( i = 1 ∑ n − 1 ​ ∂ x i ​ ∂ f ​ x ^ i ​ ) ⋅ ( i = 1 ∑ n − 1 ​ u i ​ x ^ i ​ ) = ∇ f ⋅ u ​
+
+로 표현할 수 있다. 다뤘던 u {\bf u} u 가 단위 벡터임을 상기하면,
+
+D u f = ∣ ∇ ⁣ f ∣ cos ⁡ θ \displaystyle \begin{aligned} D_{\bf u}f = |\boldsymbol\nabla\!f| \cos\theta \end{aligned} D u ​ f = ∣ ∇ f ∣ cos θ ​
+임을 알 수 있다. 여기서 θ \theta θ 는 두 벡터 ∇ ⁣ f \boldsymbol\nabla\!f ∇ f 와 u \bf u u 가 이루는 각이다.
+
+위 결과로부터 기울기벡터와 방향도함수 사이의 관계를 아래와 같이 요약할 수 있다. - 방향도함수의 최댓값은 기울기벡터와의 방향이 같을 때이며, 최솟값은 기울기벡터와 반대의 방향일 때이다.
+- 따라서 기울기벡터는 함수가 급격히 증가하는 방향을 향한다.
+
+역으로 방향도함수로부터 기울기벡터의 의미를 아래와 같이 이해할 수 있다. - 한 점에서 기울기벡터와 한 단위벡터와의 내적은, 그 단위벡터 방향으로의 단위길이당 함수값의 변화율이다.
+
+5.1.2. level set과 기울기벡터 [편집]
+이제부터는 n n n 차원 공간의 도형 x n = f ( x 1 , x 2 , ⋯ , x n − 1 ) x_n = f(x_1, x_2, \cdots, x_{n-1}) x n ​ = f ( x 1 ​ , x 2 ​ , ⋯ , x n − 1 ​ ) 를 고려해보자. ( n − 1 ) (n-1) ( n − 1 ) 차원에서 k = f ( x 1 , x 2 , ⋯ , x n − 1 ) k = f(x_1, x_2, \cdots, x_{n-1}) k = f ( x 1 ​ , x 2 ​ , ⋯ , x n − 1 ​ ) (단, k k k 는 상수)는 n n n 차원 공간의 도형의 함숫값이 같은 영역을 나타내는 도형으로 나타난다. 해당 도형을 ' level set '이라 한다. 예를 들어 3차원 도형은 2차원 공간에서 '등위곡선'을, 4차원 도형은 3차원 공간에서 '등위곡면'을 형성한다.
+
+위 그림은 3차원 도형 x 3 = f ( x 1 , x 2 ) x_3 = f(x_1, x_2) x 3 ​ = f ( x 1 ​ , x 2 ​ ) 를 이용하여 level set의 개념을 보여주고 있다. 2차원 상의 level set, 즉 등위곡선(위 그림의 적색 곡선)은 x 3 = f ( x 1 , x 2 ) x_3 = f(x_1, x_2) x 3 ​ = f ( x 1 ​ , x 2 ​ ) 와 x 3 = k x_3=k x 3 ​ = k 의 교선을 x 1 x 2 x_1x_2 x 1 ​ x 2 ​ 평면에 나타낸 것이다. 여기서는 등위곡선을 1개만 나타냈지만, 실제로는 상수 k k k 값에 따라 여러 개 그릴 수 있다.
+
+이제 이 level set f = k f=k f = k 의 양변을 전미분하면
+
+d f = 0 \begin{aligned} {\rm d}f = 0 \end{aligned} d f = 0 ​
+이고 d f = ∑ i = 1 n − 1 ∂ f ∂ x i d x i = ⁣ ( ∑ i = 1 n − 1 ∂ f ∂ x i x ^ i ) ⁣ ⋅ ⁣ ( ∑ i = 1 n − 1 d x i x ^ i ) = ∇ ⁣ f ⋅ d r \displaystyle \begin{aligned} {\rm d}f &= \sum_{i=1}^{n-1} \frac{\partial f}{\partial x_i} \,{\rm d}x_i \\ &= \!\left( \sum_{i=1}^{n-1} \frac{\partial f}{\partial x_i} \,{\bf\hat x}_i \right) \!\boldsymbol\cdot \!\left( \sum_{i=1}^{n-1} {\rm d}x_i \,{\bf\hat x}_i \right) \\ &= \boldsymbol\nabla\!f \boldsymbol\cdot {\rm d}{\bf r} \end{aligned} d f ​ = i = 1 ∑ n − 1 ​ ∂ x i ​ ∂ f ​ d x i ​ = ( i = 1 ∑ n − 1 ​ ∂ x i ​ ∂ f ​ x ^ i ​ ) ⋅ ( i = 1 ∑ n − 1 ​ d x i ​ x ^ i ​ ) = ∇ f ⋅ d r ​
+
+으로 쓸 수 있다.
+
+즉,
+
+∇ ⁣ f ⋅ d r = 0 \begin{aligned} \boldsymbol\nabla\!f \boldsymbol\cdot {\rm d}{\bf r} = 0 \end{aligned} ∇ f ⋅ d r = 0 ​
+이므로 접선 벡터와 기울기벡터가 수직하다는 결론을 얻는다.
+
+이상의 결과로부터 기울기벡터는 level set 표면에 수직함을 알 수 있다.
+
+5.1.3. 기울기벡터의 기하학적 의미 [편집]
+위 내용을 종합시켜 2, 3차원에 대해서만 국한시켜 말하면, - 2차원에서의 기울기벡터는 3차원 도형의 등위곡선의 법선 벡터임을 얻는다.
+- 3차원에서의 기울기벡터는 4차원 도형의 등위곡면의 표면에 수직하며, 이는 곧 해당 곡면의 접평면의 법선 벡터와 동일함을 얻는다. 이를 이용하여 3차원 도형의 접평면의 방정식을 얻을 수도 있는데, 자세한 내용은 평면 문서 참고.
+- 기울기벡터의 방향은 변화율이 최대로 되는 방향을 향한다.
+
+5.2. 발산(divergence) [편집]
+div 은(는) 여기로 연결됩니다. HTML 태그의 하나인 <div>에 대한 내용은 HTML/태그 문서의 11 번 문단을 참고하십시오.
+발산을 직관적·시각적으로 이해하는 데 도움을 주는 영상
+
+어떤 국소적인 지점에서 유입되거나 유출되는 벡터장의 선속(flux)의 개수를 나타낸다. 물리적으로는 해당 벡터장을 해당 영역에 생성 혹은 소멸시키게 하는 원(source)의 크기를 나타낸다.
+
+연산의 결과는 벡터 함수가 스칼라 함수로 변환되어 나온다.
+
+정의는 다음과 같다. ∇ ⋅ A ≡ ∑ i = 1 n 1 h 1 h 2 ⋯ h n ( ∂ ∂ x i h 1 h 2 ⋯ h n h i A i ) \begin{aligned} \boldsymbol\nabla \boldsymbol\cdot {\bf A} &\equiv \sum_{i=1}^n \frac1{h_1 h_2 \cdots h_n} \biggl( \frac{\partial}{\partial x_i} {\frac{h_1 h_2 \cdots h_n}{h_i} A_i} \biggr) \end{aligned} ∇ ⋅ A ​ ≡ i = 1 ∑ n ​ h 1 ​ h 2 ​ ⋯ h n ​ 1 ​ ( ∂ x i ​ ∂ ​ h i ​ h 1 ​ h 2 ​ ⋯ h n ​ ​ A i ​ ) ​
+
+위의 정의를 사용하여 3차원 상의 직교 좌표계, 원통 좌표계, 구면 좌표계에서의 발산을 나타내면 아래와 같다. - 직교 좌표계 : ∇ ⋅ A = ∂ A x ∂ x + ∂ A y ∂ y + ∂ A z ∂ z \begin{aligned} \bm{\nabla\,\cdot\,}{\bf A} = \dfrac{\partial A_x}{\partial x} +\dfrac{\partial A_y}{\partial y} +\dfrac{\partial A_z}{\partial z} \end{aligned} ∇ ⋅ A = ∂ x ∂ A x ​ ​ + ∂ y ∂ A y ​ ​ + ∂ z ∂ A z ​ ​ ​
+- 원통 좌표계 : ∇ ⋅ A = 1 r ∂ ∂ r ( r A r ) + 1 r ∂ A θ ∂ θ + ∂ A z ∂ z \begin{aligned} \bm{\nabla\,\cdot\,}{\bf A} = \dfrac1r \dfrac{\partial}{\partial r} (rA_r) +\dfrac1r \dfrac{\partial A_\theta}{\partial\theta} +\dfrac{\partial A_z}{\partial z} \end{aligned} ∇ ⋅ A = r 1 ​ ∂ r ∂ ​ ( r A r ​ ) + r 1 ​ ∂ θ ∂ A θ ​ ​ + ∂ z ∂ A z ​ ​ ​
+- 구면 좌표계 : ∇ ⋅ A = 1 ρ 2 ∂ ∂ ρ ( ρ 2 A ρ ) + 1 ρ sin ⁡ ϕ ∂ A θ ∂ θ + 1 ρ sin ⁡ ϕ ∂ ∂ ϕ ( A ϕ sin ⁡ ϕ ) \begin{aligned} \bm{\nabla\,\cdot\,}{\bf A} = \dfrac1{\rho^2} \dfrac{\partial}{\partial\rho} (\rho^2A_\rho) +\dfrac1{\rho\sin\phi} \dfrac{\partial A_\theta}{\partial\theta} +\dfrac1{\rho\sin\phi} \dfrac{\partial}{\partial\phi} (A_\phi\sin\phi) \end{aligned} ∇ ⋅ A = ρ 2 1 ​ ∂ ρ ∂ ​ ( ρ 2 A ρ ​ ) + ρ sin ϕ 1 ​ ∂ θ ∂ A θ ​ ​ + ρ sin ϕ 1 ​ ∂ ϕ ∂ ​ ( A ϕ ​ sin ϕ ) ​
+
+참고로 ∇ ⋅ A = div ⁡ A \boldsymbol\nabla \boldsymbol\cdot {\bf A} = \operatorname{div}{\bf A} ∇ ⋅ A = div A 라고도 쓰기도 한다.
+
+5.2.1. 정성적 분석 [편집]
+발산을 3차원 직교좌표계 상에서 정성적으로 분석하고자 한다. 발산은 벡터장이 어떠한 국소적인 영역 내부에서 유출되거나 유입되는 선속을 나타내므로, 3차원 직교좌표계에서 길이가 각각 Δ x \Delta x Δ x , Δ y \Delta y Δ y , Δ z \Delta z Δ z 인 직육면체를 고려하자. 이때, 이 직육면체에는 총 6개의 면이 있으며, 이 영역에 유입·유출되는 벡터장을 F ( x , y , z ) {\bf F}(x,y,z) F ( x , y , z ) 라 하자. 그런데 각 면에 유입·유출되는 벡터장의 선속은 그 벡터장의 평면의 법선 벡터와 평행인 성분만 관여를 하게 될 것이다.
+
+우선적으로 직육면체의 면의 법선 벡터가 x ^ \bf\hat x x ^ 의 방향과 평행한 경우의 두 면에 대한 선속량을 계산하자. 이때, 법선 벡터의 방향에 따라 음·양이 결정됨에 주의하자. [ F ( x + Δ x , y , z ) − F ( x , y , z ) ] ⋅ Δ y Δ z x ^ \begin{aligned} [ {\bf F}(x+\Delta x,y,z) -{\bf F}(x,y,z) ] \boldsymbol\cdot \Delta y \Delta z \,\bf\hat x \end{aligned} [ F ( x + Δ x , y , z ) − F ( x , y , z )] ⋅ Δ y Δ z x ^ ​
+
+이것은 간단히 [ F x ( x + Δ x , y , z ) − F x ( x , y , z ) ] Δ y Δ z \begin{aligned} [ F_x(x+\Delta x,y,z) -F_x(x,y,z) ] \Delta y \Delta z \end{aligned} [ F x ​ ( x + Δ x , y , z ) − F x ​ ( x , y , z )] Δ y Δ z ​
+
+로 쓸 수 있다. 법선 벡터가 y ^ \bf\hat y y ^ ​ , z ^ \bf\hat z z ^ 의 방향과 평행한 경우에 대해서도 같은 방법으로 각각 다음과 같이 계산된다. [ F y ( x , y + Δ y , z ) − F y ( x , y , z ) ] Δ z Δ x [ F z ( x , y , z + Δ z ) − F z ( x , y , z ) ] Δ x Δ y \begin{aligned} [ F_y(x,y+\Delta y,z) -F_y(x,y,z) ] \Delta z \Delta x \\ [ F_z(x,y,z+\Delta z) -F_z(x,y,z) ] \Delta x \Delta y \end{aligned} [ F y ​ ( x , y + Δ y , z ) − F y ​ ( x , y , z )] Δ z Δ x [ F z ​ ( x , y , z + Δ z ) − F z ​ ( x , y , z )] Δ x Δ y ​
+
+위 3개의 항에서 직육면체의 부피 Δ x Δ y Δ z \Delta x \Delta y \Delta z Δ x Δ y Δ z 를 나눠줌으로써 규격화시킬 수 있다. F x ( x + Δ x , y , z ) − F x ( x , y , z ) Δ x F y ( x , y + Δ y , z ) − F y ( x , y , z ) Δ y F z ( x , y , z + Δ z ) − F z ( x , y , z ) Δ z \begin{aligned} \dfrac{F_x(x+\Delta x,y,z)-F_x(x,y,z)}{\Delta x} \\ \dfrac{F_y(x,y+\Delta y,z)-F_y(x,y,z)}{\Delta y} \\ \dfrac{F_z(x,y,z+\Delta z)-F_z(x,y,z)}{\Delta z} \end{aligned} Δ x F x ​ ( x + Δ x , y , z ) − F x ​ ( x , y , z ) ​ Δ y F y ​ ( x , y + Δ y , z ) − F y ​ ( x , y , z ) ​ Δ z F z ​ ( x , y , z + Δ z ) − F z ​ ( x , y , z ) ​ ​
+
+한편, 국소적인 영역의 선속을 구하는 것이 목표이므로 Δ x → 0 \Delta x\to0 Δ x → 0 , Δ y → 0 \Delta y\to0 Δ y → 0 , Δ z → 0 \Delta z\to0 Δ z → 0 을 적용하면 F x ( x + Δ x , y , z ) − F x ( x , y , z ) Δ x → ∂ F x ∂ x F y ( x , y + Δ y , z ) − F y ( x , y , z ) Δ y → ∂ F y ∂ y F z ( x , y , z + Δ z ) − F z ( x , y , z ) Δ z → ∂ F z ∂ z \begin{aligned} \dfrac{F_x(x+\Delta x,y,z)-F_x(x,y,z)}{\Delta x} \to \dfrac{\partial F_x}{\partial x} \\ \dfrac{F_y(x,y+\Delta y,z)-F_y(x,y,z)}{\Delta y} \to \dfrac{\partial F_y}{\partial y} \\ \dfrac{F_z(x,y,z+\Delta z)-F_z(x,y,z)}{\Delta z} \to \dfrac{\partial F_z}{\partial z} \end{aligned} Δ x F x ​ ( x + Δ x , y , z ) − F x ​ ( x , y , z ) ​ → ∂ x ∂ F x ​ ​ Δ y F y ​ ( x , y + Δ y , z ) − F y ​ ( x , y , z ) ​ → ∂ y ∂ F y ​ ​ Δ z F z ​ ( x , y , z + Δ z ) − F z ​ ( x , y , z ) ​ → ∂ z ∂ F z ​ ​ ​
+
+이므로 해당 영역의 유입·유출되는 벡터장의 선속은 ∂ F x ∂ x + ∂ F y ∂ y + ∂ F z ∂ z = ∇ ⋅ F \begin{aligned} \dfrac{\partial F_x}{\partial x} +\frac{\partial F_y}{\partial y} +\frac{\partial F_z}{\partial z} = \boldsymbol{\nabla\,\cdot}\,\bf F \end{aligned} ∂ x ∂ F x ​ ​ + ∂ y ∂ F y ​ ​ + ∂ z ∂ F z ​ ​ = ∇ ⋅ F ​
+
+임을 알 수 있다.
+
+아주 국소적인 부분에 대하여 벡터장의 유입·유출을 다루고 있다는 것을 상기하면, ∇ ⋅ F > 0 \boldsymbol{\nabla\,\cdot}\,{\bf F} > 0 ∇ ⋅ F > 0 이면 벡터장은 해당 영역에서 유출 [6] 되고 있다고 해석하고, ∇ ⋅ F < 0 \boldsymbol{\nabla\,\cdot}\,{\bf F} < 0 ∇ ⋅ F < 0 이면 해당 영역으로 유입 [7] 되고 있다고 해석한다. 그렇다면 ∇ ⋅ F = 0 \boldsymbol{\nabla\,\cdot}\,{\bf F} = 0 ∇ ⋅ F = 0 인 경우는 어떻게 해석할지 예상할 수 있을 것이다. 이 영역에서는 유입·유출이 없다고 해석한다. 즉, 벡터장이 유입된 만큼 다시 유출된다는 뜻이다.
+
+참고로, 어떤 영역 V V V 의 벡터장의 유입·유출되는 선속량은 해당 벡터장 V V V 를 둘러싸는 면적 ∂ V \partial V ∂ V 에 대하여 다음 면적분을 이용해서도 구할 수 있으며,
+
+∯ ∂ V V ⋅ d a \displaystyle \begin{aligned} \oiint_{\partial V} {\bf V} \boldsymbol\cdot {\rm d}{\bf a} \end{aligned} ∬ ​ ∂ V ​ V ⋅ d a ​
+위에서 구한 국소적인 부분의 선속은 위 값에 V V V 의 부피 Δ V \Delta V Δ V 를 나누어 규격화 시킨뒤 Δ V → 0 \Delta V\to0 Δ V → 0 의 극한을 취해서도 구할 수 있다. 즉, ∇ ⋅ F = lim ⁡ Δ V → 0 1 Δ V ∯ ∂ V F ⋅ d a \displaystyle \begin{aligned} \boldsymbol{\nabla\,\cdot}\,{\bf F} = \lim_{\Delta V\to0} \frac1{\Delta V} \oiint_{\partial V} {\bf F} \boldsymbol\cdot {\rm d}{\bf a} \end{aligned} ∇ ⋅ F = Δ V → 0 lim ​ Δ V 1 ​ ∬ ​ ∂ V ​ F ⋅ d a ​
+
+로도 쓸 수 있다.
+
+이상의 결과를 요약하면 아래와 같다. - 한 점에서의 발산은 그 점을 포함하는 미소 영역에서 벡터장의 유입·유출량의 단위 체적당 값을 의미한다. 물리적으로 해당 지점에 벡터장을 생성·소멸하게하는 원의 크기를 나타낸다.
+- 발산의 부호가 양이면 벡터장은 해당 영역에서 유출되고 있음을 나타내고, 이것은 물리적으로 해당 지점에 벡터장을 생성하게 하는 원이 있는 것으로 해석할 수 있으며, 발산의 부호가 음이면 벡터장은 해당 영역으로 유입되고 있음을 나타내고, 물리적으로 해당 지점에 벡터장을 소멸하게 하는 원이 있는 것으로 해석할 수 있다. 발산이 0 0 0 이면, 벡터장은 해당 영역에서 유입량과 유출량이 같다고 해석한다.
+
+5.3. 회전(curl) [편집]
+회전을 직관적·시각적으로 이해하는 데 도움을 주는 영상
+
+회전은 국소적인 영역의 단위 면적당 벡터장의 선속이 회전하는 양을 나타낸다.
+
+나블라 연산자의 외적 연산으로 주어지게 되며, 결과값은 벡터이다.
+
+정의는 다음과 같다. ∇ × A ≡ ∑ k l m ϵ k l m 1 h l h m ( ∂ ∂ x l h m A m ) x ^ k \displaystyle \begin{aligned} \boldsymbol{\nabla\,\times}\,{\bf A} \equiv \sum_{klm} \epsilon_{klm} \frac1{h_l h_m} \biggl( \frac\partial{\partial x_l} \,h_m A_m \biggr) {{\bf\hat x}_k} \end{aligned} ∇ × A ≡ k l m ∑ ​ ϵ k l m ​ h l ​ h m ​ 1 ​ ( ∂ x l ​ ∂ ​ h m ​ A m ​ ) x ^ k ​ ​
+
+여기서 ϵ k l m \epsilon_{klm} ϵ k l m ​ 은 레비-치비타 기호 이다. 3차원에 한정하여 행렬식 형태로 나타내면 다음와 같다. ∇ × A = 1 h 1 h 2 h 3 ∣ h 1 x ^ 1 h 2 x ^ 2 h 3 x ^ 3 ∂ ∂ x 1 ∂ ∂ x 2 ∂ ∂ x 3 h 1 A x 1 h 2 A x 2 h 3 A x 3 ∣ \displaystyle \begin{aligned} \boldsymbol{\nabla\,\times}\,{\bf A} = \frac1{h_1h_2h_3} \begin{vmatrix} h_1{\bf\hat x}_1 & h_2{\bf\hat x}_2 & h_3{\bf\hat x}_3 \\ \\ \dfrac\partial{\partial x_1} & \dfrac\partial{\partial x_2} & \dfrac\partial{\partial x_3} \\ \\ h_1A_{x_1} & h_2A_{x_2} & h_3A_{x_3} \end{vmatrix} \end{aligned} ∇ × A = h 1 ​ h 2 ​ h 3 ​ 1 ​ ​ h 1 ​ x ^ 1 ​ ∂ x 1 ​ ∂ ​ h 1 ​ A x 1 ​ ​ ​ h 2 ​ x ^ 2 ​ ∂ x 2 ​ ∂ ​ h 2 ​ A x 2 ​ ​ ​ h 3 ​ x ^ 3 ​ ∂ x 3 ​ ∂ ​ h 3 ​ A x 3 ​ ​ ​ ​ ​
+
+위를 바탕으로 3차원 직교 좌표계, 원통 좌표계, 구면 좌표계의 회전을 나타내면 아래와 같다. 단, 수식이 너무 길어지기 때문에 성분별로 나열된 것에 유의하라. - 직교 좌표계 - 성분 표시 [ ∇ × A ] x = ∂ A z ∂ y − ∂ A y ∂ z [ ∇ × A ] y = ∂ A x ∂ z − ∂ A z ∂ x [ ∇ × A ] z = ∂ A y ∂ x − ∂ A x ∂ y \displaystyle \begin{aligned} [\boldsymbol{\nabla\,\times}\,{\bf A}]_x &= \frac{\partial A_z}{\partial y} -\frac{\partial A_y}{\partial z} \\ [\boldsymbol{\nabla\,\times}\,{\bf A}]_y &= \frac{\partial A_x}{\partial z} -\frac{\partial A_z}{\partial x} \\ [\boldsymbol{\nabla\,\times}\,{\bf A}]_z &= \frac{\partial A_y}{\partial x} -\frac{\partial A_x}{\partial y} \end{aligned} [ ∇ × A ] x ​ [ ∇ × A ] y ​ [ ∇ × A ] z ​ ​ = ∂ y ∂ A z ​ ​ − ∂ z ∂ A y ​ ​ = ∂ z ∂ A x ​ ​ − ∂ x ∂ A z ​ ​ = ∂ x ∂ A y ​ ​ − ∂ y ∂ A x ​ ​ ​
+- 행렬 표시 ∇ × A = ∣ x ^ y ^ z ^ ∂ ∂ x ∂ ∂ y ∂ ∂ z A x A y A z ∣ \displaystyle \boldsymbol{\nabla\,\times}\,{\bf A} = \begin{vmatrix} \bf\hat x & \bf\hat y & \bf\hat z \\ \\ \dfrac\partial{\partial x} & \dfrac\partial{\partial y} & \dfrac\partial{\partial z} \\ \\ A_x & A_y & A_z \end{vmatrix} ∇ × A = ​ x ^ ∂ x ∂ ​ A x ​ ​ y ^ ​ ∂ y ∂ ​ A y ​ ​ z ^ ∂ z ∂ ​ A z ​ ​ ​
+- 원통 좌표계 - 성분 표시 [ ∇ × A ] r = 1 r ∂ A z ∂ θ − ∂ A θ ∂ z [ ∇ × A ] θ = ∂ A r ∂ z − ∂ A z ∂ r [ ∇ × A ] z = 1 r ( ∂ ∂ r ( r A θ ) − ∂ A r ∂ θ ) \displaystyle \begin{aligned} [\boldsymbol{\nabla\,\times}\,{\bf A}]_r &= \frac1r \frac{\partial A_z}{\partial\theta} -\frac{\partial A_\theta}{\partial z} \\ [\boldsymbol{\nabla\,\times}\,{\bf A}]_\theta &= \frac{\partial A_r}{\partial z} -\frac{\partial A_z}{\partial r} \\ [\boldsymbol{\nabla\,\times}\,{\bf A}]_z &= \frac1r \biggl( \frac\partial{\partial r} (rA_\theta) -\frac{\partial A_r}{\partial\theta} \biggr) \end{aligned} [ ∇ × A ] r ​ [ ∇ × A ] θ ​ [ ∇ × A ] z ​ ​ = r 1 ​ ∂ θ ∂ A z ​ ​ − ∂ z ∂ A θ ​ ​ = ∂ z ∂ A r ​ ​ − ∂ r ∂ A z ​ ​ = r 1 ​ ( ∂ r ∂ ​ ( r A θ ​ ) − ∂ θ ∂ A r ​ ​ ) ​
+- 행렬 표시 ∇ × A = ∣ r ^ / r θ ^ z ^ / r ∂ ∂ r ∂ ∂ θ ∂ ∂ z A r r A θ A z ∣ \displaystyle \boldsymbol{\nabla\,\times}\,{\bf A} = \begin{vmatrix} \boldsymbol{\hat r}/r & \boldsymbol{\hat\theta} & {\bf\hat z}/r \\ \\ \dfrac\partial{\partial r} & \dfrac\partial{\partial\theta} & \dfrac\partial{\partial z} \\ \\ A_r & rA_\theta & A_z \end{vmatrix} ∇ × A = ​ r ^ / r ∂ r ∂ ​ A r ​ ​ θ ^ ∂ θ ∂ ​ r A θ ​ ​ z ^ / r ∂ z ∂ ​ A z ​ ​ ​
+- 구면 좌표계 - 성분 표시 [ ∇ × A ] ρ = 1 ρ sin ⁡ ϕ ( ∂ ∂ ϕ ( A θ sin ⁡ ϕ ) − ∂ A ϕ ∂ θ ) [ ∇ × A ] θ = 1 ρ ( ∂ A ρ ∂ ϕ − ∂ ∂ ρ ( ρ A ϕ ) ) [ ∇ × A ] ϕ = 1 ρ ( ∂ A ρ ∂ θ csc ⁡ ϕ − ∂ ∂ ρ ( ρ A θ ) ) \displaystyle \begin{aligned} [\boldsymbol{\nabla\,\times}\,{\bf A}]_\rho &= \frac1{\rho\sin\phi} \biggl( \frac\partial{\partial\phi} (A_\theta \sin\phi) -\frac{\partial A_\phi}{\partial\theta} \biggr) \\ [\boldsymbol{\nabla\,\times}\,{\bf A}]_\theta &= \frac1\rho \biggl( \frac{\partial A_\rho}{\partial\phi} - \frac\partial{\partial\rho} (\rho A_\phi) \biggr) \\ [\boldsymbol{\nabla\,\times}\,{\bf A}]_\phi &= \frac1\rho \biggl( \frac{\partial A_\rho}{\partial\theta} \csc\phi -\frac\partial{\partial\rho} (\rho A_\theta) \biggr) \end{aligned} [ ∇ × A ] ρ ​ [ ∇ × A ] θ ​ [ ∇ × A ] ϕ ​ ​ = ρ sin ϕ 1 ​ ( ∂ ϕ ∂ ​ ( A θ ​ sin ϕ ) − ∂ θ ∂ A ϕ ​ ​ ) = ρ 1 ​ ( ∂ ϕ ∂ A ρ ​ ​ − ∂ ρ ∂ ​ ( ρ A ϕ ​ ) ) = ρ 1 ​ ( ∂ θ ∂ A ρ ​ ​ csc ϕ − ∂ ρ ∂ ​ ( ρ A θ ​ ) ) ​
+- 행렬 표시 ∇ × A = ∣ ρ ^ ρ 2 sin ⁡ ϕ θ ^ ρ ϕ ^ ρ sin ⁡ ϕ ∂ ∂ ρ ∂ ∂ θ ∂ ∂ ϕ A ρ ρ A ϕ sin ⁡ ϕ ρ A ϕ ∣ \displaystyle \boldsymbol{\nabla\,\times}\,{\bf A} = \begin{vmatrix} \dfrac{\bm{\hat\rho}}{\rho^2\sin\phi} & \dfrac{\bm{\hat\theta}}{\rho} & \dfrac{\bm{\hat\phi}}{\rho\sin\phi} \\ \\ \dfrac\partial{\partial\rho} & \dfrac\partial{\partial\theta} & \dfrac\partial{\partial\phi} \\ \\ A_\rho & \rho A_\phi\sin\phi & \rho A_\phi \end{vmatrix} ∇ × A = ​ ρ 2 sin ϕ ρ ^ ​ ​ ∂ ρ ∂ ​ A ρ ​ ​ ρ θ ^ ​ ∂ θ ∂ ​ ρ A ϕ ​ sin ϕ ​ ρ sin ϕ ϕ ^ ​ ​ ∂ ϕ ∂ ​ ρ A ϕ ​ ​ ​
+
+참고로 ∇ × A = c u r l ⁡ A \boldsymbol{\nabla\,\times}\,{\bf A} = \operatorname{\bf curl}\bf A ∇ × A = curl A 라고 쓰기도 한다.
+
+4차원에서의 curl을 구하면 성분이 6개인 벡터가 나온다.
+
+5.3.1. 정성적 분석 [편집]
+회전은 발산에 비해 이해하기 어려운 양이다. 따라서 전자기 유도 의 유도기전력에 대해서 생각해보면서 회전을 정성적으로 분석해보고자 한다.
+
+유도기전력은 어떠한 폐곡선 상의 전하가 전기장에 의해 이동되며 생겨나는 전위차이다. 분석하는 벡터장을 전기장이라 한다면, 결국 회전이라 함은 이 기전력 생성에 얼마나 기여하는지를 수치화한 것으로 이해할 수 있다. 어떠한 폐곡선에서 기여분은 결국 이 폐곡선과 평행한 성분의 일(work)이므로, 폐곡선 전체에서 이 기여분은 결국 폐곡선 전체에 대해 해당 벡터장을 선적분하면 구할 수 있다.
+
+이를 일반화하면, 회전은 벡터장이 한 폐곡선을 따라 얼마나 회전하는지를 수치화한 것으로 볼 수 있다. 위에서 일이라고 불렸던 양이 일반적인 벡터장에서는 순환(circulation) 이라고 불리며, 면적이 Δ S \Delta S Δ S 인 곡면 S S S 를 둘러싸는 폐곡선 ∂ S \partial S ∂ S 과 벡터장 F \bf F F 에 대하여
+
+∮ ∂ S F ⋅ d l \displaystyle \begin{aligned} \oint_{\partial S} {\bf F} \boldsymbol\cdot {\rm d}{\bf l} \end{aligned} ∮ ∂ S ​ F ⋅ d l ​
+로 정의된다. 그런데 발산과 같이 국소적인 영역에 대해 이 순환을 계산하는 것이 목표이므로, 영역의 면적으로 나눠주어 규격화시킨 뒤 영역의 넓이를 0 0 0 으로 보내는 극한을 사용한다. 즉, 회전은 ( ∇ × F ) ⋅ n ^ = lim ⁡ Δ S → 0 1 Δ S ∮ ∂ S F ⋅ d l \displaystyle \begin{aligned} ( \boldsymbol{\nabla\,\times}\,{\bf F} ) \boldsymbol\cdot {\bf\hat n} = \lim_{\Delta S\to0} \frac1{\Delta S} \oint_{\partial S} {\bf F} \boldsymbol\cdot{\rm d}{\bf l} \end{aligned} ( ∇ × F ) ⋅ n ^ = Δ S → 0 lim ​ Δ S 1 ​ ∮ ∂ S ​ F ⋅ d l ​
+
+으로 정의된다. (단, n ^ \bf\hat n n ^ 는 S S S 의 법선 벡터이다.)
+
+위에서 유도기전력 예시를 이해했다면, 이 수치는 결국 각속도와 유사하게 한 곡면의 수직한 방향으로 나타날 것임을 예상할 수 있다. 또한 회전에 관련되어 있으므로 영역을 잡을 때는 오른손 법칙을 고려해야 함을 알 수 있다.
+
+이제부터 3차원 직교좌표계에 대해 이 회전을 정성적으로 유도해보고자 한다. 위 그림과 같이, 회전을 구하기 원하는 점 ( x , y , z ) (x,y,z) ( x , y , z ) 에서 각각의 축으로 Δ x \Delta x Δ x , Δ y \Delta y Δ y , Δ z \Delta z Δ z 만큼 늘리고, x y xy x y 평면, x z xz x z 평면, y z yz y z 평면에 평행한 사각고리 영역 C 1 ∼ C 3 C_1\sim C_3 C 1 ​ ∼ C 3 ​ 를 고려하자. 각각의 영역을 조사하면 ( ∇ × F ) ⋅ z ^ ( \boldsymbol{\nabla\,\times}\,{\bf F} ) \boldsymbol\cdot {\bf\hat z} ( ∇ × F ) ⋅ z ^ , ( ∇ × F ) ⋅ y ^ ( \boldsymbol{\nabla\,\times}\,{\bf F} ) \boldsymbol\cdot {\bf\hat y} ( ∇ × F ) ⋅ y ^ ​ , ( ∇ × F ) ⋅ x ^ ( \boldsymbol{\nabla\,\times}\,{\bf F} ) \boldsymbol\cdot {\bf\hat x} ( ∇ × F ) ⋅ x ^ 를 구할 수 있으며, 이 성분들을 모두 더하면 ∇ × F = ( ( ∇ × F ) ⋅ x ^ ) x ^ + ( ( ∇ × F ) ⋅ y ^ ) y ^ + ( ( ∇ × F ) ⋅ z ^ ) z ^ \begin{aligned} \boldsymbol{\nabla\,\times}\,{\bf F} = (( \boldsymbol{\nabla\,\times}\,{\bf F} ) \boldsymbol\cdot {\bf\hat x}){\bf\hat x} +(( \boldsymbol{\nabla\,\times}\,{\bf F} ) \boldsymbol\cdot {\bf\hat y}){\bf\hat y} +(( \boldsymbol{\nabla\,\times}\,{\bf F} ) \boldsymbol\cdot {\bf\hat z}){\bf\hat z} \end{aligned} ∇ × F = (( ∇ × F ) ⋅ x ^ ) x ^ + (( ∇ × F ) ⋅ y ^ ​ ) y ^ ​ + (( ∇ × F ) ⋅ z ^ ) z ^ ​
+
+를 구할 수 있다.
+
+우선적으로 위와 같이 C 1 C_1 C 1 ​ 에 대해 고려해보도록 하자. 이 영역에서의 순환은 ∮ ∂ C 1 F ⋅ d l = ( ∫ b → c − ∫ d → a ) F y d y + ( ∫ a → b − ∫ c → d ) F x d x = ∫ y y + Δ y [ F y ( x + Δ x , y , z ) − F y ( x , y , z ) ] d y − ∫ x x + Δ x [ F x ( x , y + Δ y , z ) − F x ( x , y , z ) ] d x \displaystyle \begin{aligned} & \oint_{\partial C_1} {\bf F} \boldsymbol\cdot {\rm d}{\bf l} \\ =& \biggl( \int_{{\rm b}\to{\rm c}}-\int_{{\rm d}\to{\rm a}} \biggr) F_y \,{\rm d}y +\biggl( \int_{{\rm a}\to{\rm b}}-\int_{{\rm c}\to{\rm d}} \biggr) F_x \,{\rm d}x \\ =& \int_y^{y+\Delta y} [ F_y(x+\Delta x,y,z)-F_y(x,y,z) ] \,{\rm d}y -\int_x^{x+\Delta x} [ F_x(x,y+\Delta y,z)-F_x(x,y,z) ] \,{\rm d}x \end{aligned} = = ​ ∮ ∂ C 1 ​ ​ F ⋅ d l ( ∫ b → c ​ − ∫ d → a ​ ) F y ​ d y + ( ∫ a → b ​ − ∫ c → d ​ ) F x ​ d x ∫ y y + Δ y ​ [ F y ​ ( x + Δ x , y , z ) − F y ​ ( x , y , z )] d y − ∫ x x + Δ x ​ [ F x ​ ( x , y + Δ y , z ) − F x ​ ( x , y , z )] d x ​
+
+으로 구해진다. 이때, 적분 내의 첫째 항에 대하여 점 ( x , y , z ) (x,y,z) ( x , y , z ) 주위로 테일러 전개하면 F y ( x + Δ x , y , z ) = ∂ F y ( x , y , z ) ∂ x Δ x + F y ( x , y , z ) F x ( x , y + Δ y , z ) = ∂ F x ( x , y , z ) ∂ y Δ y + F x ( x , y , z ) \begin{aligned} F_y(x+\Delta x,y,z) &= \dfrac{\partial F_y(x,y,z)}{\partial x} \,\Delta x +F_y(x,y,z) \\ F_x(x,y+\Delta y,z) &= \dfrac{\partial F_x(x,y,z)}{\partial y} \,\Delta y +F_x(x,y,z) \end{aligned} F y ​ ( x + Δ x , y , z ) F x ​ ( x , y + Δ y , z ) ​ = ∂ x ∂ F y ​ ( x , y , z ) ​ Δ x + F y ​ ( x , y , z ) = ∂ y ∂ F x ​ ( x , y , z ) ​ Δ y + F x ​ ( x , y , z ) ​
+
+이것을 대입하면, ∫ y y + Δ y ∂ F y ( x , y , z ) ∂ x Δ x d y − ∫ x x + Δ x ∂ F x ( x , y , z ) ∂ y Δ y d x \displaystyle \begin{aligned} \int_y^{y+\Delta y} \frac{\partial F_y(x,y,z)}{\partial x} \,\Delta x \,{\rm d}y -\int_x^{x+\Delta x} \frac{\partial F_x(x,y,z)}{\partial y} \,\Delta y \,{\rm d}x \end{aligned} ∫ y y + Δ y ​ ∂ x ∂ F y ​ ( x , y , z ) ​ Δ x d y − ∫ x x + Δ x ​ ∂ y ∂ F x ​ ( x , y , z ) ​ Δ y d x ​
+
+적분의 평균값 정리 에 의해 위 결과는 ∂ F y ( x , y ′ , z ) ∂ x Δ x Δ y − ∂ F x ( x ′ , y , z ) ∂ y Δ x Δ y \begin{aligned} \dfrac{\partial F_y(x,y',z)}{\partial x} \,\Delta x\Delta y -\dfrac{\partial F_x(x',y,z)}{\partial y} \,\Delta x\Delta y \end{aligned} ∂ x ∂ F y ​ ( x , y ′ , z ) ​ Δ x Δ y − ∂ y ∂ F x ​ ( x ′ , y , z ) ​ Δ x Δ y ​
+
+으로 쓸 수 있다. 이때, x ≤ x ′ ≤ x + Δ x x \le x' \le x+\Delta x x ≤ x ′ ≤ x + Δ x 이고 y ≤ y ′ ≤ y + Δ y y \le y' \le y+\Delta y y ≤ y ′ ≤ y + Δ y 이다. 이 결과를 영역의 넓이 Δ x Δ y \Delta x\Delta y Δ x Δ y 로 나누고 Δ x → 0 \Delta x\to0 Δ x → 0 , Δ y → 0 \Delta y\to0 Δ y → 0 의 극한을 취하면, x ′ → x x'\to x x ′ → x , y ′ → y y'\to y y ′ → y 이므로 ∂ F y ( x , y , z ) ∂ x − ∂ F x ( x , y , z ) ∂ y \begin{aligned} \dfrac{\partial F_y(x,y,z)}{\partial x} -\dfrac{\partial F_x(x,y,z)}{\partial y} \end{aligned} ∂ x ∂ F y ​ ( x , y , z ) ​ − ∂ y ∂ F x ​ ( x , y , z ) ​ ​
+
+즉, ( ∇ × F ) ⋅ z ^ = ∂ F y ∂ x − ∂ F x ∂ y \begin{aligned} ( \boldsymbol{\nabla\,\times}\,{\bf F} ) \boldsymbol\cdot {\bf\hat z} = \dfrac{\partial F_y}{\partial x} -\dfrac{\partial F_x}{\partial y} \end{aligned} ( ∇ × F ) ⋅ z ^ = ∂ x ∂ F y ​ ​ − ∂ y ∂ F x ​ ​ ​
+
+라는 결과를 얻는다. 다른 영역에 대해서도 같은 과정을 시행하면 ( ∇ × F ) ⋅ x ^ = ∂ F z ∂ y − ∂ F y ∂ z ( ∇ × F ) ⋅ y ^ = ∂ F x ∂ z − ∂ F z ∂ x \begin{aligned} ( \boldsymbol{\nabla\,\times}\,{\bf F} ) \boldsymbol\cdot {\bf\hat x} = \dfrac{\partial F_z}{\partial y} -\dfrac{\partial F_y}{\partial z} \\ ( \boldsymbol{\nabla\,\times}\,{\bf F} ) \boldsymbol\cdot {\bf\hat y} = \dfrac{\partial F_x}{\partial z} -\dfrac{\partial F_z}{\partial x} \end{aligned} ( ∇ × F ) ⋅ x ^ = ∂ y ∂ F z ​ ​ − ∂ z ∂ F y ​ ​ ( ∇ × F ) ⋅ y ^ ​ = ∂ z ∂ F x ​ ​ − ∂ x ∂ F z ​ ​ ​
+
+라는 결과를 얻을 수 있으며, 이것은 위에서 제시된 회전의 성분과 일치한다.
+
+각속도 벡터와 유사하게, ( ∇ × F ) ⋅ n ^ > 0 ( \boldsymbol{\nabla\,\times}\,{\bf F} ) \boldsymbol\cdot {\bf\hat n} > 0 ( ∇ × F ) ⋅ n ^ > 0 이면 벡터장은 국소화된 영역에 대하여 반시계 방향의 회전에 기여하고 있으며, ( ∇ × F ) ⋅ n ^ < 0 ( \boldsymbol{\nabla\,\times}\,{\bf F} ) \boldsymbol\cdot {\bf\hat n} < 0 ( ∇ × F ) ⋅ n ^ < 0 이면 시계 방향의 회전에 기여하고 있으며, ( ∇ × F ) ⋅ n ^ = 0 ( \boldsymbol{\nabla\,\times}\,{\bf F} ) \boldsymbol\cdot {\bf\hat n} = 0 ( ∇ × F ) ⋅ n ^ = 0 이면 벡터장이 회전에 기여하지 못함을 알 수 있다. 이때 n ^ \bf\hat n n ^ 은 임의의 폐곡선에 오른손 법칙을 적용했을 때의 단위 법선 벡터이다.
+
+즉, 위의 결과는 아래로 요약된다. - 회전은 벡터장의 선속이 국소적인 영역에서 얼마나 회전하는지를 수치화한 것이다. 수학적으로는 순환의 극한을 나타낸다.
+- 한 점에서 회전의 벡터와 어떤 평면의 단위법선벡터와의 내적은, 그 평면 위의 그 점을 포함하는 미소 영역에서의 반시계 방향 순환의 단위 영역당 값이다.
+- 회전의 벡터가 어떠한 곡면의 법선벡터의 방향과 일치하면 벡터장은 반시계 방향으로 회전하고 있음을, 반전되면 시계 방향으로 회전하고 있음을, 회전이 영벡터이면 벡터장은 회전하지 않고 있음을 나타낸다.
+
+5.3.1.1. 물리학 적 회전과의 관계 [편집]
+실제로 회전이 물리학적 회전과 어떠한 관련이 있는지를 이 문단에서 보고자 한다. 어떠한 강체가 어떤 축을 중심으로 회전한다고 하자. 이때, 각속도 벡터를
+
+ω = ω x x ^ + ω y y ^ + ω z z ^ \begin{aligned} \boldsymbol\omega = \omega_x {\bf\hat x} +\omega_y {\bf\hat y} +\omega_z {\bf\hat z} \end{aligned} ω = ω x ​ x ^ + ω y ​ y ^ ​ + ω z ​ z ^ ​
+로 잡자. 이때, 강체의 각 입자에 대해 위치 벡터 r = x + y + z \bf r = x+y+z r = x + y + z 를 사용했을 때, 이 강체의 입자에 대한 선속도 벡터는 v = ω × r = x ^ ( − ω z y + ω y z ) + y ^ ( ω z x − ω x z ) + z ^ ( − ω y x + ω x y ) \begin{aligned} {\bf v} &= \boldsymbol{\omega\,\times}\,{\bf r} \\ &= {\bf\hat x}(-\omega_zy+\omega_yz) +{\bf\hat y}(\omega_zx-\omega_xz) +{\bf\hat z}(-\omega_yx+\omega_xy) \end{aligned} v ​ = ω × r = x ^ ( − ω z ​ y + ω y ​ z ) + y ^ ​ ( ω z ​ x − ω x ​ z ) + z ^ ( − ω y ​ x + ω x ​ y ) ​
+
+이다.
+
+이때, 벡터장의 회전 정도는 각 입자들의 선속도 벡터로 기술될 것이라 기대되므로, 이를 회전하면 ∇ × v = 2 ( ω x x ^ + ω y y ^ + ω z z ^ ) = 2 ω \displaystyle \begin{aligned} \boldsymbol{\nabla\,\times}\,{\bf v} &= 2( \omega_x{\bf\hat x} +\omega_y{\bf\hat y} +\omega_z{\bf\hat z} ) \\ &= 2\boldsymbol\omega \end{aligned} ∇ × v ​ = 2 ( ω x ​ x ^ + ω y ​ y ^ ​ + ω z ​ z ^ ) = 2 ω ​
+
+로 환원됨을 알 수 있다.
+
+즉, 회전은 물리학적 회전과 밀접한 영향을 가지고 있으며, 어떠한 벡터장의 영향을 받은 입자가 어떠한 폐곡선 주위로 어떠한 축을 중심으로 회전하게 될 때 주어지는 각속도 벡터의 2배임을 알 수 있다. 와도(소용돌이도, vorticity)를 ζ \boldsymbol\zeta ζ 라 쓰고
+
+ζ ≡ 2 ω = ∇ × A \displaystyle \begin{aligned} \boldsymbol\zeta &\equiv 2\boldsymbol\omega \\ &= \boldsymbol{\nabla\,\times}\,\bf A \end{aligned} ζ ​ ≡ 2 ω = ∇ × A ​
+라 정의하는 경우도 있다.
+
+5.4. 라플라시안(Laplacian) [편집]
+전자기학
+Electromagnetism
+[ 펼치기 · 접기 ] 기초 개념
+관련 수학 이론 | ∇ · 디랙 델타 함수 · 연속 방정식 · 분리 벡터
+전기 · 자기 | 개념 | 전자기력 ( 자기력 ) · 전자기 유도 ( 패러데이 법칙 ) · 맥스웰 방정식 · 전자기파 · 포인팅 벡터 · 전자기학의 경계치 문제 · 전자기파 방사
+정전기학 | 전하 · 전기장 · 전기 변위장 · 전기 퍼텐셜 · 가우스 법칙 · 전기 쌍극자 모멘트 · 유전율 · 대전현상 · 전기용량 · 시정수 · 정전기 방전
+정자기학 | 자성 · 자기장 · 자기장 세기 · 자기 퍼텐셜 · 자기 쌍극자 모멘트 · 로런츠 힘 · 홀 효과 · 비오-사바르 법칙 · 앙페르 법칙 · 투자율
+구현체 | 자석 ( 전자석 · 영구 자석 ) · 발전기 · 전동기
+회로이론 · 전자회로 | 개념 | 회로 기호도 · 전류 · 전압 · 전기 저항 ( 비저항 · 도전율 ) · 전력 ( 전력량 ) · 직류 · 교류 · 키르히호프의 법칙 · 중첩의 원리 · 삼상
+소자 | 수동소자 : 직류회로 ( 휘트스톤 브리지 ) · RLC회로 ( 커패시터 · 인덕터 · 레지스터 ) · 변압기
+능동소자 : 전원 · 다이오드 · 진공관 · 트랜지스터 · 연산 증폭기
+응용 및 심화개념
+관련 학문 | 상대론적 전자기학 · 양자 전기역학 · 응집물질물리학 · 고체물리학 · 전자공학 · 전기공학 · 제어공학 · 물리화학 · 광학 · 컴퓨터 과학 ( 컴퓨터공학 ) · 신경과학 ( 뇌과학 )
+토픽 | 이론 | 광자 · 게이지 장 ( 역장 · 장이론 ) · 물질파 ( 광전효과 ) · 다중극 전개 · 맥스웰 변형력 텐서 · 비리얼 정리
+음향 | 앰프 ( 파워앰프 · 프리앰프 · 인티앰프 · 진공관 앰프 ) · 데시벨 · 네퍼 · 음압 · 잔향
+열 | 반 데르 발스 힘 ( 분산력 ) · 복사 · 전도 ( 전도체 · 열전 효과 ) · 초전도체 · 네른스트 식
+광학 | 광도 ( 루멘 · 휘도 · 조도 · 럭스 ) · 굴절( 굴절률 · 페르마의 원리 ) · 스넬의 법칙 · 산란 · 회절 ( 회절 격자 ) · 전반사 · 수차 ( 색수차 ) · 편광 · 뉴턴 원무늬 · 분광학 · 스펙트럼 · 렌즈 ( 얇은 렌즈 방정식 · 두꺼운 렌즈 ) · 프리즘 · 거울 ( 구면 거울 방정식 ) · 행렬광학 · 색 ( 색의 종류 · RGB · 무채색 · 유채색 ) · 비어-람베르트 법칙
+전산 | 논리 연산 · 논리 회로 · 오토마타 ( 프로그래밍 언어 ) · 임베디드 · 컴퓨터 그래픽스 ( 랜더링 ) · 폴리곤 · 헥스 코드
+생물 | 생체신호 ( 생체 전기 · 뇌-컴퓨터 인터페이스 ) · 신경계 ( 막전위 · 활동전위 · 능동수송 · 분극 · 흥분 전도 · 원추세포 · 간상세포 ) · 신호전달 · 자극(생리학) ( 베버의 법칙 · 역치 ) · 감각 ( 시각 · 청각 · 후각 · 미각 · 촉각 )
+기타 | 방사선 · 반도체 · 전기음성도 · 와전류 · 방전 · 자극 · 표피효과 · 동축 케이블 · 진폭 변조 · 주파수 변조 · 메타물질 · 극 ( 지구자기장 ) · 체렌코프 현상 · 음발광
+관련 문서
+물리학 관련 정보 · 틀:전기전자공학 · 전기·전자 관련 정보 · 틀:이론 컴퓨터 과학 · 틀:컴퓨터공학
+
+밑의 정의에서 알 수 있듯이, 스칼라 라플라시안의 경우 기울기벡터의 발산을 구한 것이다. 학부 수준에서 다루는 고전역학 및 전자기학 문제들이 대부분 2계 미분 방정식이라 3차원 등으로 나타내면 이 연산자를 보게 된다. 라플라스 방정식 참고.
+
+이 연산자에 대해 고찰해보자면, 우선적으로 어떤 스칼라 함수의 기울기벡터를 구하는 것( ∇ ⁣ f \boldsymbol\nabla\!f ∇ f )은 그 함수의 변화량이 급변하는 방향의 벡터 함수를 구하는 것과 동치이며, 어떤 벡터장의 발산을 구하는 것( ∇ ⋅ A \boldsymbol{\nabla\,\cdot}\,\bf A ∇ ⋅ A )은 국소적인 영역에서 벡터장의 유입 혹은 유출을 구하는 것과 동치이다(즉, 벡터장이 일정하게 흐르지 않는 영역을 찾는 것과 동치이다). 따라서 라플라시안( ∇ ⋅ ∇ ⁣ f \boldsymbol{\nabla\cdot\nabla}\!f ∇ ⋅ ∇ f )은 어떠한 스칼라 함수의 변화량이 급변하는 방향의 벡터장에 대해 발산을 구한 것이므로, 해당 스칼라 함수의 기울기벡터가 일정하게 흐르지 않는 영역을 찾는 것이다.
+
+또한, 이 연산자에 대한 매우 흥미로운 물리적 해석이 있는데, 매끄러운 함수 f : R 3 → R f:\R^3\rightarrow\R f : R 3 → R 의 영역 안에 있는 점 ( x , y , z ) (x,y,z) ( x , y , z ) 를 상상해보라. 이 점 주변에 있는 점들을 ( x , y , z ) (x,y,z) ( x , y , z ) 의 ' 근방 '이라 한다. ∇ 2 ⁣ f ( x , y , z ) \nabla^2\!f(x,y,z) ∇ 2 f ( x , y , z ) 는 f ( x , y , z ) f(x,y,z) f ( x , y , z ) 와 이 근방점들의 함수값의 평균적인 차이라고 해석하면 된다.
+
+정의는 다음과 같다.
+
+∇ 2 ⁣ f = ∇ ⋅ ( ∇ ⁣ f ) \displaystyle \begin{aligned} \nabla^2\!f = \boldsymbol{\nabla\,\cdot}\,(\boldsymbol{\nabla}\!f) \end{aligned} ∇ 2 f = ∇ ⋅ ( ∇ f ) ​
+책에 따라 Δ f = ∇ 2 ⁣ f \Delta f= \nabla^2\!f Δ f = ∇ 2 f 로 쓰는 곳도 있다. [8] [9] 이를 바탕으로 3차원 상의 직교 좌표계, 원통 좌표계, 구면 좌표계의 라플라시안을 나타내면 아래와 같다. - 직교 좌표계 : ∇ 2 ⁣ f = ∂ 2 ⁣ f ∂ x 2 + ∂ 2 ⁣ f ∂ y 2 + ∂ 2 ⁣ f ∂ z 2 \begin{aligned} \nabla^2\!f = \dfrac{\partial^2\!f}{\partial x^2} +\dfrac{\partial^2\!f}{\partial y^2} +\dfrac{\partial^2\!f}{\partial z^2} \end{aligned} ∇ 2 f = ∂ x 2 ∂ 2 f ​ + ∂ y 2 ∂ 2 f ​ + ∂ z 2 ∂ 2 f ​ ​
+- 원통 좌표계 : ∇ 2 ⁣ f = 1 r ∂ ∂ r ( r ∂ f ∂ r ) ⁣ + 1 r 2 ∂ 2 ⁣ f ∂ θ 2 + ∂ 2 ⁣ f ∂ z 2 \begin{aligned} \nabla^2\!f = \dfrac1r \dfrac\partial{\partial r} \biggl( r \,\dfrac{\partial f}{\partial r} \biggr) \!+\dfrac1{r^2} \dfrac{\partial^2\!f}{\partial\theta^2} +\dfrac{\partial^2\!f}{\partial z^2} \end{aligned} ∇ 2 f = r 1 ​ ∂ r ∂ ​ ( r ∂ r ∂ f ​ ) + r 2 1 ​ ∂ θ 2 ∂ 2 f ​ + ∂ z 2 ∂ 2 f ​ ​
+- 구면 좌표계 : ∇ 2 ⁣ f = 1 ρ 2 ∂ ∂ ρ ( ρ 2 ∂ f ∂ ρ ) ⁣ + 1 ρ 2 sin ⁡ 2 ϕ ∂ 2 ⁣ f ∂ θ 2 ⁣ + 1 ρ 2 sin ⁡ ϕ ∂ ∂ ϕ ( sin ⁡ ϕ ∂ f ∂ ϕ ) \begin{aligned} \nabla^2\!f = \dfrac1{\rho^2} \dfrac\partial{\partial\rho} \biggl( \rho^2 \dfrac{\partial f}{\partial\rho} \biggr) \!+\dfrac1{\rho^2\sin^2\phi} \dfrac{\partial^2\!f}{\partial\theta^2} \!+\dfrac1{\rho^2\sin\phi} \dfrac\partial{\partial\phi} \biggl( \sin\phi \,\dfrac{\partial f}{\partial\phi} \biggr) \end{aligned} ∇ 2 f = ρ 2 1 ​ ∂ ρ ∂ ​ ( ρ 2 ∂ ρ ∂ f ​ ) + ρ 2 sin 2 ϕ 1 ​ ∂ θ 2 ∂ 2 f ​ + ρ 2 sin ϕ 1 ​ ∂ ϕ ∂ ​ ( sin ϕ ∂ ϕ ∂ f ​ ) ​
+
+5.5. 벡터 라플라시안(vector Laplacian) [편집]
+벡터 라플라시안은 다음과 같이 정의된다. ∇ 2 A = ∇ ( ∇ ⋅ A ) − ∇ × ( ∇ × A ) \begin{aligned} \nabla^2{\bf A} = \boldsymbol\nabla ( \boldsymbol{\nabla\,\cdot}\,{\bf A} ) - \boldsymbol{\nabla\,\times}\, ( \boldsymbol{\nabla\,\times}\,{\bf A} ) \end{aligned} ∇ 2 A = ∇ ( ∇ ⋅ A ) − ∇ × ( ∇ × A ) ​ [10]
+
+책에 따라 Δ A = ∇ 2 A \Delta{\bf A} = \nabla^2{\bf A} Δ A = ∇ 2 A 로 쓰는 곳도 있다.
+
+대학 미분적분학 을 공부하다 보면 벡터 의 외적 을 공부하게 되는데, 여기서 나오는 벡터 삼중곱 의 성질을 가져와 쓴 것이다. 또한, 전자기학 에서도 후반( 전자기파 방사 )으로 가면 E \mathbf{E} E -field 나 B \mathbf{B} B -field 에 대한 2계 편미분방정식을 유도하는 등 이 연산을 쓸 일이 있을 것이다.
+
+5.6. 달랑베르시안(d'Alembertian) [편집]
+달랑베르 파동방정식 으로부터 달랑베르시안은 아래와 같이 정의된다. [11]
+
+□ = ∂ μ ∂ μ = g μ ν ∂ ν ∂ μ = 1 c 2 ∂ 2 ∂ t 2 − ∑ i = 1 n ∂ 2 ∂ x i 2 \displaystyle \begin{aligned} \square &= \partial^\mu \partial_\mu \\ &= g^{\mu\nu} \partial_\nu \partial_\mu \\ &= \dfrac1{c^2} \frac{\partial^2}{\partial t^2} -\sum_{i=1}^n \frac{\partial^2}{\partial x_i^2} \end{aligned} □ ​ = ∂ μ ∂ μ ​ = g μν ∂ ν ​ ∂ μ ​ = c 2 1 ​ ∂ t 2 ∂ 2 ​ − i = 1 ∑ n ​ ∂ x i 2 ​ ∂ 2 ​ ​
+시간과 공간 방향을 분리하여 라플라시안을 사용해서 나타내면 다음과 같다. [12]
+
+□ = 1 c 2 ∂ 2 ∂ t 2 − ∇ 2 \displaystyle \begin{aligned} \square = \frac1{c^2} \frac{\partial^2}{\partial t^2} - \nabla^2 \end{aligned} □ = c 2 1 ​ ∂ t 2 ∂ 2 ​ − ∇ 2 ​ [13]
+
+물리학과 전공자의 경우 전자기학 후반부의 상대론적 전자기학 이나 파동방정식에서 만날 수 있는 연산자로, 4차원 시공간에서 라플라시안에 대응되는 연산자이다.
+
+라플라시안과 달리 달랑베르시안은 통일된 표기법이 없다. 라플라시안과 형태를 비슷하게 맞추고 스칼라 로서의 본성을 강조하기 위해 □ 2 \square^2 □ 2 의 표기를 선호하는 이들도 있고, 4차원에서 수식을 표현하는 것이 당연시되는 일부 물리 분야에서는 ∂ 2 \partial^2 ∂ 2 으로 표현하기도 한다.
+
+5.7. 예제 [편집]
+스칼라 함수 ϕ = x y z \phi=xyz ϕ = x y z , 벡터 함수 V = x y 2 x ^ + x y z y ^ + z z ^ {\bf V} = xy^2{\bf\hat x} +xyz{\bf\hat y} +z{\bf\hat z} V = x y 2 x ^ + x y z y ^ ​ + z z ^ 에 대하여 다음을 각각 구하시오.
+(a) ∇ ϕ \boldsymbol\nabla\phi ∇ ϕ | (b) ∇ ⋅ V \boldsymbol{\nabla\,\cdot}\,\bf V ∇ ⋅ V | (c) ∇ × V \boldsymbol{\nabla\,\times}\,\bf V ∇ × V
+(d) ∇ 2 ϕ \nabla^2\phi ∇ 2 ϕ | (e) ∇ ( ∇ ⋅ V ) \boldsymbol\nabla (\boldsymbol{\nabla\,\cdot}\,\bf V) ∇ ( ∇ ⋅ V ) | (f) ∇ × ( ∇ × V ) \boldsymbol{\nabla\,\times}\,(\boldsymbol{\nabla\,\times}\,\bf V) ∇ × ( ∇ × V )
+(g) ∇ 2 V \nabla^2\bf V ∇ 2 V
+
+(a) ∇ ϕ = ⁣ [ x ^ ∂ ∂ x + y ^ ∂ ∂ y + z ^ ∂ ∂ z ] x y z = y z x ^ + x z y ^ + x y z ^ \begin{aligned} \boldsymbol\nabla \phi &= \!\biggl[ {\bf\hat x} \frac\partial{\partial x} +{\bf\hat y} \frac\partial{\partial y} +{\bf\hat z} \frac\partial{\partial z} \biggr] xyz \\ &= yz{\bf\hat x} +xz{\bf\hat y} +xy{\bf\hat z} \end{aligned} ∇ ϕ ​ = [ x ^ ∂ x ∂ ​ + y ^ ​ ∂ y ∂ ​ + z ^ ∂ z ∂ ​ ] x y z = y z x ^ + x z y ^ ​ + x y z ^ ​
+
+(b) ∇ ⋅ V = ∂ ∂ x ( x y 2 ) + ∂ ∂ y ( x y z ) + ∂ ∂ z ( z ) = x z + y 2 + 1 \begin{aligned} \boldsymbol{\nabla\,\cdot}\,{\bf V} &= \frac\partial{\partial x} (xy^2) +\frac\partial{\partial y} (xyz) +\frac\partial{\partial z} (z) \\ &= xz+y^2+1 \end{aligned} ∇ ⋅ V ​ = ∂ x ∂ ​ ( x y 2 ) + ∂ y ∂ ​ ( x y z ) + ∂ z ∂ ​ ( z ) = x z + y 2 + 1 ​
+
+(c) ∇ × V = ∣ x ^ y ^ z ^ ∂ ∂ x ∂ ∂ y ∂ ∂ z x y 2 x y z z ∣ = − x y x ^ + y ( z − 2 x ) z ^ \begin{aligned} \boldsymbol{\nabla\,\times}\,{\bf V} &= \begin{vmatrix} {\bf\hat x} & {\bf\hat y} & {\bf\hat z} \\ \\ \dfrac\partial{\partial x} & \dfrac\partial{\partial y} & \dfrac\partial{\partial z} \\ \\ xy^2 & xyz & z \end{vmatrix} \\ &= -xy{\bf\hat x} +y(z-2x){\bf\hat z} \end{aligned} ∇ × V ​ = ​ x ^ ∂ x ∂ ​ x y 2 ​ y ^ ​ ∂ y ∂ ​ x y z ​ z ^ ∂ z ∂ ​ z ​ ​ = − x y x ^ + y ( z − 2 x ) z ^ ​
+
+(d) ∇ 2 ϕ = ∇ ⋅ ( ∇ ϕ ) = ⁣ [ ∂ 2 ∂ x 2 + ∂ 2 ∂ y 2 + ∂ 2 ∂ z 2 ] x y z = ∂ ∂ x ( y z ) + ∂ ∂ y ( x z ) + ∂ ∂ z ( x y ) = 0 \begin{aligned} \nabla^2\phi &= \boldsymbol{\nabla\,\cdot}\,(\boldsymbol\nabla\phi) \\ &= \!\biggl[ \frac{\partial^2}{\partial x^2} +\frac{\partial^2}{\partial y^2} +\frac{\partial^2}{\partial z^2} \biggr] xyz \\ &= \frac\partial{\partial x}(yz) +\frac\partial{\partial y}(xz) +\frac\partial{\partial z}(xy) \\ &= 0 \end{aligned} ∇ 2 ϕ ​ = ∇ ⋅ ( ∇ ϕ ) = [ ∂ x 2 ∂ 2 ​ + ∂ y 2 ∂ 2 ​ + ∂ z 2 ∂ 2 ​ ] x y z = ∂ x ∂ ​ ( y z ) + ∂ y ∂ ​ ( x z ) + ∂ z ∂ ​ ( x y ) = 0 ​
+
+(e) ∇ ( ∇ ⋅ V ) = ∇ ( x z + y 2 + 1 ) = ⁣ [ x ^ ∂ ∂ x + y ^ ∂ ∂ y + z ^ ∂ ∂ z ] ( x z + y 2 + 1 ) = z x ^ + 2 y y ^ + x z ^ \begin{aligned} \boldsymbol\nabla (\boldsymbol{\nabla\,\cdot}\,\bf V) &= \boldsymbol\nabla ( xz+y^2+1 ) \\ &= \!\biggl[ {\bf\hat x} \frac\partial{\partial x} +{\bf\hat y} \frac\partial{\partial y} +{\bf\hat z} \frac\partial{\partial z} \biggr] (xz+y^2+1) \\ &= z{\bf\hat x} +2y{\bf\hat y} +x{\bf\hat z} \end{aligned} ∇ ( ∇ ⋅ V ) ​ = ∇ ( x z + y 2 + 1 ) = [ x ^ ∂ x ∂ ​ + y ^ ​ ∂ y ∂ ​ + z ^ ∂ z ∂ ​ ] ( x z + y 2 + 1 ) = z x ^ + 2 y y ^ ​ + x z ^ ​
+
+(f) ∇ × ( ∇ × V ) = ∇ × ( − x y x ^ + y ( z − 2 x ) z ^ ) = ∣ x ^ y ^ z ^ ∂ ∂ x ∂ ∂ y ∂ ∂ z − x y 0 y ( z − 2 x ) ∣ = ( z − 2 x ) x ^ + 2 y y ^ + x z ^ \begin{aligned} \boldsymbol{\nabla\,\times}\,(\boldsymbol{\nabla\,\times}\,\bf V) &= \boldsymbol{\nabla\,\times}\, (-xy{\bf\hat x} +y(z-2x){\bf\hat z}) \\ &= \begin{vmatrix} {\bf\hat x} & {\bf\hat y} & {\bf\hat z} \\ \\ \dfrac\partial{\partial x} & \dfrac\partial{\partial y} & \dfrac\partial{\partial z} \\ \\ -xy & 0 & y(z-2x) \end{vmatrix} \\ &= (z-2x){\bf\hat x} +2y{\bf\hat y} +x{\bf\hat z} \end{aligned} ∇ × ( ∇ × V ) ​ = ∇ × ( − x y x ^ + y ( z − 2 x ) z ^ ) = ​ x ^ ∂ x ∂ ​ − x y ​ y ^ ​ ∂ y ∂ ​ 0 ​ z ^ ∂ z ∂ ​ y ( z − 2 x ) ​ ​ = ( z − 2 x ) x ^ + 2 y y ^ ​ + x z ^ ​
+
+(g) ∇ 2 V = ∇ ( ∇ ⋅ V ) − ∇ × ( ∇ × V ) = ( z x ^ + 2 y y ^ + x z ^ ) − ( ( z − 2 x ) x ^ + 2 y y ^ + x z ^ ) = 2 x x ^ \begin{aligned} \nabla^2\bf V &= \boldsymbol\nabla (\boldsymbol{\nabla\,\cdot}\,\bf V) -\boldsymbol{\nabla\,\times}\,(\boldsymbol{\nabla\,\times}\,\bf V) \\ &= (z{\bf\hat x} +2y{\bf\hat y} +x{\bf\hat z}) -( (z-2x){\bf\hat x} +2y{\bf\hat y} +x{\bf\hat z} ) \\ &= 2x{\bf\hat x} \end{aligned} ∇ 2 V ​ = ∇ ( ∇ ⋅ V ) − ∇ × ( ∇ × V ) = ( z x ^ + 2 y y ^ ​ + x z ^ ) − (( z − 2 x ) x ^ + 2 y y ^ ​ + x z ^ ) = 2 x x ^ ​
+
+6. 주요 항등식 [편집]
+이하 식에서 f f f , g g g 는 스칼라장, A \bf A A , B \bf B B 는 벡터장이다. 덧셈에 대한 분배 법칙 등은 편미분 연산자 특성상 이해하기 쉬우므로 본 문단에서는 경사, 내적, 외적이 혼합된 복잡한 경우에 응용할 수 있는 것만 정리했다.
+덧붙여 ∇ ˙ ( A ⋅ B ˙ ) \bf\dot\nabla(A\bm\cdot\dot B) ∇ ˙ ( A ⋅ B ˙ ) 는 헤스테네스 윗점 표기법(Hestenes overdot notation)으로 ∇ \bf\nabla ∇ 가 A ⋅ B \bf A\bm\cdot B A ⋅ B 의 내적 결과 중 B \bf B B 의 성분에만 작용한다는 것을 의미한다. 같은 것을 의미하는 다른 표기법으로서 파인만 아래첨자 표기법(Feynman subscript notation)으로는 ∇ B ( A ⋅ B ) \bf\nabla_B(A\bm\cdot B) ∇ B ​ ( A ⋅ B ) 로 나타낸다.
+
+6.1. 1계 도함수 [편집]
+- ( A ⋅ ∇ ) f = A ⋅ ( ∇ f ) ({\bf A}\bm\cdot\bm\nabla)f = {\bf A}\bm\cdot(\bm\nabla f) ( A ⋅ ∇ ) f = A ⋅ ( ∇ f )
+- ( A × ∇ ) f = A × ( ∇ f ) ({\bf A}\bm\times\bm\nabla)f = {\bf A}\bm\times(\bm\nabla f) ( A × ∇ ) f = A × ( ∇ f )
+
+- ∇ ⋅ ( f A ) = ( ∇ f ) ⋅ A + f ∇ ⋅ A \bm\nabla\bm\cdot(f{\bf A}) = (\bm\nabla f)\bm\cdot{\bf A} + f\bm\nabla\bm\cdot{\bf A} ∇ ⋅ ( f A ) = ( ∇ f ) ⋅ A + f ∇ ⋅ A
+- ∇ × ( f A ) = ( ∇ f ) × A + f ∇ × A \bm\nabla\bm\times(f{\bf A}) = (\bm\nabla f)\bm\times{\bf A} + f{\bf\nabla\bm\times A} ∇ × ( f A ) = ( ∇ f ) × A + f ∇ × A
+- ∇ ( f g ) = g ∇ f − f ∇ g g 2 \bm\nabla{\left(\dfrac fg\right)} = \dfrac{g\bm\nabla f-f\bm\nabla g}{g^2} ∇ ( g f ​ ) = g 2 g ∇ f − f ∇ g ​
+- ∇ ⋅ ( A f ) = f ∇ ⋅ A − ( ∇ f ) ⋅ A f 2 \bm\nabla\bm\cdot{\left(\dfrac{\bf A}f\right)} = \dfrac{f\bm\nabla\bm\cdot{\bf A} - (\bm\nabla f)\bm\cdot{\bf A}}{f^2} ∇ ⋅ ( f A ​ ) = f 2 f ∇ ⋅ A − ( ∇ f ) ⋅ A ​
+- ∇ × ( A f ) = f ∇ × A − ( ∇ f ) × A f 2 \bm\nabla\bm\times{\left(\dfrac{\bf A}f\right)} = \dfrac{f{\bf\nabla\bm\times A} - (\bm\nabla f)\bm\times{\bf A}}{f^2} ∇ × ( f A ​ ) = f 2 f ∇ × A − ( ∇ f ) × A ​
+- ∇ ( A ⋅ B ) = ( A ⋅ ∇ ) B + ( B ⋅ ∇ ) A + A × ( ∇ × B ) + B × ( ∇ × A ) = ∇ ˙ ( A ˙ ⋅ B ) + ∇ ˙ ( A ⋅ B ˙ ) \begin{aligned} \bf\nabla(A\bm\cdot B) &= \bf(A\bm\cdot\nabla)B + (B\bm\cdot\nabla)A + A\bm\times(\nabla\times B) + B\bm\times(\nabla\times A) \\ &= \bf\dot\nabla(\dot A\bm\cdot B) + \dot\nabla(A\bm\cdot\dot B) \end{aligned} ∇ ( A ⋅ B ) ​ = ( A ⋅ ∇ ) B + ( B ⋅ ∇ ) A + A × ( ∇ × B ) + B × ( ∇ × A ) = ∇ ˙ ( A ˙ ⋅ B ) + ∇ ˙ ( A ⋅ B ˙ ) ​
+- ∇ ( A × B ) = ( ∇ A ) × B + A × ( ∇ B ) \bf\nabla(A\bm\times B) = (\nabla A)\bm\times B + A\bm\times(\nabla B) ∇ ( A × B ) = ( ∇A ) × B + A × ( ∇B )
+- ∇ ⋅ ( A × B ) = ( ∇ × A ) ⋅ B − ( ∇ × B ) ⋅ A \bf\nabla\bm\cdot(A\bm\times B) = (\nabla\bm\times A)\bm\cdot B - (\nabla\bm\times B)\bm\cdot A ∇ ⋅ ( A × B ) = ( ∇ × A ) ⋅ B − ( ∇ × B ) ⋅ A
+- ∇ × ( A × B ) = ( ∇ ⋅ B ) A + ( B ⋅ ∇ ) A − ( ∇ ⋅ A ) B − ( A ⋅ ∇ ) B \bf\nabla\bm\times(A\bm\times B) = (\nabla\bm\cdot B)A + (B\bm\cdot\nabla)A - (\nabla\bm\cdot A)B - (A\bm\cdot\nabla)B ∇ × ( A × B ) = ( ∇ ⋅ B ) A + ( B ⋅ ∇ ) A − ( ∇ ⋅ A ) B − ( A ⋅ ∇ ) B
+- A × ( ∇ × B ) = ∇ ˙ ( A ⋅ B ˙ ) − ( A ⋅ ∇ ) B \bf A\bm\times(\nabla\times B) = \dot\nabla(A\bm\cdot\dot B) - (A\bm\cdot\nabla)B A × ( ∇ × B ) = ∇ ˙ ( A ⋅ B ˙ ) − ( A ⋅ ∇ ) B
+- ( A × ∇ ) × B = ∇ ˙ ( A ⋅ B ˙ ) − ( ∇ ⋅ B ) A = A × ( ∇ × B ) + ( A ⋅ ∇ ) B − ( ∇ ⋅ B ) A \begin{aligned} \bf(A\bm\times\nabla)\times B &= \bf\dot\nabla(A\bm\cdot\dot B) - (\nabla\bm\cdot B)A \\ &= \bf A\bm\times(\nabla\times B) + (A\bm\cdot\nabla)B - (\nabla\bm\cdot B)A \end{aligned} ( A × ∇ ) × B ​ = ∇ ˙ ( A ⋅ B ˙ ) − ( ∇ ⋅ B ) A = A × ( ∇ × B ) + ( A ⋅ ∇ ) B − ( ∇ ⋅ B ) A ​
+- ( A × ∇ ) ⋅ B = A ⋅ ( ∇ × B ) \bf(A\bm\times\nabla)\bm\cdot B = A\bm\cdot(\nabla\bm\times B) ( A × ∇ ) ⋅ B = A ⋅ ( ∇ × B )
+
+6.2. 2계 도함수 [편집]
+- ∇ ⋅ ( ∇ × A ) = 0 {\bf\nabla\bm\cdot(\nabla\times A)} = 0 ∇ ⋅ ( ∇ × A ) = 0
+- ∇ × ( ∇ f ) = ( ∇ × ∇ ) f = 0 \bm\nabla\bm\times(\bm\nabla f) = {\bf(\nabla\bm\times\nabla)}f = {\bf0} ∇ × ( ∇ f ) = ( ∇ × ∇ ) f = 0
+- ∇ × ( ∇ A ) = ( ∇ × ∇ ) A = 0 \bf\nabla\bm\times(\nabla A) = (\nabla\bm\times\nabla)A = 0 ∇ × ( ∇A ) = ( ∇ × ∇ ) A = 0
+- ∇ ⋅ ( ∇ f ) = ( ∇ ⋅ ∇ ) f = ∇ 2 f \bm\nabla\bm\cdot(\bm\nabla f) = {\bf(\nabla\bm\cdot\nabla)}f = \nabla^2f ∇ ⋅ ( ∇ f ) = ( ∇ ⋅ ∇ ) f = ∇ 2 f
+- ∇ × ( ∇ × A ) = ∇ ( ∇ ⋅ A ) − ∇ 2 A {\bf\nabla\bm\times(\nabla\bm\times A) = \nabla(\nabla\bm\cdot A)}-\nabla^2{\bf A} ∇ × ( ∇ × A ) = ∇ ( ∇ ⋅ A ) − ∇ 2 A
+- ∇ 2 ( f g ) = f ∇ 2 g + 2 ( ∇ f ) ⋅ ( ∇ g ) + g ∇ 2 f \nabla^2(fg) = f\nabla^2g + 2(\bm\nabla f)\bm\cdot(\bm\nabla g) + g\nabla^2f ∇ 2 ( f g ) = f ∇ 2 g + 2 ( ∇ f ) ⋅ ( ∇ g ) + g ∇ 2 f
+- ∇ 2 ( f g ) = g ∇ 2 f − 2 g { ∇ ( f g ) } ⋅ ∇ g − f ∇ 2 g g 2 \nabla^2{\left(\dfrac fg\right)} = \dfrac{g\nabla^2f - 2g{\left\{\bm\nabla{\left(\dfrac fg\right)}\right\}}\bm\cdot\bm\nabla g - f\nabla^2g}{g^2} ∇ 2 ( g f ​ ) = g 2 g ∇ 2 f − 2 g { ∇ ( g f ​ ) } ⋅ ∇ g − f ∇ 2 g ​
+
+7. 외부 링크 [편집]
+- 네이버캐스트 - 자연과학을 위한 수학강좌
+
+[1] 나블라 연산자 기호를 별도의 프로그램 없이 작성하고 싶다면, ㄷ → 한자 키 → PgDn → PgDn → 2로 입력 가능하다. [2] 사실 정의하기 나름이다. Scaling factor는 계량 텐서가 대각행렬일 때만 정의할 수 있다. 어떤 책에서는 위에서 보정한 성분을 physical component라고도 한다. [3] 쉽게 말하면 선형변환을 기술하는 행렬이다. [4] '그래디언트'라고 하는 경우도 있는데, gradient를 IPA로 표기하면 /ˈɡɹeɪdiənt/이므로 한글로 옮기면 '그레이디언트'가 맞다. [5] 예를 들어, 전위의 기울기벡터를 구하면 전기장이 되고, 전기장을 일정한 경로에 대해 적분하면 전압이 된다. [6] 즉, 벡터장을 생성하는 원( 源 )이 있다는 것으로 해석 가능 [7] 즉, 벡터장을 소멸시키는 원이 있다는 것으로 해석 가능 [8] 단, 비슷한 표기법인 변화량(증분) 과 혼돈하기 쉬우므로 주의하자. [9] 반대로, 수학 전공서적에서는 주로 헤시안을 나타내기 위해 ∇ 2 ⁣ f \nabla^2\!f ∇ 2 f 를 사용하기에 전자의 기호를 선호한다. [10] 스칼라 곱 - 벡터 곱 [11] 수식이 깨진 게 아니라 기호 모양이 '네모'이다. [12] 출처: Basics of Fluid Mechanics, Genick Bar-Meir 2014 GFDL # [13] 그리피스의 "기초 전자기학" 책에는 부호가 반대로 되어 있다. 그 이유는, 달랑베르시안은 계량 텐서(metric tensor) g μ ν g^{\mu\nu} g μν 를 어떻게 정의하느냐에 따라 달라지기 때문이다. 이 문서에서는 계량 텐서를 ( + + + , − - − , − - − , − - − )로 채택하였다. 이 문서의 내용 중 전체 또는 일부는 델(마비노기) 문서의 r43 판에서 가져왔습니다. 이전 역사 보러 가기 [ KCTV광주방송 가입,사은품
+cable-tv.co.kr v-if
+남동케이블방송 신규가입할인, 결합특가할인, 실시간스포츠, 당일설치.
+
+] | [ 남동케이블방송 가입센터
+www.tv-road.co.kr v-if
+이달특가상품 디지털파격할인.결합상품, 와이파이공유기 제공, 설치비무료
+
+] | [ 남동구유선방송 쿠팡
+www.coupang.com v-if
+[ [ 로켓배송 ] [ 로켓직구 ] [ 골드박스 ] [ 로켓프레시 ] ]
+남동구유선방송, TV에 연결만 하면 즉시 작동! 와우회원 무료배송 받으세요.
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

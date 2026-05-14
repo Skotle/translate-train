@@ -1,0 +1,233 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 바나흐 공간
+최근 수정 시각: 2026-01-31 09:08:55 [ [ [ ] [ [ 5 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 함수해석학
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 정의 2.1 . 노름 공간 2.2 . 바나흐 공간 2.3 . 선형 부분 공간 2.4 . 샤우데르 기저 2.5 . 동형사상 2.6 . 연속 쌍대 공간 3 . 연산 3.1 . 몫 바나흐 공간 3.2 . 곱 바나흐 공간 4 . 성질 4.1 . 완비성 4.2 . 연속 쌍대 공간의 성질 4.2.1 . 한-바나흐 정리 4.2.2 . 약한 *-위상의 성질 4.3 . 몫공간과 부분공간의 성질 5 . 작용소 5.1 . 기본 성질 5.1.1 . 열린 사상 정리 5.1.2 . 닫힌 그래프 정리 5.1.3 . 균등 유계성 원리 5.2 . 수반 작용소 5.2.1 . 수반 작용소의 성질 5.3 . 컴팩트 작용소 5.4 . 작용소의 스펙트럼 6 . 예시
+
+1. 개요 [편집]
+바나흐 공간(바나흐 空 間 , Banach space, (폴란드어) Przestrzeń Banacha)은 완비성 을 갖춘 노름공간 이다. 바나흐 공간은 힐베르트 공간 의 일반화로, 폴란드의 수학자인 스테판 바나흐 가 고안했다.
+
+2. 정의 [편집]
+
+2.1. 노름 공간 [편집]
+자세한 내용은 노름공간 문서를 참고하십시오. 체 K ∈ { R , C } \mathbb{K\in\{R, C\}} K ∈ { R , C } 위의 벡터공간 X X X 에 대하여 다음을 만족시키는 범함수 p p p 를 반노름(seminorm) 이라고 한다. - 모든 x , y ∈ X x,y\in X x , y ∈ X 에 대하여 p ( x + y ) ≤ p ( x ) + p ( y ) p(x+y)\le p(x)+p(y) p ( x + y ) ≤ p ( x ) + p ( y )
+- 모든 x ∈ X x\in X x ∈ X 와 α ∈ K \alpha\in\mathbb{K} α ∈ K 에 대하여 p ( α x ) = ∣ a ∣ p ( x ) p(\alpha x)=|a|p(x) p ( α x ) = ∣ a ∣ p ( x )
+
+다음을 추가로 만족시키는 반노름 p p p 를 노름 (norm) 이라고 한다. - p ( x ) = 0 p(x)=0 p ( x ) = 0 이면 x = 0 x=0 x = 0 이다.
+
+노름은 주로 기호 ∥ ⋅ ∥ \|\cdot\| ∥ ⋅ ∥ 를 사용해서 나타낸다. 노름을 갖춘 벡터공간 ( X , ∥ ⋅ ∥ ) (X,\|\cdot\|) ( X , ∥ ⋅ ∥ ) 에 대하여 함수 d : X × X → [ 0 , ∞ ) d:X\times X\to[0,\infty) d : X × X → [ 0 , ∞ ) 를 d ( x , y ) = ∥ x − y ∥ d(x,y)=\|x-y\| d ( x , y ) = ∥ x − y ∥ 로 정의하면 d d d 는 X X X 위의 거리함수 로, X X X 는 거리공간 이다. 이와 같이 노름으로부터 유도된 거리 구조를 갖는 위상벡터공간을 노름공간 이라고 한다.
+
+2.2. 바나흐 공간 [편집]
+노름으로부터 유도된 거리에 대한 완비성 을 갖춘 노름공간을 바나흐 공간 이라고 한다. 즉, K \mathbb{K} K -노름공간 ( X , ∥ ⋅ ∥ ) (X,\|\cdot\|) ( X , ∥ ⋅ ∥ ) 가 바나흐 공간일 필요충분조건은 X X X 의 임의의 코시열 { x n } n = 1 ∞ \{x_n\}_{n=1}^\infty { x n ​ } n = 1 ∞ ​ 의 극한 x x x 가 X X X 에 존재하는 것이다. 이는 임의의 ϵ > 0 \epsilon>0 ϵ > 0 이 주어졌을 때 다음을 만족시키는 N ∈ N N\in \mathbb{N} N ∈ N 이 존재함을 의미한다.
+n > N ⇒ ∥ x − x n ∥ < ϵ n>N\Rightarrow\|x-x_n\|<\epsilon n > N ⇒ ∥ x − x n ​ ∥ < ϵ
+
+2.3. 선형 부분 공간 [편집]
+K \mathbb{K} K -바나흐 공간 X X X 의 부분집합 M M M 이 임의의 x , y ∈ M x,\ y\in M x , y ∈ M 와 α , β ∈ K \alpha,\ \beta\in\mathbb{K} α , β ∈ K 에 대하여
+α x + β y ∈ M \alpha x+\beta y \in M α x + β y ∈ M 을 만족시키면 M M M 을 X X X 의 선형 다양체(linear manifold) 라고 하며, 선형다양체 M M M 이 X X X 의 닫힌 부분집합일 경우 M M M 을 선형 부분공간(부분공간, 닫힌 부분공간, linear subspace, subspace, closed subspace) 라고 한다. M M M 이 X X X 의 선형부분공간인 경우 M ≤ X M\le X M ≤ X 로 표기한다.
+
+노름 공간 X X X 의 선형 부분공간 M M M 에 대하여 M + N = X M+N=X M + N = X , M ∩ N = { 0 } M\cap N =\{0\} M ∩ N = { 0 } 을 만족시키는 N ≤ X N\le X N ≤ X 가 존재하면 M M M 을 대수적 여공간을 갖는 부분공간(algebraically complemented subspace) 이라고 한다. 노름공간 X X X 의 서로 대수적 여공간인부분공간 M , N M, N M , N 에 대하여 T : M ⨁ 1 N → X T:M\bigoplus_1 N\to X T : M ⨁ 1 ​ N → X 를 T ( m ⊕ n ) = m + n T(m\oplus n)=m+n T ( m ⊕ n ) = m + n 이라 하면 T T T 는 전단사 선형 사상이다. T T T 가 위상동형사상이면 M , N M, N M , N 을 위상적 여공간을 갖는 부분공간(topologically complemented subspace) 이라고 한다. 닫힌 그래프 정리 에 의해 노름공간 X X X 가 바나흐 공간이면 대수적 여공간을 갖는 부분공간은 위상적 여공간을 갖는 부분공간이므로 두 용어를 구분하지 않고 여공간을 갖는 부분공간(complemented subspace) 라고 한다.
+
+2.4. 샤우데르 기저 [편집]
+K \mathbb{K} K -바나흐 공간 X X X 의 점렬 { e n } n = 1 ∞ ⊂ X \{e_n\}_{n=1}^\infty\subset X { e n ​ } n = 1 ∞ ​ ⊂ X 가 임의의 벡터 x ∈ X x\in X x ∈ X 에 대하여
+x = ∑ n = 1 ∞ α n e n \displaystyle x=\sum_{n=1}^\infty \alpha_n e_n x = n = 1 ∑ ∞ ​ α n ​ e n ​ 을 만족시키는 수열 { α } n = 1 ∞ ⊂ K \{\alpha\}_{n=1}^\infty\subset\mathbb{K} { α } n = 1 ∞ ​ ⊂ K 을 가지면 점렬 { e n } n = 1 ∞ \{e_n\}_{n=1}^\infty { e n ​ } n = 1 ∞ ​ 을 X X X 의 샤우데르 기저 (Schauder basis)라고 한다. 모든 n ∈ N n\in\mathbb{N} n ∈ N 에 대하여 ∥ e n ∥ = 1 \|e_n\|=1 ∥ e n ​ ∥ = 1 인 샤우데르 기저 { e n } n = 1 ∞ \{e_n\}_{n=1}^\infty { e n ​ } n = 1 ∞ ​ 를 정규 샤우데르 기저 (normal Schauder basis)라고 한다. 샤우데르 기저의 급수 표현은 절대수렴 하지 않을 수 있으므로 샤우데르 기저는 순서를 고려해야 한다. 하멜 기저와 달리 바나흐 공간은 샤우데르 기저를 갖지 않을 수 있다.
+
+2.5. 동형사상 [편집]
+두 바나흐 공간 X , Y X, Y X , Y 에 대하여 위상동형사상 인 선형 전단사 사상 T : X → Y T:X\to Y T : X → Y 를 동형사상(isomorphism) 이라고 한다.
+
+2.6. 연속 쌍대 공간 [편집]
+K \mathbb{K} K -노름 공간 X X X 의 유계 선형범함수 의 공간, 즉 B ( X , K ) \mathcal{B}(X,\ \mathbb{K}) B ( X , K ) 를 X X X 의 연속 쌍대 공간(continuous dual space) 이라고 하며, X ∗ X^* X ∗ 로 표기한다. 바나흐 공간의 연속 쌍대 공간에 자연스럽게 부여할 수 있는 위상으로 작용소 노름 위상과 약한 *-위상이 있다.
+
+바나흐 공간 X X X 는 노름 공간이므로 X ∗ X^* X ∗ 또한 작용소 노름 ∥ ⋅ ∥ o p : X ∗ → [ 0 , inf ⁡ ) \|\cdot\|_{\mathrm{op}}:X^*\to [0,~\inf) ∥ ⋅ ∥ op ​ : X ∗ → [ 0 , in f )
+∥ T ∥ o p = sup ⁡ { ∥ T x ∥ : ∥ x ∥ = 1 , x ∈ X } = sup ⁡ ⁣ { ∥ T x ∥ ∥ x ∥ : x ≠ 0 , x ∈ X } = inf ⁡ { C : ∥ T x ∥ ≤ C ∥ x ∥ ∀ x ∈ X } \displaystyle \begin{aligned} \|T\|_{\mathrm{op}} &= \sup \{ \|Tx\|: \|x\| = 1,~x\in X \} \\ &= \sup \!\left\{ \frac{\|Tx\|}{\|x\|} : x \ne 0,~x\in X \right\} \\ &= \inf \{ C: \|Tx\| \le C\|x\|\ \forall x\in X \} \end{aligned} ∥ T ∥ op ​ ​ = sup { ∥ T x ∥ : ∥ x ∥ = 1 , x ∈ X } = sup { ∥ x ∥ ∥ T x ∥ ​ : x  = 0 , x ∈ X } = in f { C : ∥ T x ∥ ≤ C ∥ x ∥ ∀ x ∈ X } ​ 을 갖춘 노름 공간이다. 이때, 유계 선형변환 공간 B ( X , Y ) \mathcal{B}(X,\ Y) B ( X , Y ) 의 완비성은 Y Y Y 의 완비성에 따라 결정되고 K \mathbb{K} K 는 완비 공간이므로 X ∗ X^* X ∗ 는 작용소 노름 위상에 대한 바나흐 공간이다.
+
+바나흐 공간은 국소 볼록 공간 이므로 그 연속 쌍대 공간에 약한 ∗ * ∗ -위상을 부여할 수 있다. 각 x ∈ X x\in X x ∈ X 에 대하여 반노름 p x : X ∗ → R p_x:X^*\to\mathbb{R} p x ​ : X ∗ → R 을
+p x ( x ∗ ) = ∣ < x , x ∗ > ∣ = ∣ x ∗ ( x ) ∣ p_x(x^*)=|\left<x,~x^*\right>|=|x^*(x)| p x ​ ( x ∗ ) = ∣ ⟨ x , x ∗ ⟩ ∣ = ∣ x ∗ ( x ) ∣ 로 정의하여 { p x : x ∈ X } \left\{p_x:x\in X \right\} { p x ​ : x ∈ X } 로 생성된 위상 w k ∗ \mathrm{wk}^* wk ∗ 를 X ∗ X^* X ∗ 의 약한 ∗ * ∗ -위상이라 한다. 약한 ∗ * ∗ -위상을 갖춘 연속 쌍대 공간은 반노름족으로 생성되었으므로 국소 볼록 공간이다.
+
+작용소 노름 위상을 고려할 때, X ∗ X^* X ∗ 는 바나흐 공간이므로 쌍대공간 X ∗ ∗ : = ( X ∗ ) ∗ X^{**}:=(X^*)^* X ∗∗ := ( X ∗ ) ∗ 를 갖는다. 이를 X X X 의 이중 쌍대 공간(double dual sapce, second dual space) 라고 한다. 한 x ∈ X x\in X x ∈ X 에 대하여 각 x ∗ ∈ X ∗ x^*\in X^* x ∗ ∈ X ∗ 를 x ∗ ( x ) x^*(x) x ∗ ( x ) 로 대응시키는 사상 x ^ : X ∗ → K \hat{x}:X^*\to\mathbb{K} x ^ : X ∗ → K 는
+x ^ ( α x 1 ∗ + x 2 ∗ ) = ( α x 1 ∗ + x 2 ∗ ) ( x ) = α x 1 ∗ ( x ) + x 2 ∗ ( x ) = α x ^ ( x 1 ∗ ) + x ^ ( x 2 ∗ ) \hat{x}(\alpha x_1^*+x_2^*)=(\alpha x_1^*+x_2^*)(x)=\alpha x_1^*(x)+x_2^*(x)=\alpha\hat{x}( x_1^*)+\hat{x}(x_2^*) x ^ ( α x 1 ∗ ​ + x 2 ∗ ​ ) = ( α x 1 ∗ ​ + x 2 ∗ ​ ) ( x ) = α x 1 ∗ ​ ( x ) + x 2 ∗ ​ ( x ) = α x ^ ( x 1 ∗ ​ ) + x ^ ( x 2 ∗ ​ ) 이므로 선형사상이고, 임의의 x ∗ ∈ X ∗ x^*\in X^* x ∗ ∈ X ∗ 에 대하여
+∣ x ^ ( x ∗ ) ∣ = ∣ x ∗ ( x ) ∣ ≤ ∥ x ∥ X ⋅ ∥ x ∗ ∥ X ∗|\hat{x}(x^*)|=|x^*(x)|\le\|x\|_X\cdot\|x^*\|_{X^*} ∣ x ^ ( x ∗ ) ∣ = ∣ x ∗ ( x ) ∣ ≤ ∥ x ∥ X ​ ⋅ ∥ x ∗ ∥ X ∗ ​ 이므로 유계이며, 한-바나흐 정리 에 의해 ∥ x ^ ∥ X ∗ ∗ = ∥ x ∥ X \|\hat{x}\|_{X^{**}}=\|x\|_X ∥ x ^ ∥ X ∗∗ ​ = ∥ x ∥ X ​ 이다. 따라서 X X X 에서 X ∗ ∗ X^{**} X ∗∗ 로의 사상 x ↦ x ^ x\mapsto \hat{x} x ↦ x ^ 는 X X X 를 X ∗ ∗ X^{**} X ∗∗ 에 매장하는 등장사상이다. 일반적으로, X X X 와 X ∗ ∗ X^{**} X ∗∗ 는 등장 동형이 아니며, X X X 와 X ∗ ∗ X^{**} X ∗∗ 가 등장 동형인 경우, 즉
+X ∗ ∗ = { x ^ : x ∈ X } X^{**}=\left\{\hat{x}:x\in X\right\} X ∗∗ = { x ^ : x ∈ X } 이면 X X X 를 반사적(reflexive) 이라고 한다.
+
+노름 공간 X X X 와 선형 부분공간 M ≤ X M\le X M ≤ X 에 대하여 M ⊥ M^\perp M ⊥ 을 다음과 같이 정의한다.
+M ⊥ : = { g ∈ X ∗ : g ( M ) = 0 } M^\perp :=\left\{g\in X^*:g(M)=0\right\} M ⊥ := { g ∈ X ∗ : g ( M ) = 0 } 여기서 M ⊥ M^\perp M ⊥ 은 바나흐 공간 X ∗ X^* X ∗ 의 닫힌 집합이므로 M ⊥ ≤ X ∗ M^\perp \le X^* M ⊥ ≤ X ∗ 이다.
+
+3. 연산 [편집]
+
+3.1. 몫 바나흐 공간 [편집]
+바나흐 공간 X X X 의 선형 부분공간 M M M 에 대하여 몫 집합 X / M X/M X / M 에 몫노름
+∥ x + M ∥ = inf ⁡ { ∥ x + y ∥ : y ∈ M } \|x+M\|=\inf\left\{\|x+y\|:y\in M\right\} ∥ x + M ∥ = in f { ∥ x + y ∥ : y ∈ M } 을 부여하면 X / M X/M X / M 은 바나흐 공간이다.
+
+3.2. 곱 바나흐 공간 [편집]
+바나흐 공간족 { ( X i , ∥ ⋅ ∥ i ) : i ∈ I } \{(X_i,\|\cdot\|_i):i\in I\} {( X i ​ , ∥ ⋅ ∥ i ​ ) : i ∈ I } 와 1 ≤ p ≤ ∞ 1\le p \le\infty 1 ≤ p ≤ ∞ 에 대하여 범함수 ∥ ⋅ ∥ p : ∏ i ∈ I X i → [ 0 , ∞ ] \|\cdot\|_p:\prod_{i\in I}X_i\to[0,\infty] ∥ ⋅ ∥ p ​ : ∏ i ∈ I ​ X i ​ → [ 0 , ∞ ] 를
+∥ x ∥ p = { ( ∑ i ∈ I ∥ x i ∥ i p ) 1 / p , if 1 ≤ p < ∞ sup ⁡ i ∈ I ∥ x i ∥ i , if p = ∞ \|x\|_p= \begin{cases} \displaystyle \left(\sum_{i\in I}\|x_i\|_i^p\right)^{1/p},&\text{if }1\le p<\infty\\ \sup_{i\in I}\|x_i\|_i,&\text{if }p=\infty \end{cases} ∥ x ∥ p ​ = ⎩ ⎨ ⎧ ​ ( i ∈ I ∑ ​ ∥ x i ​ ∥ i p ​ ) 1/ p , sup i ∈ I ​ ∥ x i ​ ∥ i ​ , ​ if 1 ≤ p < ∞ if p = ∞ ​ 라 하자.
+⊕ p X i : = { x ∈ ∏ i ∈ I X i : ∥ x ∥ p < ∞ } \displaystyle\oplus_p X_i:=\left\{x\in \prod_{i\in I}X_i:\|x\|_p<\infty\right\} ⊕ p ​ X i ​ := { x ∈ i ∈ I ∏ ​ X i ​ : ∥ x ∥ p ​ < ∞ } 라 하면 ⊕ p X i \oplus_p X_i ⊕ p ​ X i ​ 는 노름 ∥ ⋅ ∥ p \|\cdot\|_p ∥ ⋅ ∥ p ​ 를 갖춘 바나흐 공간이다.
+
+4. 성질 [편집]
+
+4.1. 완비성 [편집]
+노름공간 X X X 의 점렬 ( x n ) (x_n) ( x n ​ ) 에 대하여 ∑ n = 1 ∞ ∥ x n ∥ \sum_{n=1}^\infty \|x_n\| ∑ n = 1 ∞ ​ ∥ x n ​ ∥ 이 수렴하면 급수 ∑ n = 1 ∞ x n \sum_{n=1}^\infty x_n ∑ n = 1 ∞ ​ x n ​ 을 절대수렴 하는 급수라고 한다. 절대수렴성 급수의 수렴은 노름공간의 완비성과 동치이다. 증명
+바나흐 공간 X X X 의 절대수렴 급수 ∑ n = 1 ∞ x n \sum_{n=1}^\infty x_n ∑ n = 1 ∞ ​ x n ​ 에 대하여 점렬 ( S N ) (S_N) ( S N ​ ) 을 S N = ∑ n = 1 N x n S_N = \sum_{n=1}^N x_n S N ​ = ∑ n = 1 N ​ x n ​ 으로 정의하면, N , M → ∞ N, M \to \infty N , M → ∞ (단, N > M N>M N > M )일 때
+∥ S N − S M ∥ ≤ ∑ M + 1 N ∥ x n ∥ → 0 \displaystyle \begin{aligned} \| S_N-S_M \| \le \sum_{M+1}^N \|x_n\| \to 0 \end{aligned} ∥ S N ​ − S M ​ ∥ ≤ M + 1 ∑ N ​ ∥ x n ​ ∥ → 0 ​ 이므로 점렬 ( S N ) (S_N) ( S N ​ ) 은 코시열로 수렴한다. 즉, 급수 ∑ n = 1 ∞ x n \sum_{n=1}^\infty x_n ∑ n = 1 ∞ ​ x n ​ 은 수렴한다.
+
+반대로 노름 공간 X X X 의 모든 절대수렴 급수가 수렴한다고 가정하면 X X X 의 코시열 ( x n ) (x_n) ( x n ​ ) 에 대하여 각 k ∈ N k \in \mathbb{N} k ∈ N 가 주어졌을 때 m , n ≥ n k m, n \ge n_k m , n ≥ n k ​ 이면 ∥ x m − x n ∥ < 2 − k {\| x_m-x_n \| < 2^{-k}} ∥ x m ​ − x n ​ ∥ < 2 − k 를 만족시키는 n k ∈ N n_k\in\N n k ​ ∈ N 가 존재한다. X X X 의 점렬 ( y k ) (y_k) ( y k ​ ) 를 y 1 = x 1 , y k = x n k − x n k − 1 ( k > 1 ) {y_1= x_1,\ y_k = x_{n_k} - x_{n_{k-1}}(k>1)} y 1 ​ = x 1 ​ , y k ​ = x n k ​ ​ − x n k − 1 ​ ​ ( k > 1 ) 로 정의하자. 그러면
+∑ k = 1 ∞ ∥ y k ∥ ≤ ∥ y 1 ∥ + ∑ k = 1 ∞ 2 − k = ∥ x 1 ∥ + 1 < ∞ \begin{aligned} \sum_{k=1}^\infty \|y_k\| &\le \|y_1\| +\sum_{k=1}^\infty 2^{-k} \\ &= \|x_1\|+1 < \infty\end{aligned} k = 1 ∑ ∞ ​ ∥ y k ​ ∥ ​ ≤ ∥ y 1 ​ ∥ + k = 1 ∑ ∞ ​ 2 − k = ∥ x 1 ​ ∥ + 1 < ∞ ​ 이고 lim ⁡ n → ∞ x n = lim ⁡ k → ∞ x n k = ∑ k = 1 ∞ y k \lim_{n\to\infty} x_n = \lim_{k\to\infty} x_{n_k} = \sum_{k=1}^\infty y_k lim n → ∞ ​ x n ​ = lim k → ∞ ​ x n k ​ ​ = ∑ k = 1 ∞ ​ y k ​ 이므로 ( x n ) (x_n) ( x n ​ ) 은 수렴한다. 즉, X X X 는 바나흐 공간이다.
+
+4.2. 연속 쌍대 공간의 성질 [편집]
+
+4.2.1. 한-바나흐 정리 [편집]
+자세한 내용은 한-바나흐 정리 문서를 참고하십시오.
+
+4.2.2. 약한 *-위상의 성질 [편집]
+연속 쌍대 공간에 주어진 작용소 위상 및 약한 *-위상의 관계는 일반적인 국소 볼록 공간의 위상과 약한 위상의 관계와 같다. K \mathbb{K} K -바나흐 공간 X X X 의 연속 쌍대 공간 x ∗ x^* x ∗ 의 작용소 노름 위상을 T o p \mathcal{T}_{\mathrm{op}} T op ​ 라 하면 w k ∗ ⊆ T o p \mathrm{wk}^*\subseteq\mathcal{T}_\mathrm{op} wk ∗ ⊆ T op ​ 이다.
+
+약한 *-위상을 갖춘 연속 쌍대 공간이 무한차원일 경우 바나흐 공간이 아니다.
+
+4.3. 몫공간과 부분공간의 성질 [편집]
+노름공간 X X X 와 M ≤ X M\le X M ≤ X 에 대하여 X ∗ / M ⊥ X^*/M^\perp X ∗ / M ⊥ 은 M ∗ M^* M ∗ 과 등장 동형이다. 또한 ( X / M ) ∗ (X/M)^* ( X / M ) ∗ 은 M ⊥ M^\perp M ⊥ 과 등장 동형이다.
+
+5. 작용소 [편집]
+
+5.1. 기본 성질 [편집]
+열린 사상 정리, 닫힌 그래프 정리, 균등 유계 원리 및 이들의 따름 정리를 증명하는 과정에서 베르 범주 정리 가 활용된다.
+
+5.1.1. 열린 사상 정리 [편집]
+두 바나흐 공간 X , Y X,\ Y X , Y 의 연속 선형 전사 작용소 T : X → Y T:X\to Y T : X → Y 은 열린 사상이다. 즉, X X X 의 임의의 열린 집합 U U U 에 대하여 T ( U ) T(U) T ( U ) 는 Y Y Y 의 열린 집합이다. 열린 사상 정리에 의해 바나흐 공간 사이의 유계 전단사 선형 변환은 위상동형사상으로, 유계인 역상을 갖는다. 증명
+0 ∈ X 0\in X 0 ∈ X 와 양수 r r r 에 대하여 B r : = B ( 0 , r ) B_r:=B(0,\ r) B r ​ := B ( 0 , r ) 이라 하자. X = ⋃ n = 1 ∞ B n X=\bigcup_{n=1}^\infty B_n X = ⋃ n = 1 ∞ ​ B n ​ 이고 T T T 가 전사이므로 Y = ⋃ n = 1 ∞ T ( B n ) Y=\bigcup_{n=1}^\infty T(B_n) Y = ⋃ n = 1 ∞ ​ T ( B n ​ ) 이다. Y Y Y 는 완비공간이고 y ↦ n y y\mapsto ny y ↦ n y 는 T ( B 2 − 1 r ) T(B_{2^{-1}r}) T ( B 2 − 1 r ​ ) 을 T ( B n ) T(B_n) T ( B n ​ ) 으로 사상하는 Y Y Y 의 위상동형사상이므로 T ( B 2 − 1 r ) T(B_{2^{-1}r}) T ( B 2 − 1 r ​ ) 이 어디에서도 조밀하지 않은 집합이면 Y Y Y 는 어디에서도 조밀하지 않은 집합의 가산 합집합으로, 베르 범주 정리 에 모순이다. 따라서 T ( B 2 − 1 r ) ‾ \overline{T(B_{2^{-1}r})} T ( B 2 − 1 r ​ ) ​ 의 내부는 공집합 이 아니고 다음을 만족시키는 y 0 ∈ Y y_0\in Y y 0 ​ ∈ Y 와 s > 0 s>0 s > 0 가 존재한다.
+B Y ( y 0 , s ) ⊆ i n t ( T ( B 2 − 1 r ) ‾ ) ⊆ T ( B 2 − 1 r ) ‾ B_Y(y_0, s)\subseteq \mathrm{int}\left(\overline{T(B_{2^{-1}r})}\right)\subseteq \overline{T(B_{2^{-1}r})} B Y ​ ( y 0 ​ , s ) ⊆ int ( T ( B 2 − 1 r ​ ) ​ ) ⊆ T ( B 2 − 1 r ​ ) ​ ∥ y ∥ < s \|y\|<s ∥ y ∥ < s 인 y ∈ Y y\in Y y ∈ Y 를 택한다. y 0 ∈ T ( B 2 − 1 r ) ‾ y_0\in \overline{T(B_{2^{-1}r})} y 0 ​ ∈ T ( B 2 − 1 r ​ ) ​ 이므로 T ( x n ) → y 0 T(x_n)\to y_0 T ( x n ​ ) → y 0 ​ 인 B 2 − 1 r B_{2^{-1}r} B 2 − 1 r ​ 의 점렬 { x n } \{x_n\} { x n ​ } 이 존재한다. 또한 ∥ y ∥ = ∥ y 0 + y − y 0 ∥ < s \|y\|=\|y_0+y-y_0\|<s ∥ y ∥ = ∥ y 0 ​ + y − y 0 ​ ∥ < s 에서 y 0 + y ∈ T ( B 2 − 1 r ) ‾ y_0+y\in\overline{T(B_{2^{-1}r})} y 0 ​ + y ∈ T ( B 2 − 1 r ​ ) ​ 이므로 T ( z n ) → y 0 + y T(z_n)\to y_0+y T ( z n ​ ) → y 0 ​ + y 인 B 2 − 1 r B_{2^{-1}r} B 2 − 1 r ​ 의 점렬 { z n } \{z_n\} { z n ​ } 이 존재한다. 따라서 T ( z n − x n ) → y T(z_n -x_n)\to y T ( z n ​ − x n ​ ) → y , { z n − x n } ⊆ B r \{z_n-x_n\}\subseteq B_r { z n ​ − x n ​ } ⊆ B r ​ 이므로
+B Y ( 0 , s ) ⊆ i n t ( T ( B r ) ‾ ) ⊆ T ( B r ) ‾ B_Y(0,s)\subseteq \mathrm{int}\left(\overline{T(B_r)}\right)\subseteq \overline{T(B_r)} B Y ​ ( 0 , s ) ⊆ int ( T ( B r ​ ) ​ ) ⊆ T ( B r ​ ) ​ 이다.
+
+다음으로 T ( B 2 − 1 r ) ‾ ⊆ T ( B r ) \overline{T(B_{2^{-1}r})}\subseteq T(B_r) T ( B 2 − 1 r ​ ) ​ ⊆ T ( B r ​ ) 임을 보인다. y 1 ∈ T ( B 2 − 1 r ) ‾ y_1 \in\overline{T(B_{2^{-1}r})} y 1 ​ ∈ T ( B 2 − 1 r ​ ) ​ 을 택하면 0 ∈ i n t ( T ( B 2 − 2 r ) ‾ ) 0\in\mathrm{int}\left(\overline{T(B_{2^{-2}r})}\right) 0 ∈ int ( T ( B 2 − 2 r ​ ) ​ ) 이므로
+[ y 1 − T ( B 2 − 2 r ) ‾ ] ∩ T ( B 2 − 1 r ) ≠ ∅ \displaystyle\left[y_1 -\overline{T(B_{2^{-2}r})}\right]\cap T(B_{2^{-1}r})\ne\varnothing [ y 1 ​ − T ( B 2 − 2 r ​ ) ​ ] ∩ T ( B 2 − 1 r ​ )  = ∅ 이고, T ( x 1 ) ∈ [ y 1 − T ( B 2 − 2 r ) ‾ ] T(x_1)\in\left[y_1 -\overline{T(B_{2^{-2}r})}\right] T ( x 1 ​ ) ∈ [ y 1 ​ − T ( B 2 − 2 r ​ ) ​ ] 을 만족시키는 x 1 ∈ B 2 − 1 r x_1\in B_{2^{-1}r} x 1 ​ ∈ B 2 − 1 r ​ 을 선택할 수 있다. 이때, T ( x 1 ) T(x_1) T ( x 1 ​ ) 은 어떤 y 2 ∈ T ( B 2 − 2 r ) ‾ y_2 \in \overline{T(B_{2^{-2}r})} y 2 ​ ∈ T ( B 2 − 2 r ​ ) ​ 에 대하여 T ( x 1 ) = y 1 − y 2 T(x_1)=y_1-y_2 T ( x 1 ​ ) = y 1 ​ − y 2 ​ 이다. 이 과정을 반복하여 다음을 만족시키는 X X X 의 점렬 { x n } \{x_n\} { x n ​ } 과 Y Y Y 의 점렬 { y n } \{y_n\} { y n ​ } 을 얻을 수 있다. - x n ∈ B 2 − n r x_n\in B_{2^{-n}r} x n ​ ∈ B 2 − n r ​
+- y n ∈ T ( B 2 − n r ) ‾ y_n \in \overline{T(B_{2^{-n}r})} y n ​ ∈ T ( B 2 − n r ​ ) ​
+- y n + 1 = y n − T ( x n ) y_{n+1}=y_n-T(x_n) y n + 1 ​ = y n ​ − T ( x n ​ )
+
+∥ x n ∥ < 2 − n r \|x_n\|<2^{-n}r ∥ x n ​ ∥ < 2 − n r 이므로 ∑ n = 1 ∞ ∥ x ∥ n < ∞ \sum_{n=1}^\infty \|x\|_n<\infty ∑ n = 1 ∞ ​ ∥ x ∥ n ​ < ∞ 이고 X X X 는 바나흐 공간이므로 극한 x = ∑ n = 1 ∞ x n ∈ X x=\sum_{n=1}^\infty x_n\in X x = ∑ n = 1 ∞ ​ x n ​ ∈ X 가 존재하고 ∥ x ∥ < r \|x\|<r ∥ x ∥ < r 이다. 또한
+∑ k = 1 ∞ T ( x k ) = ∑ k = 1 n ( y k − y k + 1 ) = y 1 − y n + 1 \displaystyle \sum_{k=1}^\infty T(x_k)=\sum_{k=1}^n (y_k-y_{k+1})=y_1-y_{n+1} k = 1 ∑ ∞ ​ T ( x k ​ ) = k = 1 ∑ n ​ ( y k ​ − y k + 1 ​ ) = y 1 ​ − y n + 1 ​ 이고 ⅱ.에 의해 ∥ y n ∥ ≤ ∥ T ∥ 2 − n r \|y_n\|\le \|T\|2^{-n}r ∥ y n ​ ∥ ≤ ∥ T ∥ 2 − n r 에서 y n → 0 y_n\to0 y n ​ → 0 이므로 y 1 = ∑ n = 1 ∞ T ( x n ) = T ( x ) ∈ T ( B r ) y_1=\sum_{n=1}^\infty T(x_n)=T(x)\in T(B_r) y 1 ​ = ∑ n = 1 ∞ ​ T ( x n ​ ) = T ( x ) ∈ T ( B r ​ ) 이다. 이를 종합하면 임의의 r > 0 r>0 r > 0 에 대하여 0 ∈ i n t ( T ( B r ) ) 0\in \mathrm{int}(T(B_r)) 0 ∈ int ( T ( B r ​ )) 이다.
+
+X X X 의 열린집합 U U U 와 x ∈ U x\in U x ∈ U 에 대하여 B X ( x , r x ) ⊆ U B_X(x, r_x)\subseteq U B X ​ ( x , r x ​ ) ⊆ U 인 양수 r x r_x r x ​ 를 택하면 0 ∈ i n t ( T ( B r x ) ) 0\in \mathrm{int}(T(B_{r_x})) 0 ∈ int ( T ( B r x ​ ​ )) 이므로 T T T 의 선형성에 의해 T ( x ) ∈ i n t [ T ( B X ( x , r x ) ) ] T(x)\in \mathrm{int}\left[T(B_X(x,r_x))\right] T ( x ) ∈ int [ T ( B X ​ ( x , r x ​ )) ] 이다. 따라서
+U x : = B Y ( T ( x ) , s x ) ⊆ T ( B X ( x , r x ) ) U_x:=B_Y(T(x), s_x)\subseteq T(B_X(x, r_x)) U x ​ := B Y ​ ( T ( x ) , s x ​ ) ⊆ T ( B X ​ ( x , r x ​ )) 를 만족시키는 양수 s x s_x s x ​ 가 존재하고, T ( U ) ⊇ ⋃ { U x : x ∈ U } T(U)\supseteq \bigcup\{U_x:x\in U\} T ( U ) ⊇ ⋃ { U x ​ : x ∈ U } 이다. 또한 T ( x ) ∈ U x T(x)\in U_x T ( x ) ∈ U x ​ 이므로 T ( U ) = ⋃ { U x : x ∈ U } T(U)= \bigcup\{U_x:x\in U\} T ( U ) = ⋃ { U x ​ : x ∈ U } 이다. 즉, T T T 는 열린 사상이다.
+
+5.1.2. 닫힌 그래프 정리 [편집]
+두 바나흐 공간 X , Y X,\ Y X , Y 의 닫힌 선형 작용소 T : X → Y T:X\to Y T : X → Y 는 유계이다. 즉, T T T 의 그래프
+Γ ( T ) = { x ⊕ T x ∈ X ⊕ 1 Y : x ∈ X } \Gamma(T)=\{x\oplus Tx \in X\oplus_1 Y:x\in X\} Γ ( T ) = { x ⊕ T x ∈ X ⊕ 1 ​ Y : x ∈ X } 가 닫힌집합이면 T T T 는 유계로, 연속이다. 증명
+사영사상 π 1 : Γ ( T ) → X \pi_1:\Gamma(T)\to X π 1 ​ : Γ ( T ) → X , π 2 : Γ ( T ) → Y \pi_2:\Gamma(T)\to Y π 2 ​ : Γ ( T ) → Y 는 각각 B ( Γ ( T ) , X ) \mathcal{B}(\Gamma(T),X) B ( Γ ( T ) , X ) 와 B ( Γ ( T ) , Y ) \mathcal{B}(\Gamma(T),Y) B ( Γ ( T ) , Y ) 에 속한다. Γ ( T ) \Gamma(T) Γ ( T ) 는 완비공간 X ⊕ 1 Y X\oplus_1 Y X ⊕ 1 ​ Y 의 닫힌 부분집합이므로 완비공간이다. π 1 \pi_1 π 1 ​ 은 Γ ( T ) \Gamma(T) Γ ( T ) 와 X X X 사이의 전단사 사상이므로 열린 사상 정리의 따름 정리에 의해 π 1 − 1 \pi_1^{-1} π 1 − 1 ​ 은 유계이다. 따라서 T = π 2 ∘ π 1 − 1 T=\pi_2\circ\pi_1^{-1} T = π 2 ​ ∘ π 1 − 1 ​ 도 유계이다.
+
+닫힌 그래프 정리를 이용해 두 노름 공간 사이의 선형변환의 연속성을 판단할 때, 다음 성질을 유용하게 사용할 수 있다. 두 노름 공간 X , Y X,Y X , Y 사이의 선형 변환 T : X → Y T:X\to Y T : X → Y 의 그래프가 닫힌 집합일 필요충분조건은 x n → 0 x_n\to 0 x n ​ → 0 일 때 T ( x n ) → y T(x_n)\to y T ( x n ​ ) → y 이면 y = 0 y=0 y = 0 이다. 증명
+( ⇒ ) (\Rightarrow) ( ⇒ ) T T T 의 그래프가 닫힌집합이므로 T T T 는 연속이다. 따라서
+lim ⁡ n → ∞ T ( x n ) = T ( lim ⁡ n → ∞ x n ) = T ( 0 ) = 0 \displaystyle \lim_{n\to\infty}T(x_n)=T\left(\lim_{n\to\infty}x_n\right)=T(0)=0 n → ∞ lim ​ T ( x n ​ ) = T ( n → ∞ lim ​ x n ​ ) = T ( 0 ) = 0 이다.
+
+( ⇐ ) (\Leftarrow) ( ⇐ ) { ( x n , T ( x n ) ) } ∈ Γ ( T ) \{(x_n, T(x_n))\}\in\Gamma(T) {( x n ​ , T ( x n ​ ))} ∈ Γ ( T ) 가 수렴하는 점렬이라 하자. 즉, x n → x x_n\to x x n ​ → x , T ( x n ) → y T(x_n)\to y T ( x n ​ ) → y 라 하자. w n : = x n − x w_n:=x_n-x w n ​ := x n ​ − x 라 하면 w n → 0 w_n\to 0 w n ​ → 0 이고 T ( w n ) = T ( x n − x ) = T ( x n ) − T ( x ) → y − T ( x ) T(w_n)=T(x_n -x)=T(x_n)-T(x) \to y-T(x) T ( w n ​ ) = T ( x n ​ − x ) = T ( x n ​ ) − T ( x ) → y − T ( x ) 이다. 가정에 의해 T ( w n ) → 0 T(w_n)\to0 T ( w n ​ ) → 0 이므로 y − T ( x ) = 0 y-T(x)=0 y − T ( x ) = 0 에서 y = T ( x ) y=T(x) y = T ( x ) 이다. 즉, ( x , y ) = ( x , T ( x ) ) ∈ Γ ( T ) (x, y)=(x, T(x))\in \Gamma(T) ( x , y ) = ( x , T ( x )) ∈ Γ ( T ) 이므로 Γ ( T ) \Gamma(T) Γ ( T ) 는 닫힌집합이다.
+
+5.1.3. 균등 유계성 원리 [편집]
+균등 유계성 원리(the principle of uniform boundedness)는 바나흐 공간에서 작용소의 점별 유계성이 균등 유계성을 함의함을 의미한다. 바나흐 공간 X X X 와 노름 공간 Y Y Y 에 대하여 A ⊆ B ( X , Y ) \mathcal{A}\subseteq\mathcal{B}(X,\ Y) A ⊆ B ( X , Y ) 라고 하자. 각 x ∈ X x\in X x ∈ X 에 대하여 sup ⁡ { ∥ T x ∥ Y : T ∈ A } < ∞ \sup\{\|Tx\|_Y:T\in\mathcal{A}\}<\infty sup { ∥ T x ∥ Y ​ : T ∈ A } < ∞ 이면 sup ⁡ { ∥ T ∥ : T ∈ A } < ∞ \sup\{\|T\|:T\in\mathcal{A}\}<\infty sup { ∥ T ∥ : T ∈ A } < ∞ 이다. 증명
+B n : = { x ∈ X : ∥ T x ∥ Y ≤ n ∀ T ∈ A } B_n:=\{x\in X: \|Tx\|_Y\le n\ \forall \,T\in \mathcal{A}\} B n ​ := { x ∈ X : ∥ T x ∥ Y ​ ≤ n ∀ T ∈ A } 라고 하면 가정에 의해 X = ⋃ n = 1 ∞ B n X=\bigcup_{n=1}^\infty B_n X = ⋃ n = 1 ∞ ​ B n ​ 이다. X X X 는 공집합 이 아닌 완비 거리 공간이므로 베르 범주 정리에 의해 어떤 자연수 N N N 에 대하여 B N B_N B N ​ 은 어디에서도 조밀하지 않은 집합이 아니다. 즉, i n t B n ‾ ≠ ∅ \mathrm{int}\,\overline{B_n}\ne \varnothing int B n ​ ​  = ∅ 이다. 임의의 T ∈ A T\in\mathcal{A} T ∈ A 에 대하여 T 0 = 0 T0=0 T 0 = 0 이므로 0 ∈ i n t B n ‾ 0\in\mathrm{int}\,\overline{B_n} 0 ∈ int B n ​ ​ 이고, 따라서 B X ( 0 , r ) ⊆ i n t B n ‾ B_X(0,r)\subseteq\mathrm{int}\,\overline{B_n} B X ​ ( 0 , r ) ⊆ int B n ​ ​ 인 양수 r r r 이 존재한다. B n = ⋂ T ∈ A { x ∈ X : ∥ T x ∥ Y ≤ n } B_n=\bigcap_{T\in\mathcal{A}}\{x\in X:\|Tx\|_Y \le n \} B n ​ = ⋂ T ∈ A ​ { x ∈ X : ∥ T x ∥ Y ​ ≤ n } 이므로 B n B_n B n ​ 은 닫힌집합이고, 따라서 ∥ x ∥ X ≤ r \|x\|_X \le r ∥ x ∥ X ​ ≤ r 인 x ∈ B X ( 0 , r ) x\in B_X(0,r) x ∈ B X ​ ( 0 , r ) 와 각 T ∈ A T\in\mathcal{A} T ∈ A 에 대하여 ∥ T x ∥ Y ≤ n \|Tx\|_Y\le n ∥ T x ∥ Y ​ ≤ n 이다. 따라서 모든 T ∈ A T\in\mathcal{A} T ∈ A 에 대하여 ∥ T ∥ ≤ n / r \|T\|\le n/r ∥ T ∥ ≤ n / r 이다.
+
+균등 유계성 원리를 이용해 바나흐-스테인하우스 정리(Banach-Steinhaus theorem)을 유도할 수 있다. 두 바나흐 공간 X , Y X, Y X , Y 사이의 유계 작용소열 { T n } n = 1 ∞ ⊂ B ( X , Y ) \{T_n\}_{n=1}^\infty\subset\mathcal{B}(X,Y) { T n ​ } n = 1 ∞ ​ ⊂ B ( X , Y ) 이 임의의 x ∈ X x\in X x ∈ X 에 대하여 ∥ T n x − y ∥ → 0 \|T_nx-y\|\to0 ∥ T n ​ x − y ∥ → 0 인 y ∈ Y y\in Y y ∈ Y 를 가지면 각 x ∈ X x\in X x ∈ X 에 대하여 ∥ T n x − T x ∥ → 0 \|T_nx-Tx\|\to0 ∥ T n ​ x − T x ∥ → 0 인 유계 작용소 T ∈ B ( X , Y ) T\in\mathcal{B}(X,Y) T ∈ B ( X , Y ) 가 존재하고 sup ⁡ ∥ T n ∥ < ∞ \sup\|T_n\|<\infty sup ∥ T n ​ ∥ < ∞ 이다.
+
+5.2. 수반 작용소 [편집]
+두 K \mathbb{K} K -바나흐 공간 X , Y X,~Y X , Y 사이의 연속선형변환 A ∈ B ( X , Y ) A\in\mathcal{B}(X,~Y) A ∈ B ( X , Y ) 에 대하여 A A A 의 수반 작용소 (adjoint operator)는 모든 x ∈ X x\in X x ∈ X 및 y ∗ ∈ Y ∗ y^*\in Y^* y ∗ ∈ Y ∗ 에 대하여
+< A x , y ∗ > = y ∗ ( A x ) = ( A ∗ y ∗ ) ( x ) = < x , A ∗ y ∗ > \left<Ax,~y^*\right>=y^*(Ax)=(A^*y^*)(x)=\left<x,~A^*y^*\right> ⟨ A x , y ∗ ⟩ = y ∗ ( A x ) = ( A ∗ y ∗ ) ( x ) = ⟨ x , A ∗ y ∗ ⟩ 를 만족시키는 사상 A ∗ : Y ∗ → X ∗ A^*:Y^*\to X^* A ∗ : Y ∗ → X ∗ 이다.
+
+바나흐 공간 사이의 수반 작용소는 대수적 쌍대 공간 사이의 특정 작용소를 연속 쌍대 공간으로 제한하여 얻을 수 있다. 두 K \mathbb{K} K -벡터 공간 X , Y X,~Y X , Y 와 선형 변환 A : X → Y A:X\to Y A : X → Y 가 있을 때, Y Y Y 위의 선형 범함수 y ′ y' y ′ 와 A A A 의 합성 y ′ ∘ A y'\circ A y ′ ∘ A 는 X X X 위의 선형 범함수이다. 이에 따라 두 대수적 쌍대 공간 사이의 사상 A ′ : Y ′ → X ′ A':Y'\to X' A ′ : Y ′ → X ′ 을 A ′ ( y ′ ) = y ′ ∘ A A'(y')=y'\circ A A ′ ( y ′ ) = y ′ ∘ A 로 정의할 수 있다. X , Y X,~Y X , Y 가 바나흐 공간일 때, A ∗ : = A ′ ∣ Y ∗ A^*:=A'|_{Y^*} A ∗ := A ′ ∣ Y ∗ ​ 라 하면 ( A ∗ y ∗ ) ( x ) = ( y ∗ ∘ A ) ( x ) = y ∗ ( A x ) (A^*y^*)(x)=(y^*\circ A)(x)=y^*(Ax) ( A ∗ y ∗ ) ( x ) = ( y ∗ ∘ A ) ( x ) = y ∗ ( A x ) 이다.
+
+5.2.1. 수반 작용소의 성질 [편집]
+수반 작용소는 약한 *-위상과 작용소 노름 위상 모두에서 연속이다. 즉, 두 바나흐 공간 X , Y X,~Y X , Y 사이의 유계 작용소 A ∈ B ( X , Y ) A\in\mathcal{B}(X,~Y) A ∈ B ( X , Y ) 에 대하여
+A ∗ : ( Y ∗ , w k ∗ ) → ( X ∗ , w k ∗ ) A^*:(Y^*,~\mathrm{wk^*})\to (X^*,~\mathrm{wk^*}) A ∗ : ( Y ∗ , w k ∗ ) → ( X ∗ , w k ∗ )
+A ∗ : ( Y ∗ , T o p ) → ( X ∗ , T o p ) A^*:(Y^*,~\mathcal{T}_\mathrm{op})\to (X^*,~\mathcal{T}_\mathrm{op}) A ∗ : ( Y ∗ , T op ​ ) → ( X ∗ , T op ​ ) 는 모두 연속사상이다. 두 바나흐 공간 Y ∗ , X ∗ Y^*,~X^* Y ∗ , X ∗ 에서의 연속성에 의해 A ∗ ∈ B ( Y ∗ , X ∗ ) A^*\in\mathcal{B}(Y^*,~X^*) A ∗ ∈ B ( Y ∗ , X ∗ ) 로, A ∗ A^* A ∗ 는 유계 작용소다. 증명
+Y ∗ Y^* Y ∗ 의 그물 ( y α ∗ ) α ∈ A (y_\alpha^*)_{\alpha \in A} ( y α ∗ ​ ) α ∈ A ​ 가 y ∗ y^* y ∗ 로 약하게 수렴한다고 하자. 즉, 임의의 y ∈ Y y\in Y y ∈ Y 에 대하여
+< y α ∗ , y > → < y ∗ , y > \left<y_\alpha^*,~y\right>\to \left<y^*,~y\right> ⟨ y α ∗ ​ , y ⟩ → ⟨ y ∗ , y ⟩ 이다. 임의의 x ∈ X x\in X x ∈ X 에 대하여 A x ∈ Y Ax\in Y A x ∈ Y 이므로
+< A ∗ y i ∗ , x > = < y α ∗ , A x > → < y ∗ , A x > = < A ∗ y ∗ , x > \left<A^*y_i^*,~x\right>=\left<y_\alpha^*,~Ax\right>\to\left<y^*,~Ax\right>=\left<A^*y^*,~x\right> ⟨ A ∗ y i ∗ ​ , x ⟩ = ⟨ y α ∗ ​ , A x ⟩ → ⟨ y ∗ , A x ⟩ = ⟨ A ∗ y ∗ , x ⟩ 이다. 즉, X ∗ X^* X ∗ 의 그물 ( A ∗ y α ∗ ) α ∈ A (A^*y_\alpha^*)_{\alpha \in A} ( A ∗ y α ∗ ​ ) α ∈ A ​ 는 A ∗ y ∗ A^*y^* A ∗ y ∗ 로 약하게 수렴하므로 A ∗ : ( Y ∗ , w k ∗ ) → ( X ∗ , w k ∗ ) {A^*:(Y^*,~\mathrm{wk^*})\to (X^*,~\mathrm{wk^*})} A ∗ : ( Y ∗ , w k ∗ ) → ( X ∗ , w k ∗ ) 는 연속이다.
+
+( y α ∗ ) α ∈ A (y_\alpha^*)_{\alpha \in A} ( y α ∗ ​ ) α ∈ A ​ 가 y ∗ y^* y ∗ 로 수렴한다고 하자. 즉, ∥ y i ∗ − y ∗ ∥ → 0 \|y_i^* -y^*\|\to 0 ∥ y i ∗ ​ − y ∗ ∥ → 0 이다. ∥ x ∥ = 1 \|x\|=1 ∥ x ∥ = 1 인 임의의 x ∈ X x\in X x ∈ X 에 대하여
+∣ [ A ∗ ( y i ∗ − y ∗ ) ] ( x ) ∣ = ∣ ( y i ∗ − y ∗ ) ( A x ) ∣ ≤ ∥ y i ∗ − y ∗ ∥ ∥ A ∥ ∥ x ∥ = ∥ y i ∗ − y ∗ ∥ ∥ A ∥ \begin{aligned} |\left[A^*(y^*_i-y^*)\right](x)|&=|(y^*_i-y^*)(Ax)|\\ &\le\|y^*_i -y^*\|\|A\|\|x\|\\ &=\|y^*_i -y^*\|\|A\| \end{aligned} ∣ [ A ∗ ( y i ∗ ​ − y ∗ ) ] ( x ) ∣ ​ = ∣ ( y i ∗ ​ − y ∗ ) ( A x ) ∣ ≤ ∥ y i ∗ ​ − y ∗ ∥∥ A ∥∥ x ∥ = ∥ y i ∗ ​ − y ∗ ∥∥ A ∥ ​ 이므로
+∥ A ∗ ( y i ∗ − y ∗ ) ∥ ≤ ∥ y i ∗ − y ∗ ∥ ∥ A ∥ \|A^*(y^*_i-y^*)\|\le \|y^*_i -y^*\|\|A\| ∥ A ∗ ( y i ∗ ​ − y ∗ ) ∥ ≤ ∥ y i ∗ ​ − y ∗ ∥∥ A ∥ 이다. ∥ y i ∗ − y ∗ ∥ → 0 \|y_i^* -y^*\|\to 0 ∥ y i ∗ ​ − y ∗ ∥ → 0 에서 ∥ A ∗ ( y i ∗ − y ∗ ) ∥ → 0 \|A^*(y^*_i-y^*)\|\to 0 ∥ A ∗ ( y i ∗ ​ − y ∗ ) ∥ → 0 으로, X ∗ X^* X ∗ 의 그물 ( A ∗ y α ∗ ) α ∈ A (A^*y_\alpha^*)_{\alpha \in A} ( A ∗ y α ∗ ​ ) α ∈ A ​ 는 A ∗ y ∗ A^*y^* A ∗ y ∗ 로 수렴한다. 따라서 A ∗ : ( Y ∗ , T o p ) → ( X ∗ , T o p ) A^*:(Y^*,~\mathcal{T}_\mathrm{op})\to (X^*,~\mathcal{T}_\mathrm{op}) A ∗ : ( Y ∗ , T op ​ ) → ( X ∗ , T op ​ ) 는 연속이다.
+
+바나흐 공간의 유계 작용소와 그 수반 작용소의 핵과 상은 직교성을 갖는다. A ∈ B ( X , Y ) A\in \mathcal{B}(X,~Y) A ∈ B ( X , Y ) 에 대하여 다음이 성립한다.
+ker ⁡ A = ( ran ⁡ A ∗ ) ⊥ , ker ⁡ A ∗ = ( ran ⁡ A ) ⊥ \ker A=(\operatorname{ran} A^*)^\perp,\ \ker A^*=(\operatorname{ran} A)^\perp ker A = ( ran A ∗ ) ⊥ , ker A ∗ = ( ran A ) ⊥ 두 바나흐 공간 X , Y X,~Y X , Y 의 유계 작용소 A ∈ B ( X , Y ) A\in\mathcal{B}(X,~Y) A ∈ B ( X , Y ) 에 대하여 다음이 성립한다. - ∥ A ∗ ∥ = ∥ A ∥ \|A^*\|=\|A\| ∥ A ∗ ∥ = ∥ A ∥
+- A A A 가 가역이면 A ∗ A^* A ∗ 도 가역이고 ( A ∗ ) − 1 = ( A − 1 ) ∗ (A^*)^{-1}=(A^{-1})^* ( A ∗ ) − 1 = ( A − 1 ) ∗ 이다.
+- 바나흐 공간 Z Z Z 와 유계 작용소 B ∈ B ( Y , Z ) B\in\mathcal{B}(Y,~Z) B ∈ B ( Y , Z ) 에 대하여 ( B A ) ∗ = A ∗ B ∗ (BA)^*=A^*B^* ( B A ) ∗ = A ∗ B ∗ 이다.
+
+증명
+(a) ∥ y ∗ ∥ ≤ 1 , ∥ x ∥ ≤ 1 \|y^*\|\le 1,~\|x\|\le 1 ∥ y ∗ ∥ ≤ 1 , ∥ x ∥ ≤ 1 인 y ∗ ∈ Y ∗ , x ∈ X y^*\in Y^*,~x\in X y ∗ ∈ Y ∗ , x ∈ X 에 대하여 ∣ < x , A ∗ y ∗ > ∣ = ∣ < A x , y ∗ > ∣ ≤ ∥ A x ∥ ≤ ∥ A ∥|\left<x,~A^*y^*\right>|=|\left<Ax,~y^*\right>|\le \|Ax\|\le \|A\| ∣ ⟨ x , A ∗ y ∗ ⟩ ∣ = ∣ ⟨ A x , y ∗ ⟩ ∣ ≤ ∥ A x ∥ ≤ ∥ A ∥ 이다. 따라서 ∥ A ∗ y ∗ ∥ ≤ ∥ A ∥ \|A^*y^*\|\le\|A\| ∥ A ∗ y ∗ ∥ ≤ ∥ A ∥ 로, ∥ A ∗ ∥ ≤ ∥ A ∥ \|A^*\|\le\|A\| ∥ A ∗ ∥ ≤ ∥ A ∥ 이다. 반대로
+∣ < A x , y ∗ > ∣ = ∣ < x , A ∗ y ∗ > ∣ ≤ ∥ A ∗ y ∗ ∥ ≤ ∥ A ∗ ∥|\left<Ax,~y^*\right>|=|\left<x,~A^*y^*\right>|\le\|A^*y^*\|\le\|A^*\| ∣ ⟨ A x , y ∗ ⟩ ∣ = ∣ ⟨ x , A ∗ y ∗ ⟩ ∣ ≤ ∥ A ∗ y ∗ ∥ ≤ ∥ A ∗ ∥ 에서 ∥ A x ∥ ≤ ∥ A ∗ ∥ \|Ax\|\le\|A^*\| ∥ A x ∥ ≤ ∥ A ∗ ∥ 로, ∥ A ∥ ≤ ∥ A ∗ ∥ \|A\|\le\|A^*\| ∥ A ∥ ≤ ∥ A ∗ ∥ 이다. 따라서 ∥ A ∥ = ∥ A ∗ ∥ \|A\|=\|A^*\| ∥ A ∥ = ∥ A ∗ ∥ 이다. (b) 임의의 y ∈ Y , y ∗ ∈ Y ∗ y\in Y,~y^*\in Y^* y ∈ Y , y ∗ ∈ Y ∗ 에 대하여 [ ( A − 1 ) ∗ A ∗ y ∗ ] ( y ) = A ∗ y ∗ ( A − 1 y ) = y ∗ ( A A − 1 y ) = y ∗ ( y ) [(A^{-1})^*A^*y^*](y)=A^*y^*(A^{-1}y)=y^*(AA^{-1}y)=y^*(y) [( A − 1 ) ∗ A ∗ y ∗ ] ( y ) = A ∗ y ∗ ( A − 1 y ) = y ∗ ( A A − 1 y ) = y ∗ ( y ) 이므로 A ∗ A^* A ∗ 는 가역이고 ( A ∗ ) − 1 = ( A − 1 ) ∗ (A^*)^{-1}=(A^{-1})^* ( A ∗ ) − 1 = ( A − 1 ) ∗ 이다. (c) 임의의 x ∈ X , z ∗ ∈ Z ∗ x\in X,~z^*\in Z^* x ∈ X , z ∗ ∈ Z ∗ 에 대하여 < B A x , z ∗ > = < A x , B ∗ z ∗ > = < x , A ∗ B ∗ z ∗ > \left<BAx,~z^*\right>=\left<Ax,~B^*z^*\right>=\left<x,~A^*B^*z^*\right> ⟨ B A x , z ∗ ⟩ = ⟨ A x , B ∗ z ∗ ⟩ = ⟨ x , A ∗ B ∗ z ∗ ⟩ 이므로 ( B A ) ∗ = A ∗ B ∗ (BA)^*=A^*B^* ( B A ) ∗ = A ∗ B ∗ 이다.
+
+5.3. 컴팩트 작용소 [편집]
+두 바나흐 공간 X , Y X,\ Y X , Y 의 선형변환 A : X → Y A:X\to Y A : X → Y 와 X X X 의 단위구 B B B 에 대하여 A ( B ) ‾ \overline{A(B)} A ( B ) ​ 가 Y Y Y 의 컴팩트 집합이면 A A A 를 컴팩트 작용소 라 한다. 이 정의에 따라 바나흐 공간의 컴팩트 작용소는 유계 작용소이다. 유계 작용소가 컴팩트 작용소인지 판정하기 위해 완전연속성을 정의한다. X X X 의 임의의 약하게 수렴하는 열 { x n } \{x_n\} { x n ​ } 에 대하여 x n → x x_n\to x x n ​ → x 일 때, ∥ A x n − A x ∥ → 0 \|Ax_n - Ax\|\to 0 ∥ A x n ​ − A x ∥ → 0 이면 A A A 를 완전연속 (completely continuous)라 한다. 컴팩트 작용소는 완전연속이다. 그 역은 일반적으로 성립하지 않으나, 정의역이 반사적인 경우 성립한다. 즉, 정의역이 반사적인 완전연속 작용소는 컴팩트 작용소이다.
+
+유계 작용소의 컴팩트성은 그 수반 작용소의 컴팩트성과 동치이다. 즉, A ∈ B ( X , Y ) A\in\mathcal{B}(X,\ Y) A ∈ B ( X , Y ) 가 컴팩트 작용소일 필요충분조건은 A ∗ A^* A ∗ 가 컴팩트 작용소인 것이다.
+
+5.4. 작용소의 스펙트럼 [편집]
+C \mathbb{C} C -바나흐 공간 X X X 의 유계 작용소 A ∈ B ( X ) A\in\mathcal{B}(X) A ∈ B ( X ) 에 대하여 C \mathbb{C} C 의 부분집합
+σ p ( A ) = { λ ∈ C : ker ⁡ ( A − λ I ) ≠ { 0 } } \sigma_p(A)=\{\lambda\in\mathbb{C}:\ker(A-\lambda I)\ne\{0\}\} σ p ​ ( A ) = { λ ∈ C : ker ( A − λ I )  = { 0 }} 를 작용소 A A A 의 점 스펙트럼(point spectrum)이라고 한다. 또한 C \mathbb{C} C 의 부분집합
+σ a p ( A ) = { λ ∈ C : ∃ { x n } in X such that ∥ x n ∥ = 1 ∀ n and ∥ ( A − λ ) x n ∥ → 0 } \sigma_{ap}(A)=\{\lambda\in\mathbb{C}:\exist \{x_n\}\text{ in }X \text{ such that }\|x_n\|=1\ \forall n \text{ and }\|(A-\lambda)x_n\|\to0\} σ a p ​ ( A ) = { λ ∈ C : ∃ { x n ​ } in X such that ∥ x n ​ ∥ = 1 ∀ n and ∥ ( A − λ ) x n ​ ∥ → 0 } 를 작용소 A A A 의 근사 스펙트럼(approximate spectrum)이라 한다. 정의에 따라 점 스펙트럼은 근사 스펙트럼의 부분집합이다. 점 스펙트럼은 공집합 일 수 있으나, 근사 스펙트럼은 공집합 이 아니다.
+
+6. 예시 [편집]
+- 힐베르트 공간 : 내적은 자연스러운 노름을 유도하기 때문에 완비 내적 공간인 힐베르트 공간은 바나흐 공간이다.
+- L p L^p L p 공간 : L p L^p L p 공간은 p ∈ [ 1 , ∞ ] p\in [1,\ \infty] p ∈ [ 1 , ∞ ] 일 때 바나흐 공간이다. p ∈ ( 0 , 1 ) p\in(0,\ 1) p ∈ ( 0 , 1 ) 일 경우 L p L^p L p 공간은 노름공간이 아니기 때문에 바나흐 공간이 아니다. 그러나 이 경우에도 완비성을 갖추고 있어 완비 준노름 공간을 이룬다.
+- 연속함수 공간 : 하우스도르프 공간 위의 유계 연속함수의 벡터공간은 균등 노름이 주어진 바나흐 공간이다.
+- 작용소 공간 : 두 노름 공간 X , Y X, Y X , Y 사이의 연속 선형 사상 집합 B ( X , Y ) \mathcal{B}(X, Y) B ( X , Y ) 는 작용소 노름을 갖춘 노름 공간이며, Y가 완비 공간일 경우 B ( X , Y ) \mathcal{B}(X, Y) B ( X , Y ) 도 완비성을 갖춰 바나흐 공간을 이룬다. 특히, 바나흐 공간 X X X 에 대하여 유계 선형 작용소 공간 B ( X ) \mathcal{B}(X) B ( X ) 는 합성연산을 곱셈으로 갖는 바나흐 대수 이다.
+
+이 문서의 내용 중 전체 또는 일부는 노름공간 문서의 r181 판에서 가져왔습니다. 이전 역사 보러 가기 [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

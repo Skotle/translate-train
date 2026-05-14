@@ -1,0 +1,133 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 헬만-파인만 정리
+최근 수정 시각: 2026-05-07 14:43:43 [ [ [ ] [ [ 1 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 1939년 연구
+- 양자역학
+- 리처드 파인만
+]
+
+[ [ ] [ 양자역학 Quantum Mechanics
+[ 펼치기 · 접기 ] 배경 | 흑체복사 · 이중슬릿 실험 · 광전효과 · 콤프턴 산란 · 보어의 원자 모형 · 물질파 · 데이비슨-저머 실험 · 불확정성 원리 · 슈테른-게를라흐 실험 · 프랑크-헤르츠 실험
+이론 체계 | 체계 플랑크 상수 ( 플랑크 단위계 ) · 공리 · 슈뢰딩거 방정식 · 파동함수 · 연산자 ( 해밀토니언 · 선운동량 · 각운동량 ) · 스핀 ( 스피너 ) · 파울리 배타 원리 해석 코펜하겐 해석 ( 보어-아인슈타인 논쟁 ) · 숨은 변수 이론 ( EPR 역설 · 벨의 부등식 · 광자 상자 ) · 다세계 해석 · 앙상블 해석 · 서울 해석 묘사 묘사 ( 슈뢰딩거 묘사 · 하이젠베르크 묘사 · 디랙 묘사) · 행렬역학
+연관 학문 | 천체물리학 ( 천문학 틀 · 우주론 · 양자블랙홀 · 중력 특이점 ) · 핵물리학 틀 ( 원자력 공학 틀 ) · 응집물질물리학 틀 · 컴퓨터 과학 틀 ( 양자컴퓨터 · 양자정보과학 ) · 통계역학 틀 · 양자화학 ( 물리화학 틀 ) · 입자물리학 ( 입자물리학 틀 )
+현상 · 응용 | 양자요동 · 양자 얽힘 · 양자 터널링 · 퍼텐셜 우물 · 양자 조화 진동자 · 오비탈 · 수소 원자 모형 · 쌓음 원리 · 훈트 규칙 · 섭동 ( 스핀 - 궤도 결합 · 제이만 효과 · 슈타르크 효과 · 헬만-파인만 정리 ) · 선택 규칙 · 변분 원리 · WKB 근사법 · 시간 결정 · 보스-아인슈타인 응집 · 솔리톤 · 카시미르 효과 · 아하로노프-봄 효과 · 블랙홀 정보 역설 · 양자점 · 하트리-포크 방법 · 밀도범함수 이론 · 준위 · 양자장론 ( 양자전기역학 · 양자색역학 ) · 뤼드베리 방정식 · 체렌코프 현상
+기타 | 군론 · 기본 입자 · 대칭성 · 비리얼 정리 · 리만 가설 · 매듭이론 · 밀도행렬 · 물질 · 방사선 ( 반감기 ) · 라플라스의 악마 · 슈뢰딩거의 고양이 ( 위그너의 친구 )
+문헌 | 교재 · 분류:물리학술지
+
+리처드 파인만
+관련 문서
+[ 펼치기 · 접기 ] 연구 분야 & 업적 | 입자이론 | 양자전기역학 ( 경로적분 , 파인만 다이어그램 , 파인만 매개변수화 )
+강한 상호 작용 ( 쿼크 )
+핵이론 | 맨해튼 계획 ( 베테-파인만 방정식 )
+양자물리론 | 양자역학 ( 헬만-파인만 정리 )
+양자정보과학 ( 양자컴퓨터의 공리 )
+응집이론 | 초유동체
+행적 및 활동 | 행적 · 활동
+소속 | 로스 앨러모스 국립 연구소 · 코넬 대학교 · 캘리포니아 공과대학교
+관련 학자 | 폴 디랙 · 한스 베테 · 존 폰 노이만 · 줄리어스 로버트 오펜하이머 · 엔리코 페르미 · 도모나가 신이치로 · 줄리언 슈윙거 · 프리먼 다이슨 · 머리 겔만 · 스티븐 울프럼 · 피터 쇼어
+출판 | 출판 기록 · 파인만의 물리학 강의
+기타 | 파인만 알고리즘 · 파인만 포인트 · 확률컴퓨터 · 확률미적분학 · 경로적분/응용 · 나노머신 · STS-51-L · 트리니티 실험 · 파인마늄 · 파인만 기법
+
+1 . 개요 2 . 정의 3 . 섭동 유도 4 . 파인만의 접근 5 . 헬만의 접근 6 . 참고 문헌
+
+1. 개요 [편집]
+헬만-파인만 정리는 양자역학내 뉴턴역학적 표현을 해석적으로 보완하는 해밀토니언 형식이다.
+
+2. 정의 [편집]
+양자역학에서의 뉴턴 역학적 표현을 해석적으로 보완하기 위한 형식을 여러명의 학자들이 고안했는데, 이중 파인만의 접근과 헬만의 접근을 각각 엮어서 헬만-파인만 정리로 소개되었다.
+
+헬만과 파인만의 접근은 매개변수로 미분된 해밀토니언 연산자에 내적(혹은 힐베르트 직교화)이 이루어졌다는 공통점을 시사한다. 두 학자의 접근으로 부터 유도된 공통된 정의는 다음과 같다.
+
+∂ E ( λ ) ∂ λ = < φ ( λ ) ∣ ∂ H ∂ λ ∣ φ ( λ ) > \begin{aligned} \frac{\partial E(\lambda)}{\partial \lambda}=\biggl<\varphi(\lambda) \biggl| \frac{\partial \mathcal{H}}{\partial \lambda} \biggr|\varphi(\lambda) \biggr>\end{aligned} ∂ λ ∂ E ( λ ) ​ = ⟨ φ ( λ ) ​ ∂ λ ∂ H ​ ​ φ ( λ ) ⟩ ​
+
+3. 섭동 유도 [편집]
+어떤 양자계의 해밀토니언 H \mathcal{H} H 가 λ \lambda λ 의 함수라고 가정하고, E n ( λ ) E_{n}(\lambda) E n ​ ( λ ) , φ n ( λ ) \varphi_{n}(\lambda) φ n ​ ( λ ) 가 해당 해밀토니언에 대한 고윳값과 고유함수라 하고, 해밀토니언에 λ \lambda λ 에 대한 약간의 섭동( λ → λ + d λ \lambda \to \lambda+{\rm d}\lambda λ → λ + d λ )을 가한다면, 섭동 해밀토니언은 다음과 같이 쓸 수 있다.
+
+H ′ = H ( λ + d λ ) − H ( λ ) = ∂ H ∂ λ d λ + O ( ( d λ ) 2 ) \begin{aligned} \mathcal{H}'&=\mathcal{H}(\lambda+{\rm d}\lambda)-\mathcal{H}(\lambda) \\&=\frac{\partial \mathcal{H}}{\partial \lambda}\,{\rm d}\lambda +\mathcal{O}((\rm d\lambda)^2) \end{aligned} H ′ ​ = H ( λ + d λ ) − H ( λ ) = ∂ λ ∂ H ​ d λ + O (( d λ ) 2 ) ​
+이때, 1차 보정 에너지는 다음과 같이 주어진다.
+
+⟨ φ n ( λ ) ∣ H ′ ∣ φ n ( λ ) ⟩ = < φ n ( λ ) ∣ ∂ H ∂ λ ∣ φ n ( λ ) > d λ \begin{aligned} \langle \varphi_{n}(\lambda) |\mathcal{H}'| \varphi_{n}(\lambda) \rangle=\biggl<\varphi_{n}(\lambda) \biggl| \frac{\partial \mathcal{H}}{\partial \lambda} \biggr|\varphi_{n}(\lambda) \biggr>\,{\rm d}\lambda \end{aligned} ⟨ φ n ​ ( λ ) ∣ H ′ ∣ φ n ​ ( λ )⟩ = ⟨ φ n ​ ( λ ) ​ ∂ λ ∂ H ​ ​ φ n ​ ( λ ) ⟩ d λ ​
+1차 보정 에너지는 곧 섭동에 의한 에너지 변화량이 되므로, [1]
+
+Δ E n = E ( λ + d λ ) − E ( λ ) = ∂ E n ( λ ) ∂ λ d λ \begin{aligned} \Delta E_{n}&=E(\lambda+{\rm d}\lambda)-E(\lambda) \\&=\frac{\partial E_{n}(\lambda)}{\partial \lambda}\,{\rm d}\lambda \end{aligned} Δ E n ​ ​ = E ( λ + d λ ) − E ( λ ) = ∂ λ ∂ E n ​ ( λ ) ​ d λ ​ 위 결과로 부터 다음을 얻는다.
+
+∂ E n ( λ ) ∂ λ = < φ n ( λ ) ∣ ∂ H ∂ λ ∣ φ n ( λ ) > \begin{aligned} \frac{\partial E_{n}(\lambda)}{\partial \lambda}=\biggl<\varphi_{n}(\lambda) \biggl| \frac{\partial \mathcal{H}}{\partial \lambda} \biggr|\varphi_{n}(\lambda) \biggr>\end{aligned} ∂ λ ∂ E n ​ ( λ ) ​ = ⟨ φ n ​ ( λ ) ​ ∂ λ ∂ H ​ ​ φ n ​ ( λ ) ⟩ ​
+
+4. 파인만의 접근 [편집]
+분자간 전자기 현상을 표현하는 인력과 척력은 양자역학에서 쓰이는 대표적인 뉴턴역학적 개념이다. 하지만, 뉴턴역학만 온전히 사용하는 것은 양자역학에서 에너지라는 표현으로 정의되는 파동역학으로 설명하기 어색한 부분이 존재하는 문제점이 있다. 뉴턴역학적 표현들을 파동역학적으로 접근하기 위해 무차원 매개변수 λ \lambda λ 를 에너지에 미분해 힘과 에너지의 관계를 유도할수 있고, 에너지가 곡선 형태의 함수일때 그것의 기울기로써 힘이 설명 가능하다.
+
+f λ = − ∂ E ( λ ) ∂ λ \begin{aligned} f_{\lambda} = -\frac{\partial E(\lambda)}{\partial \lambda}\end{aligned} f λ ​ = − ∂ λ ∂ E ( λ ) ​ ​
+
+힘을 평균 에너지로 보기 위해 에너지를 해밀토니언으로 바꿔쓰고 규격화를 한다면,
+
+f λ = − < ∂ H ∂ λ > = − < φ ( λ ) ∣ ∂ H ∂ λ ∣ φ ∗ ( λ ) > \begin{aligned} f_{\lambda} = -\biggl< \frac{\partial \mathcal{H}}{\partial \lambda} \biggr> =-\biggl<\varphi (\lambda) \biggl| \frac{\partial \mathcal{H}}{\partial \lambda} \biggr|\varphi^*(\lambda) \biggr>\end{aligned} f λ ​ = − ⟨ ∂ λ ∂ H ​ ⟩ = − ⟨ φ ( λ ) ​ ∂ λ ∂ H ​ ​ φ ∗ ( λ ) ⟩ ​
+
+한편, 해밀토니언이 자기 수반 연산자라는 특성과 디랙 표기법을 따르므로 [2] , 오른쪽 항은 아래와 같이 미분이 가능하다. ∂ E ( λ ) ∂ λ = ∂ ∂ λ < φ ( λ ) ∣ H ∣ φ ( λ ) > = < φ ( λ ) ∣ ∂ H ∂ λ ∣ φ ∗ ( λ ) > + < ∂ φ ( λ ) ∂ λ ∣ H ∣ φ ∗ ( λ ) > + < φ ( λ ) ∣ H ∣ ∂ φ ∗ ( λ ) ∂ λ > = < φ ( λ ) ∣ ∂ H ∂ λ ∣ φ ∗ ( λ ) > + E λ < ∂ φ ( λ ) ∂ λ ∣ φ ∗ ( λ ) > + E λ < φ ( λ ) ∣ ∂ φ ∗ ( λ ) ∂ λ > = < φ ( λ ) ∣ ∂ H ∂ λ ∣ φ ∗ ( λ ) > + E λ ∂ ∂ λ ⟨ φ ( λ ) ∣ φ ∗ ( λ ) ⟩ = < φ ( λ ) ∣ ∂ H ∂ λ ∣ φ ∗ ( λ ) > \displaystyle \begin{aligned} \frac{\partial E(\lambda)}{\partial \lambda}&=\dfrac{\partial}{\partial \lambda} \biggl<\varphi(\lambda) \biggl| \mathcal{H} \biggr|\varphi(\lambda) \biggr>\\ &= \biggl<\varphi (\lambda) \biggl| \frac{\partial \mathcal{H}}{\partial \lambda} \biggr|\varphi^*(\lambda) \biggr>+\biggl<\frac{\partial \varphi (\lambda)}{\partial \lambda} \biggl| \mathcal{H} \biggr|\varphi^*(\lambda) \biggr>+\biggl<\varphi (\lambda) \biggl| \mathcal{H} \biggr|\frac{\partial \varphi^*(\lambda)}{\partial \lambda} \biggr> \\ &= \biggl<\varphi (\lambda) \biggl| \frac{\partial \mathcal{H}}{\partial \lambda} \biggr|\varphi^*(\lambda) \biggr>+E_{\lambda} \biggl<\frac{\partial \varphi (\lambda)}{\partial \lambda} \biggl|\varphi^*(\lambda) \biggr>+E_{\lambda} \biggl<\varphi (\lambda) \biggl|\frac{\partial \varphi^*(\lambda)}{\partial \lambda} \biggr> \\ &= \biggl<\varphi (\lambda) \biggl| \frac{\partial \mathcal{H}}{\partial \lambda} \biggr|\varphi^*(\lambda) \biggr>+E_{\lambda} \frac{\partial}{\partial \lambda}\langle \varphi (\lambda) |\varphi^*(\lambda) \rangle \\ &= \biggl<\varphi (\lambda) \biggl| \frac{\partial \mathcal{H}}{\partial \lambda} \biggr|\varphi^*(\lambda) \biggr>\end{aligned} ∂ λ ∂ E ( λ ) ​ ​ = ∂ λ ∂ ​ ⟨ φ ( λ ) ​ H ​ φ ( λ ) ⟩ = ⟨ φ ( λ ) ​ ∂ λ ∂ H ​ ​ φ ∗ ( λ ) ⟩ + ⟨ ∂ λ ∂ φ ( λ ) ​ ​ H ​ φ ∗ ( λ ) ⟩ + ⟨ φ ( λ ) ​ H ​ ∂ λ ∂ φ ∗ ( λ ) ​ ⟩ = ⟨ φ ( λ ) ​ ∂ λ ∂ H ​ ​ φ ∗ ( λ ) ⟩ + E λ ​ ⟨ ∂ λ ∂ φ ( λ ) ​ ​ φ ∗ ( λ ) ⟩ + E λ ​ ⟨ φ ( λ ) ​ ∂ λ ∂ φ ∗ ( λ ) ​ ⟩ = ⟨ φ ( λ ) ​ ∂ λ ∂ H ​ ​ φ ∗ ( λ ) ⟩ + E λ ​ ∂ λ ∂ ​ ⟨ φ ( λ ) ∣ φ ∗ ( λ )⟩ = ⟨ φ ( λ ) ​ ∂ λ ∂ H ​ ​ φ ∗ ( λ ) ⟩ ​
+
+전자기 현상을 직접 다루기 위해 해밀토니언을 다시 퍼텐셜 에너지로 바꿔쓰고, 파동함수를 좀더 정밀하게 다루기 위해, 파동함수 φ \varphi φ 는 몇몇 핵자들을 포함한다고 가정하고, 핵자들 하나당 공간 좌표를 X , Y , Z X, Y, Z X , Y , Z 내지는 X μ X_{\mu} X μ ​ [3] 로 가진다고 추가로 가정한다. 그러면, 다음과 같다.
+
+f μ = − < φ ( X μ ) ∣ ∂ V ∂ X μ ∣ φ ∗ ( X μ ) > \begin{aligned} f_{\mu} =-\biggl<\varphi (X_{\mu}) \biggl| \frac{\partial V}{\partial X_{\mu}} \biggr|\varphi^*(X_{\mu}) \biggr>\end{aligned} f μ ​ = − ⟨ φ ( X μ ​ ) ​ ∂ X μ ​ ∂ V ​ ​ φ ∗ ( X μ ​ ) ⟩ ​
+
+전자기 현상에서 퍼텐셜이 발생할수 있는 경우는 핵자간 상호작용, 핵자-전자 상호작용, 전자간 상호작용이므로, 원자내 발생가능한 퍼텐셜을 조사하기 위해 세개의 항으로 쪼개고, 전자의 공간 좌표를 x μ e x_{\mu}^{e} x μ e ​ 라고 한다면,
+
+V = ∑ V N N ′ + ∑ V N ′ e + ∑ V e e \begin{aligned} V=\sum V_{NN'} + \sum V_{N'e} + \sum V_{ee} \end{aligned} V = ∑ V N N ′ ​ + ∑ V N ′ e ​ + ∑ V ee ​ ​
+쿨롱 퍼텐셜의 정의에 의해, 위 식 중간항의 좌표가 R = X μ N ′ − x μ e R=X_{\mu}^{N'}-x_{\mu}^{e} R = X μ N ′ ​ − x μ e ​ 라면, 퍼텐셜 미분은 다음과 같이 정리된다.
+
+∂ V N ′ e ∂ R ∂ R ∂ X μ N = − δ N ′ N ∂ V N ′ e ∂ R ∂ R ∂ x μ e ∂ V N ′ e ∂ X μ N = − δ N ′ N ∂ V N ′ e ∂ x μ e \begin{aligned} \frac{\partial V_{N'e}}{\partial R}\frac{\partial R}{\partial X_{\mu}^{N}} &=-\delta_{N'}^{N} \frac{\partial V_{N'e}}{\partial R}\frac{\partial R}{\partial x_{\mu}^{e}} \\ \frac{\partial V_{N'e}}{\partial X_{\mu}^{N}}&=-\delta_{N'}^{N} \frac{\partial V_{N'e}}{\partial x_{\mu}^{e}} \end{aligned} ∂ R ∂ V N ′ e ​ ​ ∂ X μ N ​ ∂ R ​ ∂ X μ N ​ ∂ V N ′ e ​ ​ ​ = − δ N ′ N ​ ∂ R ∂ V N ′ e ​ ​ ∂ x μ e ​ ∂ R ​ = − δ N ′ N ​ ∂ x μ e ​ ∂ V N ′ e ​ ​ ​
+쿨롱 퍼텐셜에서의 파인만의 접근법을 적용하면, f μ = < φ ( x μ ) ∣ ∑ e ∂ V N ′ e ∂ x μ e ∣ φ ∗ ( x μ ) > − ∑ N ′ < φ ( x μ ) ∣ ∂ V N N ′ ∂ X μ N ∣ φ ∗ ( x μ ) > = ∫ ∑ e ∂ V N ′ e ∂ x μ e ∫ i ⟨ φ ( x μ ) ∣ φ ∗ ( x μ ) ⟩ d x μ − ∑ N ′ ∂ V N N ′ ∂ X μ N \displaystyle \begin{aligned} f_{\mu}&= \biggl<\varphi(x_{\mu}) \biggl| \sum_{e} \dfrac{\partial V_{N'e}}{\partial x_{\mu}^{e}} \biggr|\varphi^*(x_{\mu}) \biggr> - \sum_{N'} \biggl<\varphi(x_{\mu}) \biggl| \dfrac{\partial V_{NN'}}{\partial X_{\mu}^{N}} \biggr|\varphi^*(x_{\mu}) \biggr> \\ &=\int \sum_{e} \dfrac{\partial V_{N'e}}{\partial x_{\mu}^{e}} \int i \langle \varphi(x_{\mu})|\varphi^*(x_{\mu}) \rangle \, {\rm d}x_{\mu} - \sum_{N'} \dfrac{\partial V_{NN'}}{\partial X_{\mu}^{N}} \end{aligned} f μ ​ ​ = ⟨ φ ( x μ ​ ) ​ e ∑ ​ ∂ x μ e ​ ∂ V N ′ e ​ ​ ​ φ ∗ ( x μ ​ ) ⟩ − N ′ ∑ ​ ⟨ φ ( x μ ​ ) ​ ∂ X μ N ​ ∂ V N N ′ ​ ​ ​ φ ∗ ( x μ ​ ) ⟩ = ∫ e ∑ ​ ∂ x μ e ​ ∂ V N ′ e ​ ​ ∫ i ⟨ φ ( x μ ​ ) ∣ φ ∗ ( x μ ​ )⟩ d x μ ​ − N ′ ∑ ​ ∂ X μ N ​ ∂ V N N ′ ​ ​ ​
+
+이때,
+
+∑ e ∂ V N ′ e ∂ x μ e \displaystyle\sum_{e} \dfrac{\partial V_{N'e}}{\partial x_{\mu}^{e}} e ∑ ​ ∂ x μ e ​ ∂ V N ′ e ​ ​
+가 전자기장 E μ N ( x e ) E_{\mu}^{N}(x^{e}) E μ N ​ ( x e ) 이고,
+
+∫ i ⟨ φ ( x μ ) ∣ φ ∗ ( x μ ) ⟩ d x μ \displaystyle\int i \langle \varphi(x_{\mu})|\varphi^*(x_{\mu}) \rangle\, {\rm d}x_{\mu} ∫ i ⟨ φ ( x μ ​ ) ∣ φ ∗ ( x μ ​ )⟩ d x μ ​
+가 전하 밀도 분포 ∑ ρ ( x ) \sum \rho(x) ∑ ρ ( x ) 로 정의 될때, 파인만의 접근법은 최종적으로 다음과 같다. f μ = ∫ E μ N ( x e ) ∑ ρ ( x ) d x μ − ∑ N ′ ∂ V N N ′ ∂ X μ N \displaystyle \begin{aligned}f_{\mu}=\int E_{\mu}^{N}(x^{e}) \sum \rho(x)\,\,{\rm d}x_{\mu} - \sum_{N'} \dfrac{\partial V_{NN'}}{\partial X_{\mu}^{N}} \end{aligned} f μ ​ = ∫ E μ N ​ ( x e ) ∑ ρ ( x ) d x μ ​ − N ′ ∑ ​ ∂ X μ N ​ ∂ V N N ′ ​ ​ ​
+
+5. 헬만의 접근 [편집]
+
+6. 참고 문헌 [편집]
+- R. P. Feynman, Force in Molecules, Phys. Rev. 56, 340(1939)
+
+[1] 여기서 1차항만 다룬 것은 우리가 1차 보정 에너지만 다루고 있기 때문이다. [2] H ∣ φ ( λ ) ⟩ = E λ ∣ φ ( λ ) ⟩ \mathcal{H}|\varphi(\lambda)\rangle = E_{\lambda}|\varphi(\lambda)\rangle H ∣ φ ( λ )⟩ = E λ ​ ∣ φ ( λ )⟩ . [3] μ = 1 , 2 , 3 \mu = 1,2,3 μ = 1 , 2 , 3 . 이 문서의 내용 중 전체 또는 일부는 섭동 이론 문서의 r156 판, 2.4번 문단 에서 가져왔습니다. 이전 역사 보러 가기 [ 남동구렌트카 쿠팡
+www.coupang.com v-if
+[ [ 로켓프레시 ] [ 골드박스 ] [ 로켓직구 ] [ 로켓배송 ] ]
+남동구렌트카 교체로 흔들림 없는 주행감을, 와우회원 무료배송으로 경험하세요.
+
+] | [ 남동구컴퓨터수리 쿠팡
+www.coupang.com v-if
+[ [ 로켓프레시 ] [ 골드박스 ] [ 로켓직구 ] [ 로켓배송 ] ]
+세련된 남동구컴퓨터수리, 감성 가득한 디자인으로 식탁 분위기를 바꿔보세요.
+
+] | [ 전국24시 출장비0원 컴닥터
+www.컴닥터본사.kr v-if
+[ [ 홈페이지접수 ] [ 온라인문의 ] [ 체인점찾기 ] [ 서비스요금 ] ]
+전국 대표 컴닥터 컴퓨터수리 데이터복구 20분 무료 출장 서비스, A/S안심서비스
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

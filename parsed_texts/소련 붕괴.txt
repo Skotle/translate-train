@@ -1,0 +1,883 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 소련 붕괴
+최근 수정 시각: 2026-05-02 14:48:57 [ [ [ ] [ [ 142 ] ] ] [ [ [ ] [ 편집 요청 ] ] ] [ 편집 요청 ] [ 편집 권한이 부족합니다. 로그인된 사용자(이)여야 합니다. 해당 문서의 ACL 탭 을 확인하시기 바랍니다. [
+편집 권한이 부족한 경우 아래의 '편집 요청' 버튼으로 편집 요청을 생성할 수 있습니다. [편집 요청 도움말] ] ] [ 편집 요청 ] [ 닫기 ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 고르바초프 시대
+- 소련의 역사
+- 소련의 사건 사고
+- 1990년/사건사고
+- 1991년/사건사고
+- 러시아의 사건 사고
+- 우크라이나의 사건 사고
+- 아르메니아의 사건 사고
+- 카자흐스탄의 사건 사고
+- 아제르바이잔의 사건 사고
+- 조지아의 사건 사고
+- 벨라루스의 사건 사고
+- 정치 사건 사고
+- 탈냉전
+- 민주화 운동
+- 동구권
+]
+
+[ [ ] [ 주의. 사건·사고 관련 내용을 설명합니다.
+
+사건 사고 관련 서술 규정 을 유의하시기 바랍니다. 소련
+관련 문서
+[ 펼치기 · 접기 ] 상징 | 국기 · 국장 · 국호 · 노동자 마르세예즈 · 인터내셔널가 · 소련 국가 · 낫과 망치 · 붉은 별
+정치 | 정치 전반 · 소련 공산당 · 소련 공산당대회 · 크렘린 · 레닌 영묘 · 크렘린 벽 묘지 · 소련 최고회의 · 소련 장관회의 · 헌법
+블라디미르 레닌 · 이오시프 스탈린 · 니키타 흐루쇼프 · 레오니트 브레즈네프 · 유리 안드로포프 · 콘스탄틴 체르넨코 · 미하일 고르바초프
+최고지도자 ( 서기장 ) · 국가수반 ( 최고회의 상무회 주석 ) · 대통령 · 정부 전용기
+행정 | 구성국 틀 · 구성국 역사 틀
+군사 | 소련군 ( 장비 · 소련 육군 · 소련 해군 · 소련 공군 · 소련 방공군 · 소련 전략로켓군 ) · 스타프카 · 소련 국방부 · 소련 국방장관 · 스페츠나츠 · 정치장교 · 바르샤바 조약 기구 · 열병식
+소련의 핵개발 ( RDS-1 · 차르 봄바 · 세미팔라틴스크 ) · 소련군 vs 미군 · 소련군 vs 자위대 · 대외전쟁
+치안 | 체카 · NKVD · KGB · 밀리치야
+경제 | 경제 · 경제사 · 소련 루블 · 굼 · 콤비나트 · 콜호스와 솝호스 · 5개년 계획
+인문 | 민족 · 언어 · 종교 · 교통
+역사 | 역사 · 러시아 혁명 · 러시아 내전 · 신경제정책 · 우크라이나 대기근 · 대숙청 · 독소 폴란드 점령 ( 카틴 학살 ) · 대조국전쟁 · 소련-일본 전쟁 · 냉전 ( 6.25 전쟁 · 스푸트니크 쇼크 · 쿠바 미사일 위기 · 소련-아프가니스탄 전쟁 · 1980 모스크바 올림픽 ) · 글라스노스트 & 페레스트로이카 · 소련 존속 여부 국민투표 · 8월 쿠데타 · 소련 붕괴 · 체르노빌 원자력 발전소 폭발 사고
+외교 | 외교 · 미소관계 · 소련-유고슬라비아 관계 ( 티토-스탈린 결별 ) · 중소관계 ( 중국-소련 국경분쟁 · 중소결렬 ) · 나치 독일-소련 관계 ( 독소 불가침조약 ) · 독러관계 · 북소관계 · 한소관계 · 소련-일본 관계 · 소련-몽골 관계 · 소련-대만 관계 · 친소 · 소비에트 제국 · 브레즈네프 독트린 · 인테르코스모스
+문화 | 문화 · 노문학 · 사회주의 리얼리즘 · 사미즈다트 · 교육 · 요리 · 공휴일
+막심 고리키 · 보리스 파스테르나크 · 미하일 숄로호프 · 알렉산드르 솔제니친 · 스트루가츠키 형제 · 예발트 일리옌코프
+세르게이 프로코피예프 · 드미트리 쇼스타코비치 · 드미트리 카발레프스키 · 아람 하차투리안
+알렉산드르 갈리치 · 블라디미르 비소츠키 · 이고르 탈코프 · 불라트 오쿠자바 · 알렉산드르 바실라초프 · 마시나 브레메니 · 아크바리움 · 미하일 나우멘코 · 키노 / 빅토르 초이 · DDT(밴드) / 유리 솁추크 · 코롤 이 슈트 · 섹토르 가자 / 유리 클린스키흐 · 아우크치온 · 나우틸루스 폼필리우스 · 크루이스 · 아리야 · 예고르 레토프 · 얀카 댜길레바 · 드미트리 셀리바노프 · 초르니 루키치 · 즈부키 무 · 크루그
+과학 | 우주 | 콘스탄틴 치올코프스키 · 반작용 추진 연구 그룹 · 세르게이 코롤료프 · 블라디미르 첼로메이 · 유리 가가린 · 발렌티나 테레시코바 · 알렉세이 레오노프
+스푸트니크 · 소유즈 우주선 · 보스토크 계획 · 보스호드 계획 · 살류트 프로그램 · 미르 우주정거장
+기초 | 소련의 기초과학 · 토카막 · 러더포듐 · 더브늄 · 시보귬 · 보륨
+분류:소련의 과학자 · 표트르 카피차 · 레프 란다우 · 이고르 탐 · 그리고리 마르굴리스 · 안드레이 사하로프 · 파벨 체렌코프
+스테클로프 수학 연구원 · 쿠르차토프 연구원 · 레베데프 물리 연구원 · 란다우 이론물리학 연구원
+
+러시아
+관련 문서
+[ 펼치기 · 접기 ] 상징 | 국호 · 국기 · 국장 · 국가 · 쌍두독수리
+역사 | 역사 전반 · 루스 차르국 · 러시아 제국 · 러시아 공화국 · 소련 · 소련 붕괴 · 러시아 연방조약 · 러시아 헌정 위기
+지리 | 지역 구분 ( 틀 ) · 극동 연방관구 ( 하위 지역 · 야쿠츠크 · 베르호얀스크 · 오이먀콘 · 아긴스크부랴트 자치구 ) · 남부 연방관구 ( 하위 지역 ) · 볼가 연방관구 ( 하위 지역 ) · 북서 연방관구 ( 하위 지역 ) · 북캅카스 연방관구 ( 하위 지역 ) · 시베리아 연방관구 ( 하위 지역 · 노보시비르스크 ( 하위 지역 )) · 우랄 연방관구 ( 하위 지역 ) · 도시 목록 · 모스크바 · 중앙 연방관구 ( 하위 지역 ) · 툰드라 · 라스푸티차 · 라도가호 · 바이칼호 · 카라차이호 · 한카호 · 돈강 · 레나강 · 야만타우산 · 볼가강 · 아무르강 · 예니세이강 · 우랄강 · 우랄산맥 · 스타노보이산맥 · 옐브루스 · 나로드나야산 · 시베리아 ( 시베리아 트랩 ) · 러시아 극동 · 유럽 러시아 · 북아시아 · 야말반도 · 타이미르반도 · 캄차카반도 ( 코만도르스키예 제도 ) · 노보시비르스크 제도 · 브랑겔섬 · 콜라반도 · 축치반도 · 크림반도 · 사할린 · 쿠릴 열도 ( 쿠릴 열도 분쟁 ) · 세베르나야제믈랴 · 제믈랴프란차이오시파 · 오세티야 · 체르노젬 · 쿠즈바스 · 돈바스
+문화 | 문화 전반 · 문학 · 레프 톨스토이 · 표도르 도스토옙스키 · 상트페테르부르크 음악원 · 모스크바 음악원 · 안톤 루빈시테인 · 표트르 차이콥스키 · 드미트리 쇼스타코비치 · 세르게이 프로코피예프 · 세르게이 라흐마니노프 · 알렉산드르 스크랴빈 · 니콜라이 메트네르 · 볼쇼이 극장 · 마린스키 극장 ( 마린스키 발레단 ) · 러시아 국립 교향악단 · 상트페테르부르크 필하모닉 오케스트라 · 러시아 정교회 · 러시아 영화 · 모스크바 국제 영화제 · 러시아 민요 · 발랄라이카 · 요우힉코 · 미하일 글린카 · 러시아 5인조 · 알렉산드르 글라주노프 · 게오르기 스비리도프 · 드미트리 카발레프스키 · 아람 하차투리안 · 이고르 스트라빈스키 · 안톤 아렌스키 · 니콜라이 카푸스틴 · 알렉산드르 푸시킨 · 미하일 레르몬토프 · 니콜라이 고골 · 이반 투르게네프 · 안톤 체호프 · 블라디미르 나보코프 · 알렉산드르 솔제니친 · 보리스 파스테르나크 · 일리야 레핀 · 일리야 일리치 메치니코프 · 엘 리시츠키 · 스트루가츠키 형제 · 관광 · 에르미타주 박물관 · 트레챠코프 미술관 · 러시아 박물관 · 세계 유산 · 오스탄키노 탑 · 우샨카 · 사라판 · 마트료시카 · 사모바르 · 빅토르 초이 · Hardbass
+스포츠 | 러시아 출신 올림픽 선수 · 러시아 축구 연합 · 러시아 축구 국가대표팀 ( FIFA 월드컵 ) · 러시아 프리미어 리그 · 러시아 풋볼 내셔널 리그 · 러시아 풋볼 내셔널 리그 2 · 러시아 아마추어 풋볼 리그 · 러시아 여자 축구 국가대표팀 · 콘티넨탈 하키 리그 ( 소속 구단 ) · 러시아 여자 배구 국가대표팀 · 삼보 · 러시아 그랑프리
+언어 | 언어 전반 · 러시아어 · 러시아어/문법 · 러시아어/발음 · Ё ё · 키릴 문자 · 노어노문학과 · 토르플 · 러시아어권
+정치 | 크렘린 · 헌법 · 정치 전반 · 행정조직 · 정부 · 대통령 · 러시아 대통령 선거 · 총리 · 연방의회 ( 국가두마 )
+경제 | 경제 전반 ( 모스크바증권거래소 · 스베르방크 ) · BRICS · 러시아 루블
+외교 | 외교 전반 · 여권 · 상임이사국 · G20 · 미러관계 · 미중러관계 · 한러관계 ( 한러관계/2020년대 ) · 러일관계 · 중러관계 · 독러관계 · 러시아-폴란드 관계 · 독일-러시아-폴란드 관계 · 러시아-우크라이나 관계 · 러시아-폴란드-우크라이나 관계 · 러시아-체코 관계 · 러시아-슬로바키아 관계 · 러시아 제국주의 · 러빠 · 친러 · 반러 · 혐러 · 신냉전 · 독립국가연합 · 집단 안보 조약 기구 · 구 소련 국가들과의 관계 · 유라시아 경제 공동체 · CRINK
+사회 | 슬라브 · 러시아인 · 사회 문제 · 고프닉 · ЕГЭ · 러시아 정부 장학금 · 레드 마피아
+교통 | 아에로플로트 · 공항 목록 · 고속도로 · 철도 ( 철도 환경 · 도시철도 · 삽산 · 아에로익스프레스 · 바이칼-아무르 철도 · 시베리아 횡단철도 · 투르케스탄-시베리아 철도 · 환바이칼 철도 ) · 트롤례이부스 · 트로이카 · 금각교 · 루스키 대교 · 크림 대교 · 백해-발트해 운하 · 볼가-돈 운하 · 북극항로
+러시아계 | 러시아인 디아스포라
+음식 | 러시아 요리 · 보르시 · 비프 스트로가노프 · 샤슐릭 · 펠메니 · 피로시키 · 크바스 · 보드카 · 만주 요리
+군사 | 러시아 연방군 ( 소련군 ) · 육군 · 항공우주군 ( 편제 ) · 해군 ( 발트 · 북방 · 태평양 · 흑해 ) · 전략로켓군 · 국가근위대 · 해외 주둔 러시아군 · GRU · 붉은 군대 합창단 · 알렉산드로프 앙상블 · 열병식 · 스페츠나츠 · 상하이 협력 기구 · 아르미야
+역사 · 편제 · 계급 · 징병제 · 병역법 · 러시아 지휘참모대학교 · 러시아 연방군/문제점
+러시아군/장비 ( 소련군/장비 ) · 전투식량 · 라트니크 · 군복 · 모신나강 · 칼라시니코프 ( AK-47 · AKM · AK-74 · AK-12 · AK-47 VS M16 · PKM ) · RPG-7 · 드라구노프 저격소총 · 설계국 · 소련의 핵개발 · 아르마타 · 타찬카 · Su-57
+데도프시나 · 러시아군 vs 미군 · 러시아군 vs NATO
+치안·사법 | 러시아 경찰 · 러시아 연방교정청 · 흑돌고래 교도소 · 흰올빼미 교도소 · 러시아 연방보안국 · 러시아 연방경호국
+기타 | 공휴일/러시아 · 러시아인 캐릭터 · 마천루/러시아 · 불곰국
+
+소련 붕괴
+Распад СССР | Collapse of the USSR [1]
+
+▲ 철거되는 소련의 국부 레닌 의 동상
+
+▲ 소비에트 연방 의 붕괴와 러시아 연방 의 등장 [2]
+시작 | 1990년 3월 11일 ( 리투아니아 SSR 의 독립 선언)
+발생일시 | 1991년 12월 26일 오전 2시
+러시아 SFSR 모스크바
+(소련 해체로부터 34년 경과)
+소련
+내용 | 소련 의 공식 해체
+러시아 등 15개국의 소련 구성국 독립
+독립국가연합 창설 [3]
+영향 | 소비에트 주권 공화국 연방 무산 [4]
+완전한 냉전 종결
+팍스 아메리카나 시대 도래
+관련 선언 | 고르바초프 대통령의 연방 해체 연설
+( 1991년 12월 25일 발표)
+[러시아어]
+관련 조약 | 벨라베자 조약 [6]
+( 1991년 12월 8일 체결)
+알마아타 조약 [7]
+( 1991년 12월 21일 체결)
+
+1 . 개요 2 . 전개 2.1 . 페레스트로이카 2.2 . 8월 쿠데타 2.3 . 우크라이나의 독립 2.3.1 . 쿠데타 이후 우크라이나 상황 2.3.2 . 소련 개혁을 끝까지 반대한 공산당 보수파의 독립 결정 2.3.3 . 옐친-고르바초프의 우크라이나 독립 방해 2.3.4 . 우크라이나 독립 국민투표 2.3.5 . 투표 결과 발표 이후 우크라이나의 군사권 장악 2.3.6 . 옐친의 진압 포기 및 소련 유지 포기 2.4 . 벨라베자 조약 2.5 . 소련 붕괴 3 . 탈퇴 순서 4 . 분석 4.1 . 유지 가능성 4.2 . 영향 4.3 . 붕괴로 인한 후유증 4.4 . 소련 부활? 5 . 어록 6 . 여담 7 . 관련 자료 7.1 . 142-N호 선언문 8 . 관련 문서 9 . 둘러보기
+
+1. 개요 [편집]
+Совет Республик Верховного Совета СССР констатирует, что с созданием Содружества Независимых Государств Союз ССР как государство и субъект международного права прекращает свое существование.
+
+소련 최고회의 공화국 평의회 는 독립국가연합 창설과 함께 소비에트 연방 이 국가로서 그리고 국제법의 주체로서 더 이상 존재하지 않음 을 확인한다. 1991년 12월 26일 소련 최고회의 공화국회의 선언 142-N호
+
+소련 붕괴 , 소련 해체 , 소련 멸망 은 소비에트 사회주의 공화국 연방 이 1991년 12월 26일 연방 해체를 선언하며 멸망한 사건이다. [8] 소련이 무너지면서 소련으로부터 독립한 국가들은 새롭게 국제 사회에 등장하였다. 소련이 해체되면서 공산주의 세력 도 막을 내리며 20세기 후반 자본주의 와 공산주의 세력이 이념적으로 대립하던 냉전 시대가 자본주의 세력 의 승리로 공식적으로 완전히 막을 내렸고 [9] , 이 영향으로 제1세계의 종주국인 미국 은 1990년대에서 2000년대 후반까지 유일한 초강대국으로서 세계를 단독으로 주무를 정도로 전 세계에 막강한 영향력을 행사했다. [10]
+
+1985년 3월 취임한 미하일 고르바초프 서기장은 1970년대부터 지속된 동구권 의 경제 침체와 체제의 한계 속에서 이를 타개하기 위하여 페레스트로이카 를 시행하였고 정치 개혁을 통해 소련 대통령으로 취임하였는데, 소련의 개혁은 소련의 잠재되어 있던 민족 문제가 일어나는 계기가 되었고 1989년 7월 분리독립을 원하는 발트 3국 에서 주권 선언을 하게 되었으며 1990년 3월부터는 리투아니아 SSR 을 시작으로 독립을 선언하기까지 하였다. 이때 고르바초프는 연방 존속을 묻는 국민투표 를 하여 연방 유지파에게 유리한 결과가 나왔으며, 이를 바탕으로 주권국가연합 을 설립하여 연방 해체를 막고자 하였다.
+
+하지만 이는 8월 쿠데타 가 발발하여 무산되었으며, 이후 소련의 실권을 잡은 보리스 옐친 은 소련을 유지한 채 장악하려고 했지만 우크라이나 는 8월 쿠데타의 결과로 소련 존속파가 붕괴된 탓에 1991년 12월 1일 우크라이나 독립 국민투표 에서 90% 라는 압도적인 찬성율로 소련 탈퇴를 찬성했다. 이에 옐친은 우크라이나에 대한 진압 시도를 포기하고 벨라베자 조약 을 체결하여 소련이 존속하지 않음을 확정짓고 우크라이나와 함께 소련을 탈퇴하였으며, 마지막 구성원인 카자흐스탄 이 탈퇴하고 결국 고르바초프 서기장이 사임하게 되면서 소련은 그 막을 내리게 되었다.
+
+2. 전개 [편집]
+
+2.1. 페레스트로이카 [편집]
+자세한 내용은 글라스노스트 & 페레스트로이카 문서를 참고하십시오. 1980년대 소련은 군비경쟁으로 인한 군비 부담 [11] , 계획경제 의 비효율 [12] 과 특히 소브나르호즈 개혁 및 코시긴 개혁의 실패에 따른 계획 경제의 마비, 동유럽 에서 증가하는 민주화 요구를 비롯한 지정학적 상황들로 인하여 서서히 침체에 접어들고 있었다. 1982년 소련 공산당 서기장이었던 레오니트 브레즈네프 가 사망한 직후 소련 공산당은 당시 정치국 원로였던 유리 안드로포프 와 콘스탄틴 체르넨코 를 각각 서기장으로 선출하였다. 하지만 안드로포프와 체르넨코 모두 2년과 1년 남짓한 기간을 넘기지 못하고 사망하였다.
+
+1982년부터 1985년까지 3년 남짓한 기간 동안에 3명의 서기장이 연속으로 사망하자 소련 공산당 에서는 오랫동안 장기적으로 재임하면서 동시에 당시 소련이 겪고 있었던 내부적인 문제를 극복할 수 있는 지도자를 원하는 여론이 커졌다. 당시 정치국 간부들은 유리 안드로포프 서기장 시절 측근으로 일하면서 긍정적인 평판을 받았던 정치국원 미하일 고르바초프 에 주목했다. 당시 고르바초프는 정치국에서 비교적 젊은 나이(50대)에 속했고 이 점에 주목한 정치국은 체르넨코 사후 소련을 이끌어 갈 신임 서기장으로써 미하일 고르바초프 를 선출했다.
+
+1985년 3월 10일 미하일 고르바초프는 서기장으로 선출되었다. 고르바초프는 소련이 마주한 침체를 벗어나려면 정치적, 경제적 개혁이 필요하다고 여겼다. 고르바초프는 소련을 개혁하기 위해 정치, 경제적 개혁정책인 페레스트로이카, 글라스노스트 정책을 발표했다. 고르바초프는 개혁을 통해 당시 소련에 가해지던 정치적, 경제적, 군사적 부담을 줄이고 장기적으로 소련을 민주적으로 개혁하여 소련 사회에 원동력을 불어넣고자 했다. 고르바초프가 추진한 페레스트로이카와 글라스노스트는 당시 소련인 들과 국제사회로부터 긍정적인 평가를 받으면서 냉전 을 마무리하는 초석이 되었다.
+
+당시 페레스트로이카는 소련 사회로부터 환영받았지만 동시에 소련인들이 오랫동안 표출하지 못했던 정치적 의사를 분출하는 계기가 되었다. 당시 소련인들은 소련군의 아프가니스탄 철수, 공산당 일당체제 개혁, 지역자치 보장, 검열 철폐 등 그동안 억압되어 왔던 정치적 의사를 요구했고 이에 소련은 폭발적으로 늘어난 정치적 변화와 개혁 요구를 감당하지 못하고 급속도로 불안정해지기 시작했다. 이에 대해 당시 소련 공산당 에서는 고르바초프보다 급진적인 개혁을 지지하는 급진파, 현재 개혁을 보다 온건하게 진행해야 한다는 온건파, 개혁에 반대하는 보수파로 나뉘어 점차 대립하기 시작했다.
+
+여기에 1980년대 후반 소련은 군비경쟁으로 인한 군비 출혈, 체르노빌 원자력 발전소 폭발 사고 로 인한 복구비 소모, 중앙정부와 연방 내 공화국 정부 간 대립으로 인한 계획 경제 체제 마비, 저유가로 인한 세수 감소 등으로 인해 경제적 부담이 대폭 증가했다. 이로 인하여 소련 정부는 개혁을 이끌어 갈 경제적 원동력에 큰 차질을 빚게 되었다. 소련 경제가 악화되면서 소련은 냉전 시기 동안 정치적, 군사적으로 브레즈네프 독트린 으로 대변되는 소련 중심 체제를 유지하는데 큰 부담을 느꼈다. 당시 소련은 민주화 요구가 거세지던 동유럽 사회주의 국가들에 더이상 개입하지 않겠다는 시네트라 독트린을 발표했다. 이는 동유럽 혁명 으로 이어져 동유럽 사회주의 국가들은 하나둘씩 민주화 요구를 수용했다. 이러한 정치적 민주화에 정점을 찍은 사건은 1989년 11월 9일 베를린 장벽 이 무너진 사건이었다.
+
+베를린 장벽 이 무너진 이후 소련은 동유럽에서 공산주의 진영을 유지하기 어렵다고 결론내렸다. 베를린 장벽이 무너진 이후 소련은 바르샤바 조약 기구 와 코메콘 등을 해체하면서 공산주의 진영의 맹주로써가 아니라 서방 국가들과 적극적 협력 및 경제적 지원을 통해 어려움을 극복하고자 했다. 그러나 공산당 내 보수파는 고르바초프의 이런 개혁조치가 기존 소련 체제를 붕괴시킨다고 판단하여 반발했고 급진파는 오히려 기존 개혁이 유약하다고 판단하여 고르바초프에게 더욱 강력한 개혁을 주문했다. 이에 고르바초프는 처음에는 소련군 을 동원해 발트 3국 독립운동을 강경하게 진압하거나 트빌리시 , 바쿠 등지에서 군을 동원해 독립 움직임을 차단하고 보수파를 달래고자 했다. 그러나 오히려 군을 동원한 강경진압은 여러 공화국에서 반발이 거세지는 계기가 되었다.
+
+이러한 개혁파와 보수파 사이 갈등 속에서도 고르바초프는 중앙정부와 연방 내 공화국 사이 관계를 재정립하면서 소련을 유지하기 위해 노력했다. 1991년 소련 존속 투표 와 주권국가연맹 이었다. 고르바초프는 당시 소련을 유지하고자 하는 소련인들의 의사를 확인하면서 동시에 연방 내 공화국에 보다 더 많은 권한을 부여하는 신연방체제를 약속했다. 이에 연방 내 공화국 지도자들은 고르바초프와 함께 오랫동안 논의하면서 신연방체제 개편을 준비해나갔다. 이러한 노력 덕분에 발트 3국 과 조지아 , 아르메니아 , 몰도바 를 제외한 나머지 연방 국가들이 참여하는 신연방조약을 이끌어낼 수 있다. 합의를 마친 지도자들은 잠시 휴식을 갖고 1991년 8월 20일 신연방조약에 서명하기로 했다. 만약 서명 전날인 8월 19일 소련군 , KGB , 소련 공산당 내 주요 간부들이 쿠데타 를 일으키기로 결정하지 않았다면 어쩌면 고르바초프의 노력은 성과를 거둘 수 있었을지도 모른다. [13]
+
+2.2. 8월 쿠데타 [편집]
+자세한 내용은 8월 쿠데타 문서를 참고하십시오. 1991년 에 벌어진 강경파들의 쿠데타. 이 쿠데타 이후 상황은 다음과 같이 크게 바뀌게 된다. 소련 붕괴가 일어나지 않으려면 신연방조약 이 이루어졌거나, 이 쿠데타가 성공을 했어야 했다. 그러나 이도 저도 아니게 실패해버리면서 소비에트 연방 체제가 존속될 수 있었던 마지막 기회를 놓치고 말았다. 고르바초프는 중앙 기관과 연방의 공화국 사이에 새로운 관계를 형성해서 소련을 함께 유지하려고 노력했다. 1990-1991년까지 이 목적을 위한 협상은 장기간 동안 이루어졌고 난관에 봉착했었지만 결국 회담은 성과를 거두기 직전이었다. 하지만 중앙-공화국의 관계를 재구성 했을 연방 조약이 예정된 서명 전날에 KGB, 군대, 군사복합체, 소련 공산당의 강경파들이 8월 19일 쿠데타 를 일으키기로 결정한 탓에 회담의 성과가 무산됐다. [14]
+
+8월 쿠데타 의 공모자들은 연방 조약이 소련을 "혼돈과 무정부"로 몰아넣을 것이라고 주장하면서 국가가 "비극적인 운명"을 맞이하는 것을 막기 위해 행동하고 있다고 말했다. 쿠데타는 갑자기 일어나지 않았다. 이미 다음같은 징조가 있었다. 1990년 12월 셰바르드나제는 갑작스럽게 사임했으며 그는 곧 임박한 강경파의 반발을 경고했다. 1991년 1월 리투아니아와 라트비아에서는 폭력적인 탄압이 발생했다. 1991년 6월엔 "헌법 쿠데타" 시도가 발생했다. 그리고 7월에 다양한 소비에트 기관과 의회에서 매우 강경한 반 고르바초프 인물에 의해 선언문 "인민들에게 말한다." “Word to the People”(Slovo k narodu) 가 발표됐다. [15]
+
+하지만 이 쿠데타의 한계는 고르바초프를 공격할 목적의 쿠데타가 아니었다는 것이다. 고르바초프는 쿠데타를 거부했고, 쿠데타는 실패했다. 쿠데타의 실패는 4개월 후 소련의 붕괴를 예고했다. 실패한 쿠데타의 결과로 발생한 광범위한 결과는 소련에 종식을 가져오는 데 특히 중요했다. 그 특히 중요한 것 중 하나가 바로 우크라이나의 결정적인 변화였다. [16]
+
+2.3. 우크라이나의 독립 [편집]
+비록 소련은 8월 쿠데타 이후 반신불수가 되었지만 소련 대통령 고르바초프와 러시아 SFSR 대통령 옐친은 여전히 소련 체제의 유지를 희망하고 있었다. 그러나 8월 쿠데타 이후 소련에서 러시아 다음으로 가장 큰 구성국인 우크라이나 의 여론은 독립으로 흘러갔고 우크라이나는 따로 독립투표를 치러 독립에 대한 열망을 표출했다. 이에 고르바초프와 옐친은 소련 체제 유지를 포기하였다.
+
+2.3.1. 쿠데타 이후 우크라이나 상황 [편집]
+고르바초프 시대 대부분 우크라이나의 독립운동가들은 상대적으로 거의 진전을 이루지 못했다. 우크라이나의 도네츠크 유역과 체르보노흐라드의 광부들이 1989년 7월에 파업에 들어갔지만 고르바초프에게 반대하기보다는 함께 일하기를 바라는 마음에서 파업했다. 1990년 10월 키이우에서 학생들이 2주간의 시위를 벌였지만 우크라이나 총리가 교체되자마자 시위가 끝났다. 1980년대 후반과 1990년대 초반 소련의 다른 공화국과 비교하면 우크라이나는 전반전으로 "혼란의 바다에서 정말로 안정된 섬"이었다. 소련 정부가 1991년 3월에 연방 유지에 대한 지지도를 확인하기 위해 소련에 전국적인 국민투표를 실시했다. 이 국민투표는 어떤 종류건 간에 소련에서 유일하게 대중들에게 국민투표가 실시된 유일한 경우였다. 우크라이나의 대다수 유권자는 "소비에트 사회주의 공화국 연방을 새로운 연방으로 유지" 찬성에 투표했다. [17]
+
+1991년 3월 당시 우크라이나의 투표에는 두 가지 질문이 있었다. 첫번째는 다른 소련 내 구성국에도 제기된 질문으로 "소비에트 사회주의 공화국 연방을 평등한 주권 공화국을 재개하여 새로운 연방으로 보존하는 것이 필요하다고 믿으십니까? 그 안에서 모든 민족은 개인의 권리와 자유가 완전히 보장됩니다."였다. 우크라이나에서는 우크라이나 최고 소비에트의 주도로 특별히 제기된 두번째 질문이 있었는데 "우크라이나가 국가 주권 선언의 원칙에 따라 주권 국가 연방의 일부가 되어야 한다는 데 동의하십니까?"이다.
+
+우크라이나 유권자 70%이 1번째 질문에 찬성을 골랐고, 2번째 질문에는 80% 이상이 찬성을 골랐다. 우크라이나 서부의 3개 주에서만 찬성 투표가 상대적으로 낮았고 이 중 한 곳(이바노-프란키우스크) [18] 에서는 두번째 질문이 여전히 다수결로 통과되었다. 우크라이나의 다른 모든 지역에서 두 질문에 투표는 "찬성"이 압도적이었다. [19] 이 목표가 달성되었다면 우크라이나는 독립운동 세력이 추구하는 지위에는 한참 못 미쳤을 것이다. [20]
+
+쿠데타 실패 이후 우크라이나의 상황은 크게 바뀌었다. 공화국의 정치적 기회는 구조적으로 각계각층의 개인과 집단으로 확대됐다. 독립을 향한 열망을 거스를 수 없게 되었다. 우크라이나 최고 소비에트의 의원들은 쿠데타가 실패한 지 3일 후인 1991년 8월 24일에 독립 선언을 우크라이나 최고 소비에트에서 압도적으로 채택하며 새로운 분위기에 빠르게 끼어들어갔다. 1991년 12월 1일에 우크라이나에서 공화국 전역에 국민투표가 실시되었을 때 투표자 중 92% 이상(유권자의 85% 이상)이 완전한 독립에 찬성했다. 러시아계가 주로 거주하는 우크라이나 지역, 특히 크림 반도와 돈바스에서도 우크라이나의 독립을 지지하는 투표가 다수를 차지했다. 우크라이나의 이러한 결정적인 변화는 일주일 후 소련의 종말을 성문화한 벨라베자 조약 으로 이어졌다. [21]
+
+2.3.2. 소련 개혁을 끝까지 반대한 공산당 보수파의 독립 결정 [편집]
+우크라이나의 여론이 극단적으로 바뀐 주요 원인은 공산당 보수파가 고르바초프와 옐친의 민주적 개혁을 극단적으로 반대했기 때문이다. 우크라이나 공산당 보수파에겐 공산당이 해체된 소련을 유지할 바에는 차라리 우크라이나를 독립시킨다(소련을 해체한다.) 는 의도였던 것이다. 다른 소비에트 공화국에서 민족주의 세력의 행동으로 비슷한 사건이 발생했다면, 우크라이나에서는 고르바초프와 이후 옐친의 개혁으로부터 분리하려는 공산주의 보수 세력의 욕구가 결정적인 요인이었다 . 민족주의 세력과의 동맹은 압도적인 독립 찬성이라는 국민투표 결과를 가능하게 했다. 1991년 12월 1일의 즉각적인 결과는 주로 소련 붕괴와 수많은 민족적 긴장으로 이어져 경제 불안정으로까지 이어졌다.
+[ 원문 펼치기 · 접기 ] If other Soviet republics reached similar events through the actions of nationalist forces, in Ukraine the decisive factor was the communist conservative circles’ desire to separate themselves from Gorbachev’s and later on from Yeltsin’s reforms. The alliance with the nationalist forces made possible the referendum result which was overwhelmingly for independence. The immediate consequences of the act of 1 December 1991 were, primarily, the Soviet Union collapse, followed by numerous ethnic tensions that have even led to economic destabilization. Laura Blaj, " Ukraine’s Independence and Its Geostrategic Impact in Eastern Europe ", Debatte: Journal of Contemporary Central and Eastern Europe , Volume 21, 2013 - Issue 2-3, Abstract
+
+2.3.3. 옐친-고르바초프의 우크라이나 독립 방해 [편집]
+크라우추크는 실패한 쿠데타에 대한 대응에 약간은 망설인 후 결정적인 행동을 실행했다. 1991년 8월 24일 크라우추크는 우크라이나를 독립 국가로 선언하는 결의안을 주도했다. 선언문엔 1991년 12월 1일 우크라이나 전역에서 독립에 관한 국민투표를 실시한다는 발표도 들어있었다. 같은 날 대통령 선거도 실시하기로 했다. [22]
+
+우크라이나 SSR 최고 소비에트(= 우크라이나 최고 라다 ) [23] 독립 선언 이후 국민투표를 실시할 때까지 대중의 마음을 얻기 위한 투쟁은 정말 치열했다. 소련 정부는 소련에서 우크라이나가 탈퇴해서 분리독립하려는 활동에 맞서기 위해 모든 수단을 동원했다. 8월 24일(독립 선언)에서 12월 1일(독립에 관한 국민투표) 사이의 기간 동안 소련 최고 지도부(자유주의와 보수주의 모두)와 많은 러시아 공화주의 지도자들은 우크라이나의 독립을 반대하는 활동을 벌였다. 중앙 TV, 라디오, 인쇄 매체, 러시아 미디어는 우크라이나의 소수민족(특히 러시아인) 문제와 핵무기 문제에 관련하여 우크라이나 당국의 의도를 왜곡한 정보를 퍼뜨려 독립을 방해했다. 레오니드 크라우추크는 중앙 TV가 이러한 허위 사실을 유포한다면 지불을 보류하겠다고 위협했다. [24]
+
+종이 공급을 줄이는 것과 동시에 우크라이나에서 러시아인이 많이 정착한 지역에 반우크라이나 내용과 소련의 보존을 촉구하는 내용이 담긴 전단을 대량으로 배포했다. 모스코프스키에 노보스티와 같은 신문에서는 우크라이나 독립으로 인해 러시아와의 국경이 바뀌고 심지어 핵무기를 뺏길 수 있다는 소문을 널리 퍼트렸다. 소련 국방부도 이 투쟁에 뛰어들었다. 투표 전날 소련 국방부는 "우크라이나에 배치된 군대의 전투 태세를 점검하라"고 명령을 내렸다. 마지막 순간에 시위 덕분에 점검은 현장의 대규모 군사 기동 훈련 없이 수행됐다. [25]
+
+국민투표에 반대하는 운동은 크림 반도 에서도 조직되었다. 그 조직은 러시아 소비에트 연방 사회주의 공화국 최고 소비에트의 대표를 포함한 다양한 러시아인 집단과 독일의 일부 정치 단체까지 포함한 세력이었다. 반면 크림 타타르족은 독립과 선거 참여를 강력하게 지지하며 사람들에게 뱌체슬라우 초르노빌과 레우코 루키아넨코에게 투표하도록 지시했다. [26]
+
+이러한 활동은 보수나 중도 강경파에 국한되지 않았다. 상트페테르부르크 시장 A. 소브차크와 모스크바 시장인 G. 포포브도 각자의 방식으로 독립 반대 운동에 크게 기여했다. [27] 고르바초프는 미국 대통령 조지 H. W. 부시 에게 '우크라이나를 인정하겠다고 약속한 것'에 대해 짜증을 내며 '국민 투표에서 표현된 우크라이나 시민들의 의지는 연방에서 탈퇴하는 행위로 간주하지 않을 것'이라고 말했다. [28]
+
+옐친도 고르바초프와 함께 반독립 캠페인을 벌였다. [29] 1991년 8월 쿠데타가 실패로 끝났을 때만 해도 옐친은 여전히 러시아와 우크라이나, 벨라루스, 카자흐스탄 및 기타 중앙 아시아 공화국을 아우르는 연방을 유지하기를 희망하였다. [30] [31] 고르바초프와 옐친 모두 우크라이나가 독립 국가가 될 수 없다고 주장했고 옐친과 고르바초프가 실시한 반독립 캠페인은 우크라이나 내정에 대한 중대한 간섭으로 여겨졌다. [32]
+
+2.3.4. 우크라이나 독립 국민투표 [편집]
+자세한 내용은 우크라이나 독립 국민투표 문서를 참고하십시오. 1991년 12월 1일 , 우크라이나 소비에트 사회주의 공화국 은 독립에 대한 국민투표 를 시행했고 90%의 압도적인 찬성으로 독립을 확정지었다.
+1991년 12월 1일 우크라이나 독립 여부 국민투표의 유권자들의 투표 수
+Oblast' | 유권자수 Eligible to vote | 투표자 수 Number who voted | "찬성"에 투표 Voting "yes" | "반대"에 투표 Voting "no" | 무효표 Spoiled ballots
+빈니차 Vinnytsia | 1,424,110 | 1,301,765 | 1,242,244 | 39,387 | 20,134
+볼린 Volyn' | 762,872 | 710,989 | 684,834 | 16,299 | 20,134
+드니프로페트로우시크 Dnipropetrovs'ke | 2,877,974 | 2,354,169 | 2,127,089 | 181,529 | 104,058
+도네츠크 Donets'ke | 3,854,440 | 2,957,372 | 2,481,157 | 372,157 | 104,058
+지토미르 Zhytomyr | 1,105,023 | 1,000,425 | 950,976 | 35,798 | 13,651
+자카르파탸 Zakarpattia | 856,687 | 710,286 | 657,678 | 31,891 | 20,717
+자포리자 Zaporizhzhia | 1,553,858 | 1,252,225 | 1,135,271 | 91,929 | 25,025
+이바노-프란키우스크 Ivano-Frankivs'ke | 1,019,145 | 975,655 | 960,281 | 10,028 | 5,346
+키이우 Kiev | 1,430,507 | 1,259,129 | 1,202,773 | 36,086 | 20,270
+키이우 시 Kiev City | 1,913,378 | 1,537,278 | 1,427,715 | 81,234 | 28,329
+키로보흐라드 Kirovohrad | 924,050 | 813,833 | 764,053 | 35,613 | 14,167
+루한시크 Luhans'ke | 2,085,931 | 1,682,344 | 1,410,894 | 255,589 | 45,861
+르비우 L'viv | 2,011,267 | 1,915,597 | 1,866,921 | 35,671 | 13,006
+미콜라이우 Mykolaiv | 971,321 | 818,538 | 732,179 | 66,858 | 19,501
+오데사 Odesa [Odessa] | 1,882,610 | 1,412,228 | 1,205,755 | 163,831 | 42,642
+폴타바 Poltava | 1,313,588 | 1,206,801 | 1,145,639 | 44,368 | 16,854
+리우네 Rivne [Rovno] | 814,246 | 757,151 | 726,575 | 19,369 | 11,207
+수미 Sumy | 1,072,639 | 948,278 | 878,198 | 46,479 | 23,601
+테르노필 Ternopil' | 861,647 | 836,667 | 825,526 | 6,565 | 4,576
+하르키우 Kharkiv | 2,377,159 | 1,798,977 | 1,553,065 | 187,631 | 58,281
+헤르손 Kherson | 903,891 | 753,843 | 679,451 | 54,248 | 26,144
+흐멜니츠키 Khmel'nyts'kyi | 1,133,350 | 1,059,021 | 1,019,813 | 27,743 | 11,465
+체르카시 Cherkasy | 1,154,455 | 1,040,971 | 999,603 | 28,703 | 12,665
+체르니우치 Chernivtsi | 668,781 | 586,377 | 544,022 | 24,226 | 18,129
+체르니히우 Chernihiv | 1,068,152 | 969,638 | 908,904 | 39,776 | 20,960
+세바스토폴 시 Sevastopil' City | 307,024 | 195,688 | 111 ,671 | 77,891 | 6,926
+크림 반도 Krym [the Crimea] | 1,535,154 | 1,036,190 | 561,498 | 437,505 | 37,187
+합계 Total | 31,891,435 | 28,803,785 | 2,417,544 | 670,108
+출처: Peter J. Potichnyj (1991) The Referendum and Presidential Elections in Ukraine , Canadian Slavonic Papers, 33:2, 129, DOI: 10.1080/00085006.1991.11091956
+
+1991년 12월 1일 우크라이나 독립 여부 국민투표의 유권자들의 투표율
+Oblast' | 유권자 수 Eligible to vote | 투표율의 퍼센트 Percent votillg | "찬성"율의 퍼센트 Percent "yes" | "반대"율의 퍼센트 Percent "no" | 무효수의 퍼센트 Percent spoiled
+빈니차 Vinnytsia | 1,424,110 | 91.41 | 95.43 | 3.03 | 1.55
+볼린 Volyn' | 762,872 | 93.20 | 96.32 | 2.29 | 1.39
+드니프로페트로우시크 Dnipropetrovs'ke | 2,877,974 | 81.80 | 90.36 | 7.71 | 1.93
+도네츠크 Donets'ke | 3,854,440 | 76.73 | 83.90 | 12.58 | 3.52
+지토미르 Zhytomyr | 1,105,023 | 90.53 | 95.06 | 3.58 | 1.36
+자카르파탸 Zakarpattia | 856,687 | 82.91 | 92.59 | 4.49 | 2.92
+자포리자 Zaporizhzhia | 1,553,858 | 80.59 | 90.66 | 7.34 | 2.00
+이바노-프란키우스크 Ivano-Frankivs'ke | 1,019,145 | 95.73 | 98.42 | 1.03 | 0.55
+키이우 Kiev | 1,430,507 | 88.02 | 95.52 | 2.87 | 1.61
+키이우 시 Kiev City | 1,913,378 | 60.34 | 92.87 | 5.28 | 1.85
+키로보흐라드 Kirovohrad | 924,050 | 88.07 | 93.88 | 4.38 | 1.74
+루한시크 Luhans'ke | 2,085,931 | 80.65 | 63.86 | 13.41 | 2.73
+리비우 L'viv | 2,011,267 | 95.24 | 97.45 | 1.86 | 0.68
+미콜라이우 Mykolaiv | 971,321 | 84.27 | 89.45 | 8.17 | 2.38
+오데사 Odesa [Odessa] | 1,882,610 | 75.01 | 85.38 | 11.60 | 3.02
+폴타바 Poltava | 1,313,588 | 91.87 | 94.93 | 3.67 | 1.40
+리우네 Rivne | 814,246 | 92.99 | 96.76 | 2.56 | 1.43
+수미 Sumy | 1,072,639 | 88.41 | 92.81 | 4.90 | 2.49
+테르노필 Ternopil' | 861,647 | 97.10 | 98.67 | 0.78 | 0.55
+하르키우 Kharkiv | 2,377,159 | 75.68 | 86.33 | 10.43 | 3.24
+헤르손 Kherson | 903,891 | 83.40 | 90.13 | 7.20 | 2.67
+흐멜니치키 Khmel'nyts'kyi | 1,133,350 | 93.44 | 96.30 | 2.62 | 1.08
+체르카시 Cherkasy | 1,154,455 | 90.17 | 96.03 | 2.76 | 1.22
+체르니우치 Chernivtsi | 668,781 | 87.68 | 92.78 | 4.13 | 3.09
+체르니히우 Chernihiv | 1,068,152 | 90.78 | 93.74 | 4.10 | 2.16
+세바스토폴 시 Sevastopil' City | 307,024 | 63.74 | 57.07 | 39.39 | 3.54
+크림 반도 Krym | 1,535,154 | 67.50 | 54.19 | 42.22 | 3.59
+합계Total | 84.15 | 90.32 | 7.58 | 2.10
+Black Sea Aeet | 75.00
+출처: Peter J. Potichnyj (1991) The Referendum and Presidential Elections in Ukraine , Canadian Slavonic Papers, 33:2, 130, DOI: 10.1080/00085006.1991.11091956
+
+1991년 12월 1일 독립여부의 국민투표에서 우크라이나 에스닉ethnic 비율과 투표 비율 비교
+Oblast' | 총 인구 Total population | 우크라이나계 비율의 퍼센트 Percent Ukrainians | 러시아계 비율의 퍼센트
+Percent Russians | 그 외 비율의 퍼센트 Percent Others | "찬성"투표 수의 퍼센트 Percent "yes" vote | "반대"투표 수의 퍼센트 Percent "no" vote
+빈니차 Vinnytsia | 1,820,783 | 91.6 | 5.9 | 2.5 | 95.43 | 3.03
+볼린 Volyn' | 1,058,438 | 94.6 | 4.4 | 1.0 | 96.32 | 2.29
+드니프로페트로우시크 Dnipropetrovs'ke | 3,869,858 | 71.6 | 24.2 | 4.2 | 90.36 | 7.71
+도네츠크 Donets'ke | 5,311,781 | 50.7 | 43.6 | 5.7 | 83.90 | 12.58
+지토미르 Zhytomyr | 1,537,604 | 84.9 | 7.9 | 7.2 | 95.06 | 3.58
+자카르파탸 Zakarpattia | 1,245,618 | 78.4 | 4.0 | 17.6 | 92.59 | 4.49
+자포리자 Zaporizhzhia | 2,074,018 | 63.1 | 32.0 | 4.9 | 90.66 | 7.34
+이바노-프란키우스크 Ivano-Frankivs'ke | 1,413,211 | 95.0 | 4.0 | 1.0 | 98.42 | 1.03
+키이우 시 Kiev City | 2,572,212 | 72.5 | 20.9 | 1.9 | 92.88 | 5.28
+키이우 Kiev | 1,834,369 | 89.4 | 8.7 | 1.9 | 95.52 | 2.87
+키로보흐라드 Kirovohrad | 1,228,093 | 85.3 | 12.0 | 3.0 | 93.88 | 4.38
+크림 반도 Krym | 2,430,495 | 28.5 | 67.0 | 4.5 | 54.19 | 42.22
+루한시크 Luhans'ke | 2,857,031 | 51.9 | 44.8 | 3.3 | 83.86 | 13.41
+르비우 시 L'viv City | 97.50
+르비우 L'viv | 2,727,410 | 90.4 | 7.1 | 2.5 | 97.46 | 1.86
+미콜라이우 Mykolaiv | 1,328,306 | 75.6 | 19.4 | 5.0 | 89.45 | 8.17
+오데사 Odesa | 2,624,245 | 54.6 | 27.4 | 18.0 | 85.38 | 11.60
+폴타바 Poltava | 1,748,716 | 87.8 | 10.2 | 2.0 | 94.93 | 3.67
+리우네 Rivne | 1,164,241 | 93.3 | 4.6 | 2.1 | 95.96 | 2.56
+세바스토폴 시 Sevastopil' City | 57.07 | 39.39
+수미 Sumy | 1,417,498 | 85.5 | 13.3 | 1.2 | 92.61 | 4.90
+테르노필 Ternopil' | 1,163,974 | 96.8 | 2.3 | 0.9 | 98.67 | 0.78
+하르키우 Kharkiv | 3,174,675 | 62.8 | 33.2 | 4.0 | 86.33 | 10.43
+헤르손 Kherson | 1,236,970 | 75.8 | 20.2 | 4.0 | 90.13 | 7.20
+흐멜니치키 Khmel'nyts'kyi | 1,521,564 | 90.4 | 5.8 | 3.8 | 96.30 | 2.62
+체르카시 Cherkasy | 1,527,353 | 90.5 | 8.0 | 1.5 | 96.03 | 2.76
+체르니우치 Chernivtsi | 940,801 | 70.8 | 6.8 | 22.5 | 92.78 | 4.13
+체르니히우 Chernihiv | 1,412,770 | 91.4 | 6.8 | 1.8 | 93.74 | 4.10
+출처: Peter J. Potichnyj (1991) The Referendum and Presidential Elections in Ukraine , Canadian Slavonic Papers, 33:2, 131, DOI: 10.1080/00085006.1991.11091956
+
+1991년 12월 1일 국민투표가 실시됐다. 그 결과는 가장 열렬하게 독립을 믿은 사람들한테도 놀라웠다. [33]
+
+1991년 12월 1일에 우크라이나 유권자들은 8월 24일 우크라이나 최고 라다 가 선언한 독립에 대한 의사표명과 최초의 대통령을 선출하기 위해 투표소에 갔다. 정치 전문가들은 독립 투표가 가결될 것이라고 예상했다. 그러나 남부-동부, 부코비나, 자카르파탸에서 소수 집단이 많았기 때문에 독립 지지율이 어느 정도로 높을지는 확실하지 않았다. 정치 전문가들은 90% 이상이 독립을 선택했다는 사실에 놀라워했다. [34]
+
+2.3.5. 투표 결과 발표 이후 우크라이나의 군사권 장악 [편집]
+8월 쿠데타 이후 많은 소련 소속의 국가들이 상징적인 의미의 독립을 선포했으나 여전히 협상은 가능했지만 90% 찬성율로 끝난 우크라이나의 독립 투표 이후엔 연방 유지를 위한 협상이 불가능해졌다. 왜냐면 우크라이나 없이 소련을 유지하는 것을 불가능했기 때문이다. 거기다 우크라이나는 90% 찬성율의 투표가 끝난 이후 군사권을 장악했다.
+소련에서 독립한 첫 번째 국가는 에스토니아, 라트비아, 리투아니아의 발트해 연안 국가들이었다. 1991년 9월 2일에는 소련이, 9월 6일에는 새로운 소련 국무위원회(고르바초프와 다른 공화국 수반들)가 이들 공화국의 독립을 인정했다. 쿠데타가 붕괴된 후 대부분의 공화국이 독립 선언을 채택했는데, 그 중 가장 중요한 선언은 8월 24일 우크라이나의 선언이었다. 9월 말까지 벨라루스, 몰도바, 아제르바이잔, 우즈베키스탄, 키르기즈아, 조지아, 타지키스탄, 아르메니아 등 8개 공화국이 어떤 형태로든 독립을 선언했다.
+
+이러한 독립 선언은 다소 상징적인 성격을 띠고 있었으며 소련 국가의 미래는 아직 결정되지 않았다. 고르바초프 는 발트 3국, 몰도바, 그루지야를 제외한 공화국 지도자들과 “주권 국가 연방”을 위한 새로운 조약 체결을 위한 협상을 시작했다. 협상은 몇 달 동안 계속되었고 결국 12월 1일 국민투표에서 우크라이나 국민의 90% 이상이 독립에 투표한 후 막다른 골목에 이르렀다. 거의 모든 관측통들은 우크라이나의 참여 없이는 진지한 연방 논의가 불가능하다는 데 동의했다. 우크라이나 투표 직후인 12월 7~8일, 옐친은 벨라루스의 벨로베즈스카야숲에서 새로 선출된 우크라이나 대통령 레오니드 크라브추크와 벨라루스 최고 소비에트 의장 스타니슬라스 슈슈케비치를 만나 소련의 종식과 독립국가연합(CIS) 창설을 선언했다. 다른 구소련 공화국들도 가입을 권유받았고, 12월 12일 중앙아시아 5개국이 가입을 요청하면서 협상이 타결되었다. 12월 22일 카자흐스탄의 수도 알마아타에서 11개 공화국(조지아 제외) 정상들이 연방 선언에 서명했다. 고르바초프는 12월 25일 소련 지도자 자리에서 사임했고, 일주일 후 소련은 공식적으로 소멸했다.
+
+소련군의 운명은 8월 이후 협상의 주요 주제였다. 국무원은 11월에 미래 연방의 궁극적인 형태가 무엇이든 군대는 단일 지휘 하에 통합된 상태로 유지하기로 결정했다. 그러나 이 결정에 대해 많은 관측통들은 회의적인 반응을 보였다. 몇몇 공화국은 이미 자국 영토 내 소련군 부대를 '민영화'하는 작업을 열심히 진행하고 있었기 때문이다. 8월에 자국 내 군대에 대한 통제권을 주장하며 국방부 장관으로 콘스탄틴 모로조프 소장을 임명했던 우크라이나가 그 중심에 서 있었다. 10월까지 우크라이나 최고 소비에트는 우크라이나 자체 군대 설립을 위한 법적 근거의 대부분을 마련했다.
+
+1991년 12월 군사 분야의 사건은 빠른 속도로 진행되었다. 우크라이나의 독립 국민투표 직후인 12월 6일, 우크라이나 최고 소비에트는 우크라이나에 대한 충성을 맹세하는 새로운 군사 선서를 채택했고 모로조프는 이 선서를 한 첫 번째 인물이 되었다. 옐친, 크라브추크, 슈슈케비치의 CIS에 대한 합의는 단일 군대를 요구하지 않았고, 대신 연방의 '공동 군사 전략 공간'에 대한 '공동' 지휘를 통해 핵무기에 대한 단일 통제의 필요성만 언급했다. 12월 13일 크라브추크는 자신을 우크라이나 군 최고사령관으로 선포하고 우크라이나에 주둔한 소련군으로 우크라이나 군을 구성할 것이라고 선언했다. 모로조프는 12월 17일 우크라이나의 군대가 여전히 모스크바에 종속되어 있으며 통제권 이양은 “단계적으로” 이루어질 것이라고 말했지만, 우크라이나가 나아갈 방향은 분명했다. [ 펼치기 · 접기 ] The first states to break free from the Soviet Union were the Baltic states of Estonia, Latvia, and Lithuania. Their independence was recognized by the mUnited States on 2 September 1991 and by the new Soviet State Council (Gorbachev plus the heads of the other republics) on 6 September. After the coup collapsed, most of the republics adopted independence declarations, the first and most significant of which was the declaration by Ukraine on 24 August. By the end of September, eight other republics—Belarus, Moldova, Azerbaijan, Uzbekistan, Kirghizia, Georgia, Tajikistan, and Armenia—had announced their independence in one form or another.
+
+These independence declarations had a somewhat symbolic character, and the future of the Soviet state was still undetermined. Gorbachev entered into negotiations with the leaders of the republics (except the Baltic states, Moldova, and Georgia) on a new treaty for a “union of sovereign states.” The negotiations dragged on for several months and eventually reached a dead end after more than 90 percent of Ukrainians voted for independence in a referendum on 1 December. Almost all observers agreed that there could be no serious talk of a union without Ukraine’s participation. On 7–8 December, shortly after the Ukrainian vote, Yeltsin met with the newly elected Ukrainian president, Leonid Kravchuk, and the chair of the Belarusan Supreme Soviet, Stanislaus Shushkevich, in the Belovezhskaya Forest in Belarus and proclaimed the end of the Soviet Union and the founding of the Commonwealth of Independent States (CIS). Other former Soviet republics were invited to join, and the deal was clinched on 12 December when the ªve Central Asian states asked to join. The Commonwealth Declaration was signed by the leaders of eleven republics (all except Georgia) on 22 December in Alma-Ata, the capital of Kazakhstan. Gorbachev resigned as Soviet leader on 25 December, and the Soviet Union formally ceased to exist a week later.
+
+The fate of the Soviet military was a major topic of the post-August negotiations. The State Council decided in November that, whatever the ultimate shape of the future union, the armed forces would remain uniªed and under a
+
+single command. This decision, however, was greeted with skepticism by many observers. Several of the republics were already hard at work “privatizing” the Soviet military units on their territory. The key player, again, was Ukraine, which had asserted control over the military forces on its soil in August and had appointed its own defense minister, Major-General Konstyantin Morozov. By October the Ukrainian Supreme Soviet had established much of the legal basis for setting up Ukraine’s own armed forces.
+
+Events in the military sphere moved at a breakneck pace in December 1991. On 6 December, just after Ukraine’s referendum on independence, the Ukrainian Supreme Soviet adopted a new military oath of allegiance to Ukraine, and Morozov became the ªrst ofªcer to take the oath. The agreement between Yeltsin, Kravchuk, and Shushkevich on the CIS did not call for a uniªed military; instead, it referred only to the need for uniªed control over nuclear weapons, with “joint” command over the “common military-strategic space” of the commonwealth. On 13 December Kravchuk declared himself commander in chief of the Ukrainian Armed Forces and decreed that the Ukrainian military would be formed from Soviet forces stationed in the country. Although Morozov said on 17 December that the forces in Ukraine were still subordinate to Moscow and that the transfer of control would take place “in stages,” the direction in which Ukraine was heading was clear.
+
+Taylor, Brian D. "The Soviet Military and the Disintegration of the USSR." Journal of Cold War Studies 5.1 (2003) 56-58. https://doi.org/10.1162/152039703320996713 번역
+
+2.3.6. 옐친의 진압 포기 및 소련 유지 포기 [편집]
+우크라이나 없이 소련을 유지하는 것을 불가능했고, 이미 우크라이나는 군사권을 장악한 상태였다. 이 상황에서 소련을 유지하는 방법은 군사권을 접수한 우크라이나를 상대로 소련군을 파견해 우크라이나 정부를 무력진압하는 것 뿐이었다. 옐친은 결국 이런 무모한 방법을 사용하는 것을 포기했다.
+실제로 1991년 8월 쿠데타가 실패한 후 옐친은 처음에는 고르바초프가 아닌 자신의 지도하에 소련 국가가 거의 그대로 유지되기를 바랐다. 옐친은 발트해 연안 국가, 조지아, 몰도바 같은 주변 공화국들의 독립을 받아들이겠다는 의지를 자주 표명했지만, 이 작은 공화국들의 이탈이 (어떤 새로운 이름과 구성으로든) 연방의 보존과 양립할 수 있을 것이라고 믿었다.
+
+옐친이 이 선택권을 박탈 당한 것은 몇몇 변방 공화국의 (기꺼이 받아들인) '손실'이 아니라 쿠데타 실패 이후 우크라이나에서 독립 찬성 정서가 급증한 것이었다. 쿠데타가 시도되기 전부터 우크라이나에서는 독립을 지지하는 정서가 서서히 형성되고 있었지만, 쿠데타가 개입하지 않았다면 충분히 억제할 수 있었다. 쿠데타 계획이 무산된 후 우크라이나의 상황은 돌이킬 수 없을 정도로 바뀌었다. 1991년 12월 1일 우크라이나 국민투표에서 독립에 대한 압도적인 찬성이 나오면서 상황이 정점으로 치달았다. 옐친은 우크라이나에 대한 대규모 무력 사용을 통해 소비에트 국가를 유지하려 할 수도 있었지만 , 1991년 12월 8일 벨로베즈키아 푸샤 협정에 서명함으로써 연방 해체를 명문화하는 대신 현명한 선택을 했다. [ 펼치기 · 접기 ] Indeed, in the aftermath of the aborted August 1991 coup, El'tsin initially hoped to keep the Soviet state largely intact, albeit under his rather than Gorbachev's leader- ship. Although El'tsin made good on his oftexpressed willingness to accept the independence of peripheral republics like the Baltic states, Georgia, and Moldova, he believed that the departure of these small republics would be compatible with the preservation of the union (under whatever new name and configuration it might be given).
+
+What deprived El'tsin of this option was not the "loss" of a few marginal republics (something he willingly accepted), but the surge of proindependence sentiment in Ukraine after the failed coup. Sentiment in favor of independence had gradually been building in Ukraine even be-fore the attempted coup, but it might well have been containable if the putsch had not intervened. After the coup plotters were rebuffed, the dynamic of the situation in Ukraine changed irrevocably. The overwhelming vote for independence in Ukraine's referendum on 1 December 1991 brought matters to a head. El'tsin could have tried to preserve the Soviet state through the massive use of force against Ukraine, but he wisely chose instead to codify the dissolution of the union by signing the Belovezhskaia Pushcha accords on 8 December 1991.
+
+Kramer, Mark. "The reform of the Soviet system and the demise of the Soviet state." Slavic Review 63.3 (2004) 507. https://doi.org/10.2307/1520339 번역본
+
+옐친이 소련을 유지하려했지만 우크라이나의 독립 때문에 포기한 사실은 아래에서도 드러난다. 11월 14일 국무회의가 열릴 무렵, 고르바초프와 옐친의 입장 사이에는 하품이 나올 정도의 간극이 벌어지고 있었다. 다음은 유리 바투린이 나중에 샤크나자로프(회의 당시 해외에 있던)에게 전달한 유리 바투린의 메모 중 일부다:
+
+"나자르바예프: [카자흐스탄의]: 정확히 어떤 종류의 연합을 [만들려고 하는가]? 연방입니까, 아니면 연맹입니까?
+
+고르바초프: 연방 국가입니다. 나는 단호하게 그것을 주장합니다.
+
+옐친: 우리는 국가연방을 만들 것입니다.
+
+고르바초프: 국가가 없다면 나는 참여하지 않겠소. 나는 지금 당장 당신을 떠날 수 있습니다. (일어서서 서류를 챙긴다).
+
+옐친: 정확한 이름을 연맹이라고 짓자고요.
+
+고르바초프: 당신이 결정하세요. 내가 강요할 순 없어요.
+
+옐친: 우크라이나가 떠나지 않도록 만들어야 합니다.
+
+슈슈케비치 [벨로루시의]: 나는 그들[우크라이나]이 연맹에 가입할 것이라고 생각합니다."
+
+보시다시피 옐친과 그의 동맹국들(특히 벨로루시의 슈슈케비치)에게 우크라이나는 아무리 느슨하게 구성되어 있더라도 어떤 중요한 단체에 계속 속하는 것이 정치적으로 필수적인 것으로 여겨졌다. 고르바초프의 준단일 연방 국가 모델은 12월 1일로 다가온 국민투표(유권자의 84%가 투표에 참여하여 90%가 독립에 투표하고 62%가 다른 6명의 후보를 제치고 크라브추크를 우크라이나 대통령으로 선출)에서 완전한 독립을 이루고자 하는 우크라이나를 위한 여지를 남기지 못했다.
+(...)
+" 옐친: 우크라이나 없이는 연방도 있을 수 없다는 또 다른 원칙의 문제가 있습니다.
+
+고르바초프: 그리고 그 반대도 마찬가지입니다. 우리가 연방을 거부한다면 그것은 [우크라이나] 분리주의자들에게 선물이 될 것입니다.
+
+옐친: 12월 1일[우크라이나 국민투표일]까지 기다려 봅시다.
+
+고르바초프: 나는 여러 공화국의 지도자들이 불필요한 작전을 벌이고 있다고 주장합니다.
+
+(옐친, 슈슈케비치, 카리모프는 이 발언에 동의하지 않는다고 말했다.)
+
+고르바초프: . . 보리스 니콜라에비치[옐친]는 분명히 입장을 바꿨습니다. 그와 나는 연방 국가에 합의했습니다. "
+
+고르바초프는 자신의 참모들을 데리고 홀 밖으로 걸어 나갔다. 잭 매트록이 쓴 것처럼, 고르바초프가 곧 회담장 복귀에 동의했음에도 불구하고 이 행동은 “우크라이나가 받아들일 수 있는 합의”를 기대했던 옐친과 슈슈케비치에게 “마지막 지푸라기”가 된 셈이었다. 12월 8일 두 공화당 지도자는 벨라루스에서 크라브추크와 만나 소련을 종식시키는 벨로베즈스카야 푸샤 협정에 서명했다. 이틀 후 고르바초프는 포기하지 않고 당과 민간인 통제에서 모두 벗어난 국방부로 가서 군 지도부에 자신의 주장을 제시했고, 그들의 결정이 결정적인 역할을 하게 된다.
+
+다음 날 옐친은 같은 국방부를 찾아가 반론을 제기했다. 제임스 베이커 전 미국 국무장관은 “이러한 움직임은 지정학적으로 악몽 같은 일”이라며 “크렘린의 두 거물이 정치 권력을 놓고 다투고 군대를 부추기며 내전의 유령을 불러일으키고 핵무기를 던진 것”이라고 적절하게 논평했다. 군부는 러시아 대통령의 말을 강력히 선호하기로 결정했습니다. 고르바초프는 실각했고, 12월 25일 소련은 갑작스럽게 종말을 맞이했다. [ 펼치기 · 접기 ] By the time of the 14 November meeting of the State Council, a yawning gap was opening up between the positions of Gorbachev and of Yeltsin. The following is a section from notes taken by Yurii Baturin, which were later given to Shakhnazarov (who had been abroad at the time of the meeting):
+
+"Nazarbaev: [of Kazakhstan]: What kind of Union precisely [are we seeking to create]? A federation or a confederation?
+
+Gorbachev: A Union State. I categorically insist on it.
+
+Yeltsin: We will create a Union of States.
+
+Gorbachev: If there is no state, then I will not participate. I can leave you right now. (Stands up, gathers up his papers).
+
+Yeltsin: Let’s give it a precise name: a confederation.
+
+Gorbachev: You decide. I can’t force you.
+
+Yeltsin: We have to make it so that Ukraine does not leave.
+
+Shushkevich [of Belarus]: I think that they [the Ukrainians] will join a confederation."
+
+As can be seen, for Yeltsin and his allies (especially Shushkevich of Belarus), it was deemed politically essential that Ukraine continue to belong to some overarching entity, no matter how loosely structured. Gorbachev’s quasi-unitary model of a Union State left no room for a Ukraine that was intent on achieving full independence during the fast-approaching 1 December referendum (in which 84 percent of eligible voters went to the polls, 90 percent voted for independence, and 62 percent elected Kravchuk as Ukrainian president against six other candidates.)
+
+(...)
+
+"Yeltsin: There is another issue of principle—without Ukraine there can be no Union.
+
+Gorbachev: And the contrary is also true. If we repudiate the Union, it will be a gift to the [Ukrainian] separatists.
+
+Yeltsin: Let’s wait until 1 December [the date of the Ukrainian referendum].
+
+Gorbachev: I maintain that the leaders of several republics are engaging in un- necessary maneuvers.
+
+(Yeltsin, Shushkevich, and Karimov express disagreement with this statement.)
+
+Gorbachev: . . . Boris Nikolaevich has clearly changed his position. He and I agreed upon a Union State."
+
+Gorbachev then stalked out of the hall, taking his staff with him. As Jack Matlock has written, this action—even though Gorbachev soon consented to return to the hall—constituted the “last straw” for Yeltsin and Shushkevich, who had been counting on reaching “an agreement that would be acceptable to Ukraine.” On 8 December the two republican leaders met with Kravchuk in Belarus and signed the Belovezhskaya Pushcha Accords, which put an end to the Soviet Union.124 Two days later Gorbachev, unwilling to give up, went to the Defense Ministry, which was now freed of both Party and effective civilian control, to present his case to the military leadership; their decision would prove decisive.
+
+The following day Yeltsin went to the same Defense Ministry to present his counterarguments. “These moves,” former U.S. Secretary of State James Baker has aptly commented, “were the stuff of a geopolitical nightmare: two Kremlin heavyweights jockeying for political power, calling on the army to follow them, and raising the specter of civil war—with nuclear weapons thrown in the mix.” The military decided that it strongly preferred what the Russian president had to say. Gorbachev was out of a job, and on 25 Decem- ber the Soviet Union came to an abrupt end.
+
+Dunlop, John B. "The August 1991 coup and its impact on Soviet politics." Journal of Cold War Studies 5.1 (2003) 125-127. https://doi.org/10.1162/152039703320996731 번역 출처
+
+수 세기에 걸친 식민지 시대의 익명성 끝에 우크라이나가 마침내 세계 문제에 두각을 나타내고 있다. 서방에서는 부차적인 국가로 강등되었지만 우크라이나는 소비에트 이후 유럽의 윤곽을 규정하는 데 있어 강력하고 중요한 행위자로 빠르게 부상하고 있다. 1991년 8월의 쿠데타와 소련 공산당을 무너뜨린 것은 러시아와 보리스 옐친 대통령이 주도했을지도 모른다. 그러나 궁극적으로 소련 제국의 붕괴를 촉발한 것은 레오니드 크라브추크 대통령이 이끄는 우크라이나였다: 우크라이나가 미하일 고르바초프의 연방 조약 서명을 거부하면서 소련이 붕괴하고 새로운 독립국가연합(EIS)이 탄생하게 된 것이다.
+[ 원문 펼치기 · 접기 ] After centuries of colonial anonymity Ukraine is finally making its mark on world affairs. Although relegated to secondary status by the West, Ukraine is rapidly emerging as a forceful and important actor in defining the contours of post-Soviet Europe. Russia and its President Boris Yeltsin may have taken the lead in defeating the August 1991 putsch and the Soviet Communist Party. But it was Ukraine, led by President Leonid Kravchuk, that ultimately provoked the unraveling of the Soviet empire: Ukraine's refusal to sign Mikhail Gorbachev's union treaty precipitated the collapse of the U.S.S.R. and the creation of the new Commonwealth of Independent States (eis). Adrian Karatnycky, " The Ukrainian Factor ", Foreign Affairs , Vol. 71, No. 3 (Summer, 1992), p.90.
+
+우크라이나가 소련 탈퇴에 의한 독립을 진행하는 걸 방해하지 않는 선에서 옐친이 소련을 유지할 방법은 없었다.
+
+1991년 가을에 우크라이나인들이 12월 1일에 완전한 독립을 위해 투표할 것이라는 것이 분명해지자 옐친은 목표를 바꾸었다. 공식 투표 집계를 보기도 전에 옐친은 독립국 러시아에서 자신의 권력을 공고히 하고 새로 선출된 우크라이나 대통령 인 레오니드 크라우추크 와 벨라루스 의장이자 사실상 벨라루스 국가원수인 스타니슬라우 슈시케비치 와 합류하기로 결정했다. [35] [36]
+
+옐친은 소련을 유지하려고 했다. 하지만 12월 1일에 실시한 우크라이나 독립 국민투표에서 완전 독립 찬성에 90%라는 압도적인 결과가 나오게 되자 목표를 변경하고 소련 해체에 참여했다.
+고르바초프와 옐친이 우크라이나가 독립 국가 될 수가 없다고 말하자 크라우추크 가 비판했다.
+[ 펼치기 · 접기 ] Kravchuk criticized both Gorbachev and Yeltsin for saying that Ukraine could not be an independent state. Peter J. Potichnyj (1991) The Referendum and Presidential Elections in Ukraine , Canadian Slavonic Papers, 33:2, 127
+
+옐친과 고르바초프에 의한 국민투표 전날의 반독립운동―내부 정치 문제에 대한 무례한 방해로 인식―또한 아마도 독립 찬성세력들에게 힘을 주는데 도움이 되지 않았을까?
+[ 펼치기 · 접기 ] The anti-independence campaign by Yeltsin and Gorbachev on the eve of the referendum-perceived as a gross interference in internal political affairs-also probably helped the pro-independence forces? Peter J. Potichnyj (1991) The Referendum and Presidential Elections in Ukraine , Canadian Slavonic Papers, 33:2, 128-129
+
+8월 독립 선언과 1991년 12월 대통령 선거와 독립 국민 투표 사이에 고르바초프와 옐친은 우크라이나를 구 소련 내에서 유지시키려고 노력했다. 그러나 국민 투표에서는 동부 우크라이나와 같이 러시아인이 많이 밀집한 지역에서조차 90%의 압도적인 찬성율로 독립에 찬성했다.
+[ 펼치기 · 접기 ] Between the August Declaration of Independence and the December 1991 presidential elections and independence referendum both Gorbachev and Yeltsin continued to try and maintain Ukraine within the former USSR. But the referendum produced an overwhelming majority of 90 per cent in favour of independence, even in regions with large concentrations of Russians, such as Eastern Ukraine. Taras Kuzio (1994) Ukrainian nationalism , Journal of Area Studies , 2:4, 91
+
+1991년 12월 7-8일 벨라루스, 우크라이나, 러시아의 민스크 정상 회담에서 옐친은 고르바초프로부터 제안을 받아 마침내 우크라이나를 소련내에 유지하는 유일한 방법이 주권 국가 연방으로 전환하는 것이라는 점을 받아들였다. 이것은 8월 쿠데타 이전의 크라우추크 에게는 호소력이 있을지 모르지만(그러나 민족주의자에게는 그렇지 않음) 독립 국민 투표 결과 90% 이후에는 시작할 수 없는 계획이었다.
+[ 펼치기 · 접기 ] At the Minsk summit of Belarus, Ukraine and Russia on 7-8 December 1991 Yeltsin brought a proposal from Gorbachev where he finally accepted that the only way of keeping Ukraine within the Soviet Union was by its conversion into a confederation of sovereign states. Although this may have been appealing to Kravchuk prior to the August coup d'etat (but not to the nationalists) it was a non-starter after the ninety per cent independence referendum results. Taras Kuzio (1994) Ukrainian nationalism , Journal of Area Studies, 2:4, 92
+
+8월 21일 이후 두 사람은 모스크바에 본부를 둔 연방을 유지하기를 희망했지만, 등장해야 할 단체에 대한 개념은 양립할 수 없었다. 12월 투표 결과에 반영된 바와 같이 완전한 독립을 지지하는 우크라이나의 완전한 여론 변화는 결국 옐친의 목표를 바꾸도록 강요했고 그리고 벨로베즈스카야 푸쉬차 Belovezhskaya Pushcha 협정과 알마-아타 Alma-Ata 합의를 통해 소련의 종말을 촉진시켰다. 그러나 우크라이나의 상황이 그렇게 극적으로 바뀌자 않더라도 옐친과 고르바초프 둘 다를 만족시킬 수 있는 실행 가능한 구조가 고안될 수 있었을지는 의문이다.
+[ 펼치기 · 접기 ] Although both men after 21 August hoped to preserve a union headquartered in Moscow, their conceptions of the entity that should emerge were incompatible. The resounding shift of public opinion in Ukraine in support of outright independence, as reflected in the voting results on 1 December, is what ultimately forced Yeltsin to change his goals and precipitate the demise of the USSR through the Belovezhskaya Pushcha agreements and Alma-Ata accords. But even if the situation in Ukraine had not changed so dramatically, it is questionable whether a viable union structure could ever have been devised that would have satisfied both Yeltsin and Gorbachev. Mark Kramer (2022) The Dissolution of the Soviet Union: A Case Study of Discontinuous Change , Journal of Cold War Studies, 24 (1):206
+
+그 마지막 위기에서 또 다른 티핑 포인트는 독립 국가로 귀결되는 결정적인 투표인 1991년 12월 1일 우크라이나 독립 국민투표와 함께 찾아왔다. 국민투표 캠페인과 투표 자체는 근본적인 정치 변화의 역학에 대한 게르슈프스키의 유형론에서 또 다른 내생적으로 주도된 파열(Type III Change)을 구성했다. 1991년 8월 쿠데타가 실패로 끝난 후에도 옐친은 처음엔 러시아와 우크라이나, 벨라루스, 카자흐스탄, 그리고 다른 중앙아시아 공화국들을 연결시키는 연방을 보존하기를 희망했다. 그러나 1991년 가을 우크라이나 주민 대다수가 완전한 독립을 위하여 12월 1일에 투표할 것이라는 것이 명백해지자 옐친은 국민투표가 되돌아 갈 수 없는 포인트가 될 것을 깨달았다. 공식적인 투표 집계를 보기 전에 그는 독립 러시아 국가(구 소련에서 가장 크고 가장 강력한 구성 요소)에서 권력을 공고히 하고, 그리고 새로 선출된 우크라이나 대통령 레오니드 크라우추크 와 벨라루스 의장(사실상 국가 원수) 스타니슬라우 슈시케비치와 그 연방을 끝내는데 함께하기로 결정했다—1991년 12월 8일 벨로베즈스카야 푸쉬차에서 과업을 완수했다.
+[ 펼치기 · 접기 ] In that final crisis, another direct tipping point came with the independence referendum in Ukraine on 1 December 1991, which resulted in a decisive vote for an independent state. The referendum campaign and the vote itself constituted another endogenously-driven rupture (Type III Change) in Gerschewski’s typology of the dynamics of fundamental political change. After the August 1991 coup ended in failure, Yeltsin had initially been hoping to preserve a union linking Russia with Ukraine, Belarus, Kazakhstan, and other Central Asian republics. But as it became clear in the fall of 1991 that the large majority of residents of Ukraine would be casting votes on 1 December for outright independence, Yeltsin realized that the referendum would be a point of no return. Even before seeing the official voting tally, he decided he would consolidate his power in an independent Russian state (by far the largest and strongest component of the former USSR) and join with the newly elected Ukrainian president, Leonid Kravchuk, and the chairman of the Belarusian parliament (and de facto head of state), Stanislau Shushkevich, in bringing an end to the union—a task they accomplished on 8 December 1991 in Belovezhskaya Pushcha Mark Kramer (2022) The Dissolution of the Soviet Union: A Case Study of Discontinuous Change , Journal of Cold War Studies, 24 (1):214
+
+2.4. 벨라베자 조약 [편집]
+자세한 내용은 벨라베자 조약 문서를 참고하십시오. 1991년 12월 8일 에 열린 벨로베즈스카야 조약 서명식
+
+12월 8일 러시아, 벨라루스, 우크라이나 3국의 지도자들은 벨로베즈스카야숲 에 모여 벨라베자 조약 을 통해 소련 해체 이후 독립국가연합 (CIS)의 창설을 결의했다.
+
+2.5. 소련 붕괴 [편집]
+1985년 3월 이전에 근본적인 변화가 일어날 것인지를 측정하기 위해 다양한 종류의 데이터를 조사했던 학자나 정부분석가는 소련이 엄청난 도전에 직면해 있음을 알았겠지만, 그들은 데이터에서 소련이 시스템을 위협하는 위기에 처했음을 시사하는 그 어떤 것도 찾지 못했을 것이다.
+
+1985년 3월 이전에는 어떤 신뢰할 만한 학자도 소련이 1991년말까지 존재가 소멸할 것이라고 예측하지 못했을 것이다. 그런 의미에서 우리는 소련 붕괴의 장기적인 전조 신호를 지적할 수 없다. 1985년 3월 현재 소련은 파국적인 분기점에 이르고 있지 않았다. 소련의 상황적 전환점은 고르바초프가 1991년까지 체제를 분열에 취약하게 만든 일련의 불안정한 쇼크를 시스템에 가했을 때 찾아왔다. 직접적인 전환점은 1991년 8월의 쿠데타와 우크라이나의 독립 국민투표와 함께 찾아왔다.
+[ 펼치기 · 접기 ] Scholars or government analysts who had pored over various sorts of data before March 1985 to try to gauge whether fundamental change was about to happen would have seen that the Soviet Union was facing daunting challenges, but they would not have found anything in the data to suggest that the Soviet Union was in a system-threatening crisis.
+
+Before March 1985, no credible scholar would have predicted that the Soviet Union would cease to exist by the end of 1991. In that sense, we cannot point to longer-term precursor signals of the Soviet collapse. The Soviet Union as of March 1985 was not approaching a catastrophic bifurcation. The contextual tipping point for the Soviet Union came only when Gorbachev dealt a rapid series of destabilizing shocks to the system that by 1991 left it vulnerable to fragmentation. The direct tipping points then came with the abortive August 1991 coup and the independence referendum in Ukraine, which in combination caused the union to unravel
+
+Mark Kramer (2022) The Dissolution of the Soviet Union: A Case Study of Discontinuous Change , Journal of Cold War Studies, 24 (1):216
+
+대세를 막을 수 없게 되자 12월 25일 고르바초프 가 대통령직에서 사임했으며 다음날 소련 최고회의 는 142-N호 선언을 통해 이를 인준하였다. [37] 이로써 1922년 12월 30일 에 건국된 세계 최초의 사회주의 국가였던 소비에트 사회주의 공화국 연방 은 68년 11개월 26일만에 해체되었다.
+
+3. 탈퇴 순서 [편집]
+소련 구성국의 독립
+국명 | 독립선언일 | 출처 | 잔류국
+리투아니아 | 1990년 3월 11일 | 원문 (리투아니아어) | 14
+라트비아 | 1990년 5월 4일 | 원문 (라트비아어) | 13
+아르메니아 | 1990년 8월 23일 [38] | 원문 (아르메니아어) | 12
+1991년 소련 존속 투표 (1991년 3월 17일) [39] | 12
+조지아 | 1991년 4월 9일 | 원문 (조지아어) | 11
+주권국가연맹 창설조약 서명예정일 (1991년 8월 20일) [40]
+8월 쿠데타 (1991년 8월 19일 ~ 1991년 8월 22일) | 11
+에스토니아 | 1991년 8월 20일 [41] | 원문 (에스토니아어) [42] | 10
+우크라이나 | 1991년 8월 24일 | 원문 (우크라이나어) | 9
+벨라루스 | 1991년 8월 25일 | 출처 (러시아어) | 8
+몰도바 | 1991년 8월 27일 | 원문 (루마니아어) | 7
+아제르바이잔 | 1991년 8월 30일 | 출처 (아제르바이잔어) | 6
+우즈베키스탄 | 1991년 8월 31일 | 출처 (우즈베크어) [43] | 5
+키르기스스탄 | 1991년 8월 31일 | 출처 (러시아어) | 4
+타지키스탄 | 1991년 9월 9일 | 출처 (러시아어) | 3
+투르크메니스탄 | 1991년 10월 27일 | 출처 (러시아어) | 2
+벨로베자 조약 (1991년 12월 8일)
+(러시아 탈퇴) | 출처 (러시아어) | 1
+카자흐스탄 | 1991년 12월 16일 | 출처 (카자흐어) | 0
+알마아타 선언 (1991년 12월 21일) | 출처 (러시아어) | 0
+소련 붕괴 (1991년 12월 26일) | 출처 (러시아어) | 0
+
+실질적으로 독립한 날짜는 공화국마다 다르지만 발트 3국 은 1991년 9월 6일 에 소련 인민대표회의로부터 독립을 승인받았고 나머지 공화국은 1991년 12월 26일 소련이 사라지고 소련 내 각 구성국이 서로를 국가로 인정하는 형태로 독립하였다.
+
+4. 분석 [편집]
+
+4.1. 유지 가능성 [편집]
+소련이 정치적, 경제적으로 위기에 빠진 1990년 당시 소련이 해체될 것이라고 예상했던 사람들은 많지 않았다. 당시 카자흐스탄 , 우즈베키스탄 , 투르크메니스탄 , 키르기스스탄 , 타지키스탄 , 아제르바이잔 , 벨라루스 같이 소련 창설기부터 소련에 소속되어 있던 공화국들은 소련 체제를 유지하는 데 찬성했으며 발트 3국 이나 조지아 , 몰도바 같은 지역에서 분리주의 열기가 강했다. 따라서 1991년 전까지만 해도 소련은 국가적으로 심각한 위기를 겪고 있었지만 완전히 분해되어 사라질 것이라고 예상했던 사람은 많지 않았다.
+
+역사에서 소련이 유지될 수 있었던 마지막 기회는 미하일 고르바초프 소련 대통령의 마지막 승부수였던 주권국가연맹 이었다. 당시 소련 대통령이었던 고르바초프는 1990년부터 1991년까지 연방 내 구성국들과 연방정부의 정치적 갈등을 조율하면서 연방 내 공화국들에게 자치권 확대를 약속하면서 기존의 소련 체제를 유지하는 타협안을 제시했다. 이에 연방 구성국들은 고르바초프의 제안에 동의하면서 1922년 체결된 소련 창설조약을 대체하는 주권국가연맹 조약을 준비하고 있었다.
+
+비록 조약 준비 당시 발트 3국 과 몰도바 , 아르메니아 , 조지아 는 소련에서 탈퇴했지만 그럼에도 나머지 9개 구성국들은 1991년 소련 존속 투표 의 결과처럼 연방 잔류 의사를 표시했다. 당시 러시아 공화국 대통령이었던 보리스 옐친 과 주요 공화국 지도자들은 고르바초프의 제안에 호의적이었고 주권국가연맹 창설조약은 8월 20일 예정되어 있었다.
+
+하지만 1991년 8월 19일 소련 정부 내 주요 공직자들은 주권국가연맹조약 서명계획을 입수하고 군을 동원하여 고르바초프를 실각시키고 기존 체제를 고수하고자 했다. 그러나 당시 시대의 흐름을 읽지 못했던 쿠데타 세력은 소련 전역에서 예상보다 격렬한 저항에 맞닥뜨렸다. 결국 8월 쿠데타 는 3일만에 실패했다.
+
+8월 쿠데타 는 소련이 국가로써 유지될 수 있었던 마지막 가능성을 완전히 일소시켰다. 공화국들은 텔레비전으로 생중계된 쿠데타 과정을 통해 소련 공산당을 위시한 기득권 세력이 공화국들과 더 이상 타협할 의지가 없다는 사실을 확인한 후 더 이상 소련에 남아있을 이유가 없다고 판단했다. 실제로 8월 쿠데타 이후 12월 초까지 우크라이나를 비롯해 8개국이 주권선언문을 채택하고, 공화국 법률을 개정했다.
+
+8월 쿠테타 직후 소련 구성국 지도자들은 기존에 비준하려고 했던 주권국가연맹 을 좀 더 유럽연합 이나 영연방 과 비슷한 독립국가연합 체제로 개편하는데 동의했다. 과거 대영제국 이 제2차 세계 대전 이후 탈식민화 를 거치면서 영연방 으로 개편되었듯이 역사를 바라보는 관점에 따라서 소련은 독립국가연합 이나 유라시아 연합 같은 국제기구로 개편되었다고도 할 수 있다. 실제 소련을 식민제국 으로 바라보는 관점에서는 소련 해체를 20세기 마지막 식민제국 의 해체로 바라보기도 한다.
+
+오늘날 친소 , 친러 적인 시각에서는 8월 쿠데타 가 성공했다면 소련이 유지될 수도 있었다고 가정하지만 설령 고르바초프 를 몰아낸 보수파가 쿠데타로 권력을 장악하였다고 하더라도 오히려 소련은 천안문 사태 보다 훨씬 더 방대한 군사력 행사를 통해 중앙권력을 회복해야 했을 것이다.
+
+더욱이 쿠데타가 일어날 1991년 당시 시점에서 소련은 막대한 정치적, 군사적 원조 없이 불가능했던 사회주의 진영의 종주국 역할에 부담을 느끼고 바르샤바 조약 기구 나 코메콘 등 냉전 시기 동안 유지해 오던 군사적, 경제적 동맹을 스스로 해체했다. 그리고 기존 중앙통제식 계획경제를 개혁하겠다면서 내놓은 페레스트로이카 경제정책으로 인해 인플레이션과 재정적자 증가, 외채 누적, 부정부패와 암시장 증가 등의 문제가 겹쳐 경제상황이 그렇게 좋지 못했다. 이렇게 정치적, 경제적 위기를 겪던 상황에서 소련이 대규모 유혈사태 까지 일으키며 분리독립하려는 공화국들을 강제로 진압했다면 최소 서방의 경제제재부터 최대 천안문 6.4 항쟁 이후의 중국 이상의 외교적 타격, 소수민족 들과 유고슬라비아 전쟁 과 같은 독립 전쟁이 벌어지는 등 소련 입장에서 결코 현실 역사 이상으로 순조롭게 흐르지는 않았을 가능성이 높다.
+
+4.2. 영향 [편집]
+사실 소련/러시아는 1인당 명목 GDP가 1983년 3,650달러를 기록한 이래 계속 감소 추세였으므로 소련 붕괴 이전에도 경제사정이 딱히 좋은 것은 아니었다. 1989년 소련의 1인당 명목 GDP 는 2,748달러 [44] [45] 그러나 10년 후인 1999년 러시아의 1인당 명목 GDP는 절반인 1,330-1,343달러 [46] 로 줄어 버렸다. 물론 이후 다시 회복되긴 했지만 그 와중에 소련 보다 복지 수준이 훨씬 나빠져 지금도 러시아 사람들의 생활 수준은 소련 시절보다 낫다고 장담할 수 없다. [47] 붕괴 이전까지 대한민국 에서 소련 이란 나라가 미국 과 어깨를 나란히 하는 공산권 의 종주국이라는 이미지가 강했다. 1990년대 에는 뉴스에서 소련 경제가 위기라는 보도가 계속되고 소련 붕괴 이후 러시아인 들이 돈을 벌기 위해 심지어 여대생 , 회사원 같은 엘리트 여성들마저 미국 , 스칸디나비아 국가는 물론 심지어 대한민국 에 매춘 등으로 일하러 오면서 [48] [49] 러시아는 소련 붕괴 후의 후폭풍이 널리 알려지면서 강대국이지만 후진국이라는 이미지가 강하게 박혔고 이후 경제상황이 훨씬 나아진 후에도 경제적으로 뒤떨어진다는 인식은 여전히 남아 있다. 2020년대에도 눈 내리는 나이지리아 같은 인터넷 드립이 통용될 정도. [50]
+
+월 스트리트 의 전설적인 투자자 인 짐 로저스 는 소련의 붕괴 이후 공장을 관리하던 공무원 들이 하루 아침에 공장의 주인이 되었으며 어느 누구도 무엇이 어떻게 변하는지 갈피를 잡지 못할 만큼 큰 혼돈 이 왔다고 회고했다.
+
+게다가 군대 도 물량이 절반으로 줄어들었으며 국가의 경쟁력도 잃어 소련 시절 세계 공업 생산량의 30%를 차지하던 막강한 중공업 은 약화되었으며 사회적으로 무상의료 등이 사라지면서 제때 치료받지 못하는 사람이 속출하더니 평균 수명 을 10세나 깎아먹었다.
+
+이런 상황은 선진국 에서 흔히 볼 수 있는 저출산 이 아니라 식량 부족과 복지 불안 등 진짜로 기본적인 생활 보장 자체가 안 되면서 출산을 기피하는 것이었다. 다행히 1990년대 말 바닥을 친 뒤 블라디미르 푸틴 의 집권과 함께 나라가 어느 정도 안정화되면서 출산율이 1.7명까지 회복되었고 이에 따라 1993년 부터 2008년 까지 인구가 660만 명 감소하였으나 2009년 부터는 다시 증가하고 있다. 그러나 소련 붕괴 후에도 아직까지 러시아에는 후폭풍 이 남아 있는 상태다.
+
+소련의 해체로 인한 혼란기에 총기, 심지어 탱크나 전투기 같은 중장비조차 자국을 포함한 전 세계 암시장 에 팔아치웠으며 치안의 공백으로 레드 마피아 와 자본주의 의 법칙을 빨리 배워 그들과 결탁한 올리가르히 - 실로비키 가 들끓게 되었다.
+
+블라디미르 푸틴 은 이런 상황을 극복하기 위해 구 소련권 및 해외 러시아계 위주로 이민 을 적극 수용하고 재산업화를 추진하기 시작했고 인구 증가를 통해 내수 시장을 확충하고자 소련권이었던 국가들과의 연합을 적극 추진하고 있다. 이 경우 이민자가 비러시아계여서 러시아어 를 못할 수 있지만 그 가족들 중 누군가는 소련 시대의 교육을 통해 러시아어 를 할 줄 알고 1991년까지만 해도 같은 나라 여서 러시아에 친척을 둔 이가 많으며 사고방식이 통하기 때문에 북미 나 유럽 의 이민 수용보다 부작용이 적다. 다만 러시아 연방이 어느 정도 안정된 후에는 북미 나 유럽 과 비슷한 방식의 이민 수용도 북미 나 유럽 본토만큼은 아니지만 어느 정도 받아 주고 있다. 그리고 이를 위해 때로는 무력 개입 도 주저하지 않는다.
+
+러시아 외에 소련을 구성하던 공화국 의 해체 이후 상황은 천차만별이다. 사정이 제일 나은 것은 역시나 발트 3국 으로 1990년대 초중반에 경제적 혼돈기를 겪으면서 인구가 급감하는 바람에 한동안 국가 존립이 위태로워지는 상황에 처했지만 그럼에도 발트 3국 은 소련 시절에도 산업발달이 가장 잘 이루어진 지역이어서 기존에 쌓아놓은 것이 있었던 데다가 서방과 가까운 위치에 있었기에 비교적 빠르게 경제성장에 성공했다. 정치적으로도 친서방 적인 외교 노선으로 갈아타 유럽연합 , NATO 에 가입하면서 안보를 보장받고 반러 국가로 탈바꿈했다. 다만 인구가 300만도 안 되는 소국들이라 국민소득을 상대적으로 빠르게 올릴 수 있다는 것을 감안해야 하고 저출산 및 인구 감소 문제가 완전히 해결되지 않았다.
+
+중앙아시아 의 경우 국가마다 차이가 나는데 사실 이 차이라는 것은 천연자원의 부존 여부에 따른 것이다. 5개국 모두 체제 전환 초기에는 극심한 혼란과 경기침체를 경험했으나 세계적인 자원 보유국이자 인구가 그리 많지 않은 카자흐스탄 과 투르크메니스탄 은 그럭저럭 먹고살 만한 수준을 유지하고 있다. 물론 이건 전적으로 천연자원 덕분이었던 만큼 2015년 유가 폭락을 맞아 둘 다 타격을 입었다.
+
+키르기스스탄 과 타지키스탄 은 내륙 깊숙한 곳에 있는 내륙국 으로, 인구도 많지 않고 천연자원도 미미하기 때문에 현재 시점에도 최빈국이고 전망도 밝지 않다. 근대 세계에서 내륙국 이란 지리적 특성은 발전에 있어 말 그대로 쥐약 이기 때문이다.
+
+그나마 유럽의 내륙국 처럼 해안까지의 거리가 멀지 않고 교통망이 발달되어 있으며 주변국과 협력하는 상태라면 모를까 중앙아시아 의 경우는 제대로 된 항구 까지 닿으려면 그야말로 한 세기 가 걸리고 교통 수준과 협력 수준도 높지 않다. 키르기스스탄 과 타지키스탄 모두 러시아 와 카자흐스탄 에서 외국에서 일하는 자국민들의 송금에 절대적으로 의존하고 있다. 사실 이 동네는 워낙 입지가 형편없기 때문에 소련 시절부터 15개 공화국 중에서 가장 개발이 덜 된 지역이었고, 체제 전환 때문이라기보다는 소련으로부터 독립하면서 중앙정부의 지원이 끊기고 노동 이주도 제한된 것이 더 큰 원인이라고 볼 수 있다. 타지키스탄 과 키르기스스탄 은 중국 서부인 위구르 , 티베트 지역과 인접해 있지만 위구르 나 티베트 는 인구가 많은 지역이 아니고 산업 발전이 이루어진 지역도 아니다.
+
+우즈베키스탄 도 마찬가지로 내륙국 이고 자원은 있지만 카자흐스탄 에 비해 인구가 2배 많고 자원은 더 적기 때문에 수출은 고사하고 자국의 수요도 모두 감당하지 못하고 있다. 하지만 인구가 3,000만명으로 중앙아시아 에서 가장 많은 데다 소련 시절에 쌓아놓았던 산업 기반도 어느 정도 유지는 되었으며 내수 시장이 어느 정도 있고 노동력도 풍부해서 1997년 플러스 성장으로 전환한 이후 2000년대 초반 평균 5%, 중반 이후 8%를 넘는 고속 성장을 이룩하고 있다. 물론 그래도 카자흐스탄 을 따라잡으려면 (카자흐의 성장이 멈추더라도) 십 년은 족히 걸릴 것으로 보인다.
+
+코카서스 의 경우 카스피해 연안의 석유 , 천연가스 를 소유한 아제르바이잔 의 소득이 그럭저럭 괜찮은 것 같지만 자원의 배분이 영 신통치 않은지 임금 수준만 놓고 보면 아르메니아 , 조지아 와 크게 차이가 나지 않는다. 참고 [51] 캅카스 3국 모두 월 평균 임금이 4~50만원에 불과한 빈국이다. [52]
+
+러시아 를 제외한 동유럽 3개국 또한 사정이 영 안 좋기는 마찬가지다. 우크라이나 와 몰도바 는 1인당 GDP가 5,000-6,000달러대 수준으로 탈유럽급의 최빈국인데 이것도 1990년대 에 비하면 엄청나게 나은 수준이다. [53] 두 나라 모두 지하경제의 비중이 큰지라 실질 경제력으로 따진다면 경제규모가 최소 2배-3배 이상으로 껑충 뛰어오른다. 물론 거꾸로 말하자면 부정부패가 심하다는 얘기도 된다. 게다가 정정 불안으로 인해 안 그래도 막장이었던 경제는 갈수록 파탄으로 치닫게 되었다. 의외로 벨라루스 는 내륙국에 자원도 없는 데다 루카셴코 의 반서방, 친러 정책과 독재로 인해 서방의 제재를 받고 있음에도 불구하고 태국 , 페루 , 보츠와나 와 비교될 정도로 상당히 양호한 소득 수준을 보이고 있다. 이웃 러시아 가 1990년대 옐친 의 급진적 경제 개혁의 부작용으로 나락으로 추락하는 동안 루카셴코는 그와 반대되는 행보를 보였기 때문이다.
+
+소련은 중앙 권력으로 소련 공산당 이 있었고 소속 공화국별로 휘하의 공산당이 존재하였다. 물론 당연히 연방중앙 공산당의 강력한 지도를 받았다.
+
+정치적으로는 구성국들이 극과 극으로 나뉘는데 우크라이나 , 몰도바 , 키르기스스탄 , 발트 3국 , 조지아 , 아르메니아 는 부분적으로는 민주주의 체제 [54] 인 반면 러시아 , 아제르바이잔 , 투르크메니스탄 , 타지키스탄 , 카자흐스탄 , 벨라루스 는 권위주의 국가가 되는 양상을 보인다. 한때 철권통치로 악명 높았던 우즈베키스탄 은 독재자 가 2016년 에 사망하면서 민주주의 요소를 조금씩 받아들이기 시작하는 등 과도기 단계에 머물러 있다.
+
+발트 3국 은 소련 에서 독립하면서 반러 국가가 된 후 소련식 중앙집권체제를 철폐하였고 몰도바 는 유럽 최빈국이라 그런지 딱히 독재 권력이 나타나지 않았다. 우크라이나 와 키르기스스탄 , 조지아 , 아르메니아 는 민중 시위 로 권력자를 몰아낸 경험을 가지고 있으며 의원내각제 요소를 도입하여 국가원수 인 대통령 의 권한을 총리 와 나눠 가지는 등 권위주의 를 방지하는데 노력하고 있다. 그러나 카자흐스탄 , 우즈베키스탄 , 투르크메니스탄 은 소련 해체 직전 각 해당 공화국의 공산당 서기장 이었던 누르술탄 나자르바예프 , 이슬람 카리모프 , 사파르무라트 니야조프 가 독립하자마자 최초 직선제 선거를 통해 초대 대통령이 되면서 독재권력을 휘둘렀다.. 2019년 에 자발적으로 대통령직에서 사퇴한 카자흐스탄 의 나자르바예프 를 제외하면 카자흐스탄과 인접한 두 나라의 카리모프 와 니야조프 는 장기집권 중 노환 으로 사망하여 그의 뒤를 승계한 샤브카트 미르지요예프 와 구르반굴리 베르디무하메도프 가 현재 대통령직을 역임하고 있다. 미르지요예프는 현재 카리모프 가 행해 오던 철권통치를 완화하고 개혁정책을 추진하고 있지만 베르디무하메도프는 전임자였던 니야조프 를 능가할 정도로 억압적인 독재 체제를 고수하고 있다. 아제르바이잔 은 3대 대통령인 헤이다르 알리예프 가 아르메니아 와의 전쟁을 통해 권력을 획득한 후 훗날 아들인 일함 알리예프 한테 대통령직을 세습 하였고 일함 또한 아들한테 세습 하려 한다는 의혹을 받고 있다. 마찬가지로 타지키스탄 의 에모말리 라흐몬 대통령과 벨라루스 의 알렉산드르 루카셴코 대통령 또한 장기집권을 하면서 세습 의혹을 받고 있다.
+
+소련 붕괴 25주년인 2016년 12월 에 여론조사기관 '레바다-첸트르'에 따르면 소련의 붕괴를 애석해한다는 응답자는 78%, 그렇지 않다는 응답자는 22%였다. 애석해하는 이유로는 경제 붕괴(53%), 강대한 국력 상실(43%), 상호 불신 증가(31%), 친척·친구 관계 단절(28%), 자유로운 여행 불가(15%) 등을 들었다. 한편 다른 여론조사 전문기관 '브치옴'의 조사에선 소련 붕괴를 애석해한다는 응답자가 83%로 더 많았다. 이러한 상황에서 유라시아 연합 등 푸틴 주도의 구소련 독립국가연합 의 재통합이 급물살을 타게 되었다.
+
+스포츠(특히 축구 )에도 적잖게 영향을 끼치었다. 리그에서부터 전도유망한 선수들이 해외로 많이 빠져나갔는데 타지키스탄 출신의 발레리 사리체프 (신의손)가 K리그로 떠나면서 2000년에 대한민국 국적을 따거나 발레리 니폼니시 감독과 알렉산드르 포드쉬발로프 (샤샤), 세르게이 부르딘 등이 부천 SK 에서 활약한 게 그 반증이다.
+
+소련 축구 대표팀 은 1958년 월드컵부터 8강 이상 여러 번 진출하고 유로 1960 초대 우승과 유로 4강 이상 여러번 진출할 정도로 우승후보였지만, 유로 1988 준우승과 88올림픽 축구 금메달을 끝으로 소련 해체 후 약해졌다. UEFA 유로 에서는 유로 1992 지역예선 직후 소련이 해체되어 '독립국가연합'이라는 이름으로 당시 8개국(8강) 본선 유로 [55] 에 진출했으나, 스코틀랜드에 0:3 참패하였고 [56] , 그 후 러시아로 2000년 유로 16개국 본선에 진출 실패하는 충격도 있었다. 그러다가 유로 2008 에서 4강 [57] 진출하는 이변을 일으켰으나, 월드컵도 2006 ~ 2010월드컵 32개국 본선에 진출 실패할 정도였고, 그러다가 개최국으로 진출한 2018 FIFA 월드컵 러시아 에서 8강(8위)에 오른 것이 최고였다. [58] 그리고 제3의 전성기를 맞았으나 각종 도핑 논란과 2022년 러시아의 우크라이나 침공 으로 국제무대 출전이 정지되었다. 또 러시아 를 제외하고 월드컵이나 유로컵 본선에 오른 팀은 라트비아 [59] 와 우크라이나 [60] 뿐이다. AFC 로 소속을 옮긴 우즈베키스탄 , 카자흐스탄 [61] , 키르기스스탄 , 타지키스탄 , 투르크메니스탄 중 아시안컵 본선에 오른 나라도 우즈베키스탄 [62] 과 투르크메니스탄 [63] , 키르기스스탄 [64] 뿐이다.
+
+1992 알베르빌 동계올림픽 과 1992 바르셀로나 올림픽 에서는 소련의 15개국 중 라트비아 , 리투아니아 , 에스토니아 를 제외한 12개국이 '올림픽 연합 선수단'이라는 이름으로 대회에 참가했다. 하지만 월드컵 이나 유로컵 과는 달리 동계올림픽 에서는 메달 종합 2위, 하계올림픽 메달 종합 1위를 달성하며 체면 치레를 했다.
+
+조지프 나이 교수 의 분석에 따르면 현 러시아 가 이전의 소련 보다 인구의 반, 경제의 반, 병력의 3분의 1로 줄어든 상태라고 한다. #
+
+2021년 12월 12일 푸틴 대통령이 소련 붕괴를 비극으로 묘사하면서 경제난에 택시 를 몰아야 했다고 회고했다. #
+
+타국의 사회주의 단체도 그렇지만 당시 특히 한국의 운동권 에게는 소련 붕괴가 엄청난 충격이었다. 당시 한국은 의도적으로 소련에 대한 정보를 감추고 있었고, 소련이 개혁개방을 할 적에도 운동권에게 소련은 워너비로 남아 있었는데, 소리소문 없이 소련이 공중분해되면서 운동권은 그야말로 날벼락이 떨어지게 된다. 이재오 , 김문수 등 전설적인 운동권 인물들이 전향한 데는 북한 의 실상이 알려진 것과 더불어서 소련의 붕괴가 대대적인 이유를 차지하게 된다.
+
+4.3. 붕괴로 인한 후유증 [편집]
+소련 붕괴로 인하여 소련 국가들의 모순이 폭발하며 몰도바 - 트란스니스트리아 전쟁, 나고르노카라바흐 전쟁 , 2020년 아르메니아-아제르바이잔 전쟁 , 체첸 전쟁 , 남오세티야 전쟁 , 유로마이단 , 크림 반도의 독립 과 2014년 러시아의 크림반도 합병 , 돈바스 전쟁 , 2022년 러시아의 우크라이나 침공 , 2022년 키르기스스탄-타지키스탄 국경분쟁 등 수많은 혼란과 문제 를 초래하게 되었다. 러시아나 우즈베키스탄, 투르크메니스탄, 타지키스탄 등지에서도 기득권층의 사치와 부실한 소득 분배 및 복지 문제, 공산당이 집권하던 시절보다 더 악명높은 독재와 인권 탄압, 정쟁불안 등에 불만을 품고 차라리 소련 시절이 더 나았다고 하소연하는 사람들도 있다. [65]
+
+4.4. 소련 부활? [편집]
+소련 을 그리워하지 않는 사람은 마음이 없는 사람이다. 그러나 소련을 재건하려는 사람은 머리가 없는 사람이다. 블라디미르 푸틴
+
+소련은 냉전 시절 미국 과 함께 세계를 주물렀던 초강대국 이었기에 대체역사 에서는 소련 부활에 관련된 주제가 자주 언급되는 편이다. 해당 문단은 만약 소련이 러시아 를 중심으로 나머지 14개 혹은 대다수의 국가들을 합치는 방식으로 어떻게든 유지되던가, 부활하게 된다면 어떤 일이 일어나고 부활한 소련은 어느 정도의 국력을 가지고 있을지 서술한다.
+
+러시아는 아직 단 한번도 정권교체 가 이루어진 적이 없으나, 소련 공산당 을 계승하는 제1야당인 러시아 연방 공산당 이 존재한다. 과거에는 당수인 겐나디 주가노프 를 중심으로 총선에서 원내 1당을 차지하고 대선에서도 보리스 옐친 을 상대로 결선투표 까지 갈 정도로 선전했던 정당이였으나, 현재의 러시아 공산당은 차르와 다름없는 푸틴의 존재로 인하여 집권 가능성이 제로에 가깝다. 그러나 이들이 만약 어떻게든 정권을 획득하는데 성공한다면 소련이 부활할 가능성이 높아질 것이다.
+
+만약 소련이 다시 건국되게 된다면 대부분의 땅이 쓸 수 없는 동토지나 불모지이지만 캐나다 , 인도 , 중국 을 합친 것보다도 크며 누구도 넘볼 수 없는 거대한 국토를 가진 세계 1위 영토 대국이 만들어진다. 소련의 국토는 무려 22,402,200km²에 달했고 만약 21세기에 이런 규모의 영토를 가진다면 무시하지 못할 정도의 지정학적 우세를 점하게 될 것이다. 인구 쪽으로 보면 2018년 기준으로 2억 9,600만 명 정도의 인민들을 거느리게 되며, 인도, 중국 , 미국의 뒤를 잇는 세계 4위 인구 대국 이 된다. 다만 동유럽 국가들의 인구가 경제 저성장과 불황으로 인해 많이 줄어든 편이라서 1991년과 비교하면 겨우 300만 명밖에 증가하지 않은 수치이며, 또한 전체 인구의 64%가 유럽 부분에 몰려 살게 된다. [66] 가장 많은 민족은 41%의 러시아인 , 다음이 14%의 우크라이나인 , 9%의 우즈베키스탄인과 카자흐스탄인 4%, 그리고 나머지 민족으로 구성된다.
+
+수도는 그때나 지금이나 똑같이 러시아의 수도 모스크바 가 될 가능성이 크다. 소련 시절 내내 수도였다는 점에서 정통성이 워낙 압도적이고 경제, 사회, 문화의 실질적인 중심지이기까지 하니 당연히 모스크바가 새로운 수도로 가장 유력하다. 게다가 부활한 소련에서 약 1,900만 명의 인구를 자랑하는 [67] 소련 제1의 도시이니 수도가 아니라면 그게 더 이상할 정도다. 참고로 부활한 소련 체제 하에서는 모스크바, 상트페테르부르크 , 키이우 , 타슈켄트 , 바쿠 순서대로 도시 규모가 커지게 된다.
+
+경제는 전성기에 비하면 여전히 좋지 않을 것으로 보인다. 소련 시절에도 경제가 그렇게 좋았던 것은 아니었고 [68] 소련 붕괴 후 구성국들 상당수는 1990년대 혹독한 불황과 사회적 혼란을 겪었다가 1990년대 후반부터 경제 성장을 기록했다. 1989년 소련 붕괴 직전 소련의 GDP는 세계 8위 인 약 8,000억 달러였다. 이것은 동년 프랑스 , 영국 , 이탈리아 와 비슷한 수준이다. 따라서 2018년 기준으로 부활할 소련의 경제 규모는 영국, 인도, 브라질 에는 못 미치지만 그래도 2조 1,793억 달러를 기록하여 1989년에 비해 2.8배 증가한 세계 9위 경제 대국 이 되었을 것이다.
+
+1인당 명목 GDP는 1990년보다 더 늘었다. 1990년 소련의 1인당 GDP는 2,748달러인데 2018년 부활한 소련의 1인당 GDP는 약 7,363달러 다. 인플레이션을 계산해도 분명히 1990년보다 증가하긴 했지만 [69] 이것은 세계적으로 보면 몬테네그로 보다는 가난하고 리비아 보다는 조금 더 나아서 1인당 GDP 순위는 77위 밖에 안 된다. 게다가 구성국들 사이의 빈부 격차도 엄청나다. 선진국에 해당하는 에스토니아 는 평균 임금이 약 957유로, 라트비아 는 738유로, 리투아니아 는 690유로 정도 되지만, 빈곤한 벨라루스 는 평균 임금이 357유로, 몰도바 는 212유로, 가장 가난한 우크라이나 는 고작 210유로밖에 안 된다.
+
+군사적인 측면을 보자면 부활 시 소련은 상비군 규모로만 따지면 약 140만~160만 명 정도로 220만 군대를 지닌 중국의 뒤를 잇는 세계 2위 규모의 군대를 가진다.
+
+국제 정치 지형도 지금과 비슷하게 미국 vs 중국-소련의 형태로 가거나 혹은 미국 vs 중국 vs 소련의 천하삼분지계 로 재편될 수도 있다. 소련 부활은 예측하기도 어려울 정도로 엄청난 사건이 될 것이기에 부활한 소련이 어느 정도의 위상을 가질지, 그리고 국력은 어느 정도일지는 전혀 예측하기 어렵지만, 일단 냉전 시절에 떨쳤던 국력 수준이 아님은 자명하다. 갑자기 기적같이 소련이 부활한다 해도 옛 시절처럼 세계의 초강대국 행세를 하고 다니기란 불가능할 것이다. 다만 중국과 소련이 별다른 마찰 없이 제2세계 국가로서 서로 긴밀한 동맹 관계를 유지하기로 결정한다면, 미국 또한 현재와 같은 강력한 패권을 행사하기는 힘들어질 것이다.
+
+단 소련이 21세기에 부활한다 할지라도 일단 소련은 1990년대보다 두 가지 점에서 크게 불리하다. 1인당 GDP는 이미 러시아가 뭔 짓을 해도 미국을 따라가기 힘들 정도로 격차가 벌어졌으며. 산업 분야도 미국은 다양한 산업 분야에서 압도적으로 앞서나가는 와중에 러시아는 대개 석유 나 석탄 같은 자원중심 경제에 머무르고 있다. 항공우주 등 일부 분야에선 러시아가 구 소련 시절 쌓은 것을 바탕으로 뛰어나다고는 하지만 이마저도 미국을 따라잡지는 못하기에 소련은 미국에게 냉전 시절만큼 무서운 존재가 되지 못한다.
+
+둘째, 바로 동유럽 위성국가 들의 부재다. 냉전 시절에는 폴란드 , 동독 , 헝가리 , 체코슬로바키아 , 루마니아 , 불가리아 등 여러 공산주의 위성국들이 동유럽에 버티면서 서구 세계에 대한 든든한 방파제가 되어주었다. 그러나 탈냉전 이후에 폴란드, 체코, 헝가리, 루마니아, 불가리아 등 소련의 옛 앞마당이었던 국가들이 모조리 나토 에 들어가 미국이나 영국, 프랑스, 독일, 네덜란드 등 서방 국가들의 동맹이나 다름없게 되어 버렸다. 심지어 해당 국가들은 소련 시절을 강점기 흑역사 로 여기고 소련을 매우 싫어하는 편에 속하니 이전처럼 동유럽 국가들을 수족처럼 부리는 건 포기해야 할 수밖에 없을 것이다. [70]
+
+그리고 소련과 러시아에 대한 반감이 엄청난 발트 3국 이 이미 소련에서 탈퇴한 지 얼마 되지 않아 나토에 가입해 버렸기 때문이다. 발트 3국을 병합하려면 나토, 그리고 그 뒤에 있는 미국과 전쟁을 벌여야만 한다. 게다가 중앙아시아의 카자흐스탄 , 우즈베키스탄 등도 친러 성향을 보이기는 하지만 묘하게 독자행보를 보이는 경우가 많고, 그래서 소련이 부활한다 해도 러시아+우크라이나+벨라루스 정도가 합쳐지는 건데 이미 전쟁으로 인해 반러 그 자체가 되어버린 우크라이나 정부가 내부분열로 친러 정권으로 바뀌지 않는 한 러시아와 통합을 선언하는 일은 없을 테니 소련이 다시 세상에 등장하는 일은 없을 거라 봐도 무방하다. [71]
+
+이렇게 된 근본적인 원인은 러시아의 패권주의 적 외교 에 있다. 2022년 러시아에 침략당한 우크라이나만 해도 처음부터 러시아에 적대적이었던 것도 아니고 쿠치마 재임기 열병식에 블라디미르 푸틴 이 참석할 정도였고, 양국 군대가 함께 승리의 날 을 기념했던 만큼 초창기에는 우호적이었다. 크림반도 점령 전까지만 해도 양국 국민감정 역시 좋은 편이었다. 원래부터 반러 기조가 강했던 발트 3국과 소련 해체 이후 먼 나라가 되어버린 몰도바를 제외하면 [72] 다들 러시아와 인접해 있는 만큼 정치적, 경제적으로 러시아와 마냥 척을 질 수 없었고 이런 지정학적 요건을 활용해 우호적인 관계를 구축하는 것도 가능했다. 그런데 옛 연방의 일원들을 독립국가로 존중하는 대신 속국 내지는 아예 국가도 아닌 소비에트 공화국 , 속령 으로 취급하며 내정 간섭을 하고 영토 분쟁을 부추겨대니 살기 위해서라도 러시아에 맞서게 된 것이다.
+
+5. 어록 [편집]
+" 그들 중 심판을 받은 사람은 아무도 없었어요, 아무도요! 그 망나니들은 존경받는 연금수령자들로 살다가 제명대로 죽었다고요. 제가 뭐라고 하고 싶은 줄 아세요? 사람들에게 회개하라고 호소하지 마세요. 인민 들이, 우리 국민 들이 선한 민족이라는 생각을 만들어내지 마세요. 아무도 죄를 뉘우칠 준비가 되어있지 않아요." - 스베틀라나 알렉시예비치 , <세컨드 핸드 타임>, 391쪽
+
+"소비에트 연방에서 무언가가 바뀔 수 있다는 생각은 한 번도 해 본 적이 없어요. 그게 사라질 거라는 생각은 고사하고요. 누구도 그걸 기대하지 않았어요. 어른이건 아이건 말이에요. 모든 게 영원할 거라는 완전한 인상이 있었죠." 안드레이 마카레비치 , 소련 및 러시아의 락 밴드 마시나 브레메니 의 프론트맨 [73] [74]
+
+" 누군가에게는 지금이 훨씬 좋겠죠. 하지만 우리 에겐 아니에요. 그때는 저에게도 모든 것이 있었습니다. 먹을 것, 입을 것...." - 표트르 트로피모 [75] , MBC 러시아 혁명 다큐멘터리 : 제5부 혁명의 유산 중
+
+"우유값도 못 내던 그때 가 기억나십니까? 우린 그 시대를 살았습니다." - 파벨 그루지닌
+
+" 1980년대 말에서 1990년대 초에 연출된 역사적 비극의 결말을 우리는 다 알고 있습니다. 자본가 가 되려고 안달이었던 관료 들에 의해서 현실사회주의 가 자멸되고 그 영토 는 중심부 내지 준중심부 산업 자본을 위한 자원 공급지이자 상품 시장으로 전락했습니다. 혁명 의 유산을 지켜내지 못한 과거의 ' 인민 '들은 계급적 적 앞에서 너무나 약했던 죄로 새로운 과두재벌 의 권리 없는 머슴이 되거나 저처럼 자기자신을 중심부에 팔아야 하는 망국노적 신세가 된 것입니다." - 박노자
+
+"무엇보다도 우리는 소비에트 연방 의 붕괴가 20세기 의 최대의 지정학적 재앙이었다는 것을 인정해야 합니다." - 블라디미르 푸틴 (러시아 연방 국회 연설, 2005년)
+
+Скажем прямо: мы все — за исключением, разве что, дошколят-шестилеток — рождены именно в СССР, в этой некогда огромной и могучей державе, которая была для одних ласковой матерью, а для других — злой мачехой, для кого-то красавицей, а для кого — уродиной, была империей страсти или зла, центром притяжения или отторжения, являлась в мечтах или кошмарных сновидениях. Но как бы то ни было, мы все родились в СССР, и распад некогда нерушимого Союза стал не только событием планетарного масштаба, но и катастрофой для миллионов людей, которые почитали его своей единственно возможной Родиной. 솔직히 말해봅시다. 6살짜리 어린 아이를 빼고는, 우리 모두는 바로 소비에트 연방에서, 한때 거대하고 강력했던 그 강대국에서 태어났습니다. 그 나라는 누군가에게는 다정한 어머니였고, 다른 이에게는 사악한 계모였으며, 누군가에게는 미녀였고, 누군가에게는 추녀였으며 [76] , 열정의 제국이거나 악의 제국이었고, 끌어당기는 중심이거나 밀어내는 중심이었으며, 꿈 속에 나타나거나 악몽에 나타났습니다. 하지만 어찌 되었든 우리 모두는 소비에트 연방에서 태어났고, 한때 불멸의 연방이었던 그곳의 붕괴는 지구적 차원의 사건일 뿐만 아니라, 그곳을 유일한 조국으로 여기던 수백만 명의 사람들에게는 재앙이었습니다. 데데테 의 리더 유리 셰프추크, 1997년 발언
+
+6. 여담 [편집]
+- 오늘날 소련을 구성하던 각 공화국들은 모두 독립국이 되었으므로 오늘날의 러시아 연방 도 명목상으로는 소련 해체 이후 소련을 구성하던 공화국 중 하나인 러시아 소비에트 연방 사회주의 공화국 이 국호를 바꾸어 탄생한 신생국가다. 그러나 소련을 주도하던 국가가 러시아 이고 사실상 러시아가 소련의 대부분임은 국제적으로나 내적으로나 인정됐기 때문에 소련이 가졌던 유엔 상임이사국 지위나 수교국 등 모든 국제적 지위와 외채 등 의무는 신생 러시아가 실질적인 소련의 후신으로써 국가승계 절차를 밟았다.
+
+- 1991년 12월 8일, 러시아의 탈퇴로 사실상 소련은 완전히 끝장났지만, 사실 다른 모든 나라가 연방을 탈퇴한 후에도 카자흐스탄 이 8일 동안 남아있었다. 카자흐스탄은 러시아 탈퇴 이후 8일 후인 12월 16일에 탈퇴했기 때문. 그래서 카자흐스탄은 정확히 여드레 동안 유일한 소련의 구성국으로서 미국 의 최대 적수이자 UN 상임이사국 지위를 보유하고 있었다. 8일천하
+
+- 러시아는 소련 붕괴 재발을 방지하기 위함인지, 현재 헌법 내부에도 연방의 탈퇴권이 없다.
+
+- 소련 내 일부 소수민족에게도 소련 해체는 날벼락이었다. 예를 들면 소련 와해로 인해 소련 내 고려인 은 초강대국 소련의 모범적인 소수민족에서 여러 중소 국민국가들의 소수민족으로 바뀌는 바람에 새로운 환경에 적응하여야 했다. 위 인용문에도 나와 있듯이 박노자 는 소련 해체를 " 망국 "이라고 표현한다. 왜냐하면 박노자, 곧 '블라디미르 미하일로비치 티호노프'는 러시아인 으로서의 정체성보다 항상 소련 유대인 으로서의 정체성이 강했던 사람이었기 때문이고 단일민족국가 에서 살아가는 한국인의 정서에선 이해하기 힘든 정체성이지만 다민족국가 인 구소련권에는 사실 이렇게 소련 해체 이후 어느 후속 국가에도 소속감이나 정체성을 느끼지 못한 민족적, 정치적 소수자와 소련 시절 혼혈인 들이 상당히 많다. [77]
+
+- 우주 비행사 세르게이 크리칼료프 는 1991년 5월 18일 에 소련 국적을 가지고 우주로 나갔다가 우주에서 나라가 망했다는 소식을 듣게 되었다. 그렇게 우주에서 난민이 된 채 귀환이 계속 뒤로 밀려 311일 동안 우주 공간에 떠 있다가 우주복에 소련 국기를 단 채 러시아로 귀환했다.
+
+- 2022년 12월 26일 에는 우크라이나 의 공식 트위터 계정에 '소련 붕괴의 날을 축하합니다!'라는 트윗이 올라왔다. # 고국(國)드립
+
+- 소련 붕괴의 여파로 1991년 세계 평균 경제성장률은 1.2%를 기록했는데, 이보다 세계 평균 경제성장률이 낮았던 해는 1975년(0.6%; 1차 오일쇼크 의 여파), 1982년(0.4%; 폴 볼커 의 금리인상), 2009년(-1.3%; 대침체 ), 2020년(-2.9%; 대봉쇄 ) 이렇게 4개년이 전부다.
+
+- MBC 에서 방송한 어느 시트콤 중 동계 아시안 게임 기간에 내보낸 회차에서 어느 여주인공이 '아시안 게임에 왜 미국이나 소련 같은 나라가 안 나오냐?'라는 불평을 하자 어느 남주인공이 '아시안 게임은 말 그대로 아시아의 경기 대회라서 다른 대륙의 나라가 참가할 수 없다. 그리고 소련은 해체된 지 오래됐다.'라는 취지로 답을 했는데, 그 여주인공이 되려 '소련이 댄스 그룹이냐, 해체되게?' 라고 따진다. [78]
+
+- 소련의 해체는 소련에 속해 있던 수많은 나라들은 물론 소련의 지원으로 연명하던 사회주의 국가들과 친소 노선을 걷던 여러 나라들에도 큰 타격을 주었는데, 익히 알려져 있다시피 북한 의 고난의 행군 도 소련의 붕괴가 원인 중 하나가 된 것으로 알려져 있으며, 마찬가지로 쿠바 역시 소련의 붕괴로 인해 1990년대 내내 특별 기간(Special Period)이라 불리는 극심한 경제난에 시달렸다. 사회주의 국가는 아니지만 친소 노선을 걷던 인도 역시 소련 붕괴로 인해 1991년 외환위기를 겪게 된다. [79]
+
+7. 관련 자료 [편집]
+- 역사저널 그날: 철의 장막, 소련 70년 - 소련 최후의 날 (2022.04.03. KBS1)
+
+7.1. 142-N호 선언문 [편집]
+СОВЕТ РЕСПУБЛИК ВЕРХОВНОГО СОВЕТА СССР
+
+ДЕКЛАРАЦИЯ В СВЯЗИ С СОЗДАНИЕМ СОДРУЖЕСТВА НЕЗАВИСИМЫХ ГОСУДАРСТВ
+
+от 26 декабря 1991 года № 142-Н
+
+Опираясь на волю, выраженную высшими государственными органами Азербайджанской Республики, Республики Армения, Республики Беларусь, Республики Казахстан, Республики Кыргызстан, Республики Молдова, Российской Федерации, Республики Таджикистан, Туркменистана, Республики Узбекистан и Украины о создании Содружества Независимых Государств, Совет Республик Верховного Совета СССР констатирует, что с созданием Содружества Независимых Государств Союз ССР как государство и субъект международного права прекращает свое существование.
+
+Совет Республик Верховного Совета СССР обращается к главам Независимых Государств с предложением рассмотреть вопросы:
+
+— о правопреемстве Союза ССР и союзных органов государственной власти и управления в связи с образованием Содружества Независимых Государств; — о создании межпарламентского органа Содружества с целью сохранения единого правового, экономического, гуманитарного и экологического пространства на территориях государств — участников Содружества; — о ратификации, исполнении и денонсации международных договоров, заключенных Союзом ССР до образования Содружества.
+
+Совет Республик Верховного Совета СССР призывает высшие представительные органы государственной власти и глав государств — членов Содружества принять все зависящие от них меры для обеспечения прав и свобод граждан независимо от их национальности в соответствии с Декларацией прав и свобод человека, мирного сожительства народов Содружества, демократического развития их государственности, добрососедских отношений и сотрудничества с государствами и народами мирового сообщества, неуклонного выполнения международных обязательств, вытекающих из договоров и соглашений Союза ССР.
+
+Председатель Совета Республик Верховного Совета СССР
+
+А. Алимжанов THE SOVIET OF REPUBLICS OF THE SUPREME SOVIET OF THE USSR
+
+Declaration on the occasion of the creation of the Commonwealth of the Independent States.
+
+December 26, 1991, no. 142-N
+
+The Soviet of the Republics of the Supreme Soviet of the USSR, following the will of the supreme state organisations of the Republic of Azerbaijan, of the Republic of Armenia, of the Republic of Belarus, of the Republic of Kazakhstan, of the Republic of Kyrgyzstan, of the Republic of Moldova, of the Russian Federation, of the Republic of Tajikistan, of Turkmenistan, of the Republic of Uzbekistan and of Ukraine regarding the creation of the Commonwealth of the Independent States, stipulates that with the creation of Commonwealth of the Independent States, the USSR ceases to exist as a state and as a subject of international law.
+
+The Soviet of the Republics of the Supreme Soviet of the USSR addresses the heads of the Independent States with a proposition to put the following questions under consideration:
+
+- About the legal continuity of the Union of SSR and of the union-level power bodies and questions of power regarding the creation of the Commonwealth of the Independent States.
+
+- About the creation of the inter-parliamentary body of the Commonwealth to preserve the united legal, economical, humanitarian and ecological space on territories of the member states of the Commonwealth.
+
+- About the ratification, enforcement of and/or nullification of international treaties signed by the Union of SSR before the creation of the Commonwealth.
+
+The Soviet of the Republics of the Supreme Soviet of the USSR calls to the highest representative organs and to the heads of the member states of the Commonwealth to do everything in their power to enforce the rights and freedoms of the citizens of all ethnicities according to the Universal declaration of human rights, peaceful coexistence of the peoples of the Commonwealth, democratic development of their statehood good-neighbourly, cooperation-based relations with other states and peoples of the world community, to unflinchingly enforce the international obligations as stipulated in treaties and agreements of the Union of SSR.
+
+Chairman of the Soviet of the Republics of the Supreme Soviet of the USSR
+
+A. Alimzhanov 소련 최고회의 공화국 평의회 [80]
+
+1991년 12월 26일 독립국가연합 창설에 관한 선언 No. 142-N
+
+독립국가연합의 창설과 관련하여 아제르바이잔 공화국 , 아르메니아 공화국 , 벨라루스 공화국 , 카자흐스탄 공화국 , 키르기스스탄 공화국 , 몰도바 공화국 , 러시아 연방 , 타지키스탄 공화국 , 투르크메니스탄 , 우즈베키스탄 공화국 , 우크라이나 의 최고 국가 기구들의 의지에 따라, 소련 최고회의 공화국 평회의는 독립국가연합의 창설과 함께 소련이 국가로서 그리고 국제법의 주체로서 더 이상 존재하지 않음을 확인한다.
+
+소련 최고회의 공화국 평의회는 독립 국가원수들에게 다음과 같은 질문들을 고려할 것을 제안한다:
+
+- 소련과 연합 차원의 권력 기구의 법적 연속성과 독립국가연합의 창설과 관련한 권력의 문제에 관하여.
+
+- 독립국가연합 회원국의 영토에 법적, 경제적, 인도적, 생태적으로 통합된 공간을 보존하기 위한 독립국가연합 의회간 기구의 창설에 관하여.
+
+- 독립국가연합이 창설되기 전에 소련이 체결한 국제 조약의 비준, 집행 및/또는 무효화에 관하여.
+
+소련 최고회의 공화국 평회의는 민족에 상관없이 세계 인권 선언에 따른 시민의 권리와 자유, 독립국가연합 시민들의 평화적 공존, 국가 선린우호의 민주적 발전, 다른 국가 및 세계 공동체와의 협력 기반 관계를 보장하기 위해 최고 대표 기관과 독립국가연합 회원국의 정상들에게 모든 힘을 다할 것과 소련의 조약 및 협정에 명시된 국제 의무를 거침없이 이행할 것을 촉구한다.
+
+소련 최고회의 공화국 평의회 의장
+
+A. 알림자노프 알림자노프의 1991년 12월 26일 142-N호 선언(소련 해체 선언)
+
+8. 관련 문서 [편집]
+- 노래 혁명
+- 동유럽 혁명
+- 소련
+- 독립국가연합
+- 러시아 연방
+- 대러시아
+- 범슬라브주의
+- 러시아-벨라루스 연맹국
+- 유라시아 연합
+- 주권국가연맹
+- 러시아 연방 붕괴론
+- 중국 붕괴론
+- 북한 붕괴론
+
+9. 둘러보기 [편집]
+냉전
+[ 국가 ] [ 자본주의 진영 ] 제1세계
+맹주
+미국
+유럽
+그리스 ·
+네덜란드 ·
+노르웨이 ·
+덴마크 ·
+룩셈부르크 ·
+모나코 ·
+몰타 ·
+벨기에 ·
+서독 → 독일 ·
+스페인 ·
+아이슬란드 ·
+안도라 ·
+영국 ·
+이탈리아 ·
+키프로스 ·
+튀르키예 ·
+포르투갈 ·
+프랑스
+아시아 & 오세아니아
+뉴질랜드 ·
+대한민국 ·
+라오스 왕국(~1975) ·
+말레이시아 ·
+남베트남(~1975) ·
+바레인 ·
+사우디아라비아 ·
+싱가포르 ·
+아랍에미리트 ·
+오만 ·
+요르단 ·
+이라크 왕국(~1958) ·
+이란 제국(~1979) ·
+이스라엘 ·
+인도네시아(1967~) ·
+일본 ·
+중화민국 ·
+크메르 공화국 ·
+태국 ·
+파키스탄 ·
+필리핀 ·
+호주
+아프리카
+남아프리카 공화국 ·
+라이베리아 ·
+로디지아 ·
+말라위 ·
+모로코 ·
+앙골라 민주주의 인민공화국 ·
+스와질란드 ·
+에티오피아 제국(~1975) ·
+자이르 ·
+케냐 ·
+튀니지
+북아메리카
+과테말라 ·
+그레나다(~1979 / 1983~) ·
+니카라과(~1979) ·
+도미니카 공화국 ·
+도미니카 연방 ·
+멕시코 ·
+세인트빈센트 그레나딘 ·
+세인트키츠 네비스 ·
+세인트루시아 ·
+앤티가 바부다 ·
+엘살바도르 ·
+온두라스 ·
+코스타리카 ·
+쿠바(~1959) ·
+캐나다 ·
+트리니다드 토바고 ·
+파나마
+남아메리카
+베네수엘라 ·
+볼리비아 ·
+브라질 ·
+아르헨티나 ·
+에콰도르 ·
+우루과이 ·
+칠레 ·
+콜롬비아 ·
+파라과이 ·
+페루
+
+[ 공산주의 진영 ] 제2세계
+맹주
+소련
+유럽
+동독 ·
+루마니아 사회주의 공화국 ·
+불가리아 인민공화국 ·
+알바니아 사회주의 인민공화국(~1968) ·
+유고슬라비아(~1948) ·
+체코슬로바키아 사회주의 공화국 ·
+폴란드 인민공화국 ·
+헝가리 인민공화국
+아시아 & 오세아니아
+남예멘 ·
+라오스(1975~) ·
+몽골 인민 공화국 ·
+민주 캄푸치아 ·
+바누아투 ·
+북베트남 → 베트남 ·
+조선민주주의인민공화국 ·
+바트주의 시리아 ·
+아프가니스탄 민주 공화국 ·
+중화인민공화국 (~1959)
+아프리카
+기니 ·
+기니비사우 ·
+마다가스카르 민주 공화국 ·
+말리 ·
+모잠비크 인민공화국 ·
+베냉 인민공화국 ·
+세이셸(1977~) ·
+소말리아(~1977) ·
+알제리 ·
+앙골라 인민공화국 ·
+에티오피아 인민민주공화국 ·
+이집트 (1952~1973) ·
+콩고 인민공화국 ·
+북아메리카
+그레나다(1979~1983) ·
+니카라과(1979~) ·
+쿠바(1959~)
+
+[ 비동맹 진영 ] 제3세계
+리비아 아랍 자마히리야 ·
+북예멘 ·
+아일랜드 ·
+알바니아 사회주의 인민공화국(1968~) ·
+오스트리아 ·
+유고슬라비아(1948~) ·
+바트주의 이라크(1958~) ·
+이란(1979~) ·
+이집트(1973~) ·
+인도 ·
+인도네시아(~1967) ·
+스위스 ·
+스웨덴 ·
+중화인민공화국 (1959~) ·
+핀란드 (핀란드화) ·
+팔레스타인
+
+[ 주요 사건 ] 제2차 세계 대전 직후
+(1945~1947) | 봉쇄 정책 · 언싱커블 작전 · 제2차 국공내전 · 철의 장막 · 그리스 내전 · 미소공동위원회 · 트루먼 독트린
+전반부
+(1947~1969) | 마셜 플랜 · 1948년 체코슬로바키아 쿠데타 · 제1차 중동전쟁 · 베를린 봉쇄 · 티토-스탈린 결렬 · 소련의 미국개입유도설 · 6.25 전쟁 · 샌프란시스코 조약 · 1953년 동독 봉기 · 쿠바 혁명 · 제네트릭스 계획 · 1956년 포즈난 시위 · 1956년 헝가리 혁명 · 제2차 중동전쟁 · 1958년 레바논 위기 · 진먼 포격전 · 스푸트니크 쇼크 · 콩고 위기 · 중소결렬 · U-2 격추 사건 · 1962년 버마 군사반란 · 나는 베를린 시민입니다 · 존 F. 케네디 대통령 암살 사건 · 베트남 전쟁 · 캄보디아 내전 · 피그만 침공 · 쿠바 미사일 위기 · 제3차 중동전쟁 · 68 운동 · 프라하의 봄 ( 다뉴브 작전 ) · 브레즈네프 독트린 · 우주 경쟁 · 중국-소련 국경분쟁 · 매카시즘 · 상호확증파괴 · 죽의 장막 · 로젠버그 부부 간첩 사건 · 과테말라 내전 · 북예멘 내전 · 도파르 전쟁 · 해군 당포함 격침 사건
+데탕트
+(1969~1979) | 닉슨 독트린 · 동방 정책 · 닉슨-마오쩌둥 회담 · 7.4 남북 공동 성명 · 핵확산금지조약 · 전략무기제한협정 · 제4차 중동전쟁 · 앙골라 내전 · 베트남 통일 · 판문점 도끼 만행 사건 · 독일의 가을 · 중일평화우호조약 · 이란 혁명 · 중국-베트남 전쟁 · 엘살바도르 내전 · 니카라과 혁명
+후반부
+(1979~1985) | 흑묘백묘론 · 폴란드 계엄령 · 악의 제국 연설 · 그레나다 침공 · 이 장벽을 허무시오 · 소련-아프간 전쟁 · 이란-이라크 전쟁 · 스타워즈 계획 · 대한항공 007편 격추 사건 · 콘트라
+냉전의 종식
+(1985~1991) | 글라스노스트 & 페레스트로이카 · 도이머이 · 체르노빌 원자력 발전소 폭발 사고 · 북방정책 · 1988 서울 올림픽 · 천안문 6.4 항쟁 · 베를린 장벽 붕괴 · 몰타 회담 · 1989년 동유럽 혁명 · 예멘 통일 · 동서독 통일 · 걸프 전쟁 · 8월 쿠데타 · 남북기본합의서 · 소련 붕괴
+탈냉전
+
+[ 관련 문서 ] 국제 기구
+북대서양 조약 기구
+NATO|OTAN ·
+바르샤바 조약 기구
+ОВД|WP TIAR · SEATO · ANZUS · CENTO| 경제상호원조회의(СЭВ | COMECON)
+군사 대결 구도
+미군 vs 소련군
+
+탈냉전
+[ 펼치기 · 접기 ] 주요 사건
+냉전 의 종식
+(1985~1991) | 소련 붕괴 · 제1차 나고르노카라바흐 전쟁 · 소말리아 내전 · 시에라리온 내전 · 트란스니스트리아 전쟁
+팍스 아메리카나
+(1991~2008) | 고난의 행군 · 알제리 내전 · 유고슬라비아 전쟁 · 보스니아 전쟁 · 체코슬로바키아 해체 · 1993년 러시아 헌정위기 · 타지키스탄 내전 · 부다페스트 안전 보장 각서 · 아파르트헤이트 폐지( 1994년 보푸타츠와나 위기 · 1995 럭비 월드컵 남아프리카 공화국 ) · 제1차 체첸 전쟁 · 제1차 콩고 전쟁 · 르완다 내전 ( 르완다 학살 ) · 탈레반의 아프간 집권 · 코소보 전쟁 · 제1연평해전 · 제2차 체첸 전쟁 · 홍콩 반환 · 마카오 반환 · 1999년 동티모르 위기 · 햇볕정책 · 제2연평해전 · 시에라리온 내전 · 제2차 라이베리아 내전 · 9.11 테러 · 미국-아프간 전쟁 · 테러와의 전쟁 · 이라크 전쟁 · 2006년 이스라엘-헤즈볼라 전쟁 · 북한의 1차 핵실험
+신냉전
+(2008~) | 남오세티야 전쟁 · 2008 베이징 올림픽 · 대침체 · 서브프라임 모기지 사태
+국제 기구
+제1세계 | 유럽연합 · 파이브 아이즈 · TIAR
+제2세계 | 독립국가연합 (СНГ/CIS) · 집단 안보 조약 기구 (ОДКБ/CSTO)
+
+러시아-우크라이나 관계 관련 문서
+[ 펼치기 · 접기 ] 사건사고 | 우크라이나 대기근 · 소련 붕괴 ( 벨라베자 조약 · 부다페스트 안전 보장 각서 ) · 시베리아 항공 1812편 격추 사건 · 오렌지 혁명 · 유로마이단 혁명 · 2018년 정교회 분열 · 2021-2022년 우크라이나 위기 · 러시아-우크라이나 전쟁 ( 크림반도 합병 · 돈바스 전쟁 · 우크라이나 침공 )
+외교 | 러시아-우크라이나 관계 · 러시아-벨라루스-우크라이나 관계 · 러시아-폴란드-우크라이나 관계 · 도네츠크 인민공화국-루간스크 인민공화국 관계 · 우크라이나-체첸 관계
+기타 | 우크라이나계 러시아인 · 러시아계 우크라이나인 · 러시아-우크라이나 국경 · 크림반도
+
+미러관계 관련 문서
+[ 펼치기 · 접기 ] 역사 | 알래스카 조약 · 미소관계 ( 냉전 · 미군 vs 소련군 · 소련 붕괴 ) · 신냉전
+사건사고 | 러시아게이트 · 러시아-우크라이나 전쟁 ( 크림반도 합병 · 돈바스 전쟁 · 2021-2022년 우크라이나 위기 · 2022년 러시아의 우크라이나 침공 )
+외교 | 미러관계 · 미러관계/2020년대 · 미중러관계 · 주 미국 러시아 대사관 · 미군 vs 러시아군 · 6자회담
+국제기구 | 상임이사국 · G20 · G8
+기타 | 러시아계 미국인 · 미국계 러시아인 · 베링 해
+
+[1] 해석하면 "소련 붕괴"다. 다른 표현은 'Dissolution of the USSR'(소련 해체)이다. [2] 해당 영상은 소련 붕괴와 동시에 소련기가 내려가며 러시아 연방기가 최초로 게양된 순간이다. 장소는 모스크바 크렘린 상원궁전이며, 해당 영상에 나오는 소련 국가 는 실제로 현장에서 연주된 게 아닌 당시 미국 ABC 뉴스에서 삽입한 것이다. [3] 붕괴 이후에 창설된 것이 아니라 1991년 12월 8일 에 창설되었다. [4] 사실상 8월 쿠데타 때문이라고 봐야 한다. 주권국가연맹이 발표되기 하루 전에 8월 쿠데타가 일어났고, 이 쿠데타가 실패하면서 혼란에 빠진 소련이 붕괴되었기 때문이다. [러시아어] [6] 영어 로는 'Belovezh Accords', 러시아어 로는 'Белове́жское соглаше́ние' [7] 영어 로는 'Alma-Ata Protocol', 러시아어 로는 'Алма-Атинская декларация' [8] 소련 붕괴는 1990년부터 각 구성국의 독립 선언들로부터 시작하였다. [9] 사실 소련붕괴 2년 전인 1989년 12월 2일 조지 H. W. 부시 미국 대통령과 미하일 고르바초프 소련 공산당 서기장의 몰타 정상회담 에서 냉전 종식을 선언하기는 했다. 하지만 데탕트 같은 사례처럼 당시 소련 지도부의 입장은 소련의 정치 상황에 따라 언제든지 유동적으로 변할 위험이 있었으며, 이는 완전한 냉전 종식이라고 보기 어려웠다. [10] 이때가 미국이 극초강대국 에 가장 근접했던 시기이다. [11] 붕괴 직전 소련은 GDP의 27%에 달하는 비용을 국방비로 지출하고 있었다. [12] 암묵지 문제와 연성예산제약 문제 [13] Mark Kramer (2022) The Dissolution of the Soviet Union: A Case Study of Discontinuous Change , Journal of Cold War Studies, 24 (1):201 [14] Mark Kramer (2022) The Dissolution of the Soviet Union: A Case Study of Discontinuous Change , Journal of Cold War Studies, 24 (1):201 [15] Mark Kramer (2022) The Dissolution of the Soviet Union: A Case Study of Discontinuous Change , Journal of Cold War Studies, 24 (1):202 [16] Mark Kramer (2022) The Dissolution of the Soviet Union: A Case Study of Discontinuous Change , Journal of Cold War Studies, 24 (1):202-203 [17] Mark Kramer (2022) The Dissolution of the Soviet Union: A Case Study of Discontinuous Change , Journal of Cold War Studies, 24 (1):203-204 [18] Ivano-Frankivs’k [19] Mark Kramer (2022) The Dissolution of the Soviet Union: A Case Study of Discontinuous Change , Journal of Cold War Studies, 24 (1):204 [20] Mark Kramer (2022) The Dissolution of the Soviet Union: A Case Study of Discontinuous Change , Journal of Cold War Studies, 24 (1):204 [21] Mark Kramer (2022) The Dissolution of the Soviet Union: A Case Study of Discontinuous Change , Journal of Cold War Studies, 24 (1):204 [22] Paul R. Magocsi (1996), A history of Ukraine, University of Toronto Press Incorporated, 673-674 [23] 우크라이나어의 라다는 러시아어의 소비에트와 동의어다. 우크라이나 SSR 최고 소비에트(우크라이나 SSR 최고 라다)는 독립 선언 직후 이름을 우크라이나 최고 라다 로 변경했다. [24] Peter J. Potichnyj (1991) The Referendum and Presidential Elections in Ukraine , Canadian Slavonic Papers, 33:2, 124-125 [25] Peter J. Potichnyj (1991) The Referendum and Presidential Elections in Ukraine , Canadian Slavonic Papers, 33:2, 126 [26] Peter J. Potichnyj (1991) The Referendum and Presidential Elections in Ukraine , Canadian Slavonic Papers, 33:2, 127 [27] Peter J. Potichnyj (1991) The Referendum and Presidential Elections in Ukraine , Canadian Slavonic Papers, 33:2, 126 [28] Peter J. Potichnyj (1991) The Referendum and Presidential Elections in Ukraine , Canadian Slavonic Papers, 33:2, 126-127 [29] Peter J. Potichnyj (1991) The Referendum and Presidential Elections in Ukraine , Canadian Slavonic Papers, 33:2, 126-127 [30] Mark Kramer (2022) The Dissolution of the Soviet Union: A Case Study of Discontinuous Change , Journal of Cold War Studies, 24 (1):206, 214 [31] Taras Kuzio (1994) Ukrainian nationalism , Journal of Area Studies, 2:4, 91-92 [32] Peter J. Potichnyj (1991) The Referendum and Presidential Elections in Ukraine , Canadian Slavonic Papers, 33:2, 128-129 [33] Paul R. Magocsi (1996), A history of Ukraine, University of Toronto Press Incorporated, 674 [34] Peter J. Potichnyj (1991) The Referendum and Presidential Elections in Ukraine , Canadian Slavonic Papers, 33:2, 123-4 [35] Taras Kuzio (1994) Ukrainian nationalism , Journal of Area Studies, 2:4, 92-93 [36] Mark Kramer (2022) The Dissolution of the Soviet Union: A Case Study of Discontinuous Change , Journal of Cold War Studies, 24 (1):206,214 [37] 관련 기사: 최고회의 해산 결의 “이제 우리가 떠나야 할 때” [38] 의외로 아르메니아에서도 반소련 시위가 크게 일어났다. 아르메니아 또한 앙숙이었던 아제르바이잔과 같은 연방에 있는 것도 가뜩이나 마땅찮아하던 도중에 빨리 독립하는 것이 더 낫다고 판단한 것이다. [39] 당시 구성국 중 라트비아, 리투아니아, 몰도바, 아르메니아, 에스토니아, 조지아 6개국이 불참했으며 이 중 발트 3국과 아르메니아 4개국은 투표 보이콧 및 소련으로부터 독립을 선언했다. [40] 당시 주권국가연맹 창설조약에는 러시아, 벨라루스, 아제르바이잔, 우크라이나, 우즈베키스탄, 카자흐스탄, 키르기스스탄, 타지키스탄, 투르크메니스탄 9개국이 참여 예정이었다. [41] 다른 발트 3국 과 마찬가지로 1990년에 국명에서 SSR을 떼 버리고 국기에서 낫과 망치를 제거했으며 공산주의 헌법을 부정하고 옛날에 쓰던 헌법으로 돌아가긴 했지만, 주권 국가로써의 부활을 선언하면서 동시에 소련을 탈퇴한 리투아니아 나 라트비아 와 달리 에스토니아는 주권 국가의 부활을 선언했을 뿐 소련에서 탈퇴한 건 아니었다. 완전히 탈퇴 선언을 한 건 이듬해 8월 쿠데타 가 발생한 이후다. [42] 국가 부활 선언문.(1990년 3월 29일) [43] 키릴 문자 [44] # 단 러시아 SFSR 로 한정 시 3,428달러였다. # [45] 1989년 기준으로 9,211달러에 달했다는 주장도 있으나 당시 소련의 경제수준을 보면 턱없이 과장된 액수다. 상세한 설명은 후술. [46] # # [47] 조금 더 정확히 얘기하자면 90년대에 악화되었다가 2000년대 에 회복되었는데 소련 말기와 비교해 보면 줄을 서는 일이 크게 줄었고 해외여행 자유화로 해외여행의 빈도가 크게 늘어나는 등 개선되는 점도 있으나 소련 시절에는 각 가정마다 수천~수만루블의 저축자금이 있었지만 현 러시아에서는 은행에 1루블도 저축하지 않거나 못하는 가구가 무려 2/3에 달하는 등 저축률은 소련 시대에 비해 크게 떨어지고 소련 시절에는 기다리면 받을 수 있었던 집이 소련 해체 후에는 직접 사는 것으로 변경되면서 월세와 집값이 크게 올라 각 가정에 주는 부담이 크게 늘어나는 등 개선된 점과 악화된 점이 공존한다. [48] 이러한 움직임은 이원복 교수의 < 현대문명진단 > 3권 수록 에피소드 '외교관, 기자, 그리고 콜걸'에서도 다루어졌다. 해당 회차에 의하면 매춘 자체는 1980년대 후반 개혁개방 시기부터 도입됐는데 당시 반대 여론도 있었으나 소련 붕괴 이후 성행했다. [49] 그 당시 성인 매춘 뿐만 아니라 아동, 청소년들한테 빈곤에서 벗어나게 해준다며 일자리를 소개한다고 거짓말치고 성착취를 하는 등 심각한 사회문제까지 성행했는데 이를 고발한 영화 천상의 릴리아 에서 당시 비참했던 소련 붕괴 후 아동, 청소년들의 실태를 볼 수 있다. [50] 이는 어디까지나 비유적인 의미지, 실제 나이지리아는 러시아와 소득 면에서 열 배 이상 엄청난 차이가 난다. [51] 다만 아제르바이잔이 조지아, 아르메니아보다 인구가 훨씬 많긴 하다. 조지아와 아르메니아의 인구가 각각 400만, 300만 정도밖에 되지 않는 반면 아제르바이잔은 캅카스 3국 중 유일하게 인구가 천만명을 넘기는 나라로, 저 두 나라의 인구를 합친 것보다도 많다. [52] 그럼에도 불구하고 조지아와 아제르바이잔의 물가는 한국인 기준으로 봐도 생각외로 싸지 않은 편이다. 아제르바이잔이야 산유국이니 그렇다 쳐도 조지아는 원래는 물가가 상당히 저렴한 나라였으나 러우전쟁과 그로 인한 러시아인들의 대규모 이주로 인해 물가가 폭등해버려 외식비가 한국 과 비교해도 크게 차이가 나지 않을 정도가 되었다. [53] 특히 몰도바는 우크라이나 정세가 막장이 되기 전이던 2013년까지는 우크라이나보다도 가난한 유럽 최빈국이었고, 러시아의 모라토리움의 여파를 직격탄으로 맞아 한때는 거의 아프리카 최빈국 수준으로 떨어졌다. [54] 프리덤 하우스 의 세계의 자유 구분에서 ' 자유 ' 혹은 '부분적 자유'로 분류된 나라들이다. 아래의 권위주의 의 독재 국가로 설명한 나라들은 '부자유'로 분류된 나라들. [55] 1992유로까지 지역예선에서 본선 유로에 들어 갈 수 있는 자리가 단 8자리(8강) 유로 대회로 현재 24자리 유로에 들어가는 것 보다 매우 어려웠다. [56] 그 전에 독일과 네덜란드에게 모두 무승부를 기록했으나 스코틀랜드에 0:3으로 참패 탈락(8등)했다. [57] 3위로 유로는 1984년부터 3,4위전(동메달전) 폐지로 최종 결과는 4강전이다. [58] 90월드컵 17위(24강 조별리그)
+94월드컵 18위(24강 조별리그)
+98월드컵 32개국 본선에 진출 실패
+2002월드컵 22위(32강 조별리그)
+2006~2010월드컵 32개국 본선에 진출 실패
+2014월드컵 24위(32강 조별리그)로 우승후보 소련시절에 비교하면 암흑기 의 정점을 찍었다. [59] 유로 2004 [60] 2006 독일 월드컵 , 유로 2012 ( 폴란드 와 공동개최), 유로 2016 , 유로 2020 [61] 2002년 부터 UEFA 소속으로 옮김. [62] 그나마 아시안컵 에서는 연속으로 진출하며 강호로 인정받고 있다. [63] 2004년, 2019년 [64] 2019년 에 대한민국에게 0-1로 석패했다. [65] 소련 때는 그래도 권력이 서기장 한명이 독점하지는 않아서 그나마 분산되었는데 독립하게 되면서 그런게 없으니 1인 독재가 가능해지면서 저런 얘기가 나온 거다. 특히 투르크메니스탄이나 아제르바이잔은 북한처럼 세습도 했다. [66] 조지아 , 아제르바이잔 , 아르메니아 는 제외한다. [67] 교외 지역 포함. 시가지 부분만 셈하면 1,200만 명 정도다. [68] 상술했듯이 1983년 이후 소련의 경제력은 감소 추세에 있었다. [69] 1990년부터 2018년까지 달러의 누적 인플레이션은 92.1%이다. 1990년 2,748달러는 2018년 5,279달러에 달하니 분명히 실질적으로도 늘긴 늘었다. 하지만 소련의 경제력이 정점을 찍은 1983년에 비하면 실질적으로는 줄었다. [70] 오히려 해당 국가들이 소련 부활에 반발하여 단체로 군사적 침략을 하거나 국제적 제제를 가하지나 않으면 다행일 수준이다. 그도 그럴 게 한국인들 입장으로 이해가 쉽게 비유해보면 일본 제국 이 다시 부활하는 것이라고 볼 수 있다. 인근국들이 화가 나지 않을 수가 없는 것. [71] 참고로 우크라이나 는 소련 구성국들 가운데 러시아 의 뒤를 잇는 2인자 격의 나라였다. 즉 우크라이나를 제외한 소련 부활은 큰 의미가 없다는 뜻이다. [72] 몰도바는 몰다비아 의 일부분이었던 곳이라 루마니아와 동질감이 매우 강했다. [73] 우크라이나 전쟁 당시 전쟁에 반대하고 우크라이나를 옹호하는 발언을 하였다는 이유로 이노아겐트로 지정되어 현재 국외 도피 중인 상태이다. [74] 해당 문구는 1994년 TV 인터뷰 당시 발언으로, 알렉세이 유르차크의 저서 "모든 것은 영원했다, 사라지기 전까지는"(2019)에 언급된 것을 재인용했다. [75] 소련 집단농장 에서 트랙터 운전기사를 했다. [76] 이는 데데테의 히트곡인 "조국"(Родина, 1991)의 레퍼런스로 볼 수도 있다. 이 노래 후렴구에서는 родина(조국)과 уродина(추녀)로 운을 맞추고 있는데, 이는 당시 상당히 파격적인 것으로 인식되었다. [77] 이해하기 쉽게 설명하자면 미국이 해체되어 50개의 주들이 모두 독립국이 된 상황에서 비백인, 비흑인 소수민족들의 상황을 생각하면 이해가 될 것이다. [78] 해당 회차가 방송된 시기에는 말 그대로 한국 내 여러 댄스 그룹이 해체되는 일이 잦았다. [79] 이렇게 해서 인도는 경제를 전면 개방했고 성장이 지지부진하던 과거와 달리 성장을 하게 되었다. [80] 당시 소련 최고회의는 하원인 연방평의회와 상원인 공화국 평의회(1991년 9월 이후부터 민족평의회에서 공화국 평의회로 명칭 변경)가 있었지만 연방평의회는 소련이 해체되기 2주 전에 러시아 소비에트 연방 사회주의 공화국 이 일방적으로 연방평의회 의원들을 철수시키면서 정족수 미달로 사실상 해산 상태였다. 이 문서의 내용 중 전체 또는 일부는 다른 문서에서 가져왔습니다.
+[ 펼치기 · 접기 ] 소련 보수파 쿠데타 문서의 uuid not found 판 ( 이전 역사 )
+소련 문서의 r1399 판, 13번 문단 ( 이전 역사 ) [ 인천남동구,서울365치과의원
+seoul365dental.com v-if
+박준규 대표원장, 인천 남동구 예술로 138 212~214호
+
+] | [ 남동구치과 다비안치과의원
+www.dabien.co.kr v-if
+인천논현역100m, 세심한진료, 철저한 사후관리, 임플란트, 교정, 충치, 잇몸
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

@@ -1,0 +1,652 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 슈뢰딩거 방정식/사각 퍼텐셜 문제
+최근 수정 시각: 2025-04-19 12:47:25 [ [ [ ] [ [ 7 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 양자역학
+- 물리학 예제
+]
+
+[ [ ] [ 상위 문서: 슈뢰딩거 방정식 양자역학 Quantum Mechanics
+[ 펼치기 · 접기 ] 배경 | 흑체복사 · 이중슬릿 실험 · 광전효과 · 콤프턴 산란 · 보어의 원자 모형 · 물질파 · 데이비슨-저머 실험 · 불확정성 원리 · 슈테른-게를라흐 실험 · 프랑크-헤르츠 실험
+이론 체계 | 체계 플랑크 상수 ( 플랑크 단위계 ) · 공리 · 슈뢰딩거 방정식 · 파동함수 · 연산자 ( 해밀토니언 · 선운동량 · 각운동량 ) · 스핀 ( 스피너 ) · 파울리 배타 원리 해석 코펜하겐 해석 ( 보어-아인슈타인 논쟁 ) · 숨은 변수 이론 ( EPR 역설 · 벨의 부등식 · 광자 상자 ) · 다세계 해석 · 앙상블 해석 · 서울 해석 묘사 묘사 ( 슈뢰딩거 묘사 · 하이젠베르크 묘사 · 디랙 묘사) · 행렬역학
+연관 학문 | 천체물리학 ( 천문학 틀 · 우주론 · 양자블랙홀 · 중력 특이점 ) · 핵물리학 틀 ( 원자력 공학 틀 ) · 응집물질물리학 틀 · 컴퓨터 과학 틀 ( 양자컴퓨터 · 양자정보과학 ) · 통계역학 틀 · 양자화학 ( 물리화학 틀 ) · 입자물리학 ( 입자물리학 틀 )
+현상 · 응용 | 양자요동 · 양자 얽힘 · 양자 터널링 · 퍼텐셜 우물 · 양자 조화 진동자 · 오비탈 · 수소 원자 모형 · 쌓음 원리 · 훈트 규칙 · 섭동 ( 스핀 - 궤도 결합 · 제이만 효과 · 슈타르크 효과 · 헬만-파인만 정리 ) · 선택 규칙 · 변분 원리 · WKB 근사법 · 시간 결정 · 보스-아인슈타인 응집 · 솔리톤 · 카시미르 효과 · 아하로노프-봄 효과 · 블랙홀 정보 역설 · 양자점 · 하트리-포크 방법 · 밀도범함수 이론 · 준위 · 양자장론 ( 양자전기역학 · 양자색역학 ) · 뤼드베리 방정식 · 체렌코프 현상
+기타 | 군론 · 기본 입자 · 대칭성 · 비리얼 정리 · 리만 가설 · 매듭이론 · 밀도행렬 · 물질 · 방사선 ( 반감기 ) · 라플라스의 악마 · 슈뢰딩거의 고양이 ( 위그너의 친구 )
+문헌 | 교재 · 분류:물리학술지
+
+1 . 개요 2 . 파동함수의 경계 조건 3 . 무한 퍼텐셜 우물 3.1 . 분석 3.1.1 . 1차원 3.1.1.1 . 고유함수 3.1.1.2 . 기댓값 3.1.1.3 . 불확정성 원리 검증 3.1.1.4 . 대응 원리 3.1.1.5 . 고유함수의 직교성 3.1.1.6 . 고유함수의 시간 전개 3.1.2 . 2차원 3.1.2.1 . 원형 무한 퍼텐셜 우물에 갇힌 입자 3.1.3 . 3차원 4 . 퍼텐셜 계단 4.1 . 입자의 에너지가 퍼텐셜보다 큰 경우 4.2 . 입자의 에너지가 퍼텐셜보다 작은 경우 5 . 사각형 퍼텐셜 장벽 5.1 . 입자의 에너지가 퍼텐셜보다 큰 경우 5.2 . 입자의 에너지가 퍼텐셜보다 작은 경우 5.3 . 분석 6 . 유한 퍼텐셜 우물 6.1 . 비속박 상태 6.2 . 속박 상태 7 . 관련 문서
+
+1. 개요 [편집]
+rectangular potential problem
+
+이 문서에서는 1차원 사각형 퍼텐셜 장벽 혹은 벽이 있을 때, 입자의 산란 혹은 속박과 관련된 것을 다룬다. 이 문제는 대표적으로 다음과 같은 네 가지 유형이 있다. - 무한 퍼텐셜 우물(infinite potential well)
+- 퍼텐셜 계단(step potential)
+- 사각 퍼텐셜 장벽(rectangular potential barrier)
+- 유한 퍼텐셜 우물(finite potential well)
+
+2. 파동함수의 경계 조건 [편집]
+파동함수가 퍼텐셜 경계 x = c x=c x = c 에서 가져야 할 경계 조건은 다음과 같다.
+
+φ 1 ( c ) = φ 2 ( c ) ∂ φ 1 ∂ x ∣ x = c = ∂ φ 2 ∂ x ∣ x = c \displaystyle \begin{aligned} \varphi_{1}(c)&=\varphi_{2}(c) \\ \biggl. \frac{\partial \varphi_{1}}{\partial x} \biggr|_{x=c}&=\biggl. \frac{\partial \varphi_{2}}{\partial x} \biggr|_{x=c} \end{aligned} φ 1 ​ ( c ) ∂ x ∂ φ 1 ​ ​ ​ x = c ​ ​ = φ 2 ​ ( c ) = ∂ x ∂ φ 2 ​ ​ ​ x = c ​ ​
+즉, 파동함수가 경계를 가로지를 때, 연속이 되어야 한다.
+
+3. 무한 퍼텐셜 우물 [편집]
+어떤 입자가 특정 구간을 제외하고는 무한한 퍼텐셜이 존재하여, 해당 구간을 제외하고는 적은 확률로도 빠져나갈 수 없는 시스템을 무한 퍼텐셜 우물(infinite potential well) 이라 한다. 다른 말로, 상자 속 입자(particle in a box) 문제라고도 한다.
+
+아래와 같이 두 강철판을 실로 연결하고, 구슬(입자)을 매단 뒤, 좌-우(1차원)로만 움직일 수 있게 만든 시스템 [1] 으로 쉽게 이해할 수 있다.
+
+고전역학적으로는 입자는 강철 판 사이에서 연속적으로 존재할 수 있어 입자를 발견할 확률이 강철 판 사이 모든 영역에 대해 일정한 확률을 가진다. 그러나 아래 문단을 보면, 입자가 극단적으로 작아지는 양자역학적으로는 더 많이 발견되는 위치가 있고, 또, 입자가 전혀 발견되지 않는 부분도 존재한다. 또한, 고전역학적으로는 입자는 연속적인 에너지를 가질 수 있으나, 양자역학적으로는 연속적이지 않은 값만을 가질 수 있다. 즉, 입자가 가질 수 있는 에너지가 양자화되어 있다.
+
+물론 위에선 입자가 1차원에서만 움직일 수 있는 상황만 예상했지만, 2차원, 3차원으로 확장하여 생각해볼 수도 있다.
+
+여담으로, 해당 문제는 양자역학적으로 쉽게 풀리는 케이스에 속하기 때문에 대부분의 양자역학 교재에선 자유입자를 다루고, 해당 무한 퍼텐셜 우물 문제를 다룬 뒤 더 복잡한 상황으로 넘어가게 되어 있다.
+
+난이도상 1차원을 주력으로 분석할 것이고, 차원이 높은 2차원, 3차원은 간단히 고유 함수와 확률 밀도만 제시하였다.
+
+3.1. 분석 [편집]
+
+3.1.1. 1차원 [편집]
+아래의 그림과 같이 1차원 무한 퍼텐셜 상자 속 0 < x < L 0<x<L 0 < x < L 의 퍼텐셜이 0 0 0 인 곳에서 에너지가 E E E 이고, 질량 m m m 인 입자가 갇힌 시스템을 생각하자.
+
+이때, 퍼텐셜의 분포를 수식으로 나타내면 다음과 같다.
+
+V ( x ) = { 0 ( 0 < x < L ) ∞ ( o t h e r w i s e ) \displaystyle V(x)=\left\{ \begin{array}{l}0 & \quad (0<x<L) \\ \infty & \quad (\mathrm{otherwise}) \end{array}\right. V ( x ) = { 0 ∞ ​ ( 0 < x < L ) ( otherwise ) ​
+
+3.1.1.1. 고유함수 [편집]
+시간에 무관한 슈뢰딩거 방정식 (time-independent Schrödinger Eq.) [2] 을 사용하면,
+
+− ℏ 2 2 m ∂ 2 φ ∂ x 2 + V φ = E φ \displaystyle -\frac{\hbar^{2}}{2m}\frac{\partial^2 \varphi }{\partial x^2}+V \varphi=E \varphi − 2 m ℏ 2 ​ ∂ x 2 ∂ 2 φ ​ + V φ = E φ [ 슈뢰딩거 방정식 풀이 ] 입자는 무한 퍼텐셜 벽을 투과할 수 없으므로 아래와 같은 두 경계 조건이 나온다.
+
+φ ( 0 ) = φ ( L ) = 0 \displaystyle \varphi(0)=\varphi(L)=0 φ ( 0 ) = φ ( L ) = 0
+또한, 입자가 존재할 수 있는 0 < x < L 0<x<L 0 < x < L 에서 퍼텐셜 V ( x ) = 0 V(x)=0 V ( x ) = 0 이므로 슈뢰딩거 방정식은
+
+− ℏ 2 2 m ∂ 2 φ ( x ) ∂ x 2 = E φ ( x ) \displaystyle -\frac{\hbar^{2}}{2m}\frac{\partial^2 \varphi(x) }{\partial x^2}=E \varphi(x) − 2 m ℏ 2 ​ ∂ x 2 ∂ 2 φ ( x ) ​ = E φ ( x )
+꼴이 된다. 이것을 정리하면,
+
+∂ 2 φ ( x ) ∂ x 2 + 2 m E ℏ 2 φ ( x ) = 0 \displaystyle \frac{\partial^2 \varphi(x) }{\partial x^2}+\frac{2mE}{\hbar^{2}} \varphi(x)=0 ∂ x 2 ∂ 2 φ ( x ) ​ + ℏ 2 2 m E ​ φ ( x ) = 0
+이 나오게 된다. 이때,
+
+2 m E ℏ 2 : = k 2 \displaystyle \frac{2mE}{\hbar^{2}} := k^{2} ℏ 2 2 m E ​ := k 2
+으로 놓으면,
+
+∂ 2 φ ( x ) ∂ x 2 + k 2 φ ( x ) = 0 \displaystyle \frac{\partial^2 \varphi(x) }{\partial x^2}+k^{2} \varphi(x)=0 ∂ x 2 ∂ 2 φ ( x ) ​ + k 2 φ ( x ) = 0
+으로 정리되고, 이 방정식의 해는 다음과 같다.
+
+φ ( x ) = A sin ⁡ k x + B cos ⁡ k x \displaystyle \varphi(x)=A\sin{kx}+B\cos{kx} φ ( x ) = A sin k x + B cos k x
+여기서 A , B \displaystyle A,\,\,B A , B 는 각각 결정되지 않은 상수이다.
+
+경계 조건 φ ( 0 ) = 0 \displaystyle \varphi(0)=0 φ ( 0 ) = 0 에서 B = 0 \displaystyle B=0 B = 0 이고, φ ( L ) = 0 \displaystyle \varphi(L)=0 φ ( L ) = 0 에서
+
+A sin ⁡ k L = 0 → k L = n π ( n = 1 , 2 , 3 , ⋯ ) \displaystyle A\sin{kL}=0 \,\,\to \,\,kL=n\pi\,\,(n=1,\,2,\,3,\,\cdots) A sin k L = 0 → k L = nπ ( n = 1 , 2 , 3 , ⋯ )
+을 만족시켜야 하므로
+
+k = n π L \displaystyle k=\frac{n\pi}{L} k = L nπ ​
+의 조건이 나온다. 여기서 입자가 가질 수 있는 에너지가 결정된다.
+
+E n = n 2 π 2 ℏ 2 2 m L 2 \displaystyle E_{n}=\frac{n^{2}\pi^{2}\hbar^{2}}{2mL^{2}} E n ​ = 2 m L 2 n 2 π 2 ℏ 2 ​
+
+또한 입자의 파동함수 또한 결정된다.
+
+φ n ( x ) = A sin ⁡ ( n π x L ) \displaystyle \varphi_{n}(x)=A\sin{ \biggl( \frac{n \pi x}{L} \biggr) } φ n ​ ( x ) = A sin ( L nπ x ​ )
+
+이때, 상수 A \displaystyle A A 는 파동함수의 규격화 조건
+
+∫ − ∞ ∞ φ n ∗ ( x ) φ n ( x ) d x = 1 \displaystyle \int_{-\infty }^{\infty }\varphi_{n}^{\ast }(x)\varphi_{n}(x)\,dx=1 ∫ − ∞ ∞ ​ φ n ∗ ​ ( x ) φ n ​ ( x ) d x = 1
+을 만족시켜야 하므로 이것을 이용하면,
+
+A = 2 L \displaystyle A=\sqrt{\frac{2}{L}} A = L 2 ​ ​
+가 되어야 한다. 따라서 최종적으로 파동함수는 다음과 같다.
+
+φ n ( x ) = 2 L sin ⁡ ( n π x L ) \displaystyle \varphi_{n}(x)=\sqrt{\frac{2}{L}}\sin{ \biggl( \frac{n \pi x}{L} \biggr) } φ n ​ ( x ) = L 2 ​ ​ sin ( L nπ x ​ )
+
+이 방정식을 풀면, 1차원 무한 퍼텐셜 상자 속에 갇힌 입자의 에너지는
+
+E n = n 2 π 2 ℏ 2 2 m L 2 ( n = 1 , 2 , 3 , ⋯ ) \displaystyle \displaystyle E_{n}=\frac{n^{2}\pi^{2}\hbar^{2}}{2mL^{2}} \quad (n=1,\,2,\,3,\,\cdots ) E n ​ = 2 m L 2 n 2 π 2 ℏ 2 ​ ( n = 1 , 2 , 3 , ⋯ )
+으로 양자화되어 있고, 입자의 파동함수는 아래와 같이 된다.
+
+φ n ( x ) = 2 L sin ⁡ ( n π x L ) \displaystyle \varphi_{n}(x)=\sqrt{\frac{2}{L}}\sin{\biggl ( \frac{n\pi x}{L} \biggr )} φ n ​ ( x ) = L 2 ​ ​ sin ( L nπ x ​ )
+이때, 입자의 발견할 확률밀도함수는 파동함수의 절대제곱값으로 주어지므로 0 < x < L 0<x<L 0 < x < L 에서 입자를 발견할 확률밀도함수는
+
+∣ φ n ( x ) ∣ 2 = φ n ∗ ( x ) φ n ( x ) = 2 L sin ⁡ 2 ( n π x L ) \displaystyle \begin{aligned} | \varphi_{n}(x) |^{2}&=\varphi_{n}^{\ast }(x)\varphi_{n}(x) \\ &=\frac{2}{L}\sin^{2}{\biggl ( \frac{n \pi x}{L} \biggr )} \end{aligned} ∣ φ n ​ ( x ) ∣ 2 ​ = φ n ∗ ​ ( x ) φ n ​ ( x ) = L 2 ​ sin 2 ( L nπ x ​ ) ​
+가 된다. 위를 토대로, n = 1 n=1 n = 1 , 2 2 2 , 3 3 3 일 때, 파동함수 φ n ( x ) \varphi_{n}(x) φ n ​ ( x ) 와 확률밀도함수 ∣ φ n ( x ) ∣ 2| \varphi_{n}(x) |^{2} ∣ φ n ​ ( x ) ∣ 2 은 아래와 같다.
+
+최종적으로 1차원 상자에 갇힌 입자에 대해 특징은 아래와 같다. - 바닥상태에서 입자는 에너지가 0 0 0 이 아니다.
+- 입자는 불연속적인 에너지만을 가질 수 있다. (에너지의 양자화)
+- 확률밀도함수를 참조해보면, 전혀 발견되지 않거나, 가장 많이 발견되는 지점이 있다. [3]
+
+3.1.1.2. 기댓값 [편집]
+위치 x x x 와 운동량 p p p 의 기댓값을 구해 보자.
+
+[1] 위치의 기댓값
+
+⟨ x ⟩ = ∫ 0 L φ ∗ x ^ φ d x = 2 L ∫ 0 L x sin ⁡ 2 ( n π x L ) d x = L 2 \displaystyle \begin{aligned} \langle x \rangle&=\int_{0}^{L} \varphi^{\ast}\hat{x}\varphi\,dx \\&=\frac{2}{L}\int_{0}^{L} x\sin^{2}{\biggl( \frac{n \pi x}{L} \biggr)}\,dx \\ &=\frac{L}{2} \end{aligned} ⟨ x ⟩ ​ = ∫ 0 L ​ φ ∗ x ^ φ d x = L 2 ​ ∫ 0 L ​ x sin 2 ( L nπ x ​ ) d x = 2 L ​ ​
+이것은 곧, 초기 상태가 같은 수많은 무한 퍼텐셜 우물 시스템을 관측했을 때 입자는 평균적으로 상자의 중앙에서 관측됨을 의미한다. 위치 제곱에 대한 기댓값은 마찬가지의 방법으로 다음과 같다.
+
+⟨ x 2 ⟩ = ∫ 0 L φ ∗ x ^ 2 φ d x = 2 L ∫ 0 L x 2 sin ⁡ 2 ( n π x L ) d x = L 2 ( 1 3 − 1 2 n 2 π 2 ) \displaystyle \begin{aligned} \langle x^{2} \rangle&=\int_{0}^{L} \varphi^{\ast}\hat{x}^{2}\varphi\,dx \\&=\frac{2}{L}\int_{0}^{L} x^{2}\sin^{2}{\biggl( \frac{n \pi x}{L} \biggr)}\,dx \\ &=L^{2} \biggl( \frac{1}{3}-\frac{1}{2n^{2} \pi^{2}} \biggr) \end{aligned} ⟨ x 2 ⟩ ​ = ∫ 0 L ​ φ ∗ x ^ 2 φ d x = L 2 ​ ∫ 0 L ​ x 2 sin 2 ( L nπ x ​ ) d x = L 2 ( 3 1 ​ − 2 n 2 π 2 1 ​ ) ​
+
+[2] 운동량의 기댓값
+
+⟨ p ⟩ = ∫ 0 L φ ∗ p ^ φ d x = 2 L ∫ 0 L sin ⁡ ( n π x L ) ⋅ − i ℏ ∂ ∂ x [ sin ⁡ ( n π x L ) ] d x = 0 \displaystyle \begin{aligned} \langle p \rangle&=\int_{0}^{L} \varphi^{\ast}\hat{p}\varphi\,dx \\&=\frac{ 2}{L}\int_{0}^{L} \sin{\biggl( \frac{n \pi x}{L} \biggr)}\cdot -i \hbar \frac{\partial }{\partial x} \biggl[ \sin{\biggl( \frac{n \pi x}{L} \biggr)} \biggr]\,dx \\ &=0 \end{aligned} ⟨ p ⟩ ​ = ∫ 0 L ​ φ ∗ p ^ ​ φ d x = L 2 ​ ∫ 0 L ​ sin ( L nπ x ​ ) ⋅ − i ℏ ∂ x ∂ ​ [ sin ( L nπ x ​ ) ] d x = 0 ​
+이유를 알아보자. 무한 퍼텐셜 우물 속에서 E = p 2 / 2 m E=p^{2}/2m E = p 2 /2 m [4] 이므로
+
+p n = ± 2 m E n \displaystyle p_{n}=\pm \sqrt{2mE_{n}} p n ​ = ± 2 m E n ​ ​
+으로 나온다. 즉, + x +x + x 방향으로 움직이는 경우와 − x -x − x 방향으로 움직이는 경우 둘 다 존재하므로 평균적인 운동량 측정값은 0이 된다. 운동량 제곱의 기댓값은
+
+⟨ p 2 ⟩ = ∫ 0 L φ ∗ p ^ 2 φ d x = 2 L ∫ 0 L sin ⁡ ( n π x L ) ⋅ − ℏ 2 ∂ 2 ∂ x 2 [ sin ⁡ ( n π x L ) ] d x = ( n π ℏ L ) 2 \displaystyle \begin{aligned} \langle p^{2} \rangle&=\int_{0}^{L} \varphi^{\ast}\hat{p}^{2}\varphi\,dx \\&=\frac{ 2}{L}\int_{0}^{L} \sin{\biggl( \frac{n \pi x}{L} \biggr)}\cdot - \hbar^{2} \frac{\partial^{2} }{\partial x^{2}} \biggl[ \sin{\biggl( \frac{n \pi x}{L} \biggr)} \biggr]\,dx \\ &=\biggl( \frac{n \pi \hbar}{L} \biggr)^{2} \end{aligned} ⟨ p 2 ⟩ ​ = ∫ 0 L ​ φ ∗ p ^ ​ 2 φ d x = L 2 ​ ∫ 0 L ​ sin ( L nπ x ​ ) ⋅ − ℏ 2 ∂ x 2 ∂ 2 ​ [ sin ( L nπ x ​ ) ] d x = ( L nπ ℏ ​ ) 2 ​
+
+3.1.1.3. 불확정성 원리 검증 [편집]
+위 문단에서 구해놓은 기댓값들을 이용하면, 위치의 불확정성 Δ x \Delta x Δ x 와 운동량의 불확정성 Δ p \Delta p Δ p 를 구할 수 있다.
+
+Δ x : = ⟨ x 2 ⟩ − ⟨ x ⟩ 2 = L 2 1 3 − 2 n 2 π 2 Δ p : = ⟨ p 2 ⟩ − ⟨ p ⟩ 2 = n π ℏ L ∴ Δ x Δ p = ℏ 2 n 2 π 2 3 − 2 ≥ ℏ 2 \begin{aligned}\displaystyle \Delta x &:= \sqrt{\langle x^2 \rangle-\langle x \rangle^{2}}=\frac{L}{2}\sqrt{ \frac{1}{3}-\frac{2}{n^{2}\pi^{2} } } \\ \Delta p &:= \sqrt{\langle p^2 \rangle-\langle p \rangle^{2}}=\frac{n \pi \hbar}{L}\\\\\therefore\displaystyle \Delta x \Delta p &=\frac{\hbar}{2}\sqrt{\frac{n^{2}\pi^{2}}{3}-2} \geq \frac{\hbar}{2} \end{aligned} Δ x Δ p ∴ Δ x Δ p ​ := ⟨ x 2 ⟩ − ⟨ x ⟩ 2 ​ = 2 L ​ 3 1 ​ − n 2 π 2 2 ​ ​ := ⟨ p 2 ⟩ − ⟨ p ⟩ 2 ​ = L nπ ℏ ​ = 2 ℏ ​ 3 n 2 π 2 ​ − 2 ​ ≥ 2 ℏ ​ ​
+따라서 불확정성 원리를 만족시킨다.
+
+3.1.1.4. 대응 원리 [편집]
+양자수 n n n 이 매우 커지면, 확률밀도함수는 아래와 같이 변하게 된다.
+
+그런데, 고전역학적으로는 속력 v 0 v_{0} v 0 ​ 로 상자 내부에서 움직이는 입자가 발견될 확률 P CM P_{\text{CM}} P CM ​ 은
+
+P CM ( x ) = 2 ( 2 L / v 0 ) v 0 = 1 L \displaystyle P_{\text{CM}}(x)=\frac{2}{(2L/v_{0})v_{0}}=\frac{1}{L} P CM ​ ( x ) = ( 2 L / v 0 ​ ) v 0 ​ 2 ​ = L 1 ​
+이고, 양자역학적으로 발견될 확률 P QM P_{\text{QM}} P QM ​ 은
+
+P QM ( x ) = ∣ φ ∣ 2 = 2 L sin ⁡ 2 ( n π x L ) \displaystyle P_{\text{QM}}(x)=| \varphi |^{2}=\frac{2}{L}\sin^{2}{\biggl(\frac{n \pi x}{L} \biggr)} P QM ​ ( x ) = ∣ φ ∣ 2 = L 2 ​ sin 2 ( L nπ x ​ )
+그런데, n n n 이 극히 커질 경우, 확률밀도함수가 1 / L 1/L 1/ L 을 중심으로 진동하는 함수가 되는데, 양자수 n → ∞ n \to \infty n → ∞ 이 극히 커짐에 따라 확률의 변화가 매우 조밀해져서 그것을 측정할 수 없다. 0 < x < L 0<x<L 0 < x < L 의 범위에서 확률밀도함수 [5]
+
+P QM ( x ) = 1 L [ 1 − cos ⁡ ( 2 π n x L ) ] \displaystyle P_{\text{QM}}(x)= \frac{1}{L}\biggl [1-\cos{\biggl(\frac{2 \pi nx}{L}\biggr)} \biggr ] P QM ​ ( x ) = L 1 ​ [ 1 − cos ( L 2 π n x ​ ) ]
+가 되는데, n n n 이 매우 커지면, a < x < b a<x<b a < x < b 에서의 확률은 다음에 수렴한다.
+
+b − a L \displaystyle \displaystyle \frac{b-a}{L} L b − a ​ [6]
+
+거시적으로는 이 파동함수의 확률밀도함수와 1 / L 1/L 1/ L 로 균일한 값을 가진 함수를 구별할 수 없고, 고전적 결과에 접근하는데, 이처럼 양자역학적 결론에서 양자수가 극히 커짐에 따라 고전역학적 결과에 접근해가서 대응한다. 이를 대응원리(correspondence principle) 라 한다.
+
+따라서 양자역학적으로 옳은 결론을 얻었는지 확인하려면, 양자수를 극한으로 증가시켜 그것이 고전역학적 결과와 맞는지 확인을 하면 된다.
+
+여담으로, 상자의 중점이 원점이 되게 잡았을 때 [7] , 파동함수의 모양은 그대로 나오게 된다. 왜냐하면, 상자만을 옮겼을 뿐인데 물리적 현상이 다르게 기술될 수는 없기 때문이다.(대칭성)
+
+그러나, 파동함수의 모양만 같을 뿐, 기준이 되는 원점이 옮겨졌기 때문에 파동함수의 표현은 달라져서 더이상 sine 항만 나오지 않고, cosine 항도 나오게 된다.
+
+이것을 확장해보면, 상자의 길이나 위치를 변형하여도 대칭성에 의해 기술되는 물리 현상이 같아져야 하므로 파동함수는 같은 모양이 나와야 하며, 단지 기술되는 함수만 달라진다.
+
+3.1.1.5. 고유함수의 직교성 [편집]
+위 문단에서 "무한 퍼텐셜 우물" 문제의 고유함수는 아래와 같음을 구하였다.
+
+φ n ( x ) = 2 L sin ⁡ ( n π x L ) \displaystyle \varphi_{n}(x)=\sqrt{\frac{2}{L}}\sin{ \biggl( \frac{n \pi x}{L} \biggr) } φ n ​ ( x ) = L 2 ​ ​ sin ( L nπ x ​ )
+디랙 표기법에 의하면 다음과 같이 쓸 수 있다.
+
+⟨ φ n ∣ φ m ⟩ : = ∫ − ∞ ∞ φ n ∗ φ m d x \displaystyle \langle \varphi_{n} | \varphi_{m} \rangle := \int_{-\infty}^{\infty} \varphi_{n}^{\ast} \varphi_{m} \,dx ⟨ φ n ​ ∣ φ m ​ ⟩ := ∫ − ∞ ∞ ​ φ n ∗ ​ φ m ​ d x
+따라서 무한 퍼텐셜 우물 문제의 고유함수는 다음과 같이 쓸 수 있다.
+
+⟨ φ n ∣ φ m ⟩ = 2 L ∫ 0 L sin ⁡ ( n π x L ) sin ⁡ ( m π x L ) d x \displaystyle \langle \varphi_{n} | \varphi_{m} \rangle =\frac{2}{L} \int_{0}^{L} \sin{ \biggl( \frac{n \pi x}{L} \biggr)}\sin{ \biggl( \frac{m \pi x}{L} \biggr)} \,dx ⟨ φ n ​ ∣ φ m ​ ⟩ = L 2 ​ ∫ 0 L ​ sin ( L nπ x ​ ) sin ( L mπ x ​ ) d x
+t : = π x / L t := \pi x/L t := π x / L 로 치환하면,
+
+⟨ φ n ∣ φ m ⟩ = 2 π ∫ 0 π sin ⁡ ( n t ) sin ⁡ ( m t ) d t \displaystyle \langle \varphi_{n} | \varphi_{m} \rangle =\frac{2}{\pi} \int_{0}^{\pi} \sin{ (nt)}\sin{ (mt)} \,dt ⟨ φ n ​ ∣ φ m ​ ⟩ = π 2 ​ ∫ 0 π ​ sin ( n t ) sin ( m t ) d t
+이고, 이 결과는 다음과 같이 쓸 수 있다.
+
+⟨ φ n ∣ φ m ⟩ = δ n m \displaystyle \langle \varphi_{n} | \varphi_{m} \rangle =\delta_{nm} ⟨ φ n ​ ∣ φ m ​ ⟩ = δ nm ​
+즉, 같은 상태의 고유함수끼리만 1이 나오며, 다른 고유함수끼리 연산을 취하면 0이 나온다. 사실 이것은 양자역학에서 구해지는 고유함수의 중요한 특성이다. 양자역학의 고유함수는 모두 힐베르트 공간의 성분이다. 이 공간의 고유함수들의 특징은 위와 같은 연산 [8] 을 했을 때, 다른 상태의 고유함수끼리는 0이 나오며, 같은 상태의 고유함수끼리 연산을 취했을 때만 1이 나온다. 이런 성질을 고유함수의 직교성 이라 한다.
+
+3.1.1.6. 고유함수의 시간 전개 [편집]
+위 문단에서 시간에 의존치 않는 무한 퍼텐셜 우물 문제의 고유함수를 구했다. 이제 t = 0 t=0 t = 0 에서 계의 고유함수가
+
+φ n ( x , 0 ) = φ n ( x ) \displaystyle \varphi_{n}(x,\,0)=\varphi_{n}(x) φ n ​ ( x , 0 ) = φ n ​ ( x )
+로 주어졌을 때, 임의의 시간 t t t 에서의 파동함수 φ n ( x , t ) \varphi_{n}(x,\,t) φ n ​ ( x , t ) 를 구한다. 시간에 의존하는 슈뢰딩거 방정식에서 출발한다.
+
+i ℏ ∂ φ n ( x , t ) ∂ t = H ^ φ n ( x , t ) \displaystyle i \hbar \frac{\partial \varphi_{n}(x,\,t)}{\partial t}=\hat{\mathcal{H}} \varphi_{n}(x,\,t) i ℏ ∂ t ∂ φ n ​ ( x , t ) ​ = H ^ φ n ​ ( x , t )
+변수분리를 통해 φ n ( x , t ) \varphi_{n}(x,\,t) φ n ​ ( x , t ) 가 시간 항 T ( t ) T(t) T ( t ) 와 공간 항 X ( x ) X(x) X ( x ) 의 곱으로 분리된다고 가정할 것이다. 해밀토니안 연산자는 공간에만 관련된 연산자 [9] 이고, 공간 항에 대한 해는 이미 위에서 구했다. 즉,
+
+X ( x ) = φ n ( x ) \displaystyle X(x)=\varphi_{n}(x) X ( x ) = φ n ​ ( x )
+따라서 H ^ φ n ( x ) = E n φ n ( x ) \hat{{\mathcal H}} \varphi_{n}(x)=E_{n} \varphi_{n}(x) H ^ φ n ​ ( x ) = E n ​ φ n ​ ( x ) 임을 상기하면, 위의 편미분방정식은 다음과 같이 쓸 수 있다.
+
+d T ( t ) d t = − i E n ℏ T ( t ) \displaystyle \frac{dT(t)}{d t}=-i\frac{E_{n}}{\hbar}T(t) d t d T ( t ) ​ = − i ℏ E n ​ ​ T ( t )
+따라서 이 방정식의 해의 형태는
+
+T ( t ) ∝ exp ⁡ ( − i E n ℏ t ) \displaystyle T(t) \propto \exp{\biggl( -i\frac{E_{n}}{\hbar}t \biggr)} T ( t ) ∝ exp ( − i ℏ E n ​ ​ t )
+이에 시간에 따른 파동함수의 형태는 다음과 같다. φ n ( x , t ) ∝ sin ⁡ ( n π x L ) exp ⁡ ( − i E n ℏ t ) [ E n = n 2 π 2 ℏ 2 2 m L 2 ] \displaystyle \varphi_{n}(x,\,t) \propto \sin{\biggl( \frac{n \pi x}{L} \biggr)}\exp{\biggl( -i\frac{E_{n}}{\hbar}t \biggr)} \qquad \biggl[ E_{n}=\frac{n^{2} \pi^{2} \hbar^{2}}{2mL^{2}} \biggr] φ n ​ ( x , t ) ∝ sin ( L nπ x ​ ) exp ( − i ℏ E n ​ ​ t ) [ E n ​ = 2 m L 2 n 2 π 2 ℏ 2 ​ ]
+
+그런데, 시간 항의 해는 복소 공액 후 서로 곱할 시 상쇄 [10] 되므로, 공간 항에 대한 규격화 상수를 위 편미분방정식의 해의 상수로 취급해도 무리가 없으므로
+
+φ n ( x , t ) = 2 L sin ⁡ ( n π x L ) exp ⁡ ( − i E n ℏ t ) \displaystyle \varphi_{n}(x,\,t) =\sqrt{\frac{2}{L}} \sin{\biggl( \frac{n \pi x}{L} \biggr)}\exp{\biggl( -i\frac{E_{n}}{\hbar}t \biggr)} φ n ​ ( x , t ) = L 2 ​ ​ sin ( L nπ x ​ ) exp ( − i ℏ E n ​ ​ t )
+로 쓸 수 있다. 이때, 입자가 미소 간격 d x dx d x 에서 발견될 확률은 다음과 같으므로 시간에 의존하지 않는다.
+
+∣ φ n ( x , t ) ∣ 2 = 2 L sin ⁡ 2 ( n π x L ) \displaystyle |\varphi_{n}(x,\,t)|^{2} =\frac{2}{L} \sin^{2}{\biggl( \frac{n \pi x}{L} \biggr)} ∣ φ n ​ ( x , t ) ∣ 2 = L 2 ​ sin 2 ( L nπ x ​ )
+
+3.1.2. 2차원 [편집]
+이번엔 퍼텐셜 분포가 아래와 같이 주어지는 경우를 보자.
+
+V ( x , y ) = { 0 ( 0 < x < L x , 0 < y < L y ) ∞ ( o t h e r w i s e ) \displaystyle V(x,\,y)=\left\{ \begin{array}{l}0& \quad (0<x<L_{x},\,\,0<y<L_{y} ) \\\infty & \quad (\mathrm{otherwise}) \end{array}\right. V ( x , y ) = { 0 ∞ ​ ( 0 < x < L x ​ , 0 < y < L y ​ ) ( otherwise ) ​
+즉, 이 경우는 입자가 2 2 2 차원 상자에 갇힌 경우이다. 1 1 1 차원과 마찬가지로, 시간에 의존하지 않는 슈뢰딩거 방정식 을 이용하면,
+
+− ℏ 2 2 m ∇ 2 φ + V φ = E φ \displaystyle -\frac{\hbar^{2}}{2m}\nabla^{2}\varphi+V \varphi=E \varphi − 2 m ℏ 2 ​ ∇ 2 φ + V φ = E φ
+아래와 같은 파동함수와 입자가 가질 수 있는 에너지가 나온다.
+
+φ n x n y ( x , y ) = 4 L x L y sin ⁡ ( n x π x L x ) sin ⁡ ( n y π y L y ) E n x n y = ℏ 2 π 2 2 m [ ( n x L x ) 2 + ( n y L y ) 2 ] \displaystyle \begin{aligned} \varphi_{n_{x}n_{y}}(x,\,y)&=\sqrt{\frac{4}{L_{x}L_{y} } }\sin{\biggl ( \frac{n_{x}\pi x}{L_{x}} \biggr )}\sin{\biggl ( \frac{n_{y}\pi y}{L_{y}} \biggr )} \\ E_{n_{x}n_{y}}&=\frac{\hbar^{2} \pi^{2}}{2m}\biggl [ \biggl ( \frac{n_{x}}{L_{x}} \biggr )^{2}+ \biggl ( \frac{n_{y}}{L_{y}} \biggr )^{2} \biggr] \end{aligned} φ n x ​ n y ​ ​ ( x , y ) E n x ​ n y ​ ​ ​ = L x ​ L y ​ 4 ​ ​ sin ( L x ​ n x ​ π x ​ ) sin ( L y ​ n y ​ π y ​ ) = 2 m ℏ 2 π 2 ​ [ ( L x ​ n x ​ ​ ) 2 + ( L y ​ n y ​ ​ ) 2 ] ​
+( n x , n y ) = ( 2 , 1 ) (n_{x},\,n_{y})=(2,\,1) ( n x ​ , n y ​ ) = ( 2 , 1 ) 와 ( n x , n y ) = ( 1 , 2 ) (n_{x},\,n_{y})=(1,\,2) ( n x ​ , n y ​ ) = ( 1 , 2 ) 일 때, 파동함수는 다르지만 에너지는 같은 값을 갖는다는 점에 주목하자. 이처럼 파동함수(고유함수)는 다르지만, 에너지(고윳값)이 같은 경우를 축퇴되어 있다(degenerated) 고 하고, 이러한 상태를 축퇴 상태(degenerated state) 라 한다. 이러한 축퇴는 3차원에서도 마찬가지로 나타난다. 아래는 L x = L y = L L_{x}=L_{y}=L L x ​ = L y ​ = L 일 때, 몇 가지 입자의 발견 확률밀도함수 ∣ φ n x n y ∣ 2| \varphi_{n_{x}n_{y}}|^{2} ∣ φ n x ​ n y ​ ​ ∣ 2 를 나타낸 것이다.
+
+아래의 범례에서 − - − 로 갈수록 입자의 발견 확률이 0에 수렴하고, + + + 로 갈수록 입자가 발견될 확률의 최대치에 이른다.
+
+2차원에서도 입자가 발견될 확률은 위치에 따라 다르고, 에너지 또한 불연속적인 값만 갖는다.
+
+3.1.2.1. 원형 무한 퍼텐셜 우물에 갇힌 입자 [편집]
+자세한 내용은 베셀 함수 문서의 5.1.3 번 문단을 참고하십시오.
+
+위 그림은 해당 문제에서 ( n , m ) = ( 1 , 2 ) (n,\,m)=(1,\,2) ( n , m ) = ( 1 , 2 ) 일 때 반지름이 R R R 인 원형 무한 퍼텐셜 우물에 갇힌 입자의 발견 확률 밀도를 나타낸 것이다.
+
+3.1.3. 3차원 [편집]
+이번엔 퍼텐셜 분포가 아래와 같이 주어지는 경우를 보자. V ( x , y , z ) = { 0 ( 0 < x < L x , 0 < y < L y , 0 < z < L z ) ∞ ( o t h e r w i s e ) \displaystyle V(x,\,y,\,z)=\left\{ \begin{array}{l}0 & \quad (0<x<L_{x},\,\,0<y<L_{y},\,\,0<z<L_{z} ) \\ \infty & \quad (\mathrm{otherwise}) \end{array}\right. V ( x , y , z ) = { 0 ∞ ​ ( 0 < x < L x ​ , 0 < y < L y ​ , 0 < z < L z ​ ) ( otherwise ) ​
+
+즉, 이 경우는 입자가 3차원 상자에 갇힌 경우이다. 1차원과 마찬가지로 시간에 의존하지 않는 슈뢰딩거 방정식 을 이용하면,
+
+− ℏ 2 2 m ∇ 2 φ + V φ = E φ \displaystyle -\frac{\hbar^{2}}{2m}\nabla^{2}\varphi+V \varphi=E \varphi − 2 m ℏ 2 ​ ∇ 2 φ + V φ = E φ
+아래와 같은 파동함수와 입자가 가질 수 있는 에너지가 나온다. φ n x n y n y ( x , y , z ) = 8 L x L y L z sin ⁡ ( n x π x L x ) sin ⁡ ( n y π y L y ) sin ⁡ ( n z π z L z ) E n x n y n z = ℏ 2 π 2 2 m [ ( n x L x ) 2 + ( n y L y ) 2 + ( n z L z ) 2 ] \displaystyle \begin{aligned} \varphi_{n_{x}n_{y}n_{y}}(x,\,y,\,z)&=\sqrt{\frac{8}{L_{x}L_{y}L_{z} } }\,\sin{\biggl ( \frac{n_{x}\pi x}{L_{x}} \biggr )}\sin{\biggl ( \frac{n_{y}\pi y}{L_{y}} \biggr )}\sin{\biggl ( \frac{n_{z}\pi z}{L_{z}} \biggr )} \\ E_{n_{x}n_{y}n_{z}}&=\frac{\hbar^{2} \pi^{2}}{2m}\biggl [ \biggl ( \frac{n_{x}}{L_{x}} \biggr )^{2}+ \biggl ( \frac{n_{y}}{L_{y}} \biggr )^{2}+\biggl ( \frac{n_{z}}{L_{z}} \biggr )^{2} \biggr] \end{aligned} φ n x ​ n y ​ n y ​ ​ ( x , y , z ) E n x ​ n y ​ n z ​ ​ ​ = L x ​ L y ​ L z ​ 8 ​ ​ sin ( L x ​ n x ​ π x ​ ) sin ( L y ​ n y ​ π y ​ ) sin ( L z ​ n z ​ π z ​ ) = 2 m ℏ 2 π 2 ​ [ ( L x ​ n x ​ ​ ) 2 + ( L y ​ n y ​ ​ ) 2 + ( L z ​ n z ​ ​ ) 2 ] ​
+
+이때도 2차원과 마찬가지로, 축퇴가 일어난다.
+
+4. 퍼텐셜 계단 [편집]
+
+이 문제에서의 퍼텐셜 분포는 다음과 같다.
+
+V ( x ) = { 0 ( x < 0 ) V ( x > 0 ) \displaystyle V(x)=\left\{ \begin{array}{l} \displaystyle 0 &\quad (x<0)\\ \displaystyle V &\quad (x>0)\end{array}\right. V ( x ) = { 0 V ​ ( x < 0 ) ( x > 0 ) ​
+
+이때 E > V E>V E > V 인 경우와 E < V E<V E < V 인 경우를 나눠서 생각하자. E < 0 E<0 E < 0 인 경우는 규격화가 되지 않기 때문에 고려할 필요가 없다.
+
+4.1. 입자의 에너지가 퍼텐셜보다 큰 경우 [편집]
+우선 E > V E>V E > V 를 만족시키는 경우를 보자. x < 0 x<0 x < 0 영역을 영역 Ⅰ , x > 0 x>0 x > 0 영역을 영역 Ⅱ 라 하자. 각 영역에서의 슈뢰딩거 방정식 은 다음과 같다.
+
+( domain I ) − ℏ 2 2 m ∂ 2 φ 1 ∂ x 2 = E φ 1 ( domain II ) − ℏ 2 2 m ∂ 2 φ 2 ∂ x 2 + V φ 2 = E φ 2 \displaystyle \begin{aligned} (\text{domain I}) & \quad -\frac{\hbar^{2}}{2m}\frac{\partial^{2} \varphi_{1}}{\partial x^{2}}=E \varphi_{1} \\ (\text{domain II}) & \quad -\frac{\hbar^{2}}{2m}\frac{\partial^{2} \varphi_{2}}{\partial x^{2}}+V\varphi_{2}=E \varphi_{2} \end{aligned} ( domain I ) ( domain II ) ​ − 2 m ℏ 2 ​ ∂ x 2 ∂ 2 φ 1 ​ ​ = E φ 1 ​ − 2 m ℏ 2 ​ ∂ x 2 ∂ 2 φ 2 ​ ​ + V φ 2 ​ = E φ 2 ​ ​
+이때, 다음과 같은 치환
+
+k 1 2 : = 2 m E ℏ 2 k 2 2 : = 2 m ( E − V ) ℏ 2 \begin{aligned}\displaystyle k_{1}^{2} :=& \frac{2mE}{\hbar^{2}}\\k_{2}^{2} :=& \frac{2m(E-V)}{\hbar^{2}}\end{aligned} k 1 2 ​ := k 2 2 ​ := ​ ℏ 2 2 m E ​ ℏ 2 2 m ( E − V ) ​ ​
+을 통해, 각 영역에서의 방정식은
+
+( domain I ) ∂ 2 φ 1 ∂ x 2 = − k 1 2 φ 1 ( domain II ) ∂ 2 φ 2 ∂ x 2 = − k 2 2 φ 2 \displaystyle \begin{aligned} (\text{domain I}) & \quad \frac{\partial^{2} \varphi_{1}}{\partial x^{2}}=-k_{1}^{2} \varphi_{1} \\ (\text{domain II}) & \quad \frac{\partial^{2} \varphi_{2}}{\partial x^{2}}=-k_{2}^{2} \varphi_{2} \end{aligned} ( domain I ) ( domain II ) ​ ∂ x 2 ∂ 2 φ 1 ​ ​ = − k 1 2 ​ φ 1 ​ ∂ x 2 ∂ 2 φ 2 ​ ​ = − k 2 2 ​ φ 2 ​ ​
+따라서 각 영역에서 파동함수는 아래와 같이 나온다.
+
+φ 1 = A e i k 1 x + B e − i k 1 x φ 2 = C e i k 2 x + D e − i k 2 x \displaystyle \begin{aligned} \varphi_{1}&=Ae^{ik_{1}x}+Be^{-ik_{1}x} \\ \varphi_{2}&=Ce^{ik_{2}x}+De^{-ik_{2}x} \end{aligned} φ 1 ​ φ 2 ​ ​ = A e i k 1 ​ x + B e − i k 1 ​ x = C e i k 2 ​ x + D e − i k 2 ​ x ​
+각 항의 의미를 두면, 다음과 같다. - A e i k 1 x Ae^{ik_{1}x} A e i k 1 ​ x : 영역Ⅰ에서 경계면에 입사하는 파
+- B e − i k 1 x Be^{-ik_{1}x} B e − i k 1 ​ x : 영역Ⅰ에서 경계면에 의해 반사되는 파
+- C e i k 2 x Ce^{ik_{2}x} C e i k 2 ​ x : 영역Ⅱ에서 x → ∞ x \to \infty x → ∞ 을 향하는 파
+- D e − i k 2 x De^{-ik_{2}x} D e − i k 2 ​ x : 영역Ⅱ에서 x = ∞ x = \infty x = ∞ 로 부터 반사되어 오는 파
+
+그런데, D e − i k 2 x De^{-ik_{2}x} D e − i k 2 ​ x 은 물리적인 상황이 아니므로 그 해에서 제외해야 한다. 따라서
+
+φ 1 = A e i k 1 x + B e − i k 1 x φ 2 = C e i k 2 x \displaystyle \begin{aligned} \varphi_{1}&=Ae^{ik_{1}x}+Be^{-ik_{1}x} \\ \varphi_{2}&=Ce^{ik_{2}x} \end{aligned} φ 1 ​ φ 2 ​ ​ = A e i k 1 ​ x + B e − i k 1 ​ x = C e i k 2 ​ x ​
+따라서 파동함수의 경계 조건
+
+φ 1 ( 0 ) = φ 2 ( 0 ) ∂ φ 1 ∂ x ∣ x = 0 = ∂ φ 2 ∂ x ∣ x = 0 \begin{aligned}\displaystyle \varphi_{1}(0)&=\varphi_{2}(0) \\ \biggl. \frac{\partial \varphi_{1}}{\partial x} \biggr|_{x=0}&=\biggl. \frac{\partial \varphi_{2}}{\partial x} \biggr|_{x=0}\end{aligned} φ 1 ​ ( 0 ) ∂ x ∂ φ 1 ​ ​ ​ x = 0 ​ ​ = φ 2 ​ ( 0 ) = ∂ x ∂ φ 2 ​ ​ ​ x = 0 ​ ​
+을 이용하면, 다음의 연립 방정식을 얻는다.
+
+A + B = C i k 1 A − i k 1 B = i k 2 C \displaystyle \begin{aligned} A+B&=C\\ ik_{1}A-ik_{1}B&=ik_{2}C \end{aligned} A + B i k 1 ​ A − i k 1 ​ B ​ = C = i k 2 ​ C ​
+그런데, 미지수는 3개인데 식은 2개이므로 각 미지수의 비밖에 구하지 못한다. 따라서 연립 방정식을 다음과 같이 변형한다.
+
+1 + B A = C A 1 − B A = k 2 k 1 C A \displaystyle \begin{aligned} 1+\frac{B}{A}&=\frac{C}{A} \\ 1-\frac{B}{A}&=\frac{k_{2}}{k_{1}}\frac{C}{A} \end{aligned} 1 + A B ​ 1 − A B ​ ​ = A C ​ = k 1 ​ k 2 ​ ​ A C ​ ​
+이 방정식의 해는 다음과 같다.
+
+B A = k 1 − k 2 k 1 + k 2 C A = 2 k 1 k 1 + k 2 \displaystyle \begin{aligned} \frac{B}{A}&=\frac{k_{1}-k_{2}}{k_{1}+k_{2}}\\ \frac{C}{A}&=\frac{2k_{1}}{k_{1}+k_{2}} \end{aligned} A B ​ A C ​ ​ = k 1 ​ + k 2 ​ k 1 ​ − k 2 ​ ​ = k 1 ​ + k 2 ​ 2 k 1 ​ ​ ​
+
+위의 과정으로 입사파는 A e i k 1 x Ae^{ik_{1}x} A e i k 1 ​ x 이고, 반사파는 B e − i k 1 x Be^{-ik_{1}x} B e − i k 1 ​ x , 투과파는 C e i k 2 x Ce^{ik_{2}x} C e i k 2 ​ x 임을 알았다. 이들의 각각 확률 흐름 밀도 를 계산할 수 있고(방법은 문서 참고), 각각을 J inc J_{\text{inc}} J inc ​ , J ref J_{\text{ref}} J ref ​ , J trans J_{\text{trans}} J trans ​ 라 하자. 이때,
+
+J inc = ℏ k 1 m ∣ A ∣ 2 J ref = − ℏ k 1 m ∣ B ∣ 2 J trans = ℏ k 2 m ∣ C ∣ 2 \begin{aligned}\displaystyle J_{\text{inc}}&= \frac{\hbar k_{1}}{m} |A |^{2}\\J_{\text{ref}}&= -\frac{\hbar k_{1}}{m} |B |^{2}\\ J_{\text{trans}}&= \frac{\hbar k_{2}}{m} |C |^{2}\end{aligned} J inc ​ J ref ​ J trans ​ ​ = m ℏ k 1 ​ ​ ∣ A ∣ 2 = − m ℏ k 1 ​ ​ ∣ B ∣ 2 = m ℏ k 2 ​ ​ ∣ C ∣ 2 ​
+또한, 반사 계수 R R R 과 투과 계수 T T T 는 확률이 장벽에서 얼마나 반사되고 투과하는지를 나타내는 값으로, 다음과 같이 정의한다.
+
+R = ∣ J ref J inc ∣ = ∣ B A ∣ 2 = ∣ k 1 − k 2 k 1 + k 2 ∣ 2 T = ∣ J trans J inc ∣ = k 2 k 1 ∣ C A ∣ 2 = k 2 k 1 ∣ 2 k 1 k 1 + k 2 ∣ 2 \begin{aligned} \displaystyle R&=\biggl| \frac{J_{\text{ref} } }{J_{\text{inc} }} \biggr|=\biggl| \frac{B}{A} \biggr|^{2}=\biggl| \frac{k_{1}-k_{2}}{k_{1}+k_{2}} \biggr|^{2}\\ T&=\biggl| \frac{J_{\text{trans} } }{J_{\text{inc} } } \biggr|= \frac{k_{2}}{k_{1}} \biggl| \frac{C}{A} \biggr|^{2}=\frac{k_{2}}{k_{1}} \biggl| \frac{2k_{1}}{k_{1}+k_{2}} \biggr|^{2}\end{aligned} R T ​ = ​ J inc ​ J ref ​ ​ ​ = ​ A B ​ ​ 2 = ​ k 1 ​ + k 2 ​ k 1 ​ − k 2 ​ ​ ​ 2 = ​ J inc ​ J trans ​ ​ ​ = k 1 ​ k 2 ​ ​ ​ A C ​ ​ 2 = k 1 ​ k 2 ​ ​ ​ k 1 ​ + k 2 ​ 2 k 1 ​ ​ ​ 2 ​
+이미 아는 정보
+
+k 2 k 1 = 1 − V E \displaystyle \frac{k_{2}}{k_{1}}=\sqrt{1-\frac{V}{E}} k 1 ​ k 2 ​ ​ = 1 − E V ​ ​
+를 이용하면, 다음과 같이 바꿀 수 있다.
+
+R = ∣ 1 − 1 − V E 1 + 1 − V E ∣ 2 T = 4 1 − V E ∣ 1 + 1 − V E ∣ 2 \begin{aligned}\displaystyle R&=\left| \frac{1-\displaystyle \sqrt{1-\frac{V}{E} } }{1+\displaystyle \sqrt{1-\frac{V}{E} } } \right|^{2}\\T&= \frac{4\displaystyle \sqrt{1-\frac{V}{E} } }{\biggl|1+\displaystyle \sqrt{1-\frac{V}{E}} \biggr|^{2}}\end{aligned} R T ​ = ​ 1 + 1 − E V ​ ​ 1 − 1 − E V ​ ​ ​ ​ 2 = ​ 1 + 1 − E V ​ ​ ​ 2 4 1 − E V ​ ​ ​ ​
+이것을 이용하여 그래프를 그려보면 다음과 같다.
+
+따라서 입자의 에너지가 퍼텐셜보다 매우 커지면 확률은 모두 통과하며, 입자의 에너지가 0에 가게 되면 확률은 통과하지 못한다. 즉, 입자의 에너지가 0이 되면 경계면을 가로지르는 입자는 없다.
+
+4.2. 입자의 에너지가 퍼텐셜보다 작은 경우 [편집]
+다음으로, E < V E<V E < V 를 만족시키는 경우를 보자. 위와 마찬가지로, x < 0 x<0 x < 0 영역을 영역 Ⅰ , x > 0 x>0 x > 0 영역을 영역 Ⅱ 라 하자. 각 영역에서의 슈뢰딩거 방정식 은 다음과 같다.
+
+( domain I ) − ℏ 2 2 m ∂ 2 φ 1 ∂ x 2 = E φ 1 ( domain II ) − ℏ 2 2 m ∂ 2 φ 2 ∂ x 2 + V φ 2 = E φ 2 \displaystyle \begin{aligned} (\text{domain I}) & \quad -\frac{\hbar^{2}}{2m}\frac{\partial^{2} \varphi_{1}}{\partial x^{2}}=E \varphi_{1} \\ (\text{domain II}) & \quad -\frac{\hbar^{2}}{2m}\frac{\partial^{2} \varphi_{2}}{\partial x^{2}}+V\varphi_{2}=E \varphi_{2} \end{aligned} ( domain I ) ( domain II ) ​ − 2 m ℏ 2 ​ ∂ x 2 ∂ 2 φ 1 ​ ​ = E φ 1 ​ − 2 m ℏ 2 ​ ∂ x 2 ∂ 2 φ 2 ​ ​ + V φ 2 ​ = E φ 2 ​ ​
+이때, 다음과 같은 치환
+
+k 1 2 : = 2 m E ℏ 2 κ 2 : = 2 m ( V − E ) ℏ 2 \begin{aligned}\displaystyle k_{1}^{2}& := \frac{2mE}{\hbar^{2}}\\\kappa^{2}& := \frac{2m(V-E)}{\hbar^{2}}\end{aligned} k 1 2 ​ κ 2 ​ := ℏ 2 2 m E ​ := ℏ 2 2 m ( V − E ) ​ ​
+를 통해, 각 영역에서의 방정식은
+
+( domain I ) ∂ 2 φ 1 ∂ x 2 = − k 1 2 φ 1 ( domain II ) ∂ 2 φ 2 ∂ x 2 = κ 2 φ 2 \displaystyle \begin{aligned} (\text{domain I}) & \quad \frac{\partial^{2} \varphi_{1}}{\partial x^{2}}=-k_{1}^{2} \varphi_{1} \\ (\text{domain II}) & \quad \frac{\partial^{2} \varphi_{2}}{\partial x^{2}}=\kappa^{2} \varphi_{2} \end{aligned} ( domain I ) ( domain II ) ​ ∂ x 2 ∂ 2 φ 1 ​ ​ = − k 1 2 ​ φ 1 ​ ∂ x 2 ∂ 2 φ 2 ​ ​ = κ 2 φ 2 ​ ​
+따라서 각 영역에서 파동함수는 아래와 같이 나온다.
+
+φ 1 = A e i k 1 x + B e − i k 1 x φ 2 = C e − κ x + D e κ x \displaystyle \begin{aligned} \varphi_{1}&=Ae^{ik_{1}x}+Be^{-ik_{1}x} \\ \varphi_{2}&=Ce^{-\kappa x}+De^{\kappa x} \end{aligned} φ 1 ​ φ 2 ​ ​ = A e i k 1 ​ x + B e − i k 1 ​ x = C e − κ x + D e κ x ​
+즉, 이 문제에서 영역 Ⅱ에서 파동함수는 감쇠가 일어난다. 이때, D e κ x De^{\kappa x} D e κ x 는 x → ∞ x \to \infty x → ∞ 일 때, D e κ x → ∞ De^{\kappa x} \to \infty D e κ x → ∞ 이므로 물리적인 상황이 아니므로 해에서 제외해야 한다. 따라서
+
+φ 1 = A e i k 1 x + B e − i k 1 x φ 2 = C e − κ x \displaystyle \begin{aligned} \varphi_{1}&=Ae^{ik_{1}x}+Be^{-ik_{1}x} \\ \varphi_{2}&=Ce^{-\kappa x} \end{aligned} φ 1 ​ φ 2 ​ ​ = A e i k 1 ​ x + B e − i k 1 ​ x = C e − κ x ​
+따라서 파동함수의 경계 조건
+
+φ 1 ( 0 ) = φ 2 ( 0 ) ∂ φ 1 ∂ x ∣ x = 0 = ∂ φ 2 ∂ x ∣ x = 0 \begin{aligned} \displaystyle \varphi_{1}(0)&=\varphi_{2}(0)\\\biggl. \frac{\partial \varphi_{1}}{\partial x} \biggr|_{x=0}&=\biggl. \frac{\partial \varphi_{2}}{\partial x} \biggr|_{x=0}\end{aligned} φ 1 ​ ( 0 ) ∂ x ∂ φ 1 ​ ​ ​ x = 0 ​ ​ = φ 2 ​ ( 0 ) = ∂ x ∂ φ 2 ​ ​ ​ x = 0 ​ ​
+을 이용하면, 다음의 연립 방정식을 얻는다.
+
+A + B = C i k 1 A − i k 1 B = − κ C \displaystyle \begin{aligned} A+B&=C \\ ik_{1}A-ik_{1}B&=- \kappa C \end{aligned} A + B i k 1 ​ A − i k 1 ​ B ​ = C = − κ C ​
+그런데, 미지수는 3개인데 식은 2개이므로 각 미지수의 비밖에 구하지 못하므로 연립 방정식을 다음과 같이 변형한다.
+
+1 + B A = C A 1 − B A = i κ k 1 C A \displaystyle \begin{aligned} 1+\frac{B}{A}&=\frac{C}{A} \\ 1-\frac{B}{A}&=\frac{i \kappa}{k_{1}}\frac{C}{A} \end{aligned} 1 + A B ​ 1 − A B ​ ​ = A C ​ = k 1 ​ iκ ​ A C ​ ​
+따라서 i κ = k 2 i \kappa=k_{2} iκ = k 2 ​ 이면 E > V E>V E > V 일 때 나왔던 방정식과 동일하므로
+
+B A = k 1 − i κ k 1 + i κ C A = 2 k 1 k 1 + i κ \displaystyle \begin{aligned} \frac{B}{A}&=\frac{k_{1}-i \kappa}{k_{1}+i \kappa}\\\frac{C}{A}&=\frac{2k_{1}}{k_{1}+i \kappa}\end{aligned} A B ​ A C ​ ​ = k 1 ​ + iκ k 1 ​ − iκ ​ = k 1 ​ + iκ 2 k 1 ​ ​ ​
+
+입사파, 반사파, 투과파의 확률 흐름 밀도를 각각 구하면,
+
+J inc = ℏ k 1 m ∣ A ∣ 2 J ref = − ℏ k 1 m ∣ B ∣ 2 J trans = 0 \begin{aligned}\displaystyle J_{\text{inc}}&= \frac{\hbar k_{1}}{m} |A |^{2}\\J_{\text{ref}}&=-\frac{\hbar k_{1}}{m} |B |^{2}\\J_{\text{trans}}&= 0\end{aligned} J inc ​ J ref ​ J trans ​ ​ = m ℏ k 1 ​ ​ ∣ A ∣ 2 = − m ℏ k 1 ​ ​ ∣ B ∣ 2 = 0 ​
+또한, 반사 계수 R R R 와 투과 계수 T T T 는 다음과 같이 구할 수 있다.
+
+R = ∣ J ref J inc ∣ = ∣ B A ∣ 2 T = ∣ J trans J inc ∣ = 0 \begin{aligned}\displaystyle R&=\biggl| \frac{J_{\text{ref} } }{J_{\text{inc} } } \biggr|=\biggl| \frac{B}{A} \biggr|^{2}\\T&=\biggl| \frac{J_{\text{trans} } }{J_{\text{inc} } } \biggr|= 0\end{aligned} R T ​ = ​ J inc ​ J ref ​ ​ ​ = ​ A B ​ ​ 2 = ​ J inc ​ J trans ​ ​ ​ = 0 ​
+B / A = z ∗ / z B/A=z^{\ast}/z B / A = z ∗ / z 형태로 되어 있는 것을 참고하면, 반사 계수와 투과 계수는
+
+R = 1 T = 0 R=1 \qquad \qquad T=0 R = 1 T = 0
+이 된다. 따라서 이 문제에서 경계에서 투과하는 확률 밀도는 없다. 곧, 입자는 경계면을 가로지를 수 없다.
+
+5. 사각형 퍼텐셜 장벽 [편집]
+
+이 문제에서의 퍼텐셜 분포는 다음과 같다.
+
+V ( x ) = { 0 ( x > ∣ a ∣ ) V ( x < ∣ a ∣ ) \displaystyle V(x)=\left\{ \begin{array}{l} \displaystyle 0 &\quad (x>| a |)\\ \displaystyle V &\quad (x<| a |)\end{array}\right. V ( x ) = { 0 V ​ ( x > ∣ a ∣ ) ( x < ∣ a ∣ ) ​
+
+5.1. 입자의 에너지가 퍼텐셜보다 큰 경우 [편집]
+우선 E > V E>V E > V 를 만족시키는 경우를 보자. x < − a x<-a x < − a 영역을 영역 Ⅰ , ∣ x ∣ < a| x |<a ∣ x ∣ < a 영역을 영역 Ⅱ , x > a x>a x > a 인 영역을 영역 Ⅲ 라 하자. 각 영역에서의 슈뢰딩거 방정식 은 다음과 같다.
+
+( domain I ) − ℏ 2 2 m ∂ 2 φ 1 ∂ x 2 = E φ 1 ( domain II ) − ℏ 2 2 m ∂ 2 φ 2 ∂ x 2 + V φ 2 = E φ 2 ( domain III ) − ℏ 2 2 m ∂ 2 φ 3 ∂ x 2 = E φ 3 \displaystyle \begin{aligned} (\text{domain I}) & \quad -\frac{\hbar^{2}}{2m}\frac{\partial^{2} \varphi_{1}}{\partial x^{2}}=E \varphi_{1} \\ (\text{domain II}) & \quad -\frac{\hbar^{2}}{2m}\frac{\partial^{2} \varphi_{2}}{\partial x^{2}}+V\varphi_{2}=E \varphi_{2} \\ (\text{domain III}) & \quad -\frac{\hbar^{2}}{2m}\frac{\partial^{2} \varphi_{3}}{\partial x^{2}}=E \varphi_{3} \end{aligned} ( domain I ) ( domain II ) ( domain III ) ​ − 2 m ℏ 2 ​ ∂ x 2 ∂ 2 φ 1 ​ ​ = E φ 1 ​ − 2 m ℏ 2 ​ ∂ x 2 ∂ 2 φ 2 ​ ​ + V φ 2 ​ = E φ 2 ​ − 2 m ℏ 2 ​ ∂ x 2 ∂ 2 φ 3 ​ ​ = E φ 3 ​ ​
+이때, 다음과 같은 치환
+
+k 1 2 : = 2 m E ℏ 2 k 2 2 : = 2 m ( E − V ) ℏ 2 \displaystyle k_{1}^{2} := \frac{2mE}{\hbar^{2}} \qquad \qquad k_{2}^{2} := \frac{2m(E-V)}{\hbar^{2}} k 1 2 ​ := ℏ 2 2 m E ​ k 2 2 ​ := ℏ 2 2 m ( E − V ) ​
+을 통해, 각 영역에서의 방정식은
+
+( domain I ) ∂ 2 φ 1 ∂ x 2 = − k 1 2 φ 1 ( domain II ) ∂ 2 φ 2 ∂ x 2 = − k 2 2 φ 2 ( domain III ) ∂ 2 φ 3 ∂ x 2 = − k 1 2 φ 3 \displaystyle \begin{aligned} (\text{domain I}) & \quad \frac{\partial^{2} \varphi_{1}}{\partial x^{2}}=-k_{1}^{2} \varphi_{1} \\ (\text{domain II}) & \quad \frac{\partial^{2} \varphi_{2}}{\partial x^{2}}=-k_{2}^{2} \varphi_{2} \\ (\text{domain III}) & \quad \frac{\partial^{2} \varphi_{3}}{\partial x^{2}}=-k_{1}^{2} \varphi_{3} \end{aligned} ( domain I ) ( domain II ) ( domain III ) ​ ∂ x 2 ∂ 2 φ 1 ​ ​ = − k 1 2 ​ φ 1 ​ ∂ x 2 ∂ 2 φ 2 ​ ​ = − k 2 2 ​ φ 2 ​ ∂ x 2 ∂ 2 φ 3 ​ ​ = − k 1 2 ​ φ 3 ​ ​
+따라서 각 영역에서 파동함수는 아래와 같이 나온다.
+
+φ 1 = A e i k 1 x + B e − i k 1 x φ 2 = C e i k 2 x + D e − i k 2 x φ 3 = F e i k 1 x + G e − i k 1 x \displaystyle \begin{aligned} \varphi_{1}&=Ae^{ik_{1}x}+Be^{-ik_{1}x} \\ \varphi_{2}&=Ce^{ik_{2}x}+De^{-ik_{2}x} \\ \varphi_{3}&=Fe^{ik_{1}x}+Ge^{-ik_{1}x} \end{aligned} φ 1 ​ φ 2 ​ φ 3 ​ ​ = A e i k 1 ​ x + B e − i k 1 ​ x = C e i k 2 ​ x + D e − i k 2 ​ x = F e i k 1 ​ x + G e − i k 1 ​ x ​
+각 항의 의미를 두면, 다음과 같다. - A e i k 1 x Ae^{ik_{1}x} A e i k 1 ​ x : 영역Ⅰ에서 경계면에 입사하는 파
+- B e − i k 1 x Be^{-ik_{1}x} B e − i k 1 ​ x : 영역Ⅰ에서 경계면에 의해 반사되는 파
+- C e i k 2 x Ce^{ik_{2}x} C e i k 2 ​ x : 영역Ⅱ에서 + x +x + x 방향을 향하는 파
+- D e − i k 2 x De^{-ik_{2}x} D e − i k 2 ​ x : 영역Ⅱ에서 x = a x = a x = a 로 부터 반사되어 오는 파
+- F e i k 1 x Fe^{ik_{1}x} F e i k 1 ​ x : 영역Ⅲ에서 x → ∞ x \to \infty x → ∞ 로 향하는 파
+- G e − i k 1 x Ge^{-ik_{1}x} G e − i k 1 ​ x : 영역Ⅲ에서 x = ∞ x = \infty x = ∞ 로 부터 반사되어 오는 파
+
+그런데, G e − i k 1 x Ge^{-ik_{1}x} G e − i k 1 ​ x 는 물리적인 상황이 아니므로 해에서 제외해야 한다. 따라서
+
+φ 1 = A e i k 1 x + B e − i k 1 x φ 2 = C e i k 2 x + D e − i k 2 x φ 3 = F e i k 1 x \displaystyle \begin{aligned} \varphi_{1}&=Ae^{ik_{1}x}+Be^{-ik_{1}x} \\ \varphi_{2}&=Ce^{ik_{2}x}+De^{-ik_{2}x} \\ \varphi_{3}&=Fe^{ik_{1}x} \end{aligned} φ 1 ​ φ 2 ​ φ 3 ​ ​ = A e i k 1 ​ x + B e − i k 1 ​ x = C e i k 2 ​ x + D e − i k 2 ​ x = F e i k 1 ​ x ​
+따라서 파동함수의 경계 조건
+
+φ 1 ( − a ) = φ 2 ( − a ) φ 2 ( a ) = φ 3 ( a ) ∂ φ 1 ∂ x ∣ x = − a = ∂ φ 2 ∂ x ∣ x = − a ∂ φ 2 ∂ x ∣ x = a = ∂ φ 3 ∂ x ∣ x = a \displaystyle \begin{aligned} \varphi_{1}(-a)&=\varphi_{2}(-a) \\ \varphi_{2}(a)&=\varphi_{3}(a) \\ \biggl. \frac{\partial \varphi_{1}}{\partial x} \biggr|_{x=-a}&=\biggl. \frac{\partial \varphi_{2}}{\partial x} \biggr|_{x=-a} \\ \biggl. \frac{\partial \varphi_{2}}{\partial x} \biggr|_{x=a}&=\biggl. \frac{\partial \varphi_{3}}{\partial x} \biggr|_{x=a} \end{aligned} φ 1 ​ ( − a ) φ 2 ​ ( a ) ∂ x ∂ φ 1 ​ ​ ​ x = − a ​ ∂ x ∂ φ 2 ​ ​ ​ x = a ​ ​ = φ 2 ​ ( − a ) = φ 3 ​ ( a ) = ∂ x ∂ φ 2 ​ ​ ​ x = − a ​ = ∂ x ∂ φ 3 ​ ​ ​ x = a ​ ​
+을 이용하면, 다음의 연립 방정식을 얻는다.
+
+{ A e − i k 1 a + B e i k 1 a = C − i k 2 a + D e i k 2 a C e i k 2 a + D e − i k 2 a = F e i k 1 a i k 1 A e − i k 1 a − i k 1 B e i k 1 a = i k 2 C − i k 2 a − i k 2 D e i k 2 a i k 2 C e i k 2 a − i k 2 D e − i k 2 a = i k 1 F e i k 1 a \displaystyle \left\{\begin{matrix} \,\,\begin{aligned} Ae^{-ik_{1}a}+Be^{ik_{1}a}&=C^{-ik_{2}a}+De^{ik_{2}a} \\ Ce^{ik_{2}a}+De^{-ik_{2}a}&=Fe^{ik_{1}a} \\ ik_{1}Ae^{-ik_{1}a}- ik_{1}Be^{ik_{1}a}&= ik_{2}C^{-ik_{2}a}- ik_{2}De^{ik_{2}a} \\ ik_{2}Ce^{ik_{2}a}-ik_{2}De^{-ik_{2}a}&=ik_{1} Fe^{ik_{1}a} \end{aligned} \end{matrix}\right. ⎩ ⎨ ⎧ ​ A e − i k 1 ​ a + B e i k 1 ​ a C e i k 2 ​ a + D e − i k 2 ​ a i k 1 ​ A e − i k 1 ​ a − i k 1 ​ B e i k 1 ​ a i k 2 ​ C e i k 2 ​ a − i k 2 ​ D e − i k 2 ​ a ​ = C − i k 2 ​ a + D e i k 2 ​ a = F e i k 1 ​ a = i k 2 ​ C − i k 2 ​ a − i k 2 ​ D e i k 2 ​ a = i k 1 ​ F e i k 1 ​ a ​ ​
+
+전체적인 계를 보면, 입사파 는 A e i k 1 x Ae^{ik_{1}x} A e i k 1 ​ x 이고, 반사파 는 B e − i k 1 x Be^{-ik_{1}x} B e − i k 1 ​ x , 투과파 는 F e i k 1 x Fe^{ik_{1}x} F e i k 1 ​ x 가 된다. 이들의 각각 확률 흐름 밀도를 구할 수 있고, 각각을 J inc J_{\text{inc}} J inc ​ , J ref J_{\text{ref}} J ref ​ , J trans J_{\text{trans}} J trans ​ 라 하자. 이때,
+
+J inc = ℏ k 1 m ∣ A ∣ 2 J ref = − ℏ k 1 m ∣ B ∣ 2 J trans = ℏ k 1 m ∣ F ∣ 2 \displaystyle J_{\text{inc}}= \frac{\hbar k_{1}}{m} |A |^{2} \qquad \qquad J_{\text{ref}}= -\frac{\hbar k_{1}}{m} |B |^{2} \qquad \qquad J_{\text{trans}}= \frac{\hbar k_{1}}{m} |F |^{2} J inc ​ = m ℏ k 1 ​ ​ ∣ A ∣ 2 J ref ​ = − m ℏ k 1 ​ ​ ∣ B ∣ 2 J trans ​ = m ℏ k 1 ​ ​ ∣ F ∣ 2
+또한, 반사 계수 R R R 와 투과 계수 T T T 는 위의 연립 방정식에서 각 미지수의 비를 구함으로써 결정된다. [11]
+
+R = ∣ J ref J inc ∣ = ∣ B A ∣ 2 T = ∣ J trans J inc ∣ = ∣ F A ∣ 2 \displaystyle R=\biggl| \frac{J_{\text{ref} } }{J_{\text{inc} } } \biggr|=\biggl| \frac{B}{A} \biggr|^{2} \qquad \qquad T=\biggl| \frac{J_{\text{trans} } }{J_{\text{inc} } } \biggr|= \biggl| \frac{F}{A} \biggr|^{2} R = ​ J inc ​ J ref ​ ​ ​ = ​ A B ​ ​ 2 T = ​ J inc ​ J trans ​ ​ ​ = ​ A F ​ ​ 2
+따라서 반사 계수와 투과 계수는 아래와 같이 구할 수 있다.
+
+R = 1 − T 1 T = 1 + 1 4 [ k 1 2 − k 2 2 k 1 k 2 ] 2 sin ⁡ 2 ( 2 k 2 a ) \displaystyle R=1-T \qquad \qquad \frac{1}{T}=1+\frac{1}{4}\biggl[ \frac{k_{1}^{2}-k_{2}^{2}}{k_{1}k_{2}} \biggr]^{2}\sin^{2}{(2k_{2}a)} R = 1 − T T 1 ​ = 1 + 4 1 ​ [ k 1 ​ k 2 ​ k 1 2 ​ − k 2 2 ​ ​ ] 2 sin 2 ( 2 k 2 ​ a )
+치환한 것을 이용하면, 투과 계수는 아래와 같이 결정된다.
+
+1 T = 1 + 1 4 V 2 E ( E − V ) sin ⁡ 2 ( 2 k 2 a ) ( E > V ) \displaystyle \frac{1}{T}=1+\frac{1}{4}\frac{V^{2}}{E(E-V)}\sin^{2}{(2k_{2}a)} \quad (E>V) T 1 ​ = 1 + 4 1 ​ E ( E − V ) V 2 ​ sin 2 ( 2 k 2 ​ a ) ( E > V )
+이 이후의 분석은 "분석" 문단에서 하기로 한다.
+
+5.2. 입자의 에너지가 퍼텐셜보다 작은 경우 [편집]
+이제 E < V E<V E < V 를 만족시키는 경우를 보자. 이 케이스는 터널링이 일어나는 현상이기 때문에 중요하다. 아까와 같이 x < − a x<-a x < − a 영역을 영역 Ⅰ , ∣ x ∣ < a| x |<a ∣ x ∣ < a 영역을 영역 Ⅱ , x > a x>a x > a 인 영역을 영역 Ⅲ 라 하자. 각 영역에서의 슈뢰딩거 방정식 은 다음과 같다.
+
+( domain I ) − ℏ 2 2 m ∂ 2 φ 1 ∂ x 2 = E φ 1 ( domain II ) − ℏ 2 2 m ∂ 2 φ 2 ∂ x 2 + V φ 2 = E φ 2 ( domain III ) − ℏ 2 2 m ∂ 2 φ 3 ∂ x 2 = E φ 3 \displaystyle \begin{aligned} (\text{domain I}) & \quad -\frac{\hbar^{2}}{2m}\frac{\partial^{2} \varphi_{1}}{\partial x^{2}}=E \varphi_{1} \\ (\text{domain II}) & \quad -\frac{\hbar^{2}}{2m}\frac{\partial^{2} \varphi_{2}}{\partial x^{2}}+V\varphi_{2}=E \varphi_{2} \\ (\text{domain III}) & \quad -\frac{\hbar^{2}}{2m}\frac{\partial^{2} \varphi_{3}}{\partial x^{2}}=E \varphi_{3} \end{aligned} ( domain I ) ( domain II ) ( domain III ) ​ − 2 m ℏ 2 ​ ∂ x 2 ∂ 2 φ 1 ​ ​ = E φ 1 ​ − 2 m ℏ 2 ​ ∂ x 2 ∂ 2 φ 2 ​ ​ + V φ 2 ​ = E φ 2 ​ − 2 m ℏ 2 ​ ∂ x 2 ∂ 2 φ 3 ​ ​ = E φ 3 ​ ​
+이때, 다음과 같은 치환
+
+k 1 2 : = 2 m E ℏ 2 κ 2 : = 2 m ( V − E ) ℏ 2 \begin{aligned}\displaystyle k_{1}^{2}& := \frac{2mE}{\hbar^{2}}\\\kappa^{2}& := \frac{2m(V-E)}{\hbar^{2}}\end{aligned} k 1 2 ​ κ 2 ​ := ℏ 2 2 m E ​ := ℏ 2 2 m ( V − E ) ​ ​
+를 통해, 각 영역에서의 방정식은
+
+( domain I ) ∂ 2 φ 1 ∂ x 2 = − k 1 2 φ 1 ( domain II ) ∂ 2 φ 2 ∂ x 2 = κ 2 φ 2 ( domain III ) ∂ 3 φ 3 ∂ x 3 = − k 1 2 φ 3 \displaystyle \begin{aligned} (\text{domain I}) & \quad \frac{\partial^{2} \varphi_{1}}{\partial x^{2}}=-k_{1}^{2} \varphi_{1} \\ (\text{domain II}) & \quad \frac{\partial^{2} \varphi_{2}}{\partial x^{2}}=\kappa^{2} \varphi_{2} \\ (\text{domain III}) & \quad \frac{\partial^{3} \varphi_{3}}{\partial x^{3}}=-k_{1}^{2} \varphi_{3} \end{aligned} ( domain I ) ( domain II ) ( domain III ) ​ ∂ x 2 ∂ 2 φ 1 ​ ​ = − k 1 2 ​ φ 1 ​ ∂ x 2 ∂ 2 φ 2 ​ ​ = κ 2 φ 2 ​ ∂ x 3 ∂ 3 φ 3 ​ ​ = − k 1 2 ​ φ 3 ​ ​
+따라서 각 영역에서 파동함수는 아래와 같이 나온다.
+
+φ 1 = A e i k 1 x + B e − i k 1 x φ 2 = C e κ x + D e − κ x φ 3 = F e i k 1 x + G e − i k 1 x \displaystyle \begin{aligned} \varphi_{1}&=Ae^{ik_{1}x}+Be^{-ik_{1}x} \\ \varphi_{2}&=Ce^{\kappa x}+De^{-\kappa x} \\ \varphi_{3}&=Fe^{ik_{1}x}+Ge^{-ik_{1}x} \end{aligned} φ 1 ​ φ 2 ​ φ 3 ​ ​ = A e i k 1 ​ x + B e − i k 1 ​ x = C e κ x + D e − κ x = F e i k 1 ​ x + G e − i k 1 ​ x ​
+그런데, G e − i k 2 x Ge^{-ik_{2}x} G e − i k 2 ​ x 는 물리적인 상황이 아니므로 해에서 제외해야 한다. 따라서
+
+φ 1 = A e i k 1 x + B e − i k 1 x φ 2 = C e κ x + D e − κ x φ 3 = F e i k 1 x \displaystyle \begin{aligned} \varphi_{1}&=Ae^{ik_{1}x}+Be^{-ik_{1}x} \\ \varphi_{2}&=Ce^{\kappa x}+De^{-\kappa x} \\ \varphi_{3}&=Fe^{ik_{1}x} \end{aligned} φ 1 ​ φ 2 ​ φ 3 ​ ​ = A e i k 1 ​ x + B e − i k 1 ​ x = C e κ x + D e − κ x = F e i k 1 ​ x ​
+따라서 다음과 같이 대치하면, E > V E>V E > V 에서의 결과를 사용할 수 있다.
+
+E − V → V − E i k 2 → κ \displaystyle E-V \to V-E \qquad \qquad ik_{2} \to \kappa E − V → V − E i k 2 ​ → κ
+따라서 투과 계수는 다음과 같다.
+
+1 T = 1 + 1 4 [ k 1 2 + κ 2 k 1 κ ] 2 sinh ⁡ 2 ( 2 κ a ) = 1 + 1 4 V 2 E ( V − E ) sinh ⁡ 2 ( 2 κ a ) ( E < V ) \displaystyle \begin{aligned} \frac{1}{T}&=1+\frac{1}{4}\biggl[ \frac{k_{1}^{2}+\kappa^{2}}{k_{1} \kappa} \biggr]^{2}\sinh^{2}{(2 \kappa a)} \\ &= 1+\frac{1}{4}\frac{V^{2}}{E(V-E)}\sinh^{2}{(2 \kappa a)} \quad (E<V)\end{aligned} T 1 ​ ​ = 1 + 4 1 ​ [ k 1 ​ κ k 1 2 ​ + κ 2 ​ ] 2 sinh 2 ( 2 κa ) = 1 + 4 1 ​ E ( V − E ) V 2 ​ sinh 2 ( 2 κa ) ( E < V ) ​
+반사 계수는 알다시피, R = 1 − T R=1-T R = 1 − T 가 된다.
+
+추후의 분석은 "분석" 문단에서 하기로 한다.
+
+참고로, 아래는 그 유명한 이 케이스의 파동함수의 형태 [12] 를 나타낸 것이다. 그림에서 보다시피 sine 혹은 cosine 함수(영역Ⅰ, 영역Ⅲ)와 지수함수(영역Ⅱ)로 나타난다. 주목해야 할 것은 영역Ⅲ에서도 파동함수는 진동하는 형태로 존재하고, 이것은 곧 입자는 영역Ⅲ에서 존재할 수 있다는 뜻이다. 이를 터널링 현상이라 하며, 자세한 것은 "분석" 문단에서 다룬다.
+
+5.3. 분석 [편집]
+이 케이스를 통해 투과 계수는 다음과 같음을 알았다.
+
+1 T = { 1 + 1 4 V 2 E ( E − V ) sin ⁡ 2 ( 2 k 2 a ) ( E > V ) 1 + 1 4 V 2 E ( V − E ) sinh ⁡ 2 ( 2 κ a ) ( E < V ) \displaystyle \frac{1}{T}=\left\{ \begin{array}{l} \displaystyle 1+\frac{1}{4}\frac{V^{2}}{E(E-V)}\sin^{2}{(2k_{2}a)} &\quad (E>V)\\ \displaystyle 1+\frac{1}{4}\frac{V^{2}}{E(V-E)}\sinh^{2}{(2 \kappa a)} &\quad (E<V)\end{array}\right. T 1 ​ = ⎩ ⎨ ⎧ ​ 1 + 4 1 ​ E ( E − V ) V 2 ​ sin 2 ( 2 k 2 ​ a ) 1 + 4 1 ​ E ( V − E ) V 2 ​ sinh 2 ( 2 κa ) ​ ( E > V ) ( E < V ) ​
+아래의 그래프는 T T T 를 E / V E/V E / V 의 변수로 하여 그린 그래프 [13] 이다.
+
+참고로, E / V → 1 E/V \to 1 E / V → 1 일 때, 다음이 성립한다.
+
+T ≃ 1 1 + g 2 / 4 ( g 2 : = 2 m ( 2 a ) 2 V ℏ 2 ) \displaystyle T \simeq \frac{1}{1+g^{2}/4} \quad \biggl(g^{2} := \frac{2m(2a)^{2}V}{\hbar^{2}} \biggr) T ≃ 1 + g 2 /4 1 ​ ( g 2 := ℏ 2 2 m ( 2 a ) 2 V ​ )
+
+E > V E>V E > V 인 경우에 한하여 투과 계수가 1이 되는 값들이 존재한다. 즉, 영역Ⅰ에서 경계면을 가로지른 파는 일체 반사되지 않고, 모두 영역Ⅲ으로 투과된다. 해당 값은, 위의 투과 계수를 봤을 때, sine 항이 0이면 되므로
+
+2 k 2 a = n π \displaystyle 2k_{2}a=n \pi 2 k 2 ​ a = nπ
+를 만족시키면 된다. 이때, n n n 은 자연수 [14] 이다. k 2 k_{2} k 2 ​ 는 파의 파수이기도 하므로 영역Ⅱ의 파장을 λ \lambda λ 라 하면,
+
+n ( λ 2 ) = 2 a \displaystyle n\biggl( \frac{\lambda}{2} \biggr)=2a n ( 2 λ ​ ) = 2 a
+를 만족시키면 투과 계수가 1이 된다. 맨 처음 제시했던 조건 식의 양변을 제곱하면,
+
+4 k 2 2 a 2 = n 2 π 2 \displaystyle 4k_{2}^{2}a^{2}=n^{2} \pi^{2} 4 k 2 2 ​ a 2 = n 2 π 2
+이고, 이것을 입자의 에너지와 퍼텐셜 장벽의 높이를 대입하면 다음의 식을 얻는다.
+
+E − V = n 2 π 2 ℏ 2 2 m ( 2 a ) 2 \displaystyle E-V= \frac{n^{2}\pi^{2}\hbar^{2}}{2m(2a)^{2}} E − V = 2 m ( 2 a ) 2 n 2 π 2 ℏ 2 ​
+우변은 곧, 상자의 너비가 2 a 2a 2 a 인 무한 퍼텐셜 우물 문제의 고유 에너지이고, 이 케이스에서 입자의 에너지와 퍼텐셜의 관계는 위와 같다.
+
+이제부터 E < V E<V E < V 인 상황을 고려하자. 위 결과에 따르면, 이 케이스에서 투과 계수는 0이 아니었다. 이것은 고전역학 적인 해석과 대치되는 해석으로 양자역학 에 따른 결과이다. 이처럼, 입자의 에너지보다 퍼텐셜이 큰데도, 입자가 퍼텐셜 장벽을 투과할 수 있는 현상을 터널링 현상 이라 한다. 터널링 현상을 잘 설명해주는 실험은 대표적으로 알파입자 붕괴 실험 [15] 이 있으며, 이러한 현상은 주사 터널링 현미경 (Scanning Tunneling Microscope; STM) 등의 작동 원리로 활용한다.
+
+또한, 앞서 정의한 k 1 k_{1} k 1 ​ 과 κ \kappa κ 의 관계에 의해 다음이 성립한다.
+
+k 1 2 + κ 2 = 2 m V ℏ 2 \displaystyle k_{1}^{2}+\kappa^{2}=\frac{2mV }{\hbar^{2}} k 1 2 ​ + κ 2 = ℏ 2 2 mV ​
+나아가, 무차원 변수 k 1 a : = ξ k_{1}a := \xi k 1 ​ a := ξ , κ a : = η \kappa a := \eta κa := η 를 이용하면,
+
+ξ 2 + η 2 = 2 m a 2 V ℏ 2 : = ρ 2 \displaystyle \xi^{2}+\eta^{2}=\frac{2ma^{2}V }{\hbar^{2}} := \rho^{2} ξ 2 + η 2 = ℏ 2 2 m a 2 V ​ := ρ 2
+로 쓸 수 있다. 이때, ξ , η > 0 \xi, \, \eta>0 ξ , η > 0 임을 이용하면, 허용되는 ξ , η \xi, \, \eta ξ , η 는 각각의 변수로 하여금 생성된 반지름 ρ \rho ρ 의 사분원 위에 있다. 따라서 ξ , η \xi, \, \eta ξ , η 는 한정되고, 연속된 실수이다. 따라서 퍼텐셜 V V V 가 지정되었을 때, 영역Ⅰ에서 가질 수 있는 고유 에너지는
+
+E = ℏ 2 k 1 2 2 m \displaystyle E=\frac{\hbar^{2}k_{1}^{2} }{2m} E = 2 m ℏ 2 k 1 2 ​ ​
+으로 연속된 실수이지만, 한정된다.
+
+6. 유한 퍼텐셜 우물 [편집]
+
+이 문제에서의 퍼텐셜 분포는 다음과 같다.
+
+V ( x ) = { 0 ( x > ∣ a ∣ ) − ∣ V ∣ ( x < ∣ a ∣ ) \displaystyle V(x)=\left\{ \begin{array}{l} \displaystyle 0 &\quad (x>| a |)\\ \displaystyle -| V | &\quad (x<| a |)\end{array}\right. V ( x ) = { 0 − ∣ V ∣ ​ ( x > ∣ a ∣ ) ( x < ∣ a ∣ ) ​
+
+6.1. 비속박 상태 [편집]
+비속박 상태는 E > 0 E>0 E > 0 를 만족시키는 경우이다. 위의 문제들과 같이 x < − a x<-a x < − a 영역을 영역 Ⅰ , ∣ x ∣ < a| x|<a ∣ x ∣ < a 영역을 영역 Ⅱ , x > a x>a x > a 인 영역을 영역 Ⅲ 라 하자. 각 영역에서의 슈뢰딩거 방정식 은 다음과 같다.
+
+( domain I ) − ℏ 2 2 m ∂ 2 φ 1 ∂ x 2 = E φ 1 ( domain II ) − ℏ 2 2 m ∂ 2 φ 2 ∂ x 2 − ∣ V ∣ φ 2 = E φ 2 ( domain III ) − ℏ 2 2 m ∂ 2 φ 3 ∂ x 2 = E φ 3 \displaystyle \begin{aligned} (\text{domain I}) & \quad -\frac{\hbar^{2}}{2m}\frac{\partial^{2} \varphi_{1}}{\partial x^{2}}=E \varphi_{1} \\ (\text{domain II}) & \quad -\frac{\hbar^{2}}{2m}\frac{\partial^{2} \varphi_{2}}{\partial x^{2}}- |V| \varphi_{2} =E \varphi_{2} \\ (\text{domain III}) & \quad -\frac{\hbar^{2}}{2m}\frac{\partial^{2} \varphi_{3}}{\partial x^{2}}=E \varphi_{3} \end{aligned} ( domain I ) ( domain II ) ( domain III ) ​ − 2 m ℏ 2 ​ ∂ x 2 ∂ 2 φ 1 ​ ​ = E φ 1 ​ − 2 m ℏ 2 ​ ∂ x 2 ∂ 2 φ 2 ​ ​ − ∣ V ∣ φ 2 ​ = E φ 2 ​ − 2 m ℏ 2 ​ ∂ x 2 ∂ 2 φ 3 ​ ​ = E φ 3 ​ ​
+따라서 다음의 치환을 이용하면,
+
+k 1 2 : = 2 m E ℏ 2 k 2 2 : = 2 m ( E + ∣ V ∣ ) ℏ 2 \begin{aligned}\displaystyle k_{1}^{2}& := \frac{2mE}{\hbar^{2}}\\k_{2}^{2}& := \frac{2m(E+ |V|)}{\hbar^{2}}\end{aligned} k 1 2 ​ k 2 2 ​ ​ := ℏ 2 2 m E ​ := ℏ 2 2 m ( E + ∣ V ∣ ) ​ ​
+모든 영역에서의 방정식은 다음과 같이 쓸 수 있다.
+
+( domain I ) ∂ 2 φ 1 ∂ x 2 = − k 1 2 φ 1 ( domain II ) ∂ 2 φ 2 ∂ x 2 = − k 2 2 φ 2 ( domain III ) ∂ 2 φ 3 ∂ x 2 = − k 1 2 φ 3 \displaystyle \begin{aligned} (\text{domain I}) & \quad \frac{\partial^{2} \varphi_{1}}{\partial x^{2}}=-k_{1}^{2} \varphi_{1} \\ (\text{domain II}) & \quad \frac{\partial^{2} \varphi_{2}}{\partial x^{2}}=-k_{2}^{2} \varphi_{2} \\ (\text{domain III}) & \quad \frac{\partial^{2} \varphi_{3}}{\partial x^{2}}=-k_{1}^{2} \varphi_{3} \end{aligned} ( domain I ) ( domain II ) ( domain III ) ​ ∂ x 2 ∂ 2 φ 1 ​ ​ = − k 1 2 ​ φ 1 ​ ∂ x 2 ∂ 2 φ 2 ​ ​ = − k 2 2 ​ φ 2 ​ ∂ x 2 ∂ 2 φ 3 ​ ​ = − k 1 2 ​ φ 3 ​ ​
+따라서 모든 영역의 해는 진동하는 형태로 나오게 된다. 그런데 사각 퍼텐셜 장벽 에서의 E − V E-V E − V 를 E + ∣ V ∣ E+ |V| E + ∣ V ∣ 로 대치하면, 사각 퍼텐셜 장벽 의 결과를 그대로 이용할 수 있으므로 투과 계수는 다음과 같다.
+
+1 T = 1 + 1 4 [ k 1 2 − k 2 2 k 1 k 2 ] 2 sin ⁡ 2 ( 2 k 2 a ) = 1 + 1 4 V 2 E ( E + ∣ V ∣ ) sin ⁡ 2 ( 2 k 2 a ) \displaystyle \begin{aligned} \frac{1}{T}&=1+\frac{1}{4}\biggl[ \frac{k_{1}^{2}-k_{2}^{2}}{k_{1}k_{2}} \biggr]^{2}\sin^{2}{(2k_{2}a)} \\&=1+\frac{1}{4}\frac{V^{2}}{E(E+|V|)}\sin^{2}{(2k_{2}a)} \end{aligned} T 1 ​ ​ = 1 + 4 1 ​ [ k 1 ​ k 2 ​ k 1 2 ​ − k 2 2 ​ ​ ] 2 sin 2 ( 2 k 2 ​ a ) = 1 + 4 1 ​ E ( E + ∣ V ∣ ) V 2 ​ sin 2 ( 2 k 2 ​ a ) ​
+반사 계수는 구해볼 필요 없이, R = 1 − T R=1-T R = 1 − T 이다.
+
+사각 퍼텐셜 장벽 을 논의하면서 특정한 k 2 k_{2} k 2 ​ 에선 투과 계수가 1이 나올 수 있음을 보았다. 이 경우에도 마찬가지로,
+
+n ( λ 2 ) = 2 a \displaystyle n\biggl( \frac{\lambda}{2} \biggr)=2a n ( 2 λ ​ ) = 2 a
+를 만족시키면, 투과 계수가 1이 된다. λ \lambda λ 는 영역Ⅱ에서의 파의 파장이다.
+
+장벽 바깥의 함수가 사인파 꼴인 것에서부터 눈치챘겠지만, 이 경우는 파동함수가 규격화(Normalization) 되지 않는다.
+
+6.2. 속박 상태 [편집]
+유한 퍼텐셜 우물 의 속박 상태를 고려하자. 이 경우, 입자의 에너지 또한 음수이므로 − ∣ E ∣ -|E| − ∣ E ∣ 로 쓸 것이다. 또한, 속박 상태에서 ∣ E ∣ < ∣ V ∣|E|<|V| ∣ E ∣ < ∣ V ∣ 가 성립하는 점도 주의해야 한다. 위의 문제들과 같이 x < − a x<-a x < − a 영역을 영역 Ⅰ , ∣ x ∣ < a| x |<a ∣ x ∣ < a 영역을 영역 Ⅱ , x > a x>a x > a 영역을 영역 Ⅲ 라 하자. 각 영역에서의 슈뢰딩거 방정식 은 다음과 같다.
+
+( domain I ) − ℏ 2 2 m ∂ 2 φ 1 ∂ x 2 = − ∣ E ∣ φ 1 ( domain II ) − ℏ 2 2 m ∂ 2 φ 2 ∂ x 2 − ∣ V ∣ φ 2 = − ∣ E ∣ φ 2 ( domain III ) − ℏ 2 2 m ∂ 2 φ 3 ∂ x 2 = − ∣ E ∣ φ 3 \displaystyle \begin{aligned} (\text{domain I}) & \quad -\frac{\hbar^{2}}{2m}\frac{\partial^{2} \varphi_{1}}{\partial x^{2}}=-|E| \varphi_{1} \\ (\text{domain II}) & \quad -\frac{\hbar^{2}}{2m}\frac{\partial^{2} \varphi_{2}}{\partial x^{2}}- |V| \varphi_{2} =-|E| \varphi_{2} \\ (\text{domain III}) & \quad -\frac{\hbar^{2}}{2m}\frac{\partial^{2} \varphi_{3}}{\partial x^{2}}=-|E| \varphi_{3} \end{aligned} ( domain I ) ( domain II ) ( domain III ) ​ − 2 m ℏ 2 ​ ∂ x 2 ∂ 2 φ 1 ​ ​ = − ∣ E ∣ φ 1 ​ − 2 m ℏ 2 ​ ∂ x 2 ∂ 2 φ 2 ​ ​ − ∣ V ∣ φ 2 ​ = − ∣ E ∣ φ 2 ​ − 2 m ℏ 2 ​ ∂ x 2 ∂ 2 φ 3 ​ ​ = − ∣ E ∣ φ 3 ​ ​
+다음의 치환을 이용하면,
+
+κ 2 : = 2 m ∣ E ∣ ℏ 2 k 2 : = 2 m ( ∣ V ∣ − ∣ E ∣ ) ℏ 2 \begin{aligned}\displaystyle \kappa^{2}& := \frac{2m|E|}{\hbar^{2}}\\k^{2}& := \frac{2m(|V|-|E|)}{\hbar^{2}}\end{aligned} κ 2 k 2 ​ := ℏ 2 2 m ∣ E ∣ ​ := ℏ 2 2 m ( ∣ V ∣ − ∣ E ∣ ) ​ ​
+각 영역의 방정식은
+
+( domain I ) ∂ 2 φ 1 ∂ x 2 = κ 2 φ 1 ( domain II ) ∂ 2 φ 2 ∂ x 2 = − k 2 φ 2 ( domain III ) ∂ 3 φ 3 ∂ x 3 = κ 2 φ 3 \displaystyle \begin{aligned} (\text{domain I}) & \quad \frac{\partial^{2} \varphi_{1}}{\partial x^{2}}=\kappa^{2} \varphi_{1} \\ (\text{domain II}) & \quad \frac{\partial^{2} \varphi_{2}}{\partial x^{2}}=-k^{2} \varphi_{2} \\ (\text{domain III}) & \quad \frac{\partial^{3} \varphi_{3}}{\partial x^{3}}=\kappa^{2} \varphi_{3} \end{aligned} ( domain I ) ( domain II ) ( domain III ) ​ ∂ x 2 ∂ 2 φ 1 ​ ​ = κ 2 φ 1 ​ ∂ x 2 ∂ 2 φ 2 ​ ​ = − k 2 φ 2 ​ ∂ x 3 ∂ 3 φ 3 ​ ​ = κ 2 φ 3 ​ ​
+따라서 방정식의 꼴만 보고서도 영역Ⅰ, 영역Ⅲ은 지수적인 함수가, 영역Ⅱ는 진동하는 함수가 해가 될 것을 추측 가능하다. 따라서 각 영역의 해의 꼴은
+
+φ 1 = A e κ x φ 2 = B e i k x + C e − i k x φ 3 = D e − κ x \displaystyle \begin{aligned} \varphi_{1}&=Ae^{\kappa x} \\ \varphi_{2}&=Be^{ikx}+Ce^{-ikx} \\ \varphi_{3}&=De^{-\kappa x} \end{aligned} φ 1 ​ φ 2 ​ φ 3 ​ ​ = A e κ x = B e ik x + C e − ik x = D e − κ x ​
+이때, 영역Ⅰ, 영역Ⅲ에서 각각 x → − ∞ x \to - \infty x → − ∞ , x → ∞ x \to \infty x → ∞ 일 때 발산하는 해는 해에서 제외하였다.
+
+φ 1 ( − a ) = φ 2 ( − a ) φ 2 ( a ) = φ 3 ( a ) ∂ φ 1 ∂ x ∣ x = − a = ∂ φ 2 ∂ x ∣ x = − a ∂ φ 2 ∂ x ∣ x = a = ∂ φ 3 ∂ x ∣ x = a \displaystyle \begin{aligned} \varphi_{1}(-a)&=\varphi_{2}(-a) \\ \varphi_{2}(a)&=\varphi_{3}(a) \\ \biggl. \frac{\partial \varphi_{1}}{\partial x} \biggr|_{x=-a}&=\biggl. \frac{\partial \varphi_{2}}{\partial x} \biggr|_{x=-a} \\ \biggl. \frac{\partial \varphi_{2}}{\partial x} \biggr|_{x=a}&=\biggl. \frac{\partial \varphi_{3}}{\partial x} \biggr|_{x=a} \end{aligned} φ 1 ​ ( − a ) φ 2 ​ ( a ) ∂ x ∂ φ 1 ​ ​ ​ x = − a ​ ∂ x ∂ φ 2 ​ ​ ​ x = a ​ ​ = φ 2 ​ ( − a ) = φ 3 ​ ( a ) = ∂ x ∂ φ 2 ​ ​ ​ x = − a ​ = ∂ x ∂ φ 3 ​ ​ ​ x = a ​ ​
+따라서 다음과 같이 파동함수의 경계 조건을 이용하여 연립방정식을 얻을 수 있다.
+
+{ A e − κ a = B e − i k a + C e i k a B e i k a + C e − i k a = D e κ a κ A e − κ a = i k B e − i k a − i k C e i k a i k B e i k a − i k C e − i k a = − κ D e − κ a \displaystyle \left\{\begin{matrix}\, \begin{aligned} Ae^{- \kappa a}&=Be^{-ika}+Ce^{ika} \\ Be^{ika}+Ce^{-ika}&=De^{\kappa a} \\ \kappa Ae^{- \kappa a} &= ikBe^{-ika}-ikCe^{ika} \\ ikBe^{ika}-ikCe^{-ika} &= - \kappa De^{-\kappa a} \end{aligned} \end{matrix}\right. ⎩ ⎨ ⎧ ​ A e − κa B e ik a + C e − ik a κ A e − κa ik B e ik a − ik C e − ik a ​ = B e − ik a + C e ik a = D e κa = ik B e − ik a − ik C e ik a = − κ D e − κa ​ ​
+이 방정식은 미지수 4개에 식 4개이므로 상수 A ∼ D A \sim D A ∼ D 는 결정될 수 있고, 이 연립 방정식을 행렬로 나타내면 다음과 같다.
+
+[ e − κ a − e − i k a − e i k a 0 0 e i k a e − i k a − e κ a κ e − κ a − i k e − i k a i k e i k a 0 0 i k e i k a − i k e − i k a κ e − κ a ] [ A B C D ] = [ 0 0 0 0 ] \displaystyle \begin{bmatrix} e^{-\kappa a} & -e^{-ika} & -e^{ika} & 0 \\ 0 & e^{ika} & e^{-ika} & -e^{\kappa a} \\ \kappa e^{-\kappa a} & -ike^{-ika} & ike^{ika} & 0 \\ 0 & ike^{ika} & -ike^{-ika} & \kappa e^{-\kappa a} \end{bmatrix} \begin{bmatrix} A \\ B \\ C \\ D \end{bmatrix} = \begin{bmatrix} 0 \\ 0 \\ 0 \\ 0 \end{bmatrix} ​ e − κa 0 κ e − κa 0 ​ − e − ik a e ik a − ik e − ik a ik e ik a ​ − e ik a e − ik a ik e ik a − ik e − ik a ​ 0 − e κa 0 κ e − κa ​ ​ ​ A B C D ​ ​ = ​ 0 0 0 0 ​ ​
+그런데, A = B = C = D = 0 A=B=C=D=0 A = B = C = D = 0 을 제외한 해를 가지려면, 행렬식
+
+∣ e − κ a − e − i k a − e i k a 0 0 e i k a e − i k a − e κ a κ e − κ a − i k e − i k a i k e i k a 0 0 i k e i k a − i k e − i k a κ e − κ a ∣ = 0 \displaystyle \begin{vmatrix} e^{-\kappa a} & -e^{-ika} & -e^{ika} & 0 \\ 0 & e^{ika} & e^{-ika} & -e^{\kappa a} \\ \kappa e^{-\kappa a} & -ike^{-ika} & ike^{ika} & 0 \\ 0 & ike^{ika} & -ike^{-ika} & \kappa e^{-\kappa a} \end{vmatrix} =0 ​ e − κa 0 κ e − κa 0 ​ − e − ik a e ik a − ik e − ik a ik e ik a ​ − e ik a e − ik a ik e ik a − ik e − ik a ​ 0 − e κa 0 κ e − κa ​ ​ = 0
+을 만족시켜야 한다. 그런데, G : = ( κ + i k ) e i k a G := (\kappa+ik) e^{ika} G := ( κ + ik ) e ik a 로 둔다면, 소행렬식으로 분해하여 다음과 같이 쓸 수 있다.
+
+e − 2 κ a ∣ G G ∗ G ∗ G ∣ = 0 \displaystyle e^{-2\kappa a} \begin{vmatrix} G & G^{\ast} \\ G^{\ast} & G \\ \end{vmatrix} =0 e − 2 κa ​ G G ∗ ​ G ∗ G ​ ​ = 0
+따라서 위 조건을 만족시키려면,
+
+G 2 − ( G ∗ ) 2 = 0 → G = ± G ∗ \displaystyle G^{2}-(G^{\ast})^2=0 \, \to \, G= \pm G^{\ast} G 2 − ( G ∗ ) 2 = 0 → G = ± G ∗
+이어야 하고, G G G , G ∗ G^{\ast} G ∗ 는 다음과 같이 쓸 수 있다.
+
+G = k 2 + κ 2 e i k a e i ϕ ( ϕ = tan ⁡ − 1 ( k κ ) ) G ∗ = k 2 + κ 2 e − i k a e − i ϕ \displaystyle \begin{aligned} G&=\sqrt{k^{2}+\kappa^{2}} e^{ika} e^{i \phi} \quad \biggl( \phi=\tan^{-1}{\biggl(\frac{k}{\kappa}\biggr)} \biggr) \\ G^{\ast}&=\sqrt{k^{2}+\kappa^{2}} e^{-ika} e^{-i \phi} \end{aligned} G G ∗ ​ = k 2 + κ 2 ​ e ik a e i ϕ ( ϕ = tan − 1 ( κ k ​ ) ) = k 2 + κ 2 ​ e − ik a e − i ϕ ​
+
+따라서 두 가지 경우를 생각할 수 있다.
+
+(ⅰ) 양의 조건
+우선 양의 조건 G = G ∗ G=G^{\ast} G = G ∗ 를 택하자.
+
+e i ( k a + ϕ ) = e − i ( k a + ϕ ) \displaystyle e^{i(ka + \phi)}= e^{-i(ka + \phi)} e i ( k a + ϕ ) = e − i ( k a + ϕ )
+이를 만족시키려면 다음이 성립해야 한다.
+
+k a + ϕ = 0 \displaystyle ka+\phi=0 k a + ϕ = 0
+위의 조건들을 쓰면,
+
+k a + tan ⁡ − 1 ( k κ ) = 0 → k κ = − tan ⁡ ( k a ) \displaystyle ka+\tan^{-1}{\biggl(\frac{k}{\kappa}\biggr)}=0 \, \to \, \frac{k}{\kappa}=-\tan{(ka)} k a + tan − 1 ( κ k ​ ) = 0 → κ k ​ = − tan ( k a )
+이를 일반화하면, 다음과 같다.
+
+k cot ⁡ ( k a ) = − κ G G ∗ = 1 \displaystyle \begin{aligned} k\cot{(ka)}&=-\kappa \\ \frac{G}{G^{\ast}}&=1 \end{aligned} k cot ( k a ) G ∗ G ​ ​ = − κ = 1 ​
+
+(ⅱ) 음의 조건
+다음으로 음의 조건 G = − G ∗ G=-G^{\ast} G = − G ∗ 를 택하자.
+
+e i ( k a + ϕ ) = − e − i ( k a + ϕ ) e^{i(ka + \phi)}= -e^{-i(ka + \phi)} e i ( k a + ϕ ) = − e − i ( k a + ϕ )
+이를 만족시키려면 다음이 성립해야 한다.
+
+k a + ϕ = π 2 \displaystyle ka + \phi=\frac{\pi}{2} k a + ϕ = 2 π ​
+위의 조건들을 쓰면,
+
+k a + tan ⁡ − 1 ( k κ ) = π 2 → k κ = tan ⁡ ( π 2 − k a ) = cot ⁡ ( k a ) \displaystyle ka+\tan^{-1}{\biggl(\frac{k}{\kappa}\biggr)}=\frac{\pi}{2} \, \to \, \frac{k}{\kappa}=\tan{\biggl(\frac{\pi}{2}- ka \biggr)}=\cot{(ka)} k a + tan − 1 ( κ k ​ ) = 2 π ​ → κ k ​ = tan ( 2 π ​ − k a ) = cot ( k a )
+이를 일반화하면 다음과 같다.
+
+k tan ⁡ ( k a ) = κ G G ∗ = − 1 \displaystyle \begin{aligned} k\tan{(ka)}&=\kappa \\ \qquad \qquad \frac{G}{G^{\ast}}&=-1 \end{aligned} k tan ( k a ) G ∗ G ​ ​ = κ = − 1 ​
+
+위에서 얻었던 행렬 방정식을
+
+[ κ e − κ a − κ e − i k a − κ e i k a 0 0 G G ∗ 0 0 G ∗ G 0 0 i k e i k a − i k e − i k a κ e − κ a ] [ A B C D ] = [ 0 0 0 0 ] \displaystyle \begin{bmatrix} \kappa e^{-\kappa a} & -\kappa e^{-ika} & -\kappa e^{ika} & 0 \\ 0 & G & G^{\ast} & 0 \\ 0 & G^{\ast} & G & 0 \\ 0 & ike^{ika} & -ike^{-ika} & \kappa e^{-\kappa a} \end{bmatrix} \begin{bmatrix} A \\ B \\ C \\ D \end{bmatrix} = \begin{bmatrix} 0 \\ 0 \\ 0 \\ 0 \end{bmatrix} ​ κ e − κa 0 0 0 ​ − κ e − ik a G G ∗ ik e ik a ​ − κ e ik a G ∗ G − ik e − ik a ​ 0 0 0 κ e − κa ​ ​ ​ A B C D ​ ​ = ​ 0 0 0 0 ​ ​
+형태로 만들 수 있으므로 다음이 성립한다.
+
+B G + C G ∗ = 0 → C B = − G G ∗ \displaystyle BG+CG^{\ast}=0 \, \to \, \frac{C}{B}=-\frac{G}{G^{\ast}} B G + C G ∗ = 0 → B C ​ = − G ∗ G ​
+또한 G = ± G ∗ G = \pm G^{\ast} G = ± G ∗ 이므로 다음이 성립한다.
+
+C B = ± 1 \displaystyle \frac{C}{B}=\pm 1 B C ​ = ± 1
+
+(ⅰ) 양의 조건: B = − C \boldsymbol{B=-C} B = − C 일 때
+이 경우는 G = G ∗ G=G^{\ast} G = G ∗ 이므로 k cot ⁡ ( k a ) = − κ k\cot{(ka)}=-\kappa k cot ( k a ) = − κ 를 함께 이용하여 계산하면 기함수로 구성된 다음의 고유함수를 얻는다.
+
+φ 1 ( x ) = − 2 i B e κ ( x + a ) sin ⁡ ( k a ) φ 2 ( x ) = 2 i B sin ⁡ ( k x ) φ 3 ( x ) = 2 i B e − κ ( x − a ) sin ⁡ ( k a ) \displaystyle \begin{aligned} \varphi_{1}(x)&=-2iBe^{\kappa(x+a)}\sin{(ka)} \\ \varphi_{2}(x)&=2iB\sin{(kx)} \\ \varphi_{3}(x)&=2iBe^{-\kappa(x-a)}\sin{(ka)} \end{aligned} φ 1 ​ ( x ) φ 2 ​ ( x ) φ 3 ​ ( x ) ​ = − 2 i B e κ ( x + a ) sin ( k a ) = 2 i B sin ( k x ) = 2 i B e − κ ( x − a ) sin ( k a ) ​
+따라서 이러한 고유 상태를 기 고유상태 라 하며, odd parity 를 갖는다고 한다.
+
+(ⅱ) 음의 조건: B = C \boldsymbol{B=C} B = C 일 때
+이 경우는 G = − G ∗ G=-G^{\ast} G = − G ∗ 이므로 k tan ⁡ ( k a ) = κ k\tan{(ka)}=\kappa k tan ( k a ) = κ 를 함께 이용하여 계산하면 우함수로 구성된 다음의 고유함수를 얻는다.
+
+φ 1 ( x ) = 2 B e κ ( x + a ) cos ⁡ ( k a ) φ 2 ( x ) = 2 B cos ⁡ ( k x ) φ 3 ( x ) = 2 B e − κ ( x − a ) cos ⁡ ( k a ) \displaystyle \begin{aligned} \varphi_{1}(x)&=2Be^{\kappa(x+a)}\cos{(ka)} \\ \varphi_{2}(x)&=2B\cos{(kx)} \\ \varphi_{3}(x)&=2Be^{-\kappa(x-a)}\cos{(ka)} \end{aligned} φ 1 ​ ( x ) φ 2 ​ ( x ) φ 3 ​ ( x ) ​ = 2 B e κ ( x + a ) cos ( k a ) = 2 B cos ( k x ) = 2 B e − κ ( x − a ) cos ( k a ) ​
+따라서 이러한 고유 상태를 우 고유상태 라 하며, even parity 를 갖는다고 한다.
+
+위의 상수 B B B 에 대해 속박 상태를 다루고 있으므로 파동함수는 규격화 가능하고,
+
+∫ − ∞ ∞ ∣ φ ∣ 2 d x = 1 \displaystyle \int_{-\infty}^{\infty} | \varphi |^{2}\,dx=1 ∫ − ∞ ∞ ​ ∣ φ ∣ 2 d x = 1
+의 조건을 도입하면, 결정할 수 있음을 일러둔다. 구체적인 값을 구하는 것은 생략한다.
+
+각 상태의 고유함수를 얻었으므로 계의 에너지와 퍼텐셜의 관계를 고려하자.
+
+κ 2 + k 2 = 2 m ∣ V ∣ ℏ 2 \displaystyle \kappa^{2}+k^{2}=\frac{2m |V|}{\hbar^{2}} κ 2 + k 2 = ℏ 2 2 m ∣ V ∣ ​
+이므로, 무차원 변수 k a : = ξ , κ a : = η ka := \xi, \, \kappa a := \eta k a := ξ , κa := η 를 도입하고, 위 식의 양변에 a 2 a^{2} a 2 을 곱하면,
+
+ξ 2 + η 2 = 2 m a 2 ∣ V ∣ ℏ 2 : = ρ 2 \displaystyle \xi^{2}+\eta^{2}=\frac{2ma^{2} |V|}{\hbar^{2}} := \rho^{2} ξ 2 + η 2 = ℏ 2 2 m a 2 ∣ V ∣ ​ := ρ 2
+으로 쓸 수 있다. 위 식은 ξ - η \xi \, \text{-} \, \eta ξ - η 평면상에서 반지름이 ρ \rho ρ 인 원을 나타낸다.
+
+또한, 기 고유상태와, 우 고유상태에 대해
+
+( odd ) k cot ⁡ ( k a ) = − κ ( even ) k tan ⁡ ( k a ) = κ \displaystyle \begin{aligned} (\text{odd}) & \quad k\cot{(ka)}=-\kappa \\ (\text{even}) & \quad k\tan{(ka)}=\kappa \end{aligned} ( odd ) ( even ) ​ k cot ( k a ) = − κ k tan ( k a ) = κ ​
+의 조건을 얻었고, 위 식 또한, 양변에 a a a 를 곱함으로써
+
+( odd ) η = − ξ cot ⁡ ξ ( even ) η = ξ tan ⁡ ξ \displaystyle \begin{aligned} (\text{odd}) & \quad \eta = -\xi \cot{\xi} \\ (\text{even}) & \quad \eta = \xi \tan{\xi} \end{aligned} ( odd ) ( even ) ​ η = − ξ cot ξ η = ξ tan ξ ​
+로 쓸 수 있다. ξ - η \xi \, \text{-} \, \eta ξ - η 평면상에서 η \eta η 는 ξ \xi ξ 의 함수가 된다.
+
+다만, k , κ , a k,\,\kappa, \,a k , κ , a 모두 양수 영역에 있다는 것에 유의해야 한다. 즉, 1사분면만 생각하여야 한다는 것이다. 따라서 아래의 식들의 교점은 유한 퍼텐셜 우물에 속박이 허용된 η , ξ \eta,\,\xi η , ξ 이다.
+
+{ ξ 2 + η 2 = ρ 2 η = − ξ cot ⁡ ξ o r η = ξ tan ⁡ ξ \displaystyle \left\{ \begin{array}{l} \xi^{2}+\eta^{2}=\rho^{2}\\ \eta= -\xi \cot{\xi} \quad \mathrm{or} \quad \eta = \xi \tan{\xi} \end{array}\right. { ξ 2 + η 2 = ρ 2 η = − ξ cot ξ or η = ξ tan ξ ​
+아래의 그림을 참조하자. [16]
+
+따라서 유한 퍼텐셜 우물에 속박이 허용된 입자의 에너지의 크기와 퍼텐셜 크기는 다음과 같이 구할 수 있다. [17]
+
+∣ E ∣ = η 2 ℏ 2 2 m a 2 ∣ V ∣ − ∣ E ∣ = ξ 2 ℏ 2 2 m a 2 \displaystyle \begin{aligned} | E |&=\frac{\eta^{2} \hbar^{2}}{2ma^{2}} \\ | V |-| E |&=\frac{\xi^{2} \hbar^{2}}{2ma^{2}} \end{aligned} ∣ E ∣ ∣ V ∣ − ∣ E ∣ ​ = 2 m a 2 η 2 ℏ 2 ​ = 2 m a 2 ξ 2 ℏ 2 ​ ​
+따라서 속박된 상태가 몇 개 존재할 수 있는지는 교점의 개수 [18] 로 파악할 수 있고, 위 그래프에서 원과 처음 만나는 상태는 우 고유상태이며, 이때 ξ \xi ξ 는 최댓값을 갖는다. 따라서 첫 번째 고유상태는 우 고유상태이며, 이때 입자의 에너지의 크기가 최댓값을 가짐을 이용하면, 입자의 에너지는 음수이므로 이때 최솟값을 갖는다. 이것이 유한 퍼텐셜 우물의 바닥 상태 이다. 그 이후로, 짝수 번째 상태는 기 고유상태, 홀수 번째 상태는 우 고유상태이다.
+
+또한, 맨 위의 무한 퍼텐셜 우물에 속박된 입자는 무한 개의 고유상태를 가질 수 있었던 것에 비해, 유한 퍼텐셜 우물의 경우 허용될 수 있는 η \eta η , ξ \xi ξ 는 제한적이기 때문에 제한된 수만큼의 고유상태를 갖는다. 물론, 퍼텐셜의 깊이가 매우 깊어질 경우 허용되는 상태의 수는 매우 많아지며, 퍼텐셜 깊이가 무한해지면, 이 결과는 무한 퍼텐셜 우물 문제의 결과를 따라간다는 것 또한 증명할 수 있다.
+
+첨자 n n n 은 위 유한 퍼텐셜 우물에 허용된 n n n 번째 상태를 의미한다. 한참 전에서 다뤘던 그래프에서 π ≤ ρ < 3 π / 2 \pi \leq \rho <3\pi/2 π ≤ ρ < 3 π /2 일 때는 우 고유상태 2개, 기 고유상태 1개가 허용됨을 이미 추측할 수 있었고, 결과도 그대로이다. 또한, 위에서 밝혔던 대로 바닥 상태( n = 1 n=1 n = 1 )는 우 고유상태에서 갖는다. 또한, 영역Ⅰ,Ⅲ 에서는 지수함수 형태가, 영역Ⅱ 에서는 진동하는 형태가 된다.
+
+가장 중요한 것은, 무한 퍼텐셜 우물 문제의 경우 우물 밖( ∣ x ∣ > a|x|>a ∣ x ∣ > a )의 파동함수는 없었지만 유한 퍼텐셜 우물은 지수함수가 존재한다는 점이다. 따라서 유한 퍼텐셜 우물에서는 우물 밖에서도 입자가 관측될 수 있다.
+
+이곳 에서 시뮬레이션 해볼 수 있다.
+
+7. 관련 문서 [편집]
+- 물리학 관련 정보
+- 양자역학
+
+[1] 강철판에 충돌 시 발생하는 운동에너지의 손실은 없다고 가정한다. 즉, 입자가 탄성 충돌하는 경우만 다룬다. [2] 일반물리학 수준에서는 이렇게만 알려주지만, 전공 과목을 듣게 되면, 이 방정식은 고윳값 방정식 H ^ φ = E φ \displaystyle \hat{\mathcal{H}}\varphi =E\varphi H ^ φ = E φ 임을 알게 된다. 따라서 아래에서 구한 파동함수는 이 고윳값 방정식의 고유함수(Eigenfunction)에 해당하며, 아래에서 구한 에너지는 고윳값(Eigenvalue)에 해당한다. 이에 관한 자세한 내용은 연산자 문서를 참고. [3] 특히 n = 2 n=2 n = 2 일 때 상자의 중간지점( x = L / 2 x=L/2 x = L /2 )에선 입자는 전혀 발견되지 않는다. [4] 이렇게 쓸 수 있는 이유는 해밀토니안 연산자와 운동량 연산자가 교환하기 때문이다. [5] 반각의 공식을 이용하여 적분하기 쉽게 만들었다. [6] P QM P_{\text{QM}} P QM ​ 와 P CM P_{\text{CM}} P CM ​ 의 차이는 ( cos ⁡ ( 2 π n x / L ) ) / L (\cos{(2 \pi nx / L)})/L ( cos ( 2 π n x / L ) ) / L 이다. 적분 구간의 길이는 b − a b-a b − a 인데, 코사인 함수는 한 주기(여기서는 L / n L/n L / n )만큼 적분하면 0이므로 반복되는 구간을 전부 제거하면, 적분 구간의 길이를 L / n L/n L / n 보다 짧게 줄일 수 있다. 코사인 함수는 1 이하의 값만 가지므로, 적분 값은 1 / n 1/n 1/ n 이하가 된다. [7] 즉, 입자가 − L / 2 < x < L / 2 -L/2<x<L/2 − L /2 < x < L /2 사이에서만 존재. [8] 심화하면, 사실상 디랙 표기법에 해당하는 연산은 함수의 내적 이다. [9] 해당 문제에 대해서만 국한된다. 일반적으로는 해밀토니안이 시간에 의존할 수 있다. [10] T ∗ ( t ) T ( t ) = 1 T^{\ast}(t)T(t)=1 T ∗ ( t ) T ( t ) = 1 [11] 계산이 매우 복잡하므로 생략한다. 이러한 복잡한 연립 방정식은 행렬로 푸는 게 낫다. [12] 실수부만 취하고, 조건은 임의대로 설정. [13] 조건은 임의대로 설정 [14] 바로 다루지만, k k k 는 파수라는 것에 유의해야 한다. 파수는 음수가 될 수 없다. [15] 물론, 이 문서에서 다루는 1차원 장벽 모델로는 부족하며, 3차원 장벽 모델을 써야 다소 근접한 결과가 나온다. [16] 즉, 푸른 그래프가 우 고유상태일 때이며, 적색 그래프가 기 고유상태일 때이다. [17] 실제 퍼텐셜과 입자의 에너지는 음수임에 유의하자. [18] 최솟값은 0 ≤ ρ < π / 2 0 \leq \rho < \pi/2 0 ≤ ρ < π /2 일 때 1개이다. 이 문서의 내용 중 전체 또는 일부는 상자 속 입자 문서의 r88 판에서 가져왔습니다. 이전 역사 보러 가기
+[ 인천남동구,서울365치과의원
+seoul365dental.com v-if
+박준규 대표원장, 인천 남동구 예술로 138 212~214호
+
+] | [ 남동구치과 다비안치과의원
+www.dabien.co.kr v-if
+인천논현역100m, 세심한진료, 철저한 사후관리, 임플란트, 교정, 충치, 잇몸
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

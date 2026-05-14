@@ -1,0 +1,252 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 도함수표
+최근 수정 시각: 2025-04-09 15:44:31 [ [ [ ] [ [ 7 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 미적분
+- 공식
+]
+
+[ [ ] [ 관련 문서: 역도함수표 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 기본 2.1 . 선형성(linearity) 2.2 . 곱미분 2.3 . 몫미분 2.4 . 합성함수 2.5 . 역함수 2.6 . 정적분으로 정의된 함수 3 . 초등함수 3.1 . 다항함수 3.2 . 거듭제곱근 함수 3.3 . 지수함수 3.3.1 . 루트 3.3.2 . 허수지수함수 3.4 . 삼각함수 3.4.1 . 싱크 함수 3.5 . 역삼각함수 3.6 . 쌍곡선 함수 3.7 . 역쌍곡선 함수 3.8 . 로그함수 4 . 특수함수 4.1 . 오차함수 4.2 . 지수 적분 함수 4.3 . 로그 적분 함수 4.4 . 삼각 적분 함수 4.5 . 쌍곡선 적분 함수 4.6 . 프레넬 적분 함수 4.7 . 구데르만 함수 4.8 . 타원 적분 함수 4.9 . 브링 근호 4.10 . 폴리로그함수 4.11 . 제타 함수 4.12 . 감마 함수 4.12.1 . 로그 감마 함수 4.13 . 람베르트 W 함수 4.14 . 부호 함수 ・ 헤비사이드 계단 함수 5 . 음함수 5.1 . 원 5.2 . 타원곡선 6 . 기타 7 . 관련 문서
+
+1. 개요 [편집]
+여러 함수 의 도함수 를 수록한 문서이다. 미분 한 결과만을 정리한 문서이므로 유도 과정은 각 함수에 관한 문서를 참고하자.
+
+2. 기본 [편집]
+
+2.1. 선형성(linearity) [1] [편집]
+단, α \alpha α , β \beta β 는 상수이다. - { α f ( x ) + β g ( x ) } ′ = α f ′ ( x ) + β g ′ ( x ) \left\{ \alpha f( x)+ \beta g(x) \right\}'=\alpha f'(x) +\beta g'( x ) { α f ( x ) + β g ( x ) } ′ = α f ′ ( x ) + β g ′ ( x )
+
+2.2. 곱미분 [편집]
+- { f ( x ) g ( x ) } ′ = f ′ ( x ) g ( x ) + f ( x ) g ′ ( x ) \{f(x)g(x)\}'=f'(x)g(x)+f(x)g'(x) { f ( x ) g ( x ) } ′ = f ′ ( x ) g ( x ) + f ( x ) g ′ ( x )
+- { f ( x ) g ( x ) h ( x ) } ′ = f ′ ( x ) g ( x ) h ( x ) + f ( x ) g ′ ( x ) h ( x ) + f ( x ) g ( x ) h ′ ( x ) \{f(x)g(x)h(x)\}'=f'(x)g(x)h(x)+f(x)g'(x)h(x)+f(x)g(x)h'(x) { f ( x ) g ( x ) h ( x ) } ′ = f ′ ( x ) g ( x ) h ( x ) + f ( x ) g ′ ( x ) h ( x ) + f ( x ) g ( x ) h ′ ( x ) ⋮ \vdots ⋮
+
+2.3. 몫미분 [편집]
+- { f ( x ) g ( x ) } ′ = f ′ ( x ) g ( x ) − f ( x ) g ′ ( x ) [ g ( x ) ] 2 \left\{\dfrac{f(x)}{g(x)}\right\}'=\dfrac{f'(x)g(x)-f(x)g'(x)}{[g(x) ]^{2}} \; { g ( x ) f ( x ) ​ } ′ = [ g ( x ) ] 2 f ′ ( x ) g ( x ) − f ( x ) g ′ ( x ) ​
+
+2.4. 합성함수 [편집]
+자세한 내용은 연쇄 법칙 문서를 참고하십시오. - { ( f ∘ g ) ( x ) } ′ = ( f ′ ∘ g ) ( x ) g ′ ( x ) \{(f\circ g)(x)\}'=(f' \circ g)(x)\,g'(x) {( f ∘ g ) ( x ) } ′ = ( f ′ ∘ g ) ( x ) g ′ ( x )
+
+2.5. 역함수 [편집]
+자세한 내용은 역함수 정리 문서를 참고하십시오. - { f − 1 ( x ) } ′ = 1 ( f ′ ∘ f − 1 ) ( x ) \{f^{-1}(x)\}'=\dfrac{1}{(f' \circ f^{-1})(x)} { f − 1 ( x ) } ′ = ( f ′ ∘ f − 1 ) ( x ) 1 ​
+
+2.6. 정적분으로 정의된 함수 [편집]
+자세한 내용은 미적분의 기본정리 문서의 3 번 문단을 참고하십시오. - d d x ∫ a x f ( t ) d t = f ( x ) \displaystyle \frac{\mathrm{d}}{\mathrm{d}x} \int_a^xf(t)\,\mathrm{d}t = f(x) d x d ​ ∫ a x ​ f ( t ) d t = f ( x )
+- d d x ∫ x a f ( t ) d t = − f ( x ) \displaystyle \frac{\mathrm{d}}{\mathrm{d}x} \int_x^af(t)\,\mathrm{d}t = -f(x) d x d ​ ∫ x a ​ f ( t ) d t = − f ( x )
+- d d x ∫ a h ( x ) f ( t ) d t = ( f ∘ h ) ( x ) ⋅ h ′ ( x ) \displaystyle \frac{\mathrm{d}}{\mathrm{d}x} \int_a^{h(x)}f(t)\,\mathrm{d}t = (f\circ h)(x)\cdot h'(x) d x d ​ ∫ a h ( x ) ​ f ( t ) d t = ( f ∘ h ) ( x ) ⋅ h ′ ( x )
+- d d x ∫ g ( x ) a f ( t ) d t = − ( f ∘ g ) ( x ) ⋅ g ′ ( x ) \displaystyle \frac{\mathrm{d}}{\mathrm{d}x} \int_{g(x)}^af(t)\,\mathrm{d}t = -(f\circ g)(x)\cdot g'(x) d x d ​ ∫ g ( x ) a ​ f ( t ) d t = − ( f ∘ g ) ( x ) ⋅ g ′ ( x )
+- d d x ∫ g ( x ) h ( x ) f ( t ) d t = ( f ∘ h ) ( x ) ⋅ h ′ ( x ) − ( f ∘ g ) ( x ) ⋅ g ′ ( x ) \displaystyle \frac{\mathrm{d}}{\mathrm{d}x} \int_{g(x)}^{h(x)}f(t)\,\mathrm{d}t = (f\circ h)(x)\cdot h'(x)-(f\circ g)(x)\cdot g'(x) d x d ​ ∫ g ( x ) h ( x ) ​ f ( t ) d t = ( f ∘ h ) ( x ) ⋅ h ′ ( x ) − ( f ∘ g ) ( x ) ⋅ g ′ ( x )
+- d d x ∫ a b f ( x , t ) d t = ∫ a b ∂ ∂ x f ( x , t ) d t \displaystyle \frac{\mathrm{d}}{\mathrm{d}x} \int_a^bf(x,\,t)\,\mathrm{d}t = \int_a^b \frac{\partial}{\partial x}f(x,\,t)\,\mathrm{d}t d x d ​ ∫ a b ​ f ( x , t ) d t = ∫ a b ​ ∂ x ∂ ​ f ( x , t ) d t
+- d d x ∫ g ( x ) h ( x ) f ( x , t ) d t = f ( x , h ( x ) ) ⋅ h ′ ( x ) − f ( x , g ( x ) ) ⋅ g ′ ( x ) + ∫ g ( x ) h ( x ) ∂ ∂ x f ( x , t ) d t \displaystyle \frac{\mathrm{d}}{\mathrm{d}x} \int_{g(x)}^{h(x)}f(x,\,t)\,\mathrm{d}t = f(x,\,h(x))\cdot h'(x) - f(x,\,g(x))\cdot g'(x) + \int_{g(x)}^{h(x)}\frac{\partial}{\partial x}f(x,\,t)\,\mathrm{d}t d x d ​ ∫ g ( x ) h ( x ) ​ f ( x , t ) d t = f ( x , h ( x )) ⋅ h ′ ( x ) − f ( x , g ( x )) ⋅ g ′ ( x ) + ∫ g ( x ) h ( x ) ​ ∂ x ∂ ​ f ( x , t ) d t
+
+3. 초등함수 [편집]
+
+3.1. 다항함수 [편집]
+- ( a x n ) ′ = a n x n − 1 (ax^n)'=anx^{n-1} ( a x n ) ′ = an x n − 1 (단, n ≠ 0 n \neq 0 n  = 0 인 상수)
+- 특히, n = 0 n=0 n = 0 이면 - a x 0 = a → a ′ = 0 ax^0=a \; \to \; a'=0 a x 0 = a → a ′ = 0 ( 상수함수 )
+
+3.2. 거듭제곱근 함수 [편집]
+- ( x n ) ′ = x n n x (\sqrt[n]{x})' = \dfrac{\sqrt[n]{x}}{nx} ( n x ​ ) ′ = n x n x ​ ​ (단, n ≠ 0 n \neq 0 n  = 0 인 상수)
+
+3.3. 지수함수 [편집]
+- ( a f ( x ) ) ′ = a f ( x ) f ′ ( x ) ⋅ l n a (a^{f(x)})'=a^{f(x)}f'(x)\cdot{\rm ln}\,a ( a f ( x ) ) ′ = a f ( x ) f ′ ( x ) ⋅ ln a (단, a a a 는 상수) - 특별히, a = a= a = e e e 이면 - ( e f ( x ) ) ′ = e f ( x ) f ′ ( x ) ⋅ l n e = e f ( x ) f ′ ( x ) (e^{f(x)})'=e^{f(x)}f'(x)\cdot{\rm ln}\,e=e^{f(x)}f'(x) ( e f ( x ) ) ′ = e f ( x ) f ′ ( x ) ⋅ ln e = e f ( x ) f ′ ( x )
+- 특별히, f ( x ) = x f(x)=x f ( x ) = x 이면 - ( a x ) ′ = a x ⋅ l n a (a^x)'=a^x\cdot{\rm ln}\,a ( a x ) ′ = a x ⋅ ln a
+- 특별히, a = a= a = e e e 이고 f ( x ) = x f(x)=x f ( x ) = x 이면 - ( e x ) ′ = e x ⋅ l n e = e x (e^x)'=e^x\cdot {\rm ln}\,e=e^x ( e x ) ′ = e x ⋅ ln e = e x
+
+3.3.1. 루트 [편집]
+x = x 1 2 \sqrt{x} = x^{\frac{1}{2} } x ​ = x 2 1 ​ 이고
+d ( x n ) = n x n − 1 d \left( x^n \right) = n x^{n-1 } d ( x n ) = n x n − 1 이므로
+d ( x ) = d ( x 1 2 ) d \left( \sqrt{x} \right) = d \left( x^{\frac{1}{2} } \right) d ( x ​ ) = d ( x 2 1 ​ )
+= 1 2 x 1 2 − 1 = \dfrac{1}{2} x^{\frac{1}{2} -1 } = 2 1 ​ x 2 1 ​ − 1
+= 1 2 x − 1 2 = \frac{1}{2} x^{- \frac{1}{2} } = 2 1 ​ x − 2 1 ​
+또는
+= 1 2 ( 1 x ) = \frac{1}{2} \left( { \frac{1}{\sqrt{x}} } \right) = 2 1 ​ ( x ​ 1 ​ )
+= 1 2 x = { \frac{1}{2\sqrt{x}} } = 2 x ​ 1 ​
+
+3.3.2. 허수지수함수 [편집]
+- [ cis ⁡ ( z ) ] ′ = i cis ⁡ ( z ) [ \operatorname{cis}(z) ]' = i \operatorname{cis}(z) [ cis ( z ) ] ′ = i cis ( z )
+- [ cis ⁡ ‾ ( z ) ] ′ = − i cis ⁡ ‾ ( z ) [ \overline{\operatorname{cis}}(z) ]' = -i\,\overline{\operatorname{cis}}(z) [ cis ( z ) ] ′ = − i cis ( z )
+
+3.4. 삼각함수 [편집]
+자세한 내용은 삼각함수/도함수 문서를 참고하십시오. - ( s i n x ) ′ = c o s x ({\rm sin}\,x)'={\rm cos}\,x ( sin x ) ′ = cos x
+- ( c o s x ) ′ = − s i n x ({\rm cos}\,x)'=-{\rm sin}\,x ( cos x ) ′ = − sin x
+- ( t a n x ) ′ = s e c 2 x ({\rm tan}\,x)'={\rm sec}^2\,x ( tan x ) ′ = sec 2 x
+- ( c o t x ) ′ = − c s c 2 x ({\rm cot}\,x)'=-{\rm csc^2}\,x ( cot x ) ′ = − cs c 2 x
+- ( s e c x ) ′ = s e c x t a n x ({\rm sec}\,x)'={\rm sec}\,x{\rm tan}\,x ( sec x ) ′ = sec x tan x
+- ( c s c x ) ′ = − c s c x c o t x ({\rm csc}\,x)'=-{\rm csc}\,x{\rm cot}\,x ( csc x ) ′ = − csc x cot x
+
+3.4.1. 싱크 함수 [편집]
+- ( s i n c x ) ′ = x cos ⁡ x − sin ⁡ x x 2 ({\rm sinc}\,x)'= \dfrac{x \cos x - \sin x}{x^2} ( sinc x ) ′ = x 2 x cos x − sin x ​
+
+3.5. 역삼각함수 [편집]
+- ( arcsin ⁡ x ) ′ = 1 1 − x 2 (\arcsin x)' = \dfrac1{\sqrt{1-x^2}} ( arcsin x ) ′ = 1 − x 2 ​ 1 ​
+- ( arccos ⁡ x ) ′ = − 1 1 − x 2 (\arccos x)' = -\dfrac1{\sqrt{1-x^2}} ( arccos x ) ′ = − 1 − x 2 ​ 1 ​
+- ( arctan ⁡ x ) ′ = 1 1 + x 2 (\arctan x)' = \dfrac1{1+x^2} ( arctan x ) ′ = 1 + x 2 1 ​
+- ( a r c s e c x ) ′ = 1 ∣ x ∣ x 2 − 1 (\mathrm{arcsec}\,x)' = \dfrac1{\left|x\right|\sqrt{x^2-1}} ( arcsec x ) ′ = ∣ x ∣ x 2 − 1 ​ 1 ​
+- ( a r c c s c x ) ′ = − 1 ∣ x ∣ x 2 − 1 (\mathrm{arccsc}\,x)' = -\dfrac1{\left|x\right|\sqrt{x^2-1}} ( arccsc x ) ′ = − ∣ x ∣ x 2 − 1 ​ 1 ​
+- ( a r c c o t x ) ′ = − 1 1 + x 2 (\mathrm{arccot}\,x)' = -\dfrac1{1+x^2} ( arccot x ) ′ = − 1 + x 2 1 ​
+
+3.6. 쌍곡선 함수 [편집]
+- ( s i n h x ) ′ = c o s h x ({\rm sinh}\,x)'={\rm cosh}\,x ( sinh x ) ′ = cosh x
+- ( c o s h x ) ′ = s i n h x ({\rm cosh}\,x)'={\rm sinh}\,x ( cosh x ) ′ = sinh x
+- ( t a n h x ) ′ = s e c h 2 x ({\rm tanh}\,x)'={\rm sech}^2\,x ( tanh x ) ′ = sech 2 x
+- ( c o t h x ) ′ = − c s c h 2 x ({\rm coth}\,x)'=-{\rm csch}^2\,x ( coth x ) ′ = − csch 2 x
+- ( s e c h x ) ′ = − s e c h x t a n h x ({\rm sech}\,x)'=-{\rm sech}\,x{\rm tanh}\,x ( sech x ) ′ = − sech x tanh x
+- ( c s c h x ) ′ = − c s c h x c o t h x ({\rm csch}\,x)'=-{\rm csch}\,x{\rm coth}\,x ( csch x ) ′ = − csch x coth x
+
+3.7. 역쌍곡선 함수 [편집]
+- ( a r s i n h x ) ′ = 1 x 2 + 1 (\mathrm{arsinh}\,x)' = \dfrac1{\sqrt{x^2+1}} ( arsinh x ) ′ = x 2 + 1 ​ 1 ​
+- ( a r c o s h x ) ′ = 1 x 2 − 1 ( x > 1 ) (\mathrm{arcosh}\,x)' = \dfrac1{\sqrt{x^2-1}} \quad (x>1) ( arcosh x ) ′ = x 2 − 1 ​ 1 ​ ( x > 1 )
+- ( a r t a n h x ) ′ = 1 1 − x 2 ( ∣ x ∣ < 1 ) (\mathrm{artanh}\,x)' = \dfrac1{1-x^2} \quad (|x|<1) ( artanh x ) ′ = 1 − x 2 1 ​ ( ∣ x ∣ < 1 )
+- ( a r c o t h x ) ′ = 1 1 − x 2 ( ∣ x ∣ > 1 ) (\mathrm{arcoth}\,x)' = \dfrac1{1-x^2} \quad (|x|>1) ( arcoth x ) ′ = 1 − x 2 1 ​ ( ∣ x ∣ > 1 )
+- ( a r s e c h x ) ′ = − 1 x 1 − x 2 ( 0 < x < 1 ) (\mathrm{arsech}\,x)' = -\dfrac1{x\sqrt{1-x^2}} \quad (0<x<1) ( arsech x ) ′ = − x 1 − x 2 ​ 1 ​ ( 0 < x < 1 )
+- ( a r c s c h x ) ′ = − 1 ∣ x ∣ 1 + x 2 ( x ≠ 0 ) (\mathrm{arcsch}\,x)' = -\dfrac1{|x|\sqrt{1+x^2}} \quad (x\ne0) ( arcsch x ) ′ = − ∣ x ∣ 1 + x 2 ​ 1 ​ ( x  = 0 )
+
+3.8. 로그함수 [편집]
+- ( ln ⁡ x ) ′ = 1 x ( x > 0 ) (\ln x)' = \dfrac{1}{x} \; (x > 0) ( ln x ) ′ = x 1 ​ ( x > 0 ) - ( L o g z ) ′ = 1 z ( z ≠ 0 ) ({\rm Log}\,z)' = \dfrac{1}{z} \; (z \neq 0) ( Log z ) ′ = z 1 ​ ( z  = 0 )
+- ( log ⁡ a x ) ′ = 1 x ln ⁡ a ( x > 0 ) (\log_a x)' = \dfrac{1}{x \ln a} \; (x > 0) ( lo g a ​ x ) ′ = x ln a 1 ​ ( x > 0 )
+
+4. 특수함수 [편집]
+
+4.1. 오차함수 [편집]
+- [ e r f ( x ) ] ′ = 2 e − x 2 π [{\rm erf}(x) ]' = \dfrac{2e^{-x^2}}{\sqrt{\pi}} [ erf ( x ) ] ′ = π ​ 2 e − x 2 ​
+- [ e r f c ( x ) ] ′ = − 2 e − x 2 π [{\rm erfc}(x) ]' = -\dfrac{2e^{-x^2}}{\sqrt{\pi}} [ erfc ( x ) ] ′ = − π ​ 2 e − x 2 ​
+- [ e r f i ( x ) ] ′ = 2 e x 2 π [{\rm erfi}(x) ]' = \dfrac{2e^{x^2}}{\sqrt{\pi}} [ erfi ( x ) ] ′ = π ​ 2 e x 2 ​
+
+4.2. 지수 적분 함수 [편집]
+- [ E i ( x ) ] ′ = e x x [{\rm Ei}(x) ]' = \dfrac{e^x}{x} [ Ei ( x ) ] ′ = x e x ​
+
+4.3. 로그 적분 함수 [편집]
+- [ l i ( x ) ] ′ = 1 ln ⁡ x [{\rm li}(x) ]' = \dfrac{1}{\ln x} [ li ( x ) ] ′ = ln x 1 ​
+
+4.4. 삼각 적분 함수 [편집]
+- [ S i ( x ) ] ′ = sin ⁡ x x [{\rm Si}(x) ]' = \dfrac{\sin x}{x} [ Si ( x ) ] ′ = x sin x ​
+- [ C i ( x ) ] ′ = cos ⁡ x x [{\rm Ci}(x) ]' = \dfrac{\cos x}{x} [ Ci ( x ) ] ′ = x cos x ​
+
+4.5. 쌍곡선 적분 함수 [편집]
+- [ S h i ( x ) ] ′ = sinh ⁡ x x [{\rm Shi}(x) ]' = \dfrac{\sinh x}{x} [ Shi ( x ) ] ′ = x sinh x ​
+- [ C h i ( x ) ] ′ = cosh ⁡ x x [{\rm Chi}(x) ]' = \dfrac{\cosh x}{x} [ Chi ( x ) ] ′ = x cosh x ​
+
+4.6. 프레넬 적분 함수 [편집]
+- [ S ( x ) ] ′ = sin ⁡ ⁣ ( π x 2 2 ) o r sin ⁡ x 2 [S(x) ]' = \sin{ \!\left( \dfrac{\pi x^2}{2} \right) \, {\sf or} \; \sin x^2} [ S ( x ) ] ′ = sin ( 2 π x 2 ​ ) or sin x 2
+- [ C ( x ) ] ′ = cos ⁡ ⁣ ( π x 2 2 ) o r cos ⁡ x 2 [C(x) ]' = \cos{ \!\left( \dfrac{\pi x^2}{2} \right) \, {\sf or} \; \cos x^2} [ C ( x ) ] ′ = cos ( 2 π x 2 ​ ) or cos x 2
+
+4.7. 구데르만 함수 [편집]
+- [ g d ( x ) ] ′ = s e c h x [{\rm gd}(x) ]' = {\rm sech}\,x [ gd ( x ) ] ′ = sech x
+- [ i g d ( x ) ] ′ = sec ⁡ x [{\rm igd}(x) ]' = \sec x [ igd ( x ) ] ′ = sec x
+
+4.8. 타원 적분 함수 [편집]
+- [ K ( x , k ) ] ′ = 1 1 − k 2 1 − k 2 x 2 ( 0 ≤ k ≤ 1 ) \displaystyle [K(x,\,k) ]' = \frac{1}{\sqrt{1-k^{2}}\sqrt{1-k^{2}x^{2} }} \quad (0 \leq k \leq 1) [ K ( x , k ) ] ′ = 1 − k 2 ​ 1 − k 2 x 2 ​ 1 ​ ( 0 ≤ k ≤ 1 )
+- [ E ( x , k ) ] ′ = 1 − k 2 x 2 1 − x 2 ( 0 ≤ k ≤ 1 ) \displaystyle [E(x,\,k) ]' = \frac{\sqrt{1-k^{2}x^{2} }}{\sqrt{1-x^{2} }} \quad (0 \leq k \leq 1) [ E ( x , k ) ] ′ = 1 − x 2 ​ 1 − k 2 x 2 ​ ​ ( 0 ≤ k ≤ 1 )
+
+4.9. 브링 근호 [편집]
+- [ B R ( x ) ] ′ = − 1 5 [ B R ( x ) ] 4 + 1 [\mathrm{BR}(x) ]' = -\dfrac{1}{5[ \mathrm{BR}(x) ]^4+1} [ BR ( x ) ] ′ = − 5 [ BR ( x ) ] 4 + 1 1 ​
+
+4.10. 폴리로그함수 [편집]
+- [ L i s ( x ) ] ′ = L i s − 1 ( x ) x [\mathrm{Li}_s(x) ]' = \dfrac{\mathrm{Li}_{s-1}(x)}{x} [ Li s ​ ( x ) ] ′ = x Li s − 1 ​ ( x ) ​
+
+4.11. 제타 함수 [편집]
+닫힌 형식으로 표현할 수 없고 급수 의 꼴로만 나타낼 수 있다. - ζ ′ ( s ) = − ∑ k = 2 ∞ k − s ln ⁡ k \zeta'(s) = \displaystyle - \sum^{\infty}_{k=2} k^{-s} \ln k ζ ′ ( s ) = − k = 2 ∑ ∞ ​ k − s ln k
+
+4.12. 감마 함수 [편집]
+특이하게도 아래와 같이 도함수가 재귀적으로 정의된다. 여기서 ψ ( z ) \psi(z) ψ ( z ) 는 디감마 함수 다. - Γ ′ ( z ) = Γ ( z ) ψ ( z ) = Γ ( z ) [ L o g Γ ( z ) ] ′ \Gamma'(z) = \Gamma(z) \psi(z) = \Gamma(z) [ {\rm Log}\,\Gamma(z) ]' Γ ′ ( z ) = Γ ( z ) ψ ( z ) = Γ ( z ) [ Log Γ ( z ) ] ′
+
+4.12.1. 로그 감마 함수 [편집]
+ψ ( z ) \psi(z) ψ ( z ) 는 디감마 함수 다. - [ L o g Γ ( z ) ] ′ = ψ ( z ) = Γ ′ ( z ) Γ ( z ) [{\rm Log}\,\Gamma(z) ]' =\psi(z) = \dfrac{\Gamma'(z)}{\Gamma(z)} [ Log Γ ( z ) ] ′ = ψ ( z ) = Γ ( z ) Γ ′ ( z ) ​
+
+4.13. 람베르트 W 함수 [편집]
+- W ′ ( x ) = 1 e W ( x ) + x W'(x) = \dfrac1{e^{W(x)}+x} W ′ ( x ) = e W ( x ) + x 1 ​
+
+4.14. 부호 함수 ・ 헤비사이드 계단 함수 [편집]
+아래 식에서 δ ( x ) \delta(x) δ ( x ) 는 디랙 델타 함수 이다. - [ s g n ( x ) ] ′ = 2 δ ( x ) [{\rm sgn}(x) ]' = 2 \delta(x) [ sgn ( x ) ] ′ = 2 δ ( x )
+- u ′ ( x ) = δ ( x ) u'(x)= \delta(x) u ′ ( x ) = δ ( x )
+
+5. 음함수 [편집]
+
+5.1. 원 [편집]
+- ( x − a ) 2 + ( y − b ) 2 = r 2 → d y d x = − x − a y − b (x-a)^2+(y-b)^2=r^2\;\rightarrow\;\dfrac{{\rm d}y}{{\rm d}x}=-\dfrac{x-a}{y-b} ( x − a ) 2 + ( y − b ) 2 = r 2 → d x d y ​ = − y − b x − a ​ ( a a a , b b b , r r r 은 상수)
+
+5.2. 타원곡선 [편집]
+- y 2 = x 3 + a x + b → d y d x = 3 x 2 + a 2 y y^2 = x^3 + ax + b\;\rightarrow\;\dfrac{\mathrm{d}y}{\mathrm{d}x} = \dfrac{3x^2 + a}{2y} y 2 = x 3 + a x + b → d x d y ​ = 2 y 3 x 2 + a ​ ( a a a , b b b 는 상수)
+
+6. 기타 [편집]
+- ( ∫ 0 x f ( t ) ( x − t ) d t ) ′ = ∫ 0 x f ( t ) d t \left(\displaystyle\int_0^xf(t)(x-t)\;{\rm d}t\right)'=\displaystyle\int_0^xf(t)\;{\rm d}t ( ∫ 0 x ​ f ( t ) ( x − t ) d t ) ′ = ∫ 0 x ​ f ( t ) d t
+- ∣ f ( x ) ∣ ′ = ( s g n ∘ f ) ( x ) f ′ ( x )|f(x)|' = ({\rm sgn} \circ f)(x)\,f'(x) ∣ f ( x ) ∣ ′ = ( sgn ∘ f ) ( x ) f ′ ( x )
+- ( x x ) ′ = x x ( 1 + l n x ) (x^x)'=x^x(1+{\rm ln}\,x) ( x x ) ′ = x x ( 1 + ln x )
+- y = x x x x . . . y=x^{x^{x^{x^{.^{.^.}} }} } y = x x x x . . . ⁣ ⁣ → d y d x = y 2 ( x − x y ln ⁡ x ) = [ W ( − Log ⁡ x ) ] 2 x Log ⁡ 2 x [ W ( − Log ⁡ x ) + 1 ] \!\!\rightarrow\; \dfrac{{\rm d}y}{{\rm d}x}=\dfrac{y^2}{(x-xy\ln{x})}=\dfrac{[W(-\operatorname{Log}{x}) ]^2}{ x \operatorname{Log}^{2}{x} [W(-\operatorname{Log}{x}) + 1 ] } → d x d y ​ = ( x − x y ln x ) y 2 ​ = x Log 2 x [ W ( − Log x ) + 1 ] [ W ( − Log x ) ] 2 ​
+( W ( x ) W(x) W ( x ) 는 람베르트 W 함수 )
+
+7. 관련 문서 [편집]
+- 역도함수표
+- 미분
+- 도함수 - 삼각함수/도함수
+
+[ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 확실한 지원금! 인터넷가입
+internetsignal.shop v-if
+[ [ 인터넷가입 ] [ 전국최대 ] [ 지원금받기 ] ]
+남동인터넷 비밀지원금지급 고객불만Zero 당일개통! 당일입금! 확실한 요금설계
+
+] | [ 남동인터넷 가입센터
+www.tv-road.co.kr v-if
+이달특가상품 디지털파격할인.결합상품, 와이파이공유기 제공, 설치비무료
+
+]
+
+[1] 어떤 연산자가 분배 법칙 및 상수배 성질을 만족시키는 경우 선형성이 있다고 하며, 이런 형태의 결합을 선형결합(linear combination)이라고 한다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

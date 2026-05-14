@@ -1,0 +1,144 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 뤼드베리 방정식
+최근 수정 시각: 2026-01-17 15:53:33 [ [ [ ] [ [ 4 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 물리학
+]
+
+[ [ ] [ 양자역학 Quantum Mechanics
+[ 펼치기 · 접기 ] 배경 | 흑체복사 · 이중슬릿 실험 · 광전효과 · 콤프턴 산란 · 보어의 원자 모형 · 물질파 · 데이비슨-저머 실험 · 불확정성 원리 · 슈테른-게를라흐 실험 · 프랑크-헤르츠 실험
+이론 체계 | 체계 플랑크 상수 ( 플랑크 단위계 ) · 공리 · 슈뢰딩거 방정식 · 파동함수 · 연산자 ( 해밀토니언 · 선운동량 · 각운동량 ) · 스핀 ( 스피너 ) · 파울리 배타 원리 해석 코펜하겐 해석 ( 보어-아인슈타인 논쟁 ) · 숨은 변수 이론 ( EPR 역설 · 벨의 부등식 · 광자 상자 ) · 다세계 해석 · 앙상블 해석 · 서울 해석 묘사 묘사 ( 슈뢰딩거 묘사 · 하이젠베르크 묘사 · 디랙 묘사) · 행렬역학
+연관 학문 | 천체물리학 ( 천문학 틀 · 우주론 · 양자블랙홀 · 중력 특이점 ) · 핵물리학 틀 ( 원자력 공학 틀 ) · 응집물질물리학 틀 · 컴퓨터 과학 틀 ( 양자컴퓨터 · 양자정보과학 ) · 통계역학 틀 · 양자화학 ( 물리화학 틀 ) · 입자물리학 ( 입자물리학 틀 )
+현상 · 응용 | 양자요동 · 양자 얽힘 · 양자 터널링 · 퍼텐셜 우물 · 양자 조화 진동자 · 오비탈 · 수소 원자 모형 · 쌓음 원리 · 훈트 규칙 · 섭동 ( 스핀 - 궤도 결합 · 제이만 효과 · 슈타르크 효과 · 헬만-파인만 정리 ) · 선택 규칙 · 변분 원리 · WKB 근사법 · 시간 결정 · 보스-아인슈타인 응집 · 솔리톤 · 카시미르 효과 · 아하로노프-봄 효과 · 블랙홀 정보 역설 · 양자점 · 하트리-포크 방법 · 밀도범함수 이론 · 준위 · 양자장론 ( 양자전기역학 · 양자색역학 ) · 뤼드베리 방정식 · 체렌코프 현상
+기타 | 군론 · 기본 입자 · 대칭성 · 비리얼 정리 · 리만 가설 · 매듭이론 · 밀도행렬 · 물질 · 방사선 ( 반감기 ) · 라플라스의 악마 · 슈뢰딩거의 고양이 ( 위그너의 친구 )
+문헌 | 교재 · 분류:물리학술지
+
+물리화학
+Physical Chemistry
+[ 펼치기 · 접기 ] 기본 정보 | 원소 ( 할로젠 · 금속 · 준금속 · 비활성 기체 · 동위원소 ) · 원자 ( 양성자 · 중성자 · 전자 ) · 분자 · 이온 ( 양이온 · 음이온 )
+물질 | 순물질 ( 동소체 · 화합물 ) · 혼합물 ( 균일 혼합물 · 불균일 혼합물 · 콜로이드 ) · 이성질체
+화학 반응 | 상 · 염 ( 앙금 ) · 작용기 · 가역성 · 화학 반응 속도론 ( 촉매 · 반감기 ) · 첨가 반응 · 제거 반응 · 치환 반응 · 산염기반응 · 산화환원반응 ( 산화수 ) · 고리형 협동반응 · 유기반응 · 클릭 화학
+화학양론 | 질량 · 부피 · 밀도 · 분자량 · 질량 보존 법칙 · 일정 성분비 법칙 · 배수 비례의 법칙
+열화학 법칙 | 엔트로피 · 엔탈피 · 깁스 자유 에너지 ( 화학 퍼텐셜 ) · 열출입( 흡열 반응 · 발열 반응 ) · 총열량 불변의 법칙 · 기체 법칙 · 화학 평형의 법칙 ( 르 샤틀리에의 원리 · 동적평형 )
+용액 | 용질 · 용매 · 농도 ( 퍼센트 농도 · 몰 농도 · 몰랄 농도 ) · 용해도 ( 용해도 규칙 · 포화 용액 ) · 증기압력 · 삼투 · 헨리의 법칙 · 전해질
+총괄성 | 증기압 내림 · 끓는점 오름 · 어는점 내림 · 라울 법칙 · 반트 호프의 법칙
+전기화학
+·
+양자화학 | 수소 원자 모형 · 하트리-포크 방법 · 밀도범함수 이론 · 유효 핵전하 · 전자 친화도 · 이온화 에너지 · 전기음성도 · 극성 · 무극성 · 휘켈 규칙 · 분자간력( 반 데르 발스 힘 ( 분산력 ) · 수소 결합 ) · 네른스트 식 · 준위
+전자 배치 | 양자수 · 오비탈 ( 분자 오비탈 · 혼성 오비탈 ) · 전자껍질 · 쌓음원리 · 훈트 규칙 · 파울리 배타 원리 · 원자가전자 · 최외각 전자 · 옥텟 규칙 · 우드워드-호프만 법칙 · 라디칼
+화학 결합 | 금속 결합 · 진틀상 · 이온 결합 · 공유 결합 ( 배위 결합 · 배위자 ) · 공명 구조
+분석화학 | 정성분석과 정량분석 · 분광학
+분석기법 | 적정 · 기기분석 ( 크로마토그래피 · NMR )
+틀:양자역학 · 틀:통계역학 · 틀:주기율표 · 틀:화학식 · 틀:화학의 분과 · 틀:산염기 · 화학 관련 정보
+
+1 . 개요 1.1 . 1890년의 뤼드베리 공식 2 . 뤼드베리 공식과 뤼드베리 상수 2.1 . 뤼드베리 상수값 계산 2.1.1 . 파장항 2.1.2 . 미세구조 항 2.1.3 . 뤼드베리 상수값 계산 3 . 뤼드베리-슈스터 규칙 4 . 관련문서
+
+1. 개요 [편집]
+Rydbergs formel / Rydberg 方 程 式
+
+스웨덴 의 물리학자 요한네스 뤼드베리 (Johannes Robert Rydberg,1854~1919)는 원소의 스펙트럼 계열 및 주기율을 연구하여 분광학을 개척할때 경험적으로 완성 및 사용한 1888년의 뤼드베리 공식(Rydberg formula)으로 유명하다. 1913년 닐스 보어 (Niels Bohr)가 뤼드베리 공식(뤼드베리 방정식)을 사용해서 원시적인 형태의 양자역학을 이론적으로 발전시킬때 다루는 기초로 언급하였다. 이 공식을 방정식으로 해서 일반화해 다루다 보면 수소 스펙트럼 계열의 파장을 계산하는데 사용할 수 있다. 뤼드베리 상수로도 잘 알려져 있는데 이는 크게 좀머펠트 미세구조항과 콤프턴 파장항으로 이루어져 있다. 기타 업적으로는 1876년에 뤼드베리(Rydberg)와 슈스터(Schuster, A.)가 제안한 뤼드베리-슈스터 규칙이 있다.
+
+1.1. 1890년의 뤼드베리 공식 [편집]
+n N 0 = 1 ( m 1 + μ 1 ) 2 − 1 ( m 2 + μ 2 ) 2 \dfrac{n}{N_0} = \dfrac{1}{(m_1+\mu_1)^2}-\dfrac{1}{(m_2+\mu_2)^2} N 0 ​ n ​ = ( m 1 ​ + μ 1 ​ ) 2 1 ​ − ( m 2 ​ + μ 2 ​ ) 2 1 ​ [1] [2]
+
+2. 뤼드베리 공식과 뤼드베리 상수 [편집]
+뤼드베리 상수는 물리학에서 수소와 알카리성 금속(Li,Na,K등)을 포함하는 금속원소들(Mg,Ca,Zn,Cd,Hg등)의 스펙트럼 계열식에서 보여지는 보편 상수이다.
+보어가 수소원자모델로 제안한 보어의 원자모형 (보어 모델)에서 전자 에너지 값
+E = 1 2 ( k q 1 q 2 r n ) E = \dfrac{1}{2} \left( k \dfrac{q_{1}q_{2} }{r_n} \right) E = 2 1 ​ ( k r n ​ q 1 ​ q 2 ​ ​ ) -(1)
+역시 보어가 수소원자모델로 제안한 보어 모델에서 전자의 궤도반지름(궤도 껍질,n)을 나타내는 보어반지름 ( r n ) (r_{n}) ( r n ​ )
+r n = ( n ℏ ) 2 k q 1 q 2 m e r_{n} = \dfrac{(n\hbar)^2}{kq_{1}q_{2} m_{e}} r n ​ = k q 1 ​ q 2 ​ m e ​ ( n ℏ ) 2 ​ -(2)
+(1)에 (2)를 대입하면
+E = 1 2 ( k q 1 q 2 ( n ℏ ) 2 k q 1 q 2 m e ) E = \dfrac{1}{2} \left( k \dfrac{q_{1}q_{2} }{\dfrac{(n\hbar)^2}{kq_{1}q_{2} m_{e}} } \right) E = 2 1 ​ ​ k k q 1 ​ q 2 ​ m e ​ ( n ℏ ) 2 ​ q 1 ​ q 2 ​ ​ ​
+E = 1 2 ( k q 1 q 2 k q 1 q 2 m e ( n ℏ ) 2 ) E = \dfrac{1}{2} \left( \dfrac{kq_{1}q_{2} kq_{1}q_{2} m_{e} }{(n\hbar)^2} \right) E = 2 1 ​ ( ( n ℏ ) 2 k q 1 ​ q 2 ​ k q 1 ​ q 2 ​ m e ​ ​ )
+E = 1 2 ( k q 1 q 2 n ℏ ) 2 m e E = \dfrac{1}{2} \left( k \dfrac{q_{1}q_{2}}{n\hbar}\right)^2 m_{e} E = 2 1 ​ ( k n ℏ q 1 ​ q 2 ​ ​ ) 2 m e ​
+E = 1 2 ( k q 1 q 2 n ℏ ) 2 m e c 2 c 2 E = \dfrac{1}{2} \left( k \dfrac{q_{1}q_{2}}{n\hbar}\right)^2 m_{e}\dfrac{c^2}{c^2} E = 2 1 ​ ( k n ℏ q 1 ​ q 2 ​ ​ ) 2 m e ​ c 2 c 2 ​
+E = 1 2 ( k q 1 q 2 c ℏ ) 2 m e c 2 n 2 E = \dfrac{1}{2} \left( k \dfrac{q_{1}q_{2}}{c\hbar}\right)^2 m_{e}\dfrac{c^2}{n^2} E = 2 1 ​ ( k c ℏ q 1 ​ q 2 ​ ​ ) 2 m e ​ n 2 c 2 ​
+E = 1 2 ( k q 1 q 2 c ℏ ) 2 m e c 2 n 2 E = \dfrac{1}{2} \left( k \dfrac{q_{1}q_{2}}{c\hbar}\right)^2 \dfrac{m_{e}c^2}{n^2} E = 2 1 ​ ( k c ℏ q 1 ​ q 2 ​ ​ ) 2 n 2 m e ​ c 2 ​ -(3)
+콤프턴 파장 (Compton wavelength) Δ λ = λ ′ − λ \Delta \lambda =\lambda '-\lambda Δ λ = λ ′ − λ 으로부터
+c h λ = E \dfrac{ch}{\lambda} = E λ c h ​ = E 이므로
+c h λ = E ′ − E \dfrac{ch}{\lambda} = E' - E λ c h ​ = E ′ − E - (4) 보어의 양자궤도 조건을 얻을수 있다.
+(3)을 (4)에 대입하면
+c h λ = ( 1 2 ( k q 1 q 2 c ℏ ) 2 m e c 2 n 2 ) ′ − ( 1 2 ( k q 1 q 2 c ℏ ) 2 m e c 2 n 2 ) \dfrac{ch}{\lambda} = \left(\dfrac{1}{2} \left( k \dfrac{q_{1}q_{2}}{c\hbar}\right)^2 \dfrac{m_{e}c^2}{n^2} \right)' - \left(\dfrac{1}{2} \left( k \dfrac{q_{1}q_{2}}{c\hbar}\right)^2 \dfrac{m_{e}c^2}{n^2} \right) λ c h ​ = ( 2 1 ​ ( k c ℏ q 1 ​ q 2 ​ ​ ) 2 n 2 m e ​ c 2 ​ ) ′ − ( 2 1 ​ ( k c ℏ q 1 ​ q 2 ​ ​ ) 2 n 2 m e ​ c 2 ​ )
+c h λ = ( 1 2 ( k q 1 q 2 c ℏ ) 2 m e c 2 ) ( 1 n ′ 2 − 1 n 2 ) \dfrac{ch}{\lambda} = \left(\dfrac{1}{2} \left( k \dfrac{q_{1}q_{2}}{c\hbar}\right)^2 {m_{e}c^2} \right) \left( \dfrac{1}{n'^{2}} - \dfrac{1}{n^2} \right) λ c h ​ = ( 2 1 ​ ( k c ℏ q 1 ​ q 2 ​ ​ ) 2 m e ​ c 2 ) ( n ′ 2 1 ​ − n 2 1 ​ )
+1 λ = ( 1 2 ( k q 1 q 2 c ℏ ) 2 m e c 2 ) c h ( 1 n 1 2 − 1 n 2 2 ) \dfrac{1}{\lambda} =\dfrac{\left(\dfrac{1}{2} \left( k \dfrac{q_{1}q_{2}}{c\hbar}\right)^2 {m_{e}c^2} \right)}{ch} \left( \dfrac{1}{n_{1}^{2}} - \dfrac{1}{n_{2}^2} \right) λ 1 ​ = c h ( 2 1 ​ ( k c ℏ q 1 ​ q 2 ​ ​ ) 2 m e ​ c 2 ) ​ ( n 1 2 ​ 1 ​ − n 2 2 ​ 1 ​ )
+1 λ = ( 1 2 ( k q 1 q 2 c ℏ ) 2 m e c 2 c h ) ( 1 n 1 2 − 1 n 2 2 ) \dfrac{1}{\lambda} =\left(\dfrac{1}{2} \left( k \dfrac{q_{1}q_{2}}{c\hbar}\right)^2 \dfrac{m_{e}c^2}{ch} \right)\left( \dfrac{1}{n_{1}^{2}} - \dfrac{1}{n_{2}^2} \right) λ 1 ​ = ( 2 1 ​ ( k c ℏ q 1 ​ q 2 ​ ​ ) 2 c h m e ​ c 2 ​ ) ( n 1 2 ​ 1 ​ − n 2 2 ​ 1 ​ )
+1 λ = ( 2 π 2 π 1 2 ( k q 1 q 2 c ℏ ) 2 m e c 2 c h ) ( 1 n 1 2 − 1 n 2 2 ) \dfrac{1}{\lambda} =\left(\dfrac{2\pi}{2\pi}\dfrac{1}{2} \left( k \dfrac{q_{1}q_{2}}{c\hbar}\right)^2 \dfrac{m_{e}c^2}{ch} \right)\left( \dfrac{1}{n_{1}^{2}} - \dfrac{1}{n_{2}^2} \right) λ 1 ​ = ( 2 π 2 π ​ 2 1 ​ ( k c ℏ q 1 ​ q 2 ​ ​ ) 2 c h m e ​ c 2 ​ ) ( n 1 2 ​ 1 ​ − n 2 2 ​ 1 ​ )
+1 λ = ( 1 2 π 2 ( k q 1 q 2 c ℏ ) 2 m e c 2 2 π c h ) ( 1 n 1 2 − 1 n 2 2 ) \dfrac{1}{\lambda} =\left(\dfrac{1}{2\pi2} \left( k \dfrac{q_{1}q_{2}}{c\hbar}\right)^2 \dfrac{m_{e}c^2 2\pi}{ch} \right)\left( \dfrac{1}{n_{1}^{2}} - \dfrac{1}{n_{2}^2} \right) λ 1 ​ = ( 2 π 2 1 ​ ( k c ℏ q 1 ​ q 2 ​ ​ ) 2 c h m e ​ c 2 2 π ​ ) ( n 1 2 ​ 1 ​ − n 2 2 ​ 1 ​ )
+1 λ = ( 1 4 π ( k q 1 q 2 c ℏ ) 2 m e c 2 c ℏ ) ( 1 n 1 2 − 1 n 2 2 ) \dfrac{1}{\lambda} =\left(\dfrac{1}{4\pi} \left( k \dfrac{q_{1}q_{2}}{c\hbar}\right)^2 \dfrac{m_{e}c^2 }{c\hbar} \right)\left( \dfrac{1}{n_{1}^{2}} - \dfrac{1}{n_{2}^2} \right) λ 1 ​ = ( 4 π 1 ​ ( k c ℏ q 1 ​ q 2 ​ ​ ) 2 c ℏ m e ​ c 2 ​ ) ( n 1 2 ​ 1 ​ − n 2 2 ​ 1 ​ )
+뤼드베리 공식(Rydberg formula,역파장함수) 1 λ = R ( 1 n 1 2 − 1 n 2 2 ) \dfrac{1}{\lambda} = R \left( \dfrac{1}{n_{1}^{2}} - \dfrac{1}{n_{2}^2} \right) λ 1 ​ = R ( n 1 2 ​ 1 ​ − n 2 2 ​ 1 ​ ) 을 얻을수 있다.
+따라서 뤼드베리 상수항(constant term) R = ( 1 4 π ( k q 1 q 2 c ℏ ) 2 m e c 2 c ℏ ) R = \left(\dfrac{1}{4\pi} \left( k \dfrac{q_{1}q_{2}}{c\hbar}\right)^2 \dfrac{m_{e}c^2 }{c\hbar} \right) R = ( 4 π 1 ​ ( k c ℏ q 1 ​ q 2 ​ ​ ) 2 c ℏ m e ​ c 2 ​ ) 을 조사할 수 있다.
+
+2.1. 뤼드베리 상수값 계산 [편집]
+뤼드베리 상수항(Rydberg constant term) R = ( 1 4 π ( k q 1 q 2 c ℏ ) 2 ( m e c 2 c ℏ ) ) R = \left(\dfrac{1}{4\pi} \left( k \dfrac{q_{1}q_{2}}{c\hbar}\right)^2 \left( \dfrac{m_{e}c^2 }{c\hbar} \right) \right) R = ( 4 π 1 ​ ( k c ℏ q 1 ​ q 2 ​ ​ ) 2 ( c ℏ m e ​ c 2 ​ ) )
+
+2.1.1. 파장항 [편집]
+파장항 ( m e c 2 c ℏ ) = 1 c ℏ m e c 2 = 1 W = 2.589605 × 10 12 m \left( \dfrac{m_{e}c^2 }{c\hbar} \right) = \dfrac{1}{\dfrac{c\hbar }{m_{e}c^2}} =\dfrac{1}{W}= 2.589605 \times 10^{12}m ( c ℏ m e ​ c 2 ​ ) = m e ​ c 2 c ℏ ​ 1 ​ = W 1 ​ = 2.589605 × 1 0 12 m
+환산 콤프턴 파장 ( W ) = c ℏ m e c 2 = 3.861592 × 10 − 13 m (W)= \dfrac{c\hbar }{m_{e}c^2} = 3.861592 \times 10^{-13}m ( W ) = m e ​ c 2 c ℏ ​ = 3.861592 × 1 0 − 13 m
+
+2.1.2. 미세구조 항 [편집]
+좀머펠트 미세구조상수 (Sommerfeld fine structure constant,기호는 α {\alpha} α )
+기본전하량 (elementary charge)의 제곱값을 플랑크-콤프턴 상수 ( ℏ c ) (\hbar c ) ( ℏ c ) 로 나눈 값
+e 2 ( 4 π ε 0 ) ℏ c = α = 7.297352 × 10 − 3 \dfrac{e^2}{(4\pi\varepsilon_0)\hbar c}= {\alpha} = 7.297352\times 10^{-3} ( 4 π ε 0 ​ ) ℏ c e 2 ​ = α = 7.297352 × 1 0 − 3
+진공의 유전율 (permittivity of free space, ε 0 {\varepsilon_0} ε 0 ​ )
+ε 0 = e 2 2 α c h = 1 c 2 μ 0 {\varepsilon_0} = \dfrac{e^2}{2\alpha c h} = \dfrac{1}{c^2\mu_0} ε 0 ​ = 2 α c h e 2 ​ = c 2 μ 0 ​ 1 ​ ,투자율 μ 0 = 1 4 π × 10 − 7 {\mu_0}=\dfrac{1}{4\pi\times 10^{-7}} μ 0 ​ = 4 π × 1 0 − 7 1 ​
+( k q 1 q 2 c ℏ ) 2 = ( e 2 4 π ε 0 1 ℏ c ) 2 \left( k \dfrac{q_{1}q_{2}}{c\hbar}\right)^2 = \left( \dfrac{e^2}{4\pi \varepsilon_0}\dfrac{1}{\hbar c} \right)^2 ( k c ℏ q 1 ​ q 2 ​ ​ ) 2 = ( 4 π ε 0 ​ e 2 ​ ℏ c 1 ​ ) 2 로 놓으면 ( k = 1 4 π ε 0 , q 1 = e , q 2 = e ) \left( k = \dfrac{1}{4\pi \varepsilon_0} , q_1 = e, q_2 = e \right) ( k = 4 π ε 0 ​ 1 ​ , q 1 ​ = e , q 2 ​ = e )
+( α ) 2 = ( e 2 4 π ε 0 1 ℏ c ) 2 = ( e 2 4 π ε 0 1 c h 2 π ) 2 = ( e 2 2 ε 0 1 h c ) 2 = ( e 2 2 e 2 2 α c h 1 h c ) 2 = ( 1 1 1 α ) 2 = ( α ) 2 (\alpha)^2= \left( \dfrac{e^2}{4\pi \varepsilon_0}\dfrac{1}{\hbar c} \right)^2 =\left( \dfrac{e^2}{4\pi \varepsilon_0}\dfrac{1}{ c \dfrac{h}{2\pi}} \right)^2 =\left( \dfrac{e^2}{2 \varepsilon_0}\dfrac{1}{h c} \right)^2 = \left( \dfrac{e^2}{2 \dfrac{e^2}{2\alpha c h}}\dfrac{1}{h c} \right)^2 = \left( \dfrac{\dfrac{1}{1}}{\dfrac{1}{\alpha} } \right)^2 = (\alpha)^2 ( α ) 2 = ( 4 π ε 0 ​ e 2 ​ ℏ c 1 ​ ) 2 = ​ 4 π ε 0 ​ e 2 ​ c 2 π h ​ 1 ​ ​ 2 = ( 2 ε 0 ​ e 2 ​ h c 1 ​ ) 2 = ​ 2 2 α c h e 2 ​ e 2 ​ h c 1 ​ ​ 2 = ​ α 1 ​ 1 1 ​ ​ ​ 2 = ( α ) 2
+좀머펠트 미세구조상수(Sommerfeld fine structure constant)라는 이름은 보어 원자모형 에서 수소 원자 스펙트럼의 미세구조 사이의 간격을 설명하는 데서 유래하지만 다양한 물리적 해석이 존재한다.
+특히 이처럼 유전율의 정의를 조사하는데 매우 중요한 정보를 제공한다.
+
+2.1.3. 뤼드베리 상수값 계산 [편집]
+뤼드베리 상수항(Rydberg constant term) R = ( 1 4 π ( k q 1 q 2 c ℏ ) 2 ( c ℏ m e c 2 ) − 1 ) R = \left(\dfrac{1}{4\pi} \left( k \dfrac{q_{1}q_{2}}{c\hbar}\right)^2 \left( \dfrac{c\hbar}{m_{e}c^2 } \right)^{-1} \right) R = ( 4 π 1 ​ ( k c ℏ q 1 ​ q 2 ​ ​ ) 2 ( m e ​ c 2 c ℏ ​ ) − 1 )
+R = ( 1 4 π ( 좀머펠트 미세구조항 ) 2 ( 콤프턴 파장항 ) − 1 ) R = \left(\dfrac{1}{4\pi} \left(\text{좀머펠트 미세구조항} \right)^2 \left(\text{콤프턴 파장항}\right)^{-1} \right) R = ( 4 π 1 ​ ( 좀머펠트 미세구조항 ) 2 ( 콤프턴 파장항 ) − 1 )
+R = ( 1 4 π ( 7.297352 × 10 − 3 ) 2 ( 3.861592 × 10 − 13 m ) − 1 ) R = \left(\dfrac{1}{4\pi} \left(7.297352\times 10^{-3} \right)^2 \left(3.861592 \times 10^{-13}m\right)^{-1} \right) R = ( 4 π 1 ​ ( 7.297352 × 1 0 − 3 ) 2 ( 3.861592 × 1 0 − 13 m ) − 1 )
+R = ( 1 4 π ( 5.325134621 × 10 − 5 ) ( 2.589605 × 10 12 / m ) ) = 10973729.54 / m R = \left(\dfrac{1}{4\pi} \left( 5.325134621\times 10^{-5} \right) \left( 2.589605 \times 10^{12}/m \right) \right) = 10973729.54 / m R = ( 4 π 1 ​ ( 5.325134621 × 1 0 − 5 ) ( 2.589605 × 1 0 12 / m ) ) = 10973729.54/ m
+
+3. 뤼드베리-슈스터 규칙 [편집]
+1876년에 뤼드베리(Rydberg)와 슈스터(Schuster, A.)가 제안한 뤼드베리-슈스터 규칙(Rydberg-Schuster rule)은 원자 스펙트럼 계열을 다룰때 주계열의 극한값과 부계열의 극한값 차이는 주계열 첫 줄의 진동수에 맞먹는 값으로 다루어 볼 수 있다는 규칙으로 스펙트럼 계열을 제안하였다.
+
+4. 관련문서 [편집]
+- 흑체복사
+- 막스 플랑크
+- 물리 상수
+- 플랑크 상수
+- 슈뢰딩거 방정식
+
+[ 남동구꽃배달 하나로퀵
+www.1577-3410.com
+[ [ 기사실명제퀵 ] [ 빠르게배송퀵 ] [ 퀵서비스전문 ] [ 배송배달조회 ] ]
+10분배차다마스 라보전문 즉시배차 저렴한비용 실시간배차 간단이사 긴급배송 소형이사
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 남동구유선방송 쿠팡
+www.coupang.com v-if
+[ [ 로켓배송 ] [ 로켓직구 ] [ 골드박스 ] [ 로켓프레시 ] ]
+남동구유선방송, TV에 연결만 하면 즉시 작동! 와우회원 무료배송 받으세요.
+
+]
+
+[1] J.R. RYDBERG, RECHERCHES SUR LA CONSTITUTION DES SPECTRES D'EMISSION DES ELEMENTS CHIMIQUES. §71 Formule generale du groupe nebuleux. P136 , 1890 https://babel.hathitrust.org/cgi/pt?id=mdp.39015039478303&view=1up&seq=402 -Kungl. Svenska vetenskapsakademiens handlingar. n.s. v.23 pt.2 1888-1889 [2] P335 (english-preliminary notice) Rydberg, J.R. (1890). Philosophical Magazine. 5th series. 29: 331–337.The philosophical magazine. ser.5 v.29 XXXIV "On the structure of the line-spectra of the chemical elements" Docent at the University of Lund https://babel.hathitrust.org/cgi/pt?id=mdp.39015024088331&view=1up&seq=345 ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

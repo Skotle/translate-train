@@ -1,0 +1,124 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 오일러 수열
+최근 수정 시각: 2026-04-02 17:32:05 [ [ [ ] [ [ 3 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 수열
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 정의 3 . 이용 4 . 베르누이 수열 과의 관계 4.1 . 오일러 수열을 이용한 베르누이 수 표현 4.2 . 베르누이 수열을 이용한 오일러 수열 표현
+
+1. 개요 [편집]
+오일러 數 列 · Euler numbers · ( 독일어 ) Eulersche Zahlen
+
+coth ⁡ x \coth x coth x 를 기반으로 한 생성함수 로 정의되는 베르누이 수열 처럼, 오일러 수열은 s e c h x {\rm sech}\,x sech x 를 기반으로 한 생성함수로 정의되는 수열 이다. 거듭제곱 합의 공식을 통해 오래전부터 연구가 되어왔던 베르누이 수열 과는 달리 오일러 수열은 그야말로 s e c h x {\rm sech}\,x sech x , sec ⁡ x \sec x sec x 의 테일러 급수 정도에서밖에 등장하지 않기 때문에 지명도가 훨씬 낮다. 물론 그 성질에 대해서는 꾸준히 연구가 진행되고 있긴 하다. 대표적인 특징으로 오일러 수열은 모든 홀수 항이 항상 0 \bf0 0 [1] 이며, 모든 짝수 항도 정수값 이 나오는 것으로 알려져 있다. 특히 4 4 4 의 배수인 짝수 항은 양수이고 그 이외의 짝수 항은 모두 음수가 나오는데, 이를 모두 양수로 보정하기 위해 일반적인 오일러 수열 E 2 n E_{2n} E 2 n ​ 대신 ( − 1 ) n E 2 n (-1)^nE_{2n} ( − 1 ) n E 2 n ​ 을 오일러 수열로 이용하는 경우도 있다. 후자의 경우 학자마다 기호 사용이 제각각이라 통일된 표기가 없지만, 대체로 E 2 n E_{2n} E 2 n ​ 에 첨자나 장식 기호를 써서 표기한다.
+
+제 18 18 18 항까지의 값은 다음과 같다.(홀수 항의 값은 다 0이므로 생략) n n n | 0 0 0 | 2 2 2 | 4 4 4 | 6 6 6 | 8 8 8 | 10 10 10 | 12 12 12 | 14 14 14 | 16 16 16 | 18 18 18
+E n E_n E n ​ | 1 1 1 | − 1 -1 − 1 | 5 5 5 | − 61 -61 − 61 | 1385 1385 1385 | − 50521 -50521 − 50521 | 2702765 2702765 2702765 | − 199360981 -199360981 − 199360981 | 19391512145 19391512145 19391512145 | − 2404879675441 -2404879675441 − 2404879675441
+
+2. 정의 [편집]
+다음 생성함수 를 이용하여 정의된다.
+s e c h x = 1 cosh ⁡ x = 2 e x + e − x = ∑ n = 0 ∞ E n n ! x n \displaystyle{\rm sech}\,x = \frac1{\cosh x} = \frac2{e^x + e^{-x}} = \sum_{n=0}^\infty \frac{E_n}{n!}x^n sech x = cosh x 1 ​ = e x + e − x 2 ​ = n = 0 ∑ ∞ ​ n ! E n ​ ​ x n
+
+쌍곡선 함수를 복소평면으로 확장시키면 cosh ⁡ i x = cos ⁡ x \cosh ix = \cos x cosh i x = cos x 의 관계에 있으므로 위의 생성함수에 i x ix i x 를 대입하면 홀수항이 0 0 0 이 나와야 한다는 성질이 얻어진다.
+s e c h i x = ∑ n = 0 ∞ E n n ! ( i x ) n = ∑ n = 0 ∞ E 2 n ( 2 n ) ! ( i x ) 2 n + ∑ n = 0 ∞ E 2 n + 1 ( 2 n + 1 ) ! ( i x ) 2 n + 1 = ∑ n = 0 ∞ ( − 1 ) n E 2 n ( 2 n ) ! x 2 n + i ∑ n = 0 ∞ ( − 1 ) n E 2 n + 1 ( 2 n + 1 ) ! x 2 n + 1 = sec ⁡ x ∴ E 2 n + 1 = 0 \begin{aligned} {\rm sech}\,ix &= \sum_{n=0}^\infty \frac{E_n}{n!}(ix)^n = \sum_{n=0}^\infty \frac{E_{2n}}{(2n)!}(ix)^{2n} + \sum_{n=0}^\infty \frac{E_{2n+1}}{(2n+1)!}(ix)^{2n+1} \\ &= \sum_{n=0}^\infty \frac{(-1)^nE_{2n}}{(2n)!}x^{2n} + i\sum_{n=0}^\infty \frac{(-1)^nE_{2n+1}}{(2n+1)!}x^{2n+1} \\ &= \sec x \end{aligned} \\ \therefore E_{2n+1} = 0 sech i x ​ = n = 0 ∑ ∞ ​ n ! E n ​ ​ ( i x ) n = n = 0 ∑ ∞ ​ ( 2 n )! E 2 n ​ ​ ( i x ) 2 n + n = 0 ∑ ∞ ​ ( 2 n + 1 )! E 2 n + 1 ​ ​ ( i x ) 2 n + 1 = n = 0 ∑ ∞ ​ ( 2 n )! ( − 1 ) n E 2 n ​ ​ x 2 n + i n = 0 ∑ ∞ ​ ( 2 n + 1 )! ( − 1 ) n E 2 n + 1 ​ ​ x 2 n + 1 = sec x ​ ∴ E 2 n + 1 ​ = 0
+
+이에 따라 생성함수도 다음과 같이 축약할 수 있다. s e c h x = ∑ n = 0 ∞ E 2 n ( 2 n ) ! x 2 n \displaystyle{\rm sech}\,x = \sum_{n=0}^\infty \frac{E_{2n}}{(2n)!}x^{2n} sech x = n = 0 ∑ ∞ ​ ( 2 n )! E 2 n ​ ​ x 2 n
+
+일반적으로 베르누이 수열 이 점화식을 통해 계산되는 것처럼, 오일러 수열도 실제 수열의 값을 계산할 때에는 좌변의 역수 cosh ⁡ x \cosh x cosh x 의 테일러 급수를 이용하여 유도되는 점화식을 쓴다. cosh ⁡ x = e x + e − x 2 = 1 2 { ∑ n = 0 ∞ x n n ! + ∑ n = 0 ∞ ( − x ) n n ! } = ∑ n = 0 ∞ x 2 n ( 2 n ) ! = 1 + x 2 2 ! + x 4 4 ! + x 6 6 ! + ⋯ ⋯ cosh ⁡ x s e c h x = ( E 0 + E 2 2 ! x 2 + E 4 4 ! x 4 + E 6 6 ! x 6 + ⋯ ⋯ ) ( 1 + x 2 2 ! + x 4 4 ! + x 6 6 ! + ⋯ ⋯ ) = ∑ n = 0 ∞ ∑ r = 0 n E 2 r x 2 r ( 2 r ) ! x 2 n − 2 r ( 2 n − 2 r ) ! = ∑ n = 0 ∞ ∑ r = 0 n E 2 r ( 2 r ) ! ( 2 n − 2 r ) ! x 2 n = ∑ n = 0 ∞ ∑ r = 0 n 1 ( 2 n ) ! E 2 r ( 2 n ) ! ( 2 r ) ! ( 2 n − 2 r ) ! x 2 n = ∑ n = 0 ∞ 1 ( 2 n ) ! ∑ r = 0 n ( 2 n 2 r ) E 2 r x 2 n = E 0 + 1 2 ! ∑ r = 0 1 ( 2 2 r ) E 2 r x 2 + 1 4 ! ∑ r = 0 2 ( 4 2 r ) E 2 r x 4 + 1 6 ! ∑ r = 0 3 ( 6 2 r ) E 2 r x 6 + ⋯ ⋯ = 1 \displaystyle\cosh x = \frac{e^x + e^{-x}}2 = \frac12 \left\{ \sum_{n=0}^\infty \frac{x^n}{n!} + \sum_{n=0}^\infty \frac{(-x)^n}{n!} \right\} = \sum_{n=0}^\infty \frac{x^{2n}}{(2n)!} = 1 + \frac{x^2}{2!} + \frac{x^4}{4!} + \frac{x^6}{6!} + \cdots\cdots \\ \begin{aligned} \cosh x\,{\rm sech}\,x &= \left( {E_0} + \frac{E_2}{2!}x^2 + \frac{E_4}{4!}x^4 + \frac{E_6}{6!}x^6 + \cdots\cdots \right) \left( 1 + \frac{x^2}{2!} + \frac{x^4}{4!} + \frac{x^6}{6!} + \cdots\cdots \right) \\ &= \sum_{n=0}^\infty \sum_{r=0}^n \frac{E_{2r}x^{2r}}{(2r)!} \frac{x^{2n-2r}}{(2n-2r)!} = \sum_{n=0}^\infty \sum_{r=0}^n \frac{E_{2r}}{(2r)!(2n-2r)!}x^{2n} = \sum_{n=0}^\infty \sum_{r=0}^n \frac1{(2n)!} \frac{E_{2r}(2n)!}{(2r)!(2n-2r)!}x^{2n} \\ &= \sum_{n=0}^\infty \frac1{(2n)!} \sum_{r=0}^n \binom{2n}{2r}E_{2r}x^{2n} \\ &= E_0 + \frac 1{2!} \sum_{r=0}^1 \binom2{2r}E_{2r}x^2 + \frac1{4!} \sum_{r=0}^2 \binom4{2r}E_{2r}x^4 + \frac1{6!} \sum_{r=0}^3 \binom6{2r}E_{2r}x^6 + \cdots\cdots \\ &= 1 \end{aligned} cosh x = 2 e x + e − x ​ = 2 1 ​ { n = 0 ∑ ∞ ​ n ! x n ​ + n = 0 ∑ ∞ ​ n ! ( − x ) n ​ } = n = 0 ∑ ∞ ​ ( 2 n )! x 2 n ​ = 1 + 2 ! x 2 ​ + 4 ! x 4 ​ + 6 ! x 6 ​ + ⋯⋯ cosh x sech x ​ = ( E 0 ​ + 2 ! E 2 ​ ​ x 2 + 4 ! E 4 ​ ​ x 4 + 6 ! E 6 ​ ​ x 6 + ⋯⋯ ) ( 1 + 2 ! x 2 ​ + 4 ! x 4 ​ + 6 ! x 6 ​ + ⋯⋯ ) = n = 0 ∑ ∞ ​ r = 0 ∑ n ​ ( 2 r )! E 2 r ​ x 2 r ​ ( 2 n − 2 r )! x 2 n − 2 r ​ = n = 0 ∑ ∞ ​ r = 0 ∑ n ​ ( 2 r )! ( 2 n − 2 r )! E 2 r ​ ​ x 2 n = n = 0 ∑ ∞ ​ r = 0 ∑ n ​ ( 2 n )! 1 ​ ( 2 r )! ( 2 n − 2 r )! E 2 r ​ ( 2 n )! ​ x 2 n = n = 0 ∑ ∞ ​ ( 2 n )! 1 ​ r = 0 ∑ n ​ ( 2 r 2 n ​ ) E 2 r ​ x 2 n = E 0 ​ + 2 ! 1 ​ r = 0 ∑ 1 ​ ( 2 r 2 ​ ) E 2 r ​ x 2 + 4 ! 1 ​ r = 0 ∑ 2 ​ ( 2 r 4 ​ ) E 2 r ​ x 4 + 6 ! 1 ​ r = 0 ∑ 3 ​ ( 2 r 6 ​ ) E 2 r ​ x 6 + ⋯⋯ = 1 ​
+
+항등식이므로 ∑ r = 0 n ( 2 n 2 r ) E 2 r = δ 0 , n \displaystyle\sum_{r=0}^n \binom{2n}{2r}E_{2r} = \delta_{0,\,n} r = 0 ∑ n ​ ( 2 r 2 n ​ ) E 2 r ​ = δ 0 , n ​ 이며(단, δ 0 , n \delta_{0,\,n} δ 0 , n ​ 은 크로네커 델타 ) 이 식으로부터 점화식이 얻어진다. ∑ r = 0 n ( 2 n 2 r ) E 2 r = E 2 n + ∑ r = 0 n − 1 ( 2 n 2 r ) E 2 r = δ 0 , n ∴ E 2 n = δ 0 , n − ∑ r = 0 n − 1 ( 2 n 2 r ) E 2 r \displaystyle\sum_{r=0}^n \binom{2n}{2r}E_{2r} = E_{2n} + \sum_{r=0}^{n-1} \binom{2n}{2r}E_{2r} = \delta_{0,\,n} \\ \therefore E_{2n} = \delta_{0,\,n} - \sum_{r=0}^{n-1} \binom{2n}{2r}E_{2r} r = 0 ∑ n ​ ( 2 r 2 n ​ ) E 2 r ​ = E 2 n ​ + r = 0 ∑ n − 1 ​ ( 2 r 2 n ​ ) E 2 r ​ = δ 0 , n ​ ∴ E 2 n ​ = δ 0 , n ​ − r = 0 ∑ n − 1 ​ ( 2 r 2 n ​ ) E 2 r ​
+
+보통은 n ≥ 1 n\ge1 n ≥ 1 이라는 조건을 붙이지만 공합(empty sum) [2] 을 0 0 0 으로 약속하는 일반적인 정의에 따르면 위 식은 음이 아닌 정수에 대해 성립한다.
+
+3. 이용 [편집]
+sec ⁡ x \sec x sec x , s e c h x {\rm sech}\,x sech x 의 테일러 급수 에서 밖에 안 쓰인다. - sec ⁡ x = ∑ n = 0 ∞ ( − 1 ) n E 2 n ( 2 n ) ! x 2 n = 1 + 1 2 x 2 + 5 24 x 4 + 61 720 x 6 + ⋯ ⋯ \displaystyle\sec x = \sum_{n=0}^\infty \frac{(-1)^n E_{2n}}{(2n)!}x^{2n} = 1 + \frac12x^2 + \frac5{24}x^4 + \frac{61}{720}x^6 + \cdots\cdots sec x = n = 0 ∑ ∞ ​ ( 2 n )! ( − 1 ) n E 2 n ​ ​ x 2 n = 1 + 2 1 ​ x 2 + 24 5 ​ x 4 + 720 61 ​ x 6 + ⋯⋯
+- s e c h x = ∑ n = 0 ∞ E 2 n ( 2 n ) ! x 2 n = 1 − 1 2 x 2 + 5 24 x 4 − 61 720 x 6 + ⋯ ⋯ \displaystyle{\rm sech}\,x = \sum_{n=0}^\infty \frac{E_{2n}}{(2n)!}x^{2n} = 1 - \frac12x^2 + \frac5{24}x^4 - \frac{61}{720}x^6 + \cdots\cdots sech x = n = 0 ∑ ∞ ​ ( 2 n )! E 2 n ​ ​ x 2 n = 1 − 2 1 ​ x 2 + 24 5 ​ x 4 − 720 61 ​ x 6 + ⋯⋯
+
+4. 베르누이 수열 과의 관계 [편집]
+삼각함수 및 쌍곡선 함수가 각종 사칙연산을 통해 서로 연관되어 있기 때문에, 베르누이 수열과 오일러 수열 역시 서로 무관하지는 않다. 다만, 아무래도 각 함수의 곱(즉, 테일러 급수끼리의 곱)이 반드시 포함되어 있기에 서로 합연산의 관계에 있어서 손계산이 그렇게 간단한 형태로 나오지는 않는다. 차라리 서로 점화식의 관계에 있다고 이해하는 편이 빠를 것이다.
+
+4.1. 오일러 수열을 이용한 베르누이 수 표현 [편집]
+s e c h x sinh ⁡ x = tanh ⁡ x {\rm sech}\,x\sinh x = \tanh x sech x sinh x = tanh x 이므로 { ∑ n = 0 ∞ E 2 n ( 2 n ) ! x 2 n } { ∑ n = 0 ∞ x 2 n + 1 ( 2 n + 1 ) ! } = ∑ n = 1 ∞ ( 16 n − 4 n ) B 2 n ( 2 n ) ! x 2 n − 1 ∑ n = 0 ∞ ∑ r = 0 n E 2 r x 2 r ( 2 r ) ! x 2 n − 2 r + 1 ( 2 n − 2 r + 1 ) ! = ∑ n = 0 ∞ ∑ r = 0 n 1 ( 2 n + 1 ) ! ( 2 n + 1 ) ! E 2 r ( 2 r ) ! ( 2 n − 2 r + 1 ) ! x 2 n + 1 = ∑ n = 0 ∞ ∑ r = 0 n 1 ( 2 n + 1 ) ! ( 2 n + 1 2 r ) E 2 r x 2 n + 1 = ∑ n = 1 ∞ ∑ r = 0 n − 1 1 ( 2 n − 1 ) ! ( 2 n − 1 2 r ) E 2 r x 2 n − 1 ( 16 n − 4 n ) B 2 n ( 2 n ) ! = ∑ r = 0 n − 1 1 ( 2 n − 1 ) ! ( 2 n − 1 2 r ) E 2 r ∴ B 2 n = 2 n 16 n − 4 n ∑ r = 0 n − 1 ( 2 n − 1 2 r ) E 2 r \begin{aligned} \left\{ \sum_{n=0}^\infty \frac{E_{2n}}{(2n)!}x^{2n} \right\}\left\{ \sum_{n=0}^\infty \frac{x^{2n+1}}{(2n+1)!} \right\} &= \mathop{\color{blue}\sum_{n=1}^\infty}{\color{red}\frac{(16^n - 4^n)B_{2n}}{(2n)!}}{\color{blue}x^{2n-1}} \\ \sum_{n=0}^\infty \sum_{r=0}^n \frac{E_{2r}x^{2r}}{(2r)!} \frac{x^{2n-2r+1}}{(2n-2r+1)!} &= \sum_{n=0}^\infty \sum_{r=0}^n \frac 1{(2n+1)!} \frac{(2n+1)!E_{2r}}{(2r)!(2n-2r+1)!}x^{2n+1} = \sum_{n=0}^\infty \sum_{r=0}^n \frac 1{(2n+1)!} \binom{2n+1}{2r}E_{2r}x^{2n+1} \\ &= \mathop{\color{blue}\sum_{n=1}^\infty}\mathop{\color{red}\sum_{r=0}^{n-1} \frac 1{(2n-1)!} \binom{2n-1}{2r}E_{2r}}{\color{blue}x^{2n-1}} \end{aligned} \\ \frac{(16^n - 4^n)B_{2n}}{(2n)!} = \sum_{r=0}^{n-1} \frac 1{(2n-1)!} \binom{2n-1}{2r}E_{2r} \\ \therefore B_{2n} = \frac{2n}{16^n - 4^n}\sum_{r=0}^{n-1} \binom{2n-1}{2r}E_{2r} { n = 0 ∑ ∞ ​ ( 2 n )! E 2 n ​ ​ x 2 n } { n = 0 ∑ ∞ ​ ( 2 n + 1 )! x 2 n + 1 ​ } n = 0 ∑ ∞ ​ r = 0 ∑ n ​ ( 2 r )! E 2 r ​ x 2 r ​ ( 2 n − 2 r + 1 )! x 2 n − 2 r + 1 ​ ​ = n = 1 ∑ ∞ ​ ( 2 n )! ( 1 6 n − 4 n ) B 2 n ​ ​ x 2 n − 1 = n = 0 ∑ ∞ ​ r = 0 ∑ n ​ ( 2 n + 1 )! 1 ​ ( 2 r )! ( 2 n − 2 r + 1 )! ( 2 n + 1 )! E 2 r ​ ​ x 2 n + 1 = n = 0 ∑ ∞ ​ r = 0 ∑ n ​ ( 2 n + 1 )! 1 ​ ( 2 r 2 n + 1 ​ ) E 2 r ​ x 2 n + 1 = n = 1 ∑ ∞ ​ r = 0 ∑ n − 1 ​ ( 2 n − 1 )! 1 ​ ( 2 r 2 n − 1 ​ ) E 2 r ​ x 2 n − 1 ​ ( 2 n )! ( 1 6 n − 4 n ) B 2 n ​ ​ = ∑ r = 0 n − 1 ​ ( 2 n − 1 )! 1 ​ ( 2 r 2 n − 1 ​ ) E 2 r ​ ∴ B 2 n ​ = 1 6 n − 4 n 2 n ​ ∑ r = 0 n − 1 ​ ( 2 r 2 n − 1 ​ ) E 2 r ​
+
+오일러 수열이 정수 수열이고 조합도 자연수이기 때문에 결과적으로 연산 자체는 정수의 사칙연산이 된다. 분수끼리 더하고 빼야하는 베르누이 수열의 점화식 계산보다는 훨씬 수월할 것이다.
+
+4.2. 베르누이 수열을 이용한 오일러 수열 표현 [편집]
+cosh ⁡ x − sinh ⁡ x tanh ⁡ x = s e c h x \cosh x - \sinh x\tanh x = {\rm sech}\,x cosh x − sinh x tanh x = sech x 이므로, sinh ⁡ x tanh ⁡ x \sinh x\tanh x sinh x tanh x 부분에 대해 { ∑ n = 0 ∞ x 2 n + 1 ( 2 n + 1 ) ! } { ∑ n = 1 ∞ ( 16 n − 4 n ) B 2 n ( 2 n ) ! x 2 n − 1 } = ∑ n = 1 ∞ ∑ r = 1 n ( 16 r − 4 r ) B 2 r x 2 r − 1 ( 2 r ) ! x 2 n − 2 r + 1 ( 2 n − 2 r + 1 ) ! = ∑ n = 1 ∞ ∑ r = 1 n 16 r − 4 r ( 2 n + 1 ) ! ( 2 n + 1 ) ! B 2 r ( 2 r ) ! ( 2 n − 2 r + 1 ) ! x 2 n = ∑ n = 1 ∞ 1 ( 2 n + 1 ) ! ∑ r = 1 n ( 16 r − 4 r ) ( 2 n + 1 2 r ) B 2 r x 2 n \begin{aligned}&\left\{ \sum_{n=0}^\infty \frac{x^{2n+1}}{(2n+1)!} \right\} \left\{\sum_{n=1}^\infty \frac{(16^n - 4^n)B_{2n}}{(2n)!}x^{2n-1} \right\} \\ &= \sum_{n=1}^\infty \sum_{r=1}^n \frac{(16^r - 4^r)B_{2r}x^{2r-1}}{(2r)!} \frac{x^{2n-2r+1}}{(2n-2r+1)!} = \sum_{n=1}^\infty \sum_{r=1}^n \frac{16^r - 4^r}{(2n+1)!} \frac{(2n+1)!B_{2r}}{(2r)!(2n-2r+1)!}x^{2n} \\ &= \sum_{n=1}^\infty \frac1{(2n+1)!}\sum_{r=1}^n (16^r - 4^r)\binom{2n+1}{2r}B_{2r}x^{2n}\end{aligned} ​ { n = 0 ∑ ∞ ​ ( 2 n + 1 )! x 2 n + 1 ​ } { n = 1 ∑ ∞ ​ ( 2 n )! ( 1 6 n − 4 n ) B 2 n ​ ​ x 2 n − 1 } = n = 1 ∑ ∞ ​ r = 1 ∑ n ​ ( 2 r )! ( 1 6 r − 4 r ) B 2 r ​ x 2 r − 1 ​ ( 2 n − 2 r + 1 )! x 2 n − 2 r + 1 ​ = n = 1 ∑ ∞ ​ r = 1 ∑ n ​ ( 2 n + 1 )! 1 6 r − 4 r ​ ( 2 r )! ( 2 n − 2 r + 1 )! ( 2 n + 1 )! B 2 r ​ ​ x 2 n = n = 1 ∑ ∞ ​ ( 2 n + 1 )! 1 ​ r = 1 ∑ n ​ ( 1 6 r − 4 r ) ( 2 r 2 n + 1 ​ ) B 2 r ​ x 2 n ​
+
+따라서 s e c h x {\rm sech}\, x sech x 에 관한 등식은 다음과 같이 되며 cosh ⁡ x − sinh ⁡ x tanh ⁡ x = s e c h x = ∑ n = 0 ∞ x 2 n ( 2 n ) ! − { ∑ n = 1 ∞ 1 ( 2 n + 1 ) ! ∑ r = 1 n ( 16 r − 4 r ) ( 2 n + 1 2 r ) B 2 r x 2 n } = ∑ n = 0 ∞ E 2 n ( 2 n ) ! x 2 n = 1 + ∑ n = 1 ∞ E 2 n ( 2 n ) ! x 2 n = 1 + ∑ n = 1 ∞ 1 ( 2 n ) ! x 2 n − { ∑ n = 1 ∞ 1 ( 2 n + 1 ) ! ∑ r = 1 n ( 16 r − 4 r ) ( 2 n + 1 2 r ) B 2 r } x 2 n = 1 + ∑ n = 1 ∞ { 1 ( 2 n ) ! − 1 ( 2 n + 1 ) ! ∑ r = 1 n ( 16 r − 4 r ) ( 2 n + 1 2 r ) B 2 r } x 2 n 1 ( 2 n ) ! − 1 ( 2 n + 1 ) ! ∑ r = 1 n ( 16 r − 4 r ) ( 2 n + 1 2 r ) B 2 r = E 2 n ( 2 n ) ! ∴ E 2 n = 1 − 1 2 n + 1 ∑ r = 1 n ( 16 r − 4 r ) ( 2 n + 1 2 r ) B 2 r \begin{aligned}&\cosh x - \sinh x\tanh x = {\rm sech}\,x \\ &= \sum_{n=0}^\infty \frac{x^{2n}}{(2n)!} - \left\{ \sum_{n=1}^\infty \frac1{(2n+1)!}\sum_{r=1}^n (16^r - 4^r)\binom{2n+1}{2r}B_{2r}x^{2n}\right\} = \sum_{n=0}^\infty \frac{E_{2n}}{(2n)!}x^{2n} = {\color{blue}1 + \sum_{n=1}^\infty}{\color{red}\frac{E_{2n}}{(2n)!}}{\color{blue}x^{2n}} \\ &= 1 + \sum_{n=1}^\infty \frac1{(2n)!}x^{2n} - \left\{ \sum_{n=1}^\infty \frac1{(2n+1)!}\sum_{r=1}^n (16^r - 4^r)\binom{2n+1}{2r}B_{2r}\right\}x^{2n} \\ &= {\color{blue}1 + \sum_{n=1}^\infty}{\color{red}\left\{ \frac1{(2n)!} - \frac1{(2n+1)!} \sum_{r=1}^n (16^r - 4^r)\binom{2n+1}{2r}B_{2r} \right\}}{\color{blue}x^{2n}}\end{aligned} \\ \frac1{(2n)!} - \frac1{(2n+1)!} \sum_{r=1}^n (16^r - 4^r)\binom{2n+1}{2r}B_{2r} = \frac{E_{2n}}{(2n)!} \\ \therefore E_{2n} = 1 - \frac1{2n+1} \sum_{r=1}^n (16^r - 4^r)\binom{2n+1}{2r}B_{2r} ​ cosh x − sinh x tanh x = sech x = n = 0 ∑ ∞ ​ ( 2 n )! x 2 n ​ − { n = 1 ∑ ∞ ​ ( 2 n + 1 )! 1 ​ r = 1 ∑ n ​ ( 1 6 r − 4 r ) ( 2 r 2 n + 1 ​ ) B 2 r ​ x 2 n } = n = 0 ∑ ∞ ​ ( 2 n )! E 2 n ​ ​ x 2 n = 1 + n = 1 ∑ ∞ ​ ( 2 n )! E 2 n ​ ​ x 2 n = 1 + n = 1 ∑ ∞ ​ ( 2 n )! 1 ​ x 2 n − { n = 1 ∑ ∞ ​ ( 2 n + 1 )! 1 ​ r = 1 ∑ n ​ ( 1 6 r − 4 r ) ( 2 r 2 n + 1 ​ ) B 2 r ​ } x 2 n = 1 + n = 1 ∑ ∞ ​ { ( 2 n )! 1 ​ − ( 2 n + 1 )! 1 ​ r = 1 ∑ n ​ ( 1 6 r − 4 r ) ( 2 r 2 n + 1 ​ ) B 2 r ​ } x 2 n ​ ( 2 n )! 1 ​ − ( 2 n + 1 )! 1 ​ ∑ r = 1 n ​ ( 1 6 r − 4 r ) ( 2 r 2 n + 1 ​ ) B 2 r ​ = ( 2 n )! E 2 n ​ ​ ∴ E 2 n ​ = 1 − 2 n + 1 1 ​ ∑ r = 1 n ​ ( 1 6 r − 4 r ) ( 2 r 2 n + 1 ​ ) B 2 r ​
+
+r = 0 r=0 r = 0 이면 ( 16 r − 4 r ) ( 2 n + 1 2 r ) B 2 r = 0 (16^r - 4^r)\dbinom{2n+1}{2r}B_{2r} = 0 ( 1 6 r − 4 r ) ( 2 r 2 n + 1 ​ ) B 2 r ​ = 0 이므로 합의 기호 부분은 r = 0 r=0 r = 0 부터 더해주는 것으로 바꿔도 무관하다. 즉 E 2 n = 1 + 1 2 n + 1 ∑ r = 0 n ( 4 r − 16 r ) ( 2 n + 1 2 r ) B 2 r \displaystyle E_{2n} = 1 + \frac1{2n+1} \sum_{r=0}^n (4^r - 16^r)\binom{2n+1}{2r}B_{2r} E 2 n ​ = 1 + 2 n + 1 1 ​ r = 0 ∑ n ​ ( 4 r − 1 6 r ) ( 2 r 2 n + 1 ​ ) B 2 r ​
+
+한편 1 2 n + 1 ( 2 n + 1 2 r ) = 1 ( 2 n + 1 ) ( 2 n + 1 ) ! ( 2 r ) ! ( 2 n − 2 r + 1 ) ! = ( 2 n ) ! ( 2 r ) ! ( 2 n − 2 r + 1 ) ( 2 n − 2 r ) ! = 1 2 n − 2 r + 1 ( 2 n 2 r ) \dfrac1{2n+1}\dbinom{2n+1}{2r} = \dfrac1{(2n+1)}\dfrac{(2n+1)!}{(2r)!(2n-2r+1)!} = \dfrac{(2n)!}{(2r)!(2n-2r+1)(2n-2r)!} = \dfrac1{2n-2r+1}\dbinom{2n}{2r} 2 n + 1 1 ​ ( 2 r 2 n + 1 ​ ) = ( 2 n + 1 ) 1 ​ ( 2 r )! ( 2 n − 2 r + 1 )! ( 2 n + 1 )! ​ = ( 2 r )! ( 2 n − 2 r + 1 ) ( 2 n − 2 r )! ( 2 n )! ​ = 2 n − 2 r + 1 1 ​ ( 2 r 2 n ​ ) 이므로 E 2 n = 1 + ∑ r = 0 n 4 r − 16 r 2 n − 2 r + 1 ( 2 n 2 r ) B 2 r \displaystyle E_{2n} = 1 + \sum_{r=0}^n \frac{4^r - 16^r}{2n-2r+1}\binom{2n}{2r}B_{2r} E 2 n ​ = 1 + r = 0 ∑ n ​ 2 n − 2 r + 1 4 r − 1 6 r ​ ( 2 r 2 n ​ ) B 2 r ​
+
+로도 나타낼 수 있다. 어느 식이든 베르누이 수열이 유리수 수열이기 때문에 오일러 수열로 나타낸 베르누이 수열과는 달리 이쪽은 오히려 계산이 복잡해진다. [ 남동구알바 쿠팡
+www.coupang.com v-if
+[ [ 로켓배송 ] [ 로켓직구 ] [ 골드박스 ] [ 로켓프레시 ] ]
+흥미진진한 남동구알바, 밤새도록 읽는 재미에 빠져보세요.
+
+] | [ 확실한 지원금! 인터넷가입
+internetsignal.shop v-if
+[ [ 인터넷가입 ] [ 전국최대 ] [ 지원금받기 ] ]
+남동케이블 비밀지원금지급 고객불만Zero 당일개통! 당일입금! 확실한 요금설계
+
+] | [ KCTV광주방송 가입,사은품
+cable-tv.co.kr v-if
+남동케이블 신규가입할인, 결합특가할인, 실시간스포츠, 당일설치.
+
+]
+
+[1] 유일하게 B 1 ≠ 0 B_1 \ne 0 B 1 ​  = 0 인 베르누이 수열과는 대조적이다. [2] 더해지는 수열 a n a_n a n ​ 의 종류에 관계없이 α < β \alpha<\beta α < β 에 대해 합의 범위가 ∑ i = β α a n \displaystyle\sum_{i=\beta}^\alpha a_n i = β ∑ α ​ a n ​ 으로 주어지는 것. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

@@ -1,0 +1,209 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 미분형식
+최근 수정 시각: 2026-03-31 01:56:05 [ [ [ ] [ [ 5 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 해석학(수학)
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 예시 2.1 . 무한소 2.2 . 전미분 2.3 . 중적분 에서의 면적소 3 . 엄밀한 정의 및 성질 3.1 . 정의 및 기본 연산 3.2 . 외미분(exterior derivative) 3.3 . 견인 과 적분 4 . 스토크스 정리 5 . 미분형식으로 3차원에서의 델 해석하기
+
+1. 개요 [편집]
+微 分 形 式 ・differential form
+
+일변수 및 다변수 미적분학에서 쓰이는 개념으로, 고전적인 ' 무한소 '의 개념을 엄밀히 하고 다차원으로 확장했다고 볼 수 있다.
+
+보통 다변수 미적분학 을 어느 정도 배우고 나서야 학습하게 되지만, 그 실체는 고등학교에서 미적분을 배울 때부터 숨어 있었다고도 볼 수 있다. 이는 미분형식이 '적분할 수 있는 무언가'의 개념을 모두 포괄해 설명할 수 있기 때문이다. 즉 일변수함수 적분에 나오는 d x \mathrm{d}x d x , 다변수함수의 기울기 d f \mathrm{d}f d f , 다중적분에서 나오는 d x d y \mathrm{d}x\,\mathrm{d}y d x d y , 심지어는 물리학 등에서 쓰는 넓이/부피요소 d A \mathrm{d}A d A , d V \mathrm{d}V d V 까지도 모조리 미분형식이라는 이름으로 대통합할 수 있다고 보면 된다. 결정적으로, 3차원의 벡터장과 엮이는 델 의 삼신기인 경사 (gradient)/ 회전 (curl)/ 발산 (divergence)을 가장 일반적이면서도 우아하게 설명할 수 있는 게 바로 이 미분형식이다.
+
+물론 이 정도의 파워를 갖고 있는 만큼 이해하는 게 쉽지만은 않아서, 델에 어느 정도 익숙해지고 n n n 차원 미분다양체 를 이해할 수 있을 시점에야 배우는 것이 보통이다. 이 풀버전을 배우지 않을 사람들은 바로 아래 '예시' 항목을 보면서 대충 이렇게 생겼을 것이라고 유추해보자.
+
+미분형식의 일반적인 정의를 간단히 말하면 미분다양체 의 각각의 접평면에 부여된 매끄러운(smooth) ( 0 , k ) (0,\,k) ( 0 , k ) - 교대 텐서 (즉, 선형사상 ∧ k T p M → R \wedge^k T_p M \rightarrow \mathbb{R} ∧ k T p ​ M → R )라고 할 수 있다. 자세한 정의는 하단에 서술한다. 미분기하학 및 층(sheaf)의 개념에 익숙한 숙련자들은 접평면의 다발의 쌍대공간 인 공변접다발(cotangent bundle) T ∗ M T^{*}M T ∗ M 의 외대수(exterior algebra) 혹은 교대 대수(alternating algebra)를 미분형식의 층으로(즉, 이 층의 단면(section)이 미분형식이 된다.) 간주하기도 한다. k k k 차 및 전체 미분형식의 모음(혹은 층)을 각각 Ω k ( M ) \Omega^k(M) Ω k ( M ) , Ω ( M ) \Omega(M) Ω ( M ) 으로 쓰고, 개별 미분형식은 주로 ω \omega ω , η \eta η 등의 기호를 쓴다.
+
+2. 예시 [편집]
+
+2.1. 무한소 [편집]
+구분구적법을 통해 적분 을 정의할 때는 다음과 같이 분할에 대한 리만합을 미세한 합으로 극한을 보내는 방식을 썼다.
+
+∑ f ( x ) Δ x → ∫ f ( x ) d x \displaystyle \sum f(x) \,\Delta x \rightarrow \int f(x)\,\mathrm{d}x ∑ f ( x ) Δ x → ∫ f ( x ) d x
+여기서 Δ x \Delta x Δ x 는 분할된 각각의 직사각형의 너비였지만 d x \mathrm{d}x d x 의 실체는 무엇인가에 대해 의문을 품을 수 있다. 특히나 다음의 치환적분 을 x = g ( y ) x = g(y) x = g ( y ) 로 한다고 했을 때
+
+∫ f ( x ) d x = ∫ f ( g ( y ) ) d g ( y ) = ∫ f ( g ( y ) ) g ′ ( y ) d y \displaystyle \int f(x)\,\mathrm{d}x = \int f(g(y))\,\mathrm{d}g(y) = \int f(g(y))\,g'(y)\,\mathrm{d}y ∫ f ( x ) d x = ∫ f ( g ( y )) d g ( y ) = ∫ f ( g ( y )) g ′ ( y ) d y
+위의 분할과 이를 연관지으려면 그 의미가 분명하지 않다. 현대의 미분형식 관점에서는 이 '무한소'의 개념을 개별 길이가 아니라, 일종의 비율의 개념으로 설명해 이해할 수 있었다. 즉, d x \mathrm{d}x d x 란 걸 미세 길이 자체가 아니라, (분할한 구간):(구간에서 x x x 의 변화량)의 비율로 이해하는 것이다. 이렇게 생각하면 x x x 를 기준으로 분할하건 y y y 를 기준으로 분할하건, d x \mathrm{d}x d x 는 변수에 상관없는 고정된 의미를 갖는 물리량이다. 또한 d x \mathrm{d}x d x 가 g ′ ( y ) d y g'(y)\,\mathrm{d}y g ′ ( y ) d y 로 대체되는 과정도, x x x 의 변화율과 y y y 의 변화율의 비율이 g ′ ( y ) g'(y) g ′ ( y ) 여서 그렇다고 생각할 수 있는 것이다.
+즉, 각 점 p p p 에 대해 d x ( p ) \mathrm{d}x(p) d x ( p ) 는 p p p 근방에서 (구간의 길이):( x x x 의 변화량)의 극한비율로 정의할 수 있다. 1-형식 의 가장 원초적 정의인 것. [1]
+
+박부성 교수(경남대학교)의 다음 글 도 참고하면 좋다. 사실 미분 입장에서 설명한 저 글이 보다 근본적이라고 볼 수 있다.
+
+2.2. 전미분 [편집]
+다변수 미적분학을 배울 때 간혹 편미분과 더불어 함수의 '전미분'(全微分, total derivative)이란 대상을 다음과 같은 미분 (differential)으로 정의할 때가 있다.
+
+d f = ∂ f ∂ x 1 d x 1 + ∂ f ∂ x 2 d x 2 + ⋯ + ∂ f ∂ x n d x n \displaystyle \mathrm{d}f = \frac{\partial f}{\partial x_1}\,\mathrm{d}x_1 + \frac{\partial f}{\partial x_2}\,\mathrm{d}x_2 + \cdots + \frac{\partial f}{\partial x_n}\,\mathrm{d}x_n d f = ∂ x 1 ​ ∂ f ​ d x 1 ​ + ∂ x 2 ​ ∂ f ​ d x 2 ​ + ⋯ + ∂ x n ​ ∂ f ​ d x n ​
+여기서의 d x i \mathrm{d}x_i d x i ​ 의 정체도 사실 위와 비슷하게 x i x_i x i ​ 의 변화량의 비율의 일종이다. 이 경우에는 한 점에서 뻗어나갈 수 있는 방향이 n n n 차원이어서, d x i \mathrm{d}x_i d x i ​ 는 n n n 차원 벡터를 숫자에 대응시키는 선형함수, 즉 코벡터(covector) [2] 로 봐야 한다. 일반적으로 d f \mathrm{d}f d f 도 이와 동일하게, v v v 방향에 대해 f f f 의 변화량의 비율을 주는, 즉 방향미분 으로 정의될 수 있다.
+
+d f ∣ p ( v ) = D v f ( p ) = lim ⁡ h → 0 f ( p + v h ) − f ( p ) h \displaystyle \mathrm{d}f|_{p}(v) = D_v f (p) = \lim_{h \rightarrow 0} \frac{f(p + vh) - f(p)}{h} d f ∣ p ​ ( v ) = D v ​ f ( p ) = h → 0 lim ​ h f ( p + v h ) − f ( p ) ​
+이렇게 보면 d x i \mathrm{d}x_i d x i ​ 도 f = x i f=x_i f = x i ​ 인 경우인 것이고, 이 전미분도 좌표계에 의존하지 않는 고유한 양이 된다는 것을 관찰할 수 있다. 이것도 각 점에서 벡터를 집어넣었을 때 실수가 나오는 1-형식 이다.
+
+쉽게 말하자면 전미분은 변수의 작은 변화에 따른 다변 함수의 변화량을 뜻하는 것이다.
+
+2.3. 중적분 에서의 면적소 [편집]
+Robb J. Muirhead의 Aspects of Multivariate Statistical Theory 2.1절에서 미분형식을 다음과 같이 접근하고 있다.
+
+중적분 에서 나오는 d x d y \mathrm{d}x\,\mathrm{d}y d x d y 에서 각각의 d x \mathrm{d}x d x , d y \mathrm{d}y d y 도 위와 비슷하게 생각할 수 있다. 하지만, 다변수의 치환적분인 야코비안
+
+d u d v = ∣ ∂ u ∂ x ∂ v ∂ x ∂ u ∂ y ∂ v ∂ y ∣ d x d y \displaystyle \mathrm{d}u\,\mathrm{d}v = \left| \begin{matrix} \dfrac{\partial u}{\partial x} & \dfrac{\partial v}{\partial x} \\ \\ \dfrac{\partial u}{\partial y} & \dfrac{\partial v}{\partial y} \end{matrix} \right| \mathrm{d}x\,\mathrm{d}y d u d v = ​ ∂ x ∂ u ​ ∂ y ∂ u ​ ​ ∂ x ∂ v ​ ∂ y ∂ v ​ ​ ​ d x d y
+는 얼핏 보면 위에 기껏 증명한
+
+d u = ∂ u ∂ x d x + ∂ u ∂ y d y d v = ∂ v ∂ x d x + ∂ v ∂ y d y \displaystyle \begin{aligned} \mathrm{d}u &= \frac{\partial u}{\partial x}\,\mathrm{d}x + \frac{\partial u}{\partial y}\,\mathrm{d}y \\ \mathrm{d}v &= \frac{\partial v}{\partial x}\,\mathrm{d}x + \frac{\partial v}{\partial y}\,\mathrm{d}y \end{aligned} d u d v ​ = ∂ x ∂ u ​ d x + ∂ y ∂ u ​ d y = ∂ x ∂ v ​ d x + ∂ y ∂ v ​ d y ​
+등과 전혀 맞지 않는 것으로 보인다. 이는 d x d y \mathrm{d}x\,\mathrm{d}y d x d y 가 단순한 곱으로 연결되어 있지 않기 때문이다. 당장은 매우 뜬금없지만, 만약에 d x \mathrm{d}x d x 와 d y \mathrm{d}y d y 사이에 사실 쐐기(wedge)라는 기호 ∧ \wedge ∧ 가 있었고, 다음을 만족했다고 생각해보자. (나머지 함수의 곱에 대해선 분배법칙으로 작용한다.)
+
+d x ∧ d x = d y ∧ d y = 0 − d y ∧ d x = d x ∧ d y \displaystyle \begin{aligned} \mathrm{d}x \wedge \mathrm{d}x &= \mathrm{d}y \wedge \mathrm{d}y = 0 \\ -\mathrm{d}y \wedge \mathrm{d}x &= \mathrm{d}x \wedge \mathrm{d}y \end{aligned} d x ∧ d x − d y ∧ d x ​ = d y ∧ d y = 0 = d x ∧ d y ​
+이걸 가정하면 야코비안 변환식을 다음처럼 얼추 그럴싸하게 얻을 수 있다! [3] d u ∧ d v = ⁣ ( ∂ u ∂ x d x + ∂ u ∂ y d y ) ⁣ ∧ ⁣ ( ∂ v ∂ x d x + ∂ v ∂ y d y ) = ⁣ ( ∂ u ∂ x ∂ v ∂ y − ∂ u ∂ y ∂ v ∂ x ) d x ∧ d y \displaystyle \begin{aligned} \mathrm{d}u \wedge \mathrm{d}v &= \!\left(\frac{\partial u}{\partial x}\,\mathrm{d}x +\frac{\partial u}{\partial y}\,\mathrm{d}y \right) \!\wedge\! \left(\frac{\partial v}{\partial x}\,\mathrm{d}x +\frac{\partial v}{\partial y}\,\mathrm{d}y\right) \\ &= \!\left( \frac{\partial u}{\partial x}\frac{\partial v}{\partial y} -\frac{\partial u}{\partial y}\frac{\partial v}{\partial x} \right) \mathrm{d}x \wedge \mathrm{d}y \end{aligned} d u ∧ d v ​ = ( ∂ x ∂ u ​ d x + ∂ y ∂ u ​ d y ) ∧ ( ∂ x ∂ v ​ d x + ∂ y ∂ v ​ d y ) = ( ∂ x ∂ u ​ ∂ y ∂ v ​ − ∂ y ∂ u ​ ∂ x ∂ v ​ ) d x ∧ d y ​
+
+'적분의 정의'의 관점을 생각해보면 d x ∧ d y = d A \mathrm{d}x \wedge \mathrm{d}y = \mathrm{d}A d x ∧ d y = d A 도 넓이에 근거해 정해졌음을 알 수 있다. 즉, 도형을 작은 도형 P i P_i P i ​ 들로 분할했을 때의 리만합 ∑ f ( x i , y i ) A r e a ( P i ) ( ( x i , y i ) ∈ P i ) \sum f(x_i,\,y_i)\,\mathrm{Area}(P_i)~( (x_i,\,y_i) \in P_i) ∑ f ( x i ​ , y i ​ ) Area ( P i ​ ) (( x i ​ , y i ​ ) ∈ P i ​ ) 의 극한값이 면적분이 되는데, 이게 결국 푸비니 정리에 의해 이게 다중적분과 일치하는 만큼, 즉 d x ∧ d y \mathrm{d}x \wedge \mathrm{d}y d x ∧ d y 는 주어진 점 근방의 도형을 ( x , y ) (x,\,y) ( x , y ) 로 이동시켰을 때의 넓이의 배율로 생각할 수 있다. 코벡터들에 쐐기를 때렸다고 어떻게 넓이의 배율이 나오는지 정확히 이해하려면, 아쉽게도 행렬식 은 물론이요 저 쐐기 기호의 정확한 정의를 알아야 하므로 다중선형대수(multilinear algebra)의 지식이 필요하긴 하다. 다만, 저 쐐기란 게 얼추 행렬식처럼 작용한다는 것을 위의 야코비안 변환식을 통해서 느낀다면, 아쉬운대로 저게 벡터들을 집어넣었을 때 이들로 이루어지는 평행사변형(3개 이상의 쐐기곱이면 평행육면체)의 넓이를 옮겨주는 함수, 즉 교대 텐서 (기하학에서 말하는 ( 0 , k ) (0,\,k) ( 0 , k ) -교대텐서, 대수학에서는 ∧ k ( ( R n ) ∗ ) \wedge^k((\mathbb{R}^n)^{*}) ∧ k (( R n ) ∗ ) )가 된다고 받아들이는 정도는 가능할 것이다.
+
+이것을 가장 넓은 범위에서 일반화하면 각 점에서 k k k 차원 넓이요소를 집어넣었을 때 이걸 숫자로 대응시키는 k k k -형식 의 개념이 된다. 다만, n n n 차원 공간의 k k k 차원 넓이요소는 ( ∧ k ( R n ) \wedge^k(\mathbb{R}^n) ∧ k ( R n ) 의 차원인) ( n k ) \binom{n}{k} ( k n ​ ) 개의 방향이 있고, 이들이 무엇을 의미하는지 체감하는 것은 또 다른 문제이다. 이것은 스토크스 정리 의 쉬운 경우(그린 정리나 켈빈-스토크스 정리) 등으로 경험을 쌓는 수밖에 없다.
+
+3. 엄밀한 정의 및 성질 [편집]
+미분형식을 이해하려면 미분다양체 와 접평면, 텐서 에 대한 배경 지식이 필요하다. 본 문단에서는 실수 미분 형식에 대해서만 정의한다.
+
+3.1. 정의 및 기본 연산 [편집]
+미분형식 (differential form)
+차원이 n n n 인 미분다양체 M M M 위에 정의된 k k k -미분형식(differential k k k -form) 혹은 k k k -형식( k k k -form) ω \omega ω 는, 각 점 p ∈ M p \in M p ∈ M 에 대한 매끄럽게 변하는 ( 0 , k ) (0,\,k) ( 0 , k ) -교대 텐서 ω p : ∧ k T p M → R \omega_p:\wedge^k T_p M \rightarrow \mathbb{R} ω p ​ : ∧ k T p ​ M → R 의 모음 { ω p } p ∈ M \{\omega_p\}_{p \in M} { ω p ​ } p ∈ M ​ 으로 정의된다. 즉, 다음 둘을 만족시켜야 한다. - ω p \omega_p ω p ​ 는 교대성을 만족하는 다중선형사상 ( T p M ) k → R (T_p M)^k \rightarrow \mathbb{R} ( T p ​ M ) k → R 이다.
+- 임의의 매끄러운 벡터장 X 1 , X 2 , ⋯ , X k X_1,\,X_2,\,\cdots,\,X_k X 1 ​ , X 2 ​ , ⋯ , X k ​ 에 대해 p ↦ ω p ( X 1 ( p ) , X 2 ( p ) , ⋯ , X k ( p ) ) p \mapsto \omega_p(X_1(p),\,X_2(p),\,\cdots,\,X_k(p)) p ↦ ω p ​ ( X 1 ​ ( p ) , X 2 ​ ( p ) , ⋯ , X k ​ ( p )) 는 매끄러운 함수이다.
+
+다양체 위의 k k k -미분형식의 집합을 Ω k ( M ) \Omega^k(M) Ω k ( M ) 으로 쓴다.
+
+미분다양체의 열린집합 U ⊂ M U \subset M U ⊂ M 위에서의 k k k -형식도 점 p p p 의 조건을 p ∈ U p \in U p ∈ U 로만으로 완화해 적용할 수 있다. d x / x \mathrm{d}x/x d x / x 같이 미분형식이 모든 점에서 정의되지 않는 경우에 사용가능하다.
+
+같은 차수의 미분형식에 대해서는 덧셈, 뺄셈, 매끄러운 함수에 대한 스칼라곱을 정의할 수 있고, 이 세 연산에 대해 Ω k ( M ) \Omega^k(M) Ω k ( M ) 은 매끄러운 함수의 환 C ∞ ( M ) C^{\infty}(M) C ∞ ( M ) 에 대한 가군 을 이룬다. 한편, 텐서의 쐐기곱 (wedge product)을 점별로 생각하면 미분형식의 쐐기곱 ∧ : Ω k ( M ) × Ω l ( M ) → Ω k + l ( M ) \wedge : \Omega^k(M) \times \Omega^l(M) \rightarrow \Omega^{k+l}(M) ∧ : Ω k ( M ) × Ω l ( M ) → Ω k + l ( M ) 을 정의할 수 있고, 이 쐐기곱은 결합법칙과 위의 가군 연산에 대한 분배법칙을 만족한다. 또한 매끄러운 함수를 0 0 0 -형식으로 간주하면 함수에 대한 스칼라곱과 쐐기곱이 일치한다.(즉 f ω = f ∧ ω f \omega = f \wedge \omega f ω = f ∧ ω ) 보통 이 셋을 종합해 모든 미분형식의 직합(direct sum) Ω ( M ) = ⊕ Ω k ( M ) \Omega(M) = \oplus \Omega^k(M) Ω ( M ) = ⊕ Ω k ( M ) 에 층이 있는 대수 구조 (graded algebra)가 주어졌다고 표현한다. 다중선형대수에선 이런 식으로 쐐기곱을 이용해 만들어진 대수를 보통 외대수(exterior algebra)라고 부른다.
+
+미분기하학에 상당히 익숙해졌다면, 공변접다발(cotangent bundle) T ∗ M T^{*}M T ∗ M 에 주어진 외대수 자체가 Ω ( M ) \Omega(M) Ω ( M ) 이 되고, 이것의 차수 k k k 부분이 Ω k ( M ) \Omega^k(M) Ω k ( M ) 이며, k k k -형식은 Ω k ( M ) \Omega^k(M) Ω k ( M ) 의 대역 단면(global section)이 된다는 식으로 위 내용들을 표현할 수도 있다.
+
+3.2. 외미분(exterior derivative) [편집]
+외미분 (exterior derivative)
+다음 조건을 만족하는 선형연산자 d : Ω k ( M ) → Ω k + 1 ( M ) \mathrm{d} : \Omega^k(M) \rightarrow \Omega^{k+1}(M) d : Ω k ( M ) → Ω k + 1 ( M ) 이 유일하게 존재하고, 이를 외미분이라 부른다. - 함수 f f f 에 대해 d f \mathrm{d}f d f 는 그레이디언트 , 즉 d f ( v ) = D v ( f ) \mathrm{d}f(v) = D_v(f) d f ( v ) = D v ​ ( f ) ( D v ( f ) D_v(f) D v ​ ( f ) :방향미분)로 정의된다.
+- k k k -형식 ω \omega ω 와 l l l -형식 η \eta η 에 대해 d ( ω ∧ η ) = d ω ∧ η + ( − 1 ) k ω ∧ d η \mathrm{d}(\omega \wedge \eta) = \mathrm{d}\omega \wedge \eta + (-1)^k \omega \wedge \mathrm{d}\eta d ( ω ∧ η ) = d ω ∧ η + ( − 1 ) k ω ∧ d η 가 성립한다.
+- d 2 = 0 \mathrm{d}^2=0 d 2 = 0 이 성립한다.
+
+외미분을 미분형식 자체에 대해 정의하는 내적인 정의(intrinsic definition)도 가능하긴 하지만 의외로 복잡해서 정의로 채택되는 경우는 드물다.
+이 외미분이 미분형식의 핵심 개념 중 하나이긴 하지만 의외로 바로 이해하긴 쉽지 않다. 위의 두 성질을 이용해 계산을 하고, 아래의 델이나 스토크스 정리 를 통해 의미를 이해하는 경우가 보통이다. 다행히도 다음 표현으로 인해 외미분의 계산은 그렇게까지 어렵진 않다. 미분형식의 기저 표현
+미분다양체 위 열린집합 U U U 에 주어진 좌표계 ( x 1 , x 2 , ⋯ , x n ) : U → R n (x_1,\,x_2,\,\cdots,\,x_n) : U \rightarrow \mathbb{R}^n ( x 1 ​ , x 2 ​ , ⋯ , x n ​ ) : U → R n 에 대해, 임의의 미분형식은 매끄러운 함수와 1-형식들 d x 1 , d x 2 , ⋯ , d x n \mathrm{d}x_1,\,\mathrm{d}x_2,\,\cdots,\,\mathrm{d}x_n d x 1 ​ , d x 2 ​ , ⋯ , d x n ​ 의 쐐기곱들의 합으로 유일하게 표현할 수 있다. 즉, U U U 위의 k k k -형식 ω \omega ω 는 다음과 같이 표현된다.
+
+ω = ∑ I ⊂ { 1 , 2 , ⋯ , n } ∣ I ∣ = k f I d x I , f I ∈ C ∞ ( U ) \displaystyle \omega = \sum_{\tiny \begin{matrix} \scriptsize I \subset \{1,2,\cdots\!,n\} \\ \scriptsize |I|=k \end{matrix}} f_I\,\mathrm{d}x_I,\qquad f_I \in C^{\infty}(U) ω = I ⊂ { 1 , 2 , ⋯ , n } ∣ I ∣ = k ​ ∑ ​ f I ​ d x I ​ , f I ​ ∈ C ∞ ( U )
+여기서 I = { i 1 , i 2 , ⋯ , i k } I=\{i_1,\,i_2,\,\cdots,\,i_k\} I = { i 1 ​ , i 2 ​ , ⋯ , i k ​ } 에 대해 d x I = d x i 1 ∧ d x i 2 ∧ ⋯ ∧ d x i k \mathrm{d}x_{I} = \mathrm{d}x_{i_1} \wedge \mathrm{d}x_{i_2} \wedge \cdots \wedge \mathrm{d}x_{i_k} d x I ​ = d x i 1 ​ ​ ∧ d x i 2 ​ ​ ∧ ⋯ ∧ d x i k ​ ​ 이다.
+
+이 표현에서 외미분을 계산하는 방법은 다음과 같다. 우선 d x I \mathrm{d}x_I d x I ​ 의 외미분은 0 0 0 임을 보일 수 있다. 즉, d ( f d x I ) = d f ∧ d x I \mathrm{d}(f\,\mathrm{d}x_I) = \mathrm{d}f \wedge \mathrm{d}x_I d ( f d x I ​ ) = d f ∧ d x I ​ 을 계산하면 되는데, d f = ∑ i ( ∂ f / ∂ x i ) d x i \mathrm{d}f = \sum_i (\partial f/\partial x_i)\,\mathrm{d}x_i d f = ∑ i ​ ( ∂ f / ∂ x i ​ ) d x i ​ 이고 d x i ∧ d x I = d x i ∧ d x i 1 ∧ ⋯ ∧ d x i k \mathrm{d}x_i \wedge \mathrm{d}x_I= \mathrm{d}x_i \wedge \mathrm{d}x_{i_1} \wedge \cdots \wedge \mathrm{d}x_{i_k} d x i ​ ∧ d x I ​ = d x i ​ ∧ d x i 1 ​ ​ ∧ ⋯ ∧ d x i k ​ ​ 는 앞뒤자리만 바꿔서 d x I ′ \mathrm{d}x_{I'} d x I ′ ​ 꼴로 바꿔준다. 구체적인 예시를 보고 싶으면 아래의 델 관련 부분을 계산해볼 수도 있다.
+
+3.3. 견인 과 적분 [편집]
+견인 (pullback)
+미분다양체 사이의 매끄러운 사상(smooth map) f : M → N f: M \rightarrow N f : M → N 에 대해, N N N 의 k k k -형식 ω \omega ω 의 φ \varphi φ 에 대한 견인 f ∗ ω f^{*} \omega f ∗ ω 는 M M M 위의 k k k -형식으로 다음처럼 정의된다.
+
+f ∗ ω p ( v 1 , ⋯ , v k ) = ω f ( p ) ( d f p ( v 1 ) , ⋯ , d f p ( v k ) ) \displaystyle f^{*}\omega_p(v_1,\,\cdots,\,v_k) = \omega_{f(p)} (\mathrm{d}f_{p}(v_1),\,\cdots,\,\mathrm{d}f_{p}(v_k) ) f ∗ ω p ​ ( v 1 ​ , ⋯ , v k ​ ) = ω f ( p ) ​ ( d f p ​ ( v 1 ​ ) , ⋯ , d f p ​ ( v k ​ ))
+여기서 d f p : T p M → T f ( p ) N \mathrm{d}f_{p} : T_p M \rightarrow T_{f(p)} N d f p ​ : T p ​ M → T f ( p ) ​ N 은 f f f 의 미분이다.
+
+견인은 미분형식의 외대수 구조와 외미분을 보존한다. 이름처럼 미분형식의 구조를 다른 공간으로 끌어온다는 의미를 담고 있다.
+
+미분형식의 적분은 다양체 M M M 이 유향(orientable)이고 미분형식이 compact support를 가져야 적분의 존재성을 일단 보장할 수 있다. 이 조건 하에선 미분형식을 유클리드 공간으로 견인한 후 그 위에서 통상적인 중적분 을 통해 하게 되는데, 보통 다음 세 단계로 나누어 정의한다. 이 정의는 잘 정의되어 있고(즉, 계산 방법에 의존하지 않고) 통상적인 적분에 기대할 수 있는 선형성 성질 등을 모두 만족시킴을 증명할 수 있다. 일반적인 견인에 대해서도 적분이 보존된다. - 유클리드 공간 R n \mathbb{R}^n R n 의 n n n -형식의 적분은, 직교좌표로 표현했을 때의 계수 함수를 중적분한다. 즉, 이제까지 해온 적분이랑 똑같이 하면 된다.
+
+∫ f d x 1 ∧ ⋯ ∧ d x k = ∫ f \displaystyle \int f \,\mathrm{d}x_1 \wedge \cdots \wedge \mathrm{d}x_k = \int f ∫ f d x 1 ​ ∧ ⋯ ∧ d x k ​ = ∫ f
+- n n n 차원 다양체의 열린집합 U U U 가 R n \mathbb{R}^n R n 의 부분집합 V V V 와 미분동형(diffeomorphism) f : V → U f: V \rightarrow U f : V → U 로 나타낼 수 있을 때는 다음처럼 견인으로 정의한다.
+
+∫ U ω = ∫ V f ∗ ω \displaystyle \int_{U} \omega = \int_{V} f^{*} \omega ∫ U ​ ω = ∫ V ​ f ∗ ω
+- 임의의 n n n 차원 다양체의 열린집합 U U U 에서 n n n -형식 ω \omega ω 의 적분은 U U U 의 partition of unity와 분배법칙을 통해 계산한다. 즉, U U U 를 덮는 열린집합들 V i V_i V i ​ 와 이에 상응하는 partition of unity의 표현 1 = ∑ ρ i 1 = \sum \rho_i 1 = ∑ ρ i ​ ( ρ i : U → R ≥ 0 \rho_i : U \rightarrow \mathbb{R}_{\ge 0} ρ i ​ : U → R ≥ 0 ​ 은 V i V_i V i ​ 밖에서는 0 0 0 인 매끄러운 함수)에 대해 다음처럼 정의한다.
+
+∫ U ω = ∑ i ∫ V i ρ i ω \displaystyle \int_{U} \omega = \sum_i \int_{V_i} \rho_i \omega ∫ U ​ ω = i ∑ ​ ∫ V i ​ ​ ρ i ​ ω
+
+4. 스토크스 정리 [편집]
+스토크스 정리 (Stokes' theorem)
+가향(orientable)인 경계가 있는 n n n 차원 미분다양체 M M M 위의 ( n − 1 ) (n-1) ( n − 1 ) -형식 ω \omega ω 에 대해 다음이 성립한다.
+
+∫ ∂ M ω = ∫ M d ω \displaystyle \int_{\partial M} \omega = \int_{M} \mathrm{d} \omega ∫ ∂ M ​ ω = ∫ M ​ d ω
+
+위 서술만으로는 약간의 애매함이 있는데, 우선 ω \omega ω 는 적분이 가능한 것으로 간주한다. 이제까지는 경계가 있는 다양체에 대해 미분형식을 정의하지 않았지만 큰 정의는 크게 다르지 않다. 이 과정을 엄밀하게 할 수 있으면 경계 위에서 ∂ X \partial X ∂ X 의 접평면은 X X X 의 접평면의 부분공간으로 간주할 수 있으므로 좌변의 적분도 잘 정의할 수 있다. 스토크스 정리 문서를 참고하여도 좋다.
+
+스토크스 정리의 증명 자체는 의외로 어렵지 않은데, (??????) 적분이 pullback에 대해 보존되고 선형성을 만족한다는 것을 보이면 partition of unity를 잘 써서 M M M 이 R n \mathbb{R}^n R n 의 직사각형일 때만 보이면 충분하다는 걸로 환원해서 진행하곤 한다. 직사각형인 경우는 단순계산으로 증명할 수 있다. 사실 더럽고 짜증나는 것은 이 정리를 서술하기 위한 모든 과정으로, 많은 수업/교과서에선 여기까지 온 학습자들에 대한 보상 느낌으로 끝자락에 배치되는 경우가 많다.
+
+보다 중요한 것은 이 정리를 어떤 식으로 활용하냐이다. 우선 이 정리는 외미분에 대한 해석을 제공하는데, 위의 정리에서 M M M 을 주어진 점 p p p 근방으로 잡고 영역을 한없이 축소시키면 d ω p \mathrm{d} \omega_p d ω p ​ 의 값을 구할 수 있다. 아래에 나오는 발산(divergence) 등과 연관시켜 발산을 점 주변의 흐름의 극한, 즉 퍼져나오는 양 이런 느낌으로 이해하는 것과 비슷한 맥락이다. 한편으로는 위 성질은 완전 형식(exact form, ω = d ν \omega = \mathrm{d}\nu ω = d ν 꼴의 형식)이 닫힌 형식(closed form, 경계가 없는 영역에서 ∫ N ω = 0 \int_N \omega = 0 ∫ N ​ ω = 0 )이 된다는 것의 일반화로도 볼 수 있고, 이 얘기를 또 끌어나가면 위상수학 에서의 코호몰로지에 대한 이야기로도 풀어갈 수도 있다.
+
+5. 미분형식으로 3차원에서의 델 해석하기 [편집]
+3차원 유클리드 공간 R 3 \mathbb{R}^3 R 3 의 직교좌표계 x x x , y y y , z z z 기준으로 미분형식과 그 외미분은 다음처럼 계산할 수 있다. - 함수 f f f 에 대해 d f = ∂ f ∂ x d x + ∂ f ∂ y d y + ∂ f ∂ z d z \displaystyle \mathrm{d}f = \frac{\partial f}{\partial x}\,\mathrm{d}x + \frac{\partial f}{\partial y}\,\mathrm{d}y + \frac{\partial f}{\partial z}\,\mathrm{d}z d f = ∂ x ∂ f ​ d x + ∂ y ∂ f ​ d y + ∂ z ∂ f ​ d z
+- 1 1 1 -형식 ω = A x d x + A y d y + A z d z \omega = A_x \mathrm{d}x + A_y \mathrm{d}y + A_z \mathrm{d}z ω = A x ​ d x + A y ​ d y + A z ​ d z 에 대해 d ω = d ( A x ) ∧ d x + d ( A y ) ∧ d y + d ( A z ) ∧ d z = ( ∂ A z ∂ y − ∂ A y ∂ z ) d y ∧ d z + ( ∂ A x ∂ z − ∂ A z ∂ x ) d z ∧ d x + ( ∂ A y ∂ x − ∂ A x ∂ y ) d x ∧ d y \displaystyle \begin{aligned} \mathrm{d} \omega &= \mathrm{d}(A_x) \wedge \mathrm{d}x + \mathrm{d}(A_y) \wedge \mathrm{d}y+ \mathrm{d}(A_z) \wedge \mathrm{d}z \\ &= \left( \frac{\partial A_z}{\partial y} - \frac{\partial A_y}{\partial z} \right) \mathrm{d}y \wedge \mathrm{d}z + \left( \frac{\partial A_x}{\partial z} - \frac{\partial A_z}{\partial x} \right) \mathrm{d}z \wedge \mathrm{d}x + \left( \frac{\partial A_y}{\partial x} - \frac{\partial A_x}{\partial y} \right) \mathrm{d}x \wedge \mathrm{d}y \end{aligned} d ω ​ = d ( A x ​ ) ∧ d x + d ( A y ​ ) ∧ d y + d ( A z ​ ) ∧ d z = ( ∂ y ∂ A z ​ ​ − ∂ z ∂ A y ​ ​ ) d y ∧ d z + ( ∂ z ∂ A x ​ ​ − ∂ x ∂ A z ​ ​ ) d z ∧ d x + ( ∂ x ∂ A y ​ ​ − ∂ y ∂ A x ​ ​ ) d x ∧ d y ​
+- 2 2 2 -형식 ω = B x d y ∧ d z + B y d z ∧ d x + B z d x ∧ d y \omega = B_x \mathrm{d}y \wedge \mathrm{d}z + B_y \mathrm{d}z \wedge \mathrm{d}x + B_z \mathrm{d}x \wedge \mathrm{d}y ω = B x ​ d y ∧ d z + B y ​ d z ∧ d x + B z ​ d x ∧ d y 에 대해 d ω = d ( B x ) d y ∧ d z + d ( B y ) d z ∧ d x + d ( B z ) d x ∧ d y = ( ∂ B x ∂ x + ∂ B y ∂ y + ∂ B z ∂ z ) d x ∧ d y ∧ d z \displaystyle \begin{aligned} \mathrm{d} \omega &= \mathrm{d}\,(B_x) \mathrm{d}y \wedge \mathrm{d}z + \mathrm{d}(B_y)\,\mathrm{d}z \wedge \mathrm{d}x + \mathrm{d}(B_z)\,\mathrm{d}x \wedge \mathrm{d}y \\ &= \left( \frac{\partial B_x}{\partial x} + \frac{\partial B_y}{\partial y} + \frac{\partial B_z}{\partial z} \right) \mathrm{d}x \wedge \mathrm{d}y \wedge \mathrm{d}z \end{aligned} d ω ​ = d ( B x ​ ) d y ∧ d z + d ( B y ​ ) d z ∧ d x + d ( B z ​ ) d x ∧ d y = ( ∂ x ∂ B x ​ ​ + ∂ y ∂ B y ​ ​ + ∂ z ∂ B z ​ ​ ) d x ∧ d y ∧ d z ​
+
+이 셋을 각각 직교좌표계의 경사(gradient), 회전(curl), 발산(divergence)과 비교해 보자. 100% 동일한 표현임을 볼 수 있을 것이다.
+
+즉, 델 삼종세트는 모두 이 외미분의 특수한 경우로 이해할 수 있다. 이 대통합 관점에서 보면 선적분의 기본정리, 켈빈-스토크스 정리, 3차원에서의 발산 정리도 결국 각각 1 1 1 , 2 2 2 , 3 3 3 -형식에 대한 일반화된 스토크스 정리 의 특수한 경우에 지나지 않는다. 경사, 회전, 발산을 둘씩 합성하면 0 0 0 이 되는 것도, 즉 ∇ × ( ∇ f ) = 0 \nabla \times (\nabla f) = 0 ∇ × ( ∇ f ) = 0 이 되고 ∇ ⋅ ( ∇ × A ) = 0 \nabla \cdot (\nabla \times {\bf A}) = 0 ∇ ⋅ ( ∇ × A ) = 0 이 되는 것도 다 d 2 = 0 \mathrm{d}^2 = 0 d 2 = 0 으로 설명할 수 있다. 비슷하게, 2차원에서 나오는 그린 정리와 발산 정리도 1 1 1 -형식과 2 2 2 -형식에 대한 스토크스 정리의 일부로 이해할 수 있다.
+
+미분형식에 대해 엄밀하게 배우지 않을 사람들도 이 큰 그림 하나 정도 챙겨두고 가는 건 충분한 가치가 있을 것이다. 특히 델을 많이 쓰는 물리학도라면.
+
+다만, 주의할 점이 한 가지가 있다. 이 이해 방식에서는 2 2 2 -형식을 벡터장으로, 3 3 3 -형식을 함수로 해석하는데, 이들을 자연스럽게 같게 보는 것은 유클리드 공간 한정이다. 더 정확히는 접평면에 내적이 있을 때, 즉 리만 다양체 한정으로 호지 쌍대(Hodge dual)라는 연산 ⋆ : Ω k → Ω n − k \star : \Omega^k \rightarrow \Omega^{n-k} ⋆ : Ω k → Ω n − k 을 통해 가능하다.
+
+[ 1미리치과의원
+치아미백이벤트-앞니레진.com v-if
+신중동역 6번 출구, 치과보철과 전문의
+
+] | [ 남동구퀵서비스 하나로퀵
+1577-3410.com
+[ [ 하나로퀵업체 ] [ 화물퀵서비스 ] [ 법인신청접수 ] [ 하나로퀵후기 ] ]
+다마스화물 배송, 라보퀵 용달, 1톤화물 퀵, 포터배달 경기, 용달트럭 화물트럭퀵
+
+] | [ 남동구퀵배송 퀵브라더스
+www.1599-8330.com v-if
+[ [ 착한요금 ] [ 전국배송 ] [ ktx특송퀵 ] [ 버스.항공퀵 ] ]
+전국 어디든지 구석구석 당일배송, 저렴한요금, 카드결제OK, 친절상담, 인천공항
+
+]
+
+[1] 미적분학의 태동기에 이 부분의 정의를 소홀히 하는 바람에 수학자도 아닌 조지 버클리 한테 사라진 값들의 유령 이라고 까였다. [2] 벡터공간의 쌍대공간 의 원소 [3] 이는 외적 의 성질과 비슷하다. 순서를 바꾸면 부호도 바뀌고, 같은 것끼리 하면 0이 나오는데다가 d x {\rm d}x d x , d y {\rm d}y d y 를 가지고 할 때는 넓이가 나온다는 점까지 비슷하다. 차이점이 있다면 외적은 두 벡터에 모두 수직인 벡터를 가리키지만 쐐기곱은 d x {\rm d}x d x , d y {\rm d}y d y 를 변으로 하는 평행사변형 그 자체를 가리킨다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

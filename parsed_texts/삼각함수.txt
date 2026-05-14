@@ -1,0 +1,502 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 삼각함수
+최근 수정 시각: 2026-05-10 01:17:16 [ [ [ ] [ [ 65 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 삼각함수
+- 기하학
+- 해석학(수학)
+- 초등함수
+- 삼각형
+]
+
+[ [ ] [ cos과 코사인 은 여기로 연결됩니다. 작곡가 Cosine에 대한 내용은 EmoCosine 문서를, 별명이 코사인인 곡에 대한 내용은 Colours of Sorrow 문서를 참고하십시오.
+기호의 기원에 대한 내용은 삼각비 문서의 4 번 문단을, 인터넷 밈에 대한 내용은 삼각함수의 노래 문서를 참고하십시오.
+삼각함수 · 쌍곡선함수
+Trigonometric Functions · Hyperbolic Functions
+[ 펼치기 · 접기 ] 기하학 | 평면기하학 ( 삼각형 · 삼각비 · 원 · 쌍곡선 )
+해석학 | 좌표계 · 복소평면 · 함수 ( 초월함수 · 특수함수 ) · 바이어슈트라스 분해 정리 · 미타그레플레르 정리 · 오일러 공식 · 푸리에 해석 ( 푸리에 변환 )
+삼각함수 | 사인곡선 ( 위상수학자의 사인곡선 ) · 역삼각함수 · 도함수 · 역도함수 · 관련 함수 · 삼각함수의 덧셈정리 · 삼각 적분 함수 · 구데르만 함수 · 프레넬 적분 함수 · 디리클레 함수 · 바이어슈트라스 함수 · 볼테라 함수 · 에어리 함수 · 야코비 타원 함수
+쌍곡선함수 | 현수선 · 쌍곡선 적분 함수 · 구데르만 함수
+
+평면기하학 Plane Geometry
+[ 펼치기 · 접기 ] 공통 | 도형 · 직선 ( 반직선 · 선분 · 평행 ) · 각 ( 맞꼭지각 · 동위각 · 엇각 · 삼각비 ) · 길이 · 넓이 · 다각형 ( 정다각형 · 대각선 ) · 작도 · 합동 ( SAS ) · 닮음 · 등적변형 · 삼각함수 ( 덧셈정리 ) · 접선 · 법선 · 벡터
+삼각형 | 종류 | 정삼각형 · 이등변삼각형 · 부등변삼각형 · 예각삼각형 · 직각삼각형 · 둔각삼각형
+성질 | 오심 ( 관련 정리 · 구점원 ) · 피타고라스 정리 · 사인 법칙 · 코사인 법칙 · 헤론의 공식 · 신발끈 공식 · 스튜어트 정리 · 우산 정리 · 오일러 삼각형 정리 · 데자르그 정리 · 메넬라오스 정리 · 나폴레옹의 정리 · 체바 정리 · 사영 정리 · 판아우벌 정리 · 중점연결정리
+기타 | 세모 모양 · 평범한 삼각형 · 젤곤 삼각형 · 랭글리 삼각형 · 페르마 점
+사각형 | 정사각형 ( 단위정사각형 ) · 직사각형 · 마름모 · 평행사변형 · 사다리꼴 · 등변 사다리꼴 · 연꼴 · 네모 모양
+오각형 이상 다각형 | 오각형 · 육각형 · 칠각형 · 팔각형 ( 정팔각형 ) · 구각형 · 십각형 · 십일각형 · 십이각형 · 백각형
+원 | 단위원 · 원주율 · 호 · 부채꼴 · 할선 · 활꼴 · 방정식 · 원주각 · 방멱 정리 · 톨레미 정리
+원뿔곡선 | 포물선 · 타원 · 쌍곡선 · 파스칼 정리
+기타 | 유클리드 · 보조선 · 테셀레이션 ( 펜로즈 타일 ) · 제곱근의 앵무조개 · 픽의 정리 · 논증 기하학 · 해석 기하학 · 3대 작도 불능 문제
+
+1 . 개요 2 . 일반각과 삼각비 3 . 정의 3.1 . 해석기하학: 좌표와 원으로 정의하기 3.2 . 해석학: 무한급수로 정의 3.3 . 해석학: 무한곱으로 사인·코사인 정의하기 4 . 도량형학 관점에서 바라본 정의역의 고찰 5 . 항등식 5.1 . 삼각함수의 덧셈정리 6 . 함수의 주기성 및 그래프 6.1 . 여러 가지 각의 삼각함수 7 . 삼각방정식과 삼각함수부등식 7.1 . 삼각방정식 7.1.1 . 삼각방정식의 일반해 7.2 . 삼각함수부등식 8 . 극한 8.1 . 연속성 8.2 . 특수한 극한값을 갖는 합성함수 9 . 미적분 9.1 . 도함수 9.2 . 역도함수 10 . 역함수 11 . 관련 함수 12 . 푸리에 급수 13 . 복소 및 극형식 13.1 . 극좌표계 13.2 . 오일러 공식 관련 13.3 . 복소함수에서의 삼각함수의 절댓값 13.4 . 복소평면에서의 삼각함수의 그래프 14 . 수학 교과에서의 삼각함수 15 . '삼각함수에 관한 식' 오역 의견 16 . 둘러보기
+
+1. 개요 [편집]
+삼각함수 ( 三 角 函 數 , trigonometric function [1] )는 삼각비 에서 쓰이는 정의역 을 예각 에서 일반각으로 확장 시킨 함수 이다. 일반각은 기존의 예각은 물론 예각이 아닌 각까지 포함하는 더 넓은 개념이다.
+
+2. 일반각과 삼각비 [편집]
+일반각을 정의하는 방법에는 도( ° \degree ° )를 단위로 하는 육십분법 과 라디안 ( r a d \rm rad rad )을 단위로 하는 호도법 , 그리고 잘 쓰이지는 않지만 그레이드( ɡ ^{\char0609} ɡ )를 단위로 하는 그레이드법 이 있다. 어떤 체계에서든 각도는 무차원량 인 " 1회전 "에 대한 상댓값이기 때문에 차원 이 없으며 단위가 반드시 명시되어야 한다. [주의] - 육십분법 (단위: ° \degree ° )은 시초선 을 기준( 0 ° 0\degree 0° )으로 하여 1회전을 360 ° 360\degree 360° 로 정의하는 각이다. 즉 1 ° 1\degree 1° 는 1 ° = 1\degree =\, 1° = (1회전) × 1 360 \,\times \dfrac1{360} × 360 1 ​
+
+로 정의된다. 자세한 내용은 각 문서 참고.
+- 호도법 (단위: r a d \rm rad rad )은 부채꼴에서 호의 길이 l l l 이 반지름 r r r 과 중심각의 수치에 비례한다는 특징과, '원주가 지름의 π \pi π 배(원주가 반지름의 2 π 2\pi 2 π 배)'로 일정하다는 성질을 이용하여 정의되는 각이다. 즉 θ = 1 r a d \theta = 1{\rm\,rad} θ = 1 rad 은 θ = \theta=\, θ = (1회전) × l 2 π r \,\times \dfrac l{2\pi r} × 2 π r l ​
+
+에서 l = r l=r l = r 인 경우로 정의하며, 이에 따라 1회전은 2 π r a d 2\pi{\rm\,rad} 2 π rad 이다. 삼각함수는 호도법 각의 수치(즉, 단위를 뗀 값)만을 정의역으로 갖기 때문에 ( 도량형학 관점에서 바라본 정의역의 고찰 문단에서 후술) 보통 호도법은 단위 를 생략한다고 잘못 알려져 있다. 이하 아래에서 삼각함수의 정의역으로 쓰인 θ \theta θ , ϕ \phi ϕ 등은 각도 그 자체가 아닌 호도법으로 나타낸 각도의 수치(즉 r a d \rm rad rad 으로 단위로 하는 각도의 수치)를 의미하는 것으로 이해하자. 자세한 내용은 라디안 문서를 참고하십시오.
+- 삼각비 를 일반화한 함수, 즉 정의역을 넓은 범위로 확장한 함수(충분조건)이므로 그 기호와 기원 역시 삼각비의 기원과 동일한 것으로 알려져 있다. [3] 자세한 내용은 삼각비 문서를 참고하십시오.
+
+3. 정의 [편집]
+
+3.1. 해석기하학: 좌표와 원으로 정의하기 [편집]
+
+고등학교에서 배우는 정의로, 좌표평면 상 원점 O \rm O O 가 중심인 단위원 을 고려하자. 단위원 위의 한 점 P ( x , y ) {\rm P}(x, y) P ( x , y ) 에 대하여 x x x 축의 양의 방향을 시초선 [4] 으로 잡는다. O \rm O O 를 중심으로 시초선에서 반시계 방향 회전을 각의 양의 방향으로 잡고, 그 각의 크기를 θ \theta θ 라고 하고, 삼각함수를 다음과 같이 정의한다. sin ⁡ θ ≔ y cos ⁡ θ ≔ x tan ⁡ θ ≔ y x ( x ≠ 0 ) \begin{aligned}\sin\theta&\coloneqq y\\ \cos\theta&\coloneqq x\\ \tan\theta&\coloneqq\dfrac yx\pod{x\ne0}\end{aligned} sin θ cos θ tan θ ​ : = y : = x : = x y ​ ( x  = 0 ) ​
+
+각각 '사인', '코사인', '탄젠트'로 읽는다.
+
+동경이 몇 사분면에 위치하는지에 따라 삼각함수의 부호는 달라진다. 동경의 위치 | 1사분면 | 2사분면 | 3사분면 | 4사분면
+사인의 부호 | + + + | + + + | − - − | − - −
+코사인의 부호 | + + + | − - − | − - − | + + +
+탄젠트의 부호 | + + + | − - − | + + + | − - −
+
+이를 순서대로 올(all)사(sine)탄(tangent)코(cosine) [5] 로 외우면 좋다. [6]
+
+그동안 직각삼각형 으로만 정의해왔던 것에 익숙한 사람은 위와 같은 정의가 낯설 수 있다. 하지만 잘 생각해보면 θ \theta θ 가 예각일 때, 위의 관계식은 빗변의 길이가 1인 직각삼각형에서 삼각비 를 정의했던 것과 완전히 같다는 것을 알 수 있다. 차이점이라면 더 이상 (0 또는 음수가 될 수 없는) '길이' 개념에서 벗어나 '좌표'를 이용하기 때문에 직각삼각형에 구애받을 필요가 없고, 따라서 θ \theta θ 가 일반각으로 해석적으로 확장 된다는 점이다.
+
+다음과 같이 삼각함수의 역수를 정의한다. csc ⁡ θ ≔ 1 sin ⁡ θ = 1 y ( y ≠ 0 ) sec ⁡ θ ≔ 1 cos ⁡ θ = 1 x ( x ≠ 0 ) cot ⁡ θ ≔ 1 tan ⁡ θ = x y ( y ≠ 0 ) \begin{aligned}\csc\theta&\coloneqq\frac1{\sin\theta}=\frac1y\pod{y\ne0}\\ \sec\theta&\coloneqq\frac1{\cos\theta}=\frac1x\pod{x\ne0}\\ \cot\theta&\coloneqq\frac1{\tan\theta}=\frac xy\pod{y\ne0}\end{aligned} csc θ sec θ cot θ ​ : = sin θ 1 ​ = y 1 ​ ( y  = 0 ) : = cos θ 1 ​ = x 1 ​ ( x  = 0 ) : = tan θ 1 ​ = y x ​ ( y  = 0 ) ​
+
+각각 '코시컨트', '시컨트', '코탄젠트'라 읽는다. 코시컨트는 cosec ⁡ x \cosec x cosec x 로 쓰기도 한다.
+
+좌표평면 상 원점 O \rm O O 가 중심이고, 반지름이 r r r 인 원 위의 점 ( x , y ) (x,y) ( x , y ) 에 대해서도 동일한 방법으로 정의가 가능하며, 아래와 같다. sin ⁡ θ ≔ y r cos ⁡ θ ≔ x r tan ⁡ θ ≔ y x \begin{aligned}\sin\theta&\coloneqq\frac yr\\ \cos\theta&\coloneqq\frac xr\\ \tan\theta&\coloneqq\frac yx\end{aligned} sin θ cos θ tan θ ​ : = r y ​ : = r x ​ : = x y ​ ​
+
+주의해야 할 것은, 삼각함수를 sin ⁡ n θ \sin^n\theta sin n θ 처럼 거듭제곱 꼴로 나타낸 경우, 이는 함수를 n n n 번 합성 한 것이 아니라 함숫값의 n n n 제곱을 의미한다는 점이다. 즉, ( sin ⁡ θ ) 2 = sin ⁡ 2 θ ≠ sin ⁡ ( sin ⁡ θ ) (\sin\theta)^2=\sin^2\theta\ne\sin(\sin\theta) ( sin θ ) 2 = sin 2 θ  = sin ( sin θ )
+
+이다.
+
+3.2. 해석학: 무한급수로 정의 [편집]
+'무한급수'에 대한 내용은 급수(수학) 문서의 3 번 문단을, '비율 판정법'에 대한 내용은 급수(수학) 문서의 3.6 번 문단을, 사인함수와 코사인함수 이외의 다른 삼각함수의 테일러 급수에 대한 내용은 테일러 급수/목록 문서의 4.2 번 문단을 참고하십시오.
+무한급수 를 활용하여 삼각함수를 다음과 같이 테일러 급수 로도 정의할 수 있다. 이 방법은 해석기하학 에 의존하지 않으며 복소수나 정사각행렬 등으로도 확장할 수 있다. 이렇게 정의하면 원주율 π \pi π 는 코사인 함수의 근 중 가장 작은 양수의 2배로 정의된다. 기하학적으로 cos ⁡ π 2 = 0 \cos\cfrac\pi2=0 cos 2 π ​ = 0 을 반대로 접근하는 것인 셈. 그러면 단위원의 넓이는 π \pi π 이고 원주는 2 π 2\pi 2 π 가 되는데, 당연하겠지만 기존 기하학의 결과와 완전히 일치한다. 삼각함수를 기하학적으로 정의하면 삼각함수의 미적분에서 lim ⁡ x → 0 sin ⁡ x x = 1 \lim\limits_{x\to0}\cfrac{\sin x}x=1 x → 0 lim ​ x sin x ​ = 1 임을 증명하는 과정에서 기하학적인 원넓이의 공식을 이용하기 때문에 순환논리에 빠지지만(아래 특수한 극한값을 갖는 합성함수 문서 참고.), 무한급수로 삼각함수를 정의하면 이 순환논리를 피할 수 있다. 무한급수로 삼각함수를 정의하면 기하학적 의미를 알 수 없는데 곡선의 길이 공식으로 단위원을 적분하여 아크코사인 함수를 만들 수 있고 이것이 무한급수로 정의한 아크코사인과 같음을 보여서 급수로 정의한 삼각함수의 기하학적 의미를 알 수 있다. sin ⁡ x = ∑ n = 0 ∞ ( − 1 ) n x 2 n + 1 ( 2 n + 1 ) ! = x − x 3 3 ! + x 5 5 ! − x 7 7 ! + ⋯ cos ⁡ x = ∑ n = 0 ∞ ( − 1 ) n x 2 n ( 2 n ) ! = 1 − x 2 2 ! + x 4 4 ! − x 6 6 ! + ⋯ \begin{aligned}\sin x&=\sum_{n=0}^\infty\frac{(-1)^nx^{2n+1}}{(2n+1)!}\\&=x-\frac{x^3}{3!}+\frac{x^5}{5!}-\frac{x^7}{7!}+\cdots\\\cos x&=\sum_{n=0}^\infty\frac{(-1)^nx^{2n}}{(2n)!}\\&=1-\frac{x^2}{2!}+\frac{x^4}{4!}-\frac{x^6}{6!}+\cdots\end{aligned} sin x cos x ​ = n = 0 ∑ ∞ ​ ( 2 n + 1 )! ( − 1 ) n x 2 n + 1 ​ = x − 3 ! x 3 ​ + 5 ! x 5 ​ − 7 ! x 7 ​ + ⋯ = n = 0 ∑ ∞ ​ ( 2 n )! ( − 1 ) n x 2 n ​ = 1 − 2 ! x 2 ​ + 4 ! x 4 ​ − 6 ! x 6 ​ + ⋯ ​
+
+[비율판정법으로 수렴·발산 여부 확인하기]
+수열 { a n } \{a_n\} { a n ​ } 을 다음과 같이 가정하자. a n ≔ x n n ! a_n\coloneqq\dfrac{x^n}{n!} a n ​ : = n ! x n ​
+
+그러면 이 수열에 관한 sin ⁡ x \sin x sin x , cos ⁡ x \cos x cos x 의 식을 다음과 같이 나타낼 수 있다. sin ⁡ x = x − x 3 3 ! + x 5 5 ! − x 7 7 ! + ⋯ = ∑ k = 0 ∞ ( − 1 ) k a 2 k + 1 cos ⁡ x = 1 − x 2 2 ! + x 4 4 ! − x 6 6 ! + ⋯ = ∑ k = 0 ∞ ( − 1 ) k a 2 k \begin{aligned}\sin x&=x-\frac{x^3}{3!}+\frac{x^5}{5!}-\frac{x^7}{7!}+\cdots=\sum_{k=0}^\infty(-1)^ka_{2k+1}\\\cos x&=1-\frac{x^2}{2!}+\frac{x^4}{4!}-\frac{x^6}{6!}+\cdots=\sum_{k=0}^\infty(-1)^ka_{2k}\end{aligned} sin x cos x ​ = x − 3 ! x 3 ​ + 5 ! x 5 ​ − 7 ! x 7 ​ + ⋯ = k = 0 ∑ ∞ ​ ( − 1 ) k a 2 k + 1 ​ = 1 − 2 ! x 2 ​ + 4 ! x 4 ​ − 6 ! x 6 ​ + ⋯ = k = 0 ∑ ∞ ​ ( − 1 ) k a 2 k ​ ​
+
+각 급수의 일반항의 비율은 sin ⁡ x ⁣ : − a 2 k + 3 a 2 k + 1 cos ⁡ x ⁣ : − a 2 k + 2 a 2 k \begin{aligned}\sin x&\colon-\frac{a_{2k+3}}{a_{2k+1}}\\\cos x&\colon-\frac{a_{2k+2}}{a_{2k}}\end{aligned} sin x cos x ​ : − a 2 k + 1 ​ a 2 k + 3 ​ ​ : − a 2 k ​ a 2 k + 2 ​ ​ ​
+
+이며, 이들의 절댓값 의 극한 을 한꺼번에 구하기 위해 아래와 같이 일반화할 수 있다: − a k + 2 a k = − x k + 2 ( k + 2 ) ! x k k ! = − x 2 ( k + 1 ) ( k + 2 ) -\dfrac{a_{k+2}}{a_k}=-\dfrac{\dfrac{x^{k+2}}{(k+2)!}}{\dfrac{x^k}{k!}}=-\dfrac{x^2}{(k+1)(k+2)} − a k ​ a k + 2 ​ ​ = − k ! x k ​ ( k + 2 )! x k + 2 ​ ​ = − ( k + 1 ) ( k + 2 ) x 2 ​
+
+이때 x x x 가 고정되어 있으므로 다음이 성립한다. lim ⁡ k → ∞ x 2 ( k + 1 ) ( k + 2 ) = 0 \lim\limits_{k\to\infty}\dfrac{x^2}{(k+1)(k+2)}=0 k → ∞ lim ​ ( k + 1 ) ( k + 2 ) x 2 ​ = 0
+
+비율판정법의 따름정리에 의하여 위에서 나타낸 식
+|<tableclass=tpc> { sin ⁡ x = ∑ k = 0 ∞ ( − 1 ) k a 2 k + 1 = ∑ k = 0 ∞ ( − 1 ) k x 2 k + 1 ( 2 k + 1 ) ! cos ⁡ x = ∑ k = 0 ∞ ( − 1 ) k a 2 k = ∑ k = 0 ∞ ( − 1 ) k x 2 k ( 2 k ) ! \begin{cases}\displaystyle\sin x=\sum_{k=0}^\infty(-1)^ka_{2k+1}=\sum_{k=0}^\infty\frac{(-1)^kx^{2k+1}}{(2k+1)!}\\\displaystyle\cos x=\sum_{k=0}^\infty(-1)^ka_{2k}=\sum_{k=0}^\infty\frac{(-1)^kx^{2k}}{(2k)!}\end{cases} ⎩ ⎨ ⎧ ​ sin x = k = 0 ∑ ∞ ​ ( − 1 ) k a 2 k + 1 ​ = k = 0 ∑ ∞ ​ ( 2 k + 1 )! ( − 1 ) k x 2 k + 1 ​ cos x = k = 0 ∑ ∞ ​ ( − 1 ) k a 2 k ​ = k = 0 ∑ ∞ ​ ( 2 k )! ( − 1 ) k x 2 k ​ ​||
+이 성립하며, 어떤 실수 x x x 값을 대입하더라도 반드시 수렴한다.
+
+또한 이 급수의 수열은 절대 수렴하는 수열이기 때문에 복소수를 대입하더라도 마찬가지로 정의에 따라 절대적으로 수렴함이 확인된다. [7]
+
+다른 삼각함수에 대한 무한급수는 다음과 같다. B n B_n B n ​ 은 베르누이 수열 , E n E_n E n ​ 은 오일러 수열 이다. tan ⁡ x = ∑ n = 1 ∞ { ( − 4 ) n − ( − 16 ) n } B 2 n ( 2 n ) ! x 2 n − 1 = ∑ n = 0 ∞ 8 x ( 2 n + 1 ) 2 π 2 − 4 x 2 sec ⁡ x = ∑ n = 0 ∞ ( − 1 ) n E 2 n ( 2 n ) ! x 2 n = ∑ n = 0 ∞ ( − 1 ) n ( 2 n + 1 ) π ( n + 1 2 ) 2 π 2 − x 2 csc ⁡ x = ∑ n = 0 ∞ { 2 ( − 1 ) n − ( − 4 ) n } B 2 n ( 2 n ) ! x 2 n − 1 = 1 x + 2 x ∑ n = 1 ∞ ( − 1 ) n x 2 − ( n π ) 2 cot ⁡ x = ∑ n = 0 ∞ ( − 4 ) n B 2 n ( 2 n ) ! x 2 n − 1 = 1 x + 2 x ∑ k = 1 ∞ 1 x 2 − ( k π ) 2 \begin{aligned}\tan x&=\sum_{n=1}^\infty\frac{\left\{(-4)^n-(-16)^n\right\}B_{2n}}{(2n)!}x^{2n-1}\\&=\sum_{n=0}^\infty\frac{8x}{(2n+1)^2\pi^2-4x^2}\\\sec x&=\sum_{n=0}^\infty\frac{(-1)^nE_{2n}}{(2n)!}x^{2n}\\&=\sum_{n=0}^\infty\frac{(-1)^n(2n+1)\pi}{\biggl(n+\dfrac12\biggr)^2\pi^2-x^2}\\\csc x&=\sum_{n=0}^\infty\frac{\left\{2(-1)^n-(-4)^n\right\}B_{2n}}{(2n)!}x^{2n-1}\\&=\frac1x+2x\sum_{n=1}^\infty\frac{(-1)^n}{x^2-(n\pi)^2}\\\cot x&=\sum_{n=0}^\infty\frac{(-4)^nB_{2n}}{(2n)!}x^{2n-1}\\&=\frac1x+2x\sum_{k=1}^\infty\frac1{x^2-(k\pi)^2}\end{aligned} tan x sec x csc x cot x ​ = n = 1 ∑ ∞ ​ ( 2 n )! { ( − 4 ) n − ( − 16 ) n } B 2 n ​ ​ x 2 n − 1 = n = 0 ∑ ∞ ​ ( 2 n + 1 ) 2 π 2 − 4 x 2 8 x ​ = n = 0 ∑ ∞ ​ ( 2 n )! ( − 1 ) n E 2 n ​ ​ x 2 n = n = 0 ∑ ∞ ​ ( n + 2 1 ​ ) 2 π 2 − x 2 ( − 1 ) n ( 2 n + 1 ) π ​ = n = 0 ∑ ∞ ​ ( 2 n )! { 2 ( − 1 ) n − ( − 4 ) n } B 2 n ​ ​ x 2 n − 1 = x 1 ​ + 2 x n = 1 ∑ ∞ ​ x 2 − ( nπ ) 2 ( − 1 ) n ​ = n = 0 ∑ ∞ ​ ( 2 n )! ( − 4 ) n B 2 n ​ ​ x 2 n − 1 = x 1 ​ + 2 x k = 1 ∑ ∞ ​ x 2 − ( k π ) 2 1 ​ ​
+
+자세한 내용은 미타그레플레르 정리 문서를 참고하자.
+
+3.3. 해석학 : 무한곱으로 사인·코사인 정의하기 [편집]
+자세한 내용은 바이어슈트라스 분해 정리 문서를 참고하십시오. 한편 무한합이 아닌 무한 곱 으로도 삼각함수를 정의할 수 있는데, 카를 바이어슈트라스 가 유도했다. 자세한 내용은 바이어슈트라스 분해 정리 문서를 참고하자. sin ⁡ ( π z ) = π z ∏ k = 1 ∞ ( 1 − z 2 k 2 ) cos ⁡ ( π z ) = ∏ k = 1 ∞ ( 1 − 4 z 2 ( 2 k − 1 ) 2 ) \begin{aligned} \sin(\pi z) &= \pi z \prod_{k=1}^\infty \biggl( 1 -\frac{z^2}{k^2} \biggr) \\ \cos(\pi z) &= \prod_{k=1}^\infty \biggl( 1 -\frac{4z^2}{(2k-1)^2} \biggr) \end{aligned} sin ( π z ) cos ( π z ) ​ = π z k = 1 ∏ ∞ ​ ( 1 − k 2 z 2 ​ ) = k = 1 ∏ ∞ ​ ( 1 − ( 2 k − 1 ) 2 4 z 2 ​ ) ​
+
+4. 도량형학 관점에서 바라본 정의역의 고찰 [편집]
+물리량 문서에 명시되어있듯 (물리량) = = = (수치) × \times × (단위)의 관계에 있다. 어떤 물리량으로 계산할 때 단위는 수치에 곱해져서 따라다닐 뿐 수치에 영향을 미치지 않기 때문에 수학에서는 물리량에서 단위를 뗀 수치에 주목해서 다루지만, 단위까지 포함된 물리량으로서 다뤄야 하는 도량형학(좀 더 넓은 범주로는 물리학)의 관점에서는 수치만 놓고 다룰 수 없다. 1회전이 육십분법에서는 360 ° 360\degree 360° 이고, 그레이드 단위에서는 400 ɡ 400^{\char0609} 40 0 ɡ 이고 호도법에서는 2 π r a d 2\pi{\rm\,rad} 2 π rad [8] 으로 1회전의 기준이 각각 다르게 정의되어 무슨 단위를 쓰는지에 따라 그 수치가 변하기 때문이다. 이는 물리량의 방정식을 구분하는 범주 중 수치방정식(numerical-value equation)이 갖는 특성, 즉 물리량 Q Q Q 의 수치 Q [ Q ] \cfrac Q{[Q]} [ Q ] Q ​ 가 무슨 단위 [ Q ] [Q] [ Q ] 를 취하느냐에 따라 그 값이 변한다는 성질을 아주 잘 보여준다.
+
+온도에 관한 환산 공식을 쓸 때, 가령 섭씨온도 → 화씨온도 혹은 절대온도 → 화씨온도 로 환산하는 경우 T ° ⁣ F ° ⁣ F = 9 5 T ° ⁣ C ° ⁣ C + 32 = 9 5 T K K − 459.67 \begin{aligned}\frac{T_{\rm\degree\!F}}{\rm\degree\!F} &= \frac95\frac{T_{\rm\degree\!C}}{\rm\degree\!C} + 32 \\ &= \frac95\frac{T_{\rm K}}{\rm K}-459.67 \end{aligned} ° F T ° F ​ ​ ​ = 5 9 ​ ° C T ° C ​ ​ + 32 = 5 9 ​ K T K ​ ​ − 459.67 ​
+
+위와 같이 차원 은 물론 단위까지 고려한 방정식으로 나타내야 한다는 원칙 [9] 에 따라, 각도에 관한 물리량을 정의역으로 갖는 삼각함수 역시 도량형학 관점에서는 단위 관계가 같이 고려되어야 한다. 가령 널리 알려진 sin ⁡ θ \sin\theta sin θ 의 미분 공식 d ( sin ⁡ θ ) d θ = cos ⁡ θ \dfrac{{\rm d}(\sin\theta)}{{\rm d}\theta} = \cos\theta d θ d ( sin θ ) ​ = cos θ
+
+을 잘 살펴보면 좌변은 r a d \rm rad rad 단위를 내포하는 호도법의 미소각 d θ {\rm d}\theta d θ 로 단위가 없는 미소 사인함수 d ( sin ⁡ θ ) {\rm d}(\sin\theta) d ( sin θ ) [10] 를 나눈 것과 같으므로 도량형학의 관점에서 좌변은 단위가 1 / r a d 1/{\rm rad} 1/ rad 이다. 그러나 우변은 단위가 없는 cos ⁡ θ \cos\theta cos θ 이므로 위 식은 도량형학의 관점에서는 틀린 수식이 된다. 단위 관계를 맞추기 위해 좌변에 r a d \rm rad rad 을 곱해서 d ( sin ⁡ θ ) d θ r a d = d ( sin ⁡ θ ) d ( θ / r a d ) = cos ⁡ θ \dfrac{{\rm d}(\sin\theta)}{{\rm d}\theta}\,{\rm rad} = \dfrac{{\rm d}(\sin\theta)}{{\rm d}(\theta/{\rm rad})} = \cos\theta d θ d ( sin θ ) ​ rad = d ( θ / rad ) d ( sin θ ) ​ = cos θ
+
+로 나타낸다 해도 문제가 되는데, 알려진 바와 같이 sin ⁡ θ \sin\theta sin θ 는 정의상 다음과 같이 무한 급수 sin ⁡ θ = ∑ n = 0 ∞ ( − 1 ) n θ 2 n + 1 ( 2 n + 1 ) ! = θ − θ 3 3 ! + θ 5 5 ! − θ 7 7 ! + ⋯ \begin{aligned}\sin\theta &= \sum_{n=0}^\infty\frac{(-1)^n\theta^{2n+1}}{(2n+1)!} \\ &= \theta - \frac{\theta^3}{3!} + \frac{\theta^5}{5!} - \frac{\theta^7}{7!} + \cdots\end{aligned} sin θ ​ = n = 0 ∑ ∞ ​ ( 2 n + 1 )! ( − 1 ) n θ 2 n + 1 ​ = θ − 3 ! θ 3 ​ + 5 ! θ 5 ​ − 7 ! θ 7 ​ + ⋯ ​
+
+와 같으므로 대입하면 d ( sin ⁡ θ ) d ( θ / r a d ) = d d ( θ / r a d ) ( θ − θ 3 3 ! + θ 5 5 ! − θ 7 7 ! + ⋯ ) = r a d − θ 2 2 ! r a d + θ 4 4 ! r a d − θ 6 6 ! r a d + ⋯ \begin{aligned}\frac{{\rm d}(\sin\theta)}{{\rm d}(\theta/{\rm rad})} &= \frac{\rm d}{{\rm d}(\theta/{\rm rad})}{\left(\theta - \frac{\theta^3}{3!} + \frac{\theta^5}{5!} - \frac{\theta^7}{7!} + \cdots\right)} \\ &= {\rm rad} - \frac{\theta^2}{2!}{\rm\,rad} + \frac{\theta^4}{4!}{\rm\,rad} - \frac{\theta^6}{6!}{\rm\,rad} + \cdots\end{aligned} d ( θ / rad ) d ( sin θ ) ​ ​ = d ( θ / rad ) d ​ ( θ − 3 ! θ 3 ​ + 5 ! θ 5 ​ − 7 ! θ 7 ​ + ⋯ ) = rad − 2 ! θ 2 ​ rad + 4 ! θ 4 ​ rad − 6 ! θ 6 ​ rad + ⋯ ​
+
+으로 우변에 r a d \rm rad rad 이 일괄적으로 곱해진 수식이 되며, 첫째 항은 단위가 r a d \rm rad rad , 둘째 항은 θ 2 \theta^2 θ 2 까지 포함하여 단위가 r a d 3 \rm rad^3 ra d 3 , 같은 방식으로 셋째 항은 단위가 r a d 5 \rm rad^5 ra d 5 등등이 되어 양변의 단위가 전혀 맞지 않는 수식이 된다. 이를 해결하는 유일한 방법은 삼각함수의 정의역에 θ \bm\theta θ 가 아닌 θ / r a d \bm\theta{\bf/rad} θ /rad , 즉 호도법 각도의 수치 [11] 가 들어가는 것 이다.
+
+혹은 다음과 같이 보일 수도 있다. 평면 좌표계에서 반지름이 r r r 인 원 위의 좌표 ( x , y ) (x,y) ( x , y ) 에 대하여 y / r y/r y / r 는 단위가 없는(설령 단위가 있더라도 서로 같은 단위와 차원 을 공유하는) y y y 와 r r r 의 비이므로 y / r y/r y / r 는 단위가 없는 순수한 수치이다. 이때 다음과 같은 무한 급수 ∑ n = 0 ∞ ( 2 n − 1 ) ! ! ( 2 n ) ! ! ⋅ ( 2 n + 1 ) ( y r ) 2 n + 1 = y r + 1 6 ( y r ) 3 + 3 40 ( y r ) 5 + 5 112 ( y r ) 7 + ⋯ \displaystyle \sum_{n=0}^\infty \frac{(2n-1)!!}{(2n)!!{\cdot}(2n+1)}{\left(\frac yr\right)}^{2n+1} = \frac yr + \frac16{\left(\frac yr\right)}^3 + \frac3{40}{\left(\frac yr\right)}^5 + \frac5{112}{\left(\frac yr\right)}^7 + \cdots n = 0 ∑ ∞ ​ ( 2 n )!! ⋅ ( 2 n + 1 ) ( 2 n − 1 )!! ​ ( r y ​ ) 2 n + 1 = r y ​ + 6 1 ​ ( r y ​ ) 3 + 40 3 ​ ( r y ​ ) 5 + 112 5 ​ ( r y ​ ) 7 + ⋯
+
+는 순수한 수치들로만 구성된 급수이므로 위 급수가 특정 값 α \alpha α 로 수렴한다면 α \alpha α 역시 단위가 없는 순수한 수치이다. 위 급수는 ∣ y / r ∣ ≤ 1| y/r|\le1 ∣ y / r ∣ ≤ 1 일 때 수렴하는 것으로 알려져 있는데 y y y 가 반지름이 r r r 인 원 위의 점 ( x , y ) (x,\,y) ( x , y ) 의 좌표이므로 수렴하며, 이 값은 arcsin ⁡ ( y / r ) = α \arcsin{( y/r)} = \alpha arcsin ( y / r ) = α , 즉 sin ⁡ \sin sin 함수의 정의역인 '각에 관한 값'을 나타낸다. − π / 2 ≤ α ≤ π / 2 -\pi/2\le\alpha\le\pi/2 − π /2 ≤ α ≤ π /2 라고 할 때, sin ⁡ α = y / r \sin\alpha = y/r sin α = y / r 로 나타낼 수 있으며 α \alpha α 는 단위가 없는 수치이므로 r a d \rm rad rad 단위가 있는 θ \theta θ 로 환원하면 θ = α r a d ⇔ α = θ / r a d \theta = \alpha{\rm\,rad} \Leftrightarrow \alpha = \theta/{\rm rad} θ = α rad ⇔ α = θ / rad , 즉 삼각함수의 정의역에는 r a d \rm rad rad 단위가 약분된 수치 θ / r a d \theta/{\rm rad} θ / rad 이 들어가야 한다.
+
+이 특징이 흔히 '호도법으로 나타낸 각은 r a d \rm rad rad 단위를 쓰지 않아도 된다'고 잘못 알려져 있는데 애초에 r a d \rm rad rad 을 뗀 수치만이 정의역이어야 수학에서 쓰는 공식을 물리학에서도 그대로 쓸 수 있다는 특성이 와전된 것이다. 이러니 고등학교 수학 에서 꼭 나오는 질문 중 하나가 "왜 호도법 각을 쓸 때 단위를 안 쓰나요?"라는 것은 안 봐도 비디오.
+
+실제로 위와 같이 삼각함수의 정의역에 단위를 포함하지 않는, 호도법 각의 수치만 들어가야 한다는 고찰은 일찍이 학계에서도 논의된 바 있다. 해당 표기에 대해서는 학자마다 저마다의 표기를 써서 중구난방이긴 하지만 나열하면 다음과 같다. [12]
+- A. B. Torrens의 1986년 논문 : 호의 길이가 s s s , 반지름이 R R R 인 부채꼴의 중심각을 나타내는 식 θ = s / R \theta = s/R θ = s / R 에서 s / R s/R s / R 가 의미하는 바가 '각도의 수치'(angle in radians, i. e. θ / r a d \theta/{\rm rad} θ / rad )인지 아니면 단위가 있는 '각'(angle, θ \theta θ ) 그 자체인지 혼란을 야기한다고 고찰했고 s / R s/R s / R 는 본질적으로 단위가 없는 순수한 수치이므로 좌변의 '각'을 의미하는 θ \theta θ 의 단위를 약분하는 η = r a d − 1 \eta = {\rm rad}^{-1} η = rad − 1 의 도입을 제안했다. 이에 따라 라디안으로 나타낸 각 φ \varphi φ 에 대하여 s = η R φ s = \eta R\varphi s = η R φ 이므로 d s = η R d φ {\rm d}s = \eta R{\rm\,d}\varphi d s = η R d φ 가 되고 φ \varphi φ 를 정의역으로 갖는 삼각함수를 Sin ⁡ \operatorname{Sin} Sin , Cos ⁡ \operatorname{Cos} Cos 와 같이 첫 글자를 대문자로 표기하여 d ( Sin ⁡ φ ) = d y R ≃ d s Cos ⁡ φ R = ( η R d φ ) Cos ⁡ φ R = η Cos ⁡ φ d φ ∴ d d φ Sin ⁡ φ = η Cos ⁡ φ \begin{aligned}{\rm d}(\operatorname{Sin}\varphi) &= \frac{{\rm d}y}R \\ &\simeq \frac{{\rm d}s\operatorname{Cos}\varphi}R \\ &= \frac{(\eta\cancel R{\rm\,d}\varphi)\operatorname{Cos}\varphi}{\cancel R} \\ &= \eta\operatorname{Cos}\varphi{\rm\,d}\varphi \\ \\ \therefore \frac{\rm d}{{\rm d}\varphi}\operatorname{Sin}\varphi &= \eta\operatorname{Cos}\varphi\end{aligned} d ( Sin φ ) ∴ d φ d ​ Sin φ ​ = R d y ​ ≃ R d s Cos φ ​ = R ​ ( η R ​ d φ ) Cos φ ​ = η Cos φ d φ = η Cos φ ​
+
+의 관계식을 이끌어냈고 [13] 위 식은 일반적으로 쓰이는 미분식 ( d sin ⁡ x ) / d x = cos ⁡ x ({\rm d}\sin{x})/{\rm d}x = \cos x ( d sin x ) / d x = cos x 에서 x = η φ x = \eta\varphi x = η φ 인 경우를 다르게 풀어쓴 표현이라는 점까지 고찰했다.
+- K. R. Brownstein의 1997년 논문 : □ = r a d − 1 \square = {\rm rad}^{-1} □ = rad − 1 을 도입했으며 sin ⁡ ( □ θ ) \sin(\square\theta) sin ( □ θ ) 와 같은 방식으로 나타냈다. 아울러 혼란을 피하기 위함인지 [14] sin ⁡ ( □ θ ) = Sin ⁡ θ \sin(\square\theta) = \operatorname{Sin}\theta sin ( □ θ ) = Sin θ 로 쓰는 것을 제안하기도 했다.
+- P. Quincey의 2016년 논문 : 단위 관계를 맞추기 위한 여러 옵션 중 Torrens가 제안했던 η = r a d − 1 \eta = {\rm rad}^{-1} η = rad − 1 을 인용(네 번째 옵션)했다. sin ⁡ θ = η θ − η 3 θ 3 3 ! + η 5 θ 5 5 ! − ⋯ \sin\theta = \eta\theta - \dfrac{\eta^3\theta^3}{3!} + \dfrac{\eta^5\theta^5}{5!} - \cdots sin θ = η θ − 3 ! η 3 θ 3 ​ + 5 ! η 5 θ 5 ​ − ⋯
+
+와 같은 서술이 보인다.
+- P. Quincey의 2021년 레터 ( arXiv 버전 ): 위 논문 저자의 2021년 레터인데 2016년도 논문과 달리 θ C = r a d \theta_{\rm C} = {\rm rad} θ C ​ = rad 을 도입했으며 Brownstein의 서술을 인용하며 sin ⁡ x \sin x sin x 와 구분하기 위해 Sin ⁡ θ = sin ⁡ ( θ θ C ) = ( θ θ C ) − 1 6 ( θ θ C ) 3 + ⋯ \operatorname{Sin}\theta = \sin{\left(\dfrac\theta{\theta_{\rm C}}\right)} = {\left(\dfrac{\theta}{\theta_{\rm C}}\right)} - \dfrac16{\left(\dfrac{\theta}{\theta_{\rm C}}\right)}^3 + \cdots Sin θ = sin ( θ C ​ θ ​ ) = ( θ C ​ θ ​ ) − 6 1 ​ ( θ C ​ θ ​ ) 3 + ⋯
+
+로 표기를 나누는 것도 좋은 방법일 것이라 제안했다. [15] 한편으론, 스테라디안 s r \rm sr sr 이 s r = r a d 2 {\rm sr} = {\rm rad}^2 sr = rad 2 이라는 점을 밝히며 [16] 입체각 Ω \Omega Ω 역시 수치만을 다루는 공식에서는 Ω / θ C 2 \Omega/{\theta_{\rm C}}^2 Ω/ θ C ​ 2 으로 대체되어야 함을 밝혔으며, 각주파수 ω \omega ω 역시 복소평면 상의 미분 방정식의 해로 나타낼 땐 x = A exp ⁡ ( i ω t / θ C ) x = A\exp({\rm i}\omega t/\theta_{\rm C}) x = A exp ( i ω t / θ C ​ ) [17] 와 같은 표기로 대체되어야 함도 드러냈다.
+
+이에 따라 육십분법이나 그레이드로 나타낸 각도는 삼각함수의 정의역에 들어갈 때 호도법의 각 수치로 환산된 공식의 형태로만 들어가게 되는데 [18] ϕ ° : 360 ° = ϕ ɡ : 400 ɡ = θ : 2 π r a d ⇔ θ / r a d = π 180 ° ϕ ° = π 200 ɡ ϕ ɡ \phi_{\degree} : 360\degree = \phi_{{}^{\char0609}} : 400^{\char0609} = \theta : 2\pi{\rm\,rad} \quad \Leftrightarrow \quad \theta/{\rm rad} = \cfrac\pi{180\degree}\phi_{\degree} = \cfrac\pi{200^{\char0609}}\phi_{{}^{\char0609}} ϕ ° ​ : 360° = ϕ ɡ ​ : 40 0 ɡ = θ : 2 π rad ⇔ θ / rad = 180° π ​ ϕ ° ​ = 20 0 ɡ π ​ ϕ ɡ ​
+
+이므로 sin ⁡ ( θ / r a d ) = sin ⁡ π 180 ° ϕ ° = sin ⁡ π 200 ɡ ϕ ɡ \begin{aligned} \sin(\theta/{\rm rad}) &= \sin\frac\pi{180\degree}\phi_\degree \\ &= \sin\frac\pi{200^{\char0609}}\phi_{{}^{\char0609}}\end{aligned} sin ( θ / rad ) ​ = sin 180° π ​ ϕ ° ​ = sin 20 0 ɡ π ​ ϕ ɡ ​ ​
+
+이며 따라서 lim ⁡ θ r a d → 0 sin ⁡ ( θ / r a d ) θ / r a d = 1 \lim\limits_{\frac\theta{\rm rad}\to0}\cfrac{\sin(\theta/{\rm rad})}{\theta/{\rm rad}} = 1 rad θ ​ → 0 lim ​ θ / rad sin ( θ / rad ) ​ = 1
+
+이라는 공식은 각도를 다른 단위의 물리량으로 치환하면 결과값이 바뀌게 된다. 이를테면 lim ⁡ ( ϕ ° / ° ) → 0 sin ⁡ ( θ / r a d ) ϕ ° / ° = sin ⁡ π 180 ( ϕ ° / ° ) ϕ ° / ° = π 180 \begin{aligned}\lim\limits_{(\phi_\degree/\degree)\to0}\frac{\sin(\theta/{\rm rad})}{\phi_\degree/\degree} &= \frac{\sin\dfrac\pi{180}(\phi_\degree/\degree)}{\phi_\degree/\degree} \\ &= \frac\pi{180} \end{aligned} ( ϕ ° ​ /° ) → 0 lim ​ ϕ ° ​ /° sin ( θ / rad ) ​ ​ = ϕ ° ​ /° sin 180 π ​ ( ϕ ° ​ /° ) ​ = 180 π ​ ​
+
+이다. 물론 삼각형과 부채꼴의 넓이로부터 해당 공식을 유도하는 과정을 육십분법 및 그레이드 단위로 진행하면 결과적으로 분모가 각각 π 180 ° ϕ ° \dfrac\pi{180\degree}\phi_\degree 180° π ​ ϕ ° ​ , π 200 ɡ ϕ ɡ \dfrac\pi{200^{\char0609}}\phi_{{}^{\char0609}} 20 0 ɡ π ​ ϕ ɡ ​
+
+가 되어 여전히 공식은 1 1 1 이다. 아래의 특수한 극한값을 갖는 합성함수 문단 참고. 이는 물리량으로 나타낸 양 방정식(quantity equation)은 단위에 상관 없이 관계식이 일정한데 반해, 수치 방정식(numerical equation)은 단위에 따라 공식이 변한다는 일반적인 성질 [19] 을 잘 보여주는 부분이기도 하다.
+
+정리하면 물리량을 다루는 도량형학의 혹은 물리학의 관점에서 삼각함수는 sin ⁡ θ \sin\theta sin θ , cos ⁡ θ \cos\theta cos θ , tan ⁡ θ \tan\theta tan θ 등이 아닌 단위 r a d \rm rad rad 이 약분된 물리량 sin ⁡ ( θ / r a d ) \sin(\theta/{\rm rad}) sin ( θ / rad ) , cos ⁡ ( θ / r a d ) \cos(\theta/{\rm rad}) cos ( θ / rad ) , tan ⁡ ( θ / r a d ) \tan(\theta/{\rm rad}) tan ( θ / rad ) 등으로 쓰는 게 엄밀한 표기이며 삼각함수는 본질적으로 물리량을 다루는 양 방정식의 함수가 아닌, 수치를 다루는 수치 방정식의 함수 이다.
+
+다만, 실생활 범위에서는 단위를 지속적으로 기입함으로써 정보의 가독성이 떨어지는 등의 문제가 발생할 수 있다. 특히 유도 과정중에 지속적으로 단위가 개입되어 공식 유도를 따라갈 때 피로감을 줄 수 있다. 따라서, 독자들은 이 내용을 이해하고 있어야 하는 건 맞지만, 실용적으로 정보를 다룰 땐 이 내용이 생략되었다고 생각해도 무방하다. 더군다나, 전공책이나 논문에서 r a d \rm rad rad 를 포함한 단위를 항상 붙여주거나 약분시켜주지는 않으며, 오히려 고급 수준의 정보를 다룰 땐 예상 독자의 수준을 고려하여 생략해도 무방하다. 즉, 학문성과 실용성 사이의 줄타기인 융통성 부분이라 보는게 맞다.
+
+5. 항등식 [편집]
+- tan ⁡ θ = sin ⁡ θ cos ⁡ θ \tan\theta=\dfrac{\sin\theta}{\cos\theta} tan θ = cos θ sin θ ​ [20]
+- sin ⁡ 2 θ + cos ⁡ 2 θ = 1 \sin^2\theta+\cos^2\theta=1 sin 2 θ + cos 2 θ = 1 [증명]
+- tan ⁡ 2 θ + 1 = sec ⁡ 2 θ \tan^2\theta+1=\sec^2\theta tan 2 θ + 1 = sec 2 θ
+- cot ⁡ 2 θ + 1 = csc ⁡ 2 θ \cot^2\theta+1=\csc^2\theta cot 2 θ + 1 = csc 2 θ
+- sin ⁡ ( − θ ) = − sin ⁡ θ \sin(-\theta)=-\sin\theta sin ( − θ ) = − sin θ
+- cos ⁡ ( − θ ) = cos ⁡ θ \cos(-\theta)=\cos\theta cos ( − θ ) = cos θ
+- tan ⁡ ( − θ ) = − tan ⁡ θ \tan(-\theta)=-\tan\theta tan ( − θ ) = − tan θ
+- e i θ = cos ⁡ θ + i sin ⁡ θ e^{i\theta} = \cos\theta + i\sin\theta e i θ = cos θ + i sin θ - e i π + 1 = 0 e^{i\pi} + 1 = 0 e iπ + 1 = 0
+- ( e i θ ) n = ( cos ⁡ θ + i sin ⁡ θ ) n = cos ⁡ ( n θ ) + i sin ⁡ ( n θ ) (e^{i\theta})^n = (\cos\theta + i\sin\theta)^n = \cos(n\theta) + i\sin(n\theta) ( e i θ ) n = ( cos θ + i sin θ ) n = cos ( n θ ) + i sin ( n θ )
+- deg ⁡ ( sin ⁡ θ ) = deg ⁡ ( cos ⁡ θ ) = ∞ \deg(\sin\theta) = \deg(\cos\theta) = \infty de g ( sin θ ) = de g ( cos θ ) = ∞ [22]
+
+이상에서 복부호 동순 이며, n n n 은 임의의 정수이다.
+
+5.1. 삼각함수의 덧셈정리 [편집]
+자세한 내용은 삼각함수의 덧셈정리 문서를 참고하십시오.
+
+6. 함수의 주기성 및 그래프 [편집]
+자세한 내용은 사인 곡선 문서를 참고하십시오.
+위 그래프는 각종 삼각함수의 그래프를 주치 구간에 대하여 나타낸 것이다. 나머지 구간은 주치 구간의 그래프가 반복된다.
+
+삼각함수는 모두 주기함수 [23] 이며, 기본 주기가 π \pi π 인 탄젠트 함수, 코탄젠트 함수를 제외하고 모두 기본 주기가 2 π 2\pi 2 π 이다. 무한 개의 변곡점 을 갖는다.
+
+한편 코사인 함수, 시컨트 함수는 y y y 축에 대칭인 짝함수 이고, 나머지 넷은 원점에 대칭인 홀함수 이다.
+
+6.1. 여러 가지 각의 삼각함수 [편집]
+이하 모든 식들은 복부호 동순 이다.
+
+n n n 이 정수일 때 다음이 성립한다. - sin ⁡ ( n π ± θ ) = ± ( − 1 ) n sin ⁡ θ \sin(n\pi \pm \theta)=\pm(-1)^n\sin\theta sin ( nπ ± θ ) = ± ( − 1 ) n sin θ
+- cos ⁡ ( n π ± θ ) = ( − 1 ) n cos ⁡ θ \cos(n\pi \pm \theta)=(-1)^n\cos\theta cos ( nπ ± θ ) = ( − 1 ) n cos θ
+- tan ⁡ ( n π ± θ ) = ± tan ⁡ θ \tan(n\pi \pm \theta)=\pm\tan\theta tan ( nπ ± θ ) = ± tan θ
+- sin ⁡ { ( 2 n + 1 ) π 2 ± θ } = ( − 1 ) n cos ⁡ θ \sin\biggl\{ \dfrac{(2n+1)\pi}2 \pm \theta \biggr\}=(-1)^n\cos\theta sin { 2 ( 2 n + 1 ) π ​ ± θ } = ( − 1 ) n cos θ
+- cos ⁡ { ( 2 n + 1 ) π 2 ± θ } = ∓ ( − 1 ) n sin ⁡ θ \cos\biggl\{ \dfrac{(2n+1)\pi}2 \pm \theta \biggr\}=\mp(-1)^n\sin\theta cos { 2 ( 2 n + 1 ) π ​ ± θ } = ∓ ( − 1 ) n sin θ
+- tan ⁡ { ( 2 n + 1 ) π 2 ± θ } = ∓ cot ⁡ θ \tan\biggl\{ \dfrac{(2n+1)\pi}2 \pm \theta \biggr\}=\mp\cot\theta tan { 2 ( 2 n + 1 ) π ​ ± θ } = ∓ cot θ
+
+[증명]
+삼각함수의 덧셈정리 를 적용한다. sin ⁡ ( n π ± θ ) = sin ⁡ ( n π ) cos ⁡ θ ± cos ⁡ ( n π ) sin ⁡ θ \begin{aligned} \sin(n\pi \pm \theta)=\sin(n\pi)\cos\theta \pm \cos(n \pi) \sin\theta \end{aligned} sin ( nπ ± θ ) = sin ( nπ ) cos θ ± cos ( nπ ) sin θ ​
+
+임을 얻을 수 있다. 한편, sin ⁡ ( n π ) = 0 cos ⁡ ( n π ) = ( − 1 ) n \begin{aligned} \sin(n\pi)&=0 \\ \cos(n \pi)&=(-1)^n \end{aligned} sin ( nπ ) cos ( nπ ) ​ = 0 = ( − 1 ) n ​
+
+이므로 위 결과는 다음과 같이 쓸 수 있다. sin ⁡ ( n π ± θ ) = ± ( − 1 ) n sin ⁡ θ \begin{aligned} \sin(n\pi \pm \theta)= \pm (-1)^n\sin\theta \end{aligned} sin ( nπ ± θ ) = ± ( − 1 ) n sin θ ​
+
+마찬가지의 방법으로 코사인에 대하여 cos ⁡ ( n π ± θ ) = cos ⁡ ( n π ) cos ⁡ θ ∓ sin ⁡ ( n π ) sin ⁡ θ = ( − 1 ) n cos ⁡ θ \begin{aligned} \cos(n\pi \pm \theta)&=\cos(n\pi)\cos\theta \mp \sin(n \pi) \sin\theta \\&=(-1)^n\cos\theta \end{aligned} cos ( nπ ± θ ) ​ = cos ( nπ ) cos θ ∓ sin ( nπ ) sin θ = ( − 1 ) n cos θ ​
+
+탄젠트는 사인, 코사인, 탄젠트의 관계에 의하여 tan ⁡ ( n π ± θ ) = sin ⁡ ( n π ± θ ) cos ⁡ ( n π ± θ ) = ± ( − 1 ) n sin ⁡ θ ( − 1 ) n cos ⁡ θ = ± tan ⁡ θ \begin{aligned} \tan(n\pi \pm \theta)&=\frac{\sin(n\pi \pm \theta)}{\cos(n\pi \pm \theta)} \\&=\frac{\pm(-1)^n \sin\theta}{(-1)^n\cos\theta} \\&=\pm\tan\theta \end{aligned} tan ( nπ ± θ ) ​ = cos ( nπ ± θ ) sin ( nπ ± θ ) ​ = ( − 1 ) n cos θ ± ( − 1 ) n sin θ ​ = ± tan θ ​
+
+마찬가지의 방법으로 삼각함수의 덧셈정리를 적용한다. sin ⁡ { ( 2 n + 1 ) π 2 ± θ } = sin ⁡ ( 2 n + 1 ) π 2 cos ⁡ θ ± cos ⁡ ( 2 n + 1 ) π 2 sin ⁡ θ \begin{aligned} \sin\biggl\{ \frac{(2n+1)\pi}2 \pm \theta \biggr\}=\sin\frac{(2n+1)\pi}2\cos\theta \pm \cos\frac{(2n+1)\pi}2\sin\theta \end{aligned} sin { 2 ( 2 n + 1 ) π ​ ± θ } = sin 2 ( 2 n + 1 ) π ​ cos θ ± cos 2 ( 2 n + 1 ) π ​ sin θ ​
+
+임을 얻을 수 있다. 한편, sin ⁡ ( 2 n + 1 ) π 2 = ( − 1 ) n cos ⁡ ( 2 n + 1 ) π 2 = 0 \begin{aligned} \sin\frac{(2n+1)\pi}2 &=(-1)^n \\ \cos\frac{(2n+1)\pi}2&=0 \end{aligned} sin 2 ( 2 n + 1 ) π ​ cos 2 ( 2 n + 1 ) π ​ ​ = ( − 1 ) n = 0 ​
+
+이므로 위 결과는 sin ⁡ { ( 2 n + 1 ) π 2 ± θ } = ( − 1 ) n cos ⁡ θ \begin{aligned} \sin\biggl\{ \frac{(2n+1)\pi}2 \pm \theta \biggr\}=(-1)^n \cos\theta \end{aligned} sin { 2 ( 2 n + 1 ) π ​ ± θ } = ( − 1 ) n cos θ ​
+
+마찬가지의 방법으로 코사인에 대하여 cos ⁡ { ( 2 n + 1 ) π 2 ± θ } = cos ⁡ ( 2 n + 1 ) π 2 cos ⁡ θ ∓ sin ⁡ ( 2 n + 1 ) π 2 sin ⁡ θ = ∓ ( − 1 ) n sin ⁡ θ \begin{aligned} \cos\biggl\{ \frac{(2n+1)\pi}2 \pm \theta \biggr\}&=\cos\frac{(2n+1)\pi}2\cos\theta \mp \sin\frac{(2n+1)\pi}2\sin\theta \\&=\mp(-1)^n\sin\theta \end{aligned} cos { 2 ( 2 n + 1 ) π ​ ± θ } ​ = cos 2 ( 2 n + 1 ) π ​ cos θ ∓ sin 2 ( 2 n + 1 ) π ​ sin θ = ∓ ( − 1 ) n sin θ ​
+
+탄젠트는 사인, 코사인, 탄젠트의 관계에 의하여 tan ⁡ { ( 2 n + 1 ) π 2 ± θ } = sin ⁡ { ( 2 n + 1 ) π 2 ± θ } cos ⁡ { ( 2 n + 1 ) π 2 ± θ } = ( − 1 ) n cos ⁡ θ ∓ ( − 1 ) n sin ⁡ θ = ∓ cot ⁡ θ \begin{aligned} \tan\biggl\{ \frac{(2n+1)\pi}2 \pm \theta \biggr\} &= \frac{\sin\biggl\{ \dfrac{(2n+1)\pi}2 \pm \theta \biggr\}}{\cos\biggl\{ \dfrac{(2n+1)\pi}2 \pm \theta \biggr\}} \\&=\frac{(-1)^n \cos\theta}{\mp(-1)^n\sin\theta} \\&=\mp \cot\theta \end{aligned} tan { 2 ( 2 n + 1 ) π ​ ± θ } ​ = cos { 2 ( 2 n + 1 ) π ​ ± θ } sin { 2 ( 2 n + 1 ) π ​ ± θ } ​ = ∓ ( − 1 ) n sin θ ( − 1 ) n cos θ ​ = ∓ cot θ ​
+
+자주 사용되는 형태를 정리하면 아래와 같다. sin ⁡ ( 2 n π ± θ ) = ± sin ⁡ θ cos ⁡ ( 2 n π ± θ ) = cos ⁡ θ tan ⁡ ( 2 n π ± θ ) = ± tan ⁡ θ sin ⁡ ( π ± θ ) = ∓ sin ⁡ θ cos ⁡ ( π ± θ ) = − cos ⁡ θ tan ⁡ ( π ± θ ) = ± tan ⁡ θ sin ⁡ ( π 2 ± θ ) = cos ⁡ θ cos ⁡ ( π 2 ± θ ) = ∓ sin ⁡ θ tan ⁡ ( π 2 ± θ ) = ∓ cot ⁡ θ sin ⁡ ( 3 π 2 ± θ ) = − cos ⁡ θ cos ⁡ ( 3 π 2 ± θ ) = ± sin ⁡ θ tan ⁡ ( 3 π 2 ± θ ) = ∓ cot ⁡ θ \begin{aligned} \sin(2n\pi\pm\theta)&=\pm\sin\theta &&& \cos(2n\pi\pm\theta)&= \cos\theta &&& \tan(2n\pi\pm\theta)&= \pm \tan\theta\\ \sin(\pi\pm\theta)&=\mp\sin\theta &&& \cos(\pi\pm\theta)&= -\cos\theta &&& \tan(\pi\pm\theta)&= \pm \tan\theta\\ \sin\biggl( \frac\pi2\pm\theta \biggr)&= \cos\theta &&& \cos\biggl( \frac\pi2\pm\theta \biggr)&= \mp \sin\theta &&& \tan\biggl( \frac\pi2\pm\theta \biggr)&= \mp \cot\theta\\ \sin\biggl( \frac{3\pi}2\pm\theta \biggr)&= -\cos\theta &&& \cos\biggl( \frac{3\pi}2\pm\theta \biggr)&= \pm \sin\theta &&& \tan\biggl( \frac{3\pi}2\pm\theta \biggr)&= \mp \cot\theta \end{aligned} sin ( 2 nπ ± θ ) sin ( π ± θ ) sin ( 2 π ​ ± θ ) sin ( 2 3 π ​ ± θ ) ​ = ± sin θ = ∓ sin θ = cos θ = − cos θ ​ ​ ​ cos ( 2 nπ ± θ ) cos ( π ± θ ) cos ( 2 π ​ ± θ ) cos ( 2 3 π ​ ± θ ) ​ = cos θ = − cos θ = ∓ sin θ = ± sin θ ​ ​ ​ tan ( 2 nπ ± θ ) tan ( π ± θ ) tan ( 2 π ​ ± θ ) tan ( 2 3 π ​ ± θ ) ​ = ± tan θ = ± tan θ = ∓ cot θ = ∓ cot θ ​
+
+이것을 외우지 않고, 임의의 각에 적용하는 방법은 아래와 같다. - 임의의 각을 π 2 n ± θ \cfrac\pi2n\pm\theta 2 π ​ n ± θ (단, n n n 은 정수) 형태로 바꾼다. [24]
+- n n n 이 홀수냐 짝수냐에 따라 다음을 진행한다. - n n n 이 홀수이면, 사인을 코사인으로, 코사인을 사인으로, 탄젠트를 코탄젠트로 바꾼다.
+- n n n 이 짝수이면, 삼각함수를 바꾸지 않고 그대로 진행한다.
+- θ \theta θ 가 예각이라고 가정 하고 π 2 n ± θ \cfrac\pi2n\pm\theta 2 π ​ n ± θ 의 각이 나타내는 동경이 위치하는 사분면을 확인한다.
+- 이 사분면에 원래 삼각함수가 양이면, + + + 를, 음이면 − - − 를 붙인다.
+
+예로 sin ⁡ ( 35 π / 3 ) \sin(35\pi/3) sin ( 35 π /3 ) 의 값을 구해보자. 우선 이 각은 35 π 3 = π 2 ⋅ 23 + π 6 \dfrac{35\pi}3=\dfrac\pi2\cdot23+\dfrac\pi6 3 35 π ​ = 2 π ​ ⋅ 23 + 6 π ​
+
+이다. 따라서 n n n 이 홀수이므로 사인은 코사인으로 바뀐다. 한편, 해당 각은 (예각이긴 하지만) π / 6 \pi/6 π /6 를 예각으로 취급했을 때, 4사분면에 위치한다. 4사분면에서 사인은 음이므로 − - − 를 붙여 다음과 같이 구해진다. sin ⁡ ( 35 π 3 ) = − cos ⁡ ( π 6 ) = − 3 2 \sin\biggl( \dfrac{35\pi}3 \biggr)=-\cos\biggl( \dfrac\pi6 \biggr)=-\dfrac{\sqrt3}2 sin ( 3 35 π ​ ) = − cos ( 6 π ​ ) = − 2 3 ​ ​
+
+만약 35 π 3 = π 2 ⋅ 21 + 7 π 6 \dfrac{35\pi}3=\dfrac\pi2\cdot21+\dfrac{7\pi}6 3 35 π ​ = 2 π ​ ⋅ 21 + 6 7 π ​
+
+로 생각한다면, 7 π / 6 7\pi/6 7 π /6 를 예각으로 취급하여 해당 각을 2사분면에 위치한다고 하여 양으로 잡아 + + + 를 붙여 다음과 같이 구하여야 한다. sin ⁡ ( 35 π 3 ) = + cos ⁡ ( 7 π 6 ) = − 3 2 \sin\biggl( \dfrac{35\pi}3 \biggr)=+\cos\biggl( \dfrac{7\pi}6 \biggr)=-\dfrac{\sqrt3}2 sin ( 3 35 π ​ ) = + cos ( 6 7 π ​ ) = − 2 3 ​ ​
+
+이러한 유용한 공식이 나올 수 있는 것은 삼각함수 자체가 주기함수이기 때문이다.
+
+이 공식은 값이 큰 일반각을 다루기 쉽게 작은 각 또는 특수 각으로 고쳐 쉽게 일반각에 대한 삼각함수의 값을 구할 수 있다는데 의의가 있다. 또한 하틀리 변환 에 사용되는 c a s \rm cas cas 함수 ( = sin ⁡ x + cos ⁡ x ) (=\sin x + \cos x) ( = sin x + cos x ) 를 계산할 때 유용하게 사용된다.
+
+7. 삼각방정식과 삼각함수부등식 [편집]
+
+7.1. 삼각방정식 [편집]
+각의 크기가 미지수인 삼각함수를 포함하는 방정식을 삼각방정식 이라 한다. 이 문단에서는 (삼각함수) = = = (상수) 꼴로 정리되는 것만 다룬다. 그 이유는 아주 특수한 경우를 제외하고는 손으로 풀지 못하고 수치해석 프로그램을 이용해야 하기 때문이다. [25] [26] 후술할 복소형식 을 이용할 수도 있으나, 대부분의 경우 환원 불능 (casus irreducibilis)이 되어 유용하진 않다.
+
+이 삼각방정식을 푸는 방법은 여러 가지가 있는데, 그것을 예를 통해 알아보자. 삼각방정식을 간단하게 정리하면 sin ⁡ x = a \sin x=a sin x = a , cos ⁡ x = a \cos x=a cos x = a , tan ⁡ x = b \tan x=b tan x = b ( a a a , b b b 는 상수, ∣ a ∣ ≤ 1|a|\le1 ∣ a ∣ ≤ 1 ) 형태로 정리할 수 있다.
+
+가장 간단한 방법은 그래프를 이용한 방법이다. 방정식 f ( x ) = g ( x ) f(x)=g(x) f ( x ) = g ( x ) 는 곧 좌표평면 상 y = f ( x ) y=f(x) y = f ( x ) , y = g ( x ) y=g(x) y = g ( x ) 의 교점의 x x x 좌표임을 이용하면 된다. 예를 들어 cos ⁡ x = a \cos x=a cos x = a 는 곧 y = cos ⁡ x y=\cos x y = cos x 와 y = a y=a y = a 의 교점의 x x x 좌표를 구하면 된다. 아래와 같이 x = x 1 x=x_1 x = x 1 ​ 또는 x = x 2 x=x_2 x = x 2 ​ 가 구해진다.
+
+또 하나의 방법은 단위원을 이용하는 것이다. 사인, 코사인, 탄젠트는 각각 단위원 위의 점에 의해서 정의된다. - sin ⁡ x = a \sin x=a sin x = a 경우 단위원 위의 점의 y y y 좌표를 의미하므로 단위원과 y = a y=a y = a 와의 교점을 찾고, x x x 축의 양의 방향을 시초선으로 하여 원점으로 부터 교점 방향의 동경의 각을 구하면 된다.
+- cos ⁡ x = a \cos x=a cos x = a 경우 단위원 위의 점의 x x x 좌표를 의미하므로 단위원과 x = a x=a x = a 와의 교점을 찾고, x x x 축의 양의 방향을 시초선으로 하여 원점으로 부터 교점 방향의 동경의 각을 구하면 된다.
+- tan ⁡ x = b \tan x=b tan x = b 경우 단위원 위의 점에 대하여 y / x y/x y / x 를 의미하므로 단위원과 y = b x y=bx y = b x 와의 교점을 찾고, x x x 축의 양의 방향을 시초선으로 하여 원점으로 부터 교점 방향의 동경의 각을 구하면 된다.
+
+아래의 그림은 sin ⁡ x = a \sin x=a sin x = a 의 해를 단위원을 통해 구하여 아래와 같이 x = x 1 x=x_1 x = x 1 ​ 또는 x = x 2 x=x_2 x = x 2 ​ 임을 얻은 것이다.
+
+일반적으로 삼각방정식의 해를 구할 때는 주치 구간에 대하여 구하게 되는데 [27] 일반적으로 해가 2개 존재하게 된다. [28] 그리고, 이 특정한 구간에 대하여 구한 해를 특수해 라 한다.
+
+이외에도 역함수 를 이용하는 방법이 있다. 이 경우 단 하나의 특수해 만을 갖는다.
+
+7.1.1. 삼각방정식의 일반해 [편집]
+하지만 삼각함수 자체는 주기함수이기 때문에 해가 무한히 많다는 것을 그래프 상에서 직접 볼 수 있다. 따라서 실수 전체 구간에 대하여 구한 해를 일반해 라 하는데, 그것을 구하는 방법을 알아보자.
+
+간단하게 생각해보면 해의 범위를 실수 전체로 늘리면, 주치 구간에서 구한 특수해에서 한 바퀴 정수배 만큼의 회전이 가해지거나 감해지는 경우에도 방정식의 해가 될 것이다. 즉 x = x 1 + 2 n π x = x 2 + 2 n π \begin{aligned} x&=x_1+2n\pi \\ x&=x_2+2n\pi \end{aligned} x x ​ = x 1 ​ + 2 nπ = x 2 ​ + 2 nπ ​
+
+또한 해가 된다. 여기서 n n n 은 임의의 정수이다. 한편, x 2 > x 1 x_2>x_1 x 2 ​ > x 1 ​ 임을 가정하자.
+
+sin ⁡ x = a \sin x=a sin x = a 의 경우 다음이 성립한다. x 2 = π − x 1 x_2=\pi-x_1 x 2 ​ = π − x 1 ​
+
+이것을 대입하면 x 2 + 2 n π = ( π − x 1 ) + 2 n π = ( 2 n + 1 ) π − x 1 \begin{aligned} x_2+2n\pi&=(\pi-x_1)+2n \pi \\ &=(2n+1)\pi-x_1 \end{aligned} x 2 ​ + 2 nπ ​ = ( π − x 1 ​ ) + 2 nπ = ( 2 n + 1 ) π − x 1 ​ ​
+
+위의 결과를 종합하여 해를 다음과 같은 꼴로 쓸 수 있다. x = n π + ( − 1 ) n x 1 x=n\pi+(-1)^nx_1 x = nπ + ( − 1 ) n x 1 ​
+
+여기서는 x 1 x_1 x 1 ​ 을 기준으로 했지만, x 2 x_2 x 2 ​ 로 기준을 삼아도 결과는 같게 나온다.
+
+cos ⁡ x = a \cos x=a cos x = a 의 경우 다음이 성립한다. x 2 = 2 π − x 1 x_2=2\pi-x_1 x 2 ​ = 2 π − x 1 ​
+
+이것을 대입하면 x 2 + 2 n π = ( 2 π − x 1 ) + 2 n π = ( n + 1 ) 2 π − x 1 \begin{aligned} x_2+2n\pi&=(2\pi-x_1)+2n\pi \\ &=(n+1)2\pi-x_1 \end{aligned} x 2 ​ + 2 nπ ​ = ( 2 π − x 1 ​ ) + 2 nπ = ( n + 1 ) 2 π − x 1 ​ ​
+
+위의 결과를 종합하여 해를 다음과 같은 꼴로 쓸 수 있다. x = 2 n π ± x 1 x=2n\pi\pm x_1 x = 2 nπ ± x 1 ​
+
+여기서는 x 1 x_1 x 1 ​ 을 기준으로 했지만, x 2 x_2 x 2 ​ 로 기준을 삼아도 결과는 같게 나온다.
+
+tan ⁡ x = b \tan x=b tan x = b 의 경우 다음이 성립한다. x 2 = π + x 1 x_2=\pi+x_1 x 2 ​ = π + x 1 ​
+
+이것을 대입하면 x 2 + 2 n π = ( π + x 1 ) + 2 n π = ( 2 n − 1 ) π + x 1 \begin{aligned} x_2+2n \pi&=(\pi+x_1)+2n\pi \\ &=(2n-1)\pi+x_1 \end{aligned} x 2 ​ + 2 nπ ​ = ( π + x 1 ​ ) + 2 nπ = ( 2 n − 1 ) π + x 1 ​ ​
+
+위의 결과를 종합하여 해를 다음과 같은 꼴로 쓸 수 있다. x = n π + x 1 x=n\pi + x_1 x = nπ + x 1 ​
+
+여기서는 x 1 x_1 x 1 ​ 을 기준으로 했지만, x 2 x_2 x 2 ​ 로 기준을 삼아도 결과는 같게 나온다.
+
+위 결과는 특수해를 주치 구간에 대하여 구한 것으로 한정했지만 실제로는 x 1 x_1 x 1 ​ 이 어떤 구간에 대한 특수해에 대하여 성립한다. 하지만 유용성과 난이도를 이유로 x 1 x_1 x 1 ​ 을 주치 구간의 특수해 중 작은 것을 잡는 것이 관례적이다.
+
+위 문단의 내용을 정리하면 삼각방정식의 한 특수해를 ξ \xi ξ , a a a , b b b 는 상수, ∣ a ∣ ≤ 1|a|\le1 ∣ a ∣ ≤ 1 , n n n 을 임의의 정수라 할 때 다음이 성립한다.
+방정식 | 일반해
+sin ⁡ x = a \boldsymbol{\sin{x}=a} s i n x = a | x = n π + ( − 1 ) n ξ x=n\pi+(-1)^n\xi x = nπ + ( − 1 ) n ξ
+cos ⁡ x = a \boldsymbol{\cos{x}=a} c o s x = a | x = 2 n π ± ξ x=2n\pi\pm\xi x = 2 nπ ± ξ
+tan ⁡ x = b \boldsymbol{\tan{x}=b} t a n x = b | x = n π + ξ x=n\pi+\xi x = nπ + ξ
+
+삼각방정식 sin ⁡ x = sin ⁡ a \sin x=\sin a sin x = sin a 같은 꼴의 경우 해가 x = a x=a x = a 로 생각하기 쉽다. 하지만 그것은 틀린 생각으로 일반해의 개념을 적용하여 x = n π + ( − 1 ) n a x=n\pi+(-1)^na x = nπ + ( − 1 ) n a 가 돼야 옳다.
+
+이 일반해의 개념으로 재미있는 논의를 해볼 수 있다. 예를 들어 좌표평면 상 tan ⁡ ( x 2 + y 2 ) = 1 \tan(x^2+y^2)=1 tan ( x 2 + y 2 ) = 1 은 어떤 그래프를 그리게 될까? 간단히 일반해의 개념을 사용하면 x 2 + y 2 = n π + π 4 \begin{aligned} x^2+y^2=n\pi+\frac\pi4 \end{aligned} x 2 + y 2 = nπ + 4 π ​ ​
+
+를 만족해야 등식이 성립함을 알 수 있다. 그런데 이것은 중심이 원점이고, 반지름이 우변의 양의 제곱근과 같은 원의 방정식이다. n n n 은 무한히 가질 수 있으므로 이 원 또한 무한히 나타날 것이다. 마찬가지의 방법으로 tan ⁡ ( y − f ( x ) ) = a \tan(y-f(x))=a tan ( y − f ( x )) = a (단, a a a 는 상수)의 경우 y − f ( x ) = k n \begin{aligned} y-f(x)=k_n \end{aligned} y − f ( x ) = k n ​ ​
+
+k n k_n k n ​ 은 일반해이자 상수로, 좌표평면 상에서는 y = f ( x ) y=f(x) y = f ( x ) 를 y y y 축 방향으로 k n k_n k n ​ 만큼 평행이동한 그래프가 무한히 나오게 될 것이다. 다만 불행히도 그래프를 그리는 프로그램은 우리 처럼 해석하는 것이 아닌 알고리즘의 이유로 정확히 그래프를 그려주지 못하는 편이다.
+
+더 나아가, cos ⁡ e x \cos e^x cos e x , sin ⁡ ( x − 1 ) \sin(x^{-1}) sin ( x − 1 ) 같은 것도 생각해볼 수 있다.
+
+7.2. 삼각함수부등식 [편집]
+삼각함수부등식을 푸는 것은 삼각방정식과 완전히 동일하다. 그래프와 단위원 모두 이용할 수 있다.
+
+주치 구간에 대하여 cos ⁡ x > a \cos x>a cos x > a (단, ∣ a ∣ ≤ 1|a|\le1 ∣ a ∣ ≤ 1 )을 푸는 것을 예로 들어 이 논의를 마치고자 한다.
+
+위와 같이 그래프를 보면, cos ⁡ x > a \cos x>a cos x > a 의 의미는 곧 y = cos ⁡ x y=\cos x y = cos x 의 그래프가 y = a y=a y = a 보다 위에 있는 구간의 x x x 좌표의 구간을 구하는 것과 같다. 따라서 0 ≤ x < x 1 0\le x < x_1 0 ≤ x < x 1 ​ 또는 x 2 < x ≤ 2 π x_2< x \le 2\pi x 2 ​ < x ≤ 2 π 가 그 해이다.
+
+단위원을 통한 방법 또한 단위원 상의 점이 x = a x=a x = a 보다 오른쪽에 있는 각의 범위를 구하면 되므로 같은 해를 구할 수 있다.
+
+삼각방정식과 마찬가지로 구하는 구간을 지정하지 않는 경우 부등식의 해는 무한히 나오게 된다.
+
+참고로 삼각부등식 은 다른 것을 뜻하므로 혼동에 주의할 것.
+
+8. 극한 [편집]
+
+그림과 같이 ∠ A \angle{\rm A} ∠ A 는 예각이고, A B ‾ = A C ‾ = 1 \overline{\rm AB}=\overline{\rm AC}=1 AB = AC = 1 을 만족하는 삼각형 B A C \rm BAC BAC 를 고려하자. 점 C \rm C C 를 지나고 변 A C \rm AC AC 와 수직인 직선과 직선 A B \rm AB AB 가 만나는 점을 P \rm P P 라 하자. 또, ∠ A \angle{\rm A} ∠ A 의 크기를 A A A 라 하자.
+
+8.1. 연속성 [편집]
+점 B \rm B B 에서 변 A C \rm AC AC 에 내린 수선의 발을 H \rm H H 라 하자(그림에는 없음). 호 B C \rm BC BC 의 길이를 l l l 이라 하면 다음 부등식이 성립한다. 0 < B H ‾ < B C ‾ < l 0 < \overline{\rm BH} < \overline{\rm BC} < l 0 < BH < BC < l
+
+이때 B H ‾ = sin ⁡ A l = A \begin{aligned} \overline{\rm BH} &= \sin A \\ l &= A \end{aligned} BH l ​ = sin A = A ​
+
+가 되므로 다음을 얻는다. 0 < sin ⁡ A < A 0 < \sin A < A 0 < sin A < A
+
+조임 정리에 의해 lim ⁡ A → 0 + sin ⁡ A = 0 \lim\limits_{A\to0^+}\sin A = 0 A → 0 + lim ​ sin A = 0
+
+좌극한을 구하기 위해 t = − A t = -A t = − A 로 놓으면, t → 0 − t\to0^- t → 0 − 일 때 A → 0 + A\to0^+ A → 0 + 이므로 lim ⁡ t → 0 − sin ⁡ t = lim ⁡ A → 0 + sin ⁡ ( − A ) = lim ⁡ A → 0 + ( − sin ⁡ A ) = 0 \begin{aligned} \lim_{t\to0^-}\sin t &= \lim_{A\to0^+} \sin(-A)\\ &= \lim_{A \to 0^+}(-\sin A)\\ &= 0 \end{aligned} t → 0 − lim ​ sin t ​ = A → 0 + lim ​ sin ( − A ) = A → 0 + lim ​ ( − sin A ) = 0 ​
+
+따라서 다음이 성립하므로 사인 함수는 0 0 0 에서 연속이다. lim ⁡ x → 0 sin ⁡ x = 0 = sin ⁡ 0 \begin{aligned} \lim_{x\to0}\sin x &= 0 \\ &= \sin 0 \end{aligned} x → 0 lim ​ sin x ​ = 0 = sin 0 ​
+
+한편 삼각형 B H C \rm BHC BHC 에서 피타고라스 정리에 의해 B C ‾ = B H ‾ 2 + C H ‾ 2 = B H ‾ 2 + ( A C ‾ − A H ‾ ) 2 = sin ⁡ 2 A + ( 1 − cos ⁡ A ) 2 = 2 − 2 cos ⁡ A \begin{aligned} \overline{\rm BC} &= \sqrt{\overline{\rm BH}^2 + \overline{\rm CH}^2} \\ &= \sqrt{\overline{\rm BH}^2 + (\overline{\rm AC} - \overline{\rm AH})^2} \\ &= \sqrt{\sin^2A + (1 - \cos A)^2} \\ &= \sqrt{2 - 2\cos A} \end{aligned} BC ​ = BH 2 + CH 2 ​ = BH 2 + ( AC − AH ) 2 ​ = sin 2 A + ( 1 − cos A ) 2 ​ = 2 − 2 cos A ​ ​
+
+이다. 처음의 부등식에 대입하면 sin ⁡ A < 2 − 2 cos ⁡ A < A \sin A < \sqrt{2 - 2\cos A} < A sin A < 2 − 2 cos A ​ < A
+
+cos ⁡ A \cos A cos A 에 대해 정리하면 1 − A 2 2 < cos ⁡ A < 1 − sin ⁡ 2 A 2 1 - \dfrac{A^2}2 < \cos A < 1 - \dfrac{\sin^2A}2 1 − 2 A 2 ​ < cos A < 1 − 2 sin 2 A ​
+
+lim ⁡ A → 0 + ( 1 − A 2 2 ) = lim ⁡ A → 0 + ( 1 − sin ⁡ 2 A 2 ) = 1 \displaystyle \lim_{A\to0^+} \biggl(1 - \frac{A^2}2\biggr) = \lim_{A\to0^+} \biggl(1 - \dfrac{\sin^2A}2\biggr) = 1 A → 0 + lim ​ ( 1 − 2 A 2 ​ ) = A → 0 + lim ​ ( 1 − 2 sin 2 A ​ ) = 1 이므로 조임 정리에 의해 lim ⁡ A → 0 + cos ⁡ A = 1 \lim\limits_{A\to0^+}\cos A = 1 A → 0 + lim ​ cos A = 1
+
+t = − A t = -A t = − A 라 하면 lim ⁡ t → 0 − cos ⁡ t = lim ⁡ A → 0 + cos ⁡ ( − A ) = lim ⁡ A → 0 + cos ⁡ A = 1 \begin{aligned} \lim_{t\to0^-}\cos t &= \lim_{A\to0^+}\cos (-A)\\ &= \lim_{A\to0^+}\cos A \\ &= 1 \end{aligned} t → 0 − lim ​ cos t ​ = A → 0 + lim ​ cos ( − A ) = A → 0 + lim ​ cos A = 1 ​
+
+따라서 다음이 성립해 코사인 함수가 0 0 0 에서 연속임을 알 수 있다. lim ⁡ x → 0 cos ⁡ x = 1 = cos ⁡ 0 \begin{aligned} \lim_{x\to0}\cos x &= 1 \\ &= \cos 0 \end{aligned} x → 0 lim ​ cos x ​ = 1 = cos 0 ​
+
+그러므로 실수 a a a 에 대하여 lim ⁡ x → a sin ⁡ x = lim ⁡ h → 0 sin ⁡ ( a + h ) = lim ⁡ h → 0 ( sin ⁡ a cos ⁡ h + cos ⁡ a sin ⁡ h ) = sin ⁡ a lim ⁡ h → 0 cos ⁡ h + cos ⁡ a lim ⁡ h → 0 sin ⁡ h = ( sin ⁡ a ) ⋅ 1 + ( cos ⁡ a ) ⋅ 0 = sin ⁡ a lim ⁡ x → a cos ⁡ x = lim ⁡ h → 0 cos ⁡ ( a + h ) = lim ⁡ h → 0 ( cos ⁡ a cos ⁡ h − sin ⁡ a sin ⁡ h ) = cos ⁡ a lim ⁡ h → 0 cos ⁡ h − sin ⁡ a lim ⁡ h → 0 sin ⁡ h = ( cos ⁡ a ) ⋅ 1 − ( sin ⁡ a ) ⋅ 0 = cos ⁡ a \begin{aligned} \lim_{x\to a}\sin x &= \lim_{h\to0}\sin(a + h) \\ &= \lim_{h\to0}(\sin a \cos h + \cos a \sin h) \\ &= \sin a\lim_{h \to 0}\cos h + \cos a\lim_{h\to0}\sin h \\ &= (\sin a)\cdot 1 + (\cos a)\cdot0 \\ &= \sin a \\ \lim_{x\to a}\cos x &= \lim_{h\to0}\cos(a + h) \\ &= \lim_{h\to0}(\cos a \cos h - \sin a \sin h) \\ &= \cos a\lim_{h\to0}\cos h - \sin a\lim_{h\to0}\sin h \\ &= (\cos a)\cdot1 - (\sin a)\cdot0 \\ &= \cos a \end{aligned} x → a lim ​ sin x x → a lim ​ cos x ​ = h → 0 lim ​ sin ( a + h ) = h → 0 lim ​ ( sin a cos h + cos a sin h ) = sin a h → 0 lim ​ cos h + cos a h → 0 lim ​ sin h = ( sin a ) ⋅ 1 + ( cos a ) ⋅ 0 = sin a = h → 0 lim ​ cos ( a + h ) = h → 0 lim ​ ( cos a cos h − sin a sin h ) = cos a h → 0 lim ​ cos h − sin a h → 0 lim ​ sin h = ( cos a ) ⋅ 1 − ( sin a ) ⋅ 0 = cos a ​
+
+이므로 사인 함수와 코사인 함수는 연속이다.
+
+위의 무한급수를 이용한 삼각함수 정의 , 후술할 도함수 와 함께 삼각함수가 정칙(holomorphic) 임을 나타내는 성질이다. [29]
+
+8.2. 특수한 극한값을 갖는 합성함수 [편집]
+부채꼴 B A C \rm BAC BAC 의 넓이를 S S S 라 하면 다음이 성립한다. △ B A C < S < △ P A C \triangle{\rm BAC}<S<\triangle{\rm PAC} △ BAC < S < △ PAC
+
+한편, △ B A C = 1 2 ⋅ 1 2 ⋅ sin ⁡ A S = 1 2 ⋅ 1 2 ⋅ A △ P A C = 1 2 ⋅ 1 2 ⋅ tan ⁡ A \begin{aligned} \triangle{\rm BAC}&=\frac12\cdot 1^2 \cdot\sin A \\ S&=\frac12\cdot 1^2 \cdot A \\ \triangle{\rm PAC}&=\frac12 \cdot 1^2 \cdot \tan A \end{aligned} △ BAC S △ PAC ​ = 2 1 ​ ⋅ 1 2 ⋅ sin A = 2 1 ​ ⋅ 1 2 ⋅ A = 2 1 ​ ⋅ 1 2 ⋅ tan A ​
+
+이 성립하고, 부등식에 대입하여 정리하면 sin ⁡ A < A < tan ⁡ A \sin A<A<\tan A sin A < A < tan A
+
+양변을 sin ⁡ A \sin A sin A 로 나누면, 1 < A sin ⁡ A < 1 cos ⁡ A ( ∵ 0 < A < π 2 ) 1<\dfrac A{\sin A}<\dfrac1{\cos A} \quad {\left(\because 0<A<\dfrac\pi2\right)} 1 < sin A A ​ < cos A 1 ​ ( ∵ 0 < A < 2 π ​ )
+
+역수를 취하면 cos ⁡ A < sin ⁡ A A < 1 \cos A < \dfrac{\sin A}A<1 cos A < A sin A ​ < 1 [30]
+
+A → 0 + A\to0^+ A → 0 + 일 때, cos ⁡ A → 1 \cos A\to1 cos A → 1 이므로 조임 정리에 의해 lim ⁡ A → 0 + sin ⁡ A A = 1 \lim\limits_{A\to 0^+}\dfrac{\sin A}A=1 A → 0 + lim ​ A sin A ​ = 1
+
+음의 각에 대하여 구하기 위하여 t = − A t=-A t = − A 로 치환하면 t → 0 − t\to0^{-} t → 0 − 일 때 A → 0 + A\to0^{+} A → 0 + 이고, lim ⁡ t → 0 − sin ⁡ t t = lim ⁡ A → 0 + sin ⁡ ( − A ) − A = lim ⁡ A → 0 + − sin ⁡ A − A = lim ⁡ A → 0 + sin ⁡ A A = 1 \begin{aligned} \lim_{t\to0^-}\dfrac{\sin t}t&=\lim_{A\to0^+}\dfrac{\sin(-A)}{-A} \\ &=\lim_{A\to0^+}\dfrac{-\sin A}{-A} \\&=\lim_{A\to0^+}\dfrac{\sin A}A \\&=1 \end{aligned} t → 0 − lim ​ t sin t ​ ​ = A → 0 + lim ​ − A sin ( − A ) ​ = A → 0 + lim ​ − A − sin A ​ = A → 0 + lim ​ A sin A ​ = 1 ​
+
+따라서 좌극한과 우극한이 같으므로 lim ⁡ x → 0 sin ⁡ x x = 1 \lim\limits_{x\to0}\dfrac{\sin x}x=1 x → 0 lim ​ x sin x ​ = 1
+
+한편, 탄젠트에 대해선 lim ⁡ x → 0 tan ⁡ x x = lim ⁡ x → 0 sin ⁡ x cos ⁡ x 1 x = lim ⁡ x → 0 sin ⁡ x x 1 cos ⁡ x = 1 ⋅ 1 = 1 \begin{aligned} \lim_{x\to0}\dfrac{\tan x}x&=\lim_{x\to0}\dfrac{\sin x}{\cos x}\dfrac1x \\ &=\lim_{x\to0} \frac{\sin x}x\frac1{\cos x} \\&=1 \cdot 1 \\&=1 \end{aligned} x → 0 lim ​ x tan x ​ ​ = x → 0 lim ​ cos x sin x ​ x 1 ​ = x → 0 lim ​ x sin x ​ cos x 1 ​ = 1 ⋅ 1 = 1 ​
+
+이다.
+위 사항을 정리하면, 아래와 같다. lim ⁡ x → 0 sin ⁡ x x = 1 lim ⁡ x → 0 tan ⁡ x x = 1 \begin{aligned} \lim_{x\to0}\dfrac{\sin x}x&=1 \\ \lim_{x\to0}\dfrac{\tan x}x&=1 \end{aligned} x → 0 lim ​ x sin x ​ x → 0 lim ​ x tan x ​ ​ = 1 = 1 ​
+
+이 결과는 y = ( sin ⁡ x ) / x y=(\sin x)/x y = ( sin x ) / x 의 그래프 , y = ( tan ⁡ x ) / x y=(\tan x)/x y = ( tan x ) / x 의 그래프 를 통해서도 알 수 있다. 간혹 ( cos ⁡ x ) / x (\cos x)/x ( cos x ) / x 의 극한은 왜 구하지 않냐고 궁금해하는 사람들도 있을 것인데, y = ( cos ⁡ x ) / x y=(\cos x)/x y = ( cos x ) / x 의 그래프 의 모습에서 볼 수 있듯 원점에서 좌극한과 우극한이 일치하지 않으므로 극한이 존재하지 않는다.
+
+현대 수학에서는 '논리의 엄밀성'을 근거로, 위와 같이 넓이를 이용한 증명 방식이 순환 논법 이라 주장하기도 한다. 극한을 증명하기 위해 각 도형의 '넓이'를 이용하고 있는데 부채꼴의 넓이를 구하는 과정에서 순환 논법에 빠진다는 것 [31] 이다. 물론 이는 반지름이 r r r 인 원의 넓이가 π r 2 \pi r^2 π r 2 이라는 사실을 자명한 것이라 받아들임으로써 해결이 되지만, 현대 수학에서는 한정된 공리와 정의만을 이용하여 논리적인 연역법에 따라 증명된 것만 이용할 수 있기 때문에 '증명되어야 할 원의 넓이'가 '자연스러운 것'으로 쉽게 받아들여지지 않는다 [32] 는 것이다. 이 문단 참고.
+
+이를 피하기 위해 나온 것이 바로 무한급수를 이용한 정의이다. 전술한 대로 무한급수를 이용한 정의는 임의의 실수뿐만 아니라 복소수에 대해서도 절대 수렴하므로 극한에서 문제없이 다룰 수 있으며, cos ⁡ x = 0 \cos x = 0 cos x = 0 을 만족하는 최소 양수가 존재하며 그 2 2 2 배가 π \pi π 라는 것으로 해결이 된다. 기타 기하학적인 성질 역시 증명이 가능하지만, 무한급수 역시 극한의 개념이 선행되어야 자연스럽기 때문에 여전히 좋은 해결책은 아니다. 어디까지나 현대 수학, 그리고 청소년들에게 이걸 이렇게 가르치는 게 적절한지를 고민하는 수학교육학에서의 떡밥이므로 일반인들은 '그렇게 보는 해석도 있다' 정도의 수준으로 넘어가면 된다.
+
+2015 개정 교육과정 기준으로는 미적분 에서 처음 배우기 시작한다. 이 내용을 '삼각함수의 극한'으로 배우지만 실제로는 '삼각함수가 유리함수에 합성된 합성함수의 극한'을 배우는 것이다. 실제로 수업 시간, 교과서에서 y = ( sin ⁡ x ) / x y=(\sin x)/x y = ( sin x ) / x , y = ( tan ⁡ x ) / x y=(\tan x)/x y = ( tan x ) / x 의 그래프나 성질을 직접적으로 다루지 않기 때문이다. '삼각함수'라는 단원으로부터 분리되어 극한 단원 혹은 미적분 파트에서 다루는 이유도 이 때문이다. 이 내용은 사실 '삼각함수'와 더 밀접하지 않으며, 그래프들을 다루는 것은 교육적으로 별로 의미가 없다. 종전 2009 개정 교육과정 미적분Ⅱ 때처럼 삼각함수와 더 직접적인 관련이 있는 것처럼 보일 것을 우려하고, 다시 현 교육과정처럼 '극한' 단원 편입으로 바꾼 것도 교육적 적합성을 다시 고려했기 때문으로 보인다.
+
+이 내용의 교육적인 의의는 어떤 실수에 대해 그 실수를 취한 삼각함수의 비 가 무한히 작아질 때 어떤 값으로 수렴하는지 파악하고 이 때 ' 사인 법칙 '과 '근사' [33] 를 익히기 위해서 배우는 것이다. 이 정리는 바로 밑에 있는 삼각함수의 도함수 를 증명하는 과정에서 사용된다. 이는 '로그함수의 극한'이라고 배우는 자연로그 와도 유사하다.
+
+참고로 이 극한값은 A A A 의 단위에 관계 없이 일정하다. 육십분법으로 나타낸 각 φ \varphi φ 는 A = π 180 ° φ A = \dfrac\pi{180\degree}\varphi A = 180° π ​ φ
+
+를 만족하므로 부채꼴 B A C \rm BAC BAC 의 넓이가 A 2 = π 360 ° φ \dfrac A2 = \dfrac\pi{360\degree}\varphi 2 A ​ = 360° π ​ φ
+
+가 되며, 넓이로부터 얻어지는 부등식도 [34] sin ⁡ π 180 ° φ < π 180 ° φ < tan ⁡ π 180 ° φ ⟺ cos ⁡ π 180 ° φ < sin ⁡ π 180 ° φ π 180 ° φ < 1 \sin\dfrac\pi{180\degree}\varphi < \dfrac\pi{180\degree}\varphi < \tan\dfrac\pi{180\degree}\varphi \quad \Longleftrightarrow \quad \cos\dfrac\pi{180\degree}\varphi < \dfrac{\sin\dfrac\pi{180\degree}\varphi}{\dfrac\pi{180\degree}\varphi} < 1 sin 180° π ​ φ < 180° π ​ φ < tan 180° π ​ φ ⟺ cos 180° π ​ φ < 180° π ​ φ sin 180° π ​ φ ​ < 1
+
+이 되며 아래와 같은 결과를 얻는다. lim ⁡ φ → 0 ° sin ⁡ π 180 ° φ π 180 ° φ = 1 \begin{aligned} \lim\limits_{\varphi\to0\degree}\dfrac{\sin\dfrac\pi{180\degree}\varphi}{\dfrac\pi{180\degree}\varphi} &= 1\end{aligned} φ → 0° lim ​ 180° π ​ φ sin 180° π ​ φ ​ ​ = 1 ​
+
+한편, sin ⁡ π 180 ° ϕ ϕ \dfrac{\sin\dfrac\pi{180\degree}\phi}\phi ϕ sin 180° π ​ ϕ ​
+
+에서 ϕ → 0 ° \phi\to0\degree ϕ → 0° 극한을 취하는 경우에는 수학이 아닌 단위와 차원 까지 고려한 도량형학 혹은 물리학 범주의 식이 되는데, 그 이유는 sin ⁡ ( π 180 ° ϕ ) \sin{\left(\dfrac\pi{180\degree}\phi \right)} sin ( 180° π ​ ϕ )
+
+는 단위가 없는 반면 ϕ \phi ϕ 는 ° \degree ° 라는 단위를 포함하기 때문이다. 해당 극한의 값은 π / 180 ° \pi/{180\degree} π / 180° 로 1 / ° 1/\degree 1/° 의 단위를 갖는 값이 얻어지며 1 r a d = 180 ° π 1{\rm\,rad} = \dfrac{180\degree}\pi 1 rad = π 180° ​
+
+이므로 해당 극한값은 1 r a d − 1 1{\rm\,rad^{-1}} 1 ra d − 1 , 즉 1 라디안 의 역수와 등가이다.
+
+9. 미적분 [편집]
+
+9.1. 도함수 [편집]
+자세한 내용은 삼각함수/도함수 문서를 참고하십시오.
+
+9.2. 역도함수 [편집]
+자세한 내용은 삼각함수/역도함수 문서를 참고하십시오.
+
+10. 역함수 [편집]
+자세한 내용은 역삼각함수 문서를 참고하십시오.
+
+11. 관련 함수 [편집]
+자세한 내용은 삼각함수/관련 함수 문서를 참고하십시오.
+
+12. 푸리에 급수 [편집]
+자세한 내용은 푸리에 해석 문서의 2 번 문단을 참고하십시오.
+주기함수를 사인 및 코사인의 무한합으로 전개하는 것을 말한다.
+
+13. 복소 및 극형식 [편집]
+
+13.1. 극좌표계 [편집]
+자세한 내용은 극좌표계 문서를 참고하십시오.
+
+13.2. 오일러 공식 관련 [편집]
+허수단위를 i i i 로 나타내면 오일러 공식 에 의해 e i x = cos ⁡ x + i sin ⁡ x e^{ix}=\cos x+i\sin x e i x = cos x + i sin x 이므로 cos ⁡ x = e i x + e − i x 2 sin ⁡ x = e i x − e − i x 2 i \begin{aligned} \cos x &= \dfrac{e^{ix}+e^{-ix}}2 \\ \sin x &= \dfrac{e^{ix}-e^{-ix}}{2i} \end{aligned} cos x sin x ​ = 2 e i x + e − i x ​ = 2 i e i x − e − i x ​ ​
+
+로 지수함수 에 대한 식이 유도된다. 그런데 위 식은 쌍곡선 함수 의 식 cosh ⁡ t = e t + e − t 2 sinh ⁡ t = e t − e − t 2 \begin{aligned} \cosh t &= \dfrac{e^t+e^{-t}}2 \\ \sinh t &= \dfrac{e^t-e^{-t}}2 \end{aligned} cosh t sinh t ​ = 2 e t + e − t ​ = 2 e t − e − t ​ ​
+
+에서 t = i x t=ix t = i x 인 경우로 볼 수 있다. 즉 cos ⁡ x = cosh ⁡ ( i x ) sin ⁡ x = − i sinh ⁡ ( i x ) ⟺ cosh ⁡ x = cos ⁡ ( i x ) sinh ⁡ x = − i sin ⁡ ( i x ) \begin{aligned} \cos x &= \cosh(ix) \\ \sin x &= -i\sinh(ix) \end{aligned} \quad \Longleftrightarrow \quad \begin{aligned} \cosh x &= \cos(ix) \\ \sinh x &= -i\sin(ix) \end{aligned} cos x sin x ​ = cosh ( i x ) = − i sinh ( i x ) ​ ⟺ cosh x sinh x ​ = cos ( i x ) = − i sin ( i x ) ​
+
+이며 삼각함수와 쌍곡선 함수는 복소수 를 매개로 연관되어 있음을 알 수 있다. sin ⁡ x = − i sinh ⁡ ( i x ) cos ⁡ x = cosh ⁡ ( i x ) tan ⁡ x = − i tanh ⁡ ( i x ) csc ⁡ x = i csch ⁡ ( i x ) sec ⁡ x = sech ⁡ ( i x ) cot ⁡ x = i coth ⁡ ( i x ) \begin{aligned} \sin x &= -i\sinh(ix) \\ \cos x &= \cosh(ix) \\ \tan x &= -i\tanh(ix) \\ \csc x &= i\operatorname{csch}(ix) \\ \sec x &= \operatorname{sech}(ix) \\ \cot x &= i\coth(ix) \end{aligned} sin x cos x tan x csc x sec x cot x ​ = − i sinh ( i x ) = cosh ( i x ) = − i tanh ( i x ) = i csch ( i x ) = sech ( i x ) = i coth ( i x ) ​
+
+한편, 위 공식을 이용해 삼각함수의 함숫값을 대수적인 방법으로 구할 수 있다. 다만 대입하는 각이 특수각 이 아닐 경우 환원 불능 (Casus irreducibilis) [35] 이 될 수 있으므로 주의해야 한다. [36]
+
+13.3. 복소함수에서의 삼각함수의 절댓값 [편집]
+z = x + i y z=x+iy z = x + i y 일 때, 삼각함수의 덧셈정리 를 사용하면 sin ⁡ z = sin ⁡ ( x + i y ) = sin ⁡ x cos ⁡ i y + cos ⁡ x sin ⁡ i y = sin ⁡ x cosh ⁡ y + i cos ⁡ x sinh ⁡ y cos ⁡ z = cos ⁡ ( x + i y ) = cos ⁡ x cos ⁡ i y − sin ⁡ x sin ⁡ i y = cos ⁡ x cosh ⁡ y − i sin ⁡ x sinh ⁡ y \begin{aligned} \sin z &= \sin(x+iy) = \sin x\cos iy + \cos x\sin iy \\ &= \sin x\cosh y+i\cos x\sinh y \\ \cos z &= \cos(x+iy) = \cos x\cos iy-\sin x\sin iy \\ &= \cos x\cosh y-i\sin x\sinh y \end{aligned} sin z cos z ​ = sin ( x + i y ) = sin x cos i y + cos x sin i y = sin x cosh y + i cos x sinh y = cos ( x + i y ) = cos x cos i y − sin x sin i y = cos x cosh y − i sin x sinh y ​
+
+이 성질을 이용하여 삼각함수의 복소평면에서의 절댓값을 구해보자. 물론 R ⊂ C \R \subset \cnums R ⊂ C 이므로, 실수일 때도 성립한다. 참고로 tan ⁡ z \tan z tan z 의 절댓값은 이렇게 구한 sin ⁡ z \sin z sin z , cos ⁡ z \cos z cos z 의 절댓값으로 구하는 게 빠르다. [37]
+다음이 성립한다. ∣ sin ⁡ z ∣ = sin ⁡ 2 x cosh ⁡ 2 y + cos ⁡ 2 x sinh ⁡ 2 y ∣ cos ⁡ z ∣ = cos ⁡ 2 x cosh ⁡ 2 y + sin ⁡ 2 x sinh ⁡ 2 y \begin{aligned} |\sin z|&=\sqrt{\sin^2x\cosh^2y+\cos^2x\sinh^2y} \\ |\cos z|&=\sqrt{\cos^2x\cosh^2y+\sin^2x\sinh^2y} \end{aligned} ∣ sin z ∣ ∣ cos z ∣ ​ = sin 2 x cosh 2 y + cos 2 x sinh 2 y ​ = cos 2 x cosh 2 y + sin 2 x sinh 2 y ​ ​
+
+이때, cosh ⁡ 2 y − sinh ⁡ 2 y = 1 \cosh^2y-\sinh^2y=1 cosh 2 y − sinh 2 y = 1 를 이용하면 다음과 같이 정리된다. ∣ sin ⁡ z ∣ = sin ⁡ 2 x cosh ⁡ 2 y + cos ⁡ 2 x sinh ⁡ 2 y = sin ⁡ 2 x + sin ⁡ 2 x sinh ⁡ 2 y + cos ⁡ 2 x sinh ⁡ 2 y = sin ⁡ 2 x + sinh ⁡ 2 y ∣ cos ⁡ z ∣ = cos ⁡ 2 x cosh ⁡ 2 y + sin ⁡ 2 x sinh ⁡ 2 y = cos ⁡ 2 x + cos ⁡ 2 x sinh ⁡ 2 y + sin ⁡ 2 x sinh ⁡ 2 y = cos ⁡ 2 x + sinh ⁡ 2 y \begin{aligned} |\sin z|&=\sqrt{\sin^2x\cosh^2y+\cos^2x\sinh^2y} \\&=\sqrt{\sin^2x+\sin^2x\sinh^2y+\cos^2x\sinh^2y} \\& =\sqrt{\sin^2x+\sinh^2y} \\ |\cos z|&=\sqrt{\cos^2x\cosh^2y+\sin^2x\sinh^2y} \\&=\sqrt{\cos^2x+\cos^2x\sinh^2y+\sin^2x\sinh^2y} \\& =\sqrt{\cos^2x+\sinh^2y} \end{aligned} ∣ sin z ∣ ∣ cos z ∣ ​ = sin 2 x cosh 2 y + cos 2 x sinh 2 y ​ = sin 2 x + sin 2 x sinh 2 y + cos 2 x sinh 2 y ​ = sin 2 x + sinh 2 y ​ = cos 2 x cosh 2 y + sin 2 x sinh 2 y ​ = cos 2 x + cos 2 x sinh 2 y + sin 2 x sinh 2 y ​ = cos 2 x + sinh 2 y ​ ​
+
+13.4. 복소평면에서의 삼각함수의 그래프 [편집]
+sin ⁡ z \sin z sin z | csc ⁡ z \csc z csc z
+
+cos ⁡ z \cos z cos z | sec ⁡ z \sec z sec z
+
+tan ⁡ z \tan z tan z | cot ⁡ z \cot z cot z
+
+14. 수학 교과에서의 삼각함수 [편집]
+- 6차 교육과정: 공통수학 (고1), 수학Ⅱ (자연계) - 공통수학은 마지막 단원, 수학 II는 2단원
+- 7차 교육과정: 수학 10-가/나 (고1), 미분과 적분 (자연계) - 수학 10-나 마지막 단원, 미분과 적분 1단원 - 삼각함수와 복소평면 삭제
+- 2007 개정 교육과정: 수학 (고1) [38] , 수학Ⅱ (이공 계열)
+- 2009 개정 교육과정: 미적분Ⅱ (이공 계열) - 사인 법칙 과 코사인 법칙 삭제
+- 삼각함수의 합성 삭제
+- 삼각함수의 여러 가지 공식 삭제 [39]
+- 삼각방정식의 일반해 삭제
+- 2015 개정 교육과정: 수학Ⅰ (고2 기본), <미적분> (고2~3 심화) [40] - 사인 법칙 과 코사인 법칙 부활 [41]
+- 2022 개정 교육과정: 대수 [42] (일반 선택), 미적분Ⅱ (진로 선택)
+
+15. '삼각함수에 관한 식' 오역 의견 [편집]
+원서나 교과서 등에서는 사인 함수를 sin ⁡ θ \sin\theta sin θ 로 서술하는 경우가 있다. 하지만 sin ⁡ θ \sin\theta sin θ 는 함숫 값 을 나타내는 식이며, θ \theta θ 가 변수로 쓰이지 않는 이상 ' 함수 ' 자체가 아니라는 점에서 다소 엄밀함이 떨어진다. 반례로 log ⁡ k \log k lo g k 의 경우, 그 자체가 로그함수 가 아닌 로그 라고 불린다. 그 외의 다른 함수를 설명할 때도 함수와 함숫값을 엄연히 구별하는데, 삼각함수에서는 잘 지키지 않는 점이 특이하다.
+
+영어 (원문)의 경우, 삼각함수를 뜻하는 trigonometric function 에서 'trigonometric'가 ' 삼각법의 '를 뜻하는 형용사이다. [43] 언어적 구조만 보더라도 trigonometric은 수식언 임이 자명하며, 이 구조를 그대로 한국어로 직역했을 때 '함수'라는 단어를 수식하는 건 '삼각법의'라는 걸 알 수 있다.
+
+대한수학회에서의 trigonometric equations (직역: 삼각법의 방정식) 의 정식 한국어 용어인 ' 삼각방정식 '의 사례처럼 '삼각법의 식'에서 '-법의'를 생략하여 ‘삼각식’ 으로 번역할 수도 있었는데 그러지 못했다. 그렇다고 '삼각함수의 식'으로 번역하자니 원문의 수식언 trigonometric는 '삼각 함수 의'가 아니기 때문에 그럴 수 없다.
+
+16. 둘러보기 [편집]
+초등함수
+Elementary Functions
+[ 펼치기 · 접기 ] 대수함수 | 유리함수 · 무리함수
+다항함수 | 상수함수 · 일차함수 · 이차함수 · 삼차함수 · 사차함수 · 추론 · 공식 ( 길이 · 넓이 ) · 소수생성다항식
+초월함수 | 지수함수 ( 확률밀도함수 · 허수지수함수 ) · 로그함수 ( 복소로그함수 ) · 삼각함수 ( 역삼각함수 ) · 쌍곡선 함수 ( 역쌍곡선 함수 )
+
+[ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 남동구유선방송 쿠팡
+www.coupang.com v-if
+[ [ 로켓배송 ] [ 로켓직구 ] [ 골드박스 ] [ 로켓프레시 ] ]
+남동구유선방송, TV에 연결만 하면 즉시 작동! 와우회원 무료배송 받으세요.
+
+] | [ 고급단독주택형 허브로움요양원
+blog.naver.com/herbroum v-if
+남동구 신축 단독요양원 재활물리치료 고급인테리어 1인실 2인실 테라스있는요양원
+
+]
+
+[1] 'angle function', 'circular function', 'goniometric function'이라고도 한다. [주의] 입체각 이 평면각의 제곱이기 때문에, 마치 넓이 가 길이 와 전혀 다른 차원 을 가지듯, 차원분석 적으로 각도가 고유한 차원 을 가짐을 수학적으로 보일 수 있으며, '각도'를 의미할 때 단위가 명시되어야 하는 이유도 여기에서 기인한다. [3] 흔히 삼각함수와 동일한 것으로 착각하지만 삼각비에서는 0 ° 0\degree 0° 와 90 ° 90\degree 90° 에서 값이 정의되지 않는다. 단, 극한값은 존재한다. [4] 사실 시초선은 시점이 O \rm O O 인 반직선일 뿐이며 위치는 어떻게 잡아도 상관이 없다. 굳이 x x x 축 양의 방향으로 잡은 이유는 x y xy x y 좌표평면과 극좌표계 간의 변수 변환이 편리하기 때문이다. [5] 한국어 암기 팁: 얼싸안고 / 영어 암기 팁 : A ll S tudent T ake C alculus, A ll S cience T eachers C razy, A dd S ugar T o C offee, A ll S an T a C laus 등 [6] 또는 암기할 때 각을 나타내는 동경과 단위원과의 교점에서 코사인을 x x x 좌표, 사인을 y y y 좌표, 탄젠트를 그 점과 원점을 지나는 직선의 기울기 (또는 동경의 기울기)라고 생각한다면 매우 수월해진다. 예를 들어, 제1, 4사분면에서는 x x x 좌표가 양수이니 코사인 값도 양수이고, 마찬가지로 제1, 2사분면에서 y y y 값이 양수이니 사인도 양수라고 생각하면 된다. [7] 절대수렴하는 수열합에 한해서는 수열의 배치를 바꾸더라도 수열합은 변하지 않는다. 이를 이용하여 복소수의 거듭제곱의 실수부와 허수부의 위치를 재조정해서 실수부와 허수부가 한 값으로 수렴함을 보일 수 있다. 다만 이는 절대수렴하지 않는 수열합에 대해서는 성립하지 않는 성질이다. 예를 들어서 a n = ( − 1 ) n n a_n=\cfrac{(-1)^n}n a n ​ = n ( − 1 ) n ​ 이라고 하면, 이 수열은 수렴하지만 절대수렴하지 않는데, 이 경우 ∑ k = 1 ∞ a n \displaystyle\sum_{k=1}^\infty a_n k = 1 ∑ ∞ ​ a n ​ 의 순서를 재조정하면 원래 값의 2배, 3배 이상을 만드는 것도 가능하다. 하지만 절대수렴하는 수열인 b n = 2 − n b_n=2^{-n} b n ​ = 2 − n 의 경우, 이 수열은 순서를 어떻게 재조정하더라도 ∑ k = 1 ∞ b n = 1 \displaystyle\sum_{k=1}^\infty b_n=1 k = 1 ∑ ∞ ​ b n ​ = 1 이 보장된다. [8] 국제단위계 에서도 각도의 표준 단위는 r a d \rm rad rad 이라 규정한다. 따라서 본 문단은 '호도법의 각도는 r a d \rm rad rad 으로 반드시 표기해야 한다'는 점을 염두에 두고 읽자. [9] 간단하게 정리하자면, ' 차원이 같더라도 단위가 다르면 덧셈 및 뺄셈 연산이 불가능하다 '이다. 즉 T ° ⁣ F T_{\rm\degree\!F} T ° F ​ 는 ° ⁣ F \rm\degree\!F ° F 라는 단위가 내재된 물리량이기 때문에, 가령 T ° ⁣ F = 9 5 T ° ⁣ C + 32 T_{\rm\degree\!F} = \cfrac95T_{\rm\degree\!C}+32 T ° F ​ = 5 9 ​ T ° C ​ + 32 라 나타낸 경우 T ° ⁣ C = 25 ° ⁣ C T_{\rm\degree\!C} = 25{\rm\,\degree\!C} T ° C ​ = 25 ° C 이면 우변의 결과가 9 5 × 25 ° ⁣ C + 32 = 45 ° ⁣ C + 32 \cfrac95\times25{\rm\,\degree\!C} + 32 = 45{\rm\,\degree\!C}+32 5 9 ​ × 25 ° C + 32 = 45 ° C + 32 가 되어 '화씨온도(물리량) = 섭씨온도(물리량) + 수치'라는 해괴한 관계가 된다. 이는 5 m + 3 k g 5{\rm\,m} + 3{\rm\,kg} 5 m + 3 kg 이 물리학적으로 말이 안 되는 수식인 점을 떠올리면 된다. 한편, 물리량에서 단위를 뗀 수치는 이러한 제약에서 자유로우며 (수치) = = = (물리량) ÷ \div ÷ (단위)이므로 이를 적용하면 위와 같은 형태의 수식이 된다. 해당 표기법은 국제도량형국(BIPM)에서 가장 최근에 발행한 SI 책자 제9판 의 133페이지에서도 확인할 수 있다. [10] 삼각함수는 단위원에서 단위가 없는 두 좌표의 비를 결과값으로 가지므로 단위를 갖지 않는 순수한 수치이다. 따라서 수치의 미소 변화량인 d ( sin ⁡ θ ) {\rm d}(\sin\theta) d ( sin θ ) 역시 단위를 갖지 않는다. [11] (물리량) = = = (수치) × \times × (단위)라는 관계를 다시 상기해보면, θ / r a d \theta/{\rm rad} θ / rad 은 (물리량) ÷ \div ÷ (단위) 꼴이며 이는 곧 (수치)를 의미하므로, θ / r a d \theta/{\rm rad} θ / rad 이란 곧 호도법 각도의 수치를 의미하는 표기법이다. [12] 아래 논문 외에도 r a d \rm rad rad 이 약분된 물리량이 다뤄져야 한다는 논문으로서 J. E. Romain의 1962년 논문( < θ > = θ / r a d \left<\theta\right> = \theta/{\rm rad} ⟨ θ ⟩ = θ / rad ) , J.-M. Levy-Leblond의 1998년 논문( ∠ = r a d \angle = {\rm rad} ∠ = rad ) , M. P. Foster의 2010년 리뷰( k = r a d − 1 k = {\rm rad}^{-1} k = rad − 1 ) 등이 있다. 아래 논문들과의 차이점이라면 삼각함수의 정의역까지 고찰하지 않고 호의 길이에 관한 내용에서 끝났다는 점이다. 호의 길이 역시 l = r θ l=r\theta l = r θ 가 아닌 l = r θ / r a d l=r\theta/{\rm rad} l = r θ / rad 이 좀 더 엄밀한 표기이다. [13] 중간의 d y ≃ d s Cos ⁡ φ {\rm d}y \simeq {\rm d}s\operatorname{Cos}\varphi d y ≃ d s Cos φ 는 평면좌표계에서의 기하학을 동원했다. [14] 멀리 갈 것도 없이 편미분 연산자의 하나인 달랑베르시안 과 표기가 겹친다. [15] 사실상 Torrens가 제안했던 것을 문자만 다르게 표현한 것에 지나지 않는다. [16] 이 관계식은 참이다. 단, 그렇다고 해서 r a d 2 \rm rad^2 ra d 2 이 등장하는 모든 물리 공식에 r a d 2 = s r {\rm rad^2} = {\rm sr} ra d 2 = sr 이 적용되는 것은 아니다. 입체각 참고. [17] 해당 논문에서의 표기. 일반적으론 허수단위 i i i 를 직립체로 쓰지 않으므로 x = A exp ⁡ ( i ω t / θ C ) x = A\exp(i\omega t/\theta_{\rm C}) x = A exp ( iω t / θ C ​ ) 가 좀 더 적절할 것이다. [18] 이는 곧 sin ⁡ 60 ° \sin60\degree sin 60° 와 같은 표기는 엄밀하지 않은 표기이고 sin ⁡ ( 60 ° / r a d ) = sin ⁡ ( 60 ° ⋅ π 180 ° ) = sin ⁡ π 3 = 3 2 \sin(60\degree/{\rm rad})=\sin{\biggl(60\degree{\cdot}\cfrac\pi{180\degree}\biggr)}=\sin\cfrac\pi3 = \cfrac{\sqrt3}2 sin ( 60°/ rad ) = sin ( 60° ⋅ 180° π ​ ) = sin 3 π ​ = 2 3 ​ ​ 과 같이 쓰는 것이 올바른 표기라는 뜻이기도 하다. [19] 아주 쉬운 예로 등속직선운동에서 속력과 거리에 관한 공식 d = v t d=vt d = v t 를 들 수 있다. 양 방정식인 d = v t d=vt d = v t 는 각 물리량이 단위를 이미 내포하고 있고 구체적인 수치를 다룰 때에나 단위환산 과정이 들어가지 결과적으로 속력 v v v 와 시간 t t t 를 곱해서 거리라는 물리량 d d d 가 도출되는 건 똑같다. 그러나 위 공식을 수치 방정식으로 치환할 경우 단위환산 이 본격적으로 수식에 드러나기 때문에 식의 형태가 바뀐다고 보면 된다. 가령 d d d 의 단위가 m \rm m m 이고 v v v 의 단위가 m / s \rm m/s m/s 이고 t t t 의 단위가 s \rm s s 라면 그대로 d m = v m / s ⋅ t s \cfrac d{\rm m} = \cfrac v{\rm m/s}{\cdot}\cfrac t{\rm s} m d ​ = m/s v ​ ⋅ s t ​ 로 쓰면 되지만 v v v 의 단위가 k m / h \rm km/h km/h 라면 k m / h = 1000 m 3600 s = 1 3.6 m / s \rm km/h = \cfrac{1000{\rm\,m}}{3600{\rm\,s}} = \cfrac1{3.6}{\rm\,m/s} km/h = 3600 s 1000 m ​ = 3.6 1 ​ m/s 이므로 d m = 1 3.6 v k m / h ⋅ t s \cfrac d{\rm m} = \cfrac1{3.6}\cfrac v{\rm\,km/h}{\cdot}\cfrac t{\rm s} m d ​ = 3.6 1 ​ km/h v ​ ⋅ s t ​ 로 v v v 의 수치에 1 3.6 \cfrac1{3.6} 3.6 1 ​ 이 곱해져 식의 꼴이 변한다. [20] 배고플 때 가장 먼저 떠올려야 하는 탕, 코 사인 탕(탄) 으로 외워도 된다. [증명] 단위원 상에서 피타고라스 정리를 이용하면 쉽게 증명할 수 있다. [22] 즉, 사인함수와 코사인함수의 차수 가 무한대라는 의미이며 이는 다른 삼각함수에 관해서도 마찬가지이다. 초월함수이기 때문에 차수 값은 일반적인 정의로 구할 수 없고 로그의 비율에 극한을 취한 값 lim ⁡ x → ∞ ln ⁡ ∣ f ( x ) ∣ ln ⁡ x \lim\limits_{x\to\infty}\cfrac{\ln|f(x)|}{\ln x} x → ∞ lim ​ ln x ln ∣ f ( x ) ∣ ​ 을 이용해서 구해야 한다. 나아가 삼각함수의 경우 로피탈의 정리를 적용할 수 있으므로 lim ⁡ x → ∞ x f ′ ( x ) f ( x ) \lim\limits_{x\to\infty}\cfrac{xf'(x)}{f(x)} x → ∞ lim ​ f ( x ) x f ′ ( x ) ​ 로도 구할 수 있으며 이 식에 삼각함수를 대입하면 무한대가 얻어진다. 참고로 차수가 무한대라는 것의 직관적인 의미는 무한 번 미분 가능 정도로 이해하면 된다. 이에 대응되는 엄밀한 용어는 매끄러움 이며, 실제로 사인, 코사인 함수는 무한 번 미분해도 연속인 매끄러운 함수인 것을 넘어, 정의역의 모든 점 근방에서 테일러 급수가 원래 함수로 수렴하는 해석함수 이기도 하다. [23] 임의의 실수 범위의 함수 f f f 에 대하여 적당한 상수 k ≠ 0 k\ne0 k  = 0 을 잡을 때, f f f 의 정의역에 속하는 임의의 x x x 에 대하여 f ( x + k ) = f ( x ) f(x+k)=f(x) f ( x + k ) = f ( x ) 가 성립하면, f f f 를 주기함수라 하고, k k k 를 f f f 의 주기라 한다. 주기 중 양의 최솟값을 기본 주기라고 한다. [24] 보통 θ \theta θ 는 예각이나 특수각, 또는 나올 수 있는 양의 각 중 가장 작은 값을 택하나 필요에 따라 임의의 각, 음의 각을 택하여도 된다. [25] 그 예로 tan ⁡ x = π 4 x \tan x=\cfrac\pi4x tan x = 4 π ​ x 의 해는 이것 과 같이 나온다. [26] 조건을 잘 설정한 경우 그래프를 그려 해결할 수도 있을 것이다. [27] 이를 분지 절단 (branch cut)이라고 한다. [28] 이는 (삼각함수) = = = (상수) 꼴로 정리되는 방정식만 해당한다. [29] 이것이 중요한 이유가 연속임에도 정칙이 아닐 수 있기 때문이다 . 당장 삼각함수와 관련된 함수 중 이런 예를 찾아볼 수 있다. [30] 여기서 sin ⁡ A A \cfrac{\sin A}A A sin A ​ 를 싱크 함수 (sinc function)라고 한다. [31] 넓이를 엄밀하게 다루려면 적분이 선행되어야 하고, 적분을 다루기 위해서는 미분이 선행되어야 하는데, 미분을 다루려면 극한이 선행되어야 한다. 극한을 다루고 있는데 극한이 정립이 되어야 하는 결론에 다다르므로 순환 논법이다. [32] 기하학적으로 극한의 개념을 쓰지 않고 원의 넓이가 π r 2 \pi r^2 π r 2 임을 증명하기가 대단히 어렵다. [33] 샌드위치 정리 또는 조임 정리(squeeze theorem) [34] 아래 식을 보면 알 수 있지만 삼각함수는 호도법으로 나타낸 각의 수치만을 정의역으로 갖는다. 즉 sin ⁡ 60 ° \sin60\degree sin 60° 와 같이 나타낸 식은 삼각함수의 무한 급수 표현 등 미적분학을 고려하면 엄밀하지 않은 표현이고 sin ⁡ ( π 180 ° ⋅ 60 ° ) = sin ⁡ π 3 \sin{\left(\dfrac\pi{180\degree}{\cdot}60\degree\right)} = \sin\dfrac\pi3 sin ( 180° π ​ ⋅ 60° ) = sin 3 π ​ 으로 쓰는 것이 정확한 표현이다. 단, 호도법을 배우기 이전 과정에서 이러한 개념을 가르칠 수는 없기에 sin ⁡ ( ϕ ) = sin ⁡ π 180 ° ϕ \sin(\phi) = \sin\dfrac\pi{180\degree}\phi sin ( ϕ ) = sin 180° π ​ ϕ 라 정의하고 쓰는 것으로 봄이 타당하다. [35] 실수이지만, 허수단위를 없앨 수 없는 꼴 [36] 대표적인 예로 파섹 이 있다. 2015년 이전까지 파섹을 정의하는 데 특수각이 아닌 π / 648000 \pi/648000 π /648000 라는 각도에 삼각함수를 취한 값이 들어갔었다. 2015년 이후부터는 648000 / π 648000/\pi 648000/ π 을 사용. [37] tan ⁡ z = tan ⁡ ( x + i y ) = tan ⁡ x + tan ⁡ i y 1 − tan ⁡ x tan ⁡ i y = tan ⁡ x + i tanh ⁡ y 1 − i tan ⁡ x tanh ⁡ y = ( tan ⁡ x + i tanh ⁡ y ) ( 1 + i tan ⁡ x tanh ⁡ y ) 1 + tan ⁡ 2 x tanh ⁡ 2 y = tan ⁡ x ( 1 − tanh ⁡ 2 y ) + i tanh ⁡ y ( 1 + tan ⁡ 2 x ) 1 + tan ⁡ 2 x tanh ⁡ 2 y = s e c h 2 y tan ⁡ x + i tanh ⁡ y sec ⁡ 2 x 1 + tan ⁡ 2 x tanh ⁡ 2 y \begin{aligned} \tan z&=\tan(x+iy)\\ &= \dfrac{\tan x + \tan iy}{1 - \tan x\tan iy} \\ &=\dfrac{\tan x+i \tanh y}{1-i \tan x\tanh y} \\ &=\dfrac{(\tan x+i\tanh y)(1+i\tan x\tanh y)}{1+\tan^2x\tanh^2y} \\ &=\dfrac{\tan x(1-\tanh^2y)+i\tanh y(1+\tan^2x)}{1+\tan^2x\tanh^2y} \\ &=\dfrac{\mathrm{sech}^2\,y\tan x+i\tanh y\sec^2x}{1+\tan^2x\tanh^2y} \end{aligned} tan z ​ = tan ( x + i y ) = 1 − tan x tan i y tan x + tan i y ​ = 1 − i tan x tanh y tan x + i tanh y ​ = 1 + tan 2 x tanh 2 y ( tan x + i tanh y ) ( 1 + i tan x tanh y ) ​ = 1 + tan 2 x tanh 2 y tan x ( 1 − tanh 2 y ) + i tanh y ( 1 + tan 2 x ) ​ = 1 + tan 2 x tanh 2 y sech 2 y tan x + i tanh y sec 2 x ​ ​ [38] 사상 최초로 삼각함수가 마지막 단원이 아니다. [39] 반각공식과 배각공식이 삭제됐다. 다만, 즉석에서 삼각함수의 덧셈정리를 이용하여 공식을 유도하는 것이 가능하기 때문에 시험에 출제가 허용될 수도 있다. 이에 교육자들도 어차피 출제될 가능성이 있는 김에 그냥 외우는 게 편하다는 교육자와, 교육과정에서 공식적으로 삭제된 내용이 풀이에 핵심이 되는 수학 문제는 출제될 수 없으며, 설령 출제된다 해도 즉석에서 덧셈정리 쓰면 그만이므로 외울 필요가 없다고 주장하는 교육자로 파가 나뉘게 되었다. [40] 기본과 심화로 구분됐지만 두 과목은 일반 선택과목이다. 그러나 수학Ⅰ은 수능 필수 출제범위라 모든 고등학생들이 이수해야 하는 반면, 미적분은 수능에서 선택 과목이라 이공계열로 진학하려는 학생들만 미적분을 선택하게 되고 인문사회계열로 진학할 예정인 학생들은 확률과 통계를 많이 선택하게 된다. 단, 경제학과나 경영학과 진학을 희망하는 학생들 중에서는 극소수가 미적분을 고르기도 한다. 수학Ⅰ에서는 기본적인 개론과 함수의 그래프, 방정식 등을 다루며, 미적분에서는 삼각함수의 덧셈정리와 삼각함수의 극한·미분·적분 등을 다룬다. [41] 수학Ⅰ에서 배운다. [42] 대수학의 대수가 맞다. 실제로도 과목명에 문제가 있다는 의견이 있다. [43] 포털 검색 결과 , trigonometry 번역 '삼각법' ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

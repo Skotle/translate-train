@@ -1,0 +1,637 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 섭동 이론
+최근 수정 시각: 2025-09-03 15:04:59 [ [ [ ] [ [ 9 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 물리학
+]
+
+[ [ ] [ 양자역학 Quantum Mechanics
+[ 펼치기 · 접기 ] 배경 | 흑체복사 · 이중슬릿 실험 · 광전효과 · 콤프턴 산란 · 보어의 원자 모형 · 물질파 · 데이비슨-저머 실험 · 불확정성 원리 · 슈테른-게를라흐 실험 · 프랑크-헤르츠 실험
+이론 체계 | 체계 플랑크 상수 ( 플랑크 단위계 ) · 공리 · 슈뢰딩거 방정식 · 파동함수 · 연산자 ( 해밀토니언 · 선운동량 · 각운동량 ) · 스핀 ( 스피너 ) · 파울리 배타 원리 해석 코펜하겐 해석 ( 보어-아인슈타인 논쟁 ) · 숨은 변수 이론 ( EPR 역설 · 벨의 부등식 · 광자 상자 ) · 다세계 해석 · 앙상블 해석 · 서울 해석 묘사 묘사 ( 슈뢰딩거 묘사 · 하이젠베르크 묘사 · 디랙 묘사) · 행렬역학
+연관 학문 | 천체물리학 ( 천문학 틀 · 우주론 · 양자블랙홀 · 중력 특이점 ) · 핵물리학 틀 ( 원자력 공학 틀 ) · 응집물질물리학 틀 · 컴퓨터 과학 틀 ( 양자컴퓨터 · 양자정보과학 ) · 통계역학 틀 · 양자화학 ( 물리화학 틀 ) · 입자물리학 ( 입자물리학 틀 )
+현상 · 응용 | 양자요동 · 양자 얽힘 · 양자 터널링 · 퍼텐셜 우물 · 양자 조화 진동자 · 오비탈 · 수소 원자 모형 · 쌓음 원리 · 훈트 규칙 · 섭동 ( 스핀 - 궤도 결합 · 제이만 효과 · 슈타르크 효과 · 헬만-파인만 정리 ) · 선택 규칙 · 변분 원리 · WKB 근사법 · 시간 결정 · 보스-아인슈타인 응집 · 솔리톤 · 카시미르 효과 · 아하로노프-봄 효과 · 블랙홀 정보 역설 · 양자점 · 하트리-포크 방법 · 밀도범함수 이론 · 준위 · 양자장론 ( 양자전기역학 · 양자색역학 ) · 뤼드베리 방정식 · 체렌코프 현상
+기타 | 군론 · 기본 입자 · 대칭성 · 비리얼 정리 · 리만 가설 · 매듭이론 · 밀도행렬 · 물질 · 방사선 ( 반감기 ) · 라플라스의 악마 · 슈뢰딩거의 고양이 ( 위그너의 친구 )
+문헌 | 교재 · 분류:물리학술지
+
+입자물리학
+Particle Physics
+[ 펼치기 · 접기 ] 기반 | 양자역학 · 상대성 이론 · 통계역학 · 전자기학 · 고전역학
+이론 | 체계 | 양자장론 ( 비상대론적 양자장론 ) · 루프 양자 중력 이론 · 초끈 이론 ( M이론 · F이론) · 위상양자장론 · 대통일 이론 · 통일장 이론 · 모든 것의 이론
+형식 | 클라인-고든 방정식 · 디랙 방정식 · 1차 양자화 · 이차양자화 · 전파인자 · 산란행렬 · 경로적분 ( 응용 · 고리 적분) · 고스트 · 파인만 다이어그램 · 재규격화 ( 조절 · 재규격화군 ) · 위상 공간 · 대칭성 · 자발 대칭 깨짐 · 초대칭 · CP 대칭 깨짐 ) · 섭동 ( 다이슨 급수 ) · 등각변환(등각장론)
+실험 | 기구 | 입자가속기 ( 사이클로트론 · 싱크로트론 · 테바트론 · SLAC · ILC · LHC · PETRA · HERA · RAON(중이온가속기) ) · 카미오칸데 · LIGO · 입자검출기 ( ATLAS · CMS · ALICE · LHCb · PLUTO · TASSO · UA1 · UA2)
+입자 | 기본 입자 ( 둘러보기 ) · 강입자 ( 둘러보기 ) · 페르미온 ( 둘러보기 ) · 보손 ( 둘러보기 ) · 쿼크 · 렙톤 · 중성미자 · 게이지 보손 · 글루온 · W/Z 보손 · 광자 · 힉스 보손 · 메손 · 바리온 · 반물질 · 색전하 · 아이소스핀 · 맛깔 · B-L
+상호작용 | 기본 상호 작용 ( 둘러보기 ) · 표준모형 · 게이지 이론 · 양자 전기역학 · 약력 · 전자기약력 · 강력 · 양자색역학 · SU(3)
+모형 · 가설 | 프리온 · 기묘체 · 타키온 · 뉴트로늄 · 기묘한 물질
+우주론 | 우주/역사 · 암흑물질 · 액시온 · 파동형 암흑물질 · 암흑광자 · 암흑에너지 · 인플레이션 우주론 · 바리오제네시스
+연관 학문 | 천체물리학 ( 천문학 틀 · 우주론 · 양자블랙홀 · 중력 특이점 ) · 핵물리학 ( 원자력 공학 틀 ) · 응집물질물리학 틀 · 컴퓨터 과학 틀 ( 양자컴퓨터 · 양자정보과학 ) · 통계역학 틀
+현상 · 응용 | 다섯 번째 상호 작용 · 양자진공 · 플랑크 단위계 ( 플랑크 질량 · 플랑크 길이 · 플랑크 시간 · 플랑크 온도 ) · 양자요동 · 쌍생성 · 쌍소멸 · 방사선 · 미세 구조 상수 · 블랙홀 정보 역설 · 특이점
+기타 | 양-밀스 질량 간극 가설 · 군론 · 리만 가설 · 매듭이론 · 물질 · 반감기 · 대수위상학 · 대수기하학 · 교재
+관련 문헌 | 양자장론/교재 · 분류:물리학술지
+
+1 . 개요 2 . 시간에 무관한 섭동 이론 2.1 . 비축퇴 섭동 이론 2.1.1 . 0차 보정 2.1.2 . 1차 보정 2.1.3 . 2차 보정 2.1.4 . 고차 보정 2.2 . 축퇴 섭동 이론 2.3 . 예시 2.3.1 . 섭동이 가해진 무한 퍼텐셜 우물 2.3.1.1 . 우물 중심에 퍼텐셜 혹이 생긴 경우 2.3.1.2 . 약한 전기장과 약한 자기장이 걸린 경우 2.3.2 . 섭동이 가해진 해밀토니언 행렬 2.3.3 . 수소 원자의 특수 상대론적 보정 2.3.4 . 스핀-궤도 결합 2.3.5 . 슈타르크 효과 2.3.6 . 제이만 효과 2.3.7 . 헬만-파인만 정리 3 . 시간에 의존하는 섭동 이론 3.1 . 삼각함수 형 섭동 3.2 . 페르미 황금률 3.3 . 단열 근사와 베리 위상 3.4 . 예시 3.4.1 . 전자기파에 의한 섭동 3.4.2 . 아하로노프-봄 효과 4 . 한계
+
+1. 개요 [편집]
+perturbation theory · 攝 動 理 論
+
+섭동 이론이란 원래 물리학 전반에서 정확한 해가 잘 알려진 어떤 계에 미세한 변화를 줬을 때 그 해가 어떻게 변화하는지를 수학적으로 풀어내기 위한 도구인데, 특별한 경우가 아니면 보통 양자역학에서의 섭동 이론을 지칭하게 된다. 따라서 본 문서에서도 양자역학의 섭동 이론에 대해 기술한다.
+
+이 문서에서는 양자역학적 연산자 표기에 사용되는 hat( ^ \hat{\,\,\,} ^ )은 따로 붙이지 않았음에 유의한다.
+
+2. 시간에 무관한 섭동 이론 [편집]
+
+2.1. 비축퇴 섭동 이론 [편집]
+본래 계의 해밀토니언 H ( 0 ) \mathcal{H}^{(0)} H ( 0 ) 을 알고 있고, 여기에 섭동 해밀토니언이 가해져서 분석해야 할 계의 해밀토니언이 다음과 같은 형태가 됐다고 가정하자.
+
+H = H ( 0 ) + H ′ \begin{aligned} \mathcal{H}=\pmb{\mathcal{H}}^{(0)}+\pmb{\mathcal{H}}' \end{aligned} H = H ( 0 ) + H ′ ​
+이때, 섭동 해밀토니언은 시간에 의존하지 않으며, H ( 0 ) ≫ H ′ \boldsymbol{\mathcal{H}^{(0)} \gg \mathcal{H}'} H ( 0 ) ≫ H ′ 이라고 가정한다. 자연계에서 이 섭동 해밀토니언이 들어가게 되면 그 고유 상태를 해석적으로 알아내는 것이 가능한 경우는 굉장히 제한적이다. 이때 다음과 같은 λ \lambda λ 라는 인자를 붙이는데, 일단 여기서는 λ < 1 \lambda < 1 λ < 1 이라고 가정하자. 이러한 방법을 시간에 무관한 섭동 이론(time-independent perturbation theory) 이라고 한다. 이후 λ → 1 \lambda \to 1 λ → 1 로 놓아 본래의 해밀토니언으로 되돌릴 것이다. 그렇게 되면, 해밀토니언은 λ \lambda λ 에 대한 함수가 된다.
+
+H = H ( 0 ) + λ H ′ \begin{aligned} \mathcal{H}=\mathcal{H}^{(0)}+\lambda \mathcal{H}' \end{aligned} H = H ( 0 ) + λ H ′ ​
+
+계의 고유함수는 다음의 고유치 방정식
+
+H φ n = E n φ n \begin{aligned} \mathcal{H}\varphi_{n}=E_{n}\varphi_{n} \end{aligned} H φ n ​ = E n ​ φ n ​ ​
+을 풀어 얻을 수 있으나, 위에서 언급했듯 섭동 해밀토니언 항 때문에 이를 해석적으로 푸는 것은 일반적으로 불가능하다. 따라서 고유함수를 λ \lambda λ 에 대하여 전개한다.
+
+φ n = φ n ( 0 ) + λ φ n ( 1 ) + λ 2 φ n ( 2 ) + ⋯ \begin{aligned} \varphi_{n}=\varphi_{n}^{(0)}+\lambda\varphi_{n}^{(1)}+\lambda^2 \varphi^{(2)}_{n} +\cdots \end{aligned} φ n ​ = φ n ( 0 ) ​ + λ φ n ( 1 ) ​ + λ 2 φ n ( 2 ) ​ + ⋯ ​
+마찬가지로 고윳값 또한 똑같은 작업을 한다.
+
+E n = E n ( 0 ) + λ E n ( 1 ) + λ 2 E n ( 2 ) + ⋯ \begin{aligned} E_{n}=E_{n}^{(0)}+\lambda E_{n}^{(1)}+\lambda^2 E_{n}^{(2)} +\cdots \end{aligned} E n ​ = E n ( 0 ) ​ + λ E n ( 1 ) ​ + λ 2 E n ( 2 ) ​ + ⋯ ​
+λ n \lambda^n λ n 의 계수는 곧 n n n 차 보정항이 된다. 이것을 고유치 방정식에 대입한다. ( H ( 0 ) + λ H ′ ) ( φ n ( 0 ) + λ φ n ( 1 ) + λ n 2 φ ( 2 ) + ⋯ ) = ( E n ( 0 ) + λ E n ( 1 ) + λ 2 E n ( 2 ) + ⋯ ) ( φ n ( 0 ) + λ φ n ( 1 ) + λ n 2 φ ( 2 ) + ⋯ ) \displaystyle \begin{aligned} (\mathcal{H}^{(0)}+\lambda \mathcal{H}')(\varphi_{n}^{(0)}+\lambda\varphi_{n}^{(1)}+\lambda_{n}^2 \varphi^{(2)} +\cdots)=(E_{n}^{(0)}+\lambda E_{n}^{(1)}+\lambda^2 E_{n}^{(2)} +\cdots)(\varphi_{n}^{(0)}+\lambda\varphi_{n}^{(1)}+\lambda_{n}^2 \varphi^{(2)} +\cdots) \end{aligned} ( H ( 0 ) + λ H ′ ) ( φ n ( 0 ) ​ + λ φ n ( 1 ) ​ + λ n 2 ​ φ ( 2 ) + ⋯ ) = ( E n ( 0 ) ​ + λ E n ( 1 ) ​ + λ 2 E n ( 2 ) ​ + ⋯ ) ( φ n ( 0 ) ​ + λ φ n ( 1 ) ​ + λ n 2 ​ φ ( 2 ) + ⋯ ) ​
+
+λ \lambda λ 의 계수끼리 비교하여 같다 놓으면, 곧 고유치 방정식을 만족시키게 된다. λ \boldsymbol\lambda λ 의 차수 | 방정식
+0 0 0 | H ( 0 ) φ n ( 0 ) = E n ( 0 ) φ n ( 0 ) \begin{aligned} \mathcal{H}^{(0)} \varphi_{n}^{(0)}=E_{n}^{(0)}\varphi_{n}^{(0)} \end{aligned} H ( 0 ) φ n ( 0 ) ​ = E n ( 0 ) ​ φ n ( 0 ) ​ ​
+1 1 1 | H ( 0 ) φ n ( 1 ) + H ′ φ n ( 0 ) = E n ( 0 ) φ n ( 1 ) + E n ( 1 ) φ n ( 0 ) \begin{aligned} \mathcal{H}^{(0)} \varphi_{n}^{(1)}+\mathcal{H}'\varphi_{n}^{(0)}=E_{n}^{(0)}\varphi_{n}^{(1)}+E_{n}^{(1)}\varphi_{n}^{(0)} \end{aligned} H ( 0 ) φ n ( 1 ) ​ + H ′ φ n ( 0 ) ​ = E n ( 0 ) ​ φ n ( 1 ) ​ + E n ( 1 ) ​ φ n ( 0 ) ​ ​
+2 2 2 | H ( 0 ) φ n ( 2 ) + H ′ φ n ( 1 ) = E n ( 0 ) φ n ( 2 ) + E n ( 1 ) φ n ( 1 ) + E n ( 2 ) φ n ( 0 ) \begin{aligned} \mathcal{H}^{(0)}\varphi_{n}^{(2)}+\mathcal{H}' \varphi_{n}^{(1)}=E_{n}^{(0)}\varphi_{n}^{(2)}+E_{n}^{(1)}\varphi_{n}^{(1)}+E_n^{(2)}\varphi_{n}^{(0)} \end{aligned} H ( 0 ) φ n ( 2 ) ​ + H ′ φ n ( 1 ) ​ = E n ( 0 ) ​ φ n ( 2 ) ​ + E n ( 1 ) ​ φ n ( 1 ) ​ + E n ( 2 ) ​ φ n ( 0 ) ​ ​
+⋮ \vdots ⋮ | ⋮ \vdots ⋮
+
+[표 1]
+
+2.1.1. 0차 보정 [편집]
+[표 1] 에서 0차 보정에 대해선 다음 방정식을 만족함을 보였다.
+
+H ( 0 ) φ n ( 0 ) = E n ( 0 ) φ n ( 0 ) \begin{aligned} \mathcal{H}^{(0)}\varphi_{n}^{(0)}=E_{n}^{(0)}\varphi_{n}^{(0)} \end{aligned} H ( 0 ) φ n ( 0 ) ​ = E n ( 0 ) ​ φ n ( 0 ) ​ ​
+따라서 0차 보정 에너지와 고유함수는 H ( 0 ) \mathcal{H}^{(0)} H ( 0 ) 에 대한 고윳값과 고유함수이다.
+
+2.1.2. 1차 보정 [편집]
+[표 1] 에서 1차 보정에 대해선 다음 방정식을 만족함을 보였다.
+
+H ( 0 ) φ n ( 1 ) + H ′ φ n ( 0 ) = E n ( 0 ) φ n ( 1 ) + E n ( 1 ) φ n ( 0 ) \begin{aligned} \mathcal{H}^{(0)} \varphi_{n}^{(1)}+\mathcal{H}'\varphi_{n}^{(0)}=E_{n}^{(0)}\varphi_{n}^{(1)}+E_{n}^{(1)}\varphi_{n}^{(0)} \end{aligned} H ( 0 ) φ n ( 1 ) ​ + H ′ φ n ( 0 ) ​ = E n ( 0 ) ​ φ n ( 1 ) ​ + E n ( 1 ) ​ φ n ( 0 ) ​ ​
+φ n ( 0 ) \varphi_{n}^{(0)} φ n ( 0 ) ​ 은 힐베르트 공간의 원소이므로 완전조(complete set)를 이룬다. 따라서
+
+φ n ( 1 ) = ∑ m c m ( n ) φ m ( 0 ) \begin{aligned} \varphi_{n}^{(1)}=\sum_{m} c_{m}^{(n)} \varphi_{m}^{(0)} \end{aligned} φ n ( 1 ) ​ = m ∑ ​ c m ( n ) ​ φ m ( 0 ) ​ ​
+으로 가정하자. 이 식의 양변에 φ m ( 0 ) \varphi_{m}^{(0)} φ m ( 0 ) ​ 을 내적한다. ∑ m c m ( n ) ⟨ φ m ( 0 ) ∣ H ( 0 ) ∣ φ m ( 0 ) ⟩ + ⟨ φ m ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ = ∑ m c m ( n ) E n ( 0 ) ⟨ φ m ( 0 ) ∣ φ m ( 0 ) ⟩ + E n ( 1 ) ⟨ φ m ( 0 ) ∣ φ n ( 0 ) ⟩ ∑ m c m ( n ) ( E m ( 0 ) − E n ( 0 ) ) ⟨ φ m ( 0 ) ∣ φ m ( 0 ) ⟩ = − ⟨ φ m ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ + E n ( 1 ) ⟨ φ m ( 0 ) ∣ φ n ( 0 ) ⟩ \displaystyle \begin{aligned} \sum_{m} c_{m}^{(n)}\langle \varphi_{m}^{(0)}| \mathcal{H}^{(0)} | \varphi_{m}^{(0)} \rangle+ \langle \varphi_{m}^{(0)}| \mathcal{H}'|\varphi_{n}^{(0)}\rangle &=\sum_{m} c_{m}^{(n)} E_{n}^{(0)}\langle \varphi_{m}^{(0)}|\varphi_{m}^{(0)}\rangle+E_{n}^{(1)}\langle \varphi_{m}^{(0)}|\varphi_{n}^{(0)}\rangle \\ \sum_{m} c_{m}^{(n)}(E_{m}^{(0)}-E_{n}^{(0)})\langle \varphi_{m}^{(0)}| \varphi_{m}^{(0)} \rangle&=-\langle \varphi_{m}^{(0)}| \mathcal{H}'|\varphi_{n}^{(0)}\rangle+ E_{n}^{(1)}\langle \varphi_{m}^{(0)}|\varphi_{n}^{(0)}\rangle \end{aligned} m ∑ ​ c m ( n ) ​ ⟨ φ m ( 0 ) ​ ∣ H ( 0 ) ∣ φ m ( 0 ) ​ ⟩ + ⟨ φ m ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ m ∑ ​ c m ( n ) ​ ( E m ( 0 ) ​ − E n ( 0 ) ​ ) ⟨ φ m ( 0 ) ​ ∣ φ m ( 0 ) ​ ⟩ ​ = m ∑ ​ c m ( n ) ​ E n ( 0 ) ​ ⟨ φ m ( 0 ) ​ ∣ φ m ( 0 ) ​ ⟩ + E n ( 1 ) ​ ⟨ φ m ( 0 ) ​ ∣ φ n ( 0 ) ​ ⟩ = − ⟨ φ m ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ + E n ( 1 ) ​ ⟨ φ m ( 0 ) ​ ∣ φ n ( 0 ) ​ ⟩ ​
+
+이때, m = n m=n m = n 이면
+
+E n ( 1 ) = ⟨ φ n ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ \begin{aligned} E_{n}^{(1)}=\langle \varphi_{n}^{(0)}| \mathcal{H}'|\varphi_{n}^{(0)}\rangle \end{aligned} E n ( 1 ) ​ = ⟨ φ n ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ ​
+으로 1차 보정 에너지를 얻는다. c n ( n ) c_{n}^{(n)} c n ( n ) ​ 은 해당 식이 계수에 대한 정보를 주지 않아 다른 방법으로 구하여야 한다. 한편, φ l ( 0 ) \varphi_{l}^{(0)} φ l ( 0 ) ​ 과 내적함으로써 ∑ m c m ( n ) ( E m ( 0 ) − E n ( 0 ) ) ⟨ φ l ( 0 ) ∣ φ m ( 0 ) ⟩ = − ⟨ φ l ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ + E n ( 1 ) ⟨ φ l ( 0 ) ∣ φ n ( 0 ) ⟩ \displaystyle \begin{aligned} \sum_{m} c_{m}^{(n)}(E_{m}^{(0)}-E_{n}^{(0)})\langle \varphi_{l}^{(0)}| \varphi_{m}^{(0)} \rangle&=-\langle \varphi_{l}^{(0)}| \mathcal{H}'|\varphi_{n}^{(0)}\rangle+ E_{n}^{(1)}\langle \varphi_{l}^{(0)}|\varphi_{n}^{(0)}\rangle \end{aligned} m ∑ ​ c m ( n ) ​ ( E m ( 0 ) ​ − E n ( 0 ) ​ ) ⟨ φ l ( 0 ) ​ ∣ φ m ( 0 ) ​ ⟩ ​ = − ⟨ φ l ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ + E n ( 1 ) ​ ⟨ φ l ( 0 ) ​ ∣ φ n ( 0 ) ​ ⟩ ​
+
+l = n l=n l = n 일 때는 위 식과 같은 식이 되어 또다른 정보를 주지 않고, l ≠ n l \neq n l  = n 일 때, 계수에 대한 정보를 준다. ∑ m c m ( n ) ( E m ( 0 ) − E n ( 0 ) ) δ l m = − ⟨ φ l ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ c l ( n ) ( E l ( 0 ) − E n ( 0 ) ) = − ⟨ φ l ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ ∴ c m ( n ) = ⟨ φ m ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ E n ( 0 ) − E m ( 0 ) ( m ≠ n ) \displaystyle \begin{aligned} \sum_{m} c_{m}^{(n)}(E_{m}^{(0)}-E_{n}^{(0)}) \delta_{lm}&=-\langle \varphi_{l}^{(0)}| \mathcal{H}'|\varphi_{n}^{(0)}\rangle \\ c_{l}^{(n)}(E_{l}^{(0)}-E_{n}^{(0)}) &=-\langle \varphi_{l}^{(0)}| \mathcal{H}'|\varphi_{n}^{(0)}\rangle \\ \\ \therefore c_{m}^{(n)}&=\frac{\langle \varphi_{m}^{(0)}| \mathcal{H}'|\varphi_{n}^{(0)}\rangle}{E_{n}^{(0)}-E_{m}^{(0)}} \qquad (m\neq n) \end{aligned} m ∑ ​ c m ( n ) ​ ( E m ( 0 ) ​ − E n ( 0 ) ​ ) δ l m ​ c l ( n ) ​ ( E l ( 0 ) ​ − E n ( 0 ) ​ ) ∴ c m ( n ) ​ ​ = − ⟨ φ l ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ = − ⟨ φ l ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ = E n ( 0 ) ​ − E m ( 0 ) ​ ⟨ φ m ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ ​ ( m  = n ) ​
+
+이제 c n ( n ) c_{n}^{(n)} c n ( n ) ​ 을 얻자. 이것은 규격화 조건 ⟨ φ n ∣ φ n ⟩ = 1 \langle \varphi_{n}|\varphi_{n} \rangle=1 ⟨ φ n ​ ∣ φ n ​ ⟩ = 1 로부터 얻는다. ⟨ φ n ∣ φ n ⟩ = ⟨ φ n ( 0 ) + λ φ n ( 1 ) + ⋯ ∣ φ n ( 0 ) + λ φ n ( 1 ) + ⋯ ⟩ = ⟨ φ n ( 0 ) ∣ φ n ( 0 ) ⟩ + λ ( ⟨ φ n ( 0 ) ∣ φ n ( 1 ) ⟩ + ⟨ φ n ( 1 ) ∣ φ n ( 0 ) ⟩ ) + O ( λ 2 ) = 1 + λ ( ⟨ φ n ( 0 ) ∣ φ n ( 1 ) ⟩ + ⟨ φ n ( 1 ) ∣ φ n ( 0 ) ⟩ ) \displaystyle \begin{aligned} \langle \varphi_{n}|\varphi_{n} \rangle &=\langle \varphi_{n}^{(0)}+\lambda\varphi_{n}^{(1)}+\cdots|\varphi_{n}^{(0)}+\lambda\varphi_{n}^{(1)}+\cdots \rangle \\ &=\langle \varphi_{n}^{(0)}|\varphi_{n}^{(0)} \rangle+\lambda(\langle\varphi_{n}^{(0)}|\varphi_{n}^{(1)} \rangle+\langle \varphi_{n}^{(1)}|\varphi_{n}^{(0)} \rangle)+\mathcal{O}(\lambda^2) \\&=1+\lambda(\langle\varphi_{n}^{(0)}|\varphi_{n}^{(1)} \rangle+\langle \varphi_{n}^{(1)}|\varphi_{n}^{(0)} \rangle) \end{aligned} ⟨ φ n ​ ∣ φ n ​ ⟩ ​ = ⟨ φ n ( 0 ) ​ + λ φ n ( 1 ) ​ + ⋯ ∣ φ n ( 0 ) ​ + λ φ n ( 1 ) ​ + ⋯ ⟩ = ⟨ φ n ( 0 ) ​ ∣ φ n ( 0 ) ​ ⟩ + λ (⟨ φ n ( 0 ) ​ ∣ φ n ( 1 ) ​ ⟩ + ⟨ φ n ( 1 ) ​ ∣ φ n ( 0 ) ​ ⟩) + O ( λ 2 ) = 1 + λ (⟨ φ n ( 0 ) ​ ∣ φ n ( 1 ) ​ ⟩ + ⟨ φ n ( 1 ) ​ ∣ φ n ( 0 ) ​ ⟩) ​
+
+이것이 임의의 λ \lambda λ 에 대해서 성립하려면,
+
+⟨ φ n ( 0 ) ∣ φ n ( 1 ) ⟩ + ⟨ φ n ( 1 ) ∣ φ n ( 0 ) ⟩ = 0 \begin{aligned} \langle\varphi_{n}^{(0)}|\varphi_{n}^{(1)} \rangle+\langle \varphi_{n}^{(1)}|\varphi_{n}^{(0)} \rangle=0 \end{aligned} ⟨ φ n ( 0 ) ​ ∣ φ n ( 1 ) ​ ⟩ + ⟨ φ n ( 1 ) ​ ∣ φ n ( 0 ) ​ ⟩ = 0 ​
+이를 위에서 정의한 방식으로 전개하면
+
+∑ m c m ( n ) ⟨ φ n ( 0 ) ∣ φ m ( 0 ) ⟩ + ∑ m c m ( n ) ∗ ⟨ φ m ( 0 ) ∣ φ n ( 0 ) ⟩ = 0 ∑ m c m ( n ) δ m n + ∑ m c m ( n ) ∗ δ m n = 0 c n ( n ) + c n ( n ) ∗ = 0 \begin{aligned} \sum_{m} c_{m}^{(n)}\langle\varphi_{n}^{(0)}|\varphi_{m}^{(0)} \rangle+\sum_{m} c_{m}^{(n)\ast} \langle \varphi_{m}^{(0)}|\varphi_{n}^{(0)} \rangle &=0 \\\sum_{m} c_{m}^{(n)}\delta_{mn}+\sum_{m} c_{m}^{(n)\ast} \delta_{mn} &=0 \\ c_{n}^{(n)}+ c_{n}^{(n)\ast} &=0 \end{aligned} m ∑ ​ c m ( n ) ​ ⟨ φ n ( 0 ) ​ ∣ φ m ( 0 ) ​ ⟩ + m ∑ ​ c m ( n ) ∗ ​ ⟨ φ m ( 0 ) ​ ∣ φ n ( 0 ) ​ ⟩ m ∑ ​ c m ( n ) ​ δ mn ​ + m ∑ ​ c m ( n ) ∗ ​ δ mn ​ c n ( n ) ​ + c n ( n ) ∗ ​ ​ = 0 = 0 = 0 ​
+이다.
+
+c n ( n ) c_{n}^{(n)} c n ( n ) ​ 을 결정하기 앞서 φ n \varphi_{n} φ n ​ 은 임의의 위상을 선택할 수 있음을 상기하자. 파동함수에서 위상은 별로 중요치 않은 것으로써 위상 인자가 붙은 파동함수는 본 파동함수와 같다. [1] 이때, 위상은 ⟨ φ n ( 0 ) ∣ φ n ⟩ \langle \varphi_{n}^{(0)}|\varphi_{n} \rangle ⟨ φ n ( 0 ) ​ ∣ φ n ​ ⟩ 이 실수값이 되도록 잡는다. 또, m ≠ n m \neq n m  = n 일 때의 계수는 위상 인자가 서로 상쇄 돼, 위상 인자는 영향을 미치지 않는다.
+
+⟨ φ n ( 0 ) ∣ φ n ⟩ = ∑ j λ j ⟨ φ n ( 0 ) ∣ φ n ( j ) ⟩ \begin{aligned} \langle \varphi_{n}^{(0)}|\varphi_{n} \rangle &=\sum_{j} \lambda^{j} \langle \varphi_{n}^{(0)}|\varphi_{n}^{(j)} \rangle \end{aligned} ⟨ φ n ( 0 ) ​ ∣ φ n ​ ⟩ ​ = j ∑ ​ λ j ⟨ φ n ( 0 ) ​ ∣ φ n ( j ) ​ ⟩ ​
+로 전개할 수 있으므로 임의의 실수 λ \lambda λ 에 대하여 이 값이 실수가 되려면 ⟨ φ n ( 0 ) ∣ φ n ( j ) ⟩ \langle \varphi_{n}^{(0)}|\varphi_{n}^{(j)} \rangle ⟨ φ n ( 0 ) ​ ∣ φ n ( j ) ​ ⟩ 는 실수여야 한다. 따라서 ⟨ φ n ( 0 ) ∣ φ n ( 1 ) ⟩ = c n ( n ) \langle \varphi_{n}^{(0)}|\varphi_{n}^{(1)} \rangle=c_{n}^{(n)} ⟨ φ n ( 0 ) ​ ∣ φ n ( 1 ) ​ ⟩ = c n ( n ) ​ 은 실수여야 하고, 위 식의 결과에 따라 c n ( n ) = 0 c_{n}^{(n)}=0 c n ( n ) ​ = 0 이다.
+
+이상에서 1차 보정 에너지와 1차 보정 함수를 각각 나타내면 아래와 같다.
+
+E n ( 1 ) = ⟨ φ n ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ φ n ( 1 ) = ∑ m ≠ n ⟨ φ m ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ E n ( 0 ) − E m ( 0 ) φ m ( 0 ) \begin{aligned} E_{n}^{(1)}&=\langle \varphi_{n}^{(0)}|\mathcal{H}'|\varphi_{n}^{(0)} \rangle \\ \varphi_{n}^{(1)}&=\sum_{m \neq n} \frac{\langle \varphi_{m}^{(0)}|\mathcal{H}'|\varphi_{n}^{(0)} \rangle}{E_{n}^{(0)}-E_{m}^{(0)}} \varphi_{m}^{(0)} \end{aligned} E n ( 1 ) ​ φ n ( 1 ) ​ ​ = ⟨ φ n ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ = m  = n ∑ ​ E n ( 0 ) ​ − E m ( 0 ) ​ ⟨ φ m ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ ​ φ m ( 0 ) ​ ​
+
+시간에 무관한 섭동론에서 가장 중요한 개념은, 이 섭동이 "켜진"다면, 즉 λ → 1 \lambda \to 1 λ → 1 , 에너지가 변화한다는 점이다.
+
+2.1.3. 2차 보정 [편집]
+[표 1] 에서 2차 보정에 대해선 다음 방정식을 만족함을 보였다. H ( 0 ) φ n ( 2 ) + H ′ φ n ( 1 ) = E n ( 0 ) φ n ( 2 ) + E n ( 1 ) φ n ( 1 ) + E n ( 2 ) φ n ( 0 ) \displaystyle \begin{aligned} \mathcal{H}^{(0)}\varphi_{n}^{(2)}+\mathcal{H}' \varphi_{n}^{(1)}=E_{n}^{(0)}\varphi_{n}^{(2)}+E_{n}^{(1)}\varphi_{n}^{(1)}+E_n^{(2)}\varphi_{n}^{(0)} \end{aligned} H ( 0 ) φ n ( 2 ) ​ + H ′ φ n ( 1 ) ​ = E n ( 0 ) ​ φ n ( 2 ) ​ + E n ( 1 ) ​ φ n ( 1 ) ​ + E n ( 2 ) ​ φ n ( 0 ) ​ ​
+
+1차 보정과 마찬가지로,
+
+φ n ( 2 ) = ∑ m ′ d m ′ ( n ) φ m ′ ( 0 ) \begin{aligned} \varphi_{n}^{(2)}=\sum_{m'} d_{m'}^{(n)} \varphi_{m'}^{(0)} \end{aligned} φ n ( 2 ) ​ = m ′ ∑ ​ d m ′ ( n ) ​ φ m ′ ( 0 ) ​ ​
+을 사용한다. 맨 위 방정식에 φ m ′ ( 0 ) \varphi_{m'}^{(0)} φ m ′ ( 0 ) ​ 과 내적한다. ∑ m ′ d m ′ ( n ) ⟨ φ m ′ ( 0 ) ∣ H ( 0 ) ∣ φ m ′ ( 0 ) ⟩ + ∑ m ≠ n c m ( n ) ⟨ φ m ′ ( 0 ) ∣ H ′ ∣ φ m ( 0 ) ⟩ = ∑ m ′ d m ′ ( n ) E n ( 0 ) ⟨ φ m ′ ( 0 ) ∣ φ m ′ ( 0 ) ⟩ + ∑ m ≠ n c m ( n ) E n ( 1 ) ⟨ φ m ′ ( 0 ) ∣ φ m ( 0 ) ⟩ + E n ( 2 ) ⟨ φ m ′ ( 0 ) ∣ φ n ( 0 ) ⟩ ∑ m ′ d m ′ ( n ) E m ′ ( 0 ) ⟨ φ m ′ ( 0 ) ∣ φ m ′ ( 0 ) ⟩ + ∑ m ≠ n c m ( n ) ⟨ φ m ′ ( 0 ) ∣ H ′ ∣ φ m ( 0 ) ⟩ = ∑ m ′ d m ′ ( n ) E n ( 0 ) ⟨ φ m ′ ( 0 ) ∣ φ m ′ ( 0 ) ⟩ + ∑ m ≠ n c m ( n ) E n ( 1 ) ⟨ φ m ′ ( 0 ) ∣ φ m ( 0 ) ⟩ + E n ( 2 ) ⟨ φ m ′ ( 0 ) ∣ φ n ( 0 ) ⟩ ∑ m ′ d m ′ ( n ) ( E m ′ ( 0 ) − E n ( 0 ) ) = ∑ m ≠ n c m ( n ) E n ( 1 ) δ m m ′ − ∑ m ≠ n c m ( n ) ⟨ φ m ′ ( 0 ) ∣ H ′ ∣ φ m ( 0 ) ⟩ + E n ( 2 ) ⟨ φ m ′ ( 0 ) ∣ φ n ( 0 ) ⟩ \displaystyle \begin{aligned} \sum_{m'} d_{m'}^{(n)} \langle \varphi_{m'}^{(0)}|\mathcal{H}^{(0)} |\varphi_{m'}^{(0)} \rangle+\sum_{m \neq n}c_{m}^{(n)}\langle \varphi_{m'}^{(0)} |\mathcal{H}'| \varphi_{m}^{(0)} \rangle &=\sum_{m'} d_{m'}^{(n)} E_{n}^{(0)}\langle \varphi_{m'}^{(0)} |\varphi_{m'}^{(0)} \rangle+\sum_{m \neq n}c_{m}^{(n)}E_{n}^{(1)}\langle \varphi_{m'}^{(0)} |\varphi_{m}^{(0)} \rangle+E_n^{(2)}\langle \varphi_{m'}^{(0)}|\varphi_{n}^{(0)} \rangle \\ \sum_{m'} d_{m'}^{(n)}E_{m'}^{(0)} \langle \varphi_{m'}^{(0)}|\varphi_{m'}^{(0)} \rangle+\sum_{m \neq n}c_{m}^{(n)}\langle \varphi_{m'}^{(0)} |\mathcal{H}'| \varphi_{m}^{(0)} \rangle &=\sum_{m'} d_{m'}^{(n)} E_{n}^{(0)}\langle \varphi_{m'}^{(0)} |\varphi_{m'}^{(0)} \rangle+\sum_{m \neq n}c_{m}^{(n)}E_{n}^{(1)}\langle \varphi_{m'}^{(0)} |\varphi_{m}^{(0)} \rangle+E_n^{(2)}\langle \varphi_{m'}^{(0)}|\varphi_{n}^{(0)} \rangle \\ \sum_{m'} d_{m'}^{(n)}(E_{m'}^{(0)}-E_{n}^{(0)}) &=\sum_{m \neq n}c_{m}^{(n)}E_{n}^{(1)}\delta_{mm'}-\sum_{m \neq n}c_{m}^{(n)}\langle \varphi_{m'}^{(0)} |\mathcal{H}'| \varphi_{m}^{(0)} \rangle+E_n^{(2)}\langle \varphi_{m'}^{(0)}|\varphi_{n}^{(0)} \rangle \end{aligned} m ′ ∑ ​ d m ′ ( n ) ​ ⟨ φ m ′ ( 0 ) ​ ∣ H ( 0 ) ∣ φ m ′ ( 0 ) ​ ⟩ + m  = n ∑ ​ c m ( n ) ​ ⟨ φ m ′ ( 0 ) ​ ∣ H ′ ∣ φ m ( 0 ) ​ ⟩ m ′ ∑ ​ d m ′ ( n ) ​ E m ′ ( 0 ) ​ ⟨ φ m ′ ( 0 ) ​ ∣ φ m ′ ( 0 ) ​ ⟩ + m  = n ∑ ​ c m ( n ) ​ ⟨ φ m ′ ( 0 ) ​ ∣ H ′ ∣ φ m ( 0 ) ​ ⟩ m ′ ∑ ​ d m ′ ( n ) ​ ( E m ′ ( 0 ) ​ − E n ( 0 ) ​ ) ​ = m ′ ∑ ​ d m ′ ( n ) ​ E n ( 0 ) ​ ⟨ φ m ′ ( 0 ) ​ ∣ φ m ′ ( 0 ) ​ ⟩ + m  = n ∑ ​ c m ( n ) ​ E n ( 1 ) ​ ⟨ φ m ′ ( 0 ) ​ ∣ φ m ( 0 ) ​ ⟩ + E n ( 2 ) ​ ⟨ φ m ′ ( 0 ) ​ ∣ φ n ( 0 ) ​ ⟩ = m ′ ∑ ​ d m ′ ( n ) ​ E n ( 0 ) ​ ⟨ φ m ′ ( 0 ) ​ ∣ φ m ′ ( 0 ) ​ ⟩ + m  = n ∑ ​ c m ( n ) ​ E n ( 1 ) ​ ⟨ φ m ′ ( 0 ) ​ ∣ φ m ( 0 ) ​ ⟩ + E n ( 2 ) ​ ⟨ φ m ′ ( 0 ) ​ ∣ φ n ( 0 ) ​ ⟩ = m  = n ∑ ​ c m ( n ) ​ E n ( 1 ) ​ δ m m ′ ​ − m  = n ∑ ​ c m ( n ) ​ ⟨ φ m ′ ( 0 ) ​ ∣ H ′ ∣ φ m ( 0 ) ​ ⟩ + E n ( 2 ) ​ ⟨ φ m ′ ( 0 ) ​ ∣ φ n ( 0 ) ​ ⟩ ​
+
+만일 m ′ = n m'=n m ′ = n 이면 0 = ∑ m ≠ n c m ( n ) E n ( 1 ) δ m n − ∑ m ≠ n c m ( n ) ⟨ φ n ( 0 ) ∣ H ′ ∣ φ m ( 0 ) ⟩ + E n ( 2 ) ∴ E n ( 2 ) = ∑ m ≠ n c m ( n ) ⟨ φ n ( 0 ) ∣ H ′ ∣ φ m ( 0 ) ⟩ = ∑ m ≠ n ⟨ φ m ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ E n ( 0 ) − E m ( 0 ) ⟨ φ n ( 0 ) ∣ H ′ ∣ φ m ( 0 ) ⟩ = ∑ m ≠ n ∣ ⟨ φ m ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ ∣ 2 E n ( 0 ) − E m ( 0 ) \displaystyle \begin{aligned} 0 &=\sum_{m \neq n}c_{m}^{(n)}E_{n}^{(1)}\delta_{mn}-\sum_{m \neq n}c_{m}^{(n)}\langle \varphi_{n}^{(0)} |\mathcal{H}'| \varphi_{m}^{(0)} \rangle+E_n^{(2)} \\ \\ \therefore E_n^{(2)}&=\sum_{m \neq n}c_{m}^{(n)}\langle \varphi_{n}^{(0)} |\mathcal{H}'| \varphi_{m}^{(0)} \rangle \\&=\sum_{m \neq n}\frac{\langle \varphi_{m}^{(0)} |\mathcal{H}'| \varphi_{n}^{(0)} \rangle}{E_{n}^{(0)}-E_{m}^{(0)}}\langle \varphi_{n}^{(0)} |\mathcal{H}'| \varphi_{m}^{(0)} \rangle \\&=\sum_{m \neq n}\frac{|\langle \varphi_{m}^{(0)} |\mathcal{H}'| \varphi_{n}^{(0)} \rangle|^{2}}{E_{n}^{(0)}-E_{m}^{(0)}} \end{aligned} 0 ∴ E n ( 2 ) ​ ​ = m  = n ∑ ​ c m ( n ) ​ E n ( 1 ) ​ δ mn ​ − m  = n ∑ ​ c m ( n ) ​ ⟨ φ n ( 0 ) ​ ∣ H ′ ∣ φ m ( 0 ) ​ ⟩ + E n ( 2 ) ​ = m  = n ∑ ​ c m ( n ) ​ ⟨ φ n ( 0 ) ​ ∣ H ′ ∣ φ m ( 0 ) ​ ⟩ = m  = n ∑ ​ E n ( 0 ) ​ − E m ( 0 ) ​ ⟨ φ m ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ ​ ⟨ φ n ( 0 ) ​ ∣ H ′ ∣ φ m ( 0 ) ​ ⟩ = m  = n ∑ ​ E n ( 0 ) ​ − E m ( 0 ) ​ ∣ ⟨ φ m ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ ∣ 2 ​ ​
+
+으로 2차 보정 에너지를 얻는다. 이 또한, d n ( n ) d_{n}^{(n)} d n ( n ) ​ 의 정보를 주지 않으므로 규격화 방법으로 구해야 함을 시사하고 있다.
+
+φ l ( 0 ) \varphi_{l}^{(0)} φ l ( 0 ) ​ 과 내적한 것에 대하여 ∑ m ′ d m ′ ( n ) ( E m ′ ( 0 ) − E n ( 0 ) ) ⟨ φ l ( 0 ) ∣ φ m ′ ( 0 ) ⟩ = ∑ m ≠ n c m ( n ) E n ( 1 ) δ m l − ∑ m ≠ n c m ( n ) ⟨ φ l ( 0 ) ∣ H ′ ∣ φ m ( 0 ) ⟩ + E n ( 2 ) ⟨ φ l ( 0 ) ∣ φ n ( 0 ) ⟩ \displaystyle \begin{aligned} \sum_{m'} d_{m'}^{(n)}(E_{m'}^{(0)}-E_{n}^{(0)}) \langle \varphi_{l}^{(0)} |\varphi_{m'}^{(0)} \rangle &=\sum_{m \neq n}c_{m}^{(n)}E_{n}^{(1)}\delta_{ml}-\sum_{m \neq n}c_{m}^{(n)}\langle \varphi_{l}^{(0)} |\mathcal{H}'| \varphi_{m}^{(0)} \rangle+E_n^{(2)}\langle \varphi_{l}^{(0)}|\varphi_{n}^{(0)} \rangle \end{aligned} m ′ ∑ ​ d m ′ ( n ) ​ ( E m ′ ( 0 ) ​ − E n ( 0 ) ​ ) ⟨ φ l ( 0 ) ​ ∣ φ m ′ ( 0 ) ​ ⟩ ​ = m  = n ∑ ​ c m ( n ) ​ E n ( 1 ) ​ δ m l ​ − m  = n ∑ ​ c m ( n ) ​ ⟨ φ l ( 0 ) ​ ∣ H ′ ∣ φ m ( 0 ) ​ ⟩ + E n ( 2 ) ​ ⟨ φ l ( 0 ) ​ ∣ φ n ( 0 ) ​ ⟩ ​
+
+l = n l=n l = n 이면 위와 같은 결과를 얻으므로 l ≠ n l \neq n l  = n 일 때를 살펴본다. ∑ m ′ d m ′ ( n ) ( E m ′ ( 0 ) − E n ( 0 ) ) δ m ′ l = c l ( n ) E n ( 1 ) − ∑ m ≠ n c m ( n ) ⟨ φ l ( 0 ) ∣ H ′ ∣ φ m ( 0 ) ⟩ d l ( n ) ( E l ( 0 ) − E n ( 0 ) ) = ⟨ φ l ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ E n ( 0 ) − E l ( 0 ) ⟨ φ n ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ − ∑ m ≠ n ⟨ φ m ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ E n ( 0 ) − E m ( 0 ) ⟨ φ l ( 0 ) ∣ H ′ ∣ φ m ( 0 ) ⟩ ∴ d m ′ ( n ) = ∑ m ≠ n ⟨ φ m ′ ( 0 ) ∣ H ′ ∣ φ m ( 0 ) ⟩ ⟨ φ m ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ ( E n ( 0 ) − E m ( 0 ) ) ( E n ( 0 ) − E m ′ ( 0 ) ) − ⟨ φ n ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ ⟨ φ m ′ ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ ( E n ( 0 ) − E m ′ ( 0 ) ) 2 ( m ′ ≠ n ) \displaystyle \begin{aligned} \sum_{m'} d_{m'}^{(n)}(E_{m'}^{(0)}-E_{n}^{(0)}) \delta_{m'l} &=c_{l}^{(n)}E_{n}^{(1)}-\sum_{m \neq n}c_{m}^{(n)}\langle \varphi_{l}^{(0)} |\mathcal{H}'| \varphi_{m}^{(0)} \rangle \\d_{l}^{(n)}(E_{l}^{(0)}-E_{n}^{(0)}) &= \frac{\langle \varphi_{l}^{(0)} |\mathcal{H}'| \varphi_{n}^{(0)} \rangle}{E_{n}^{(0)}-E_{l}^{(0)}}\langle\varphi_{n}^{(0)} |\mathcal{H}'| \varphi_{n}^{(0)} \rangle-\sum_{m \neq n}\frac{\langle \varphi_{m}^{(0)} |\mathcal{H}'| \varphi_{n}^{(0)} \rangle}{E_{n}^{(0)}-E_{m}^{(0)}}\langle \varphi_{l}^{(0)} |\mathcal{H}'| \varphi_{m}^{(0)} \rangle \\ \\ \therefore d_{m'}^{(n)} &=\sum_{m \neq n}\frac{\langle \varphi_{m'}^{(0)} |\mathcal{H}'| \varphi_{m}^{(0)} \rangle\langle \varphi_{m}^{(0)} |\mathcal{H}'| \varphi_{n}^{(0)} \rangle}{(E_{n}^{(0)}-E_{m}^{(0)})(E_{n}^{(0)}-E_{m'}^{(0)})}-\frac{\langle \varphi_{n}^{(0)} |\mathcal{H}'| \varphi_{n}^{(0)} \rangle\langle \varphi_{m'}^{(0)} |\mathcal{H}'| \varphi_{n}^{(0)} \rangle}{(E_{n}^{(0)}-E_{m'}^{(0)})^2} \qquad (m' \neq n) \end{aligned} m ′ ∑ ​ d m ′ ( n ) ​ ( E m ′ ( 0 ) ​ − E n ( 0 ) ​ ) δ m ′ l ​ d l ( n ) ​ ( E l ( 0 ) ​ − E n ( 0 ) ​ ) ∴ d m ′ ( n ) ​ ​ = c l ( n ) ​ E n ( 1 ) ​ − m  = n ∑ ​ c m ( n ) ​ ⟨ φ l ( 0 ) ​ ∣ H ′ ∣ φ m ( 0 ) ​ ⟩ = E n ( 0 ) ​ − E l ( 0 ) ​ ⟨ φ l ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ ​ ⟨ φ n ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ − m  = n ∑ ​ E n ( 0 ) ​ − E m ( 0 ) ​ ⟨ φ m ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ ​ ⟨ φ l ( 0 ) ​ ∣ H ′ ∣ φ m ( 0 ) ​ ⟩ = m  = n ∑ ​ ( E n ( 0 ) ​ − E m ( 0 ) ​ ) ( E n ( 0 ) ​ − E m ′ ( 0 ) ​ ) ⟨ φ m ′ ( 0 ) ​ ∣ H ′ ∣ φ m ( 0 ) ​ ⟩ ⟨ φ m ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ ​ − ( E n ( 0 ) ​ − E m ′ ( 0 ) ​ ) 2 ⟨ φ n ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ ⟨ φ m ′ ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ ​ ( m ′  = n ) ​
+
+마지막으로 d n ( n ) d_{n}^{(n)} d n ( n ) ​ 을 얻자. 규격화 조건을 다시 살펴보면, ⟨ φ n ∣ φ n ⟩ = ⟨ φ n ( 0 ) + λ φ n ( 1 ) + ⋯ ∣ φ n ( 0 ) + λ φ n ( 1 ) + ⋯ ⟩ = 1 + 0 ⋅ λ + λ 2 ( ⟨ φ n ( 0 ) ∣ φ n ( 2 ) ⟩ + ⟨ φ n ( 1 ) ∣ φ n ( 1 ) ⟩ + ⟨ φ n ( 2 ) ∣ φ n ( 0 ) ⟩ ) + O ( λ 3 ) = 1 + λ 2 ( d n ( n ) + d n ( n ) ∗ + ⟨ φ n ( 1 ) ∣ φ n ( 1 ) ⟩ ) \displaystyle \begin{aligned} \langle \varphi_{n}|\varphi_{n} \rangle &=\langle \varphi_{n}^{(0)}+\lambda\varphi_{n}^{(1)}+\cdots|\varphi_{n}^{(0)}+\lambda\varphi_{n}^{(1)}+\cdots \rangle \\ &=1+0 \cdot \lambda+\lambda^2(\langle\varphi_{n}^{(0)}|\varphi_{n}^{(2)} \rangle+\langle \varphi_{n}^{(1)}|\varphi_{n}^{(1)} \rangle+\langle\varphi_{n}^{(2)}|\varphi_{n}^{(0)} \rangle)+\mathcal{O}(\lambda^3) \\ &=1+\lambda^2(d_{n}^{(n)}+d_{n}^{(n)\ast}+\langle \varphi_{n}^{(1)}|\varphi_{n}^{(1)} \rangle ) \end{aligned} ⟨ φ n ​ ∣ φ n ​ ⟩ ​ = ⟨ φ n ( 0 ) ​ + λ φ n ( 1 ) ​ + ⋯ ∣ φ n ( 0 ) ​ + λ φ n ( 1 ) ​ + ⋯ ⟩ = 1 + 0 ⋅ λ + λ 2 (⟨ φ n ( 0 ) ​ ∣ φ n ( 2 ) ​ ⟩ + ⟨ φ n ( 1 ) ​ ∣ φ n ( 1 ) ​ ⟩ + ⟨ φ n ( 2 ) ​ ∣ φ n ( 0 ) ​ ⟩) + O ( λ 3 ) = 1 + λ 2 ( d n ( n ) ​ + d n ( n ) ∗ ​ + ⟨ φ n ( 1 ) ​ ∣ φ n ( 1 ) ​ ⟩) ​
+
+1차 보정에서 다뤘던 결과를 이용하면
+
+d n ( n ) = − 1 2 ⟨ φ n ( 1 ) ∣ φ n ( 1 ) ⟩ = − 1 2 ∑ s ≠ n ∑ m ≠ n c s ( n ) ∗ c m ( n ) ⟨ φ s ( 1 ) ∣ φ m ( 1 ) ⟩ = − 1 2 ∑ s ≠ n ∑ m ≠ n c s ( n ) ∗ c m ( n ) δ s m = − 1 2 ∑ m ≠ n ∣ c m ( n ) ∣ 2 = − 1 2 ∑ m ≠ n ∣ ⟨ φ m ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ ∣ 2 ( E n ( 0 ) − E m ( 0 ) ) 2 \begin{aligned} d_{n}^{(n)}&=-\frac{1}{2}\langle \varphi_{n}^{(1)}|\varphi_{n}^{(1)} \rangle \\ &=-\frac{1}{2}\sum_{s\neq n}\sum_{m \neq n} c_{s}^{(n)\ast}c_{m}^{(n)} \langle \varphi_{s}^{(1)}|\varphi_{m}^{(1)} \rangle \\ &=-\frac{1}{2}\sum_{s\neq n}\sum_{m \neq n} c_{s}^{(n)\ast}c_{m}^{(n)} \delta_{sm} \\ &=-\frac{1}{2} \sum_{m \neq n} |c_{m}^{(n)}|^2 \\&=-\frac{1}{2}\sum_{m \neq n}\frac{|\langle \varphi_{m}^{(0)}| \mathcal{H}'|\varphi_{n}^{(0)}\rangle|^2}{(E_{n}^{(0)}-E_{m}^{(0)})^2}\end{aligned} d n ( n ) ​ ​ = − 2 1 ​ ⟨ φ n ( 1 ) ​ ∣ φ n ( 1 ) ​ ⟩ = − 2 1 ​ s  = n ∑ ​ m  = n ∑ ​ c s ( n ) ∗ ​ c m ( n ) ​ ⟨ φ s ( 1 ) ​ ∣ φ m ( 1 ) ​ ⟩ = − 2 1 ​ s  = n ∑ ​ m  = n ∑ ​ c s ( n ) ∗ ​ c m ( n ) ​ δ s m ​ = − 2 1 ​ m  = n ∑ ​ ∣ c m ( n ) ​ ∣ 2 = − 2 1 ​ m  = n ∑ ​ ( E n ( 0 ) ​ − E m ( 0 ) ​ ) 2 ∣ ⟨ φ m ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ ∣ 2 ​ ​
+
+이상에서 2차 보정 에너지와 2차 보정 함수를 기입하면 아래와 같다. E n ( 2 ) = ∑ m ≠ n ∣ ⟨ φ m ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ ∣ 2 E n ( 0 ) − E m ( 0 ) φ n ( 2 ) = ∑ m ≠ n [ [ ∑ m ′ ≠ n ⟨ φ m ( 0 ) ∣ H ′ ∣ φ m ′ ( 0 ) ⟩ ⟨ φ m ′ ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ ( E n ( 0 ) − E m ′ ( 0 ) ) ( E n ( 0 ) − E m ( 0 ) ) − ⟨ φ n ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ ⟨ φ m ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ ( E n ( 0 ) − E m ( 0 ) ) 2 ] φ m ( 0 ) − 1 2 ∣ ⟨ φ m ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ ∣ 2 ( E n ( 0 ) − E m ( 0 ) ) 2 φ n ( 0 ) ] \displaystyle \begin{aligned} E_{n}^{(2)}&=\sum_{m \neq n}\frac{|\langle \varphi_{m}^{(0)} |\mathcal{H}'| \varphi_{n}^{(0)} \rangle|^{2}}{E_{n}^{(0)}-E_{m}^{(0)}} \\ \varphi_{n}^{(2)}&=\sum_{m \neq n} \Biggl[ \Biggl[ \sum_{m' \neq n}\frac{\langle \varphi_{m}^{(0)} |\mathcal{H}'| \varphi_{m'}^{(0)} \rangle\langle \varphi_{m'}^{(0)} |\mathcal{H}'| \varphi_{n}^{(0)} \rangle}{(E_{n}^{(0)}-E_{m'}^{(0)})(E_{n}^{(0)}-E_{m}^{(0)})}-\frac{\langle \varphi_{n}^{(0)} |\mathcal{H}'| \varphi_{n}^{(0)} \rangle\langle \varphi_{m}^{(0)} |\mathcal{H}'| \varphi_{n}^{(0)} \rangle}{(E_{n}^{(0)}-E_{m}^{(0)})^2} \Biggr]\varphi_{m}^{(0)}-\frac{1}{2}\frac{|\langle \varphi_{m}^{(0)}| \mathcal{H}'|\varphi_{n}^{(0)}\rangle|^2}{(E_{n}^{(0)}-E_{m}^{(0)})^2} \varphi_{n}^{(0)} \Biggr] \end{aligned} E n ( 2 ) ​ φ n ( 2 ) ​ ​ = m  = n ∑ ​ E n ( 0 ) ​ − E m ( 0 ) ​ ∣ ⟨ φ m ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ ∣ 2 ​ = m  = n ∑ ​ [ [ m ′  = n ∑ ​ ( E n ( 0 ) ​ − E m ′ ( 0 ) ​ ) ( E n ( 0 ) ​ − E m ( 0 ) ​ ) ⟨ φ m ( 0 ) ​ ∣ H ′ ∣ φ m ′ ( 0 ) ​ ⟩ ⟨ φ m ′ ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ ​ − ( E n ( 0 ) ​ − E m ( 0 ) ​ ) 2 ⟨ φ n ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ ⟨ φ m ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ ​ ] φ m ( 0 ) ​ − 2 1 ​ ( E n ( 0 ) ​ − E m ( 0 ) ​ ) 2 ∣ ⟨ φ m ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ ∣ 2 ​ φ n ( 0 ) ​ ] ​
+
+m m m , m ′ m' m ′ 은 모두 모든 정수이자, 더미 변수로써 상호 교환 가능하므로 위와 같이 쓸 수 있음을 참고한다.
+
+2.1.4. 고차 보정 [편집]
+대부분의 상황에서 2차 보정까지만 하면 대략적으로 계의 고유 상태를 근사할 수 있다. 그러나 위와 같은 과정을 계속 반복하면 3차 이상의 고차 보정 또한 고려할 수 있는데, 이를 따로 유도하진 않고, 결과가 실려있는 웹사이트 만 링크하도록 하겠다.
+
+2.2. 축퇴 섭동 이론 [편집]
+비축퇴 섭동 이론의 1차 보정 함수의 형태
+
+φ n ( 1 ) = ∑ m ≠ n ⟨ φ m ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ E ( 0 ) − E m ( 0 ) φ m ( 0 ) \begin{aligned} \varphi_{n}^{(1)}&=\sum_{m \neq n} \frac{\langle \varphi_{m}^{(0)}|\mathcal{H}'|\varphi_{n}^{(0)} \rangle}{E^{(0)}-E_{m}^{(0)}} \varphi_{m}^{(0)} \end{aligned} φ n ( 1 ) ​ ​ = m  = n ∑ ​ E ( 0 ) − E m ( 0 ) ​ ⟨ φ m ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ ​ φ m ( 0 ) ​ ​
+에서 명확한 문제점을 짚을 수 있는데, 축퇴가 존재하여 E n ( 0 ) = E m ( 0 ) E_{n}^{(0)}=E_{m}^{(0)} E n ( 0 ) ​ = E m ( 0 ) ​ 이 되는 경우 계수가 발산한다는 문제점이 있다. 따라서 축퇴가 있는 경우에는 조금의 조작을 거쳐야 한다.
+
+우선 축퇴가 발생하는 기저의 집합 { ϕ q } \{ \phi_{q} \} { ϕ q ​ } 를 고려하자. 이때, 다음의 고유치 방정식이 성립한다.
+
+H ( 0 ) ϕ q = E ( 0 ) ϕ q \begin{aligned} \mathcal{H}^{(0)}\phi_{q}=E^{(0)}\phi_{q} \end{aligned} H ( 0 ) ϕ q ​ = E ( 0 ) ϕ q ​ ​
+이때, 이 기저들의 선형 결합 또한 이러한 고유치 방정식을 만족시키게 된다. 따라서 해당 집합에 대한 기저를 선형 결합한 기저로 바꾸는데, "좋은" 선형 결합을 선택한다면 섭동이 가해졌을 때, 에너지를 갈라지게 할 수 있다. 이러한 선형 결합을 찾기 위해 다음의 방정식
+
+H ( 0 ) φ n ( 1 ) + H ′ φ ˉ n ( 0 ) = E ( 0 ) φ n ( 1 ) + E ( 1 ) φ ˉ n ( 0 ) \begin{aligned} \mathcal{H}^{(0)} \varphi_{n}^{(1)}+\mathcal{H}'\bar{\varphi}_{n}^{(0)}=E^{(0)}\varphi_{n}^{(1)}+E^{(1)}\bar{\varphi}_{n}^{(0)} \end{aligned} H ( 0 ) φ n ( 1 ) ​ + H ′ φ ˉ ​ n ( 0 ) ​ = E ( 0 ) φ n ( 1 ) ​ + E ( 1 ) φ ˉ ​ n ( 0 ) ​ ​
+을 검토하자. 이때,
+
+φ ˉ n ( 0 ) = ∑ q α q ϕ q ( 0 ) \begin{aligned} \bar{\varphi}_{n}^{(0)}=\sum_{q} \alpha_{q} \phi_{q}^{(0)} \end{aligned} φ ˉ ​ n ( 0 ) ​ = q ∑ ​ α q ​ ϕ q ( 0 ) ​ ​
+이다. 이때, 1차 보정에 대한 방정식에 ϕ s ( 0 ) \phi_{s}^{(0)} ϕ s ( 0 ) ​ 와 내적한다. ⟨ ϕ s ( 0 ) ∣ H ( 0 ) ∣ φ n ( 1 ) ⟩ + ∑ q α q ⟨ ϕ s ( 0 ) ∣ H ′ ∣ ϕ ( 0 ) ⟩ = E ( 0 ) ⟨ ϕ s ( 0 ) ∣ φ n ( 1 ) ⟩ + ∑ q α q E ( 1 ) ⟨ ϕ s ( 0 ) ∣ ϕ q ( 0 ) ⟩ ∑ q α q ⟨ ϕ s ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ = ∑ q α q E ( 1 ) δ q s ∑ q α q ⟨ ϕ s ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ = α s E ( 1 ) \displaystyle \begin{aligned} \langle \phi_{s}^{(0)} |\mathcal{H}^{(0)} |\varphi_{n}^{(1)} \rangle+\sum_{q}\alpha_{q}\langle \phi_{s}^{(0)}|\mathcal{H}'|\phi_{}^{(0)} \rangle&=E^{(0)}\langle \phi_{s}^{(0)} |\varphi_{n}^{(1)} \rangle+\sum_{q}\alpha_{q}E^{(1)}\langle \phi_{s}^{(0)} |\phi_{q}^{(0)} \rangle \\ \sum_{q}\alpha_{q}\langle \phi_{s}^{(0)}|\mathcal{H}'|\varphi_{n}^{(0)} \rangle&=\sum_{q}\alpha_{q}E^{(1)}\delta_{qs} \\ \sum_{q}\alpha_{q}\langle \phi_{s}^{(0)}|\mathcal{H}'|\varphi_{n}^{(0)} \rangle&=\alpha_{s}E^{(1)} \end{aligned} ⟨ ϕ s ( 0 ) ​ ∣ H ( 0 ) ∣ φ n ( 1 ) ​ ⟩ + q ∑ ​ α q ​ ⟨ ϕ s ( 0 ) ​ ∣ H ′ ∣ ϕ ( 0 ) ​ ⟩ q ∑ ​ α q ​ ⟨ ϕ s ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ q ∑ ​ α q ​ ⟨ ϕ s ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ ​ = E ( 0 ) ⟨ ϕ s ( 0 ) ​ ∣ φ n ( 1 ) ​ ⟩ + q ∑ ​ α q ​ E ( 1 ) ⟨ ϕ s ( 0 ) ​ ∣ ϕ q ( 0 ) ​ ⟩ = q ∑ ​ α q ​ E ( 1 ) δ q s ​ = α s ​ E ( 1 ) ​
+
+위 식에서 ⟨ ϕ s ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ ≡ H s q ′ \langle \phi_{s}^{(0)}|\mathcal{H}'|\varphi_{n}^{(0)} \rangle \equiv \mathcal{H}'_{sq} ⟨ ϕ s ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ ≡ H s q ′ ​ 를 행렬 H ′ \pmb{\mathsf{H} }' H ′ 의 성분(element)으로 정의한다면,
+
+∑ q H s q ′ α q = E ( 1 ) α s \begin{aligned} \sum_{q} \mathcal{H}'_{sq}\alpha_{q} =E^{(1)}\alpha_{s} \end{aligned} q ∑ ​ H s q ′ ​ α q ​ = E ( 1 ) α s ​ ​
+의 식이 기술하는 것은 명확해지는데, 선형 변환과 비슷한 식이다. 아마 눈썰미가 좋은 독자는 눈치를 챘을 수도 있으나, 이는 선형 변환의 고유치 문제 와 같다. 즉, 우리가 찾는 1차 보정 에너지는 행렬 H ′ \pmb{\mathsf{H} }' H ′ 를 대각화 시키는 고윳값이며, 그러하게 만드는 선형 결합 계수는 해당 고윳값 문제의 고유 벡터의 각 성분이다.
+
+행렬 H ′ \pmb{\mathsf{H} }' H ′ 는 q q q 중 축퇴가 있는 경우 q × q q\times q q × q 정사각행렬이 된다.
+
+즉, 축퇴가 있는 계의 1차 보정 에너지는 영년 방정식
+
+det ⁡ ( H ′ − E ( 1 ) I ) = 0 \begin{aligned} \det{(\pmb{\mathsf{H} }'-E^{(1)} \pmb{\mathsf{I} })}=0 \end{aligned} det ( H ′ − E ( 1 ) I ) = 0 ​
+을 통해 얻는다. I \pmb{\mathsf{I} } I 는 단위 행렬이다.
+
+위 과정을 구했다면 섭동이 가해졌을 때, 에너지를 갈라지게 만드는 기저를 { φ ˉ n ( 0 ) } \{ \bar{\varphi}_{n}^{(0)} \} { φ ˉ ​ n ( 0 ) ​ } 를 찾을 수 있다. 이제 이 기저와 함께 { ⋯ , φ n − 1 ( 0 ) , φ ˉ n ( 0 ) , ⋯ , φ ˉ n + q ( 0 ) , ⋯ , φ n + q + 1 ( 0 ) , ⋯ } \{ \cdots,\,\varphi_{n-1}^{(0)},\,\bar{\varphi}_{n}^{(0)},\, \cdots,\, \bar{\varphi}_{n+q}^{(0)} ,\,\cdots,\, \varphi_{n+q+1}^{(0)},\,\cdots \} { ⋯ , φ n − 1 ( 0 ) ​ , φ ˉ ​ n ( 0 ) ​ , ⋯ , φ ˉ ​ n + q ( 0 ) ​ , ⋯ , φ n + q + 1 ( 0 ) ​ , ⋯ } 를 사용한다면, 축퇴에 대한 효과가 사라지게 되므로 비축퇴 섭동 이론을 쓸 수 있다.
+
+즉, 축퇴가 있는 경우 일차 보정은 다음과 같이 구한다. - 축퇴가 있는 기저들을 "좋은" 선형 결합으로 구성한다. - 여기서 "좋은" 선형 결합이란, 행렬 H ′ \pmb{\mathsf{H} }' H ′ 를 대각화 시킴을 의미한다.
+- 영년 방정식을 통해 1차 보정 에너지를 구한다.
+- "좋은" 선형 결합 기저와 원래의 기저를 합쳐 비축퇴 섭동 이론을 적용해 1차 보정 함수를 구한다.
+
+물론 이 축퇴가 있는 경우도 2차 이상의 고차 보정을 다룰 수 있으나, 생략하기로 한다.
+
+해당 문단을 보면 알겠지만, 섭동이 있는 경우 기저를 새로 구성해야 하는 번거로움이 있다. 그러나 어떤 자기 수반 연산자(hermitian operator) A A A 에 대하여 [ H ( 0 ) , A ] = 0 [\mathcal{H}^{(0)},\,A]=0 [ H ( 0 ) , A ] = 0 , [ H ′ , A ] = 0 [\mathcal{H}',\,A]=0 [ H ′ , A ] = 0 를 만족시키고, 해당 연산자에 대하여 축퇴가 일어나지 않는 기저들을 선택한다면, 예를 들어 수소 원자에서는 각운동량 연산자를 선택할 수 있다, 해당 기저들은 이미 행렬 H ′ \pmb{\mathsf{H} }' H ′ 를 대각화 시키는 기저들이고, 이에 축퇴 섭동 이론이 아닌 비축퇴 섭동 이론으로 전개해도 된다는 이론이 있다.
+
+이것을 유도해보자. 위의 조건을 만족한다면 만약 i ≠ j i \neq j i  = j 라면, 다음의 고유치 방정식
+
+A φ i ( 0 ) = a i φ i ( 0 ) A φ j ( 0 ) = a j φ j ( 0 ) \begin{aligned} A \varphi_{i}^{(0)}&=a_{i}\varphi_{i}^{(0)} \\ A \varphi_{j}^{(0)}&=a_{j}\varphi_{j}^{(0)} \end{aligned} A φ i ( 0 ) ​ A φ j ( 0 ) ​ ​ = a i ​ φ i ( 0 ) ​ = a j ​ φ j ( 0 ) ​ ​
+의 고윳값 a i ≠ a j a_{i} \neq a_{j} a i ​  = a j ​ 이다. 한편, ⟨ φ j ( 0 ) ∣ [ H ′ , A ] ∣ φ i ( 0 ) ⟩ = ⟨ φ j ( 0 ) ∣ H ′ A ∣ φ i ( 0 ) ⟩ − ⟨ φ j ( 0 ) ∣ A H ′ ∣ φ i ( 0 ) ⟩ = ( a i − a j ) ⟨ φ j ( 0 ) ∣ H ′ ∣ φ i ( 0 ) ⟩ \displaystyle \begin{aligned} \langle \varphi_{j}^{(0)} |[\mathcal{H}',\,A]| \varphi_{i}^{(0)} \rangle &=\langle \varphi_{j}^{(0)} |\mathcal{H}'A| \varphi_{i}^{(0)}\rangle-\langle \varphi_{j}^{(0)} |A\mathcal{H}'| \varphi_{i}^{(0)} \rangle \\&=(a_{i}-a_{j}) \langle \varphi_{j}^{(0)} |\mathcal{H}'| \varphi_{i}^{(0)} \rangle \end{aligned} ⟨ φ j ( 0 ) ​ ∣ [ H ′ , A ] ∣ φ i ( 0 ) ​ ⟩ ​ = ⟨ φ j ( 0 ) ​ ∣ H ′ A ∣ φ i ( 0 ) ​ ⟩ − ⟨ φ j ( 0 ) ​ ∣ A H ′ ∣ φ i ( 0 ) ​ ⟩ = ( a i ​ − a j ​ ) ⟨ φ j ( 0 ) ​ ∣ H ′ ∣ φ i ( 0 ) ​ ⟩ ​
+
+으로 쓸 수 있다. 이것은 자기 수반 연산자의 고윳값이 실수이기 때문에 가능하다. 그런데, a i ≠ a j a_{i} \neq a_{j} a i ​  = a j ​ 이고, [ H ′ , A ] = 0 [\mathcal{H}',\,A]=0 [ H ′ , A ] = 0 을 만족시키므로 해당 식의 값은 0이 되어야 하는데, 가능한 경우는
+
+⟨ φ j ( 0 ) ∣ H ′ ∣ φ i ( 0 ) ⟩ = 0 \begin{aligned} \langle \varphi_{j}^{(0)} |\mathcal{H}'| \varphi_{i}^{(0)} \rangle=0 \end{aligned} ⟨ φ j ( 0 ) ​ ∣ H ′ ∣ φ i ( 0 ) ​ ⟩ = 0 ​
+이어야 한다. 따라서 이러한 고유함수들은 행렬 H ′ \pmb{\mathsf{H} }' H ′ 이 이미 대각화되어져 있게 한다.
+
+2.3. 예시 [편집]
+
+2.3.1. 섭동이 가해진 무한 퍼텐셜 우물 [편집]
+
+2.3.1.1. 우물 중심에 퍼텐셜 혹이 생긴 경우 [편집]
+다음과 같은 폭이 2 L 2L 2 L 인 무한 퍼텐셜 우물을 고려하자.
+
+이때, 섭동 해밀토니언은 다음과 같다.
+
+H ′ = { V 0 ( ∣ x ∣ ≤ a ) 0 ( ∣ x ∣ > a ) \begin{aligned} \mathcal{H}'=\begin{cases} V_{0}& \qquad (|x| \leq a) \\ 0 & \qquad (|x|>a) \end{cases} \end{aligned} H ′ = { V 0 ​ 0 ​ ( ∣ x ∣ ≤ a ) ( ∣ x ∣ > a ) ​ ​
+
+사각 퍼텐셜 문제 에서 해당 문제에 대한 고유함수를 구했으며, 이는 아래와 같다. [2] φ n ( 0 ) = { 1 L cos ⁡ ( n π x 2 L ) ( n = 1 , 3 , 5 , ⋯ ) 1 L sin ⁡ ( n π x 2 L ) ( n = 2 , 4 , 6 , ⋯ ) \displaystyle \begin{aligned} \varphi_{n}^{(0)}=\begin{cases} \sqrt{\dfrac{1}{L}} \cos{\biggl( \dfrac{n\pi x}{2L} \biggr)} & \qquad (n=1,\,3,\,5,\,\cdots) \\ \sqrt{\dfrac{1}{L}} \sin{\biggl( \dfrac{n\pi x}{2L} \biggr)} & \qquad (n=2,\,4,\,6,\,\cdots) \end{cases} \end{aligned} φ n ( 0 ) ​ = ⎩ ⎨ ⎧ ​ L 1 ​ ​ cos ( 2 L nπ x ​ ) L 1 ​ ​ sin ( 2 L nπ x ​ ) ​ ( n = 1 , 3 , 5 , ⋯ ) ( n = 2 , 4 , 6 , ⋯ ) ​ ​
+
+본래 해밀토니언에 대한 고윳값은 아래와 같다.
+
+E n ( 0 ) = n 2 π 2 ℏ 2 8 m L 2 \begin{aligned} E_{n}^{(0)}=\frac{n^2 \pi^2 \hbar^2}{8mL^2} \end{aligned} E n ( 0 ) ​ = 8 m L 2 n 2 π 2 ℏ 2 ​ ​
+
+1차 보정 에너지는 n n n 이 홀수일 때, E n ( 1 ) = ⟨ φ n ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ = V 0 L ∫ − a a cos ⁡ 2 ( n π x 2 L ) d x = V 0 L [ a + L n π sin ⁡ ( a n π L ) ] ( n = 1 , 3 , 5 , ⋯ ) \displaystyle \begin{aligned} E_{n}^{(1)}&=\langle \varphi_{n}^{(0)}|\mathcal{H}'| \varphi_{n}^{(0)}\rangle \\ &=\frac{V_{0}}{L} \int_{-a}^{a} \cos^{2}{\biggl( \frac{n \pi x}{2L} \biggr)}\,{\rm d}x \\&=\frac{V_{0}}{L} \biggl[a+\frac{L}{n\pi}\sin{\biggl( \frac{a n \pi}{L} \biggr)} \biggr] \qquad (n=1,\,3,\,5,\,\cdots) \end{aligned} E n ( 1 ) ​ ​ = ⟨ φ n ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ = L V 0 ​ ​ ∫ − a a ​ cos 2 ( 2 L nπ x ​ ) d x = L V 0 ​ ​ [ a + nπ L ​ sin ( L anπ ​ ) ] ( n = 1 , 3 , 5 , ⋯ ) ​
+
+n n n 이 짝수일 때, E n ( 1 ) = ⟨ φ n ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ = V 0 L ∫ − a a sin ⁡ 2 ( n π x 2 L ) d x = V 0 L [ a − L n π sin ⁡ ( a n π L ) ] ( n = 2 , 4 , 6 , ⋯ ) \displaystyle \begin{aligned} E_{n}^{(1)}&=\langle \varphi_{n}^{(0)}|\mathcal{H}'| \varphi_{n}^{(0)}\rangle \\ &=\frac{V_{0}}{L} \int_{-a}^{a} \sin^{2}{\biggl( \frac{n \pi x}{2L} \biggr)}\,{\rm d}x \\&=\frac{V_{0}}{L} \biggl[a-\frac{L}{n\pi}\sin{\biggl( \frac{a n \pi}{L} \biggr)} \biggr] \qquad (n=2,\,4,\,6,\,\cdots) \end{aligned} E n ( 1 ) ​ ​ = ⟨ φ n ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ = L V 0 ​ ​ ∫ − a a ​ sin 2 ( 2 L nπ x ​ ) d x = L V 0 ​ ​ [ a − nπ L ​ sin ( L anπ ​ ) ] ( n = 2 , 4 , 6 , ⋯ ) ​
+
+을 얻는다.
+
+1차 보정 함수를 구하자.
+
+c m ( n ) = ⟨ φ m ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ E n ( 0 ) − E m ( 0 ) = 8 m L 2 V 0 π 2 ℏ 2 ⟨ φ m ( 0 ) ∣ φ n ( 0 ) ⟩ n 2 − m 2 \begin{aligned} c_{m}^{(n)}&=\frac{\langle \varphi_{m}^{(0)}|\mathcal{H}'| \varphi_{n}^{(0)} \rangle}{E_{n}^{(0)}-E_{m}^{(0)}} \\&=\frac{8mL^2 V_{0}}{\pi^2 \hbar^{2}}\frac{\langle \varphi_{m}^{(0)}| \varphi_{n}^{(0)} \rangle}{n^2-m^2} \end{aligned} c m ( n ) ​ ​ = E n ( 0 ) ​ − E m ( 0 ) ​ ⟨ φ m ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ ​ = π 2 ℏ 2 8 m L 2 V 0 ​ ​ n 2 − m 2 ⟨ φ m ( 0 ) ​ ∣ φ n ( 0 ) ​ ⟩ ​ ​
+이때, 사인은 홀함수, 코사인은 짝함수이며, 적분 구간이 대칭적임을 생각하면 코사인과 사인의 곱은 홀함수가 되어 적분은 사라진다. 즉, m m m , n n n 이 서로 다른 유형의 자연수라면 적분이 0이 된다. 따라서 m m m 과 n n n 이 모두 같은 유형의 자연수일 때만 보면 된다.
+
+m m m 과 n n n 이 모두 홀수인 경우 ⟨ φ m ( 0 ) ∣ φ n ( 0 ) ⟩ = ∫ − a a cos ⁡ ( m π x 2 L ) cos ⁡ ( n π x 2 L ) d x = 2 L π [ sin ⁡ [ a ( m − n ) π 2 L ] m − n + sin ⁡ [ a ( m + n ) π 2 L ] m + n ] \displaystyle \begin{aligned} \langle \varphi_{m}^{(0)}| \varphi_{n}^{(0)} \rangle&=\int_{-a}^{a} \cos{\biggl( \dfrac{m\pi x}{2L} \biggr)} \cos{\biggl( \dfrac{n\pi x}{2L} \biggr)}\,{\rm d}x \\&=\frac{2L}{\pi} \left[ \frac{\sin{\biggl[\dfrac{a (m-n) \pi}{2L} \biggr]}}{m-n}+\frac{\sin{\biggl[\dfrac{a (m+n) \pi}{2L} \biggr]}}{m+n} \right] \end{aligned} ⟨ φ m ( 0 ) ​ ∣ φ n ( 0 ) ​ ⟩ ​ = ∫ − a a ​ cos ( 2 L mπ x ​ ) cos ( 2 L nπ x ​ ) d x = π 2 L ​ ​ m − n sin [ 2 L a ( m − n ) π ​ ] ​ + m + n sin [ 2 L a ( m + n ) π ​ ] ​ ​ ​
+
+m m m 과 n n n 이 모두 짝수인 경우 ⟨ φ m ( 0 ) ∣ φ n ( 0 ) ⟩ = ∫ − a a sin ⁡ ( m π x 2 L ) sin ⁡ ( n π x 2 L ) d x = 2 L π [ sin ⁡ [ a ( m − n ) π 2 L ] m − n − sin ⁡ [ a ( m + n ) π 2 L ] m + n ] \displaystyle \begin{aligned} \langle \varphi_{m}^{(0)}| \varphi_{n}^{(0)} \rangle&=\int_{-a}^{a} \sin{\biggl( \dfrac{m\pi x}{2L} \biggr)} \sin{\biggl( \dfrac{n\pi x}{2L} \biggr)}\,{\rm d}x \\&=\frac{2L}{\pi} \left[ \frac{\sin{\biggl[\dfrac{a (m-n) \pi}{2L} \biggr]}}{m-n}-\frac{\sin{\biggl[\dfrac{a (m+n) \pi}{2L} \biggr]}}{m+n} \right] \end{aligned} ⟨ φ m ( 0 ) ​ ∣ φ n ( 0 ) ​ ⟩ ​ = ∫ − a a ​ sin ( 2 L mπ x ​ ) sin ( 2 L nπ x ​ ) d x = π 2 L ​ ​ m − n sin [ 2 L a ( m − n ) π ​ ] ​ − m + n sin [ 2 L a ( m + n ) π ​ ] ​ ​ ​
+
+n n n 이 홀수냐 짝수냐에 따라 기여하는 계수의 유형은 달라진다. 홀수일 때는 홀수 항만, 짝수일 때는 짝수 항만 더해지게 된다. 즉, n n n 이 홀수일 때는
+
+φ n ( 1 ) = ∑ l = 1 ∞ c 2 l − 1 ( n ) φ 2 l − 1 ( 0 ) ( 2 l − 1 ≠ n ) \begin{aligned} \varphi_{n}^{(1)}&= \sum_{ l=1 }^{\infty} c_{2l-1}^{(n)}\varphi_{2l-1}^{(0)} \qquad (2l-1 \neq n) \end{aligned} φ n ( 1 ) ​ ​ = l = 1 ∑ ∞ ​ c 2 l − 1 ( n ) ​ φ 2 l − 1 ( 0 ) ​ ( 2 l − 1  = n ) ​
+n n n 이 짝수일 때는
+
+φ n ( 1 ) = ∑ l = 1 ∞ c 2 l ( n ) φ 2 l ( 0 ) ( 2 l ≠ n ) \begin{aligned} \varphi_{n}^{(1)}&= \sum_{ l=1 }^{\infty} c_{2l}^{(n)}\varphi_{2l}^{(0)} \qquad (2l \neq n) \end{aligned} φ n ( 1 ) ​ ​ = l = 1 ∑ ∞ ​ c 2 l ( n ) ​ φ 2 l ( 0 ) ​ ( 2 l  = n ) ​
+으로 구해지게 된다.
+
+2.3.1.2. 약한 전기장과 약한 자기장이 걸린 경우 [편집]
+한변이 L L L 인 정사각형 퍼텐셜 우물에 질량 m m m , 전하량 q q q 인 입자가 갇혀있다. 퍼텐셜 우물에 균일한 전기장 E = E e x \pmb{\mathscr{E}}=\mathscr{E}\mathbf{e}_{x} E = E e x ​ (단, E ≪ 1 \mathscr{E} \ll 1 E ≪ 1 ) , 균일한 자기장 B = B e x \pmb{\mathscr{B}}=\mathscr{B}\mathbf{e}_{x} B = B e x ​ (단, B ≪ 1 \mathscr{B} \ll 1 B ≪ 1 )가 걸릴 때, 1차 보정 에너지를 구해보자.
+
+우선 이 문제의 고유함수와 에너지는
+
+φ n x n y ( x , y ) = 2 L sin ⁡ ( n x π x L ) sin ⁡ ( n y π y L ) E n x n y = ℏ 2 π 2 2 m L 2 ( n x 2 + n y 2 ) \displaystyle \begin{aligned} \varphi_{n_x n_y}(x,\,y)&=\frac{2}{L}\sin{\biggl ( \frac{n_{x}\pi x}{L} \biggr )}\sin{\biggl ( \frac{n_{y}\pi y}{L} \biggr )} \\ E_{n_x n_y}&=\frac{\hbar^{2} \pi^{2}}{2mL^2}(n_{x}^{2}+n_{y}^{2}) \end{aligned} φ n x ​ n y ​ ​ ( x , y ) E n x ​ n y ​ ​ ​ = L 2 ​ sin ( L n x ​ π x ​ ) sin ( L n y ​ π y ​ ) = 2 m L 2 ℏ 2 π 2 ​ ( n x 2 ​ + n y 2 ​ ) ​
+임을 짚고 넘어가자.
+
+이때, ( n x , n y ) = ( 1 , 1 ) (n_{x},\,n_{y})=(1,\,1) ( n x ​ , n y ​ ) = ( 1 , 1 ) 이라 가정하자.
+
+우선 전자기장 내 갇힌 입자의 해밀토니언은
+
+H = 1 2 m ( p − q A ) 2 + q Φ \displaystyle \begin{aligned} \mathcal{H}=\frac{1}{2m} (\mathbf{p}-q \mathbf{A})^{2}+q \Phi \end{aligned} H = 2 m 1 ​ ( p − q A ) 2 + q Φ ​
+이때, p = − i ℏ ∇ \mathbf{p}=-i\hbar \boldsymbol{\nabla} p = − i ℏ ∇ 이므로 위 해밀토니언에 대입하면
+
+H = 1 2 m ( − i ℏ ∇ − q A ) 2 + q Φ = − p 2 2 m + i ℏ 2 m ( ∇ ⋅ A + A ⋅ ∇ ) + q 2 A 2 2 m + q Φ \displaystyle \begin{aligned} \mathcal{H}&=\frac{1}{2m} (-i\hbar \boldsymbol{\nabla}-q \mathbf{A})^{2}+q \Phi \\ &=-\frac{p^{2}}{2m} +\frac{i \hbar}{2m} (\boldsymbol{\nabla} \boldsymbol{\cdot} \mathbf{A}+\mathbf{A}\boldsymbol{\cdot}\boldsymbol{\nabla} )+\frac{q^2 A^{2}}{2m}+q \Phi \end{aligned} H ​ = 2 m 1 ​ ( − i ℏ ∇ − q A ) 2 + q Φ = − 2 m p 2 ​ + 2 m i ℏ ​ ( ∇ ⋅ A + A ⋅ ∇ ) + 2 m q 2 A 2 ​ + q Φ ​
+그런데 정자기학의 자기장을 다루므로 쿨롱 게이지 ∇ ⋅ A = 0 \boldsymbol{\nabla} \boldsymbol{\cdot} \mathbf{A}=0 ∇ ⋅ A = 0 을 도입하면,
+
+H = 1 2 m ( − i ℏ ∇ − q A ) 2 + q Φ = − p 2 2 m + i ℏ 2 m ( A ⋅ ∇ ) + q 2 A 2 2 m + q Φ \displaystyle \begin{aligned} \mathcal{H}&=\frac{1}{2m} (-i\hbar \boldsymbol{\nabla}-q \mathbf{A})^{2}+q \Phi \\ &=-\frac{p^{2}}{2m} +\frac{i \hbar}{2m} (\mathbf{A}\boldsymbol{\cdot}\boldsymbol{\nabla} )+\frac{q^2 A^{2}}{2m}+q \Phi \end{aligned} H ​ = 2 m 1 ​ ( − i ℏ ∇ − q A ) 2 + q Φ = − 2 m p 2 ​ + 2 m i ℏ ​ ( A ⋅ ∇ ) + 2 m q 2 A 2 ​ + q Φ ​
+
+이제 관건은 적절한 벡터 퍼텐셜과 스칼라 퍼텐셜을 구하는 것이다. 나무위키에 소개된 전자기학적 지식을 이용하면 다음을 얻는다.
+
+Φ = − E x A = B y e z \displaystyle \begin{aligned} \Phi &=- \mathscr{E} x \\ \mathbf{A}&=\mathscr{B}y \mathbf{e}_{z} \end{aligned} Φ A ​ = − E x = B y e z ​ ​
+이상에서 해밀토니언은
+
+H = − p 2 2 m + i ℏ B y 2 m ∂ ∂ z + q 2 B 2 2 m y 2 − q E x \displaystyle \begin{aligned} \mathcal{H} &=-\frac{p^{2}}{2m} +\frac{i \hbar \mathscr{B}y}{2m} \frac{\partial }{\partial z} +\frac{q^2 \mathscr{B}^2}{2m} y^2-q \mathscr{E}x \end{aligned} H ​ = − 2 m p 2 ​ + 2 m i ℏ B y ​ ∂ z ∂ ​ + 2 m q 2 B 2 ​ y 2 − q E x ​
+이다. 한편, 고유함수가 x x x , y y y 에만 의존하므로
+
+H = − p 2 2 m + q 2 B 2 2 m y 2 − q E x = H ( 0 ) + H ′ \displaystyle \begin{aligned} \mathcal{H} &=-\frac{p^{2}}{2m} +\frac{q^2 \mathscr{B}^2}{2m} y^2-q \mathscr{E}x \\ &=\mathcal{H}^{(0)}+\mathcal{H}' \end{aligned} H ​ = − 2 m p 2 ​ + 2 m q 2 B 2 ​ y 2 − q E x = H ( 0 ) + H ′ ​
+
+이상에서 1차 보정 에너지는
+
+E 11 ( 1 ) = ⟨ φ 11 ∣ H ′ ∣ φ 11 ⟩ = q 2 B 2 2 m ⟨ φ 11 ∣ y 2 ∣ φ 11 ⟩ − q E ⟨ φ 11 ∣ x ∣ φ 11 ⟩ \displaystyle \begin{aligned} E^{(1)}_{11} &= \langle \varphi_{11} |\mathcal{H}'|\varphi_{11} \rangle \\ &=\frac{q^2 \mathscr{B}^2}{2m}\langle \varphi_{11} |y^2|\varphi_{11} \rangle -q \mathscr{E}\langle \varphi_{11} |x|\varphi_{11} \rangle \end{aligned} E 11 ( 1 ) ​ ​ = ⟨ φ 11 ​ ∣ H ′ ∣ φ 11 ​ ⟩ = 2 m q 2 B 2 ​ ⟨ φ 11 ​ ∣ y 2 ∣ φ 11 ​ ⟩ − q E ⟨ φ 11 ​ ∣ x ∣ φ 11 ​ ⟩ ​
+그런데 이차원 무한 퍼텐셜 우물에 갇힌 입자의 고유함수는 곧 각 축에 대한 일차원 무한 퍼텐셜 우물에 갇힌 입자의 고유함수의 곱으로 이루어져있음을 상기하면, 다음과 같이 바꿀 수 있다.
+
+E 11 ( 1 ) = q 2 B 2 2 m ⟨ y 2 ⟩ ⟨ φ n x ∣ φ n x ⟩ − q E ⟨ φ n y ∣ φ n y ⟩ ⟨ x ⟩ \displaystyle \begin{aligned} E^{(1)}_{11} &=\frac{q^2 \mathscr{B}^2}{2m} \langle y^2 \rangle \langle \varphi_{n_{x}}|\varphi_{n_{x}} \rangle-q \mathscr{E} \langle \varphi_{n_{y}}|\varphi_{n_{y}} \rangle \langle x \rangle \end{aligned} E 11 ( 1 ) ​ ​ = 2 m q 2 B 2 ​ ⟨ y 2 ⟩ ⟨ φ n x ​ ​ ∣ φ n x ​ ​ ⟩ − q E ⟨ φ n y ​ ​ ∣ φ n y ​ ​ ⟩ ⟨ x ⟩ ​
+한편, 무한 퍼텐셜 우물을 다루면서
+
+⟨ x ⟩ = L 2 ⟨ x 2 ⟩ = L 2 ( 1 3 − 1 2 n x 2 π 2 ) \displaystyle \begin{aligned} \langle x \rangle &=\frac{L}{2} \\ \langle x^2 \rangle &= L^{2} \biggl( \frac{1}{3}-\frac{1}{2n_{x}^2 \pi^{2}} \biggr) \end{aligned} ⟨ x ⟩ ⟨ x 2 ⟩ ​ = 2 L ​ = L 2 ( 3 1 ​ − 2 n x 2 ​ π 2 1 ​ ) ​
+임을 알았으므로 이것을 대입하면 결과적으로 다음을 얻는다.
+
+E 11 ( 1 ) = q 2 B L 2 2 m ( 1 3 − 1 2 π 2 ) − q E L 2 \displaystyle \begin{aligned} E^{(1)}_{11} &= \frac{q^2\mathscr{B} L^2 }{2m} \biggl(\frac{1}{3}-\frac{1}{2 \pi^2} \biggr)-\frac{q\mathscr{E}L }{2} \end{aligned} E 11 ( 1 ) ​ ​ = 2 m q 2 B L 2 ​ ( 3 1 ​ − 2 π 2 1 ​ ) − 2 q E L ​ ​
+
+이제 ( n x , n y ) = ( 1 , 2 ) (n_{x},\,n_{y})=(1,\,2) ( n x ​ , n y ​ ) = ( 1 , 2 ) , ( n x , n y ) = ( 2 , 1 ) (n_{x},\,n_{y})=(2,\,1) ( n x ​ , n y ​ ) = ( 2 , 1 ) 일 때를 살펴보자. 이때, 주의해야 할 것은 이 상황에서는 축퇴가 발생한다는 것 이다. 따라서 다음의 영년 방정식을 풀어 1차 보정 에너지를 구한다.
+
+∣ ⟨ φ 12 ∣ H ′ ∣ φ 12 ⟩ − E ′ ⟨ φ 12 ∣ H ′ ∣ φ 21 ⟩ ⟨ φ 21 ∣ H ′ ∣ φ 12 ⟩ ⟨ φ 21 ∣ H ′ ∣ φ 21 ⟩ − E ′ ∣ = 0 ∣ q 2 B L 2 2 m ( 1 3 − 1 8 π 2 ) − q E L 2 − E ′ 0 0 q 2 B L 2 2 m ( 1 3 − 1 2 π 2 ) − q E L 2 − E ′ ∣ = 0 \displaystyle \begin{aligned} \begin{vmatrix} \langle \varphi_{12}|\mathcal{H}'|\varphi_{12} \rangle-E' & \qquad \langle \varphi_{12}|\mathcal{H}'|\varphi_{21} \rangle\\ \langle \varphi_{21}|\mathcal{H}'|\varphi_{12} \rangle & \qquad \langle \varphi_{21}|\mathcal{H}'|\varphi_{21} \rangle-E' \end{vmatrix}&=0 \\ \begin{vmatrix} \dfrac{q^2\mathscr{B} L^2 }{2m} \biggl(\dfrac{1}{3}-\dfrac{1}{8 \pi^2} \biggr)-\dfrac{q\mathscr{E}L }{2} -E' & \qquad 0\\ 0 &\qquad \dfrac{q^2\mathscr{B} L^2 }{2m} \biggl(\dfrac{1}{3}-\dfrac{1}{2 \pi^2} \biggr)-\dfrac{q\mathscr{E}L }{2}-E' \end{vmatrix}&=0 \end{aligned} ​ ⟨ φ 12 ​ ∣ H ′ ∣ φ 12 ​ ⟩ − E ′ ⟨ φ 21 ​ ∣ H ′ ∣ φ 12 ​ ⟩ ​ ⟨ φ 12 ​ ∣ H ′ ∣ φ 21 ​ ⟩ ⟨ φ 21 ​ ∣ H ′ ∣ φ 21 ​ ⟩ − E ′ ​ ​ ​ 2 m q 2 B L 2 ​ ( 3 1 ​ − 8 π 2 1 ​ ) − 2 q E L ​ − E ′ 0 ​ 0 2 m q 2 B L 2 ​ ( 3 1 ​ − 2 π 2 1 ​ ) − 2 q E L ​ − E ′ ​ ​ ​ = 0 = 0 ​
+다행히, 이미 대각화되어있기에 ( n x , n y ) = ( 1 , 2 ) (n_{x},\,n_{y})=(1,\,2) ( n x ​ , n y ​ ) = ( 1 , 2 ) , ( n x , n y ) = ( 2 , 1 ) (n_{x},\,n_{y})=(2,\,1) ( n x ​ , n y ​ ) = ( 2 , 1 ) 일 때, 1차 보정 에너지는 각각
+
+E 12 ( 1 ) = q 2 B L 2 2 m ( 1 3 − 1 8 π 2 ) − q E L 2 E 21 ( 1 ) = q 2 B L 2 2 m ( 1 3 − 1 2 π 2 ) − q E L 2 \displaystyle \begin{aligned} E_{12}^{(1)}&=\dfrac{q^2\mathscr{B} L^2 }{2m} \biggl(\dfrac{1}{3}-\dfrac{1}{8 \pi^2} \biggr)-\dfrac{q\mathscr{E}L }{2} \\ E_{21}^{(1)}&=\dfrac{q^2\mathscr{B} L^2 }{2m} \biggl(\dfrac{1}{3}-\dfrac{1}{2 \pi^2} \biggr)-\dfrac{q\mathscr{E}L }{2} \end{aligned} E 12 ( 1 ) ​ E 21 ( 1 ) ​ ​ = 2 m q 2 B L 2 ​ ( 3 1 ​ − 8 π 2 1 ​ ) − 2 q E L ​ = 2 m q 2 B L 2 ​ ( 3 1 ​ − 2 π 2 1 ​ ) − 2 q E L ​ ​
+이다.
+
+2.3.2. 섭동이 가해진 해밀토니언 행렬 [편집]
+어떤 계의 원래 해밀토니언이 다음과 같다고 하자.
+
+H ( 0 ) = [ 1 0 0 0 2 0 0 0 2 ] \begin{aligned} \mathcal{H}^{(0)}=\begin{bmatrix} 1 & 0 &0 \\ 0 & 2 & 0 \\ 0 & 0 & 2 \end{bmatrix} \end{aligned} H ( 0 ) = ​ 1 0 0 ​ 0 2 0 ​ 0 0 2 ​ ​ ​
+여기에 섭동 해밀토니언
+
+H ′ = [ ε 0 0 0 0 ε 0 ε 0 ] ( ε ≪ 1 ) \begin{aligned} \mathcal{H}'=\begin{bmatrix} \varepsilon & 0 &0 \\ 0 & 0 & \varepsilon \\ 0 & \varepsilon & 0\end{bmatrix} \quad (\varepsilon \ll 1) \end{aligned} H ′ = ​ ε 0 0 ​ 0 0 ε ​ 0 ε 0 ​ ​ ( ε ≪ 1 ) ​
+을 고려하자. 따라서 해밀토니언은 다음과 같이 주어진다.
+
+H = [ 1 + ε 0 0 0 2 ε 0 ε 2 ] \begin{aligned} \mathcal{H}=\begin{bmatrix} 1+\varepsilon & 0 &0 \\ 0 & 2 & \varepsilon \\ 0 & \varepsilon & 2\end{bmatrix} \end{aligned} H = ​ 1 + ε 0 0 ​ 0 2 ε ​ 0 ε 2 ​ ​ ​
+알다시피 이 계는 2중으로 축퇴된 상태이다.
+
+축퇴에 의한 효과를 제거하기 위해 기저를 재구성한다. 이에 행렬 H ′ \mathcal{H}' H ′ 의 부행렬을 대각화시키는 기저를 구성한다.
+
+∣ − E ′ ε ε − E ′ ∣ = 0 \begin{aligned} \begin{vmatrix} -E' & \varepsilon \\ \varepsilon & -E'\end{vmatrix} =0 \end{aligned} ​ − E ′ ε ​ ε − E ′ ​ ​ = 0 ​
+여기서 고윳값 E ′ = ± ε E'=\pm \varepsilon E ′ = ± ε 을 얻는다. 이상에서 각 고윳값에 대한 기저
+
+φ ˉ 2 ( 0 ) = 1 2 [ 0 1 1 ] φ ˉ 3 ( 0 ) = 1 2 [ 0 1 − 1 ] \begin{aligned} \bar{\varphi}_{2}^{(0)}&=\frac{1}{\sqrt{2}}\begin{bmatrix}0 \\ 1 \\ 1 \end{bmatrix} \\ \bar{\varphi}_{3}^{(0)}&=\frac{1}{\sqrt{2}}\begin{bmatrix}0 \\ 1 \\ -1 \end{bmatrix} \end{aligned} φ ˉ ​ 2 ( 0 ) ​ φ ˉ ​ 3 ( 0 ) ​ ​ = 2 ​ 1 ​ ​ 0 1 1 ​ ​ = 2 ​ 1 ​ ​ 0 1 − 1 ​ ​ ​
+
+이제 축퇴에 의한 효과는 제거되었다. 이제 비축퇴 섭동 이론을 쓰자.
+
+각 1차 보정 에너지는 다음과 같다.
+
+E 1 ( 1 ) = ⟨ φ 1 ( 0 ) ∣ H ′ ∣ φ 1 ( 0 ) ⟩ = ε E 2 ( 1 ) = ⟨ φ ˉ 2 ( 0 ) ∣ H ′ ∣ φ ˉ 2 ( 0 ) ⟩ = ε E 3 ( 1 ) = ⟨ φ ˉ 3 ( 0 ) ∣ H ′ ∣ φ ˉ 3 ( 0 ) ⟩ = − ε \begin{aligned} E_{1}^{(1)}&=\langle \varphi_{1}^{(0)} |\mathcal{H}'| \varphi_{1}^{(0)} \rangle = \varepsilon \\ E_{2}^{(1)}&=\langle \bar\varphi_{2}^{(0)} |\mathcal{H}'| \bar\varphi_{2}^{(0)} \rangle =\varepsilon \\ E_{3}^{(1)}&=\langle \bar\varphi_{3}^{(0)} |\mathcal{H}'| \bar\varphi_{3}^{(0)} \rangle =-\varepsilon \end{aligned} E 1 ( 1 ) ​ E 2 ( 1 ) ​ E 3 ( 1 ) ​ ​ = ⟨ φ 1 ( 0 ) ​ ∣ H ′ ∣ φ 1 ( 0 ) ​ ⟩ = ε = ⟨ φ ˉ ​ 2 ( 0 ) ​ ∣ H ′ ∣ φ ˉ ​ 2 ( 0 ) ​ ⟩ = ε = ⟨ φ ˉ ​ 3 ( 0 ) ​ ∣ H ′ ∣ φ ˉ ​ 3 ( 0 ) ​ ⟩ = − ε ​
+
+이제 1차 보정 함수를 구하자. 그런데 ⟨ φ m ( 0 ) ∣ H ′ ∣ φ n ( 0 ) ⟩ \langle \varphi_{m}^{(0)} |\mathcal{H}'|\varphi_{n}^{(0)} \rangle ⟨ φ m ( 0 ) ​ ∣ H ′ ∣ φ n ( 0 ) ​ ⟩ 은 대각 성분만 있는 행렬이기 때문에 1차 보정 함수는 모두 0이 나온다.
+
+이상에서 섭동 후 에너지와 고유함수는 다음과 같이 변한다. n = 1 \boldsymbol{n=1} n = 1
+섭동 전 | 섭동 후
+에너지 | 1 | 1 + ε 1+\varepsilon 1 + ε
+고유함수 | [ 1 0 0 ] \displaystyle \begin{bmatrix}1 \\ 0\\0 \end{bmatrix} ​ 1 0 0 ​ ​ | [ 1 0 0 ] \displaystyle \begin{bmatrix}1 \\ 0\\0 \end{bmatrix} ​ 1 0 0 ​ ​
+n = 2 \boldsymbol{n=2} n = 2
+섭동 전 | 섭동 후
+에너지 | 2 | 2 + ε 2+\varepsilon 2 + ε
+고유함수 | [ 0 1 0 ] \displaystyle \begin{bmatrix}0 \\ 1\\0 \end{bmatrix} ​ 0 1 0 ​ ​ | 1 2 [ 0 1 1 ] \dfrac{1}{\sqrt{2}}\begin{bmatrix}0 \\ 1 \\ 1 \end{bmatrix} 2 ​ 1 ​ ​ 0 1 1 ​ ​
+n = 3 \boldsymbol{n=3} n = 3
+섭동 전 | 섭동 후
+에너지 | 2 | 2 − ε 2-\varepsilon 2 − ε
+고유함수 | [ 0 0 1 ] \displaystyle \begin{bmatrix}0\\ 0\\1 \end{bmatrix} ​ 0 0 1 ​ ​ | 1 2 [ 0 1 − 1 ] \displaystyle \dfrac{1}{\sqrt{2}}\begin{bmatrix}0 \\ 1 \\ -1 \end{bmatrix} 2 ​ 1 ​ ​ 0 1 − 1 ​ ​
+
+이는 해밀토니언 행렬 H \mathcal{H} H 를 이용하여 직접 고윳값과 고유함수를 구해보아도 같은 결과가 나온다.
+
+2.3.3. 수소 원자의 특수 상대론적 보정 [편집]
+자세한 내용은 수소 원자 모형 문서의 3.1.1 번 문단을 참고하십시오.
+
+2.3.4. 스핀-궤도 결합 [편집]
+자세한 내용은 수소 원자 모형 문서의 3.1.2 번 문단을 참고하십시오.
+
+2.3.5. 슈타르크 효과 [편집]
+자세한 내용은 슈타르크 효과 문서를 참고하십시오.
+
+2.3.6. 제이만 효과 [편집]
+자세한 내용은 제이만 효과 문서를 참고하십시오.
+
+2.3.7. 헬만-파인만 정리 [편집]
+자세한 내용은 헬만-파인만 정리 문서를 참고하십시오.
+이 정리를 이용하여 수소 원자 모형 에서 r r r 의 멱수의 기댓값을 얻을 수 있다. 자세한 것은 해당 문서를 참조한다.
+
+3. 시간에 의존하는 섭동 이론 [편집]
+이번엔 본래의 해밀토니언 H ( 0 ) \mathcal{H^{(0)}} H ( 0 ) 에 섭동 해밀토니언 H ′ \mathcal{H}' H ′ 가 시간에 의존하는 경우를 살펴보겠다. 즉,
+
+H = H ( 0 ) + H ′ ( t ) \begin{aligned} \mathcal{H}= \mathcal{H^{(0)}}+\mathcal{H}'(t) \end{aligned} H = H ( 0 ) + H ′ ( t ) ​
+이번 경우에도 φ n \varphi_{n} φ n ​ , E n E_{n} E n ​ 는 비섭동 해밀토니언 H ( 0 ) \mathcal{H^{(0)}} H ( 0 ) 의 고유함수와 고윳값이다. 이러한 것을 시간에 의존하는 섭동 이론(time-dependent perturbation theory) 라 한다.
+
+시간에 무관한 섭동 이론의 포인트는 '섭동이 가해졌을 때, 에너지가 어떻게 변화하는가?'에 맞춰져 있다면, 지금 다루는 것은 섭동이 가해졌을 때, '한 상태에서 다른 상태로 여기가 일어날 확률이 어떻게 되는가'에 맞춘다.
+
+섭동 해밀토니언이 시간에 의존함에 따라 계의 파동함수는 시간에 의존하는 슈뢰딩거 방정식
+
+i ℏ ∂ Ψ ( t ) ∂ t = H Ψ ( t ) \begin{aligned} i\hbar \frac{\partial \Psi(t)}{\partial t} =\mathcal{H}\Psi(t) \end{aligned} i ℏ ∂ t ∂ Ψ ( t ) ​ = H Ψ ( t ) ​
+을 풀어 결정할 수 있다. 하지만 불행히도 섭동 해밀토니언 때문에 파동함수를 해석적으로 구할 수 있는 것은 제한적이다. 따라서 해의 모양을 아래와 같이 쓴다.
+
+Ψ ( t ) = ∑ n c n ( t ) exp ⁡ ( − i E n t ℏ ) φ n ( r ) \begin{aligned} \Psi(t)=\sum_{n}c_{n}(t) \exp{\biggl( -\frac{i E_{n} t}{\hbar} \biggr)}\, \varphi_{n}(\mathbf{r}) \end{aligned} Ψ ( t ) = n ∑ ​ c n ​ ( t ) exp ( − ℏ i E n ​ t ​ ) φ n ​ ( r ) ​
+이때, ∣ c n ( t ) ∣ 2|c_{n}(t)|^2 ∣ c n ​ ( t ) ∣ 2 는 시각 t t t 에서 에너지 E n E_n E n ​ 을 측정할 확률인데, 이를 달리 바꿔 말하면 초기 상태에 특정 상태에 있던 입자가 φ n \varphi_{n} φ n ​ 상태로 여기할 확률이라고도 말할 수 있다.
+
+이제 우리의 문제는 계수 c n ( t ) c_{n}(t) c n ​ ( t ) 을 구하는 것으로 귀착된다. 위에 쓴 해를 시간에 의존하는 슈뢰딩거 방정식에 대입한다. i ℏ ∑ n [ c ˙ n ( t ) exp ⁡ ( − i E n t ℏ ) − i E n ℏ c n ( t ) exp ⁡ ( − i E n t ℏ ) ] φ n = ∑ n c n ( t ) exp ⁡ ( − i E n t ℏ ) [ H 0 φ n + H ′ φ n ] i ℏ ∑ n c ˙ n ( t ) exp ⁡ ( − i E n t ℏ ) φ n + ∑ n E n c n ( t ) exp ⁡ ( − i E n t ℏ ) φ n = ∑ n E n c n ( t ) exp ⁡ ( − i E n t ℏ ) φ n + ∑ n c n ( t ) exp ⁡ ( − i E n t ℏ ) H ′ φ n i ℏ ∑ n c ˙ n ( t ) exp ⁡ ( − i E n t ℏ ) φ n = ∑ n c n ( t ) exp ⁡ ( − i E n t ℏ ) H ′ φ n \displaystyle \begin{aligned} i\hbar \sum_{n} \biggl[\dot{c}_{n}(t)\exp{\biggl( -\frac{i E_{n} t}{\hbar} \biggr)}-\frac{iE_{n}}{\hbar} {c}_{n}(t)\exp{\biggl( -\frac{i E_{n} t}{\hbar} \biggr)} \biggr]\varphi_{n}&=\sum_{n} {c}_{n}(t) \exp{\biggl( -\frac{i E_{n} t}{\hbar} \biggr)} [\mathcal{H}^{0}\varphi_{n}+\mathcal{H}'\varphi_{n} ] \\ i\hbar \sum_{n} \dot{c}_{n}(t)\exp{\biggl( -\frac{i E_{n} t}{\hbar} \biggr)}\varphi_{n}+\sum_{n}E_{n} {c}_{n}(t)\exp{\biggl( -\frac{i E_{n} t}{\hbar} \biggr)} \varphi_{n}&=\sum_{n} E_{n}{c}_{n}(t) \exp{\biggl( -\frac{i E_{n} t}{\hbar} \biggr)} \varphi_{n}+\sum_{n} {c}_{n}(t) \exp{\biggl( -\frac{i E_{n} t}{\hbar} \biggr)} \mathcal{H}'\varphi_{n} \\ i\hbar \sum_{n} \dot{c}_{n}(t)\exp{\biggl( -\frac{i E_{n} t}{\hbar} \biggr)}\varphi_{n}&=\sum_{n} {c}_{n}(t) \exp{\biggl( -\frac{i E_{n} t}{\hbar} \biggr)} \mathcal{H}'\varphi_{n} \end{aligned} i ℏ n ∑ ​ [ c ˙ n ​ ( t ) exp ( − ℏ i E n ​ t ​ ) − ℏ i E n ​ ​ c n ​ ( t ) exp ( − ℏ i E n ​ t ​ ) ] φ n ​ i ℏ n ∑ ​ c ˙ n ​ ( t ) exp ( − ℏ i E n ​ t ​ ) φ n ​ + n ∑ ​ E n ​ c n ​ ( t ) exp ( − ℏ i E n ​ t ​ ) φ n ​ i ℏ n ∑ ​ c ˙ n ​ ( t ) exp ( − ℏ i E n ​ t ​ ) φ n ​ ​ = n ∑ ​ c n ​ ( t ) exp ( − ℏ i E n ​ t ​ ) [ H 0 φ n ​ + H ′ φ n ​ ] = n ∑ ​ E n ​ c n ​ ( t ) exp ( − ℏ i E n ​ t ​ ) φ n ​ + n ∑ ​ c n ​ ( t ) exp ( − ℏ i E n ​ t ​ ) H ′ φ n ​ = n ∑ ​ c n ​ ( t ) exp ( − ℏ i E n ​ t ​ ) H ′ φ n ​ ​
+
+계수를 구하기 위해 양변에 φ m \varphi_{m} φ m ​ 을 내적한다. i ℏ ∑ n c ˙ n ( t ) exp ⁡ ( − i E n t ℏ ) ⟨ φ m ∣ φ n ⟩ = ∑ n c n ( t ) exp ⁡ ( − i E n t ℏ ) ⟨ φ m ∣ H ′ ∣ φ n ⟩ i ℏ ∑ n c ˙ n ( t ) exp ⁡ ( − i E n t ℏ ) δ m n = ∑ n c n ( t ) exp ⁡ ( − i E n t ℏ ) ⟨ φ m ∣ H ′ ∣ φ n ⟩ i ℏ c ˙ m ( t ) exp ⁡ ( − i E m t ℏ ) = ∑ n c n ( t ) exp ⁡ ( − i E n t ℏ ) ⟨ φ m ∣ H ′ ∣ φ n ⟩ \displaystyle \begin{aligned} i\hbar \sum_{n} \dot{c}_{n}(t)\exp{\biggl( -\frac{i E_{n} t}{\hbar} \biggr)} \langle \varphi_{m}|\varphi_{n} \rangle &=\sum_{n} {c}_{n}(t) \exp{\biggl( -\frac{i E_{n} t}{\hbar} \biggr)} \langle \varphi_{m}| \mathcal{H}'|\varphi_{n} \rangle \\ i\hbar \sum_{n} \dot{c}_{n}(t)\exp{\biggl( -\frac{i E_{n} t}{\hbar} \biggr)} \delta_{mn}&=\sum_{n} {c}_{n}(t) \exp{\biggl( -\frac{i E_{n} t}{\hbar} \biggr)} \langle \varphi_{m}| \mathcal{H}'|\varphi_{n} \rangle \\ i\hbar \dot{c}_{m}(t)\exp{\biggl( -\frac{i E_{m} t}{\hbar} \biggr)} &=\sum_{n} {c}_{n}(t) \exp{\biggl( -\frac{i E_{n} t}{\hbar} \biggr)} \langle \varphi_{m}| \mathcal{H}'|\varphi_{n} \rangle \end{aligned} i ℏ n ∑ ​ c ˙ n ​ ( t ) exp ( − ℏ i E n ​ t ​ ) ⟨ φ m ​ ∣ φ n ​ ⟩ i ℏ n ∑ ​ c ˙ n ​ ( t ) exp ( − ℏ i E n ​ t ​ ) δ mn ​ i ℏ c ˙ m ​ ( t ) exp ( − ℏ i E m ​ t ​ ) ​ = n ∑ ​ c n ​ ( t ) exp ( − ℏ i E n ​ t ​ ) ⟨ φ m ​ ∣ H ′ ∣ φ n ​ ⟩ = n ∑ ​ c n ​ ( t ) exp ( − ℏ i E n ​ t ​ ) ⟨ φ m ​ ∣ H ′ ∣ φ n ​ ⟩ = n ∑ ​ c n ​ ( t ) exp ( − ℏ i E n ​ t ​ ) ⟨ φ m ​ ∣ H ′ ∣ φ n ​ ⟩ ​
+
+이상을 정리하면, i ℏ c ˙ n = ∑ m c m ( t ) exp ⁡ [ i ( E n − E m ) t ℏ ] ⟨ φ n ∣ H ′ ∣ φ m ⟩ \displaystyle \begin{aligned} i\hbar \dot{c}_{n}=\sum_{m} {c}_{m}(t) \exp{\biggl[ \frac{i (E_{n}-E_{m}) t}{\hbar} \biggr]} \langle \varphi_{n}| \mathcal{H}'|\varphi_{m} \rangle \end{aligned} i ℏ c ˙ n ​ = m ∑ ​ c m ​ ( t ) exp [ ℏ i ( E n ​ − E m ​ ) t ​ ] ⟨ φ n ​ ∣ H ′ ∣ φ m ​ ⟩ ​
+
+이것이 계수로 표현된 슈뢰딩거 방정식이다. 이때, ℏ ω n m ≡ E n − E m \hbar \omega_{nm} \equiv E_{n}-E_{m} ℏ ω nm ​ ≡ E n ​ − E m ​ , ⟨ φ n ∣ H ′ ∣ φ m ⟩ e i ω n m t ≡ G n m \langle \varphi_{n}| \mathcal{H}'|\varphi_{m} \rangle e^{i \omega_{nm} t} \equiv G_{nm} ⟨ φ n ​ ∣ H ′ ∣ φ m ​ ⟩ e i ω nm ​ t ≡ G nm ​ 의 행렬 G \pmb{\mathsf{G} } G 의 성분으로 정의한다면 위 식을 간단하게 다음과 같이 쓸 수 있다.
+
+c ˙ = − i ℏ G c \begin{aligned} \mathbf{\dot{c}}=-\frac{i}{\hbar}\pmb{\mathsf{G} }\mathbf{c} \end{aligned} c ˙ = − ℏ i ​ G c ​
+이 방정식의 해는 c ( t ) = exp ⁡ ( − i ℏ ∫ 0 t G ( t ′ ) d t ′ ) c ( 0 ) = [ I − i ℏ ∫ 0 t G ( t ′ ) d t ′ − 1 ℏ 2 ∫ 0 t ∫ 0 t ′ G ( t ′ ) G ( t ′ ′ ) d t ′ d t ′ ′ + ⋯ ] c ( 0 ) \displaystyle \begin{aligned} \mathbf{c}(t)&=\exp{\biggl(-\frac{i}{\hbar}\int_{0}^{t} \pmb{\mathsf{G} }(t')\,{\rm d}t' \biggr)} \mathbf{c}(0) \\&=\biggl[ \pmb{\mathsf{I}}-\frac{i}{\hbar}\int_{0}^{t} \pmb{\mathsf{G} }(t')\,{\rm d}t'-\frac{1}{\hbar^{2}} \int_{0}^{t}\int_{0}^{t'} \pmb{\mathsf{G} }(t')\pmb{\mathsf{G} }(t'')\,{\rm d}t'{\rm d}t''+\cdots \biggr]\mathbf{c}(0) \end{aligned} c ( t ) ​ = exp ( − ℏ i ​ ∫ 0 t ​ G ( t ′ ) d t ′ ) c ( 0 ) = [ I − ℏ i ​ ∫ 0 t ​ G ( t ′ ) d t ′ − ℏ 2 1 ​ ∫ 0 t ​ ∫ 0 t ′ ​ G ( t ′ ) G ( t ′′ ) d t ′ d t ′′ + ⋯ ] c ( 0 ) ​
+
+여기서는 일차항까지만 생각하면
+
+c ( t ) = [ I − i ℏ ∫ 0 t G ( t ′ ) d t ′ ] c ( 0 ) \begin{aligned} \mathbf{c}(t)&=\biggl[ \pmb{\mathsf{I}}-\frac{i}{\hbar}\int_{0}^{t} \pmb{\mathsf{G} }(t')\,{\rm d}t' \biggr]\mathbf{c}(0) \end{aligned} c ( t ) ​ = [ I − ℏ i ​ ∫ 0 t ​ G ( t ′ ) d t ′ ] c ( 0 ) ​
+인데, 이것을 다시 쓰면
+
+c n ( t ) = ∑ m [ δ n m − i ℏ ∫ 0 t G n m ( t ′ ) d t ′ ] c m ( 0 ) \begin{aligned} c_{n}(t)&=\sum_{m}\biggl[ \delta_{nm}-\frac{i}{\hbar}\int_{0}^{t} G_{nm}(t')\,{\rm d}t' \biggr]c_{m}(0) \end{aligned} c n ​ ( t ) ​ = m ∑ ​ [ δ nm ​ − ℏ i ​ ∫ 0 t ​ G nm ​ ( t ′ ) d t ′ ] c m ​ ( 0 ) ​
+이다. 특별히 t = 0 t=0 t = 0 일 때, φ k \varphi_{k} φ k ​ 인 상태에 있었다면, c m ( 0 ) = δ k m c_{m}(0)=\delta_{km} c m ​ ( 0 ) = δ k m ​ 이므로 다음과 같이 구할 수 있다.
+
+c n ( t ) = ∑ m δ k m [ δ n m − i ℏ ∫ 0 t G n m ( t ′ ) d t ′ ] = δ n k − i ℏ ∫ 0 t G n k ( t ′ ) d t ′ \begin{aligned} c_{n}(t)&=\sum_{m}\delta_{km}\biggl[ \delta_{nm}-\frac{i}{\hbar}\int_{0}^{t} G_{nm}(t')\,{\rm d}t' \biggr] \\&=\delta_{nk}-\frac{i}{\hbar}\int_{0}^{t} G_{nk}(t')\,{\rm d}t' \end{aligned} c n ​ ( t ) ​ = m ∑ ​ δ k m ​ [ δ nm ​ − ℏ i ​ ∫ 0 t ​ G nm ​ ( t ′ ) d t ′ ] = δ nk ​ − ℏ i ​ ∫ 0 t ​ G nk ​ ( t ′ ) d t ′ ​
+
+3.1. 삼각함수 형 섭동 [편집]
+다음과 같은 섭동을 고려하자.
+
+H ′ ( t ) = V ( r ) cos ⁡ ( ω t ) \begin{aligned} \mathcal{H}'(t)=V(\mathbf{r})\cos{(\omega t)} \end{aligned} H ′ ( t ) = V ( r ) cos ( ω t ) ​
+또, 문제를 간단히 하기 위해 2준위 계를 생각하자. 이 계는 E a E_a E a ​ , E b E_b E b ​ 의 두 에너지 준위만을 가지며, E a < E b E_a<E_b E a ​ < E b ​ 라 가정한다.
+
+먼저 t = 0 t=0 t = 0 에서 φ a \varphi_{a} φ a ​ 에 있었다고 하고, t > 0 t>0 t > 0 에서 섭동이 "켜진"다고 생각하자.
+
+c ( 0 ) = [ 1 0 ] \begin{aligned} \mathbf{c}(0)=\begin{bmatrix} 1\\0 \end{bmatrix} \end{aligned} c ( 0 ) = [ 1 0 ​ ] ​
+이다. 한편,
+
+c ( t ) = [ I − i ℏ ∫ 0 t G ( t ′ ) d t ′ ] c ( 0 ) \begin{aligned} \mathbf{c}(t)&=\biggl[ \pmb{\mathsf{I}}-\frac{i}{\hbar}\int_{0}^{t} \pmb{\mathsf{G}}(t')\,{\rm d}t' \biggr] \,\mathbf{c}(0) \end{aligned} c ( t ) ​ = [ I − ℏ i ​ ∫ 0 t ​ G ( t ′ ) d t ′ ] c ( 0 ) ​
+이므로 [ c a ( t ) c b ( t ) ] = [ [ 1 0 0 1 ] + [ 0 − i ℏ ∫ 0 t V a b e − i ω b a t ′ cos ⁡ ( ω t ′ ) d t ′ − i ℏ ∫ 0 t V b a e i ω b a t ′ cos ⁡ ( ω t ′ ) d t ′ 0 ] ] [ 1 0 ] \displaystyle \begin{aligned} \begin{bmatrix} c_{a}(t)\\c_{b}(t) \end{bmatrix}&=\left[ \begin{bmatrix} 1 ~ &0\\0 ~ & 1 \end{bmatrix}+\begin{bmatrix} 0 ~&\displaystyle -\frac{i}{\hbar}\int_{0}^{t} V_{ab}\, e^{-i \omega_{ba} t'} \cos{(\omega t')}\,{\rm d}t' \\\displaystyle -\frac{i}{\hbar}\int_{0}^{t} V_{ba}\, e^{i \omega_{ba} t'} \cos{(\omega t')}\,{\rm d}t' ~& 0 \end{bmatrix} \right]\begin{bmatrix} 1\\0 \end{bmatrix} \end{aligned} [ c a ​ ( t ) c b ​ ( t ) ​ ] ​ = ​ [ 1 0 ​ 0 1 ​ ] + ​ 0 − ℏ i ​ ∫ 0 t ​ V ba ​ e i ω ba ​ t ′ cos ( ω t ′ ) d t ′ ​ − ℏ i ​ ∫ 0 t ​ V ab ​ e − i ω ba ​ t ′ cos ( ω t ′ ) d t ′ 0 ​ ​ ​ [ 1 0 ​ ] ​
+
+여기서 V a b = ⟨ φ a ∣ V ( r ) ∣ φ b ⟩ V_{ab}=\langle \varphi_{a}| V(\mathbf{r}) |\varphi_{b} \rangle V ab ​ = ⟨ φ a ​ ∣ V ( r ) ∣ φ b ​ ⟩ 이고, 우변의 제2항의 행렬의 대각성분을 0이라 놓은 것은 많은 물리 문제에서 H a a ′ = H b b ′ = 0 \mathcal{H}'_{aa}=\mathcal{H}'_{bb}=0 H aa ′ ​ = H bb ′ ​ = 0 을 만족하기 때문이다.
+
+따라서
+
+c a ( t ) = 1 c b ( t ) = − i ℏ ∫ 0 t V b a e i ω b a t ′ cos ⁡ ( ω t ′ ) d t ′ = − i V b a 2 ℏ ∫ 0 t e i ( ω b a + ω ) t ′ + e i ( ω b a − ω ) t ′ d t ′ = − V b a 2 ℏ [ e i ( ω b a + ω ) t ′ − 1 ω b a + ω + e i ( ω b a − ω ) t ′ − 1 ω b a − ω ] \begin{aligned} c_{a}(t)&=1 \\ \\ c_{b}(t)&=-\frac{i}{\hbar}\int_{0}^{t} V_{ba}\, e^{i \omega_{ba} t'} \cos{(\omega t')}\,{\rm d}t' \\&=-\frac{iV_{ba}}{2\hbar}\int_{0}^{t} \, e^{i (\omega_{ba}+\omega) t'}+e^{i (\omega_{ba}-\omega) t'}\,{\rm d}t' \\&=-\frac{V_{ba}}{2\hbar} \left[ \frac{e^{i (\omega_{ba}+\omega) t'}-1}{\omega_{ba}+\omega}+\frac{e^{i (\omega_{ba}-\omega) t'}-1}{\omega_{ba}-\omega} \right] \end{aligned} c a ​ ( t ) c b ​ ( t ) ​ = 1 = − ℏ i ​ ∫ 0 t ​ V ba ​ e i ω ba ​ t ′ cos ( ω t ′ ) d t ′ = − 2ℏ i V ba ​ ​ ∫ 0 t ​ e i ( ω ba ​ + ω ) t ′ + e i ( ω ba ​ − ω ) t ′ d t ′ = − 2ℏ V ba ​ ​ [ ω ba ​ + ω e i ( ω ba ​ + ω ) t ′ − 1 ​ + ω ba ​ − ω e i ( ω ba ​ − ω ) t ′ − 1 ​ ] ​
+이때, 2 cos ⁡ ( ω t ) = e i ω t + e − i ω t 2\cos{(\omega t)}=e^{i\omega t}+e^{-i \omega t} 2 cos ( ω t ) = e iω t + e − iω t 임을 사용했고, c b c_{b} c b ​ 는 입자가 a → b a \to b a → b 로 여기할 확률과 관계된 것이므로 여기에 초점을 맞춘다. 대게 ω ≃ ω b a \omega \simeq \omega_{ba} ω ≃ ω ba ​ 인 영역에 관심이 있기에 앞 항은 무시 가능하여 c b ( t ) ≃ − V b a 2 ℏ e i ( ω b a − ω ) t ′ − 1 ω b a − ω = − V b a 2 ℏ ⋅ 2 i ⋅ 1 ω b a − ω exp ⁡ [ i ( ω b a − ω ) t 2 ] − exp ⁡ [ − i ( ω b a − ω ) t 2 ] 2 i ⋅ exp ⁡ [ i ( ω b a − ω ) t 2 ] = − i V b a ℏ sin ⁡ ( ω b a − ω 2 t ) ω b a − ω ⋅ exp ⁡ [ i ( ω b a − ω ) t 2 ] \displaystyle \begin{aligned} c_{b}(t)& \simeq -\frac{V_{ba}}{2\hbar} \frac{e^{i (\omega_{ba}-\omega) t'}-1}{\omega_{ba}-\omega} \\&=-\frac{V_{ba}}{2\hbar}\cdot 2i \cdot \frac{1}{\omega_{ba}-\omega} \frac{\exp{\biggl[ \dfrac{i(\omega_{ba}-\omega)t}{2} \biggr]}-\exp{\biggl[- \dfrac{i(\omega_{ba}-\omega)t}{2} \biggr]}}{2i} \cdot \exp{\biggl[ \dfrac{i(\omega_{ba}-\omega)t}{2} \biggr]} \\&=-\frac{iV_{ba}}{\hbar} \frac{\sin{\biggl( \dfrac{\omega_{ba}-\omega}{2}t \biggr)}}{\omega_{ba}-\omega} \cdot \exp{\biggl[ \dfrac{i(\omega_{ba}-\omega)t}{2} \biggr]} \end{aligned} c b ​ ( t ) ​ ≃ − 2ℏ V ba ​ ​ ω ba ​ − ω e i ( ω ba ​ − ω ) t ′ − 1 ​ = − 2ℏ V ba ​ ​ ⋅ 2 i ⋅ ω ba ​ − ω 1 ​ 2 i exp [ 2 i ( ω ba ​ − ω ) t ​ ] − exp [ − 2 i ( ω ba ​ − ω ) t ​ ] ​ ⋅ exp [ 2 i ( ω ba ​ − ω ) t ​ ] = − ℏ i V ba ​ ​ ω ba ​ − ω sin ( 2 ω ba ​ − ω ​ t ) ​ ⋅ exp [ 2 i ( ω ba ​ − ω ) t ​ ] ​
+
+a → b a \to b a → b 로 여기할 확률은
+
+P a b ( t ) = ∣ c b ( t ) ∣ 2 = ∣ V b a ∣ 2 ℏ 2 sin ⁡ 2 ( ω b a − ω 2 t ) ( ω b a − ω ) 2 \begin{aligned} P_{ab}(t) &=|c_{b}(t)|^2 \\ &=\frac{|V_{ba}|^{2}}{\hbar^2}\frac{\sin^2{\biggl( \dfrac{\omega_{ba}-\omega}{2}t \biggr)}}{(\omega_{ba}-\omega)^2} \end{aligned} P ab ​ ( t ) ​ = ∣ c b ​ ( t ) ∣ 2 = ℏ 2 ∣ V ba ​ ∣ 2 ​ ( ω ba ​ − ω ) 2 sin 2 ( 2 ω ba ​ − ω ​ t ) ​ ​
+이것은 보다시피 시간에 따라 진동하는 형태가 된다. 그런데 언뜻 이 결과를 받아들이기 힘들 수도 있다. 외부에서 섭동이 가해졌는데, 시간이 지나면 되돌아가고, 다시 여기하고, 이것을 반복하게 된다는 것이니깐 말이다. 하지만 이는 우리가 외부 섭동의 진동수를 단일로 고려했기에 이러한 결과가 나타난 것이며, 약간의 분포가 있으면 이러한 효과가 지워지게 된다.
+
+위 확률을 ω \omega ω 에 대한 함수로 살펴보는 것은 꽤 흥미롭다. 단, 우리는 t ≫ ℏ / E t \gg \hbar/E t ≫ ℏ/ E 인 영역에 관심이 있기 때문에 t → ∞ t \to \infty t → ∞ 로 근사적으로 생각할 수 있고, 그렇게 되면
+
+P a b ( ω ) = lim ⁡ t → ∞ ∣ V b a ∣ 2 ℏ 2 sin ⁡ 2 ( ω b a − ω 2 t ) ( ω b a − ω ) 2 = ∣ V b a ∣ 2 ℏ 2 ⋅ t 2 4 lim ⁡ t → ∞ sin ⁡ 2 ( ω b a − ω 2 t ) ( ω b a − ω 2 t ) 2 = ∣ V b a ∣ 2 ℏ 2 ⋅ t 2 4 ⋅ π δ ( ω b a − ω 2 t ) = ∣ V b a ∣ 2 t 2 ℏ 2 δ ( ω b a − ω ) \begin{aligned} P_{ab}(\omega) &=\lim_{t\to \infty}\frac{|V_{ba}|^{2}}{\hbar^2}\frac{\sin^2{\biggl( \dfrac{\omega_{ba}-\omega}{2}t \biggr)}}{(\omega_{ba}-\omega)^2} \\&=\frac{|V_{ba}|^{2}}{\hbar^2} \cdot \frac{t^2}{4} \lim_{t \to \infty} \frac{\sin^2{\biggl( \dfrac{\omega_{ba}-\omega}{2}t \biggr)}}{\biggl(\dfrac{\omega_{ba}-\omega}{2}t \biggr)^2}\\&=\frac{|V_{ba}|^{2}}{\hbar^2} \cdot \frac{t^2}{4} \cdot \pi \delta\biggl( \dfrac{\omega_{ba}-\omega}{2}t\biggr) \\ &=\frac{|V_{ba}|^{2} t}{2\hbar^2} \delta(\omega_{ba}-\omega) \end{aligned} P ab ​ ( ω ) ​ = t → ∞ lim ​ ℏ 2 ∣ V ba ​ ∣ 2 ​ ( ω ba ​ − ω ) 2 sin 2 ( 2 ω ba ​ − ω ​ t ) ​ = ℏ 2 ∣ V ba ​ ∣ 2 ​ ⋅ 4 t 2 ​ t → ∞ lim ​ ( 2 ω ba ​ − ω ​ t ) 2 sin 2 ( 2 ω ba ​ − ω ​ t ) ​ = ℏ 2 ∣ V ba ​ ∣ 2 ​ ⋅ 4 t 2 ​ ⋅ π δ ( 2 ω ba ​ − ω ​ t ) = 2 ℏ 2 ∣ V ba ​ ∣ 2 t ​ δ ( ω ba ​ − ω ) ​
+이에 단위 시간당 천이율은
+
+R a b ( t ) = P ˙ a b ( ω ) = ∣ V b a ∣ 2 2 ℏ 2 δ ( ω b a − ω ) \begin{aligned} R_{ab}(t)&=\dot{P}_{ab}(\omega) \\ &=\frac{|V_{ba}|^{2} }{2\hbar^2}\delta(\omega_{ba}-\omega) \end{aligned} R ab ​ ( t ) ​ = P ˙ ab ​ ( ω ) = 2 ℏ 2 ∣ V ba ​ ∣ 2 ​ δ ( ω ba ​ − ω ) ​
+이것을 보면, E b − E a = ℏ ω E_{b}-E_{a}=\hbar \omega E b ​ − E a ​ = ℏ ω 를 만족하는 각진동수의 섭동이 가해졌을 때 천이율은 최대가 된다. 즉, 흡수 전이 가 일어나는 상황을 묘사한 것임을 알 수 있다. 이를테면 그 섭동이 전자기파인 경우 두 에너지 준위의 차 만큼의 에너지를 갖는 전자기파가 흡수되어야만 천이가 일어난다는 것이다.
+
+참고로 P a b ( ω ) P_{ab}(\omega) P ab ​ ( ω ) 의 최댓값은 t 2 t^2 t 2 에 비례한다.
+
+그럼 그 반대의 경우, 즉 φ b \varphi_{b} φ b ​ 인 상태에서 φ a \varphi_{a} φ a ​ 의 상태로 떨어지는 경우, 이 경우에도 마찬가지의 방법으로 구해보면
+
+P b a ( t ) = ∣ c a ( t ) ∣ 2 = ∣ V a b ∣ 2 ℏ 2 sin ⁡ 2 ( ω a b + ω 2 t ) ( ω b a + ω ) 2 = ∣ V a b ∣ 2 ℏ 2 sin ⁡ 2 ( − ω b a + ω 2 t ) ( − ω b a + ω ) 2 = ∣ V a b ∣ 2 ℏ 2 sin ⁡ 2 ( ω b a − ω 2 t ) ( ω b a − ω ) 2 = P a b ( t ) \begin{aligned} P_{ba}(t) &=|c_{a}(t)|^2 \\ &=\frac{|V_{ab}|^{2}}{\hbar^2}\frac{\sin^2{\biggl( \dfrac{\omega_{ab}+\omega}{2}t \biggr)}}{(\omega_{ba}+\omega)^2} \\ &=\frac{|V_{ab}|^{2}}{\hbar^2}\frac{\sin^2{\biggl( \dfrac{-\omega_{ba}+\omega}{2}t \biggr)}}{(-\omega_{ba}+\omega)^2} \\ &=\frac{|V_{ab}|^{2}}{\hbar^2}\frac{\sin^2{\biggl( \dfrac{\omega_{ba}-\omega}{2}t \biggr)}}{(\omega_{ba}-\omega)^2} \\&=P_{ab}(t)\end{aligned} P ba ​ ( t ) ​ = ∣ c a ​ ( t ) ∣ 2 = ℏ 2 ∣ V ab ​ ∣ 2 ​ ( ω ba ​ + ω ) 2 sin 2 ( 2 ω ab ​ + ω ​ t ) ​ = ℏ 2 ∣ V ab ​ ∣ 2 ​ ( − ω ba ​ + ω ) 2 sin 2 ( 2 − ω ba ​ + ω ​ t ) ​ = ℏ 2 ∣ V ab ​ ∣ 2 ​ ( ω ba ​ − ω ) 2 sin 2 ( 2 ω ba ​ − ω ​ t ) ​ = P ab ​ ( t ) ​
+t ≫ ℏ / E t \gg \hbar/E t ≫ ℏ/ E 인 영역에서
+
+R b a ( t ) = P ˙ b a ( ω ) = ∣ V a b ∣ 2 2 ℏ 2 δ ( ω b a − ω ) \begin{aligned} R_{ba}(t)&=\dot{P}_{ba}(\omega) \\ &=\frac{|V_{ab}|^{2} }{2\hbar^2}\delta(\omega_{ba}-\omega) \end{aligned} R ba ​ ( t ) ​ = P ˙ ba ​ ( ω ) = 2 ℏ 2 ∣ V ab ​ ∣ 2 ​ δ ( ω ba ​ − ω ) ​
+즉, 이 경우는 E b − E a = ℏ ω E_{b}-E_{a}=\hbar \omega E b ​ − E a ​ = ℏ ω 를 만족하는 각진동수의 섭동이 가해졌을 때 입자가 다른 준위로 내려가게 된다. 이것은 곧 해당 에너지를 갖는 전자기파를 흡수하여 더 낮은 에너지 준위로 떨어지면서 광자 한 개를 내놓는 유도 방출 을 묘사함을 알 수 있다.
+
+3.2. 페르미 황금률 [편집]
+이번에는 섭동으로 인하여, 한 준위에 있던 입자가 연속적인 준위로 천이할 확률을 구해보자.
+
+[ E b − δ , E b + δ ] [E_{b}-\delta, E_{b}+\delta] [ E b ​ − δ , E b ​ + δ ] 구간에서 해당 확률은 각 미소 구간의 확률을 모두 더하면 될 것이다. d E b {\rm d}E_{b} d E b ​ 만큼의 구간에 대한 확률은 그 가중치 g ( E b ) g(E_{b}) g ( E b ​ ) 를 도입하는데, g ( E b ) g(E_{b}) g ( E b ​ ) 는 단위 에너지 당 상태의 개수 즉, 상태 밀도(density of states)이다.
+
+P a b ( E ) = ∣ V b a ∣ 2 ℏ 2 sin ⁡ 2 ( ω b a − ω 2 t ) ( ω b a − ω ) 2 g ( E b ′ ) d E b \begin{aligned} P_{ab}(E) &=\frac{|V_{ba}|^{2}}{\hbar^2}\frac{\sin^2{\biggl( \dfrac{\omega_{ba}-\omega}{2}t \biggr)}}{(\omega_{ba}-\omega)^2} g(E_{b}')\,{\rm d}E_{b} \end{aligned} P ab ​ ( E ) ​ = ℏ 2 ∣ V ba ​ ∣ 2 ​ ( ω ba ​ − ω ) 2 sin 2 ( 2 ω ba ​ − ω ​ t ) ​ g ( E b ′ ​ ) d E b ​ ​
+이것을 적분하여 그 확률을 얻는다.
+
+P a b = ∣ V b a ∣ 2 ℏ 2 ∫ E b − δ E b + δ sin ⁡ 2 ( ω b a − ω 2 t ) ( ω b a − ω ) 2 g ( E b ′ ) d E b ′ \begin{aligned} P_{ab} &=\frac{|V_{ba}|^{2}}{\hbar^2} \int_{E_{b}-\delta}^{E_{b}+\delta} \frac{\sin^2{\biggl( \dfrac{\omega_{ba}-\omega}{2}t \biggr)}}{(\omega_{ba}-\omega)^2} g(E_{b}')\,{\rm d}E_{b}' \end{aligned} P ab ​ ​ = ℏ 2 ∣ V ba ​ ∣ 2 ​ ∫ E b ​ − δ E b ​ + δ ​ ( ω ba ​ − ω ) 2 sin 2 ( 2 ω ba ​ − ω ​ t ) ​ g ( E b ′ ​ ) d E b ′ ​ ​
+다음과 같은 치환
+
+2 ℏ β = ( E b ′ − E a − ℏ ω ) t = ℏ ( ω b a − ω ) \begin{aligned} 2\hbar\beta=(E_{b}'-E_{a}-\hbar\omega)t =\hbar(\omega_{ba}-\omega) \end{aligned} 2ℏ β = ( E b ′ ​ − E a ​ − ℏ ω ) t = ℏ ( ω ba ​ − ω ) ​
+을 t t t , E a E_{a} E a ​ , ω \omega ω 에 대하여 고정되어있을 때 고려하면
+
+d E b ′ = 2 ℏ t d β \begin{aligned} {\rm d}E_{b}'=\frac{2\hbar}{t} {\rm d}\beta \end{aligned} d E b ′ ​ = t 2ℏ ​ d β ​
+그러면 해당 적분을 다음과 같이 쓸 수 있다.
+
+P a b = ∣ V b a ∣ 2 g ( E b ) 2 ℏ t ∫ − ∞ ∞ sin ⁡ 2 β β 2 d β \begin{aligned} P_{ab} &=\frac{|V_{ba}|^{2} g(E_{b})}{2\hbar}t \int_{-\infty}^{\infty} \frac{\sin^2{\beta}}{\beta^2} {\rm d}\beta \end{aligned} P ab ​ ​ = 2ℏ ∣ V ba ​ ∣ 2 g ( E b ​ ) ​ t ∫ − ∞ ∞ ​ β 2 sin 2 β ​ d β ​
+적분 구간은 우리가 긴 시간의 극한을 보고 있고, 적분 안의 함수는 β = 0 \beta=0 β = 0 의 주변으로 피크를 갖기 때문에 적분 구간을 무한히 확장해도 그 오차가 적어질 것이라 기대되기 때문이다. 또한, 같은 이유로 g ( E b ′ ) g(E_{b}') g ( E b ′ ​ ) 에 대한 적분의 기여는 밖으로 나올 수 있다.
+
+∴ P a b = 2 π ℏ ∣ V b a ∣ 2 g ( E b ) t \begin{aligned} \therefore P_{ab} &= \frac{2\pi}{\hbar}{ |V_{ba}|^{2}g(E_{b})}t \end{aligned} ∴ P ab ​ ​ = ℏ 2 π ​ ∣ V ba ​ ∣ 2 g ( E b ​ ) t ​
+이상에서 단위 시간 당 천이율은 P ˙ a b \dot{P}_{ab} P ˙ ab ​ 라 쓸 수 있고, 다음과 같다.
+
+R a b = 2 π ℏ ∣ V b a ∣ 2 g ( E b ) \begin{aligned} R_{ab} &= \frac{2\pi}{\hbar}{ |V_{ba}|^{2}g(E_{b})} \end{aligned} R ab ​ ​ = ℏ 2 π ​ ∣ V ba ​ ∣ 2 g ( E b ​ ) ​
+위와 같이 한 고유상태에서 여러 에너지 고유상태의 연속체로 전환되는 단위 시간당 천이 확률을 페르미 황금률(Fermi's golden rule) 이라 한다.
+
+3.3. 단열 근사와 베리 위상 [편집]
+시간에 따른 계의 해밀토니언 의 변화가 다소 느리다면, 우리는 이 계를 단열 근사(adiabatic approximation) 시켜서 풀 수 있다. 단열 근사란 무엇인지 간단하게 무한 퍼텐셜 우물 을 가지고 이해해보자.
+
+초기 계는 그림 (a) 와 같이 폭 L L L 인 무한 퍼텐셜 우물에 갇혀있다. 이때, 상태는 보는 것과 같이 바닥 상태이다. 폭을 조금씩 늘려, 2 L 2L 2 L 이 되었다고 생각해보자. 폭을 아주 천천히 늘렸다는 것은 계의 해밀토니언의 변화가 다소 느렸다는 것을 의미한다. 이때 계는 조금씩 그 변화에 적응하여 그림 (b) 와 같이 그 상태를 유지하게 될 것이다. 즉, 계가 초기 상태 해밀토니언의 고유 상태에 있다고 했을 때, 시간이 지나도 고유 상태에 있게 될 때를 이러한 것을 단열 근사라 한다. 그러나 그림 (c) 와 같이 계를 급격하게 변화시키게 되면 시간이 지났을 때 계의 상태는 더 이상 해밀토니언의 고유 상태가 아니게 된다. 후자의 경우는 수준 상 이 문서에서 다루지 않는다.
+
+단열 근사를 수식으로 나타내면 아래와 같다.
+
+H ( t ) φ n ( t ) = E n ( t ) φ n ( t ) \begin{aligned} \mathcal{H}(t) \varphi_{n}(t)=E_{n}(t) \varphi_{n}(t) \end{aligned} H ( t ) φ n ​ ( t ) = E n ​ ( t ) φ n ​ ( t ) ​
+주의해야 할 것은 이 식은 시간에 의존하는 슈뢰딩거 방정식이 아니고, 시간에 무관한 슈뢰딩거 방정식이다. 여기서 시간은 변수가 아닌, 파라미터로 보는 것이 옳다. 즉, 어떤 특정한 t t t 에서 이 식이 만족한다는 것을 의미하는 것이다.
+
+우선 시간에 따른 파동함수가 다음과 같이 변한다고 가정하자.
+
+Ψ ( t ) = ∑ m c m ( t ) φ m ( t ) \begin{aligned} \Psi(t)=\sum_{m}c_{m}(t) \varphi_{m}(t) \end{aligned} Ψ ( t ) = m ∑ ​ c m ​ ( t ) φ m ​ ( t ) ​
+이것을 시간에 의존하는 슈뢰딩거 방정식
+
+i ℏ ∂ Ψ ( t ) ∂ t = H ( t ) Ψ ( t ) \begin{aligned} i\hbar \frac{\partial \Psi(t)}{\partial t}=\mathcal{H}(t)\Psi(t) \end{aligned} i ℏ ∂ t ∂ Ψ ( t ) ​ = H ( t ) Ψ ( t ) ​
+에 대입하면 i ℏ ∑ m [ c ˙ m ( t ) φ n ( t ) + c m ( t ) φ ˙ m ( t ) ] = ∑ m c m ( t ) H ( t ) φ m ( t ) i ℏ ∑ m [ c ˙ m ( t ) φ m ( t ) + c m ( t ) φ ˙ m ( t ) ] = ∑ m c m ( t ) E m ( t ) φ n ( t ) \displaystyle \begin{aligned} i\hbar \sum_{m} [\dot{c}_{m}(t) \varphi_{n}(t)+c_{m}(t) \dot{\varphi}_{m}(t) ] &=\sum_{m} c_{m}(t) \mathcal{H}(t)\varphi_{m}(t) \\ i\hbar \sum_{m} [\dot{c}_{m}(t) \varphi_{m}(t)+c_{m}(t) \dot{\varphi}_{m}(t) ] &=\sum_{m} c_{m}(t) E_{m}(t)\varphi_{n}(t) \end{aligned} i ℏ m ∑ ​ [ c ˙ m ​ ( t ) φ n ​ ( t ) + c m ​ ( t ) φ ˙ ​ m ​ ( t )] i ℏ m ∑ ​ [ c ˙ m ​ ( t ) φ m ​ ( t ) + c m ​ ( t ) φ ˙ ​ m ​ ( t )] ​ = m ∑ ​ c m ​ ( t ) H ( t ) φ m ​ ( t ) = m ∑ ​ c m ​ ( t ) E m ​ ( t ) φ n ​ ( t ) ​
+
+여기서 양변을 φ k ( t ) \varphi_{k}(t) φ k ​ ( t ) 와 내적한다. i ℏ ∑ m [ c ˙ m ( t ) ⟨ φ k ( t ) ∣ φ m ( t ) ⟩ + c m ( t ) ⟨ φ k ( t ) ∣ φ ˙ m ( t ) ⟩ ] = ∑ m c m ( t ) E m ( t ) ⟨ φ k ( t ) ∣ φ m ( t ) ⟩ \displaystyle \begin{aligned} i\hbar \sum_{m} [\dot{c}_{m}(t) \langle \varphi_{k}(t)|\varphi_{m}(t) \rangle+c_{m}(t) \langle \varphi_{k}(t)|\dot{\varphi}_{m}(t) \rangle ] &=\sum_{m} c_{m}(t) E_{m}(t)\langle \varphi_{k}(t)|\varphi_{m}(t) \rangle \end{aligned} i ℏ m ∑ ​ [ c ˙ m ​ ( t ) ⟨ φ k ​ ( t ) ∣ φ m ​ ( t )⟩ + c m ​ ( t ) ⟨ φ k ​ ( t ) ∣ φ ˙ ​ m ​ ( t )⟩] ​ = m ∑ ​ c m ​ ( t ) E m ​ ( t ) ⟨ φ k ​ ( t ) ∣ φ m ​ ( t )⟩ ​
+
+단열 근사의 정의에 따라 ⟨ φ k ( t ) ∣ φ m ( t ) ⟩ = δ k m \langle \varphi_{k}(t)|\varphi_{m}(t) \rangle=\delta_{km} ⟨ φ k ​ ( t ) ∣ φ m ​ ( t )⟩ = δ k m ​ 이 성립한다. c ˙ k ( t ) + ∑ m c m ( t ) ⟨ φ k ( t ) ∣ φ ˙ m ( t ) ⟩ = − i ℏ c k ( t ) E k ( t ) \displaystyle \begin{aligned} \dot{c}_{k}(t) +\sum_{m} c_{m}(t) \langle \varphi_{k}(t)|\dot{\varphi}_{m}(t) \rangle &= -\frac{i}{\hbar}c_{k}(t) E_{k}(t) \end{aligned} c ˙ k ​ ( t ) + m ∑ ​ c m ​ ( t ) ⟨ φ k ​ ( t ) ∣ φ ˙ ​ m ​ ( t )⟩ ​ = − ℏ i ​ c k ​ ( t ) E k ​ ( t ) ​
+
+⟨ φ k ( t ) ∣ φ m ( t ) ⟩ = δ k m \langle \varphi_{k}(t)|\varphi_{m}(t) \rangle=\delta_{km} ⟨ φ k ​ ( t ) ∣ φ m ​ ( t )⟩ = δ k m ​ 양변을 t t t 에 대하여 편미분하면
+
+⟨ φ ˙ k ( t ) ∣ φ m ( t ) ⟩ + ⟨ φ k ( t ) ∣ φ ˙ m ( t ) ⟩ = 0 \begin{aligned} \langle \dot{\varphi}_{k}(t)|\varphi_{m}(t) \rangle+\langle \varphi_{k}(t)|\dot{\varphi}_{m}(t) \rangle=0 \end{aligned} ⟨ φ ˙ ​ k ​ ( t ) ∣ φ m ​ ( t )⟩ + ⟨ φ k ​ ( t ) ∣ φ ˙ ​ m ​ ( t )⟩ = 0 ​
+또, 단열 근사의 정의로부터 ⟨ φ k ( t ) ∣ H ( t ) ∣ φ m ( t ) ⟩ = E m ( t ) ⟨ φ k ( t ) ∣ φ m ( t ) ⟩ = E m ( t ) δ k m \displaystyle \begin{aligned} \langle \varphi_{k}(t) |\mathcal{H}(t)| \varphi_{m}(t) \rangle =E_{m}(t) \langle \varphi_{k}(t) |\varphi_{m}(t)\rangle =E_{m}(t) \delta_{km} \end{aligned} ⟨ φ k ​ ( t ) ∣ H ( t ) ∣ φ m ​ ( t )⟩ = E m ​ ( t ) ⟨ φ k ​ ( t ) ∣ φ m ​ ( t )⟩ = E m ​ ( t ) δ k m ​ ​
+
+양변을 t t t 에 대하여 편미분하면 좌변은 ⟨ φ ˙ k ( t ) ∣ H ( t ) ∣ φ m ( t ) ⟩ + ⟨ φ k ( t ) ∣ H ˙ ( t ) ∣ φ m ( t ) ⟩ + ⟨ φ k ( t ) ∣ H ( t ) ∣ φ ˙ m ( t ) ⟩ \displaystyle \begin{aligned} \langle \dot{\varphi}_{k}(t) |\mathcal{H}(t)| \varphi_{m}(t) \rangle+\langle \varphi_{k}(t) |\dot{\mathcal{H}}(t)| \varphi_{m}(t) \rangle+\langle \varphi_{k}(t) |\mathcal{H}(t)| \dot{\varphi}_{m}(t) \rangle \end{aligned} ⟨ φ ˙ ​ k ​ ( t ) ∣ H ( t ) ∣ φ m ​ ( t )⟩ + ⟨ φ k ​ ( t ) ∣ H ˙ ( t ) ∣ φ m ​ ( t )⟩ + ⟨ φ k ​ ( t ) ∣ H ( t ) ∣ φ ˙ ​ m ​ ( t )⟩ ​
+
+여기서 해밀토니언의 시간에 따른 변화가 매우 작다고 가정하므로 2항은 무시한다. 그렇게 되면 ⟨ φ ˙ k ( t ) ∣ H ( t ) ∣ φ m ( t ) ⟩ + ⟨ φ k ( t ) ∣ H ( t ) ∣ φ ˙ m ( t ) ⟩ = E ˙ m ( t ) δ k m E m ( t ) ⟨ φ ˙ k ( t ) ∣ φ m ( t ) ⟩ + E k ( t ) ⟨ φ k ( t ) ∣ φ ˙ m ( t ) ⟩ = E ˙ m ( t ) δ k m ( E m ( t ) − E k ( t ) ) ⟨ φ k ( t ) ∣ φ ˙ m ( t ) ⟩ = E ˙ m ( t ) δ k m \displaystyle \begin{aligned} \langle \dot{\varphi}_{k}(t) |\mathcal{H}(t)| \varphi_{m}(t) \rangle+\langle \varphi_{k}(t) |\mathcal{H}(t)| \dot{\varphi}_{m}(t) \rangle &=\dot{E}_{m}(t)\delta_{km} \\E_{m}(t)\langle \dot{\varphi}_{k}(t) | \varphi_{m}(t) \rangle+E_{k}(t)\langle \varphi_{k}(t) | \dot{\varphi}_{m}(t) \rangle &=\dot{E}_{m}(t)\delta_{km} \\ (E_{m}(t)-E_{k}(t))\langle \varphi_{k}(t) | \dot{\varphi}_{m}(t) \rangle &=\dot{E}_{m}(t)\delta_{km} \end{aligned} ⟨ φ ˙ ​ k ​ ( t ) ∣ H ( t ) ∣ φ m ​ ( t )⟩ + ⟨ φ k ​ ( t ) ∣ H ( t ) ∣ φ ˙ ​ m ​ ( t )⟩ E m ​ ( t ) ⟨ φ ˙ ​ k ​ ( t ) ∣ φ m ​ ( t )⟩ + E k ​ ( t ) ⟨ φ k ​ ( t ) ∣ φ ˙ ​ m ​ ( t )⟩ ( E m ​ ( t ) − E k ​ ( t )) ⟨ φ k ​ ( t ) ∣ φ ˙ ​ m ​ ( t )⟩ ​ = E ˙ m ​ ( t ) δ k m ​ = E ˙ m ​ ( t ) δ k m ​ = E ˙ m ​ ( t ) δ k m ​ ​
+
+이때, m ≠ k m \neq k m  = k 일 때, 겹침이 없어 E m ( t ) ≠ E k ( t ) E_{m}(t) \neq E_{k}(t) E m ​ ( t )  = E k ​ ( t ) 라면, ⟨ φ k ( t ) ∣ φ ˙ m ( t ) ⟩ = 0 \langle \varphi_{k}(t) | \dot{\varphi}_{m}(t) \rangle=0 ⟨ φ k ​ ( t ) ∣ φ ˙ ​ m ​ ( t )⟩ = 0 임을 의미한다. 따라서 c ˙ k ( t ) + c k ( t ) ⟨ φ k ( t ) ∣ φ ˙ k ( t ) ⟩ = − i ℏ c k ( t ) E k ( t ) c ˙ k ( t ) = [ − i ℏ E k ( t ) − ⟨ φ k ( t ) ∣ φ ˙ k ( t ) ⟩ ] c k ( t ) \displaystyle \begin{aligned} \dot{c}_{k}(t) + c_{k}(t) \langle \varphi_{k}(t)|\dot{\varphi}_{k}(t) \rangle &= -\frac{i}{\hbar}c_{k}(t) E_{k}(t) \\\dot{c}_{k}(t) &=\left[-\frac{i}{\hbar} E_{k}(t)- \langle \varphi_{k}(t)|\dot{\varphi}_{k}(t) \rangle \right]c_{k}(t) \end{aligned} c ˙ k ​ ( t ) + c k ​ ( t ) ⟨ φ k ​ ( t ) ∣ φ ˙ ​ k ​ ( t )⟩ c ˙ k ​ ( t ) ​ = − ℏ i ​ c k ​ ( t ) E k ​ ( t ) = [ − ℏ i ​ E k ​ ( t ) − ⟨ φ k ​ ( t ) ∣ φ ˙ ​ k ​ ( t )⟩ ] c k ​ ( t ) ​
+
+이 미분 방정식의 해는 c m ( t ) = c m ( 0 ) exp ⁡ ( − i ℏ ∫ 0 t E m ( t ′ ) d t ′ ) exp ⁡ ( i ∫ 0 t i ⟨ φ m ( t ′ ) ∣ φ ˙ m ( t ′ ) ⟩ d t ′ ) \displaystyle \begin{aligned} c_{m}(t)=c_{m}(0)\exp{\biggl(-\frac{i}{\hbar}\int_{0}^{t} E_{m}(t')\,{\rm d}t' \biggr)}\exp{\biggl(i\int_{0}^{t}i \langle \varphi_{m}(t')|\dot{\varphi}_{m}(t') \rangle\,{\rm d}t' \biggr)} \end{aligned} c m ​ ( t ) = c m ​ ( 0 ) exp ( − ℏ i ​ ∫ 0 t ​ E m ​ ( t ′ ) d t ′ ) exp ( i ∫ 0 t ​ i ⟨ φ m ​ ( t ′ ) ∣ φ ˙ ​ m ​ ( t ′ )⟩ d t ′ ) ​
+
+이다. 한편, 초기 상태가 φ n \varphi_{n} φ n ​ 이었다면, c m ( 0 ) = δ n m c_{m}(0)=\delta_{nm} c m ​ ( 0 ) = δ nm ​ 이므로 Ψ ( t ) = φ n ( t ) exp ⁡ ( − i ℏ ∫ 0 t E n ( t ′ ) d t ′ ) exp ⁡ ( i ∫ 0 t i ⟨ φ n ( t ′ ) ∣ φ ˙ n ( t ′ ) ⟩ d t ′ ) \displaystyle \begin{aligned} \Psi(t)= \varphi_{n}(t)\exp{\biggl(-\frac{i}{\hbar}\int_{0}^{t} E_{n}(t')\,{\rm d}t' \biggr)}\exp{\biggl(i\int_{0}^{t}i \langle \varphi_{n}(t')|\dot{\varphi}_{n}(t') \rangle\,{\rm d}t' \biggr)} \end{aligned} Ψ ( t ) = φ n ​ ( t ) exp ( − ℏ i ​ ∫ 0 t ​ E n ​ ( t ′ ) d t ′ ) exp ( i ∫ 0 t ​ i ⟨ φ n ​ ( t ′ ) ∣ φ ˙ ​ n ​ ( t ′ )⟩ d t ′ ) ​
+
+결과식에서 보면, 단열 근사의 정의 대로 해당 상태가 유지되는 것으로 나왔다. 그러나, 두 위상이 붙게 되는데, 첫 번째 위상은 시간에 따른 고유 에너지에 의존하는 역학적 위상(dynamic phase factor) 이고, 두 번째 위상은 힐베르트 공간에서 고유 상태가 지나가는 경로에 의존하는 베리 위상(Berry phase) 또는 기하학적 위상(geometric phase factor) 이다.
+
+한편, ⟨ φ n ∣ φ n ⟩ = 1 \langle {\varphi}_{n}|{\varphi}_{n} \rangle =1 ⟨ φ n ​ ∣ φ n ​ ⟩ = 1 을 t t t 에 대하여 편미분하면
+
+⟨ φ ˙ n ( t ) ∣ φ n ( t ) ⟩ + ⟨ φ n ( t ) ∣ φ ˙ n ( t ) ⟩ = 0 ⟨ φ n ( t ) ∣ φ ˙ n ( t ) ⟩ ∗ + ⟨ φ n ( t ) ∣ φ ˙ n ( t ) ⟩ = 0 \begin{aligned} \langle \dot{\varphi}_{n}(t)|\varphi_{n}(t) \rangle+\langle \varphi_{n}(t)|\dot{\varphi}_{n}(t) \rangle &=0 \\ \langle \varphi_{n}(t)|\dot{\varphi}_{n}(t) \rangle^{\ast}+\langle \varphi_{n}(t)|\dot{\varphi}_{n}(t) \rangle &=0 \end{aligned} ⟨ φ ˙ ​ n ​ ( t ) ∣ φ n ​ ( t )⟩ + ⟨ φ n ​ ( t ) ∣ φ ˙ ​ n ​ ( t )⟩ ⟨ φ n ​ ( t ) ∣ φ ˙ ​ n ​ ( t ) ⟩ ∗ + ⟨ φ n ​ ( t ) ∣ φ ˙ ​ n ​ ( t )⟩ ​ = 0 = 0 ​
+이상에서 ⟨ φ n ( t ) ∣ φ ˙ n ( t ) ⟩ \langle \varphi_{n}(t)|\dot{\varphi}_{n}(t) \rangle ⟨ φ n ​ ( t ) ∣ φ ˙ ​ n ​ ( t )⟩ 는 순허수임을 알 수 있다. 따라서 i ⟨ φ n ( t ) ∣ φ ˙ n ( t ) ⟩ i\langle \varphi_{n}(t)|\dot{\varphi}_{n}(t) \rangle i ⟨ φ n ​ ( t ) ∣ φ ˙ ​ n ​ ( t )⟩ 는 실수이므로 베리 위상 인자에 포함된 적분의 결과는 실수이다.
+
+해밀토니언이 매개변수 R ( t ) \mathbf{R}(t) R ( t ) 에 의존한다고 생각해보자. 그렇게 되면,
+
+H ( R ( t ) ) ∣ φ n ( R ( t ) ) ⟩ = E n ( R ( t ) ) ∣ φ n ( R ( t ) ) ⟩ \begin{aligned} \mathcal{H}(\mathbf{R}(t)) | \varphi_{n}(\mathbf{R}(t)) \rangle=E_{n}(\mathbf{R}(t))| \varphi_{n}(\mathbf{R}(t)) \rangle \end{aligned} H ( R ( t )) ∣ φ n ​ ( R ( t ))⟩ = E n ​ ( R ( t )) ∣ φ n ​ ( R ( t ))⟩ ​
+이 성립하게 된다. 시간에 의존하는 슈뢰딩거 방정식으로부터 i ℏ ∂ ∂ t [ e i θ ( t ) e i γ ( t ) ∣ φ n ( t ) ⟩ ] = E n ( t ) e i θ ( t ) e i γ ( t ) ∣ φ n ( t ) ⟩ − ℏ γ ˙ ( t ) e i θ ( t ) e i γ ( t ) ∣ φ n ( t ) ⟩ + i ℏ e i θ ( t ) e i γ ( t ) ∣ φ ˙ n ( t ) ⟩ = H [ e i θ ( t ) e i γ ( t ) ∣ φ n ( t ) ⟩ ] \displaystyle \begin{aligned} &i\hbar \frac{\partial}{\partial t} [ e^{i \theta(t)}e^{i \gamma(t)} | \varphi_{n}(t) \rangle ] =E_{n}(t)e^{i \theta(t)}e^{i\gamma(t)}| \varphi_{n}(t) \rangle -\hbar \dot{\gamma}(t) e^{i \theta(t)}e^{i\gamma(t)}| \varphi_{n}(t) \rangle+i\hbar e^{i \theta(t)}e^{i\gamma(t)}| \dot{\varphi}_{n}(t) \rangle =\mathcal{H}[ e^{i \theta(t)}e^{i \gamma(t)} | \varphi_{n}(t) \rangle ] \end{aligned} ​ i ℏ ∂ t ∂ ​ [ e i θ ( t ) e iγ ( t ) ∣ φ n ​ ( t )⟩] = E n ​ ( t ) e i θ ( t ) e iγ ( t ) ∣ φ n ​ ( t )⟩ − ℏ γ ˙ ​ ( t ) e i θ ( t ) e iγ ( t ) ∣ φ n ​ ( t )⟩ + i ℏ e i θ ( t ) e iγ ( t ) ∣ φ ˙ ​ n ​ ( t )⟩ = H [ e i θ ( t ) e iγ ( t ) ∣ φ n ​ ( t )⟩] ​
+
+여기서 θ ( t ) \theta(t) θ ( t ) , γ ( t ) \gamma(t) γ ( t ) 는 각각 역학적 위상 인자, 베리 위상 인자이다. 양변을 φ n ( t ) \varphi_{n}(t) φ n ​ ( t ) 로 내적하면
+
+γ ˙ ( t ) = i ⟨ φ n ( t ) ∣ φ ˙ n ( t ) ⟩ \begin{aligned} \dot{\gamma}(t) =i \langle \varphi_{n}(t)| \dot{\varphi}_{n}(t) \rangle \end{aligned} γ ˙ ​ ( t ) = i ⟨ φ n ​ ( t ) ∣ φ ˙ ​ n ​ ( t )⟩ ​
+한편,
+
+φ ˙ n ( t ) = ∑ j ∂ φ n ∂ R j d R j d t = ∇ R φ n ⋅ d R d t \begin{aligned} \dot{\varphi}_{n}(t) =\sum_{j} \frac{\partial \varphi_{n}}{\partial R_{j}}\frac{{\rm d} R_{j}}{{\rm d} t} =\boldsymbol{\nabla}_{\mathbf{R}} \varphi_{n} \boldsymbol{\cdot} \frac{{\rm d}\mathbf{R}}{{\rm d}t} \end{aligned} φ ˙ ​ n ​ ( t ) = j ∑ ​ ∂ R j ​ ∂ φ n ​ ​ d t d R j ​ ​ = ∇ R ​ φ n ​ ⋅ d t d R ​ ​
+이다. 여기서 편미분의 연쇄 법칙을 사용했다.
+
+γ ˙ ( t ) = i ⟨ φ n ( t ) ∣ ∇ R φ n ( t ) ⟩ ⋅ d R d t \begin{aligned} \dot{\gamma}(t) =i \langle \varphi_{n}(t)| \boldsymbol{\nabla}_{\mathbf{R}}\varphi_{n}(t) \rangle \boldsymbol{\cdot } \frac{{\rm d}\mathbf{R}}{{\rm d}t} \end{aligned} γ ˙ ​ ( t ) = i ⟨ φ n ​ ( t ) ∣ ∇ R ​ φ n ​ ( t )⟩ ⋅ d t d R ​ ​
+양변을 t t t 에 대하여 적분하면
+
+γ ( t ) = ∫ R ( 0 ) R ( t ) i ⟨ φ n ( t ) ∣ ∇ R φ n ( t ) ⟩ ⋅ d R \begin{aligned} {\gamma}(t) = \int_{\mathbf{R}(0)}^{\mathbf{R}(t)} i\langle \varphi_{n}(t)| \boldsymbol{\nabla}_{\mathbf{R}}\varphi_{n}(t) \rangle \boldsymbol{\cdot } {\rm d}\mathbf{R} \end{aligned} γ ( t ) = ∫ R ( 0 ) R ( t ) ​ i ⟨ φ n ​ ( t ) ∣ ∇ R ​ φ n ​ ( t )⟩ ⋅ d R ​
+만약 R ( t ) \mathbf{R}(t) R ( t ) 의 경로가 닫힌 경로 C C C 라면
+
+γ = ∮ C i ⟨ φ n ( t ) ∣ ∇ R φ n ( t ) ⟩ ⋅ d R \begin{aligned} {\gamma} = \oint_{C} i\langle \varphi_{n}(t)| \boldsymbol{\nabla}_{\mathbf{R}}\varphi_{n}(t) \rangle \boldsymbol{\cdot } {\rm d}\mathbf{R} \end{aligned} γ = ∮ C ​ i ⟨ φ n ​ ( t ) ∣ ∇ R ​ φ n ​ ( t )⟩ ⋅ d R ​
+로 쓸 수 있다. 이 식은 아하로노프-봄 효과 를 베리 위상으로 해석할 수 있는 틀을 제공하게 된다.
+
+3.4. 예시 [편집]
+
+3.4.1. 전자기파에 의한 섭동 [편집]
+해당 전자기파는 단색광이며, z z z 축 방향으로 편광이 되어있다고 가정한다. 이때, 전자기파에 실린 전기장 부분은
+
+E ( t ) = E 0 e z e i k y e − i ω t \begin{aligned} \mathbf{E}(t)=E_{0}\mathbf{e}_{z}e^{iky}e^{-i\omega t} \end{aligned} E ( t ) = E 0 ​ e z ​ e ik y e − iω t ​
+이때, ω \omega ω 는 해당 전자기파의 진동수이다. 이때,
+
+e i k y = 1 + i k y + ⋯ \begin{aligned} e^{iky}=1+iky+\cdots \end{aligned} e ik y = 1 + ik y + ⋯ ​
+인데, λ ≪ a 0 \lambda \ll a_{0} λ ≪ a 0 ​ 정도를 만족한다면, k ≪ 1 k \ll 1 k ≪ 1 이 되어, 공간적인 성분을 무시할 수 있다. [3] a 0 a_{0} a 0 ​ 는 보어 반지름 이다. 따라서
+
+E ( t ) = E 0 e z e − i ω t \begin{aligned} \mathbf{E}(t)=E_{0}\mathbf{e}_{z}e^{-i\omega t} \end{aligned} E ( t ) = E 0 ​ e z ​ e − iω t ​
+한편, 패러데이 법칙
+
+∇ × E ( t ) = − ∂ B ( t ) ∂ t \begin{aligned} \boldsymbol{\nabla}\times \mathbf{E}(t)=-\frac{\partial \mathbf{B}(t)}{\partial t} \end{aligned} ∇ × E ( t ) = − ∂ t ∂ B ( t ) ​ ​
+인데, 자기장 부분의 경우
+
+B ( t ) = B 0 e x e i k y e − i ω t \begin{aligned} \mathbf{B}(t)=B_{0}\mathbf{e}_{x}e^{iky}e^{-i\omega t} \end{aligned} B ( t ) = B 0 ​ e x ​ e ik y e − iω t ​
+이므로 크기만 살펴보면
+
+k E 0 = ω B 0 → B 0 = E 0 c \begin{aligned} kE_{0}=\omega B_{0} \quad \to \quad B_{0}=\frac{E_{0}}{c} \end{aligned} k E 0 ​ = ω B 0 ​ → B 0 ​ = c E 0 ​ ​ ​
+이 성립한다. c c c 는 광속 이다. 로런츠 힘 에 따르면, 전하량 q q q 이고, 속력이 v v v 인 입자에 대하여 자기장에 의한 힘의 크기는 (시간적인 항은 고려하지 않았다.)
+
+F = q v B 0 = q E 0 ⋅ v c \begin{aligned} F=qvB_{0}=q E_{0} \cdot \frac{v}{c} \end{aligned} F = q v B 0 ​ = q E 0 ​ ⋅ c v ​ ​
+그런데, 일반적으로 v ≪ c v \ll c v ≪ c 를 만족하므로 자기장의 영향은 거의 받지 않는다고 생각할 수 있다. 따라서 섭동을 생각할 때, 자기장에 의한 것은 생각치 않고, 전기장에 의한 것만 생각한다.
+
+전기장에 대한 실수부만 취하면,
+
+E ( t ) = E 0 e z cos ⁡ ( ω t ) \begin{aligned} \mathbf{E}(t)=E_{0}\mathbf{e}_{z}\cos{(\omega t)} \end{aligned} E ( t ) = E 0 ​ e z ​ cos ( ω t ) ​
+이고, 이에 의한 섭동 해밀토니언은
+
+H ′ ( t ) = − q E 0 z cos ⁡ ( ω t ) \begin{aligned} \mathcal{H}'(t)=-qE_{0}z\cos{(\omega t)} \end{aligned} H ′ ( t ) = − q E 0 ​ z cos ( ω t ) ​
+인데, 이것은 명확히 위에서 보았던 "삼각함수형 섭동" 문제이다. 이에
+
+V b a = − q E 0 ⟨ φ b ∣ z ∣ φ a ⟩ ≡ − E 0 P \begin{aligned} V_{ba}=-qE_{0}\langle \varphi_{b}|z|\varphi_{a} \rangle \equiv -E_{0} \mathscr{P} \end{aligned} V ba ​ = − q E 0 ​ ⟨ φ b ​ ∣ z ∣ φ a ​ ⟩ ≡ − E 0 ​ P ​
+여기서 P = q ⟨ φ b ∣ z ∣ φ a ⟩ \mathscr{P}=q\langle \varphi_{b}|z|\varphi_{a} \rangle P = q ⟨ φ b ​ ∣ z ∣ φ a ​ ⟩ 는 전기 쌍극자 모멘트 로 정의한다. 따라서 천이할 확률은 다음과 같이 구할 수 있다.
+
+P a b ( t ) = E 0 2 ∣ P ∣ 2 ℏ 2 sin ⁡ 2 ( ω b a − ω 2 t ) ( ω b a − ω ) 2 \begin{aligned} P_{ab}(t) &=\frac{E_{0}^{2}|\mathscr{P}|^{2}}{\hbar^2}\frac{\sin^2{\biggl( \dfrac{\omega_{ba}-\omega}{2}t \biggr)}}{(\omega_{ba}-\omega)^2} \end{aligned} P ab ​ ( t ) ​ = ℏ 2 E 0 2 ​ ∣ P ∣ 2 ​ ( ω ba ​ − ω ) 2 sin 2 ( 2 ω ba ​ − ω ​ t ) ​ ​
+
+한편, 포인팅 벡터 문서를 통해 전자기파에 저장된 에너지는 에너지 밀도로 나타낼 수 있다고 했다.
+
+u = ε 0 E 2 = ε 0 E 0 2 cos ⁡ 2 ( ω t ) \begin{aligned} u=\varepsilon_{0} E^{2}=\varepsilon_{0} E_{0}^{2}\cos^{2}{(\omega t)} \end{aligned} u = ε 0 ​ E 2 = ε 0 ​ E 0 2 ​ cos 2 ( ω t ) ​
+그런데, 이것을 시간에 대한 평균을 취하면
+
+u = 1 2 ε 0 E 0 2 \begin{aligned} u =\frac{1}{2}\varepsilon_{0} E_{0}^{2} \end{aligned} u = 2 1 ​ ε 0 ​ E 0 2 ​ ​
+이것을 이용하여
+
+P a b ( t ) = 2 u ∣ P ∣ 2 ε 0 ℏ 2 sin ⁡ 2 ( ω b a − ω 2 t ) ( ω b a − ω ) 2 \begin{aligned} P_{ab}(t) &=\frac{2u|\mathscr{P}|^{2}}{\varepsilon_{0}\hbar^2}\frac{\sin^2{\biggl( \dfrac{\omega_{ba}-\omega}{2}t \biggr)}}{(\omega_{ba}-\omega)^2} \end{aligned} P ab ​ ( t ) ​ = ε 0 ​ ℏ 2 2 u ∣ P ∣ 2 ​ ( ω ba ​ − ω ) 2 sin 2 ( 2 ω ba ​ − ω ​ t ) ​ ​
+이것은 단색광의 결과이고, 약간의 주파수 분포가 있는 광을 사용한다면, 에너지 밀도는
+
+u = ρ ( ω ) d ω \begin{aligned} u=\rho(\omega)\,{\rm d}\omega \end{aligned} u = ρ ( ω ) d ω ​
+로 나타낼 수 있다. ρ ( ω ) \rho(\omega) ρ ( ω ) 는 구간 [ ω , ω + d ω ] [\omega,\,\omega+{\rm d}\omega ] [ ω , ω + d ω ] 에서 주파수에 따른 에너지 밀도이다.
+
+이에 따라 확률은 모든 ω \omega ω 에 대한 것의 합으로 나타난다. P a b ( t ) = 2 ∣ P ∣ 2 ε 0 ℏ 2 ∫ − ∞ ∞ ρ ( ω ) ⋅ sin ⁡ 2 ( ω b a − ω 2 t ) ( ω b a − ω ) 2 d ω \displaystyle \begin{aligned} P_{ab}(t) &=\frac{2|\mathscr{P}|^{2}}{\varepsilon_{0}\hbar^2} \int_{-\infty}^{\infty} \rho(\omega) \cdot \frac{\sin^2{\biggl( \dfrac{\omega_{ba}-\omega}{2}t \biggr)}}{(\omega_{ba}-\omega)^2} \,{\rm d}\omega \end{aligned} P ab ​ ( t ) ​ = ε 0 ​ ℏ 2 2∣ P ∣ 2 ​ ∫ − ∞ ∞ ​ ρ ( ω ) ⋅ ( ω ba ​ − ω ) 2 sin 2 ( 2 ω ba ​ − ω ​ t ) ​ d ω ​
+
+ρ ( ω ) \rho(\omega) ρ ( ω ) 가 ω 0 \omega_{0} ω 0 ​ 근방에서 피크를 이룬다면, 즉 해당 주파수 근방의 광을 쓴다면, 적분은 다음과 같이 쓸 수 있다. P a b ( t ) = 2 ∣ P ∣ 2 ρ ( ω 0 ) ε 0 ℏ 2 ∫ − ∞ ∞ sin ⁡ 2 ( ω b a − ω 2 t ) ( ω b a − ω ) 2 d ω = π ∣ P ∣ 2 ρ ( ω 0 ) ε 0 ℏ 2 t \displaystyle \begin{aligned} P_{ab}(t) &=\frac{2|\mathscr{P}|^{2}\rho(\omega_{0})}{\varepsilon_{0}\hbar^2} \int_{-\infty}^{\infty} \frac{\sin^2{\biggl( \dfrac{\omega_{ba}-\omega}{2}t \biggr)}}{(\omega_{ba}-\omega)^2} \,{\rm d}\omega \\&=\frac{\pi |\mathscr{P}|^{2}\rho(\omega_{0} )}{\varepsilon_{0}\hbar^2}t \end{aligned} P ab ​ ( t ) ​ = ε 0 ​ ℏ 2 2∣ P ∣ 2 ρ ( ω 0 ​ ) ​ ∫ − ∞ ∞ ​ ( ω ba ​ − ω ) 2 sin 2 ( 2 ω ba ​ − ω ​ t ) ​ d ω = ε 0 ​ ℏ 2 π ∣ P ∣ 2 ρ ( ω 0 ​ ) ​ t ​
+
+천이율은 R a b = P ˙ a b R_{ab}=\dot{P}_{ab} R ab ​ = P ˙ ab ​ 로 주어지므로
+
+R a b ( t ) = π ∣ P ∣ 2 ρ ( ω 0 ) ε 0 ℏ 2 \begin{aligned} R_{ab}(t) =\frac{\pi |\mathscr{P}|^{2}\rho(\omega_{0} )}{\varepsilon_{0}\hbar^2} \end{aligned} R ab ​ ( t ) = ε 0 ​ ℏ 2 π ∣ P ∣ 2 ρ ( ω 0 ​ ) ​ ​
+이는 앞서 지적했듯 주파수에 분포가 있을 경우 천이율이 진동하지 않고, 시간에 비례하게 나타나게 된다.
+
+이번에는 편광되지 않은 빛을 다뤄보자. 이 경우
+
+P = q ⟨ φ b ∣ r ∣ φ a ⟩ \begin{aligned} \mathscr{P}=q\langle \varphi_{b}| \mathbf{r} |\varphi_{a} \rangle \end{aligned} P = q ⟨ φ b ​ ∣ r ∣ φ a ​ ⟩ ​
+로 쓸 수 있을 것이다. 이제 이 전기 쌍극자의 공간적인 평균을 구하자. 이것을 구하려면 한 방향( e n \mathbf{e}_{n} e n ​ 으로 설정)을 설정하고, P ⋅ e n \mathscr{P} \boldsymbol{\cdot} \mathbf{e}_{n} P ⋅ e n ​ 에 대한 평균을 구하면 된다.
+
+위 그림과 같이 e n \mathbf{e}_{n} e n ​ 이 z z z 축 위에 놓인 좌표계를 사용하면 구면 좌표계 형식을 사용할 수 있다.
+
+P ⋅ e n = P cos ⁡ θ \begin{aligned} \mathscr{P}\boldsymbol{\cdot} \mathbf{e}_{n}=\mathscr{P}\cos{\theta}\end{aligned} P ⋅ e n ​ = P cos θ ​
+이것의 제곱을 온 입체각에 대해 적분한 뒤 (우리는 ∣ V b a ∣ 2|V_{ba}|^2 ∣ V ba ​ ∣ 2 을 고려하고 있음을 상기하라.) 온 공간의 입체각인 4 π 4 \pi 4 π 로 나눠준다.
+
+∣ P ∣ 2 ‾ = 1 4 π ∮ Ω ∣ P ∣ 2 cos ⁡ 2 θ d Ω = ∣ P ∣ 2 3 \begin{aligned} \overline{|\mathscr{P}|^2}&=\frac{1}{4\pi}\oint_{\Omega} |\mathscr{P}|^{2} \cos^{2}{\theta}\, {\rm d}\Omega \\&=\frac{|\mathscr{P}|^{2}}{3} \end{aligned} ∣ P ∣ 2 ​ ​ = 4 π 1 ​ ∮ Ω ​ ∣ P ∣ 2 cos 2 θ d Ω = 3 ∣ P ∣ 2 ​ ​
+따라서 이 경우 천이율은 다음과 같이 주어진다.
+
+R a b ( t ) = π ∣ P ∣ 2 ρ ( ω 0 ) 3 ε 0 ℏ 2 \begin{aligned} R_{ab}(t) =\frac{\pi |\mathscr{P}|^{2}\rho(\omega_{0} )}{3\varepsilon_{0}\hbar^2} \end{aligned} R ab ​ ( t ) = 3 ε 0 ​ ℏ 2 π ∣ P ∣ 2 ρ ( ω 0 ​ ) ​ ​
+
+3.4.2. 아하로노프-봄 효과 [편집]
+자세한 내용은 아하로노프-봄 효과 문서를 참고하십시오.
+
+4. 한계 [편집]
+해밀토니언 의 변화가 다소 크거나, 혹은 수소 원자를 넘어서 헬륨 원자나 수소 분자 이온 H 2 + \mathrm{H_2^+} H 2 + ​ 등의 복잡한 계를 다루게 될 때는 이 섭동 이론조차 제대로 맞지 않는 경우가 생겨서, WKB 근사법 이나 변분 원리 등의 다른 근사법을 도입해야 된다.
+
+그런데, 만약 짧은 시간동안만 상호작용하면 섭동이 일어난다는 사실 [4] 과, 유한한 시간동안 섭동이 일어나는 횟수는 짧은시간을 무수히 나눈 수만큼 반복됨을 이용하면, 해밀토니안의 변화가 작지 않더라도 계산이 가능하다는 것을 알 수 있다. 다만, 계산이 가능할 뿐 여전히 문제가 남게 되는데, 입자물리학에서 에너지가 높아지면 높아질 수록 양자 상태가 붕괴하여 다른 입자로 바뀔 확률이 무한대로 향하는 문제가 발생한다. 이것 또한 해결할 수 있는 방도가 있는데, 그것이 바로 재규격화 (renormalization)이다.
+
+[1] 직교성, 직교화 가능성 또한 계산 시 위상 인자가 상쇄되기에 본래 함수와 같은 성질을 만족시키게 된다. [2] 단, 해당 문서에서 나온 고유함수는 [ 0 , L ] [0, L] [ 0 , L ] 구간에 대한 해 임에 유의한다. [3] 물론 감마선 과 같이 파장이 짧은 전자기파의 경우 해당 근사를 사용할 수 없다. [4] 단, 해밀토니언 의 변화량이 무한대가 되어선 안된다. 이 문서의 내용 중 전체 또는 일부는 기하학적 위상 문서의 r7 판에서 가져왔습니다. 이전 역사 보러 가기
+
+[ 남동구이사 하나로퀵
+www.1577-3410.com
+[ [ 기사실명제퀵 ] [ 빠르게배송퀵 ] [ 퀵서비스전문 ] [ 배송배달조회 ] ]
+배달 서비스는 기념일이나 행사에 필수적이며, 퀵 시스템과 결합되어 당일 배송지원퀵
+
+] | [ 한국로지스 !친절배송!
+www.18332442.co.kr v-if
+한국로지스, 포장이사, 리프트화물, 용달, 전국당일특송 365일 가능합니다.
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

@@ -1,0 +1,149 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 유수
+최근 수정 시각: 2026-04-09 09:38:04 [ [ [ ] [ [ 1 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 해석학(수학)
+]
+
+[ [ ] [ 동음이의어에 대한 내용은 유수(동음이의어) 문서를 참고하십시오.
+해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 설명 2.1 . 고립 특이점 2.2 . 무한대 3 . 유수 정리
+
+1. 개요 [편집]
+residue · 留 數
+
+복소해석학 에서 선적분 을 했을 때 남는 부분이다. [1]
+
+2. 설명 [편집]
+
+2.1. 고립 특이점 [편집]
+z = z 0 z=z_0 z = z 0 ​ 가 함수 w = f ( z ) w=f(z) w = f ( z ) 의 고립특이점 이면 0 < ∣ z − z 0 ∣ < R 0 < |z-z_0| < R 0 < ∣ z − z 0 ​ ∣ < R 인 모든 z z z 에 대하여 해석적이면 로랑의 정리 에 의하여 f ( z ) = ∑ n = − ∞ ∞ a n ( z − z 0 ) n \displaystyle f(z) = \sum_{n=-\infty}^\infty a_n (z-z_0)^n f ( z ) = n = − ∞ ∑ ∞ ​ a n ​ ( z − z 0 ​ ) n
+
+와 같이 나타낼 수 있고, 곡선 C C C 가 z 0 z_0 z 0 ​ 의 근방 에 포함되면서 양의 방향으로 회전하는 단순닫힌곡선이면 계수 a n a_n a n ​ 은 a n = 1 2 π i ∫ C f ( z ) ( z − z 0 ) n + 1 d z \begin{aligned} a_n = \frac1{2\pi i} \int_C \frac{f(z)}{(z-z_0)^{n+1}} \,{\rm d}z \end{aligned} a n ​ = 2 π i 1 ​ ∫ C ​ ( z − z 0 ​ ) n + 1 f ( z ) ​ d z ​
+
+이다.
+
+특히 a n a_n a n ​ 에서 n = − 1 n=-1 n = − 1 일 때 계수 b 1 = a − 1 = 1 2 π i ∫ C f ( z ) d z \begin{aligned} b_1 = a_{-1} = \frac1{2\pi i} \int_C f(z) \,{\rm d}z \end{aligned} b 1 ​ = a − 1 ​ = 2 π i 1 ​ ∫ C ​ f ( z ) d z ​
+
+를 고립특이점 z = z 0 z=z_0 z = z 0 ​ 에서 f ( z ) f(z) f ( z ) 의 유수 라 하고 이것을 Res ⁡ z = z 0 f ( z ) \underset{z=z_0}{\operatorname{Res}} \,f(z) z = z 0 ​ Res ​ f ( z ) 혹은 Res ⁡ ( f , z 0 ) \operatorname{Res}(f, z_0) Res ( f , z 0 ​ ) 와 같이 표시한다. 만약 z = z 0 z=z_0 z = z 0 ​ 가 f ( z ) f(z) f ( z ) 의 없앨 수 있는 특이점이면 Res ⁡ z = z 0 f ( z ) = 0 \underset{z=z_0}{\operatorname{Res}} \,f(z) = 0 z = z 0 ​ Res ​ f ( z ) = 0 이다. 그런데 z 0 z_0 z 0 ​ 이 진성특이점이라면, 유수는 경우마다 각각 계산을 따로 해야 한다.
+
+극점일 경우도 조금 계산이 귀찮아지는데, 먼저 해당 극점의 계수 m m m 을 알아내야 하며, 그 때는 복소해석학 의 2.2.1번 문단의 내용대로 계산해야 한다.
+
+2.2. 무한대 [편집]
+함수 f f f 가 어떤 양수 R 1 R_1 R 1 ​ 에 대하여 R 1 < ∣ z ∣ < ∞ R_1 < |z| < \infty R 1 ​ < ∣ z ∣ < ∞ 의 영역의 모든 점에서 해석적 이라고 하자. 그러면 이 함수 f ( z ) f(z) f ( z ) 는 z 0 = ∞ z_0=\infty z 0 ​ = ∞ 에서 고립특이점을 갖는다고 정의한다.
+
+그러면 어떤 양수 R 1 R_1 R 1 ​ 보다 큰 R 0 R_0 R 0 ​ 에 대하여, C 0 = R 0 e − i t C_0 = R_0 e^{-it} C 0 ​ = R 0 ​ e − i t 라는 원점을 중심으로 한 반지름 R 0 R_0 R 0 ​ 의 시계방향 궤도. 즉 무한원점 [2] 에 대한 반시계방향의 궤도에 대하여 [3] , 유수의 정의에 따라 다음이 성립한다. Res ⁡ z = ∞ f ( z ) = 1 2 π i ∮ C 0 f ( z ) d z \begin{aligned} \underset{z=\infty}{\operatorname{Res}} \,f(z) = \frac1{2\pi i} \oint_{C_0} f(z) \,{\rm d}z \end{aligned} z = ∞ Res ​ f ( z ) = 2 π i 1 ​ ∮ C 0 ​ ​ f ( z ) d z ​
+
+단, 일반적으로 원점을 중심으로 하는 원의 궤도를 반시계방향을 양의 방향으로 잡는 관습에 따르려면, C ′ = R 0 e i t C' = R_0 e^{it} C ′ = R 0 ​ e i t 라는 방향만 반대인 궤도를 잡아서 다음과 같이 바꿀 수 있다. Res ⁡ z = ∞ f ( z ) = − 1 2 π i ∮ C ′ f ( z ) d z \begin{aligned} \underset{z=\infty}{\operatorname{Res}} \,f(z) = -\frac1{2\pi i} \oint_{C'} f(z) \,{\rm d}z \end{aligned} z = ∞ Res ​ f ( z ) = − 2 π i 1 ​ ∮ C ′ ​ f ( z ) d z ​
+
+이 양수 R 1 R_1 R 1 ​ 은 그보다 큰 원을 그렸을 때 그 외부가 전부 해석적이므로 반대로 말하면 원의 내부에 해석적이지 않은 특이점이 전부 존재한다 . 즉, 원 내부의 특이점을 z k z_k z k ​ 라고 두면, R 1 > max ⁡ ∣ z k ∣ R_1 > \max{|z_k|} R 1 ​ > max ∣ z k ​ ∣ 가 된다.
+따라서, 위의 식을 다시 말하면 다음과 같게 된다. Res ⁡ z = ∞ f ( z ) = − 1 2 π i ∮ C ′ f ( z ) d z = − ∑ k = 1 n Res ⁡ z = z n f ( z ) \begin{aligned} \underset{z=\infty}{\operatorname{Res}} \,f(z) &= -\frac1{2\pi i} \oint_{C'} f(z) \,{\rm d}z \\ &= -\sum_{k=1}^n \underset{z=z_n}{\operatorname{Res}} \,f(z) \end{aligned} z = ∞ Res ​ f ( z ) ​ = − 2 π i 1 ​ ∮ C ′ ​ f ( z ) d z = − k = 1 ∑ n ​ z = z n ​ Res ​ f ( z ) ​
+
+여기서 ∑ k = 1 n Res ⁡ z = z n f ( z ) \displaystyle \sum_{k=1}^n \underset{z=z_n}{\operatorname{Res}} \,f(z) k = 1 ∑ n ​ z = z n ​ Res ​ f ( z ) 는 해당 범위의 f f f 의 모든 특이점의 유수의 합이다.
+
+여기까지의 결론에서 아래의 유수 정리 항목에 있는 Res ⁡ z = ∞ f ( z ) + ∑ i = 1 n Res ⁡ z = z k f ( z ) = 0 \displaystyle \underset{z=\infty}{\operatorname{Res}} \,f(z) +\sum_{i=1}^n \underset{z=z_k}{\operatorname{Res}} \,f(z) = 0 z = ∞ Res ​ f ( z ) + i = 1 ∑ n ​ z = z k ​ Res ​ f ( z ) = 0 이 유도된다.
+또한, 이 식을 대수적으로 조금 만지작거리면 다음 식이 유도된다. Res ⁡ z = ∞ f ( z ) = − Res ⁡ w = 0 1 w 2 f ( 1 w ) \begin{aligned} \underset{z=\infty}{\operatorname{Res}} \,f(z) = -\underset{w=0}{\operatorname{Res}} \,\frac1{w^2} f \biggl(\frac1w \biggr) \end{aligned} z = ∞ Res ​ f ( z ) = − w = 0 Res ​ w 2 1 ​ f ( w 1 ​ ) ​
+
+[유도과정 펼치기·접기] w = 1 z w=\cfrac1z w = z 1 ​ 라는 새로운 매개변수를 두자.
+먼저 d w {\rm d}w d w 를 구하자. 위의 매개식을 변환하여 z = 1 w z=\cfrac1w z = w 1 ​ 로 바꾸고, 양변을 w w w 에 대하여 미분하면, d z d w = − 1 w 2 \cfrac{{\rm d}z}{{\rm d}w} = -\cfrac1{w^2} d w d z ​ = − w 2 1 ​
+따라서 d z = − 1 w 2 d w {\rm d}z = -\cfrac1{w^2} \,{\rm d}w d z = − w 2 1 ​ d w 가 된다.
+이제 여기서 구한 d w {\rm d}w d w 를 Res ⁡ z = ∞ f ( z ) = − 1 2 π i ∮ C ′ f ( z ) d z \displaystyle \begin{aligned} \underset{z=\infty}{\operatorname{Res}} \,f(z) = -\frac1{2\pi i} \oint_{C'} f(z) \,{\rm d}z \end{aligned} z = ∞ Res ​ f ( z ) = − 2 π i 1 ​ ∮ C ′ ​ f ( z ) d z ​
+
+에 대입하자. 이때, 궤도 C ′ C' C ′ 는 사상 w = 1 w w=\cfrac1w w = w 1 ​ 에 의해서 새로운 궤도 C ‾ : = 1 R 0 e − i t \overline C := \cfrac1{R_0} e^{-it} C := R 0 ​ 1 ​ e − i t 로 치환된다. 이 궤도는 자명하게 회전방향이 반대다 . Res ⁡ z = ∞ f ( z ) = − 1 2 π i ∮ C ′ f ( z ) d z = 1 2 π i ∮ C ‾ f ( 1 w ) 1 w 2 d w \begin{aligned} \underset{z=\infty}{\operatorname{Res}} \,f(z) &= -\frac1{2\pi i} \oint_{C'} f(z) \,{\rm d}z \\ &= \frac1{2\pi i} \oint_{\overline{C}} f \biggl(\frac1w \biggr) \frac1{w^2} \,{\rm d}w \end{aligned} z = ∞ Res ​ f ( z ) ​ = − 2 π i 1 ​ ∮ C ′ ​ f ( z ) d z = 2 π i 1 ​ ∮ C ​ f ( w 1 ​ ) w 2 1 ​ d w ​
+
+C ‾ \overline C C 는 시계방향의 궤도이므로 다시 반시계방향의 궤도로 바꾸기 위해 C ‾ ′ : = 1 R 0 e i t \overline C' := \cfrac1{R_0} e^{it} C ′ := R 0 ​ 1 ​ e i t 로 치환하자. 적분궤도는 같지만 적분방향이 바뀌었으므로 부호는 − - − 가 붙는다.
+
+따라서 Res ⁡ z = ∞ f ( z ) = − 1 2 π i ∮ C ‾ ′ f ( 1 w ) 1 w 2 d w \begin{aligned} \underset{z=\infty}{\operatorname{Res}} \,f(z) = -\frac1{2\pi i} \oint_{\overline{C}'} f \biggl(\frac1w \biggr) \frac1{w^2} \,{\rm d}w \end{aligned} z = ∞ Res ​ f ( z ) = − 2 π i 1 ​ ∮ C ′ ​ f ( w 1 ​ ) w 2 1 ​ d w ​
+
+가 되고, 이를 유수의 일반적인 표기법으로 정리하면 Res ⁡ z = ∞ f ( z ) = − 1 2 π i ∮ C ‾ ′ f ( 1 w ) 1 w 2 d w = − Res ⁡ w = 0 1 w 2 f ( 1 w ) \begin{aligned} \underset{z=\infty}{\operatorname{Res}} \,f(z) &= -\frac1{2\pi i} \oint_{\overline{C}'} f \biggl(\frac1w \biggr) \frac1{w^2} \,{\rm d}w \\ &= -\underset{w=0}{\operatorname{Res}} \,\frac1{w^2} f \biggl(\frac1w \biggr) \end{aligned} z = ∞ Res ​ f ( z ) ​ = − 2 π i 1 ​ ∮ C ′ ​ f ( w 1 ​ ) w 2 1 ​ d w = − w = 0 Res ​ w 2 1 ​ f ( w 1 ​ ) ​
+
+가 된다.
+
+3. 유수 정리 [편집]
+함수 f ( z ) f(z) f ( z ) 가 단일 닫힌곡선 C C C 의 내부에 있는 유한개의 고립특이점 z 1 , z 2 , ⋯ ⁣ , z n z_1, z_2, \cdots\!, z_n z 1 ​ , z 2 ​ , ⋯ , z n ​ 을 제외하고 C C C 의 내부와 위에서 해석적이라 하자. 그러면 z k z_k z k ​ (단, k = 1 , 2 , ⋯ ⁣ , n k = 1, 2, \cdots\!, n k = 1 , 2 , ⋯ , n )에서 유수가 Res ⁡ z = z k f ( z ) \underset{z=z_k}{\operatorname{Res}} \,f(z) z = z k ​ Res ​ f ( z ) 이면 다음이 성립한다. ∫ C f ( z ) d z = 2 π i ∑ k = 1 n Res ⁡ z = z k f ( z ) \begin{aligned} \int_C f(z) \,{\rm d}z = 2\pi i \sum_{k=1}^n \underset{z=z_k}{\operatorname{Res}} \,f(z) \end{aligned} ∫ C ​ f ( z ) d z = 2 π i k = 1 ∑ n ​ z = z k ​ Res ​ f ( z ) ​
+
+증명 각 특이점 z 1 , z 2 , ⋯ ⁣ , z n z_1, z_2, \cdots\!, z_n z 1 ​ , z 2 ​ , ⋯ , z n ​ 을 중심으로 하고, C C C 의 내부에 서로 겹치지 않는 원을 각각 C 1 , C 2 , ⋯ ⁣ , C n C_1, C_2, \cdots\!, C_n C 1 ​ , C 2 ​ , ⋯ , C n ​ 을 나타내고, 각 원의 방향을 C C C 와 같은 방향으로 하면 코시 의 적분 공식에 의하여
+
+∫ C f ( z ) d z = ∫ C 1 f ( z ) d z + ∫ C 2 f ( z ) d z + ⋯ + ∫ C n f ( z ) d z \begin{aligned} \int_C f(z) \,{\rm d}z = \int_{C_1} f(z) \,{\rm d}z +\int_{C_2} f(z) \,{\rm d}z +\cdots +\int_{C_n} f(z) \,{\rm d}z \end{aligned} ∫ C ​ f ( z ) d z = ∫ C 1 ​ ​ f ( z ) d z + ∫ C 2 ​ ​ f ( z ) d z + ⋯ + ∫ C n ​ ​ f ( z ) d z ​
+이다.
+여기서 z = z k z=z_k z = z k ​ (단, k = 1 , 2 , ⋯ ⁣ , n k=1, 2, \cdots\!, n k = 1 , 2 , ⋯ , n )에 대한 유수의 정의를 적용하면
+
+Res ⁡ z = z k f ( z ) = 1 2 π i ∫ C k f ( z ) d z \begin{aligned} \underset{z=z_k}{\operatorname{Res}} \,f(z) = \frac1{2\pi i} \int_{C_k} f(z) \,{\rm d}z \end{aligned} z = z k ​ Res ​ f ( z ) = 2 π i 1 ​ ∫ C k ​ ​ f ( z ) d z ​
+이므로 코시 적분공식에 의하여 구해진 식을 통하여 다음의 결과가 성립한다.
+
+∫ C f ( z ) d z = 2 π i ∑ k = 1 n Res ⁡ z = z k f ( z ) \begin{aligned} \int_C f(z) \,{\rm d}z = 2\pi i \sum_{k=1}^n \underset{z=z_k}{\operatorname{Res}} \,f(z) \end{aligned} ∫ C ​ f ( z ) d z = 2 π i k = 1 ∑ n ​ z = z k ​ Res ​ f ( z ) ​
+
+무한대에서는 ∑ k = 1 n Res ⁡ z = z k f ( z ) + Res ⁡ z = ∞ f ( z ) = 0 \begin{aligned} \sum_{k=1}^n \underset{z=z_k}{\operatorname{Res}} \,f(z) + \underset{z=\infty}{\operatorname{Res}} \,f(z) = 0 \end{aligned} k = 1 ∑ n ​ z = z k ​ Res ​ f ( z ) + z = ∞ Res ​ f ( z ) = 0 ​
+
+으로 간략하게 표현할 수 있다.
+
+[ 남동구열쇠 쿠팡
+www.coupang.com v-if
+[ [ 로켓배송 ] [ 로켓직구 ] [ 골드박스 ] [ 로켓프레시 ] ]
+합리적인 가격의 남동구열쇠, 쿠팡에서 실속있게 구매하세요.
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 그루클린
+www.guruclean.co.kr v-if
+[ [ 입주청소 ] [ 줄눈시공 ] [ 나노코팅 ] [ 에어컨청소 ] ]
+프리미엄 홈케어 서비스 줄눈시공,나노코팅,입주청,상판코팅 믿고 맡길수있는 그루클린
+
+]
+
+[1] 쉽게 말하면 초등학교 3학년 수학 에서 나눗셈 을 하면 나오는 나머지 와 비슷하다. [2] 절대값이 ∞ \infty ∞ 인 모든 점을 콤팩트화한 가상의 점. [3] 원점을 중심으로 하면 시계방향은 음의 방향으로 취급하지만, 내부를 회전방향의 좌측으로 두는 관습에 따르면 무한원점을 중심으로 하는 반지름 ∞ \infty ∞ 의 원 의 내부로 만드는 양의 방향은 시계방향이 된다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

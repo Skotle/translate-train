@@ -1,0 +1,154 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 그린 정리
+최근 수정 시각: 2026-01-05 01:12:30 [ [ [ ] [ [ 5 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 미적분
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 공식과 조건 3 . 역사 3.1 . 헤르만 한켈의 그린정리 3.2 . 오귀스탱루이 코시의 사용 예 3.2.1 . 공식의 전개 4 . 복소해석학 에서의 그린 정리 5 . 관련 문서
+
+1. 개요 [편집]
+그린 정리(Green's theorem)는 단순한 평면 영역의 조각적으로 매끄러운(piecewise smooth) 폐곡선에서 경계선인 선적분은 이를 분할한 경계선들에서 이중 적분으로 바꾸어 표현해도 서로 같다는 정리이다. 이것은 '곡면의 모양과는 상관없이 분할된 곡면과 곡면 내부의 벡터의 회전(curl)은 결국 곡면의 테두리에 의해서만 결정된다'는 스토크스 정리 의 2차원(2D) 표현으로도 이해해 볼 수 있는데 이것은 이들의 공통된 맥락이 시계반대방향으로 선적분 할 때 테두리 또는 안쪽 분할선에서 서로 뒤바뀐 부호를 얻게 되기 때문이다. 이것은 회전연산자 컬 (curl) 기호로는 ∇ × \nabla \times ∇ × 또는 c u r l ( ) curl() c u r l ( ) 과 주요한 관련이 있다.
+
+2. 공식과 조건 [편집]
+2차원에서 회전정리로 적용되는 그린 정리 [나]
+∮ ∂ A ( X d x + Y d y ) = ∬ A ( ∂ Y ∂ x − ∂ X ∂ y ) d S \displaystyle \oint_{\partial A} (X\,{\rm d}x + Y\,{\rm d}y) = \iint_A \biggl( \frac{\partial Y}{\partial x} - \frac{\partial X}{\partial y} \biggr) {\rm d}S ∮ ∂ A ​ ( X d x + Y d y ) = ∬ A ​ ( ∂ x ∂ Y ​ − ∂ y ∂ X ​ ) d S
+한편
+∮ C ( X d x + Y d y ) = ∮ ∂ A ( X d x + Y d y ) \displaystyle \oint_{C} (X\,{\rm d}x + Y\,{\rm d}y) = \displaystyle \oint_{\partial A} (X\,{\rm d}x + Y\,{\rm d}y) ∮ C ​ ( X d x + Y d y ) = ∮ ∂ A ​ ( X d x + Y d y )
+분할된 테두리에서 경계선 C {C} C 는 편미분 ∂ A {\partial A} ∂ A 에 해당한다. 따라서 끊김이 없어야 한다는 조건이 전제된다. 이러한 조건들의 예는 다음과 같다.
+
+1. 끊김이 없거나 빠진 지점이 없는 단순한 폐곡선은 시계 반대방향으로 선적분 할 때 분할된 경계선에서 서로 뒤바뀐 부호를 얻도록 보장한다. [2] [가]
+2. 고리모양(annulus)같은 뚫린 구멍 영역(area)이 있는 평면 영역이 안쪽 분할선에서 서로 뒤바뀐 부호를 얻도록 역시 보장한다면 따라서 그린 정리를 불안정하지 않게 확장해서 사용할 수 있다. [가]
+
+3. 역사 [편집]
+영국의 수학자 조지 그린 (George Green)이 1828년 그의 저서 <An Essay on the Application of Mathematical Analysis to the Theories of Electricity and Magnetism>(직역:전기 및 자기 이론에 대한 수학적 분석의 적용에 관한 에세이) [5] 에서 이와 관련된 주요한 그린 함수 (Green function)를 설명하였다. [6] 이후 1846년에 경계조건 (boundary condition)을 다루는 그린함수(Green function를 기반으로하는 지금의 그린 정리(Green theorem)에 해당하는 내용을 오귀스탱루이 코시 (Augustin-Louis Cauchy)가 '적분 계산-폐곡선의 모든 점으로 확장되는 적분'(calcul INTÉGRAL -Sur les intégrales qui s'étendent à tous les points d'une courbe fermée)이라는 제목으로 실린 아카데미 저널 발표자료에서 구체적으로 이를 구현해서 사용한바있다. [나]
+
+이러한 그린정리는 역사적으로 1813년을 전후한 가우스 정리로 알려진 발산 정리 를 시작으로 출발했으며 1861년 헤르만 한켈(Hermann Hankel)이 이를 스토크스 정리 를 증명하는데 사용했다고 보고하고있다. 윌리엄 로원 해밀턴 (William Rowan Hamilton)에 의해 행렬에서 발산(divergence),회전(curl)이 추가로 정립되고 증명되었다. [8] [9]
+
+3.1. 헤르만 한켈의 그린정리 [편집]
+1861년 헤르만 한켈(Hermann Hankel) 표현식
+∫ ξ d x + η d y = ∬ ( d ξ d y − d η d x ) d x d y \displaystyle \int \xi dx + \eta dy = \iint \left( \frac{d \xi}{d y} - \frac{d \eta}{dx} \right) dxdy ∫ ξ d x + η d y = ∬ ( d y d ξ ​ − d x d η ​ ) d x d y
+
+3.2. 오귀스탱루이 코시의 사용 예 [편집]
+편미분 D D D 에서 오귀스탱루이 코시의 사용 예 [나]
+k = X D s x + Y D s y k = X D_s x + Y D_s y k = X D s ​ x + Y D s ​ y
+∫ k d s = ± ∬ ( D y X − D x Y ) d x d y \int k ds = \pm \iint (D_y X - D_x Y)dxdy ∫ k d s = ± ∬ ( D y ​ X − D x ​ Y ) d x d y
+
+일관된 시계반대방향(counterclockwise)으로의 선적분은 분할된 경계선(boundary)에서 서로 뒤바뀐 부호를 얻도록 보장(guarantee)하지만 그 반대방향인 시계방향(clockwise) 역시 성립한다. 오귀스탱루이 코시의 사용 예에서처럼 이러한 시계반대방향(counterclockwise)뿐만아니라 그 역 또한 성립가능함을 표현하기 위해 ∫ k d s = ± ∬ ( D y X − D x Y ) d x d y \int k ds = \pm \iint (D_y X - D_x Y)dxdy ∫ k d s = ± ∬ ( D y ​ X − D x ​ Y ) d x d y 에서 처럼 ± \pm ± 부호 기호를 표기해 둔바있다.
+
+3.2.1. 공식의 전개 [편집]
+∫ k d s = ∮ ∂ A ( X d x + Y d y ) \int k ds = \oint_{\partial_{A}} ( Xdx + Ydy ) ∫ k d s = ∮ ∂ A ​ ​ ( X d x + Y d y )
+= ( ∫ X ( x , y ) d x ) + ( ∫ Y ( x , y ) d y ) = \left( \int X(x,y)dx \right) + \left( \int Y(x,y)dy \right) = ( ∫ X ( x , y ) d x ) + ( ∫ Y ( x , y ) d y )
+= ( ∫ x 1 x 2 X ( x , y y a y b ‾ ) d x + ∫ x 2 x 1 X ( x , y y b y a ‾ ) d x ) + ( ∫ y 2 y 1 Y ( x x a x b ‾ , y ) d y + ∫ y 1 y 2 Y ( x x b x a ‾ , y ) d y ) = \left( \int_{x_1}^{x_2} X ( x,y_{\overline{y_a y_b}}) dx + \int_{x_2}^{x_1} X ( x,y_{\overline{y_b y_a}}) dx \right) + \left( \int_{y_2}^{y_1} Y( x_{\overline{x_a x_b}},y) dy + \int_{y_1}^{y_2} Y( x_{\overline{x_b x_a}},y) dy \right) = ( ∫ x 1 ​ x 2 ​ ​ X ( x , y y a ​ y b ​ ​ ​ ) d x + ∫ x 2 ​ x 1 ​ ​ X ( x , y y b ​ y a ​ ​ ​ ) d x ) + ( ∫ y 2 ​ y 1 ​ ​ Y ( x x a ​ x b ​ ​ ​ , y ) d y + ∫ y 1 ​ y 2 ​ ​ Y ( x x b ​ x a ​ ​ ​ , y ) d y )
+= ( ∫ x 1 x 2 X ( x , y y a y b ‾ ) d x − ∫ x 1 x 2 X ( x , y y b y a ‾ ) d x ) + ( − ∫ y 1 y 2 Y ( x x a x b ‾ , y ) d y + ∫ y 1 y 2 Y ( x x b x a ‾ , y ) d y ) = \left( \int_{x_1}^{x_2} X ( x,y_{\overline{y_a y_b}}) dx - \int_{x_1}^{x_2} X ( x,y_{\overline{y_b y_a}}) dx \right) + \left( -\int_{y_1}^{y_2} Y( x_{\overline{x_a x_b}},y) dy + \int_{y_1}^{y_2} Y( x_{\overline{x_b x_a}},y) dy \right) = ( ∫ x 1 ​ x 2 ​ ​ X ( x , y y a ​ y b ​ ​ ​ ) d x − ∫ x 1 ​ x 2 ​ ​ X ( x , y y b ​ y a ​ ​ ​ ) d x ) + ( − ∫ y 1 ​ y 2 ​ ​ Y ( x x a ​ x b ​ ​ ​ , y ) d y + ∫ y 1 ​ y 2 ​ ​ Y ( x x b ​ x a ​ ​ ​ , y ) d y )
+= ( ∫ x 1 x 2 X ( x , y y a y b ‾ ) d x − ∫ x 1 x 2 X ( x , y y b y a ‾ ) d x ) + ( ∫ y 1 y 2 Y ( x x b x a ‾ , y ) d y − ∫ y 1 y 2 Y ( x x a x b ‾ , y ) d y ) = \left( \int_{x_1}^{x_2} X ( x,y_{\overline{y_a y_b}}) dx - \int_{x_1}^{x_2} X ( x,y_{\overline{y_b y_a}}) dx \right) + \left( \int_{y_1}^{y_2} Y( x_{\overline{x_b x_a}},y) dy -\int_{y_1}^{y_2} Y( x_{\overline{x_a x_b}},y) dy \right) = ( ∫ x 1 ​ x 2 ​ ​ X ( x , y y a ​ y b ​ ​ ​ ) d x − ∫ x 1 ​ x 2 ​ ​ X ( x , y y b ​ y a ​ ​ ​ ) d x ) + ( ∫ y 1 ​ y 2 ​ ​ Y ( x x b ​ x a ​ ​ ​ , y ) d y − ∫ y 1 ​ y 2 ​ ​ Y ( x x a ​ x b ​ ​ ​ , y ) d y )
+= ( ∫ x 1 x 2 ( X ( x , y y a y b ‾ ) − X ( x , y y b y a ‾ ) ) d x ) + ( ∫ y 1 y 2 ( Y ( x x b x a ‾ , y ) − Y ( x x a x b ‾ , y ) ) d y ) = \left( \int_{x_1}^{x_2} \left( X ( x,y_{\overline{y_a y_b}}) - X ( x,y_{\overline{y_b y_a}}) \right) dx \right) + \left( \int_{y_1}^{y_2} \left( Y( x_{\overline{x_b x_a}},y) - Y( x_{\overline{x_a x_b}},y) \right) dy \right) = ( ∫ x 1 ​ x 2 ​ ​ ( X ( x , y y a ​ y b ​ ​ ​ ) − X ( x , y y b ​ y a ​ ​ ​ ) ) d x ) + ( ∫ y 1 ​ y 2 ​ ​ ( Y ( x x b ​ x a ​ ​ ​ , y ) − Y ( x x a ​ x b ​ ​ ​ , y ) ) d y )
+= ( ∫ x 1 x 2 ( X ( x , y ) ∣ y = y b y a ‾ y = y a y b ‾ ) d x ) + ( ∫ y 1 y 2 ( Y ( x , y ) ∣ x = x a x b ‾ x = x b x a ‾ ) d y ) = \left( \int_{x_1}^{x_2} \left( \left. X ( x,y) \right|_{y=\overline{y_b y_a}}^{y=\overline{y_a y_b}} \right) dx \right) + \left( \int_{y_1}^{y_2} \left( \left. Y ( x,y) \right|_{x=\overline{x_a x_b}}^{x=\overline{x_b x_a}} \right) dy \right) = ( ∫ x 1 ​ x 2 ​ ​ ( X ( x , y ) ∣ y = y b ​ y a ​ ​ y = y a ​ y b ​ ​ ​ ) d x ) + ( ∫ y 1 ​ y 2 ​ ​ ( Y ( x , y ) ∣ x = x a ​ x b ​ ​ x = x b ​ x a ​ ​ ​ ) d y )
+= ( ∫ x 1 x 2 ∫ y b y a ‾ y a y b ‾ ∂ X ( x , y ) ∂ y d y d x ) + ( ∫ y 1 y 2 ∫ x a x b ‾ x b x a ‾ ∂ Y ( x , y ) ∂ x d x d y ) = \left( \int_{x_1}^{x_2} \int_{\overline{y_b y_a}}^{\overline{y_a y_b}} {\dfrac{\partial X(x,y)}{\partial y}}dy dx \right) + \left( \int_{y_1}^{y_2} \int_{\overline{x_a x_b}}^{\overline{x_b x_a}} {\dfrac{\partial Y(x,y)}{\partial x}}dx dy \right) = ( ∫ x 1 ​ x 2 ​ ​ ∫ y b ​ y a ​ ​ y a ​ y b ​ ​ ​ ∂ y ∂ X ( x , y ) ​ d y d x ) + ( ∫ y 1 ​ y 2 ​ ​ ∫ x a ​ x b ​ ​ x b ​ x a ​ ​ ​ ∂ x ∂ Y ( x , y ) ​ d x d y )
+= ( ∫ x 1 x 2 − ∫ y a y b ‾ y b y a ‾ ∂ X ( x , y ) ∂ y d y d x ) + ( ∫ y 1 y 2 ∫ x a x b ‾ x b x a ‾ ∂ Y ( x , y ) ∂ x d x d y ) = \left( \int_{x_1}^{x_2} - \int_{\overline{y_a y_b}}^{\overline{y_b y_a}} {\dfrac{\partial X(x,y)}{\partial y}}dy dx \right) + \left( \int_{y_1}^{y_2} \int_{\overline{x_a x_b}}^{\overline{x_b x_a}} {\dfrac{\partial Y(x,y)}{\partial x}}dx dy \right) = ( ∫ x 1 ​ x 2 ​ ​ − ∫ y a ​ y b ​ ​ y b ​ y a ​ ​ ​ ∂ y ∂ X ( x , y ) ​ d y d x ) + ( ∫ y 1 ​ y 2 ​ ​ ∫ x a ​ x b ​ ​ x b ​ x a ​ ​ ​ ∂ x ∂ Y ( x , y ) ​ d x d y )
+= ( − ∬ ∂ X ∂ y d y d x ) + ( ∬ ∂ Y ∂ x d x d y ) = \left( -\iint_{}{\dfrac{\partial X}{\partial y}}dy dx \right) + \left( \iint_{} {\dfrac{\partial Y}{\partial x}}dx dy \right) = ( − ∬ ​ ∂ y ∂ X ​ d y d x ) + ( ∬ ​ ∂ x ∂ Y ​ d x d y )
+= ( ∬ ∂ Y ∂ x d x d y ) + ( − ∬ ∂ X ∂ y d y d x ) = \left( \iint_{} {\dfrac{\partial Y}{\partial x}}dx dy \right) + \left( -\iint_{}{\dfrac{\partial X}{\partial y}}dy dx \right) = ( ∬ ​ ∂ x ∂ Y ​ d x d y ) + ( − ∬ ​ ∂ y ∂ X ​ d y d x )
+= ∬ ∂ Y ∂ x d x d y − ∬ ∂ X ∂ y d y d x = \iint_{} {\dfrac{\partial Y}{\partial x}}dxdy -\iint_{}{\dfrac{\partial X}{\partial y}}dydx = ∬ ​ ∂ x ∂ Y ​ d x d y − ∬ ​ ∂ y ∂ X ​ d y d x
+= ∬ ( ∂ Y ∂ x − ∂ X ∂ y ) d x d y = \iint_{} \left( {\dfrac{\partial Y}{\partial x}} -{\dfrac{\partial X}{\partial y}} \right)dxdy = ∬ ​ ( ∂ x ∂ Y ​ − ∂ y ∂ X ​ ) d x d y
+= ∬ A ( ∂ Y ∂ x − ∂ X ∂ y ) d S = \iint_{A} \left( {\dfrac{\partial Y}{\partial x}} -{\dfrac{\partial X}{\partial y}} \right)dS = ∬ A ​ ( ∂ x ∂ Y ​ − ∂ y ∂ X ​ ) d S
+
+4. 복소해석학 에서의 그린 정리 [편집]
+일변수 복소해석학에서는 폐곡선으로 둘러싸인 복소선적분에서도 그린 정리를 사용할 수 있다. z = x + i y z=x+iy z = x + i y 라고 두자.
+
+그러면 복소함수 f ( z ) f(z) f ( z ) 역시 f ( z ) = f ( x + i y ) = P ( x , y ) + i Q ( x , y ) f(z)=f(x+iy)=P(x, y)+i Q(x,y) f ( z ) = f ( x + i y ) = P ( x , y ) + i Q ( x , y ) 라고 치환할 수 있다. [11]
+이제 닫힌 폐곡선 C C C 위에서의 복소 선적분을 생각하자. ∮ C f ( z ) d z = ∮ C f ( x + i y ) ( d x + i d y ) = ∮ C ( P ( x , y ) + i Q ( x , y ) ) ( d x + i d y ) \displaystyle \oint_{C}f(z)dz=\oint_{C}f(x+iy)(dx+idy)=\oint_{C}\left(P(x,y)+i Q(x,y)\right)(dx+idy) ∮ C ​ f ( z ) d z = ∮ C ​ f ( x + i y ) ( d x + i d y ) = ∮ C ​ ( P ( x , y ) + i Q ( x , y ) ) ( d x + i d y )
+분배법칙으로 풀어준 뒤 허수부와 실수부를 분리하면 다음과 같다.
+{ ∮ C P ( x , y ) d x − Q ( x , y ) d y } + i { ∮ C Q ( x , y ) d x + P ( x , y ) d y } \displaystyle \left\{\oint_{C}P(x,y)dx-Q(x,y)dy\right\}+i\left\{\oint_{C}Q(x,y)dx+P(x,y)dy\right\} { ∮ C ​ P ( x , y ) d x − Q ( x , y ) d y } + i { ∮ C ​ Q ( x , y ) d x + P ( x , y ) d y }
+
+여기에 각각에 대해서 그린 정리를 적용하면 다음과 같다.
+∮ C P ( x , y ) d x − Q ( x , y ) d y = − ∬ R ( ∂ Q ∂ x + ∂ P ∂ y ) d x d y \displaystyle \oint_{C}P(x,y)dx-Q(x,y)dy=-\iint_{R}\left(\frac{\partial Q}{\partial x}+\frac{\partial P}{\partial y}\right)dxdy ∮ C ​ P ( x , y ) d x − Q ( x , y ) d y = − ∬ R ​ ( ∂ x ∂ Q ​ + ∂ y ∂ P ​ ) d x d y
+
+∮ C Q ( x , y ) d x + P ( x , y ) d y = ∬ R ( ∂ P ∂ x − ∂ Q ∂ y ) d x d y \displaystyle \oint_{C}Q(x,y)dx+P(x,y)dy=\iint_{R}\left(\frac{\partial P}{\partial x}-\frac{\partial Q}{\partial y}\right)dxdy ∮ C ​ Q ( x , y ) d x + P ( x , y ) d y = ∬ R ​ ( ∂ x ∂ P ​ − ∂ y ∂ Q ​ ) d x d y
+
+따라서 총 정리 결과는 다음과 같다.
+∮ C P ( x , y ) d x − Q ( x , y ) d y + i ∮ C Q ( x , y ) d x + P ( x , y ) d y = − ∬ R ( ∂ Q ∂ x + ∂ P ∂ y ) d x d y + i ∬ R ( ∂ P ∂ x − ∂ Q ∂ y ) d x d y \displaystyle \oint_{C}P(x,y)dx-Q(x,y)dy+i\oint_{C}Q(x,y)dx+P(x,y)dy\\=-\iint_{R}\left(\frac{\partial Q}{\partial x}+\frac{\partial P}{\partial y}\right)dxdy+i\iint_{R}\left(\frac{\partial P}{\partial x}-\frac{\partial Q}{\partial y}\right)dxdy ∮ C ​ P ( x , y ) d x − Q ( x , y ) d y + i ∮ C ​ Q ( x , y ) d x + P ( x , y ) d y = − ∬ R ​ ( ∂ x ∂ Q ​ + ∂ y ∂ P ​ ) d x d y + i ∬ R ​ ( ∂ x ∂ P ​ − ∂ y ∂ Q ​ ) d x d y
+
+만약 중적분범위 R R R 이 폐곡선 C C C 로 둘러싸인 특이점이 없는 완전 유계폐집합이라면 이 계산값은 자연스럽게 다음과 같이 계산된다. [12]
+− ∬ R ( ∂ Q ∂ x + ∂ P ∂ y ) d x d y + i ∬ R ( ∂ P ∂ x − ∂ Q ∂ y ) d x d y \displaystyle -\iint_{R}\left(\frac{\partial Q}{\partial x}+\frac{\partial P}{\partial y}\right)dxdy+i\iint_{R}\left(\frac{\partial P}{\partial x}-\frac{\partial Q}{\partial y}\right)dxdy − ∬ R ​ ( ∂ x ∂ Q ​ + ∂ y ∂ P ​ ) d x d y + i ∬ R ​ ( ∂ x ∂ P ​ − ∂ y ∂ Q ​ ) d x d y
+여기서 f ( z ) f(z) f ( z ) 가 영역 C C C 내부에서 미분 가능한 해석함수이므로 코시-리만 방정식 을 적용하면
+∂ P ∂ x = ∂ Q ∂ y , ∂ P ∂ y = − ∂ Q ∂ x \displaystyle \frac{\partial P}{\partial x}=\frac{\partial Q}{\partial y}, \frac{\partial P}{\partial y}=-\frac{\partial Q}{\partial x} ∂ x ∂ P ​ = ∂ y ∂ Q ​ , ∂ y ∂ P ​ = − ∂ x ∂ Q ​ 이므로
+− ∬ R ( ∂ Q ∂ x + ∂ P ∂ y ) d x d y + i ∬ R ( ∂ P ∂ x − ∂ Q ∂ y ) d x d y = 0 + 0 = 0 \displaystyle -\iint_{R}\left(\frac{\partial Q}{\partial x}+\frac{\partial P}{\partial y}\right)dxdy+i\iint_{R}\left(\frac{\partial P}{\partial x}-\frac{\partial Q}{\partial y}\right)dxdy=0+0=0 − ∬ R ​ ( ∂ x ∂ Q ​ + ∂ y ∂ P ​ ) d x d y + i ∬ R ​ ( ∂ x ∂ P ​ − ∂ y ∂ Q ​ ) d x d y = 0 + 0 = 0
+
+따라서 해석적 함수를 단순 폐곡선을 따라 적분하게 되면 그 계산값은 0이 되며, 0이 아니라면 해당 범위가 유계집합이 아닌, 특이점이 존재한다 라는 결과가 도출된다.
+
+5. 관련 문서 [편집]
+- 벡터 미적분학
+- 공변 미분
+- 프레네 방정식
+
+[ 그루클린
+www.guruclean.co.kr v-if
+[ [ 입주청소 ] [ 줄눈시공 ] [ 나노코팅 ] [ 에어컨청소 ] ]
+프리미엄 홈케어 서비스 줄눈시공,나노코팅,입주청,상판코팅 믿고 맡길수있는 그루클린
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 확실한 지원금! 인터넷가입
+internetsignal.shop v-if
+[ [ 인터넷가입 ] [ 전국최대 ] [ 지원금받기 ] ]
+남동케이블 비밀지원금지급 고객불만Zero 당일개통! 당일입금! 확실한 요금설계
+
+]
+
+[나] 1.1 1.2 1.3 COMPTE RENDU DES SÉANCES DE L'ACADÉMIE DES SCIENCES. SÉANCE DU LUNDI 6 JUILLET 1846- 적분 계산(calcul INTÉGRAL P252~255)Augustin Cauchy ,Sur les intégrales qui s'étendent à tous les points d'une courbe fermée, P253 https://archive.org/details/ComptesRendusAcademieDesSciences0023/page/n256/mode/1up?view=theater [2] Taylor, A.E. and W.R. Mann, Advanced Calculus, New York: John Wiley & Sons,1955 1972 1983 Third Edition, §15.31 COMMENTS ON THE PROOF OF GREEN’S THEOREM , P463 https://archive.org/stream/AdvancedCalculusTaylor1/Advanced%20Calculus%20-%20Taylor%5B1%5D_djvu.txt [가] 3.1 3.2 Vector Calculus, Michael Corral (Schoolcraft College) PDF LastEedition 2022(original 2008) GNU GFDL,(P153)4.3 Green’s Theorem https://www.mecmath.net/ [5] 구글북스 An Essay on the Application of Mathematical Analysis to the Theories of Electricity and Magnetism. Printed for the author, by T. Wheelhouse. 1828 (72 pages) https://books.google.co.kr/books/about/An_Essay_on_the_Application_of_Mathemati.html?id=GwYXAAAAYAAJ&redir_esc=y [6] 구글북스 An Essay on the Application of Mathematical Analysis to the Theories of Electricity and Magnetism. Printed for the author, by T. Wheelhouse. 1828 (P7)GENERAL PRELIMINARY RESULTS https://books.google.co.kr/books?id=GwYXAAAAYAAJ&pg=PA10&redir_esc=y [8] The History of Stokes' Theorem,Author(s): Victor J. Katz,Source:Mathematics Magazine, Vol. 52, No. 3 (May, 1979), pp. 146-156, Published by: Mathematical Association of America,Stable URL: http://www.jstor.org/stable/2690275 Accessed: 09-01-2017 23:04 UTC https://sites.math.washington.edu/~morrow/335_17/history%20of%20stokes%20thm.pdf [9] Zur allgemeinen Theorie der Bewegung der Flüssigkeiten, Preisschrift(공)저: Hermann Hankel §7 ,P34 https://books.google.co.kr/books/about/Zur_allgemeinen_Theorie_der_Bewegung_der.html?id=lHjRWuyMBSUC&redir_esc=y [11] 단, P ( x , y ) , Q ( x , y ) P(x,y), Q(x,y) P ( x , y ) , Q ( x , y ) 는 C 1 C^{1} C 1 함수. 즉 연속된 1계 편미분을 가지는 함수여야 한다. [12] 사실 그린 정리를 적용하기 위해서는 내부의 모든 점에서 1계 편미분이 가능하며, 그 결과물은 연속함수여야 한다 라는 조건이 필요하기 때문에 항상 만족하는 조건이므로 따로 제시할 필요 자체가 없다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

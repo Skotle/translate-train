@@ -1,0 +1,319 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 제타 함수
+최근 수정 시각: 2026-04-13 11:45:18 [ [ [ ] [ [ 15 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 비초등함수
+- 정칙함수
+- 급수(수학)
+- 이름이 그리스 문자인 함수
+]
+
+[ [ ] [ 특수함수
+Special Functions
+[ 펼치기 · 접기 ] 적분 | 오차함수 (error function) ( 가우스 함수 · 가우스 적분 함수) · 베타 함수 ( 불완전 베타 함수 ) · 감마 함수 ( 불완전 감마 함수 · 로그 감마 함수 ) · 타원 적분 · 야코비 타원 함수 · 지수 적분 함수 · 로그 적분 함수 · 삼각 적분 함수 · 쌍곡선 적분 함수 · 프레넬 적분 함수 · 구데르만 함수 · 세타 함수
+미분방정식 | 르장드르 함수 ∗ ^\ast ∗ ( 구면 조화 함수 ) · 베셀 함수 · 에르미트 함수 · 라게르 함수 · 에어리 함수
+역함수 | 브링 근호 · 람베르트 W 함수 · 역삼각함수
+급수 | 제타 함수 · 후르비츠 제타 함수 · 디리클레 베타 함수 · 초기하함수 · 폴리로그함수 · 폴리감마 함수 · 바이어슈트라스 타원 함수
+정수론 | 소수 계량 함수 · 소인수 계량 함수 · 뫼비우스 함수 · 최대공약수 · 최소공배수 · 약수 함수 · 오일러 피 함수 · 폰 망골트 함수 · 체비쇼프 함수 · 바쁜 비버 함수
+기타 | 헤비사이드 계단함수 · 부호 함수 ( 절댓값 ) · 테트레이션 ( 무한 지수 탑 함수 ) · 지시함수 · 바닥함수 / 천장함수 · 허수지수함수 · 혹 함수
+∗ ^\ast ∗ 특수함수가 아니라 특정 조건을 만족시키는 다항함수이지만, 편의상 이곳에 기술했다.
+
+복소평면 에 나타낸 리만 제타 함수 그래프
+
+1 . 개요 2 . 정의역 확장 2.1 . 해석적 연속 2.1.1 . 예시 3 . 성질 4 . 미적분 5 . 관련 공식 6 . 알려진 함숫값 6.1 . 아페리 상수 6.2 . 양의 정수가 아닌 수는? 7 . 관련 문서
+
+1. 개요 [편집]
+특수함수 의 하나로, ζ ( s ) \zeta(s) ζ ( s ) 로 표기한다. 리만 가설 을 비롯한 여러 해석적 정수론 분야에서 핵심적인 주제인 제타 함수는 다음과 같이 정의된다. ζ ( s ) = d e f ∑ n = 1 ∞ 1 n s = ∫ 1 ∞ 1 n s d ⌊ n ⌋ \displaystyle \zeta(s) \overset{\rm def}= \sum_{n=1}^\infty \frac1{n^s} = \int_1^\infty \frac1{n^s} \,{\rm d} \lfloor n \rfloor ζ ( s ) = def n = 1 ∑ ∞ ​ n s 1 ​ = ∫ 1 ∞ ​ n s 1 ​ d ⌊ n ⌋ [1]
+(단, Re ⁡ ( s ) > 1 \operatorname{Re}(s) > 1 Re ( s ) > 1 ) [2]
+
+형태에서 보듯 기본적인 반비례 관계 를 멱급수로 변형한 것이다. 이렇다보니 수학자마다 자기 나름대로 마개조 를 해서 만든 엄청난 양의 바리에이션 이 있다. 왠지 필수요소 같은 느낌이다. 정의역을 복소수 로 확장한 리만 제타 함수( 리만 가설 에서 나오는 그 리만 제타 함수다!)도 그 중 하나.
+
+한편, 다음과 같이 합이 아닌 곱의 꼴로도 정의가 가능한데 레온하르트 오일러 가 유도했다. 이를 '오일러 곱'이라고 한다. 증명은 성질 문단에 있다. ( P \Bbb P P 는 소수 집합) ζ ( s ) = ∏ p ∈ P ∞ p s p s − 1 \displaystyle \zeta(s) = \prod_{p\,\in\,\Bbb P}^\infty \frac{p^s}{p^s-1} ζ ( s ) = p ∈ P ∏ ∞ ​ p s − 1 p s ​
+
+특히 이 식은 겉보기에는 전혀 소수와 관련이 없어 보이는 제타 함수가 실제로는 소수와 밀접한 관계가 있음을 보여주는 식으로, 베른하르트 리만 의 리만 가설 논문의 출발점이 되었다. 존 더비셔의 책 <리만 가설>에서는 '오일러의 황금 열쇠'라고 표현하기까지 했다. 이 식은 잘 알려진 에라토스테네스의 체 로부터 직관적으로 이해될 수 있다 .
+
+2. 정의역 확장 [편집]
+
+2.1. 해석적 연속 [편집]
+R e ( s ) > 1 {\rm Re}(s)>1 Re ( s ) > 1 인 s ∈ C s\in\Bbb C s ∈ C 에 대해 f ( x ) = 1 x s f(x) = \dfrac1{x^s} f ( x ) = x s 1 ​ 이라고 정의하자. 이 함수를 n n n 차까지 미분하면 아래와 같다. f ( x ) = x − s = 1 x s f ′ ( x ) = − s x − s − 1 = − s 1 x s + 1 f ′ ′ ( x ) = s ( s + 1 ) x − s − 2 = s ( s + 1 ) 1 x s + 2 f ′ ′ ′ ( x ) = − s ( s + 1 ) ( s + 2 ) x − s − 3 = − s ( s + 1 ) ( s + 2 ) 1 x s + 3 ⋮ f ( n ) ( x ) = ( − 1 ) n s ( s + 1 ) ⋯ ( s + n − 1 ) x − s − n = ( − 1 ) n s ( s + 1 ) ⋯ ( s + n − 1 ) 1 x s + n \begin{aligned} f(x) &= x^{-s} = \frac1{x^s} \\ f'(x) &= -sx^{-s-1} = -s \frac1{x^{s+1}} \\ f''(x) &= s(s+1)x^{-s-2} = s(s+1) \frac1{x^{s+2}} \\ f'''(x) &= -s(s+1)(s+2)x^{-s-3} = -s(s+1)(s+2) \frac1{x^{s+3}} \\ &\,\,\,\vdots \\ f^{(n)}(x) &= (-1)^n s(s+1)\cdots(s+n-1)x^{-s-n} = (-1)^n s(s+1)\cdots(s+n-1) \frac1{x^{s+n}} \end{aligned} f ( x ) f ′ ( x ) f ′′ ( x ) f ′′′ ( x ) f ( n ) ( x ) ​ = x − s = x s 1 ​ = − s x − s − 1 = − s x s + 1 1 ​ = s ( s + 1 ) x − s − 2 = s ( s + 1 ) x s + 2 1 ​ = − s ( s + 1 ) ( s + 2 ) x − s − 3 = − s ( s + 1 ) ( s + 2 ) x s + 3 1 ​ ⋮ = ( − 1 ) n s ( s + 1 ) ⋯ ( s + n − 1 ) x − s − n = ( − 1 ) n s ( s + 1 ) ⋯ ( s + n − 1 ) x s + n 1 ​ ​
+
+오일러-매클로린 공식 에 m = 1 m=1 m = 1 과 f ( x ) = 1 x s f(x)=\dfrac1{x^s} f ( x ) = x s 1 ​ 을 대입하자. 참고로 아래에서 p p p 는 음이 아닌 정수 이고, p = 0 p=0 p = 0 이면 우변의 급수의 값은 0 0 0 으로 정의된다. ∑ k = m n − 1 f ( k ) = ∫ m n f ( x ) d x + ∑ r = 1 p B r r ! ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m ) ) + ( − 1 ) p + 1 p ! ∫ m n B p ( x − ⌊ x ⌋ ) f ( p ) ( x ) d x ⇒ ∑ k = 1 n − 1 1 k s + 1 n s = 1 n s + ∫ 1 n d x x s + ∑ r = 1 p B r r ! ( − 1 ) r − 1 s ( s + 1 ) ⋯ ( s + r − 2 ) ( 1 n s + r − 1 − 1 ) + ( − 1 ) p + 1 p ! ∫ 1 n B p ( x − ⌊ x ⌋ ) ( − 1 ) p s ( s + 1 ) ⋯ ( s + p − 1 ) d x x s + p ∴ ∑ k = 1 n 1 k s = 1 n s + n 1 − s 1 − s − 1 1 − s + ∑ r = 1 p B r r ! ( − 1 ) r − 1 s ( s + 1 ) ⋯ ( s + r − 2 ) ( 1 n s + r − 1 − 1 ) − 1 p ! ∫ 1 n B p ( x − ⌊ x ⌋ ) s ( s + 1 ) ⋯ ( s + p − 1 ) d x x s + p \begin{aligned} \sum_{k=m}^{n-1} f(k) =& \int_m^n f(x) \,{\rm d}x +\sum_{r=1}^p \frac{B_r}{r!} ( f^{(r-1)}(n)-f^{(r-1)}(m) ) +\frac{(-1)^{p+1}}{p!} \int_m^n B_p(x-\lfloor x\rfloor) f^{(p)}(x) \,{\rm d}x \\ \Rightarrow \sum_{k=1}^{n-1} \frac1{k^s} +\frac1{n^s} =& \,\frac1{n^s} +\int_1^n \frac{{\rm d}x}{x^s} +\sum_{r=1}^p \frac{B_r}{r!} (-1)^{r-1} s(s+1)\cdots(s+r-2) \biggl( \frac1{n^{s+r-1}}-1 \biggr) \\ &+\frac{(-1)^{p+1}}{p!} \int_1^n B_p(x-\lfloor x\rfloor) (-1)^p s(s+1)\cdots(s+p-1) \frac{{\rm d}x}{x^{s+p}} \\ \therefore \sum_{k=1}^n \frac1{k^s} =& \,\frac1{n^s} +\frac{n^{1-s}}{1-s} -\frac1{1-s} +\sum_{r=1}^p \frac{B_r}{r!} (-1)^{r-1} s(s+1)\cdots(s+r-2) \biggl( \frac1{n^{s+r-1}}-1 \biggr) \\ &-\frac1{p!} \int_1^n B_p(x-\lfloor x\rfloor) s(s+1)\cdots(s+p-1) \frac{{\rm d}x}{x^{s+p}} \end{aligned} k = m ∑ n − 1 ​ f ( k ) = ⇒ k = 1 ∑ n − 1 ​ k s 1 ​ + n s 1 ​ = ∴ k = 1 ∑ n ​ k s 1 ​ = ​ ∫ m n ​ f ( x ) d x + r = 1 ∑ p ​ r ! B r ​ ​ ( f ( r − 1 ) ( n ) − f ( r − 1 ) ( m )) + p ! ( − 1 ) p + 1 ​ ∫ m n ​ B p ​ ( x − ⌊ x ⌋) f ( p ) ( x ) d x n s 1 ​ + ∫ 1 n ​ x s d x ​ + r = 1 ∑ p ​ r ! B r ​ ​ ( − 1 ) r − 1 s ( s + 1 ) ⋯ ( s + r − 2 ) ( n s + r − 1 1 ​ − 1 ) + p ! ( − 1 ) p + 1 ​ ∫ 1 n ​ B p ​ ( x − ⌊ x ⌋) ( − 1 ) p s ( s + 1 ) ⋯ ( s + p − 1 ) x s + p d x ​ n s 1 ​ + 1 − s n 1 − s ​ − 1 − s 1 ​ + r = 1 ∑ p ​ r ! B r ​ ​ ( − 1 ) r − 1 s ( s + 1 ) ⋯ ( s + r − 2 ) ( n s + r − 1 1 ​ − 1 ) − p ! 1 ​ ∫ 1 n ​ B p ​ ( x − ⌊ x ⌋) s ( s + 1 ) ⋯ ( s + p − 1 ) x s + p d x ​ ​
+
+위 식이 R e ( s ) > 1 {\rm Re}(s)>1 Re ( s ) > 1 인 s s s 에 대해 성립함을 기억해두자. 참고로 p = 0 p=0 p = 0 이면 s ( s + 1 ) ⋯ ( s + p − 1 ) = 1 s(s+1)\cdots(s+p-1)=1 s ( s + 1 ) ⋯ ( s + p − 1 ) = 1 로 계산한다.
+
+한편, B p ( x ) B_p(x) B p ​ ( x ) 는 베르누이 다항식 으로, x x x 의 p p p 차 다항식이다. 따라서 위 식에서 B p ( x − ⌊ x ⌋ ) B_p(x-\lfloor x\rfloor) B p ​ ( x − ⌊ x ⌋) 는 유계 이다. 여기에 상수 ∣ s ( s + 1 ) ⋯ ( s + p − 1 ) ∣|s(s+1)\cdots(s+p-1)| ∣ s ( s + 1 ) ⋯ ( s + p − 1 ) ∣ 가 곱해져도 마찬가지로 유계이므로, ∣ B p ( x − ⌊ x ⌋ ) s ( s + 1 ) ⋯ ( s + p − 1 ) ∣ ≤ M| B_p(x-\lfloor x\rfloor) s(s+1)\cdots(s+p-1) | \le M ∣ B p ​ ( x − ⌊ x ⌋) s ( s + 1 ) ⋯ ( s + p − 1 ) ∣ ≤ M 인 양수 M M M 이 존재한다. 따라서 위 식의 맨 마지막 적분도 다음과 같이 유계이다. [3] ∣ ∫ 1 n B p ( x − ⌊ x ⌋ ) s ( s + 1 ) ⋯ ( s + p − 1 ) d x x s + p ∣ ≤ ∫ 1 n ∣ B p ( x − ⌊ x ⌋ ) s ( s + 1 ) ⋯ ( s + p − 1 ) ∣ d x ∣ x s + p ∣ ≤ ∫ 1 n M d x ∣ x s + p ∣ = M ∫ 1 n d x ∣ x R e ( s ) + p ∣ \begin{aligned} &\biggl| \int_1^n B_p(x-\lfloor x\rfloor) s(s+1)\cdots(s+p-1) \frac{{\rm d}x}{x^{s+p}} \biggr| \\ \le &\int_1^n | B_p (x-\lfloor x\rfloor) s(s+1)\cdots(s+p-1) | \frac{{\rm d}x}{|x^{s+p}|} \\ \le &\int_1^n M \frac{{\rm d}x}{|x^{s+p}|} = M \int_1^n \frac{{\rm d}x}{|x^{{\rm Re}(s)+p}|} \end{aligned} ≤ ≤ ​ ​ ∫ 1 n ​ B p ​ ( x − ⌊ x ⌋) s ( s + 1 ) ⋯ ( s + p − 1 ) x s + p d x ​ ​ ∫ 1 n ​ ∣ B p ​ ( x − ⌊ x ⌋) s ( s + 1 ) ⋯ ( s + p − 1 ) ∣ ∣ x s + p ∣ d x ​ ∫ 1 n ​ M ∣ x s + p ∣ d x ​ = M ∫ 1 n ​ ∣ x Re ( s ) + p ∣ d x ​ ​
+
+n → ∞ n\to\infty n → ∞ 일 때 R e ( s ) + p > 1 {\rm Re}(s)+p > 1 Re ( s ) + p > 1 이면(즉, R e ( s ) > 1 − p {\rm Re}(s) > 1-p Re ( s ) > 1 − p 이면) 위 적분은 균등수렴 하므로, 다음 적분은 R e ( s ) > 1 − p {\rm Re}(s) > 1-p Re ( s ) > 1 − p 에서 해석적 이라고 할 수 있다. ∫ 1 ∞ B p ( x − ⌊ x ⌋ ) s ( s + 1 ) ⋯ ( s + p − 1 ) d x x s + p \displaystyle \int_1^\infty B_p(x-\lfloor x\rfloor) s(s+1)\cdots(s+p-1) \frac{{\rm d}x}{x^{s+p}} ∫ 1 ∞ ​ B p ​ ( x − ⌊ x ⌋) s ( s + 1 ) ⋯ ( s + p − 1 ) x s + p d x ​
+
+R e ( s ) > 1 {\rm Re}(s)>1 Re ( s ) > 1 에 대해 성립하는 위의 급수 표현식을 다시 쓰자. ∑ k = 1 n 1 k s = 1 n s + n 1 − s 1 − s − 1 1 − s + ∑ r = 1 p B r r ! ( − 1 ) r − 1 s ( s + 1 ) ⋯ ( s + r − 2 ) ( 1 n s + r − 1 − 1 ) − 1 p ! ∫ 1 n B p ( x − ⌊ x ⌋ ) s ( s + 1 ) ⋯ ( s + p − 1 ) d x x s + p \begin{aligned} \sum_{k=1}^n \frac1{k^s} =& \,\frac1{n^s} +\frac{n^{1-s}}{1-s} -\frac1{1-s} +\sum_{r=1}^p \frac{B_r}{r!} (-1)^{r-1} s(s+1)\cdots(s+r-2) \biggl( \frac1{n^{s+r-1}}-1 \biggr) \\ & \quad\:\, -\frac1{p!} \int_1^n B_p(x-\lfloor x\rfloor) s(s+1)\cdots(s+p-1) \frac{{\rm d}x}{x^{s+p}} \\ \end{aligned} k = 1 ∑ n ​ k s 1 ​ = ​ n s 1 ​ + 1 − s n 1 − s ​ − 1 − s 1 ​ + r = 1 ∑ p ​ r ! B r ​ ​ ( − 1 ) r − 1 s ( s + 1 ) ⋯ ( s + r − 2 ) ( n s + r − 1 1 ​ − 1 ) − p ! 1 ​ ∫ 1 n ​ B p ​ ( x − ⌊ x ⌋) s ( s + 1 ) ⋯ ( s + p − 1 ) x s + p d x ​ ​
+
+일부 항을 이항하고 시그마에서 r = p r=p r = p 인 경우를 분리하자. ∑ k = 1 n 1 k s − n 1 − s 1 − s − 1 n s − ∑ r = 1 p − 1 B r r ! ( − 1 ) r − 1 s ( s + 1 ) ⋯ ( s + r − 2 ) ( 1 n s + r − 1 − 1 ) = − 1 1 − s + B p p ! ( − 1 ) p − 1 s ( s + 1 ) ⋯ ( s + p − 2 ) ( 1 n s + p − 1 − 1 ) − 1 p ! ∫ 1 n B p ( x − ⌊ x ⌋ ) s ( s + 1 ) ⋯ ( s + p − 1 ) x s + p d x \begin{aligned} &\sum_{k=1}^n \frac1{k^s} -\frac{n^{1-s}}{1-s} -\frac1{n^s} -\sum_{r=1}^{p-1} \frac{B_r}{r!} (-1)^{r-1} s(s+1)\cdots(s+r-2) \biggl( \frac1{n^{s+r-1}}-1 \biggr) \\ =& -\frac1{1-s} +\frac{B_p}{p!} (-1)^{p-1} s(s+1)\cdots(s+p-2) \biggl( \frac1{n^{s+p-1}}-1 \biggr) -\frac1{p!} \int_1^n B_p(x-\lfloor x\rfloor) \frac{s(s+1)\cdots(s+p-1)}{x^{s+p}} \,{\rm d}x \end{aligned} = ​ k = 1 ∑ n ​ k s 1 ​ − 1 − s n 1 − s ​ − n s 1 ​ − r = 1 ∑ p − 1 ​ r ! B r ​ ​ ( − 1 ) r − 1 s ( s + 1 ) ⋯ ( s + r − 2 ) ( n s + r − 1 1 ​ − 1 ) − 1 − s 1 ​ + p ! B p ​ ​ ( − 1 ) p − 1 s ( s + 1 ) ⋯ ( s + p − 2 ) ( n s + p − 1 1 ​ − 1 ) − p ! 1 ​ ∫ 1 n ​ B p ​ ( x − ⌊ x ⌋) x s + p s ( s + 1 ) ⋯ ( s + p − 1 ) ​ d x ​
+
+R e ( s ) > 1 {\rm Re}(s)>1 Re ( s ) > 1 이므로 양 변에 n → ∞ n\to\infty n → ∞ 의 극한을 취하면 다음과 같다. lim ⁡ n → ∞ [ ∑ k = 1 n 1 k s − n 1 − s 1 − s − 1 n s − ∑ r = 1 p − 1 B r r ! ( − 1 ) r − 1 s ( s + 1 ) ⋯ ( s + r − 2 ) ( 1 n s + r − 1 − 1 ) ] = ζ ( s ) + ∑ r = 1 p − 1 B r r ! ( − 1 ) r − 1 s ( s + 1 ) ⋯ ( s + r − 2 ) = lim ⁡ n → ∞ [ − 1 1 − s + B p p ! ( − 1 ) p − 1 s ( s + 1 ) ⋯ ( s + p − 2 ) ( 1 n s + p − 1 − 1 ) − 1 p ! ∫ 1 n B p ( x − ⌊ x ⌋ ) s ( s + 1 ) ⋯ ( s + p − 1 ) x s + p d x ] = − 1 1 − s − B p p ! ( − 1 ) p − 1 s ( s + 1 ) ⋯ ( s + p − 2 ) − 1 p ! ∫ 1 ∞ B p ( x − ⌊ x ⌋ ) s ( s + 1 ) ⋯ ( s + p − 1 ) x s + p d x \begin{aligned} &\lim_{n\to\infty} \Biggl[ \sum_{k=1}^n \frac1{k^s} -\frac{n^{1-s}}{1-s} -\frac1{n^s} -\sum_{r=1}^{p-1} \frac{B_r}{r!} (-1)^{r-1} s(s+1)\cdots(s+r-2) \biggl( \frac1{n^{s+r-1}}-1 \biggr) \Biggr] \\ =& \,\zeta(s) +\sum_{r=1}^{p-1} \frac{B_r}{r!} (-1)^{r-1} s(s+1)\cdots(s+r-2) \\ =& \lim_{n\to\infty} \Biggl[ -\frac1{1-s} +\frac{B_p}{p!} (-1)^{p-1} s(s+1)\cdots(s+p-2) \biggl( \frac1{n^{s+p-1}}-1 \biggr) -\frac1{p!} \int_1^n B_p(x-\lfloor x\rfloor) \frac{s(s+1)\cdots(s+p-1)}{x^{s+p}} \,{\rm d}x \Biggr] \\ =& -\frac1{1-s} -\frac{B_p}{p!} (-1)^{p-1} s(s+1)\cdots(s+p-2) -\frac1{p!} \int_1^\infty B_p(x-\lfloor x\rfloor) \frac{s(s+1)\cdots(s+p-1)}{x^{s+p}} \,{\rm d}x \end{aligned} = = = ​ n → ∞ lim ​ [ k = 1 ∑ n ​ k s 1 ​ − 1 − s n 1 − s ​ − n s 1 ​ − r = 1 ∑ p − 1 ​ r ! B r ​ ​ ( − 1 ) r − 1 s ( s + 1 ) ⋯ ( s + r − 2 ) ( n s + r − 1 1 ​ − 1 ) ] ζ ( s ) + r = 1 ∑ p − 1 ​ r ! B r ​ ​ ( − 1 ) r − 1 s ( s + 1 ) ⋯ ( s + r − 2 ) n → ∞ lim ​ [ − 1 − s 1 ​ + p ! B p ​ ​ ( − 1 ) p − 1 s ( s + 1 ) ⋯ ( s + p − 2 ) ( n s + p − 1 1 ​ − 1 ) − p ! 1 ​ ∫ 1 n ​ B p ​ ( x − ⌊ x ⌋) x s + p s ( s + 1 ) ⋯ ( s + p − 1 ) ​ d x ] − 1 − s 1 ​ − p ! B p ​ ​ ( − 1 ) p − 1 s ( s + 1 ) ⋯ ( s + p − 2 ) − p ! 1 ​ ∫ 1 ∞ ​ B p ​ ( x − ⌊ x ⌋) x s + p s ( s + 1 ) ⋯ ( s + p − 1 ) ​ d x ​
+
+위의 네 줄은 분명 R e ( s ) > 1 {\rm Re}(s)>1 Re ( s ) > 1 에 대해 성립하지만, 넷째 줄의 적분 항은 위에서 R e ( s ) > 1 − p {\rm Re}(s) > 1-p Re ( s ) > 1 − p 일 때 해석적임을 보였다. 또한, 넷째 줄에서 적분 항이 아닌 나머지 항들은 유리함수이므로, 분모를 0 0 0 으로 만드는 s = 1 s=1 s = 1 을 제외한 R e ( s ) > 1 − p {\rm Re}(s) > 1-p Re ( s ) > 1 − p 에서 해석적이다. 따라서 넷째 줄은 R e ( s ) > 1 − p {\rm Re}(s) > 1-p Re ( s ) > 1 − p , s ≠ 1 s\neq1 s  = 1 인 s s s 에 대해 첫째 및 둘째 줄의 해석적 연속이고, 따라서 첫째 및 둘째 줄도 R e ( s ) > 1 − p {\rm Re}(s) > 1-p Re ( s ) > 1 − p , s ≠ 1 s\neq1 s  = 1 인 s s s 에 대해 해석적이다.
+
+이제 ζ ( s ) \zeta(s) ζ ( s ) 에 대한 식을 정리하기 위해 위 식에서 둘째 줄과 첫째 줄의 등호 관계에 주목해보자. ζ ( s ) + ∑ r = 1 p − 1 B r r ! ( − 1 ) r − 1 s ( s + 1 ) ⋯ ( s + r − 2 ) = lim ⁡ n → ∞ [ ∑ k = 1 n 1 k s − n 1 − s 1 − s − 1 n s − ∑ r = 1 p − 1 B r r ! ( − 1 ) r − 1 s ( s + 1 ) ⋯ ( s + r − 2 ) ( 1 n s + r − 1 − 1 ) ] \begin{aligned} & \,\zeta(s) +\sum_{r=1}^{p-1} \frac{B_r}{r!} (-1)^{r-1} s(s+1)\cdots(s+r-2) \\ =& \lim_{n\to\infty} \Biggl[ \sum_{k=1}^n \frac1{k^s} -\frac{n^{1-s}}{1-s} -\frac1{n^s} -\sum_{r=1}^{p-1} \frac{B_r}{r!} (-1)^{r-1} s(s+1)\cdots(s+r-2) \biggl( \frac1{n^{s+r-1}}-1 \biggr) \Biggr] \\ \end{aligned} = ​ ζ ( s ) + r = 1 ∑ p − 1 ​ r ! B r ​ ​ ( − 1 ) r − 1 s ( s + 1 ) ⋯ ( s + r − 2 ) n → ∞ lim ​ [ k = 1 ∑ n ​ k s 1 ​ − 1 − s n 1 − s ​ − n s 1 ​ − r = 1 ∑ p − 1 ​ r ! B r ​ ​ ( − 1 ) r − 1 s ( s + 1 ) ⋯ ( s + r − 2 ) ( n s + r − 1 1 ​ − 1 ) ] ​
+
+공통된 항을 서로 소거시키면 다음 식을 얻을 수 있다. ζ ( s ) = lim ⁡ n → ∞ [ ∑ k = 1 n 1 k s − n 1 − s 1 − s − 1 n s − ∑ r = 1 p − 1 B r r ! ( − 1 ) r − 1 s ( s + 1 ) ⋯ ( s + r − 2 ) 1 n s + r − 1 ] \begin{aligned} \zeta(s) = \lim_{n\to\infty} \Biggl[ \sum_{k=1}^n \frac1{k^s} -\frac{n^{1-s}}{1-s} -\frac1{n^s} -\sum_{r=1}^{p-1} \frac{B_r}{r!} (-1)^{r-1} s(s+1)\cdots(s+r-2) \frac1{n^{s+r-1}} \Biggr] \\ \end{aligned} ζ ( s ) = n → ∞ lim ​ [ k = 1 ∑ n ​ k s 1 ​ − 1 − s n 1 − s ​ − n s 1 ​ − r = 1 ∑ p − 1 ​ r ! B r ​ ​ ( − 1 ) r − 1 s ( s + 1 ) ⋯ ( s + r − 2 ) n s + r − 1 1 ​ ] ​
+
+위 식이 바로 R e ( s ) > 1 − p {\rm Re}(s)>1-p Re ( s ) > 1 − p , s ≠ 1 s\neq1 s  = 1 인 s ∈ C s\in\Bbb C s ∈ C 에 대한 ζ ( s ) \zeta(s) ζ ( s ) 의 해석적 연속이다.
+
+2.1.1. 예시 [편집]
+위의 공식에 p = 0 p=0 p = 0 , 1 1 1 , 2 2 2 , ⋯ \cdots ⋯ , 5 5 5 를 차례로 대입해서 ζ ( s ) \zeta(s) ζ ( s ) 의 식이 어떻게 나타나는지 살펴보자. ( p = 0 , R e ( s ) > 1 ) ζ ( s ) = lim ⁡ n → ∞ [ ∑ k = 1 n 1 k s − n 1 − s 1 − s − 1 n s ] = lim ⁡ n → ∞ [ ∑ k = 1 n 1 k s ] = ∑ k = 1 ∞ 1 k s ( p = 1 , R e ( s ) > 0 ) ζ ( s ) = lim ⁡ n → ∞ [ ∑ k = 1 n 1 k s − n 1 − s 1 − s − 1 n s ] = lim ⁡ n → ∞ [ ∑ k = 1 n 1 k s − n 1 − s 1 − s ] ( p = 2 , R e ( s ) > − 1 ) ζ ( s ) = lim ⁡ n → ∞ [ ∑ k = 1 n 1 k s − n 1 − s 1 − s − 1 2 n s ] ( p = 3 , R e ( s ) > − 2 ) ζ ( s ) = lim ⁡ n → ∞ [ ∑ k = 1 n 1 k s − n 1 − s 1 − s − 1 2 n s + s 12 n s + 1 ] ( p = 4 , R e ( s ) > − 3 ) ζ ( s ) = lim ⁡ n → ∞ [ ∑ k = 1 n 1 k s − n 1 − s 1 − s − 1 2 n s + s 12 n s + 1 ] ( p = 5 , R e ( s ) > − 4 ) ζ ( s ) = lim ⁡ n → ∞ [ ∑ k = 1 n 1 k s − n 1 − s 1 − s − 1 2 n s + s 12 n s + 1 − s ( s + 1 ) ( s + 2 ) 720 n s + 3 ] \begin{aligned} &(p=0, {\rm Re}(s) > 1) &\quad \zeta(s) &= \lim_{n\to\infty} \Biggl[ \,\sum_{k=1}^n \frac1{k^s} -\frac{n^{1-s}}{1-s} -\frac1{n^s} \Biggr] = \lim_{n\to\infty} \Biggl[ \,\sum_{k=1}^n \frac1{k^s} \Biggr] = \sum_{k=1}^\infty \frac1{k^s} \\ &(p=1, {\rm Re}(s) > 0) &\quad \zeta(s) &= \lim_{n\to\infty} \Biggl[ \,\sum_{k=1}^n \frac1{k^s} -\frac{n^{1-s}}{1-s} -\frac1{n^s} \Biggr] = \lim_{n\to\infty} \Biggl[ \,\sum_{k=1}^n \frac1{k^s} -\frac{n^{1-s}}{1-s} \Biggr] \\ &(p=2, {\rm Re}(s) > -1) &\quad \zeta(s) &= \lim_{n\to\infty} \Biggl[ \,\sum_{k=1}^n \frac1{k^s} -\frac{n^{1-s}}{1-s} -\frac1{2n^s} \Biggr] \\ &(p=3, {\rm Re}(s) > -2) &\quad \zeta(s) &= \lim_{n\to\infty} \Biggl[ \,\sum_{k=1}^n \frac1{k^s} -\frac{n^{1-s}}{1-s} -\frac1{2n^s} +\frac s{12n^{s+1}} \Biggr] \\ &(p=4, {\rm Re}(s) > -3) &\quad \zeta(s) &= \lim_{n\to\infty} \Biggl[ \,\sum_{k=1}^n \frac1{k^s} -\frac{n^{1-s}}{1-s} -\frac1{2n^s} +\frac s{12n^{s+1}} \Biggr] \\ &(p=5, {\rm Re}(s) > -4) &\quad \zeta(s) &= \lim_{n\to\infty} \Biggl[ \,\sum_{k=1}^n \frac1{k^s} -\frac{n^{1-s}}{1-s} -\frac1{2n^s} +\frac s{12n^{s+1}} -\frac{s(s+1)(s+2)}{720n^{s+3}} \Biggr] \end{aligned} ​ ( p = 0 , Re ( s ) > 1 ) ( p = 1 , Re ( s ) > 0 ) ( p = 2 , Re ( s ) > − 1 ) ( p = 3 , Re ( s ) > − 2 ) ( p = 4 , Re ( s ) > − 3 ) ( p = 5 , Re ( s ) > − 4 ) ​ ζ ( s ) ζ ( s ) ζ ( s ) ζ ( s ) ζ ( s ) ζ ( s ) ​ = n → ∞ lim ​ [ k = 1 ∑ n ​ k s 1 ​ − 1 − s n 1 − s ​ − n s 1 ​ ] = n → ∞ lim ​ [ k = 1 ∑ n ​ k s 1 ​ ] = k = 1 ∑ ∞ ​ k s 1 ​ = n → ∞ lim ​ [ k = 1 ∑ n ​ k s 1 ​ − 1 − s n 1 − s ​ − n s 1 ​ ] = n → ∞ lim ​ [ k = 1 ∑ n ​ k s 1 ​ − 1 − s n 1 − s ​ ] = n → ∞ lim ​ [ k = 1 ∑ n ​ k s 1 ​ − 1 − s n 1 − s ​ − 2 n s 1 ​ ] = n → ∞ lim ​ [ k = 1 ∑ n ​ k s 1 ​ − 1 − s n 1 − s ​ − 2 n s 1 ​ + 12 n s + 1 s ​ ] = n → ∞ lim ​ [ k = 1 ∑ n ​ k s 1 ​ − 1 − s n 1 − s ​ − 2 n s 1 ​ + 12 n s + 1 s ​ ] = n → ∞ lim ​ [ k = 1 ∑ n ​ k s 1 ​ − 1 − s n 1 − s ​ − 2 n s 1 ​ + 12 n s + 1 s ​ − 720 n s + 3 s ( s + 1 ) ( s + 2 ) ​ ] ​
+
+p = 0 p=0 p = 0 의 경우는 자명하게 제타 함수의 정의 그대로의 식이 나온다. 또, p = 3 p=3 p = 3 , p = 4 p=4 p = 4 인 경우에서 볼 수 있듯, 베르누이 수가 0이 되는 경우(즉, p p p 가 3 3 3 이상의 홀수인 경우)엔 식을 변형하지 않고도 정의역을 한 차례 더 확장시킬 수 있다. 모든 결과들을 반영해서 요약하면 아래와 같다. ( R e ( s ) > 1 ) ζ ( s ) = ∑ k = 1 ∞ 1 k s ( R e ( s ) > 0 ) ζ ( s ) = lim ⁡ n → ∞ [ ∑ k = 1 n 1 k s − n 1 − s 1 − s ] ( R e ( s ) > − 1 ) ζ ( s ) = lim ⁡ n → ∞ [ ∑ k = 1 n 1 k s − n 1 − s 1 − s − 1 2 n s ] ( R e ( s ) > − 3 ) ζ ( s ) = lim ⁡ n → ∞ [ ∑ k = 1 n 1 k s − n 1 − s 1 − s − 1 2 n s + s 12 n s + 1 ] ( R e ( s ) > − 5 ) ζ ( s ) = lim ⁡ n → ∞ [ ∑ k = 1 n 1 k s − n 1 − s 1 − s − 1 2 n s + s 12 n s + 1 − s ( s + 1 ) ( s + 2 ) 720 n s + 3 ] ( R e ( s ) > − 7 ) ζ ( s ) = lim ⁡ n → ∞ [ ∑ k = 1 n 1 k s − n 1 − s 1 − s − 1 2 n s + s 12 n s + 1 − s ( s + 1 ) ( s + 2 ) 720 n s + 3 + s ( s + 1 ) ( s + 2 ) ( s + 3 ) ( s + 4 ) 30240 n s + 5 ] \begin{aligned} &({\rm Re}(s) > 1) & \quad \zeta(s) &= \sum_{k=1}^\infty \frac1{k^s} \\ &({\rm Re}(s) > 0) & \quad \zeta(s) &= \lim_{n\to\infty} \Biggl[ \,\sum_{k=1}^n \frac1{k^s} -\frac{n^{1-s}}{1-s} \Biggr] \\ &({\rm Re}(s) > -1) & \quad \zeta(s) &= \lim_{n\to\infty} \Biggl[ \,\sum_{k=1}^n \frac1{k^s} -\frac{n^{1-s}}{1-s} -\frac1{2n^s} \Biggr] \\ &({\rm Re}(s) > -3) & \quad \zeta(s) &= \lim_{n\to\infty} \Biggl[ \,\sum_{k=1}^n \frac1{k^s} -\frac{n^{1-s}}{1-s} -\frac1{2n^s} +\frac s{12n^{s+1}} \Biggr] \\ &({\rm Re}(s) > -5) & \quad \zeta(s) &= \lim_{n\to\infty} \Biggl[ \,\sum_{k=1}^n \frac1{k^s} -\frac{n^{1-s}}{1-s} -\frac1{2n^s} +\frac s{12n^{s+1}} -\frac{s(s+1)(s+2)}{720n^{s+3}} \Biggr] \\ &({\rm Re}(s) > -7) & \quad \zeta(s) &= \lim_{n\to\infty} \Biggl[ \,\sum_{k=1}^n \frac1{k^s} -\frac{n^{1-s}}{1-s} -\frac1{2n^s} +\frac s{12n^{s+1}} -\frac{s(s+1)(s+2)}{720n^{s+3}} +\frac{s(s+1)(s+2)(s+3)(s+4)}{30240n^{s+5}} \Biggr] \\ \end{aligned} ​ ( Re ( s ) > 1 ) ( Re ( s ) > 0 ) ( Re ( s ) > − 1 ) ( Re ( s ) > − 3 ) ( Re ( s ) > − 5 ) ( Re ( s ) > − 7 ) ​ ζ ( s ) ζ ( s ) ζ ( s ) ζ ( s ) ζ ( s ) ζ ( s ) ​ = k = 1 ∑ ∞ ​ k s 1 ​ = n → ∞ lim ​ [ k = 1 ∑ n ​ k s 1 ​ − 1 − s n 1 − s ​ ] = n → ∞ lim ​ [ k = 1 ∑ n ​ k s 1 ​ − 1 − s n 1 − s ​ − 2 n s 1 ​ ] = n → ∞ lim ​ [ k = 1 ∑ n ​ k s 1 ​ − 1 − s n 1 − s ​ − 2 n s 1 ​ + 12 n s + 1 s ​ ] = n → ∞ lim ​ [ k = 1 ∑ n ​ k s 1 ​ − 1 − s n 1 − s ​ − 2 n s 1 ​ + 12 n s + 1 s ​ − 720 n s + 3 s ( s + 1 ) ( s + 2 ) ​ ] = n → ∞ lim ​ [ k = 1 ∑ n ​ k s 1 ​ − 1 − s n 1 − s ​ − 2 n s 1 ​ + 12 n s + 1 s ​ − 720 n s + 3 s ( s + 1 ) ( s + 2 ) ​ + 30240 n s + 5 s ( s + 1 ) ( s + 2 ) ( s + 3 ) ( s + 4 ) ​ ] ​
+
+3. 성질 [편집]
+- 제타 함수는 다음과 같은 함수 방정식을 만족시킨다. ζ ( s ) = 2 s π s − 1 sin ⁡ ( π s 2 ) Γ ( 1 − s ) ζ ( 1 − s ) \begin{aligned} \zeta(s) = 2^s \pi^{s-1} \sin \Bigl( \frac{\pi s}2 \Bigr) \Gamma(1-s) \,\zeta(1-s) \end{aligned} ζ ( s ) = 2 s π s − 1 sin ( 2 π s ​ ) Γ ( 1 − s ) ζ ( 1 − s ) ​
+
+[증명 보기]
+아까 얻은 급수 생성용 식에 n n n 대신 π n 2 πn^2 π n 2 , s s s 대신 s 2 \frac s2 2 s ​ 를 넣으면 아래 식이 나온다. Γ ( s / 2 ) π s / 2 n s = ∫ 0 ∞ e − π n 2 t t s 2 − 1 d t \displaystyle \frac{Γ(s/2)}{π^{s/2}n^s}=\int_0^∞e^{-πn^2t}t^{\frac s2-1}{\rm d}t π s /2 n s Γ ( s /2 ) ​ = ∫ 0 ∞ ​ e − π n 2 t t 2 s ​ − 1 d t
+이 식을 아까처럼 n = 1 ∼ ∞ n=1\sim\infty n = 1 ∼ ∞ 까지 더해준 뒤 ∑ n = − ∞ ∞ e − π n 2 t = θ ( t ) \sum_{n=-∞}^∞e^{-πn^2t}=θ(t) ∑ n = − ∞ ∞ ​ e − π n 2 t = θ ( t ) 로 놓으면 다음과 같은 식을 얻는다. π − s 2 Γ ( s 2 ) ζ ( s ) = ∫ 0 ∞ θ ( t ) − 1 2 t s 2 − 1 d t = ∫ 0 1 θ ( t ) − 1 2 t s 2 − 1 d t + ∫ 1 ∞ θ ( t ) − 1 2 t s 2 − 1 d t = − 1 s + ∫ 0 1 θ ( t ) 2 t s 2 − 1 d t + ∫ 1 ∞ θ ( t ) − 1 2 t s 2 − 1 d t \begin{aligned}π^{-\frac s2}Γ\left(\frac s2\right)ζ(s)&=\int_0^∞\frac{θ(t)-1}2t^{\frac s2-1}{\rm d}t\\&=\int_0^1\frac{θ(t)-1}2t^{\frac s2-1}{\rm d}t+\int_1^∞\frac{θ(t)-1}2t^{\frac s2-1}{\rm d}t\\&=-\frac 1s+\int_0^1\frac{θ(t)}2t^{\frac s2-1}{\rm d}t+\int_1^∞\frac{θ(t)-1}2t^{\frac s2-1}{\rm d}t\end{aligned} π − 2 s ​ Γ ( 2 s ​ ) ζ ( s ) ​ = ∫ 0 ∞ ​ 2 θ ( t ) − 1 ​ t 2 s ​ − 1 d t = ∫ 0 1 ​ 2 θ ( t ) − 1 ​ t 2 s ​ − 1 d t + ∫ 1 ∞ ​ 2 θ ( t ) − 1 ​ t 2 s ​ − 1 d t = − s 1 ​ + ∫ 0 1 ​ 2 θ ( t ) ​ t 2 s ​ − 1 d t + ∫ 1 ∞ ​ 2 θ ( t ) − 1 ​ t 2 s ​ − 1 d t ​
+
+한편 이 θ ( t ) \theta(t) θ ( t ) 는 아래와 같이 풀 수 있다. θ ( t ) = ∑ n = − ∞ ∞ e − π n 2 t = ∫ − ∞ ∞ ( ∑ n = − ∞ ∞ δ ( x − n ) ) e − π x 2 t d x = ∫ − ∞ ∞ ( ∑ n = − ∞ ∞ e 2 i π n x ) e − π x 2 t d x = ∑ n = − ∞ ∞ ∫ − ∞ ∞ e − π x 2 t + 2 i π n x d x = ∑ n = − ∞ ∞ ∫ − ∞ ∞ e − π n 2 t − π ( x − i n t ) 2 t d x = ∑ n = − ∞ ∞ e − π n 2 t ∫ − ∞ ∞ e − π ( x − i n t ) 2 t d x = ∑ n = − ∞ ∞ e − π n 2 t t = θ ( 1 / t ) t \begin{aligned}θ(t)&=\sum_{n=-∞}^∞e^{-πn^2t}\\&=\int_{-∞}^∞ \left(\sum_{n=-∞}^∞δ(x-n)\right)e^{-πx^2t}{\rm d}x\\&=\int_{-∞}^∞ \left(\sum_{n=-∞}^∞e^{2iπnx}\right)e^{-πx^2t}{\rm d}x\\&=\sum_{n=-∞}^∞\int_{-∞}^∞e^{-πx^2t+2iπnx}{\rm d}x\\&=\sum_{n=-∞}^∞\int_{-∞}^∞e^{-\frac{πn^2}t-π(x-\frac{in}t)^2t}{\rm d}x\\&=\sum_{n=-∞}^∞e^{-\frac{πn^2}t}\int_{-∞}^∞e^{-π(x-\frac{in}t)^2t}{\rm d}x\\&=\sum_{n=-∞}^∞\frac{e^{-\frac{πn^2}t}}{\sqrt t}\\&=\frac{θ(1/t)}{\sqrt t}\end{aligned} θ ( t ) ​ = n = − ∞ ∑ ∞ ​ e − π n 2 t = ∫ − ∞ ∞ ​ ( n = − ∞ ∑ ∞ ​ δ ( x − n ) ) e − π x 2 t d x = ∫ − ∞ ∞ ​ ( n = − ∞ ∑ ∞ ​ e 2 iπ n x ) e − π x 2 t d x = n = − ∞ ∑ ∞ ​ ∫ − ∞ ∞ ​ e − π x 2 t + 2 iπ n x d x = n = − ∞ ∑ ∞ ​ ∫ − ∞ ∞ ​ e − t π n 2 ​ − π ( x − t in ​ ) 2 t d x = n = − ∞ ∑ ∞ ​ e − t π n 2 ​ ∫ − ∞ ∞ ​ e − π ( x − t in ​ ) 2 t d x = n = − ∞ ∑ ∞ ​ t ​ e − t π n 2 ​ ​ = t ​ θ ( 1/ t ) ​ ​
+
+[※푸리에변환] [※해석적연속]
+위 풀이를 통해 얻은 공식을 통해 두번째 적분을 변형하면 ∫ 0 1 θ ( t ) 2 t s 2 − 1 d t = ∫ 0 1 θ ( 1 / t ) 2 t s − 1 2 − 1 d t ) = ∫ 1 ∞ θ ( u ) 2 u 1 − s 2 − 1 d u ( t = 1 / u 로 치환 ) = ∫ 1 ∞ [ θ ( u ) − 1 ] + 1 2 u 1 − s 2 − 1 d u = − 1 1 − s + ∫ 1 ∞ θ ( u ) − 1 2 u 1 − s 2 − 1 d u \begin{aligned}\int_0^1\frac{θ(t)}2t^{\frac s2-1}{\rm d}t&=\int_0^1\frac{θ(1/t)}2t^{\frac {s-1}2-1}{\rm d}t)\\&=\int_1^∞\frac{θ(u)}2u^{\frac {1-s}2-1}{\rm d}u\quad (t=1/u로\,\,치환)\\&=\int_1^∞\frac{[θ(u)-1]+1}2u^{\frac {1-s}2-1}{\rm d}u\\&=-\frac 1{1-s}+\int_1^∞\frac{θ(u)-1}2u^{\frac {1-s}2-1}{\rm d}u\end{aligned} ∫ 0 1 ​ 2 θ ( t ) ​ t 2 s ​ − 1 d t ​ = ∫ 0 1 ​ 2 θ ( 1/ t ) ​ t 2 s − 1 ​ − 1 d t ) = ∫ 1 ∞ ​ 2 θ ( u ) ​ u 2 1 − s ​ − 1 d u ( t = 1/ u 로 치환 ) = ∫ 1 ∞ ​ 2 [ θ ( u ) − 1 ] + 1 ​ u 2 1 − s ​ − 1 d u = − 1 − s 1 ​ + ∫ 1 ∞ ​ 2 θ ( u ) − 1 ​ u 2 1 − s ​ − 1 d u ​
+
+이고 이걸 아까 식에 넣고 정리하면 π − s 2 Γ ( s 2 ) ζ ( s ) = 1 s ( s − 1 ) + ∫ 1 ∞ θ ( t ) − 1 2 ( t s 2 − 1 + t 1 − s 2 − 1 ) d t \begin{aligned}π^{-\frac s2}Γ\left(\frac s2\right)ζ(s)=\frac1{s(s-1)}+\int_1^∞\frac{θ(t)-1}2(t^{\frac s2-1}+t^{\frac {1-s}2-1}){\rm d}t\end{aligned} π − 2 s ​ Γ ( 2 s ​ ) ζ ( s ) = s ( s − 1 ) 1 ​ + ∫ 1 ∞ ​ 2 θ ( t ) − 1 ​ ( t 2 s ​ − 1 + t 2 1 − s ​ − 1 ) d t ​
+
+이렇게 됨을 알 수 있는데, 위 식에 s대신 1-s를 넣어도 위 식과 똑같이 나오기 때문에 π − s 2 Γ ( s 2 ) ζ ( s ) = π − 1 − s 2 Γ ( 1 − s 2 ) ζ ( 1 − s ) \begin{aligned}π^{-\frac s2}Γ\left(\frac s2\right)ζ(s)=π^{-\frac {1-s}2}Γ\left(\frac {1-s}2\right)ζ(1-s)\end{aligned} π − 2 s ​ Γ ( 2 s ​ ) ζ ( s ) = π − 2 1 − s ​ Γ ( 2 1 − s ​ ) ζ ( 1 − s ) ​
+
+임을 알 수 있다. 이제 양변에 Γ ( 1 − s 2 ) Γ\left(1-\dfrac s2\right) Γ ( 1 − 2 s ​ ) 를 곱한 뒤 감마 함수 관련 공식을 써서 이 식을 정리하면 된다.
+
+- 임의의 자연수 n n n 개를 선택했을 때 서로소가 될 확률은 1 ζ ( n ) \cfrac1{\zeta(n)} ζ ( n ) 1 ​ 이다.
+
+4. 미적분 [편집]
+도함수 는 닫힌 형식으로 표현할 수 없고 급수 의 꼴로만 나타낼 수 있다. d d s ζ ( s ) = − ∑ k = 2 ∞ ln ⁡ k k s \displaystyle \frac{\rm d}{{\rm d}s} \,\zeta(s) = -\sum_{k=2}^\infty \frac{\ln k}{k^s} d s d ​ ζ ( s ) = − k = 2 ∑ ∞ ​ k s ln k ​
+
+역도함수 또한 닫힌 형식으로 표현할 수 없고 급수 의 꼴로만 나타낼 수 있다. ∫ ζ ( s ) d s = s − ∑ k = 2 ∞ 1 k s ln ⁡ k \displaystyle \int \zeta(s) \,{\rm d}s = s -\sum_{k=2}^\infty \frac1{k^s\ln k} ∫ ζ ( s ) d s = s − k = 2 ∑ ∞ ​ k s ln k 1 ​
+
+5. 관련 공식 [편집]
+- 오일러 곱 ζ ( s ) = ∏ p ∈ P p s p s − 1 \displaystyle \zeta(s) = \prod_{p\,\in\,\Bbb P} \frac{p^s}{p^s-1} ζ ( s ) = p ∈ P ∏ ​ p s − 1 p s ​
+
+[증명]
+모든 자연수는 ( 0 0 0 이상의 정수 m k m_k m k ​ 에 대해)
+
+n = p 1 m 1 p 2 m 2 p 3 m 3 ⋯ \displaystyle n = p_1^{m_1} p_2^{m_2} p_3^{m_3} \cdots\quad n = p 1 m 1 ​ ​ p 2 m 2 ​ ​ p 3 m 3 ​ ​ ⋯ ( { p 1 , p 2 , p 3 , ⋯ } ⊂ P \{p_1,\,p_2,\,p_3,\,\cdots\} \subset \Bbb P { p 1 ​ , p 2 ​ , p 3 ​ , ⋯ } ⊂ P )
+꼴로 소인수분해 되므로 다음이 성립한다.
+
+ζ ( s ) = ∑ n = 1 ∞ 1 n s = ∑ m 1 = 0 ∞ ∑ m 2 = 0 ∞ ∑ m 3 = 0 ∞ ⋯ 1 ( p 1 m 1 p 2 m 2 p 3 m 3 ⋯ ) s = ( ∑ m 1 = 0 ∞ ( p 1 − s ) m 1 ) ⁣ ( ∑ m 2 = 0 ∞ ( p 2 − s ) m 2 ) ⁣ ( ∑ m 3 = 0 ∞ ( p 3 − s ) m 3 ) ⋯ = ( 1 1 − p 1 − s ) ⁣ ( 1 1 − p 2 − s ) ⁣ ( 1 1 − p 3 − s ) ⋯ = ∏ p ∈ P 1 1 − p − s = ∏ p ∈ P p s p s − 1 \begin{aligned} \zeta(s) &= \sum_{n=1}^\infty \frac1{n^s} \\ &= \sum_{m_1=0}^\infty \sum_{m_2=0}^\infty \sum_{m_3=0}^\infty \cdots \frac1{{(p_1^{m_1} p_2^{m_2} p_3^{m_3} \cdots)}^s} \\ &= \Biggl( \sum_{m_1=0}^\infty ({p_1}^{-s})^{m_1} \Biggr) \!\Biggl( \sum_{m_2=0}^\infty ({p_2}^{-s})^{m_2} \Biggr) \!\Biggl( \sum_{m_3=0}^\infty ({p_3}^{-s})^{m_3} \Biggr) \cdots \\ &= \biggl( \frac1{1-{p_1}^{-s}} \biggr) \!\biggl( \frac1{1-{p_2}^{-s}} \biggr) \!\biggl( \frac1{1-{p_3}^{-s}} \biggr) \cdots \\ &= \prod_{p\ \in\ \Bbb P} \frac1{1-p^{-s}} \\ &= \prod_{p\ \in\ \Bbb P} \frac{p^s}{p^s-1} \end{aligned} ζ ( s ) ​ = n = 1 ∑ ∞ ​ n s 1 ​ = m 1 ​ = 0 ∑ ∞ ​ m 2 ​ = 0 ∑ ∞ ​ m 3 ​ = 0 ∑ ∞ ​ ⋯ ( p 1 m 1 ​ ​ p 2 m 2 ​ ​ p 3 m 3 ​ ​ ⋯ ) s 1 ​ = ( m 1 ​ = 0 ∑ ∞ ​ ( p 1 ​ − s ) m 1 ​ ) ( m 2 ​ = 0 ∑ ∞ ​ ( p 2 ​ − s ) m 2 ​ ) ( m 3 ​ = 0 ∑ ∞ ​ ( p 3 ​ − s ) m 3 ​ ) ⋯ = ( 1 − p 1 ​ − s 1 ​ ) ( 1 − p 2 ​ − s 1 ​ ) ( 1 − p 3 ​ − s 1 ​ ) ⋯ = p ∈ P ∏ ​ 1 − p − s 1 ​ = p ∈ P ∏ ​ p s − 1 p s ​ ​
+- 리만 제타 함수를 s = 1 s=1 s = 1 을 중심으로 로랑 급수 전개 를 하면 다음과 같다. ζ ( s ) = 1 s − 1 + ∑ n = 0 ∞ γ n n ! ( 1 − s ) n \displaystyle \zeta(s) = \frac1{s-1} +\sum_{n=0}^\infty \frac{\gamma_n}{n!} (1-s)^n ζ ( s ) = s − 1 1 ​ + n = 0 ∑ ∞ ​ n ! γ n ​ ​ ( 1 − s ) n
+
+여기서 γ n \gamma_n γ n ​ 은 스틸체스 상수 이다. [증명]
+먼저 제타 함수의 급수식에서 k = 1 k=1 k = 1 부터 k = m k=m k = m 까지만 더한 걸 계산하면 다음과 같다.
+
+∑ k = 1 m 1 k s = ∫ 1 m 1 x s d x + ∑ k = 1 m 1 k s − ∫ 1 m 1 x s d x = [ x 1 − s 1 − s ] 1 m + ⁣ ( ∑ k = 1 m k 1 − s k − ∫ 1 m x 1 − s x d x ⁣ ) = m 1 − s − 1 1 − s + ⁣ ( ∑ k = 1 m e ( 1 − s ) ln ⁡ k k − ∫ 1 m e ( 1 − s ) ln ⁡ x x d x ⁣ ) = 1 − m 1 − s s − 1 + ⁣ ( ∑ k = 1 m ∑ n = 0 ∞ ( ( 1 − s ) ln ⁡ k ) n n ! 1 k − ∫ 1 m ∑ n = 0 ∞ ( ( 1 − s ) ln ⁡ x ) n n ! 1 x d x ⁣ ) = 1 − m 1 − s s − 1 + ⁣ ( ∑ k = 1 m ∑ n = 0 ∞ ( 1 − s ) n n ! ln ⁡ n k k − ∫ 1 m ∑ n = 0 ∞ ( 1 − s ) n n ! ln ⁡ n x x d x ⁣ ) = 1 − m 1 − s s − 1 + ∑ n = 0 ∞ ( 1 − s ) n n ! ( ∑ k = 1 m ln ⁡ n k k − ∫ 1 m ln ⁡ n x x d x ⁣ ) \begin{aligned} \sum_{k=1}^m \frac1{k^s} &= \int_1^m \frac1{x^s} \,{\rm d}x + \sum_{k=1}^m \frac1{k^s} \,- \int_1^m \frac1{x^s} \,{\rm d}x \\ &= \biggl[ \frac{x^{1-s}}{1-s} \biggr]_1^m + \!\Biggl( \sum_{k=1}^m \frac{k^{1-s}}k \,- \int_1^m \frac{x^{1-s}}x \,{\rm d}x \!\Biggr) \\ &= \frac{m^{1-s}-1}{1-s} + \!\Biggl( \sum_{k=1}^m \frac{e^{(1-s)\ln k}}k \,- \int_1^m \frac{e^{(1-s)\ln x}}x \,{\rm d}x \!\Biggr) \\ &= \frac{1-m^{1-s}}{s-1} + \!\Biggl( \sum_{k=1}^m \sum_{n=0}^\infty \frac{((1-s)\ln k)^n}{n!} \frac1k \,- \int_1^m \sum_{n=0}^\infty \frac{((1-s)\ln x)^n}{n!} \frac1x \,{\rm d}x \!\Biggr) \\ &= \frac{1-m^{1-s}}{s-1} + \!\Biggl( \sum_{k=1}^m \sum_{n=0}^\infty \frac{(1-s)^n}{n!} \frac{\ln^n k}k \,- \int_1^m \sum_{n=0}^\infty \frac{(1-s)^n}{n!} \frac{\ln^n x}x \,{\rm d}x \!\Biggr) \\ &= \frac{1-m^{1-s}}{s-1} +\sum_{n=0}^\infty \frac{(1-s)^n}{n!} \Biggl( \sum_{k=1}^m \frac{\ln^n k}k \,- \int_1^m \frac{\ln^n x}x \,{\rm d}x \!\Biggr) \\ \end{aligned} k = 1 ∑ m ​ k s 1 ​ ​ = ∫ 1 m ​ x s 1 ​ d x + k = 1 ∑ m ​ k s 1 ​ − ∫ 1 m ​ x s 1 ​ d x = [ 1 − s x 1 − s ​ ] 1 m ​ + ( k = 1 ∑ m ​ k k 1 − s ​ − ∫ 1 m ​ x x 1 − s ​ d x ) = 1 − s m 1 − s − 1 ​ + ( k = 1 ∑ m ​ k e ( 1 − s ) l n k ​ − ∫ 1 m ​ x e ( 1 − s ) l n x ​ d x ) = s − 1 1 − m 1 − s ​ + ( k = 1 ∑ m ​ n = 0 ∑ ∞ ​ n ! (( 1 − s ) ln k ) n ​ k 1 ​ − ∫ 1 m ​ n = 0 ∑ ∞ ​ n ! (( 1 − s ) ln x ) n ​ x 1 ​ d x ) = s − 1 1 − m 1 − s ​ + ( k = 1 ∑ m ​ n = 0 ∑ ∞ ​ n ! ( 1 − s ) n ​ k ln n k ​ − ∫ 1 m ​ n = 0 ∑ ∞ ​ n ! ( 1 − s ) n ​ x ln n x ​ d x ) = s − 1 1 − m 1 − s ​ + n = 0 ∑ ∞ ​ n ! ( 1 − s ) n ​ ( k = 1 ∑ m ​ k ln n k ​ − ∫ 1 m ​ x ln n x ​ d x ) ​
+여기에 m → ∞ m\to\infty m → ∞ 의 극한을 취하면 좌변이 제타 함수가 되므로 다음과 같이 원하는 식을 얻는다.
+
+ζ ( s ) = lim ⁡ m → ∞ ∑ k = 1 m 1 k s = lim ⁡ m → ∞ 1 − m 1 − s s − 1 + ∑ n = 0 ∞ ( 1 − s ) n n ! lim ⁡ m → ∞ ( ∑ k = 1 m ln ⁡ n k k − ∫ 1 m ln ⁡ n x x d x ⁣ ) = 1 s − 1 + ∑ n = 0 ∞ ( 1 − s ) n n ! γ n \begin{aligned} \zeta(s) &= \lim_{m\to\infty} \sum_{k=1}^m \frac1{k^s} \\ &= \lim_{m\to\infty} \frac{1-m^{1-s}}{s-1} +\sum_{n=0}^\infty \frac{(1-s)^n}{n!} \lim_{m\to\infty} \Biggl( \sum_{k=1}^m \frac{\ln^n k}k \,- \int_1^m \frac{\ln^n x}x \,{\rm d}x \!\Biggr) \\ &= \frac1{s-1} +\sum_{n=0}^\infty \frac{(1-s)^n}{n!} \,\gamma_n \end{aligned} ζ ( s ) ​ = m → ∞ lim ​ k = 1 ∑ m ​ k s 1 ​ = m → ∞ lim ​ s − 1 1 − m 1 − s ​ + n = 0 ∑ ∞ ​ n ! ( 1 − s ) n ​ m → ∞ lim ​ ( k = 1 ∑ m ​ k ln n k ​ − ∫ 1 m ​ x ln n x ​ d x ) = s − 1 1 ​ + n = 0 ∑ ∞ ​ n ! ( 1 − s ) n ​ γ n ​ ​
+- 감마 함수 Γ ( z ) \Gamma(z) Γ ( z ) 와 제타 함수를 곱하면 다음과 같은 식도 얻을 수 있다. (단, z ∈ C z\in\Bbb C z ∈ C 이고 Re ⁡ ( z ) > 1 \operatorname{Re}(z)>1 Re ( z ) > 1 ) Γ ( z ) ζ ( z ) = ∫ 0 ∞ t z − 1 e t − 1 d t \displaystyle \Gamma(z) \,\zeta(z) = \int_0^\infty \frac{t^{z-1}}{e^t-1} \,{\rm d}t Γ ( z ) ζ ( z ) = ∫ 0 ∞ ​ e t − 1 t z − 1 ​ d t
+
+[증명]
+Γ ( z ) ζ ( z ) = ∑ n = 1 ∞ 1 n z ∫ 0 ∞ e − x x z − 1 d x = ∫ 0 ∞ ∑ n = 1 ∞ e − x x z − 1 n z − 1 1 n d x L e t ⁣ : x = n t ⇒ d x = n d t = ∫ 0 ∞ ∑ n = 1 ∞ e − n t t z − 1 d t = ∫ 0 ∞ e − t 1 − e − t t z − 1 d t = ∫ 0 ∞ t z − 1 e t − 1 d t \begin{aligned} \Gamma(z)\,\zeta(z) &= \sum_{n=1}^\infty \frac1{n^z} \int_0^\infty e^{-x} x^{z-1} \,{\rm d}x \\ &= \int_0^\infty \sum_{n=1}^\infty e^{-x} \frac{x^{z-1}}{n^{z-1}} \frac1n \,{\rm d}x \\ &\quad {\sf Let}\!: x=nt \Rightarrow {\rm d}x = n\,{\rm d}t \\ &= \int_0^\infty \sum_{n=1}^\infty e^{-nt} t^{z-1} \,{\rm d}t \\ &= \int_0^\infty \frac{e^{-t}}{1-e^{-t}} \,t^{z-1} \,{\rm d}t \\ &= \int_0^\infty \frac{t^{z-1}}{e^t-1} \,{\rm d}t \end{aligned} Γ ( z ) ζ ( z ) ​ = n = 1 ∑ ∞ ​ n z 1 ​ ∫ 0 ∞ ​ e − x x z − 1 d x = ∫ 0 ∞ ​ n = 1 ∑ ∞ ​ e − x n z − 1 x z − 1 ​ n 1 ​ d x Let : x = n t ⇒ d x = n d t = ∫ 0 ∞ ​ n = 1 ∑ ∞ ​ e − n t t z − 1 d t = ∫ 0 ∞ ​ 1 − e − t e − t ​ t z − 1 d t = ∫ 0 ∞ ​ e t − 1 t z − 1 ​ d t ​
+
+- 다음 정적분은 보즈 적분(Bose integrals) 이라고 알려져 있으며, 물리학에서 자주 등장한다. (단, n ∈ n\in\; n ∈ Z 0 + \Z^{0+} Z 0 + ) ∫ 0 ∞ t n e t − 1 d t = n ! ⋅ ζ ( n + 1 ) \begin{aligned} \int_0^\infty \frac{t^n}{e^t-1} \,{\rm d}t = n! \cdot \zeta(n+1) \end{aligned} ∫ 0 ∞ ​ e t − 1 t n ​ d t = n ! ⋅ ζ ( n + 1 ) ​
+- 제타 함수의 무한급수꼴 정의와 비슷하게 생긴 다음 급수들의 값은 제타 함수로 표현할 수 있다. - 디리클레 에타 함수 η ( s ) \eta(s) η ( s ) η ( s ) = ∑ n = 1 ∞ ( − 1 ) n + 1 n s = 1 1 s − 1 2 s + 1 3 s − 1 4 s + ⋯ = ( 1 − 2 1 − s ) ζ ( s ) \begin{aligned} \eta(s) &= \sum_{n=1}^\infty \frac{(-1)^{n+1}}{n^s} = \frac1{1^s} -\frac1{2^s} +\frac1{3^s} -\frac1{4^s} +\cdots \\ &= (1-2^{1-s})\,\zeta(s) \end{aligned} η ( s ) ​ = n = 1 ∑ ∞ ​ n s ( − 1 ) n + 1 ​ = 1 s 1 ​ − 2 s 1 ​ + 3 s 1 ​ − 4 s 1 ​ + ⋯ = ( 1 − 2 1 − s ) ζ ( s ) ​
+
+[증명]
+∑ n = 1 ∞ ( − 1 ) n n s + ζ ( s ) = ∑ n = 1 ∞ ( − 1 ) n n s + ∑ n = 1 ∞ 1 n s = 2 ∑ n = 2 , 4 , ⋯ ∞ 1 n s L e t ⁣ : n = 2 k = 2 ∑ k = 1 ∞ 1 ( 2 k ) s = 2 1 − s ∑ k = 1 ∞ 1 k s = 2 1 − s ζ ( s ) ⇒ ∑ n = 1 ∞ ( − 1 ) n n s = 2 1 − s ζ ( s ) − ζ ( s ) = ( 2 1 − s − 1 ) ζ ( s ) ∴ ∑ n = 1 ∞ ( − 1 ) n + 1 n s = ( 1 − 2 1 − s ) ζ ( s ) \begin{aligned} \sum_{n=1}^{\infty}\frac{(-1)^n}{n^s}+\zeta(s)&=\sum_{n=1}^{\infty}\frac{(-1)^n}{n^s}+\sum_{n=1}^{\infty}\frac1{n^s} \\ &=2\sum_{n=2,4,\cdots}^{\infty}\frac1{n^s}\qquad\quad{\sf Let}\!: n=2k \\ &=2\sum_{k=1}^{\infty}\frac1{(2k)^s} \\ &=2^{1-s}\sum_{k=1}^{\infty}\frac1{k^s} \\ &=2^{1-s}\zeta(s) \\ \Rightarrow\sum_{n=1}^{\infty}\frac{(-1)^n}{n^s}&=2^{1-s}\zeta(s)-\zeta(s)=(2^{1-s}-1)\,\zeta(s) \\ \therefore\sum_{n=1}^{\infty}\frac{(-1)^{n+1}}{n^s}&=(1-2^{1-s})\,\zeta(s) \end{aligned} n = 1 ∑ ∞ ​ n s ( − 1 ) n ​ + ζ ( s ) ⇒ n = 1 ∑ ∞ ​ n s ( − 1 ) n ​ ∴ n = 1 ∑ ∞ ​ n s ( − 1 ) n + 1 ​ ​ = n = 1 ∑ ∞ ​ n s ( − 1 ) n ​ + n = 1 ∑ ∞ ​ n s 1 ​ = 2 n = 2 , 4 , ⋯ ∑ ∞ ​ n s 1 ​ Let : n = 2 k = 2 k = 1 ∑ ∞ ​ ( 2 k ) s 1 ​ = 2 1 − s k = 1 ∑ ∞ ​ k s 1 ​ = 2 1 − s ζ ( s ) = 2 1 − s ζ ( s ) − ζ ( s ) = ( 2 1 − s − 1 ) ζ ( s ) = ( 1 − 2 1 − s ) ζ ( s ) ​
+
+[s=2일 때의 또 다른 계산법]
+이는
+
+∑ n = 1 ∞ ( − 1 ) n + 1 n 2 = 1 1 2 − 1 2 2 + 1 3 2 − 1 4 2 + ⋯ = π 2 12 \displaystyle \sum_{n=1}^\infty \frac{(-1)^{n+1}}{n^2} = \frac1{1^2}-\frac1{2^2}+\frac1{3^2}-\frac1{4^2}+\cdots = \frac{\pi^2}{12} n = 1 ∑ ∞ ​ n 2 ( − 1 ) n + 1 ​ = 1 2 1 ​ − 2 2 1 ​ + 3 2 1 ​ − 4 2 1 ​ + ⋯ = 12 π 2 ​
+임을 계산하는 한정된 케이스의 계산법이다. [6] 제타 함수를 사용하지 않고 복소해석학의 도구만으로 증명해내는 것이 포인트.
+
+자연수 N N N 에 대하여, 다음 식으로 주어지는 정사각형을 양의 방향(시계 방향)으로 갖는 경로를 C N C_N C N ​ 이라 하자.
+
+x = ± ⁣ ( N + 1 2 ) ⁣ π , y = ± ⁣ ( N + 1 2 ) ⁣ π x = \pm \!\left( N+\dfrac12 \right) \!\pi, \quad y = \pm \!\left( N+\dfrac12 \right) \!\pi x = ± ( N + 2 1 ​ ) π , y = ± ( N + 2 1 ​ ) π
+이때, ∮ C N d z z 2 sin ⁡ z \displaystyle \oint_{C_N} \frac{{\rm d}z}{z^2\sin z} ∮ C N ​ ​ z 2 sin z d z ​ 라는 적분식의 극한값을 계산해보자.
+
+f ( z ) = 1 z 2 sin ⁡ z f(z) = \dfrac1{z^2\sin z} f ( z ) = z 2 sin z 1 ​ 의 영점이 z = n π z=n\pi z = nπ 꼴이라는 사실은 쉽게 알 수 있다. 이제 C N C_N C N ​ 내부의 영점에 대해 모든 유수를 계산해보자. 먼저 z = 0 z=0 z = 0 인 경우부터 보자. Res ⁡ z = 0 f ( z ) \underset{z=0}{\operatorname{Res}} \,f(z) z = 0 Res ​ f ( z ) 은 다음과 같이 계산된다.
+
+1 z 2 sin ⁡ z = 1 z 2 ⋅ 1 sin ⁡ z \dfrac1{z^2\sin z} = \dfrac1{z^2} \cdot \dfrac1{\sin z} z 2 sin z 1 ​ = z 2 1 ​ ⋅ sin z 1 ​
+한편, sin ⁡ z = ∑ n = 0 ∞ ( − 1 ) n z 2 n + 1 ( 2 n + 1 ) ! \displaystyle \sin z = \sum_{n=0}^\infty \frac{(-1)^n z^{2n+1}}{(2n+1)!} sin z = n = 0 ∑ ∞ ​ ( 2 n + 1 )! ( − 1 ) n z 2 n + 1 ​ 이므로 다음을 얻을 수 있다.
+
+1 z 2 sin ⁡ z = 1 z 2 ⋅ 1 ∑ n = 0 ∞ ( − 1 ) n z 2 n + 1 ( 2 n + 1 ) ! = 1 z 2 ⋅ 1 z − z 3 3 ! + z 5 5 ! − ⋯ = 1 z 3 ⋅ 1 1 − ( z 2 3 ! − z 4 5 ! + ⋯ ) \begin{aligned} \frac1{z^2\sin z} &= \frac1{z^2} \cdot \frac1{\displaystyle \sum_{n=0}^\infty \frac{(-1)^n z^{2n+1}}{(2n+1)!}} \\ &= \frac1{z^2} \cdot \frac1{z -\dfrac{z^3}{3!} +\dfrac{z^5}{5!} -\cdots} \\ &= \frac1{z^3} \cdot \frac1{1 -\left( \dfrac{z^2}{3!} -\dfrac{z^4}{5!} +\cdots \right)} \end{aligned} z 2 sin z 1 ​ ​ = z 2 1 ​ ⋅ n = 0 ∑ ∞ ​ ( 2 n + 1 )! ( − 1 ) n z 2 n + 1 ​ 1 ​ = z 2 1 ​ ⋅ z − 3 ! z 3 ​ + 5 ! z 5 ​ − ⋯ 1 ​ = z 3 1 ​ ⋅ 1 − ( 3 ! z 2 ​ − 5 ! z 4 ​ + ⋯ ) 1 ​ ​
+여기서 z 2 3 ! − z 4 5 ! + ⋯ = z 2 3 ! + w z 4 = ξ \dfrac{z^2}{3!} -\dfrac{z^4}{5!} +\cdots = \dfrac{z^2}{3!} +wz^4 = \xi 3 ! z 2 ​ − 5 ! z 4 ​ + ⋯ = 3 ! z 2 ​ + w z 4 = ξ 라고 축약하자. 그러면 잘 알려진 테일러 급수 1 1 − x = ∑ k = 0 ∞ x k \displaystyle \frac1{1-x} = \sum_{k=0}^\infty x^k 1 − x 1 ​ = k = 0 ∑ ∞ ​ x k 에서 x x x 대신 ξ \xi ξ 를 대입해 다음과 같은 형태의 로랑 급수를 전개할 수 있다.
+
+1 z 3 ⋅ 1 1 − ξ = 1 z 3 ⋅ ( 1 + ξ + ξ 2 + ⋯ ) \dfrac1{z^3} \cdot \dfrac1{1-\xi} = \dfrac1{z^3} \cdot (1+\xi+\xi^2+\cdots) z 3 1 ​ ⋅ 1 − ξ 1 ​ = z 3 1 ​ ⋅ ( 1 + ξ + ξ 2 + ⋯ )
+이제 ξ \xi ξ 대신 z 2 3 ! + w z 4 \dfrac{z^2}{3!} + wz^4 3 ! z 2 ​ + w z 4 를 대입해보자. 우리가 구해야 하는 건 z = 0 z=0 z = 0 에서의 유수이므로, 앞에 1 z 3 \dfrac1{z^3} z 3 1 ​ 이 곱해지는 걸 감안하여 ∑ n = 0 ∞ ξ n \displaystyle \sum_{n=0}^\infty \xi^n n = 0 ∑ ∞ ​ ξ n 에서 z z z 의 이차항에 대한 계수만을 구하면 된다. 즉,
+
+1 + ξ + ξ 2 + ⋯ = 1 + ( z 2 3 ! + w z 4 ) + ( z 2 3 ! + w z 4 ) ⁣ 2 + ( z 2 3 ! + w z 4 ) ⁣ 3 + ⋯ = 1 + z 2 3 ! + ( 1 ( 3 ! ) 2 + w ) ⁣ z 4 + ⋯ ⇒ 1 z 3 ⋅ ( 1 + ξ + ξ 2 + ⋯ ) = 1 z 3 ⋅ ( 1 + z 2 3 ! + ( 1 ( 3 ! ) 2 + w ) ⁣ z 4 + ⋯ ) = 1 z 3 + 1 3 ! ⋅ z + ( 1 ( 3 ! ) 2 + w ) ⁣ z + ⋯ \begin{aligned} 1+\xi+\xi^2+\cdots &= 1 +\biggl( \frac{z^2}{3!} +wz^4 \biggr) +\biggl(\frac{z^2}{3!} +wz^4 \biggr)^{\!2} +\biggl( \frac{z^2}{3!} +wz^4 \biggr)^{\!3} +\cdots \\ &= 1 +\frac{z^2}{3!} +\left( \frac1{(3!)^2} +w \right) \!z^4 +\cdots \\ \Rightarrow \dfrac1{z^3} \cdot (1+\xi+\xi^2+\cdots) &= \dfrac1{z^3} \cdot \biggl( 1 +\frac{z^2}{3!} +\left( \frac1{(3!)^2} +w \right) \!z^4 +\cdots \biggr) \\ &= \frac1{z^3} +\frac1{3!\cdot z} +\left( \frac1{(3!)^2} +w \right) \!z +\cdots \end{aligned} 1 + ξ + ξ 2 + ⋯ ⇒ z 3 1 ​ ⋅ ( 1 + ξ + ξ 2 + ⋯ ) ​ = 1 + ( 3 ! z 2 ​ + w z 4 ) + ( 3 ! z 2 ​ + w z 4 ) 2 + ( 3 ! z 2 ​ + w z 4 ) 3 + ⋯ = 1 + 3 ! z 2 ​ + ( ( 3 ! ) 2 1 ​ + w ) z 4 + ⋯ = z 3 1 ​ ⋅ ( 1 + 3 ! z 2 ​ + ( ( 3 ! ) 2 1 ​ + w ) z 4 + ⋯ ) = z 3 1 ​ + 3 ! ⋅ z 1 ​ + ( ( 3 ! ) 2 1 ​ + w ) z + ⋯ ​
+이므로 z = 0 z=0 z = 0 에서의 유수는 1 3 ! = 1 6 \dfrac1{3!} = \dfrac16 3 ! 1 ​ = 6 1 ​ 이 된다.
+
+이제 z = n π z=n\pi z = nπ 에서의 유수를 구해보자. 먼저 1 z 2 sin ⁡ z \dfrac1{z^2\sin z} z 2 sin z 1 ​ 의 특이점의 형태를 확인해보자. g ( z ) = z 2 sin ⁡ z g(z)=z^2\sin z g ( z ) = z 2 sin z 는 g ( n π ) = 0 g(n\pi)=0 g ( nπ ) = 0 이며 g ′ ( z ) = 2 z sin ⁡ z + z 2 cos ⁡ z g'(z) = 2z\sin z +z^2\cos z g ′ ( z ) = 2 z sin z + z 2 cos z 이다. 따라서 h ( z ) = 1 h(z)=1 h ( z ) = 1 이라는 해석함수를 하나 추가할 경우 다음이 성립함은 복소해석학의 성질에 의해 자명하다.
+
+Res ⁡ z = n π h ( z ) g ( z ) = h ( n π ) g ′ ( n π ) = 1 2 n π sin ⁡ n π + n 2 π 2 cos ⁡ n π = ( − 1 ) n n 2 π 2 \underset{z=n\pi}{\operatorname{Res}} \,\dfrac{h(z)}{g(z)} = \dfrac{h(n\pi)}{g'(n\pi)} = \dfrac1{2n\pi \sin n\pi +n^2\pi^2 \cos n\pi} = \dfrac{(-1)^n}{n^2\pi^2} z = nπ Res ​ g ( z ) h ( z ) ​ = g ′ ( nπ ) h ( nπ ) ​ = 2 nπ sin nπ + n 2 π 2 cos nπ 1 ​ = n 2 π 2 ( − 1 ) n ​
+즉,
+
+∮ C N d z z 2 sin ⁡ z = 2 π i ( 1 6 + 2 ∑ n = 1 N ( − 1 ) n n 2 π 2 ) \displaystyle \oint_{C_N} \frac{{\rm d}z}{z^2\sin z} = 2\pi i \left( \frac16 +2\sum_{n=1}^N \frac{(-1)^n}{n^2\pi^2} \right) ∮ C N ​ ​ z 2 sin z d z ​ = 2 π i ( 6 1 ​ + 2 n = 1 ∑ N ​ n 2 π 2 ( − 1 ) n ​ )
+이다. 그런데 N N N 이 한없이 커지면 적분영역은 무한원점에 대한 원의 외부로 볼 수 있으므로 조르당 보조 정리(Jordan's lemma)를 적용할 수 있게 되어 [7] 이 적분값의 극한은 0이 된다. 따라서
+
+lim ⁡ N → ∞ ∮ C N d z z 2 sin ⁡ z = lim ⁡ N → ∞ 2 π i ( 1 6 + 2 ∑ n = 1 N ( − 1 ) n n 2 π 2 ) = 0 \displaystyle \lim_{N\to\infty} \oint_{C_N} \frac{{\rm d}z}{z^2\sin z} = \lim_{N\to\infty} 2\pi i \left( \frac16 +2\sum_{n=1}^N \frac{(-1)^n}{n^2\pi^2} \right) = 0 N → ∞ lim ​ ∮ C N ​ ​ z 2 sin z d z ​ = N → ∞ lim ​ 2 π i ( 6 1 ​ + 2 n = 1 ∑ N ​ n 2 π 2 ( − 1 ) n ​ ) = 0
+이 된다.
+
+오른쪽 등호 관계식을 주목해보자.
+
+lim ⁡ N → ∞ 2 π i ( 1 6 + 2 ∑ n = 1 N ( − 1 ) n n 2 π 2 ) = 0 \displaystyle \lim_{N\to\infty} 2\pi i \left( \frac16 +2\sum_{n=1}^N \frac{(-1)^n}{n^2\pi^2} \right) = 0 N → ∞ lim ​ 2 π i ( 6 1 ​ + 2 n = 1 ∑ N ​ n 2 π 2 ( − 1 ) n ​ ) = 0
+식을 정리하자.
+
+lim ⁡ N → ∞ ∑ n = 1 N ( − 1 ) n n 2 π 2 = − 1 12 \displaystyle \lim_{N\to\infty} \sum_{n=1}^N \frac{(-1)^n}{n^2\pi^2} = -\frac1{12} N → ∞ lim ​ n = 1 ∑ N ​ n 2 π 2 ( − 1 ) n ​ = − 12 1 ​
+따라서 양변에 − π 2 -\pi^2 − π 2 을 곱하면 다음 계산값을 구할 수 있다.
+
+∑ n = 1 ∞ ( − 1 ) n + 1 n 2 = π 2 12 \displaystyle \sum_{n=1}^\infty \frac{(-1)^{n+1}}{n^2} = \frac{\pi^2}{12} n = 1 ∑ ∞ ​ n 2 ( − 1 ) n + 1 ​ = 12 π 2 ​
+- ∑ n = 1 ∞ 1 ( 2 n − 1 ) s = 1 1 s + 1 3 s + 1 5 s + 1 7 s + ⋯ = ( 1 − 2 − s ) ζ ( s ) \displaystyle \sum_{n=1}^{\infty}\frac1{(2n-1)^s}=\frac1{1^s}+\frac1{3^s}+\frac1{5^s}+\frac1{7^s}+\cdots=(1-2^{-s})\zeta(s) n = 1 ∑ ∞ ​ ( 2 n − 1 ) s 1 ​ = 1 s 1 ​ + 3 s 1 ​ + 5 s 1 ​ + 7 s 1 ​ + ⋯ = ( 1 − 2 − s ) ζ ( s ) [증명]
+ζ ( s ) = ∑ n = 1 ∞ 1 n s = ( 1 1 s + 1 3 s + 1 5 s + ⋯ ) + ( 1 2 s + 1 4 s + 1 6 s + ⋯ ) = ∑ n = 1 ∞ 1 ( 2 n − 1 ) s + ∑ n = 1 ∞ 1 ( 2 n ) s = ∑ n = 1 ∞ 1 ( 2 n − 1 ) s + 1 2 s ∑ n = 1 ∞ 1 n s = ∑ n = 1 ∞ 1 ( 2 n − 1 ) s + 2 − s ζ ( s ) ⇒ ∑ n = 1 ∞ 1 ( 2 n − 1 ) s = ζ ( s ) − 2 − s ζ ( s ) ∴ ∑ n = 1 ∞ 1 ( 2 n − 1 ) s = ( 1 − 2 − s ) ζ ( s ) \begin{aligned} \zeta(s)&=\sum_{n=1}^{\infty}\frac1{n^s} \\ &=\left(\frac1{1^s}+\frac1{3^s}+\frac1{5^s}+\cdots\right)+\left(\frac1{2^s}+\frac1{4^s}+\frac1{6^s}+\cdots\right) \\ &=\sum_{n=1}^{\infty}\frac1{(2n-1)^s}+\sum_{n=1}^{\infty}\frac1{(2n)^s} \\ &=\sum_{n=1}^{\infty}\frac1{(2n-1)^s}+\frac1{2^s}\sum_{n=1}^{\infty}\frac1{n^s} \\ &=\sum_{n=1}^{\infty}\frac1{(2n-1)^s}+2^{-s}\zeta(s) \\ \Rightarrow\sum_{n=1}^{\infty}\frac1{(2n-1)^s}&=\zeta(s)-2^{-s}\zeta(s) \\ \therefore\sum_{n=1}^{\infty}\frac1{(2n-1)^s}&=(1-2^{-s})\zeta(s) \end{aligned} ζ ( s ) ⇒ n = 1 ∑ ∞ ​ ( 2 n − 1 ) s 1 ​ ∴ n = 1 ∑ ∞ ​ ( 2 n − 1 ) s 1 ​ ​ = n = 1 ∑ ∞ ​ n s 1 ​ = ( 1 s 1 ​ + 3 s 1 ​ + 5 s 1 ​ + ⋯ ) + ( 2 s 1 ​ + 4 s 1 ​ + 6 s 1 ​ + ⋯ ) = n = 1 ∑ ∞ ​ ( 2 n − 1 ) s 1 ​ + n = 1 ∑ ∞ ​ ( 2 n ) s 1 ​ = n = 1 ∑ ∞ ​ ( 2 n − 1 ) s 1 ​ + 2 s 1 ​ n = 1 ∑ ∞ ​ n s 1 ​ = n = 1 ∑ ∞ ​ ( 2 n − 1 ) s 1 ​ + 2 − s ζ ( s ) = ζ ( s ) − 2 − s ζ ( s ) = ( 1 − 2 − s ) ζ ( s ) ​
+- 제타 함수의 짝수값의 무한급수로 1 1 1 을 만들 수 있다. ∑ n = 1 ∞ ζ ( 2 n ) 2 2 n − 1 = ζ ( 2 ) 2 + ζ ( 4 ) 2 3 + ζ ( 6 ) 2 5 + ζ ( 8 ) 2 7 + ζ ( 10 ) 2 9 + ζ ( 12 ) 2 11 + ⋯ = π 2 12 + π 4 720 + π 6 30 240 + π 8 1 209 600 + π 10 47 900 160 + 691 π 12 1 307 674 368 000 + ⋯ = 1 \begin{aligned} \sum_{n=1}^\infty \frac{\zeta(2n)}{2^{2n-1}} &= \frac{\zeta(2)}2 +\frac{\zeta(4)}{2^3} +\frac{\zeta(6)}{2^5} +\frac{\zeta(8)}{2^7} +\frac{\zeta(10)}{2^9} +\frac{\zeta(12)}{2^{11}} +\cdots \\ &= \frac{\pi^2}{12} +\frac{\pi^4}{720} +\frac{\pi^6}{30\,240} +\frac{\pi^8}{1\,209\,600} +\frac{\pi^{10}}{47\,900\,160} +\frac{691\pi^{12}}{1\,307\,674\,368\,000} +\cdots \\ &= 1 \end{aligned} n = 1 ∑ ∞ ​ 2 2 n − 1 ζ ( 2 n ) ​ ​ = 2 ζ ( 2 ) ​ + 2 3 ζ ( 4 ) ​ + 2 5 ζ ( 6 ) ​ + 2 7 ζ ( 8 ) ​ + 2 9 ζ ( 10 ) ​ + 2 11 ζ ( 12 ) ​ + ⋯ = 12 π 2 ​ + 720 π 4 ​ + 30 240 π 6 ​ + 1 209 600 π 8 ​ + 47 900 160 π 10 ​ + 1 307 674 368 000 691 π 12 ​ + ⋯ = 1 ​
+
+[증명]
+∑ n = 1 ∞ ζ ( 2 n ) 2 2 n − 1 = ∑ n = 1 ∞ ∑ k = 1 ∞ 1 k 2 n ⋅ 2 2 2 n = 2 ∑ k = 1 ∞ ∑ n = 1 ∞ ( 1 4 k 2 ) ⁣ n = 2 ∑ k = 1 ∞ ( 1 / 4 k 2 ) 1 − ( 1 / 4 k 2 ) = 2 ∑ k = 1 ∞ 1 4 k 2 − 1 = 2 ∑ k = 1 ∞ 1 ( 2 k − 1 ) ( 2 k + 1 ) = ∑ k = 1 ∞ ( 1 2 k − 1 − 1 2 k + 1 ) = ⁣ ( 1 − 1 3 ) ⁣ + ⁣ ( 1 3 − 1 5 ) ⁣ + ⁣ ( 1 5 − 1 7 ) ⁣ + ⋯ = 1 \begin{aligned} \sum_{n=1}^\infty \frac{\zeta(2n)}{2^{2n-1}} &= \sum_{n=1}^\infty \sum_{k=1}^\infty \frac1{k^{2n}} \cdot \frac2{2^{2n}} = 2\sum_{k=1}^\infty \sum_{n=1}^\infty \biggl( \frac1{4k^2} \biggr)^{\!n} \\ &= 2\sum_{k=1}^\infty \frac{(1/4k^2)}{1-(1/4k^2)} = 2\sum_{k=1}^\infty \frac1{4k^2-1} \\ &= 2\sum_{k=1}^\infty \frac1{(2k-1)(2k+1)} \\ &= \sum_{k=1}^\infty \biggl( \frac1{2k-1} -\frac1{2k+1} \biggr) \\ &= \!\biggl(1 -\frac13 \biggr) \!+\!\biggl( \frac13 -\frac15 \biggr) \!+\!\biggl( \frac15 -\frac17 \biggr) \!+\cdots \\ &= 1 \end{aligned} n = 1 ∑ ∞ ​ 2 2 n − 1 ζ ( 2 n ) ​ ​ = n = 1 ∑ ∞ ​ k = 1 ∑ ∞ ​ k 2 n 1 ​ ⋅ 2 2 n 2 ​ = 2 k = 1 ∑ ∞ ​ n = 1 ∑ ∞ ​ ( 4 k 2 1 ​ ) n = 2 k = 1 ∑ ∞ ​ 1 − ( 1/4 k 2 ) ( 1/4 k 2 ) ​ = 2 k = 1 ∑ ∞ ​ 4 k 2 − 1 1 ​ = 2 k = 1 ∑ ∞ ​ ( 2 k − 1 ) ( 2 k + 1 ) 1 ​ = k = 1 ∑ ∞ ​ ( 2 k − 1 1 ​ − 2 k + 1 1 ​ ) = ( 1 − 3 1 ​ ) + ( 3 1 ​ − 5 1 ​ ) + ( 5 1 ​ − 7 1 ​ ) + ⋯ = 1 ​
+- 제타 함수를 사용한 교대급수로 1 1 1 을 만들 수 있다. ∑ k = 2 ∞ ( − 1 ) k ( ζ ( k ) − 1 ) = ( ζ ( 2 ) − 1 ) − ( ζ ( 3 ) − 1 ) + ( ζ ( 4 ) − 1 ) − ( ζ ( 5 ) − 1 ) + ⋯ = 1 2 \begin{aligned} \sum_{k=2}^\infty (-1)^k (\zeta(k)-1) &= (\zeta(2)-1) -(\zeta(3)-1) +(\zeta(4)-1) -(\zeta(5)-1) +\cdots \\ &= \frac12 \end{aligned} k = 2 ∑ ∞ ​ ( − 1 ) k ( ζ ( k ) − 1 ) ​ = ( ζ ( 2 ) − 1 ) − ( ζ ( 3 ) − 1 ) + ( ζ ( 4 ) − 1 ) − ( ζ ( 5 ) − 1 ) + ⋯ = 2 1 ​ ​
+
+[증명]
+∑ k = 2 ∞ ( − 1 ) k ( ζ ( k ) − 1 ) = ∑ k = 2 ∞ ( − 1 ) k ∑ n = 2 ∞ 1 n k = ∑ n = 2 ∞ ∑ k = 2 ∞ ( − 1 n ) ⁣ k = ∑ n = 2 ∞ 1 n 2 1 + 1 n = ∑ n = 2 ∞ 1 n ( n + 1 ) = ∑ n = 2 ∞ ( 1 n − 1 n + 1 ) ⁣ = 1 2 \begin{aligned} \sum_{k=2}^\infty (-1)^k (\zeta(k)-1) &= \sum_{k=2}^\infty (-1)^k \sum_{n=2}^\infty \frac1{n^k} = \sum_{n=2}^\infty \sum_{k=2}^\infty \biggl( -\frac1n \biggr)^{\!k} \\ &= \sum_{n=2}^\infty \frac{\frac1{n^2}}{1+\frac1n} = \sum_{n=2}^\infty \frac1{n(n+1)} \\ &= \sum_{n=2}^\infty \biggl( \frac1n -\frac1{n+1} \biggr) \!= \frac12 \end{aligned} k = 2 ∑ ∞ ​ ( − 1 ) k ( ζ ( k ) − 1 ) ​ = k = 2 ∑ ∞ ​ ( − 1 ) k n = 2 ∑ ∞ ​ n k 1 ​ = n = 2 ∑ ∞ ​ k = 2 ∑ ∞ ​ ( − n 1 ​ ) k = n = 2 ∑ ∞ ​ 1 + n 1 ​ n 2 1 ​ ​ = n = 2 ∑ ∞ ​ n ( n + 1 ) 1 ​ = n = 2 ∑ ∞ ​ ( n 1 ​ − n + 1 1 ​ ) = 2 1 ​ ​
+
+다음과 같이 두 가지의 다른 방식으로도 표현 가능하다. 1 2 = ∑ k = 2 ∞ ( − 1 ) k ( ζ ( k ) − 1 ) = lim ⁡ n → ∞ ( ∑ k = 2 2 n ( − 1 ) k ζ ( k ) − 1 ) ⁣ = lim ⁡ n → ∞ [ ζ ( 2 n ) − ζ ( 2 n − 1 ) + ζ ( 2 n − 2 ) − ⋯ − ζ ( 3 ) + ζ ( 2 ) − 1 ] = lim ⁡ n → ∞ ( ∑ k = 2 2 n + 1 ( − 1 ) k ζ ( k ) ) ⁣ = lim ⁡ n → ∞ [ − ζ ( 2 n + 1 ) + ζ ( 2 n ) − ζ ( 2 n − 1 ) + ⋯ + ζ ( 4 ) − ζ ( 3 ) + ζ ( 2 ) ] \begin{aligned} \frac12 &= \sum_{k=2}^\infty (-1)^k (\zeta(k)-1) \\ &= \lim_{n\to\infty} \Biggl( \sum_{k=2}^{2n} (-1)^k\zeta(k) -1 \Biggr) \!= \lim_{n\to\infty} [ \zeta(2n) -\zeta(2n-1) +\zeta(2n-2) -\cdots -\zeta(3) +\zeta(2) -1 ] \\ &= \lim_{n\to\infty} \Biggl( \sum_{k=2}^{2n+1} (-1)^k\zeta(k) \Biggr) \!= \lim_{n\to\infty} [ -\zeta(2n+1) +\zeta(2n) -\zeta(2n-1) +\cdots +\zeta(4) -\zeta(3) +\zeta(2) ] \end{aligned} 2 1 ​ ​ = k = 2 ∑ ∞ ​ ( − 1 ) k ( ζ ( k ) − 1 ) = n → ∞ lim ​ ( k = 2 ∑ 2 n ​ ( − 1 ) k ζ ( k ) − 1 ) = n → ∞ lim ​ [ ζ ( 2 n ) − ζ ( 2 n − 1 ) + ζ ( 2 n − 2 ) − ⋯ − ζ ( 3 ) + ζ ( 2 ) − 1 ] = n → ∞ lim ​ ( k = 2 ∑ 2 n + 1 ​ ( − 1 ) k ζ ( k ) ) = n → ∞ lim ​ [ − ζ ( 2 n + 1 ) + ζ ( 2 n ) − ζ ( 2 n − 1 ) + ⋯ + ζ ( 4 ) − ζ ( 3 ) + ζ ( 2 )] ​
+
+[증명]
+첫째 줄 → 둘째 줄 증명
+∑ k = 2 ∞ ( − 1 ) k ( ζ ( k ) − 1 ) = lim ⁡ n → ∞ ∑ k = 2 2 n ( − 1 ) k ( ζ ( k ) − 1 ) = lim ⁡ n → ∞ ( ∑ k = 2 2 n ( − 1 ) k ζ ( k ) − ∑ k = 2 2 n ( − 1 ) k ) = lim ⁡ n → ∞ ( ∑ k = 2 2 n ( − 1 ) k ζ ( k ) − 1 ) \begin{aligned} \sum_{k=2}^\infty (-1)^k (\zeta(k)-1) &= \lim_{n\to\infty} \sum_{k=2}^{2n} (-1)^k (\zeta(k)-1) \\ &= \lim_{n\to\infty} \Biggl( \sum_{k=2}^{2n} (-1)^k\zeta(k) -\sum_{k=2}^{2n} (-1)^k \Biggr) \\ &= \lim_{n\to\infty} \Biggl( \sum_{k=2}^{2n} (-1)^k\zeta(k) -1 \Biggr) \end{aligned} k = 2 ∑ ∞ ​ ( − 1 ) k ( ζ ( k ) − 1 ) ​ = n → ∞ lim ​ k = 2 ∑ 2 n ​ ( − 1 ) k ( ζ ( k ) − 1 ) = n → ∞ lim ​ ( k = 2 ∑ 2 n ​ ( − 1 ) k ζ ( k ) − k = 2 ∑ 2 n ​ ( − 1 ) k ) = n → ∞ lim ​ ( k = 2 ∑ 2 n ​ ( − 1 ) k ζ ( k ) − 1 ) ​
+첫째 줄 → 셋째 줄 증명
+∑ k = 2 ∞ ( − 1 ) k ( ζ ( k ) − 1 ) = lim ⁡ n → ∞ ∑ k = 2 2 n + 1 ( − 1 ) k ( ζ ( k ) − 1 ) = lim ⁡ n → ∞ ( ∑ k = 2 2 n + 1 ( − 1 ) k ζ ( k ) − ∑ k = 2 2 n + 1 ( − 1 ) k ) = lim ⁡ n → ∞ ( ∑ k = 2 2 n + 1 ( − 1 ) k ζ ( k ) ) \begin{aligned} \sum_{k=2}^\infty (-1)^k (\zeta(k)-1) &= \lim_{n\to\infty} \sum_{k=2}^{2n+1} (-1)^k (\zeta(k)-1) \\ &= \lim_{n\to\infty} \Biggl( \sum_{k=2}^{2n+1} (-1)^k\zeta(k) -\sum_{k=2}^{2n+1} (-1)^k \Biggr) \\ &= \lim_{n\to\infty} \Biggl( \sum_{k=2}^{2n+1} (-1)^k\zeta(k) \Biggr) \end{aligned} k = 2 ∑ ∞ ​ ( − 1 ) k ( ζ ( k ) − 1 ) ​ = n → ∞ lim ​ k = 2 ∑ 2 n + 1 ​ ( − 1 ) k ( ζ ( k ) − 1 ) = n → ∞ lim ​ ( k = 2 ∑ 2 n + 1 ​ ( − 1 ) k ζ ( k ) − k = 2 ∑ 2 n + 1 ​ ( − 1 ) k ) = n → ∞ lim ​ ( k = 2 ∑ 2 n + 1 ​ ( − 1 ) k ζ ( k ) ) ​
+- 제타 함수는 바닥함수 가 포함된 적분식으로도 표현될 수 있다. ζ ( s ) = ∫ 0 ∞ s ⌊ x ⌋ x − s − 1 d x \displaystyle \zeta(s) = \int_0^\infty s\lfloor x\rfloor x^{-s-1} \,{\rm d}x ζ ( s ) = ∫ 0 ∞ ​ s ⌊ x ⌋ x − s − 1 d x
+
+[증명]
+∫ 0 ∞ s ⌊ x ⌋ x − s − 1 d x = s ∑ n = 0 ∞ ∫ n n + 1 ⌊ x ⌋ x − s − 1 d x = s ∑ n = 0 ∞ n ∫ n n + 1 x − s − 1 d x = s ∑ n = 1 ∞ n ∫ n n + 1 x − s − 1 d x = s ∑ n = 1 ∞ n [ − x − s s ] n n + 1 = s ∑ n = 1 ∞ n ( − ( n + 1 ) − s s + n − s s ) ⁣ = ∑ n = 1 ∞ ( n n s − n ( n + 1 ) s ) = ⁣ ( 1 1 s − 1 2 s ) ⁣ + ⁣ ( 2 2 s − 2 3 s ) ⁣ + ⁣ ( 3 3 s − 3 4 s ) ⁣ + ⋯ = 1 1 s + 1 2 s + 1 3 s + ⋯ = ζ ( s ) \begin{aligned} \int_0^\infty s\lfloor x\rfloor x^{-s-1} \,{\rm d}x &= s\sum_{n=0}^\infty \int_n^{n+1} \lfloor x\rfloor x^{-s-1} \,{\rm d}x = s\sum_{n=0}^\infty n\int_n^{n+1} x^{-s-1} \,{\rm d}x \\ &= s\sum_{n=1}^\infty n\int_n^{n+1} x^{-s-1} \,{\rm d}x = s\sum_{n=1}^\infty n \biggl[ -\frac{x^{-s}}s \biggr]_n^{n+1} \\ &= s\sum_{n=1}^\infty n \biggl( -\frac{(n+1)^{-s}}s +\frac{n^{-s}}s \biggr) \!= \sum_{n=1}^\infty \biggl( \frac n{n^s} -\frac n{(n+1)^s} \biggr) \\ &= \!\biggl( \frac1{1^s} -\frac1{2^s} \biggr) \!+\!\biggl( \frac2{2^s} -\frac2{3^s} \biggr) \!+\!\biggl( \frac3{3^s} -\frac3{4^s} \biggr) \!+\cdots \\ &= \frac1{1^s} +\frac1{2^s} +\frac1{3^s} +\cdots \\ &= \zeta(s) \end{aligned} ∫ 0 ∞ ​ s ⌊ x ⌋ x − s − 1 d x ​ = s n = 0 ∑ ∞ ​ ∫ n n + 1 ​ ⌊ x ⌋ x − s − 1 d x = s n = 0 ∑ ∞ ​ n ∫ n n + 1 ​ x − s − 1 d x = s n = 1 ∑ ∞ ​ n ∫ n n + 1 ​ x − s − 1 d x = s n = 1 ∑ ∞ ​ n [ − s x − s ​ ] n n + 1 ​ = s n = 1 ∑ ∞ ​ n ( − s ( n + 1 ) − s ​ + s n − s ​ ) = n = 1 ∑ ∞ ​ ( n s n ​ − ( n + 1 ) s n ​ ) = ( 1 s 1 ​ − 2 s 1 ​ ) + ( 2 s 2 ​ − 3 s 2 ​ ) + ( 3 s 3 ​ − 4 s 3 ​ ) + ⋯ = 1 s 1 ​ + 2 s 1 ​ + 3 s 1 ​ + ⋯ = ζ ( s ) ​
+- 다음과 같이 생긴 n n n 중적분의 값도 제타 함수로 표현할 수 있다. (단, n ∈ N n\in\N n ∈ N 이고 n ≥ 2 n\ge2 n ≥ 2 ) ∬ ( 0 , 1 ) 2 1 1 − x y d x d y = ζ ( 2 ) ∭ ( 0 , 1 ) 3 1 1 − x y z d x d y d z = ζ ( 3 ) ∫ 0 1 ⁣ ⋯ ⁣ ∫ 0 1 ⁣ ∫ 0 1 ⏟ n 1 1 − x 1 x 2 ⋯ x n d x 1 d x 2 ⋯ d x n = ζ ( n ) \begin{aligned} &\iint_{(0,1)^2} \frac1{1-xy} \,{\rm d}x \,{\rm d}y = \zeta(2) \\ &\iiint_{(0,1)^3} \frac1{1-xyz} \,{\rm d}x \,{\rm d}y \,{\rm d}z = \zeta(3) \\ &\underbrace{\int_0^1 \!\cdots \!\int_0^1\!\int_0^1}_n \frac1{1-x_1x_2\cdots x_n} \,{\rm d}x_1 \,{\rm d}x_2 \cdots {\rm d}x_n = \zeta(n) \end{aligned} ​ ∬ ( 0 , 1 ) 2 ​ 1 − x y 1 ​ d x d y = ζ ( 2 ) ∭ ( 0 , 1 ) 3 ​ 1 − x y z 1 ​ d x d y d z = ζ ( 3 ) n ∫ 0 1 ​ ⋯ ∫ 0 1 ​ ∫ 0 1 ​ ​ ​ 1 − x 1 ​ x 2 ​ ⋯ x n ​ 1 ​ d x 1 ​ d x 2 ​ ⋯ d x n ​ = ζ ( n ) ​
+
+[증명]
+∫ 0 1 ⁣ ⋯ ⁣ ∫ 0 1 ⁣ ∫ 0 1 ⏟ n 1 1 − x 1 x 2 ⋯ x n d x 1 d x 2 ⋯ d x n = ∫ 0 1 ⁣ ⋯ ⁣ ∫ 0 1 ⁣ ∫ 0 1 ⏟ n ∑ k = 0 ∞ ( x 1 x 2 ⋯ x n ) k d x 1 d x 2 ⋯ d x n = ∑ k = 0 ∞ ∫ 0 1 ( x 1 ) k d x 1 ∫ 0 1 ( x 2 ) k d x 2 ⋯ ∫ 0 1 ( x n ) k d x n = ∑ k = 0 ∞ 1 k + 1 ⋅ 1 k + 1 ⋯ 1 k + 1 ⏟ n = ∑ k = 1 ∞ 1 k n = ζ ( n ) \begin{aligned} \underbrace{\int_0^1 \!\cdots \!\int_0^1\!\int_0^1}_n \frac1{1-x_1x_2\cdots x_n} \,{\rm d}x_1 \,{\rm d}x_2 \cdots \,{\rm d}x_n &= \underbrace{\int_0^1 \!\cdots \!\int_0^1\!\int_0^1}_n \sum_{k=0}^\infty (x_1x_2\cdots x_n)^k \,{\rm d}x_1 \,{\rm d}x_2 \cdots {\rm d}x_n \qquad~~\, \\ &= \sum_{k=0}^\infty \int_0^1 (x_1)^k \,{\rm d}x_1 \int_0^1 (x_2)^k \,{\rm d}x_2 \cdots \int_0^1 (x_n)^k \,{\rm d}x_n \\ &= \sum_{k=0}^\infty \underbrace{\frac1{k+1} \cdot \frac1{k+1} \cdots \frac1{k+1}}_n \\ &=\sum_{k=1}^\infty \frac1{k^n} \\ &= \zeta(n) \end{aligned} n ∫ 0 1 ​ ⋯ ∫ 0 1 ​ ∫ 0 1 ​ ​ ​ 1 − x 1 ​ x 2 ​ ⋯ x n ​ 1 ​ d x 1 ​ d x 2 ​ ⋯ d x n ​ ​ = n ∫ 0 1 ​ ⋯ ∫ 0 1 ​ ∫ 0 1 ​ ​ ​ k = 0 ∑ ∞ ​ ( x 1 ​ x 2 ​ ⋯ x n ​ ) k d x 1 ​ d x 2 ​ ⋯ d x n ​ = k = 0 ∑ ∞ ​ ∫ 0 1 ​ ( x 1 ​ ) k d x 1 ​ ∫ 0 1 ​ ( x 2 ​ ) k d x 2 ​ ⋯ ∫ 0 1 ​ ( x n ​ ) k d x n ​ = k = 0 ∑ ∞ ​ n k + 1 1 ​ ⋅ k + 1 1 ​ ⋯ k + 1 1 ​ ​ ​ = k = 1 ∑ ∞ ​ k n 1 ​ = ζ ( n ) ​
+
+6. 알려진 함숫값 [편집]
+특정 정수를 넣으면 특수한 값을 띠는데 아래는 그 예이다. - ζ ( 1 ) \zeta(1) ζ ( 1 ) 은 정의되지 않는다. 조화급수 가 무한대로 발산하기 때문. 정의역을 실수 전체로 확장했을 때 lim ⁡ ϵ → ± 0 ζ ( 1 + ϵ ) = ± ∞ \lim\limits_{\epsilon \to \pm 0} \zeta(1+\epsilon)=\pm \infty ϵ → ± 0 lim ​ ζ ( 1 + ϵ ) = ± ∞ 로 좌극한과 우극한을 나타낼 수 있다. x = 1 x=1 x = 1 에서의 코시 주욧값 lim ⁡ ϵ → 0 ζ ( 1 + ϵ ) + ζ ( 1 − ϵ ) 2 = γ \lim\limits_{\epsilon \to 0} \cfrac{\zeta(1+\epsilon)+\zeta(1-\epsilon)}{2}=\gamma ϵ → 0 lim ​ 2 ζ ( 1 + ϵ ) + ζ ( 1 − ϵ ) ​ = γ 이다. [8]
+- ζ ( 2 ) = π 2 6 ≈ 1.645 \zeta(2) = \cfrac{\pi^2}{6} \approx 1.645 ζ ( 2 ) = 6 π 2 ​ ≈ 1.645
+이 값을 구하는 과정은 따로 바젤 문제 라는 이름이 붙어 있다. 이 값의 역수는 임의의 두 자연수가 서로소 일 확률을 나타낸다.
+- ζ ( 3 ) = − 4 3 L i 3 ( − 1 ) ≈ 1.202 \zeta(3) = -\cfrac 43 {\rm Li}_3 (-1)\approx 1.202 ζ ( 3 ) = − 3 4 ​ Li 3 ​ ( − 1 ) ≈ 1.202 [9]
+ζ ( 3 ) \zeta(3) ζ ( 3 ) 을 '아페리 상수'라고도 부른다. 자세한 내용은 아래에 후술.
+- ζ ( 4 ) = π 4 90 ≈ 1.082 \zeta(4) = \cfrac{\pi^4}{90}\approx 1.082 ζ ( 4 ) = 90 π 4 ​ ≈ 1.082
+열역학 의 슈테판-볼츠만 법칙 유도 과정 등에서 나타난다.
+
+위 네 식만 봐도 짝수 에서는 원주율 의 거듭제곱으로 깔끔하게 맞아떨어짐에 비해 [10] 홀수 에서는 정확한 값으로 맞아떨어지지 않음을 알 수 있다. 실제로도 짝수에 대해서는 다음 식과 같이 π \pi π 의 거듭제곱에 대한 식으로 깔끔하게 표현할 수 있다. 여기서 B 2 n B_{2n} B 2 n ​ 은 베르누이 수열 이다. ζ ( 2 n ) = ( − 1 ) n + 1 B 2 n ( 2 π ) 2 n 2 ( 2 n ) ! \zeta(2n)=\cfrac{(-1)^{n+1}B_{2n}(2\pi)^{2n}}{2(2n)!} ζ ( 2 n ) = 2 ( 2 n )! ( − 1 ) n + 1 B 2 n ​ ( 2 π ) 2 n ​
+
+또한 무한대로의 극한값은 1이다.
+lim ⁡ Re ⁡ ( s ) → ∞ ζ ( s ) = 1 \lim\limits_{\operatorname{Re}(s)\to\infty} \zeta(s) = 1 Re ( s ) → ∞ lim ​ ζ ( s ) = 1
+
+6.1. 아페리 상수 [편집]
+수학 상수
+Mathematical Constants
+[ 펼치기 · 접기 ] 0 0 0
+덧셈의 항등원 | 1 1 1
+곱셈의 항등원 | 2 \sqrt{2} 2 ​
+제곱근 2 ∗ ^\ast ∗ | 495 495 495 , 6174 6174 6174
+카프리카 수 | 0 0 0 , 1 1 1 , 3435 3435 3435 , 438579088 438579088 438579088
+뮌하우젠 수
+π \pi π
+원주율 ∗ ∗ ^{\ast\ast} ∗∗ | τ \tau τ
+새 원주율 ∗ ∗ ^{\ast\ast} ∗∗ | e e e
+자연로그의 밑 ∗ ∗ ^{\ast\ast} ∗∗ | φ \varphi φ
+황금비 ∗ ^\ast ∗ | i i i
+허수단위
+G G G
+카탈랑 상수 ∗ ? ^{\ast?} ∗ ? | ζ ( 3 ) \zeta(3) ζ ( 3 )
+아페리 상수 ∗ ? ^{\ast?} ∗ ? | S i ( π ) {\rm Si}(\pi) Si ( π )
+윌브레이엄-기브스 상수 ? ^{?} ? | γ \gamma γ
+오일러-마스케로니 상수 ? ^{?} ? | γ n \gamma_n γ n ​
+스틸체스 상수 ? ^{?} ?
+Ω \Omega Ω
+오메가 상수 ∗ ∗ ^{\ast\ast} ∗∗ | 2 2 2^{\sqrt{2}} 2 2 ​
+겔폰트-슈나이더 상수 ∗ ∗ ^{\ast\ast} ∗∗ | C n C_n\, C n ​
+챔퍼나운 상수 ∗ ∗ ^{\ast\ast} ∗∗ | A A\, A
+글레이셔-킨켈린 상수 ? ^{?} ? | A k A_k\, A k ​
+벤더스키-아담칙 상수 ? ^{?} ?
+δ \delta δ
+곰페르츠 상수 ? ^{?} ? | μ \mu μ
+라마누잔-졸트너 상수 ? ^{?} ? | B 2 B_{2} B 2 ​ , B 4 B_{4} B 4 ​
+브룬 상수 ? ^{?} ? | ρ \rho ρ
+플라스틱 상수 ∗ ^\ast ∗ | δ \delta δ , α \alpha α
+파이겐바움 상수 ? ^{?} ?
+G G G
+란다우 상수 ? ^{?} ? | C A C_A C A ​
+아르틴 상수 ? ^{?} ? | ζ n \zeta_n ζ n ​
+1 1 1 의 n n n 제곱근 [1] | lb ⁡ 3 \operatorname{lb}3 lb 3
+3의 이진로그 ∗ ∗ ^{\ast\ast} ∗∗
+? ^{?} ? 유리수인지 무리수인지 밝혀지지 않음
+∗ ^\ast ∗ 초월수가 아닌 무리수 임이 증명됨
+∗ ? ^{\ast?} ∗ ? 무리수임이 증명됨, 초월수인지 아닌지 밝혀지지 않음
+∗ ∗ ^{\ast\ast} ∗∗ 초월수 임이 증명됨
+[1] 정의에 따라 초월수가 아닌 대수적 수 이다. 1 1 1 의 거듭제곱근 중 1 1 1 , − 1 -1 − 1 , i i i , − i -i − i 를 제외한 값들은 모두 무리수 실수부 또는 허수부를 가진다. 일반적으로 무리수는 실수의 부분집합으로서만 정의되므로 1 1 1 , − 1 -1 − 1 을 제외한 1 1 1 의 거듭제곱근은 유리수나 무리수로 구분하지는 않는다.
+
+Apéry's constant
+
+상술한 ζ ( 3 ) \zeta(3) ζ ( 3 ) 의 값으로, 1977년 학계에서 이렇다 할 족적을 남기지 못했던 61세의 그리스계 프랑스 수학자 로저 아페리 는 ζ ( 3 ) \zeta(3) ζ ( 3 ) 이 무리수 [11] 임을 증명하여 수학계를 충격에 빠트렸다. [12] 60대 수학자가 역사상 최초로 제타함수의 홀수 함숫값의 무리수 판정을 성공, 그것도 200년 전부터 접근 가능했던 초등적인 방법으로 증명한 것이다. 수많은 수학자들이 증명을 의심하고 검토했지만 증명에 오류는 없었고, 아페리는 고령의 수학자가 획기적인 성과를 낸 몇 안되는 사례로 남은 동시에 자신의 이름을 영원히 남기게 되었다. 하지만 아페리의 방법을 5 이상의 홀수에 대해 확장하려는 시도는 번번이 좌절되어 ζ ( 5 ) \zeta(5) ζ ( 5 ) , ζ ( 7 ) \zeta(7) ζ ( 7 ) 등에 대해서는 여전히 무리수인지의 여부가 판정되지 않고 있다 [13] . 현재는 ζ ( 2 n + 1 ) \zeta(2n+1) ζ ( 2 n + 1 ) 꼴의 무리수가 무수히 많음이 알려져 있다.
+
+ζ ( 3 ) \zeta(3) ζ ( 3 ) 의 값은 다음과 같다.
+ζ ( 3 ) ≈ 1.20205690315959428540 \zeta(3) \approx 1.20205690315959428540 ζ ( 3 ) ≈ 1.20205690315959428540
+
+이는 전자의 자기회전비율 계산 등 일부 물리학 문제에서 나타난다.
+
+6.2. 양의 정수가 아닌 수는? [편집]
+제타 함수에 0과 음의 정수 를 넣을 경우 황당한 결과가 나오는데, 그 이유는 분명히 정의상 1만 계속 더하거나, 1과 1보다 큰 수를 합하여 발산할 것처럼 보이지만 특정 값으로 수렴 하기 때문이다. 이는 파울하버의 공식 과의 연관성 [14] 에서 비롯된 해석적 확장 을 통해 얻어지는 값으로, 0 0 0 이하의 정수는 다음과 같이 베르누이 수열 B n B_n B n ​ 을 이용해서 정의된다. ζ ( − n ) = ( − 1 ) n n + 1 B n + 1 \zeta(-n) = \cfrac{(-1)^n}{n+1}B_{n+1} ζ ( − n ) = n + 1 ( − 1 ) n ​ B n + 1 ​
+
+베르누이 수열 은 n ≥ 3 n\ge3 n ≥ 3 인 홀수일 때 B n = 0 B_n = 0 B n ​ = 0 이므로 위 식에서 n = 2 m ( m ∈ N ) n = 2m~(m\in\Bbb N) n = 2 m ( m ∈ N ) 이면 우변이 0 0 0 이 되기 때문에, ζ ( − 2 n ) = 0 ( n ∈ N ) \zeta(-2n) = 0~(n\in\Bbb N) ζ ( − 2 n ) = 0 ( n ∈ N ) 이고 이를 리만 제타함수의 자명한(trivial) 근 이라고 한다. 한편 B n ≠ 0 B_n\ne0 B n ​  = 0 인 값, 즉 n = 0 , 1 , 2 , 4 , 6 , ⋯ n = 0,\,1,\,2,\,4,\,6,\cdots n = 0 , 1 , 2 , 4 , 6 , ⋯ 일 때만 모아놓고 보면 베르누이 수열은 짝수와 음수를 번갈아가면서 점점 발산하는 양상을 띠는데 그 정도가 기하급수적으로 커지기 때문에 n = 15 n=15 n = 15 까지는 ζ ( − n ) \zeta(-n) ζ ( − n ) 값의 절댓값이 1 1 1 보다 작지만, n = 17 n=17 n = 17 일 때에는 ζ ( − 17 ) = − 1 18 B 18 = − 1 18 ⋅ 43867 798 = − 43867 14364 < − 1 \zeta(-17) = -\dfrac1{18}B_{18} = -\dfrac1{18}{\cdot}\dfrac{43867}{798} = -\dfrac{43867}{14364}<-1 ζ ( − 17 ) = − 18 1 ​ B 18 ​ = − 18 1 ​ ⋅ 798 43867 ​ = − 14364 43867 ​ < − 1 로 절댓값이 1 1 1 보다 큰 값이 나오기 시작한다. - ζ ( 0 ) = − 1 2 \zeta(0) = -\cfrac 12 ζ ( 0 ) = − 2 1 ​
+- ζ ( − 1 ) = − 1 12 \zeta(-1) = -\cfrac{1}{12} ζ ( − 1 ) = − 12 1 ​
+- ζ ( − 2 ) = 0 \zeta(-2) = 0 ζ ( − 2 ) = 0
+- ζ ( − 3 ) = 1 120 \zeta(-3) = \cfrac{1}{120} ζ ( − 3 ) = 120 1 ​
+- ζ ( − 4 ) = 0 \zeta(-4) = 0 ζ ( − 4 ) = 0
+
+한편 1 2 + t i \cfrac1{2}+ti 2 1 ​ + t i 꼴의 수를 넣으면 함수값이 0이 될 때가 있는데, 이를 비자명한(non-trivial) 근 이라고 한다. 리만 가설은 이 비자명한 근과 관련이 있다.
+
+7. 관련 문서 [편집]
+- 리만 가설
+- 라마누잔합
+- 폴리로그함수
+- 제곱수
+- 바젤 문제
+- 파울하버의 공식
+- 재규격화
+
+[ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 1미리치과의원
+치아미백이벤트-앞니레진.com v-if
+신중동역 6번 출구, 치과보철과 전문의
+
+] | [ 여성강사 가능! 일신운전학원
+isdrive.co.kr
+불안한 초보도 안심! 여성 강사 배치, 1:1 집중지도, 카카오&네이버톡톡 상담
+
+]
+
+[1] ⌊ n ⌋ \lfloor n \rfloor ⌊ n ⌋ 는 바닥함수 이다. 이러한 꼴의 적분을 스틸체스 적분 이라고 한다. [2] 리만 제타 함수나 후르비츠 제타 함수 는 정의역이 s ≠ 1 s \neq 1 s  = 1 인 모든 복소수로 확장된 함수다. [3] 참고: ∣ x s + p ∣ = ∣ x R e ( s ) + p + i I m ( s ) ∣ = ∣ x R e ( s ) + p e i I m ( s ) ln ⁡ x ∣ = ∣ x R e ( s ) + p ∣ ∣ e i I m ( s ) ln ⁡ x ∣ = ∣ x R e ( s ) + p ∣|x^{s+p}| = |x^{{\rm Re}(s)+p+i\,{\rm Im}(s)}| = |x^{{\rm Re}(s)+p}e^{i\,{\rm Im}(s)\ln x}| = |x^{{\rm Re}(s)+p}| |e^{i\,{\rm Im}(s)\ln x}| = |x^{{\rm Re}(s)+p}| ∣ x s + p ∣ = ∣ x Re ( s ) + p + i Im ( s ) ∣ = ∣ x Re ( s ) + p e i Im ( s ) l n x ∣ = ∣ x Re ( s ) + p ∣∣ e i Im ( s ) l n x ∣ = ∣ x Re ( s ) + p ∣ [※푸리에변환] ∑ n = − ∞ ∞ δ ( x − n ) = ∑ n = − ∞ ∞ e 2 i π n x \displaystyle \sum_{n=-∞}^∞δ(x-n)=\sum_{n=-∞}^∞e^{2iπnx} n = − ∞ ∑ ∞ ​ δ ( x − n ) = n = − ∞ ∑ ∞ ​ e 2 iπ n x
+푸리에 변환 을 쓰면 위 디랙 델타 함수 에 대한 무한합은 이렇게 바뀐다. [※해석적연속] y y y 가 실수일 땐 ∫ − ∞ ∞ e − π ( x − y ) 2 t d x = \displaystyle \int_{-∞}^∞e^{-π(x-y)^2t}{\rm d}x= ∫ − ∞ ∞ ​ e − π ( x − y ) 2 t d x = ∫ − ∞ ∞ e − π x 2 t d x = 1 t \displaystyle \int_{-∞}^∞e^{-πx^2t}{\rm d}x=\frac1{\sqrt t} ∫ − ∞ ∞ ​ e − π x 2 t d x = t ​ 1 ​ 가 성립하는데, 해당 식은 해석적 연속 에 의해 y y y 를 복소수 영역으로 확장할 수 있음에 따라 y = i n / t y=in/t y = in / t 를 넣어도 위 등식이 성립한다. [6] 위 공식에 s = 2 s=2 s = 2 를 대입하여 이 식과 비교해보면 ζ ( 2 ) = π 2 6 \zeta(2) = \dfrac{\pi^2}6 ζ ( 2 ) = 6 π 2 ​ 임을 유도할 수 있다. 또한, s = 2 s=2 s = 2 만이 아니라 그 이상의 짝수에서도 적분식이 달라지기는 하지만 비슷한 방법을 사용해서 계산이 가능하다. [7] 무한 원점 자체가 실수 좌표와 허수 좌표 중 하나 이상의 절대값이 무한대인 모든 점을 콤팩트화 시킨 점이기 때문에, 정사각형 적분 영역의 크기를 무한에 대한 극한값을 취하면 무한 원점과 동일해지기 때문에 가능한 방식이다. [8] γ \gamma γ 는 오일러-마스케로니 상수 이다. [9] L i 3 {\rm Li}_3 Li 3 ​ 는 폴리로그함수 이다. [10] 2, 4를 넣은 함숫값은 다름 아닌 레온하르트 오일러 가 계산해낸 값이다. [11] 초월수 여부가 아니다. 아페리 상수가 초월수인지 아닌지는 아직 밝혀지지 않았다. [12] 그리고 이후 다른 방법 으로도 ζ ( 2 ) \zeta(2) ζ ( 2 ) 와 ζ ( 3 ) \zeta(3) ζ ( 3 ) 이 무리수임이 증명되었다. [13] 현 시점의 최선의 결과는 ζ ( 5 ) \zeta(5) ζ ( 5 ) , ζ ( 7 ) \zeta(7) ζ ( 7 ) , ζ ( 9 ) \zeta(9) ζ ( 9 ) , ζ ( 11 ) \zeta(11) ζ ( 11 ) 중 적어도 1개는 무리수라는 것. [14] 파울하버의 공식 은 거듭제곱의 합 ∑ k = 1 n k c \displaystyle \sum_{k=1}^nk^c k = 1 ∑ n ​ k c 에 관한 공식이고 제타 함수는 c = − s c = -s c = − s 를 대입하고 n → ∞ n\to\infty n → ∞ 의 극한을 취한 식이다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

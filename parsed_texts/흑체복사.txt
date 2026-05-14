@@ -1,0 +1,339 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 흑체복사
+최근 수정 시각: 2026-04-13 12:41:04 [ [ [ ] [ [ 34 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 1900년대 연구
+- 물리학
+]
+
+[ [ ] [ 양자역학 Quantum Mechanics
+[ 펼치기 · 접기 ] 배경 | 흑체복사 · 이중슬릿 실험 · 광전효과 · 콤프턴 산란 · 보어의 원자 모형 · 물질파 · 데이비슨-저머 실험 · 불확정성 원리 · 슈테른-게를라흐 실험 · 프랑크-헤르츠 실험
+이론 체계 | 체계 플랑크 상수 ( 플랑크 단위계 ) · 공리 · 슈뢰딩거 방정식 · 파동함수 · 연산자 ( 해밀토니언 · 선운동량 · 각운동량 ) · 스핀 ( 스피너 ) · 파울리 배타 원리 해석 코펜하겐 해석 ( 보어-아인슈타인 논쟁 ) · 숨은 변수 이론 ( EPR 역설 · 벨의 부등식 · 광자 상자 ) · 다세계 해석 · 앙상블 해석 · 서울 해석 묘사 묘사 ( 슈뢰딩거 묘사 · 하이젠베르크 묘사 · 디랙 묘사) · 행렬역학
+연관 학문 | 천체물리학 ( 천문학 틀 · 우주론 · 양자블랙홀 · 중력 특이점 ) · 핵물리학 틀 ( 원자력 공학 틀 ) · 응집물질물리학 틀 · 컴퓨터 과학 틀 ( 양자컴퓨터 · 양자정보과학 ) · 통계역학 틀 · 양자화학 ( 물리화학 틀 ) · 입자물리학 ( 입자물리학 틀 )
+현상 · 응용 | 양자요동 · 양자 얽힘 · 양자 터널링 · 퍼텐셜 우물 · 양자 조화 진동자 · 오비탈 · 수소 원자 모형 · 쌓음 원리 · 훈트 규칙 · 섭동 ( 스핀 - 궤도 결합 · 제이만 효과 · 슈타르크 효과 · 헬만-파인만 정리 ) · 선택 규칙 · 변분 원리 · WKB 근사법 · 시간 결정 · 보스-아인슈타인 응집 · 솔리톤 · 카시미르 효과 · 아하로노프-봄 효과 · 블랙홀 정보 역설 · 양자점 · 하트리-포크 방법 · 밀도범함수 이론 · 준위 · 양자장론 ( 양자전기역학 · 양자색역학 ) · 뤼드베리 방정식 · 체렌코프 현상
+기타 | 군론 · 기본 입자 · 대칭성 · 비리얼 정리 · 리만 가설 · 매듭이론 · 밀도행렬 · 물질 · 방사선 ( 반감기 ) · 라플라스의 악마 · 슈뢰딩거의 고양이 ( 위그너의 친구 )
+문헌 | 교재 · 분류:물리학술지
+
+열역학 · 통계역학
+Thermodynamics · Statistical Mechanics
+[ 펼치기 · 접기 ] 기본 개념 | 열역학 법칙 { 열역학 제1법칙 ( 열역학 과정 ) · 열역학 제2법칙 ( 엔트로피 )} · 질량 보존 법칙 · 에너지 · 물질 · 온도 ( 절대영도 ) · 압력 · 열 ( 비열 · 열용량 ) · 일 ( 일률 ) · 계 ( 반응계 · 고립계 · 닫힌계 ) · 상 · 밀도 · 기체 법칙 { 보일 법칙 · 샤를 법칙 · 게이뤼삭 법칙 · 아보가드로 법칙 · 이상 기체 법칙 ( 이상 기체 )} · 기체 분자 운동론 · 압축인자
+통계역학 | 앙상블 · 분배함수 · 양자 통계역학 · 볼츠만 분포 · 맥스웰-볼츠만 분포 · 페르미-디랙 분포 · 보스-아인슈타인 분포 · 페르미온 응집 · 보스-아인슈타인 응집 · 복잡계 ( 카오스 이론 ) · 흑체복사 · 브라운 운동 · 역온도 · 위상 공간 · 조머펠트 전개
+열역학 퍼텐셜 | 내부 에너지 · 엔탈피 · 자유 에너지 ( 헬름홀츠 자유 에너지 · 깁스 자유 에너지 ) · 맥스웰 관계식 · 란다우 퍼텐셜 · 르장드르 변환
+응용 및 현상 | 현상 | 가역성 · 화학 퍼텐셜 · 상전이 · 열전달과 열교환기 { 전도 ( 열전도율 · 전도체 ) · 대류 · 복사 } · 판데르발스 힘 · 열처리 · 열량 ( 칼로리 ) · 네른스트 식 · 음발광 · 물리화학 둘러보기
+열기관 | 내연기관 · 외연기관 · 열효율 ( 엑서지 ) · 히트펌프 · 카르노 기관 · 영구기관 · 열전 소자
+관련 문서 | 화학 둘러보기 · 스털링 근사 · 전자친화도 · 이온화 에너지 · 응집물질물리학 · 고체물리학 · 기계공학 · 화학공학 · 정보이론 · 맥스웰의 악마 · 볼츠만 두뇌 · 에르고딕 가설 · 브라질너트 효과
+
+흑체복사의 사례인 빛을 내뿜는 용암
+
+1 . 개요 2 . 열 복사 3 . 배경 4 . 용어 정리 5 . 온도 6 . 슈테판-볼츠만 법칙 7 . 빈 법칙 7.1 . 빈 변위 법칙 7.2 . 문제점 8 . 레일리-진스 법칙 8.1 . 상자 속 파동 8.2 . 자외선 파탄 9 . 플랑크 법칙 9.1 . 양자가설 9.2 . 빈 법칙과의 관계 9.3 . 빈 변위 법칙과의 관계 9.4 . 레일리-진스 법칙과의 관계 9.5 . 슈테판-볼츠만 상수 구하기 10 . 기타 11 . 관련 문서
+
+1. 개요 [편집]
+흑체복사( 黑 體 輻 射 , black body radiation)는 흑체 에서 온도에 따라 빛이 나오는 현상이다. 방출 에너지량은 절대온도 의 네제곱에 비례하며, 평균 에너지는 절대 온도에 비례한다.
+
+복사 세기가 극대가 되는 파장은 절대 온도에 반비례한다. 따라서 진동수는 절대 온도에 비례하는 결론을 얻을 수 있다. 그러나 이 파장과 진동수를 곱해도 빛의 속도( c c c )가 되지 않으므로, c = λ ν c = \lambda\nu c = λ ν 공식을 직접 적용하여서는 구체적인 값을 계산할 수 없다. 흑체 복사의 특성은 플랑크 법칙 을 따른다.
+
+2. 열 복사 [편집]
+
+일반적으로 (열)복사(熱輻射)는 물리학에서 물체로부터 열이나 전자기파가 사방팔방으로 완전히 (흡수 또는) 방출되는 것을 가리키는 용어이다. 이를 전제로 어떤 임의의 가상의 물체를 상정하고 빛을 방출하지 않는 표면을 가지면서 한 줄기 빛만을 통과시킬 수 있고 그 내부는 반사작용이 여전히 있는 공동(cavity) 터널(hole)을 가정하는 이상적인 흑체를 모델로 구현해볼 수 있다.
+
+3. 배경 [편집]
+19세기 말 독일 제국 은 알자스-로렌 지방에서 제철 공업을 일으켰다. 강철 을 만드는 과정에서 철광석을 코크스 등으로 연소시켜서 고온으로 만들 때 그 빛깔로 온도를 파악하려 했다.
+
+붉은 색보다 파란색일 때 온도가 더 높다는 것은 경험적으로는 알았지만, 빛깔과 온도와의 관계에 대해 이론 설명이 필요해졌다. 쇳물 만드는데 그냥 녹을 때까지 퍼부으면 안되나 싶겠지만, 온도가 낮으면 철광석의 산화철에서 산소가 빠져나오지 못해 저질의 철이 되며 , 너무 높으면 고온에서 폭발적으로 반응하는 산소의 특성상 다시 산화철이 되기 때문에 철 원자에서 산소만 뽑아내는 매우 정밀한 온도 조절이 필요하다. 그리고 강철이 굳은 뒤에 다시 가열하여 원하는 물성을 얻는 열처리 과정에서도 정밀한 온도 조절이 필요하다. [1] 즉, 조금이라도 더 세밀한 온도 조절을 위해 흑체 복사 이론이 태동했다는 것이다.
+
+이러한 관계에 대한 연구를 하던 독일 하이델베르크 대학의 물리학자 구스타프 키르히호프 는 흑체 라는 이상적인 물체를 가정하고, 흑체가 방출하는 복사의 세기가 오로지 흑체의 온도와 빛의 파장, 두 요인에 의해서만 결정된다는 것을 밝혀냈다. 이로부터 주어진 온도에서 모든 파장 범위에 해당하는 흑체복사 스펙트럼 분포를 실험을 통해 알아내고, 또한 그 결과를 공식으로부터 알아내는 것이 한동안 당대 물리학자들을 괴롭힌 ‘흑체복사 문제’로 남게 되었으며, 아래 나열되는 복사법칙들이 그 문제에 대한 일련의 해답이라고 볼 수 있다.
+
+4. 용어 정리 [편집]
+'세기'라고 하더라도 에너지 그 자체를 가리키는 경우가 있는가 하면, 단위 공간에 가해지는 에너지( 에너지 밀도 )를 쓰는 경우도 있고, 단위 시간당 가해지는 에너지, 즉 일률을 다루면 복사속 이라고 하며, 복사속은 다시 단위 면적에 가하는 양을 가리키는 것인지( 복사조도 ), 점광원으로 환산된 물리량인지( 복사강도 ), 점광원으로 환산된 단위 면적 당 복사속인지( 복사휘도 ), 분석하고자 하는 대상이 복사원이냐 아니면 피복사체가 반사하거나 재복사한 빛이냐에 따라서( 복사발산도 / 복사조도 ) [2] 또 다른 용어를 쓴다. 과거에는 이러한 개념이 세분화되지 않은 상태로 관습적으로 ' 강도 '(영어: intensity, 독어: Intensität)라는 말로 통일되다시피 해서, 후술할 역사적인 인물들이 출판한 논문에서 쓰이는 용어를 읽을 때 주의를 요하며 문맥에 따라 구분해서 파악해야한다.
+
+물리학적으로는 복사로 방출되는 것도 결국 진동수와 파장을 갖는 전자기파 이기 때문에, 위의 물리량을 진동수, 혹은 파장으로 미분해서 얻어지는 분포 함수를 다루기도 하는데 이 경우 앞에 '분광-'(spectral)이라는 용어를 덧붙인다. 이를테면 '분광 복사휘도'는 수학적으로 '복사휘도 분포 함수'와 의미가 같다. 또한 칸델라 가 엮인 광도 와 관련된 물리량과 구분하기 위해 측광 분야에서 쓰는 물리량과 같은 기호를 쓰는 경우 e \rm e e 를 아래첨자로 덧붙여서 구분하기도 한다. 물론 열역학, 통계역학, 양자역학 등에서는 독립적으로 전혀 다른 기호를 쓰는 경우가 일반적이긴 하다.
+
+리스트로 나열하면 아래와 같이 엄청나게 많긴 한데, 본 문서에서는 에너지, 에너지 밀도, 복사휘도를 중심으로 다룰 것이다. 물리량 | 기호 | 차원 | 단위 | 의미
+(복사) 에너지
+Radiant energy | Q e W E Q_{\rm e} \\ W \\ E Q e ​ W E | M L 2 T − 2 \sf ML^2T^{-2} M L 2 T − 2 | J \rm J J | 전자기파 복사의 에너지
+(복사) 에너지 밀도
+Radiant energy density | w e u w_{\rm e} \\ u w e ​ u | M L − 1 T − 2 \sf ML^{-1}T^{-2} M L − 1 T − 2 | J / m 3 \rm J/m^3 J/ m 3 | 단위 부피당 가해지는 전자기파 복사의 에너지
+분광 (복사) 에너지 밀도
+에너지 밀도 분포 함수
+spectral radiant energy density | u ν ( ν , T ) = ∂ w e ∂ ν u_\nu(\nu,\,T) = \dfrac{\partial w_{\rm e}}{\partial\nu} u ν ​ ( ν , T ) = ∂ ν ∂ w e ​ ​ | M L − 1 T − 1 \sf ML^{-1}T^{-1} M L − 1 T − 1 | J / ( H z ⋅ m 3 ) \rm J/(Hz{\cdot}m^3) J/ ( Hz ⋅ m 3 ) | 전자기파의 스펙트럼 중 특정 진동수가 단위 부피에 가하는 복사 에너지
+u λ ( λ , T ) = ∂ w e ∂ λ u_\lambda(\lambda,\,T) = \dfrac{\partial w_{\rm e}}{\partial\lambda} u λ ​ ( λ , T ) = ∂ λ ∂ w e ​ ​ | M L − 2 T − 2 \sf ML^{-2}T^{-2} M L − 2 T − 2 | J / ( n m ⋅ m 3 ) \rm J/(nm{\cdot}m^3) J/ ( nm ⋅ m 3 ) | 전자기파의 스펙트럼 중 특정 파장이 단위 부피에 가하는 복사 에너지
+복사속
+Radiant flux | Φ e P F \varPhi_{\rm e} \\ P \\ F Φ e ​ P F | M L 2 T − 3 \sf ML^2T^{-3} M L 2 T − 3 | W = J / s {\rm W} = {\rm J/s} W = J/s | 단위 시간당 방출, 반사, 투과, 흡수된 복사 에너지
+분광 복사속
+spectral radiant flux | Φ e , ν = ∂ Φ e ∂ ν \varPhi_{{\rm e},\,\nu} = \dfrac{\partial\varPhi_{\rm e}}{\partial\nu} Φ e , ν ​ = ∂ ν ∂ Φ e ​ ​ | M L 2 T − 2 \sf ML^2T^{-2} M L 2 T − 2 | W / H z \rm W/Hz W/Hz | 전자기파의 스펙트럼 중 특정 진동수의 복사속
+Φ e , λ = ∂ Φ e ∂ λ \varPhi_{{\rm e},\,\lambda} = \dfrac{\partial\varPhi_{\rm e}}{\partial\lambda} Φ e , λ ​ = ∂ λ ∂ Φ e ​ ​ | M L T − 3 \sf MLT^{-3} ML T − 3 | W / n m \rm W/nm W/nm | 전자기파의 스펙트럼 중 특정 파장의 복사속
+복사강도
+Radiant intensity | I e , Ω I_{\rm e,\,\Omega} I e , Ω ​ | M L 2 T − 3 \sf ML^2T^{-3} M L 2 T − 3 | W / s r \rm W/sr W/sr | 점광원 단위로 환산된 [3] 복사속
+분광 복사강도
+spectral radiance
+specific intensity | I e , Ω , ν = ∂ I e , Ω ∂ ν I_{{\rm e,\,\Omega},\,\nu} = \dfrac{\partial I_{\rm e,\,\Omega}}{\partial\nu} I e , Ω , ν ​ = ∂ ν ∂ I e , Ω ​ ​ | M L 2 T − 2 \sf ML^2T^{-2} M L 2 T − 2 | W / ( H z ⋅ s r ) \rm W/(Hz{\cdot}sr) W/ ( Hz ⋅ sr ) | 점광원 단위로 환산된 전자기파 스펙트럼 중 특정 진동수의 복사 에너지
+I e , Ω , λ = ∂ I e , Ω ∂ λ I_{{\rm e,\,\Omega},\,\lambda} = \dfrac{\partial I_{\rm e,\,\Omega}}{\partial\lambda} I e , Ω , λ ​ = ∂ λ ∂ I e , Ω ​ ​ | M L T − 3 \sf MLT^{-3} ML T − 3 | W / ( n m ⋅ s r ) \rm W/(nm{\cdot}sr) W/ ( nm ⋅ sr ) | 점광원 단위로 환산된 전자기파 스펙트럼 중 특정 파장의 복사 에너지
+복사휘도
+radiance | L e , Ω B L_{\rm e,\,\Omega}\\ B L e , Ω ​ B | M T − 3 \sf MT^{-3} M T − 3 | W / ( s r ⋅ m 2 ) \rm W/(sr{\cdot}m^2) W/ ( sr ⋅ m 2 ) | 단위 면적에 가해지는 복사강도
+분광 복사휘도
+복사휘도 분포 함수
+spectral radiance | L e , Ω , ν = B ν ( ν , T ) = ∂ B ∂ ν L_{{\rm e,\,\Omega},\,\nu} = B_\nu(\nu,\,T) = \dfrac{\partial B}{\partial\nu} L e , Ω , ν ​ = B ν ​ ( ν , T ) = ∂ ν ∂ B ​ | M T − 2 \sf MT^{-2} M T − 2 | W / ( H z ⋅ s r ⋅ m 2 ) \rm W/(Hz{\cdot}sr{\cdot}m^2) W/ ( Hz ⋅ sr ⋅ m 2 ) | 단위 면적에 가해지는 전자기파 스펙트럼 중 특정 진동수의 복사강도
+L e , Ω , λ = B λ ( λ , T ) = ∂ B ∂ λ L_{{\rm e,\,\Omega},\,\lambda} = B_\lambda(\lambda,\,T) = \dfrac{\partial B}{\partial\lambda} L e , Ω , λ ​ = B λ ​ ( λ , T ) = ∂ λ ∂ B ​ | M L − 1 T − 3 \sf ML^{-1}T^{-3} M L − 1 T − 3 | W / ( n m ⋅ s r ⋅ m 2 ) \rm W/(nm{\cdot}sr{\cdot}m^2) W/ ( nm ⋅ sr ⋅ m 2 ) | 단위 면적에 가해지는 전자기파 스펙트럼 중 특정 파장의 복사강도
+복사조도
+irradiance | E e E_{\rm e} E e ​ | M T − 3 \sf MT^{-3} M T − 3 | W / m 2 \rm W/m^2 W/ m 2 | 어떤 물체가 받은 단위 면적당의 복사속
+분광 복사조도
+spectral irradiance | E e , ν = ∂ E e ∂ ν E_{{\rm e},\,\nu} = \dfrac{\partial E_{\rm e}}{\partial\nu} E e , ν ​ = ∂ ν ∂ E e ​ ​ | M T − 2 \sf MT^{-2} M T − 2 | W / ( H z ⋅ m 2 ) \rm W/(Hz{\cdot}m^2) W/ ( Hz ⋅ m 2 ) | 어떤 물체가 받은 전자기파 스펙트럼 중 특정 진동수의 단위 면적당 복사속
+E e , λ = ∂ E e ∂ λ E_{{\rm e},\,\lambda} = \dfrac{\partial E_{\rm e}}{\partial\lambda} E e , λ ​ = ∂ λ ∂ E e ​ ​ | M L − 1 T − 3 \sf ML^{-1}T^{-3} M L − 1 T − 3 | W / ( n m ⋅ m 2 ) \rm W/(nm{\cdot}m^2) W/ ( nm ⋅ m 2 ) | 어떤 물체가 받은 전자기파 스펙트럼 중 특정 파장의 단위 면적당 복사속
+복사발산도
+radiant exitance | M e M_{\rm e} M e ​ | M T − 3 \sf MT^{-3} M T − 3 | W / m 2 \rm W/m^2 W/ m 2 | 어떤 복사원에서 방출되는 단위 면적당의 복사속
+분광 복사발산도
+spectral exitance | M e , ν = ∂ M e ∂ ν M_{{\rm e},\,\nu} = \dfrac{\partial M_{\rm e}}{\partial\nu} M e , ν ​ = ∂ ν ∂ M e ​ ​ | M T − 2 \sf MT^{-2} M T − 2 | W / ( H z ⋅ m 2 ) \rm W/(Hz{\cdot}m^2) W/ ( Hz ⋅ m 2 ) | 어떤 복사원에서 방출되는 전자기파 스펙트럼 중 특정 진동수의 단위 면적당 복사속
+M e , λ = ∂ M e ∂ λ M_{{\rm e},\,\lambda} = \dfrac{\partial M_{\rm e}}{\partial\lambda} M e , λ ​ = ∂ λ ∂ M e ​ ​ | M L − 1 T − 3 \sf ML^{-1}T^{-3} M L − 1 T − 3 | W / ( n m ⋅ m 2 ) \rm W/(nm{\cdot}m^2) W/ ( nm ⋅ m 2 ) | 어떤 복사원에서 방출되는 전자기파 스펙트럼 중 특정 파장의 단위 면적당 복사속
+복사도
+radiosity | J e J_{\rm e} J e ​ | M T − 3 \sf MT^{-3} M T − 3 | W / m 2 \rm W/m^2 W/ m 2 | 어떤 복사원에서 방출, 반사, 투과되는 단위 면적당의 복사속 [4]
+분광 복사도
+spectral radiosity | J e , ν = ∂ J e ∂ ν J_{{\rm e},\,\nu} = \dfrac{\partial J_{\rm e}}{\partial\nu} J e , ν ​ = ∂ ν ∂ J e ​ ​ | M T − 2 \sf MT^{-2} M T − 2 | W / ( H z ⋅ m 2 ) \rm W/(Hz{\cdot}m^2) W/ ( Hz ⋅ m 2 ) | 어떤 복사원에서 방출, 반사 투과되는 전자기파 스펙트럼 중 특정 진동수의 단위 면적당 복사속
+J e , λ = ∂ J e ∂ λ J_{{\rm e},\,\lambda} = \dfrac{\partial J_{\rm e}}{\partial\lambda} J e , λ ​ = ∂ λ ∂ J e ​ ​ | M L − 1 T − 3 \sf ML^{-1}T^{-3} M L − 1 T − 3 | W / ( n m ⋅ m 2 ) \rm W/(nm{\cdot}m^2) W/ ( nm ⋅ m 2 ) | 어떤 복사원에서 방출, 반사, 투과되는 전자기파 스펙트럼 중 특정 파장의 단위 면적당 복사속
+복사 노출도
+radiant exposure | H e H_{\rm e} H e ​ | M T − 2 \sf MT^{-2} M T − 2 | J / m 2 \rm J/m^2 J/ m 2 | 어떤 물체가 받은 단위 면적당의 복사 에너지. 복사조도를 시간으로 적분한 물리량.
+분광 복사 노출도
+spectral exposure | H e , ν = ∂ H e ∂ ν H_{{\rm e},\,\nu} = \dfrac{\partial H_{\rm e}}{\partial\nu} H e , ν ​ = ∂ ν ∂ H e ​ ​ | M T − 1 \sf MT^{-1} M T − 1 | J / ( H z ⋅ m 2 ) \rm J/(Hz{\cdot}m^2) J/ ( Hz ⋅ m 2 ) | 어떤 물체가 받은 전자기파 스펙트럼 중 특정 진동수의 단위 면적당 에너지
+H e , λ = ∂ H e ∂ λ H_{{\rm e},\,\lambda} = \dfrac{\partial H_{\rm e}}{\partial\lambda} H e , λ ​ = ∂ λ ∂ H e ​ ​ | M L − 1 T − 2 \sf ML^{-1}T^{-2} M L − 1 T − 2 | J / ( n m ⋅ m 2 ) \rm J/(nm{\cdot}m^2) J/ ( nm ⋅ m 2 ) | 어떤 물체가 받은 전자기파 스펙트럼 중 특정 파장의 단위 면적당 복사 에너지
+
+순수하게 광원에서 나오는 빛의 세기에 대해서만 다루고 인간의 시각 수용체가 느끼는 정도를 반영하지 않기 때문에 물리량의 차원에 J \sf J J 가 없고, 따라서 단위에 c d \rm cd cd 도 들어가지 않는 것이 특기사항이다. 조도 , 휘도 등 측광 분야와 용어가 겹치는 부분이 있으나 전혀 다른 물리량임에 주의.
+
+5. 온도 [편집]
+한편, 온도에도 여러 가지 종류가 있기에 잘 알아놓는 것이 좋다. 명칭 | 기호 | 정의
+유효온도 | T eff T_{\text{eff}} T eff ​ | F σ 4 \sqrt[4]{\frac{F}{σ}} 4 σ F ​ ​
+색온도 | T c T_{\text{c}} T c ​ | B λ 1 ( T ) B λ 2 ( T ) \frac{B_{\lambda_{1}}(T)}{B_{\lambda_{2}}(T)} B λ 2 ​ ​ ( T ) B λ 1 ​ ​ ( T ) ​ 의 해
+밝기온도 | T b T_{\text{b}} T b ​ | h c λ k B ln ⁡ ( 1 + 2 h c 2 λ 5 B λ ) \frac{hc}{\lambda k_{B}\ln\left(1 + \frac{2hc^2}{\lambda^5 B_\lambda}\right)} λ k B ​ l n ( 1 + λ 5 B λ ​ 2 h c 2 ​ ) h c ​
+들뜸온도 | T exc T_{\text{exc}} T exc ​ | E j − E i k B ln ⁡ ( g j n i g i n j ) \frac{E_j-E_i}{k_{B}\ln\left(\frac{g_j n_i}{g_i n_j}\right)} k B ​ l n ( g i ​ n j ​ g j ​ n i ​ ​ ) E j ​ − E i ​ ​
+이온화온도 | T ion T_{\text{ion}} T ion ​ | 사하 방정식에서의 온도
+운동학적온도(운동온도) | T k T_{\text{k}} T k ​ | m v 2 3 k B \frac{mv^{2}}{3k_{B}} 3 k B ​ m v 2 ​
+
+6. 슈테판-볼츠만 법칙 [편집]
+1864년에 존 틴들(John Tyndall, 1820~1893)이 발표한 《보이는 복사와 보이지 않는 복사에 대하여》 [5] 의 실험 데이터를 바탕으로, 1879년에 오스트리아령 슬로베니아 출신의 요제프 슈테판 (1835~1893)이 열복사의 세기가 절대온도의 네제곱에 비례한다 는 것을 귀납적으로 발견해서 보고했고, 이후 오스트리아 제국 의 루트비히 볼츠만 이 1884년에 발표한 《빛의 전자기학 이론을 바탕으로 한 슈테판 법칙, 열복사의 온도 의존성 유도》 를 통하여 이것이 참임을 증명했다. 이 법칙이 슈테판-볼츠만 법칙(Stefan-Boltzmann law) 이다.
+
+볼츠만은 복사압 P P P 와 내부 에너지 밀도 u u u 가 P = 1 3 u P = \cfrac13u P = 3 1 ​ u 를 만족한다는 관계를 이용해서 유도해냈는데, 간단한 열역학적인 관계식을 이용하면 어렵지 않게 유도할 수 있다.
+먼저 내부 에너지 U U U 는 절대온도 T T T , 엔트로피 S S S , 압력 P P P , 부피 V V V 에 대하여 d U = T d S − P d V {\rm d}U = T{\rm\,d}S - P{\rm\,d}V d U = T d S − P d V
+
+이고 양변을 V V V 로 편미분하면 ( ∂ U ∂ V ) T = T ( ∂ S ∂ V ) T − P {\left(\dfrac{\partial U}{\partial V}\right)}_T = T{\left(\dfrac{\partial S}{\partial V}\right)}_T-P ( ∂ V ∂ U ​ ) T ​ = T ( ∂ V ∂ S ​ ) T ​ − P
+
+인데 맥스웰 관계식 에 의해 ( ∂ S ∂ V ) T = ( ∂ P ∂ T ) V \biggl(\cfrac{\partial S}{\partial V}\biggr)_T = \biggl(\cfrac{\partial P}{\partial T}\biggr)_V ( ∂ V ∂ S ​ ) T ​ = ( ∂ T ∂ P ​ ) V ​ 이고 U = u V U = uV U = u V 이므로 ( ∂ U ∂ V ) T = u \biggl(\cfrac{\partial U}{\partial V}\biggr)_T = u ( ∂ V ∂ U ​ ) T ​ = u , 따라서 u = T ( ∂ P ∂ T ) V − P = T ( 1 3 ∂ u ∂ T ) V − 1 3 u ∴ 4 u = T ( ∂ u ∂ T ) V \begin{aligned} u &= T{\left(\dfrac{\partial P}{\partial T}\right)}_V - P \\ &= T{\left(\dfrac13\dfrac{\partial u}{\partial T}\right)}_V - \dfrac13u \\ \therefore 4u &= T{\left(\dfrac{\partial u}{\partial T}\right)}_V\end{aligned} u ∴ 4 u ​ = T ( ∂ T ∂ P ​ ) V ​ − P = T ( 3 1 ​ ∂ T ∂ u ​ ) V ​ − 3 1 ​ u = T ( ∂ T ∂ u ​ ) V ​ ​
+
+위 식의 변수는 u u u 와 T T T 뿐이므로 편미분을 미분으로 대체해서 나타내고 식을 변형하면 4 d T T = d u u \dfrac{4{\rm\,d}T}T = \dfrac{{\rm d}u}u T 4 d T ​ = u d u ​
+
+위 미분방정식의 해는 u = C T 4 u = CT^4 u = C T 4 으로, 열복사의 에너지 밀도가 절대온도의 네제곱에 비례한다는 결과를 얻을 수 있다. 구체적으로 이 비례식에서의 C C C 값은 슈테판-볼츠만 상수 σ \sigma σ 를 이용해서 나타내면 C = 4 c σ C = \cfrac4c\sigma C = c 4 ​ σ 이며 자세한 유도 과정은 하단의 유도 과정 참고.
+
+항성 은 흑체성을 지니므로, 해당 법칙을 통하여 광도, 유효온도로 반지름을 계산할 수 있다. 이에 대한 자세한 내용은 항성천문학 문서를 참고.
+
+7. 빈 법칙 [편집]
+빈 법칙(Wien's law) 은 1897년에 독일의 물리학자 빌헬름 빈 (Wilhelm Wien, 1864~1928) [6] 이 제안한 법칙으로 빈 분포 법칙(Wien's distribution law) 혹은 빈 근사(Wien's approximation)라고도 불린다.
+빈은 흑체의 분광 복사휘도(spectral radiance; 또는 복사휘도 분포 함수) [7] B λ ( λ , T ) B_\lambda(\lambda,\,T) B λ ​ ( λ , T ) 가 두 상수 c 1 c_1 c 1 ​ , c 2 c_2 c 2 ​ 를 매개로 하여 다음과 같은 꼴로 주어진다고 주장했다. B λ ( λ , T ) = c 1 λ 5 e − c 2 λ T B_\lambda(\lambda,\,T) = \dfrac{c_1}{\lambda^5}e^{-\frac{c_2}{\lambda T}} B λ ​ ( λ , T ) = λ 5 c 1 ​ ​ e − λ T c 2 ​ ​
+
+위 식은 모든 파장 범위로 적분시 수렴하는 함수이고 ∫ 0 m ∞ m B λ ( λ , T ) d λ = ∫ 0 H z ∞ H z B ν ( ν , T ) d ν \displaystyle \int_{\rm0\,m}^{\rm\infty\,m} B_\lambda(\lambda,\,T){\rm\,d}\lambda = \int_{\rm0\,Hz}^{\rm\infty\,Hz} B_\nu(\nu,\,T){\rm\,d}\nu ∫ 0 m ∞ m ​ B λ ​ ( λ , T ) d λ = ∫ 0 Hz ∞ Hz ​ B ν ​ ( ν , T ) d ν
+
+를 만족해야하므로 λ = c ν ⟹ d λ = − c ν 2 d ν \lambda = \cfrac c\nu \Longrightarrow {\rm d}\lambda = -\cfrac c{\nu^2}{\rm\,d}\nu λ = ν c ​ ⟹ d λ = − ν 2 c ​ d ν 를 적용하면 ∫ 0 m ∞ m B λ ( λ , T ) d λ = ∫ ∞ H z 0 H z B λ ( λ ( ν ) , T ) ( − c ν 2 ) d ν = ∫ 0 H z ∞ H z c ν 2 B λ ( λ ( ν ) , T ) d ν \begin{aligned} \int_{\rm0\,m}^{\rm\infty\,m} B_\lambda(\lambda,\,T){\rm\,d}\lambda &= \int_{\rm\infty\,Hz}^{\rm0\,Hz}B_\lambda(\lambda(\nu),\,T){\left(-\frac c{\nu^2}\right)}{\rm\,d}\nu \\ &= \int_{\rm0\,Hz}^{\rm\infty\,Hz} \frac c{\nu^2}B_\lambda(\lambda(\nu),\,T){\rm\,d}\nu \end{aligned} ∫ 0 m ∞ m ​ B λ ​ ( λ , T ) d λ ​ = ∫ ∞ Hz 0 Hz ​ B λ ​ ( λ ( ν ) , T ) ( − ν 2 c ​ ) d ν = ∫ 0 Hz ∞ Hz ​ ν 2 c ​ B λ ​ ( λ ( ν ) , T ) d ν ​
+
+에서 진동수로 나타낸 식은 B ν ( ν , T ) = c 1 ν 3 c 4 e − c 2 ν c T B_\nu(\nu,\,T) = \dfrac{c_1\nu^3}{c^4}e^{-\frac{c_2\nu}{cT}} B ν ​ ( ν , T ) = c 4 c 1 ​ ν 3 ​ e − c T c 2 ​ ν ​
+
+이다.
+실제로 적분해보면 ∫ 0 H z ∞ H z B ν ( ν , T ) d ν = ∫ 0 H z ∞ H z c 1 ν 3 c 4 e − c 2 ν c T d ν = [ − c 1 T ν 3 c 2 c 3 e − c 2 ν c T − 3 c 1 T 2 ν 2 c 2 2 c 2 e − c 2 ν c T − 6 c 1 T 3 ν c 2 3 c e − c 2 ν c T − 6 c 1 T 4 c 2 4 e − c 2 ν c T ] 0 H z ∞ H z = 6 c 1 c 2 4 T 4 \begin{aligned} \int_{\rm0\,Hz}^{\rm\infty\,Hz} B_\nu(\nu,\,T){\rm\,d}\nu &= \int_{\rm0\,Hz}^{\rm\infty\,Hz} \frac{c_1\nu^3}{c^4}e^{-\frac{c_2\nu}{cT}}{\rm\,d}\nu \\ &= {\left[-\frac{c_1T\nu^3}{c_2c^3}e^{-\frac{c_2\nu}{cT}}-\frac{3c_1T^2\nu^2}{{c_2}^2c^2}e^{-\frac{c_2\nu}{cT}}-\frac{6c_1T^3\nu}{{c_2}^3c}e^{-\frac{c_2\nu}{cT}}-\frac{6c_1T^4}{{c_2}^4}e^{-\frac{c_2\nu}{cT}}\right]}_{\rm0\,Hz}^{\rm\infty\,Hz} \\ &= \frac{6c_1}{{c_2}^4}T^4\end{aligned} ∫ 0 Hz ∞ Hz ​ B ν ​ ( ν , T ) d ν ​ = ∫ 0 Hz ∞ Hz ​ c 4 c 1 ​ ν 3 ​ e − c T c 2 ​ ν ​ d ν = [ − c 2 ​ c 3 c 1 ​ T ν 3 ​ e − c T c 2 ​ ν ​ − c 2 ​ 2 c 2 3 c 1 ​ T 2 ν 2 ​ e − c T c 2 ​ ν ​ − c 2 ​ 3 c 6 c 1 ​ T 3 ν ​ e − c T c 2 ​ ν ​ − c 2 ​ 4 6 c 1 ​ T 4 ​ e − c T c 2 ​ ν ​ ] 0 Hz ∞ Hz ​ = c 2 ​ 4 6 c 1 ​ ​ T 4 ​
+
+로 수렴하는 것을 알 수 있다. 더불어 위 식은 1879년에 알려진 슈테판-볼츠만 법칙, 즉 흑체에서 방출되는 빛의 복사강도, 복사휘도, 복사발산도, 에너지 등이 절대온도의 네제곱에 비례한다는 법칙도 잘 설명하는 특징이 있었다.
+
+7.1. 빈 변위 법칙 [편집]
+빈 법칙은 일정 온도 조건에서 흑체로부터 방사되는 빛의 복사휘도가 가장 강한 [8] 파장 혹은 진동수를 구하는 데에도 유용하게 쓰였다. 이 값은 곧 분광 복사휘도 B ν ( ν , T ) B_\nu(\nu,\,T) B ν ​ ( ν , T ) 의 극댓값이 나타나는 조건을 찾는 것과 같으므로, 예를 들어 B λ ( λ , T ) B_\lambda(\lambda,\,T) B λ ​ ( λ , T ) 를 λ \lambda λ 로 편미분해서 그 식이 0 W / ( m 4 s r ) 0{\rm\,W/(m^4sr)} 0 W/ ( m 4 sr ) 이 되는 조건을 찾아보면 ∂ ∂ λ B λ ( λ , T ) = c 1 λ 6 e − c 2 λ T ( c 2 λ T − 5 ) = 0 W / ( m 4 s r ) ∴ c 2 λ m a x T = 5 λ m a x = c 2 5 T \begin{aligned}\frac{\partial}{\partial\lambda}B_\lambda(\lambda,\,T) &= \frac{c_1}{\lambda^6}e^{-\frac{c^2}{\lambda T}}{\left(\frac{c_2}{\lambda T}-5\right)} \\ &= 0{\rm\,W/(m^4sr)} \\ \therefore\frac{c_2}{\lambda_{\sf max} T} &= 5 \\ \lambda_{\sf max} &= \frac{c_2}{5T}\end{aligned} ∂ λ ∂ ​ B λ ​ ( λ , T ) ∴ λ max ​ T c 2 ​ ​ λ max ​ ​ = λ 6 c 1 ​ ​ e − λ T c 2 ​ ( λ T c 2 ​ ​ − 5 ) = 0 W/ ( m 4 sr ) = 5 = 5 T c 2 ​ ​ ​
+
+오늘날 널리 받아들여지는 플랑크 법칙의 관점에서 보면 c 1 = 2 h c 2 s r − 1 c_1 = 2hc^2{\rm\,sr^{-1}} c 1 ​ = 2 h c 2 s r − 1 , c 2 = h c k B c_2 = \cfrac{hc}{k_{\rm B}} c 2 ​ = k B ​ h c ​ 에 해당하므로 λ m a x \lambda_{\sf max} λ max ​ 에 h = 6.626 070 15 × 10 − 34 J ⋅ s h = 6.626\,070\,15\times10^{-34}{\rm\,J{\cdot}s} h = 6.626 070 15 × 1 0 − 34 J ⋅ s , c = 299 792 458 m / s c = 299\,792\,458{\rm\,m/s} c = 299 792 458 m/s , k B = 1.380 649 × 10 − 23 J / K k_{\rm B} = 1.380\,649\times10^{-23}{\rm\,J/K} k B ​ = 1.380 649 × 1 0 − 23 J/K 를 대입해서 계산하면 λ m a x ≈ 2.877 554 m m ⋅ K T \lambda_{\sf max} \approx \cfrac{2.877\,554{\rm\,mm{\cdot}K}}T λ max ​ ≈ T 2.877 554 mm ⋅ K ​
+
+가 얻어지며, 복사휘도가 가장 강한 빛의 파장이 절대온도에 반비례한다는 것을 알 수 있다. 이를 빈 변위 법칙(Wien's displacement law) 이라고 한다. 현대 관점에서 빈 법칙의 공식은 플랑크 법칙의 근사식이기 때문에 오늘날 쓰이는 실제 공식은 상수값에 약간 차이가 있다. 자세한 것은 아래의 빈 변위 법칙과의 관계 항목 참조.
+
+이 도표를 보면 온도가 낮으면 파장이 긴 적외선이나 붉은 빛이 많이 나오고 온도가 높으면 파장이 짧은 파란색이나 자외선이 많이 나오는 걸 알 수 있다. 더욱 고온이 되면 자외선 영역도 넘어 X선 이나 감마선 을 내게되고 반대로 온도가 낮으면 마이크로파, 밀리미터파 등 전파 의 영역의 최대 파장이 나온다. 우주배경복사 는 저온에서 이런 전파가 나오는 것. 태양의 표면온도는 6000도 정도이고 파장으론 455~500 nm 정도가 가장 강한 피크를 이룬다. 피크의 절반의 세기가 되는 파장은 각각 350 nm 와 840 nm 정도이다.
+
+이 법칙은 고온 물체의 색으로부터 그 온도를 추정하는 실용적인 목적으로 매우 많이 쓰인다. 달아오른 금속이나 불꽃의 온도 측정, 항성들의 표면온도 추정에도 널리 쓰이고, [9] 열화상카메라 등을 이용해 체온도 측정한다.
+
+7.2. 문제점 [편집]
+위와 같은 장점에도 빈 법칙은 ν \nu ν 가 작을 때, 즉 λ \lambda λ 가 큰 장파장일 경우에 실험결과에 잘 맞지 않는 문제점이 있었다.
+
+8. 레일리-진스 법칙 [편집]
+1900년 6월, 레일리는 흑체복사를 고전적인 관점에서 연구하여, 흑체 속의 전자 가 무질서한 운동을 하고 있지만 결국 진공 속의 전자기파와 마찬가지로 취급한다. 이 법칙을 레일리-진스 법칙(Rayleigh-Jeans law) 이라 한다. 즉 흑체 양끝을 마디로 하는 정상파 라고 하면 이때 어떤 속이 빈 물체(공동, cavity) 안에서 수없이 여러 번 반사되어 기벽과 열적 평형을 이룬 복사선이 바늘 구멍(hole)으로 나온다고 이상적인 물체를 가정했는데, 이것을 흑체 라고 한다.
+
+8.1. 상자 속 파동 [편집]
+해석을 용이하게 하기 위해 각 변의 길이가 A A A , B B B , C C C 인 직육면체 흑체가 공간 직교좌표계의 각 축 방향에 나란하게 배치되어있고, 흑체 안에 빛이 갇혀서 내부에서 완벽하게 반사되어 존재하는 이상적인 상황을 가정하자.
+또한, 고전역학적인 관점에 따라 빛을 파동으로 간주하여 변위 r = ( x , y , z ) {\bf r} = (x,\,y,\,z) r = ( x , y , z ) 와 시간 t t t 에 의존하는 함수로서 다루도록 한다. 파동은 t t t 축의 양의 방향으로 진행하며 파수 벡터를 k = ( k x , k y , k z ) {\bf k} = (k_x,\,k_y,\,k_z) k = ( k x ​ , k y ​ , k z ​ ) (단, k ‾ = k / r a d \underline{\bf k} = {\bf k}/{\rm rad} k ​ = k / rad ), 각진동수를 ω \omega ω (단, ω ‾ = ω / r a d \underline\omega = \omega/{\rm rad} ω ​ = ω / rad ), 진동수를 ν \nu ν 라고 하면 다음과 같은 사인파로 표현할 수 있다. [10] A ( r , t ) = A 0 sin ⁡ ( k ‾ ⋅ r − ω ‾ t ) = A 0 sin ⁡ ( k x ‾ x + k y ‾ y + k z ‾ z − 2 π ν t ) \begin{aligned} A({\bf r},\,t) &= A_0\sin({\bf \underline k\bm\cdot r} - \underline\omega t) \\ &= A_0\sin\Bigl(\underline{k_x}x + \underline{k_y}y + \underline{k_z}z - 2\pi\nu t\Bigr)\end{aligned} A ( r , t ) ​ = A 0 ​ sin ( k ​ ⋅ r − ω ​ t ) = A 0 ​ sin ( k x ​ ​ x + k y ​ ​ y + k z ​ ​ z − 2 π ν t ) ​
+
+빛이 흑체 내부에서 보존된다는 것은 곧 반사된 빛과 간섭을 일으켜 정상파를 유지한다는 조건과 동치이다. 이때, 빛은 등방성을 띠므로 파수 벡터의 각 성분은 모두 독립적이며 각 성분에 대해 l l l , m m m , n n n 배의 정상파가 형성된다고 하면 2 A = l λ x 2 B = m λ y 2 C = n λ z \begin{aligned} 2A &= l\lambda_x \\ 2B &= m\lambda_y \\ 2C &= n\lambda_z\end{aligned} 2 A 2 B 2 C ​ = l λ x ​ = m λ y ​ = n λ z ​ ​
+
+이고 k i ‾ = 2 π λ i \underline{k_i} = \cfrac{2\pi}{\lambda_i} k i ​ ​ = λ i ​ 2 π ​ 이므로 파수 벡터의 각 성분은 k x ‾ = π l A k y ‾ = π m B k z ‾ = π n C \begin{aligned} \underline{k_x} &= \frac{\pi l}A \\ \underline{k_y} &= \frac{\pi m}B \\ \underline{k_z} &= \frac{\pi n}C \end{aligned} k x ​ ​ k y ​ ​ k z ​ ​ ​ = A π l ​ = B π m ​ = C π n ​ ​
+
+이다.
+이와 더불어 파동방정식 을 만족하므로 1 c 2 ∂ 2 ∂ t 2 A ( r , t ) = ∇ 2 A ( r , t ) ⟹ ( 2 π ν ) 2 c 2 = k x ‾ 2 + k y ‾ 2 + k z ‾ 2 = ( π l A ) 2 + ( π m B ) 2 + ( π n C ) 2 ∴ 4 ν 2 c 2 = ( l A ) 2 + ( m B ) 2 + ( n C ) 2 \begin{aligned} && \frac1{c^2}\frac{\partial^2}{\partial t^2}A({\bf r},\,t) &= \nabla^2A({\bf r},\,t) \\ &\Longrightarrow& \frac{(2\pi\nu)^2}{c^2} &= \underline{k_x}^2 + \underline{k_y}^2 + \underline{k_z}^2 \\ && &= {\left(\frac{\pi l}A\right)}^2 + {\left(\frac{\pi m}B\right)}^2 + {\left(\frac{\pi n}C\right)}^2 \end{aligned} \\ \therefore \dfrac{4\nu^2}{c^2} = {\left(\dfrac lA\right)}^2 + {\left(\dfrac mB\right)}^2 + {\left(\dfrac nC\right)}^2 ​ ⟹ ​ c 2 1 ​ ∂ t 2 ∂ 2 ​ A ( r , t ) c 2 ( 2 π ν ) 2 ​ ​ = ∇ 2 A ( r , t ) = k x ​ ​ 2 + k y ​ ​ 2 + k z ​ ​ 2 = ( A π l ​ ) 2 + ( B π m ​ ) 2 + ( C π n ​ ) 2 ​ ∴ c 2 4 ν 2 ​ = ( A l ​ ) 2 + ( B m ​ ) 2 + ( C n ​ ) 2
+
+식 전체를 4 ν 2 c 2 \cfrac{4\nu^2}{c^2} c 2 4 ν 2 ​ 으로 나누어보면 위 식은 다음과 같은 타원체 의 방정식 꼴이라는 것을 알 수 있다. l 2 ( 2 ν A c ) 2 + m 2 ( 2 ν B c ) 2 + n 2 ( 2 ν C c ) 2 = 1 \dfrac{l^2}{{\left(\dfrac{2\nu A}c\right)}^2} + \dfrac{m^2}{{\left(\dfrac{2\nu B}c\right)}^2} + \dfrac{n^2}{{\left(\dfrac{2\nu C}c\right)}^2} = 1 ( c 2 ν A ​ ) 2 l 2 ​ + ( c 2 ν B ​ ) 2 m 2 ​ + ( c 2 ν C ​ ) 2 n 2 ​ = 1
+
+이는 곧 빛의 진동수 ν \nu ν 를 흑체 내부에 생기는 정상파의 상태(mode)에 관한 인자들 l l l , m m m , n n n 으로 표현할 수 있다는 것을 의미한다.
+아울러, 똑같은 진동수라 하더라도 세부적으론 서로 다른 l l l , m m m , n n n 의 상태를 가질 수 있다는 것을 의미하며 이는 곧 진동수마다 상태의 축퇴수(degeneracy)가 각기 다르다 는 것을 암시한다.
+진동수가 ν \nu ν 에서 ν + d ν \nu+{\rm d}\nu ν + d ν 로 증가할 때, 각 상태 역시 서로 독립이므로 d l {\rm d}l d l , d m {\rm d}m d m , d n {\rm d}n d n 만큼 증가한다고 볼 수 있고 이 증가분의 총합 d N {\rm d}N d N 은 d N = d l d m d n {\rm d}N = {\rm d}l{\rm\,d}m{\rm\,d}n d N = d l d m d n 이다.
+구의 경우와 비슷하게 2 ν c = κ \cfrac{2\nu}c = \kappa c 2 ν ​ = κ 라 놓고 다음과 같이 구면 좌표계 변환을 하자. 단, θ ‾ = θ / r a d \underline\theta = \theta/{\rm rad} θ ​ = θ / rad , ϕ ‾ = ϕ / r a d \underline\phi = \phi/{\rm rad} ϕ ​ = ϕ / rad 이다. { l = κ A sin ⁡ θ ‾ cos ⁡ ϕ ‾ m = κ B sin ⁡ θ ‾ sin ⁡ ϕ ‾ n = κ C cos ⁡ θ ‾ ( κ > 0 0 ≤ θ ‾ ≤ π 2 0 ≤ ϕ ‾ ≤ π 2 ) \begin{matrix} \begin{cases}l = \kappa A\sin\underline\theta\cos\underline\phi \\ m = \kappa B\sin\underline\theta\sin\underline\phi \\ n = \kappa C\cos\underline\theta \end{cases} & {\left(\begin{aligned} &\kappa>0 \\ &0\le\underline\theta\le\dfrac\pi2 \\ &0\le\underline\phi\le\dfrac\pi2 \end{aligned}\right)}\end{matrix} ⎩ ⎨ ⎧ ​ l = κ A sin θ ​ cos ϕ ​ m = κ B sin θ ​ sin ϕ ​ n = κ C cos θ ​ ​ ​ ​ ​ κ > 0 0 ≤ θ ​ ≤ 2 π ​ 0 ≤ ϕ ​ ≤ 2 π ​ ​ ​ ​
+
+그러면 d l d m d n = ∣ J ∣ d κ d θ ‾ d ϕ ‾ {\rm d}l{\rm\,d}m{\rm\,d}n = |J|{\rm\,d}\kappa{\rm\,d}\underline\theta{\rm\,d}\underline\phi d l d m d n = ∣ J ∣ d κ d θ ​ d ϕ ​ 이고 야코비안 ∣ J ∣|J| ∣ J ∣ 는 ∣ J ∣ = ∥ ∂ ( l , m , n ) ∂ ( κ , θ ‾ , ϕ ‾ ) ∥|J| = \biggl\|\cfrac{\partial(l,\,m,\,n)}{\partial(\kappa,\,\underline\theta,\,\underline\phi)}\biggr\| ∣ J ∣ = ​ ∂ ( κ , θ ​ , ϕ ​ ) ∂ ( l , m , n ) ​ ​ 으로 주어지며 ∣ J ∣ = ∥ A sin ⁡ θ ‾ cos ⁡ ϕ ‾ κ A cos ⁡ θ ‾ cos ⁡ ϕ ‾ − κ A sin ⁡ θ ‾ sin ⁡ ϕ ‾ B sin ⁡ θ ‾ sin ⁡ ϕ ‾ κ B cos ⁡ θ ‾ sin ⁡ ϕ ‾ κ B sin ⁡ θ ‾ cos ⁡ ϕ ‾ C cos ⁡ θ ‾ − κ C sin ⁡ θ ‾ 0 ∥ = ∣ κ 2 A B C sin ⁡ θ ‾ ∣ = κ 2 A B C sin ⁡ θ ‾ \begin{aligned} |J| &= \begin{Vmatrix}A\sin\underline\theta\cos\underline\phi & \kappa A\cos\underline\theta\cos\underline\phi & -\kappa A\sin\underline\theta\sin\underline\phi \\ B\sin\underline\theta\sin\underline\phi & \kappa B\cos\underline\theta\sin\underline\phi & \kappa B\sin\underline\theta\cos\underline\phi \\ C\cos\underline\theta & -\kappa C\sin\underline\theta & 0\end{Vmatrix} \\ &= |\kappa^2ABC\sin\underline\theta| \\ &= \kappa^2ABC\sin\underline\theta\end{aligned} ∣ J ∣ ​ = ​ A sin θ ​ cos ϕ ​ B sin θ ​ sin ϕ ​ C cos θ ​ ​ κ A cos θ ​ cos ϕ ​ κ B cos θ ​ sin ϕ ​ − κ C sin θ ​ ​ − κ A sin θ ​ sin ϕ ​ κ B sin θ ​ cos ϕ ​ 0 ​ ​ = ∣ κ 2 A B C sin θ ​ ∣ = κ 2 A B C sin θ ​ ​
+
+이므로 d N = d l d m d n = κ 2 A B C sin ⁡ θ ‾ d κ d θ ‾ d ϕ ‾ = ( 2 ν c ) 2 A B C d ( 2 ν c ) sin ⁡ θ ‾ d θ ‾ d ϕ ‾ = 8 ν 2 c 3 A B C d ν sin ⁡ θ ‾ d θ ‾ d ϕ ‾ \begin{aligned}{\rm d}N &= {\rm d}l{\rm\,d}m{\rm\,d}n \\ &= \kappa^2ABC\sin\underline\theta{\rm\,d}\kappa{\rm\,d}\underline\theta{\rm\,d}\underline\phi \\ &= {\left(\frac{2\nu}c\right)}^2ABC{\rm\,d}{\left(\frac{2\nu}c\right)}\sin\underline\theta{\rm\,d}\underline\theta{\rm\,d}\underline\phi \\ &= \frac{8\nu^2}{c^3}ABC{\rm\,d}\nu\sin\underline\theta{\rm\,d}\underline\theta{\rm\,d}\underline\phi\end{aligned} d N ​ = d l d m d n = κ 2 A B C sin θ ​ d κ d θ ​ d ϕ ​ = ( c 2 ν ​ ) 2 A B C d ( c 2 ν ​ ) sin θ ​ d θ ​ d ϕ ​ = c 3 8 ν 2 ​ A B C d ν sin θ ​ d θ ​ d ϕ ​ ​
+
+그런데 A B C ABC A B C 는 직육면체의 부피 V V V 이고 N N N 은 등방성의 특성상 θ ‾ \underline\theta θ ​ , ϕ ‾ \underline\phi ϕ ​ 와 무관하므로 각 범위에서 미리 적분해주면 d N ( ν ) = 4 π ν 2 c 3 V d ν {\rm d}N(\nu) = \dfrac{4\pi\nu^2}{c^3}V{\rm\,d}\nu d N ( ν ) = c 3 4 π ν 2 ​ V d ν
+
+이다. 이것을 흑체의 부피 V V V 로 나누면 밀도에 관한 함수가 얻어지는데 여기서 끝이 아니고, 전자기파에는 2개의 원편광(circular polarization) 상태가 있어 [11] 자유도가 2이므로 빛의 자유도만큼을 곱해야 한다. 따라서 빛의 상태 밀도 함수 g ( ν ) d ν g(\nu){\rm\,d}\nu g ( ν ) d ν 는 g ( ν ) d ν = 8 π ν 2 c 3 d ν g(\nu){\rm\,d}\nu = \dfrac{8\pi\nu^2}{c^3}{\rm\,d}\nu g ( ν ) d ν = c 3 8 π ν 2 ​ d ν
+
+이 된다. 이 식은 훗날 플랑크가 플랑크 법칙을 유도할 때에도 그대로 쓰였던 식으로, 여기까지는 아무런 문제가 없다.
+
+8.2. 자외선 파탄 [편집]
+문제는 이 다음 단계에서 레일리와 진스가 했던 가정으로, 앞서 흑체 내부는 열적 평형에 도달한 상태라고 했는데 이러한 계는 자유도 하나당 1 2 k B T \cfrac12k_{\rm B}T 2 1 ​ k B ​ T 의 평균 에너지를 갖는 것이 알려져 있다. g ( ν ) d ν g(\nu){\rm\,d}\nu g ( ν ) d ν 가 갖는 의미는 진동수가 ν \nu ν 인 빛의 상태 밀도이므로 평균 에너지를 상태 밀도에 곱하면 흑체의 에너지 밀도가 얻어질 것이라고 추정한 것이다. 이에 따라 빛은 원편광 성질에 의해 자유도가 2이므로 평균 에너지 ⟨ E ⟩ \Braket E ⟨ E ⟩ 를 ⟨ E ⟩ = k B T \Braket E = k_{\rm B}T ⟨ E ⟩ = k B ​ T 로 계산하여 에너지 밀도 u ν ( ν , T ) d ν u_\nu(\nu,\,T){\rm\,d}\nu u ν ​ ( ν , T ) d ν 를 u ν ( ν , T ) d ν = 8 π ν 2 k B T c 3 d ν u_\nu(\nu,\,T){\rm\,d}\nu = \dfrac{8\pi\nu^2k_{\rm B}T}{c^3}{\rm\,d}\nu u ν ​ ( ν , T ) d ν = c 3 8 π ν 2 k B ​ T ​ d ν
+
+로 추정했다.
+
+이 설명은 빈 법칙과는 정반대로 낮은 진동수(장파장)에서는 맞지만 높은 진동수(단파장)에서는 전혀 맞지 않는다. 에너지 밀도가 진동수의 제곱에 비례하게 되므로 높은 진동수인 빛의 에너지가 무한대로 커지는 것이 문제이다. 즉, 아무리 온도가 낮은 물체라도 높은 진동수에서는 무한대의 에너지를 뿜어낸다는 것이다. 쉽게 말하면 X선, 감마선 등이 무한대로 뿜어져 나온다는 것. 이 터무니 없는 결과를 자외선 파탄이라고 부른다. [12] 이 식이 잘못되었다는 것은 해당 분광 에너지 밀도 u ν ( ν , T ) u_\nu(\nu,\,T) u ν ​ ( ν , T ) 를 ν \nu ν 의 모든 범위에서 적분하여 총 에너지 밀도만 구해봐도 알 수 있다. 총 에너지 밀도가 수렴하지 않고 발산한다는 것은 곧, 흑체 내부의 에너지가 무한대라는 것이고 이는 고립계의 에너지가 보존된다는 법칙 과 모순된다. E = ∫ 0 H z ∞ H z u ν ( ν , T ) d ν → ∞ J \displaystyle E=\int_{\rm0\,Hz}^{\rm\infty\,Hz} u_\nu(\nu,\,T){\rm\,d}\nu \rightarrow \infty{\rm\,J} E = ∫ 0 Hz ∞ Hz ​ u ν ​ ( ν , T ) d ν → ∞ J
+
+여담으로, 해당 용어는 1911년 파울 에렌페스트가 처음 사용하였다고 전해진다.
+
+9. 플랑크 법칙 [편집]
+플랑크 는 각각 1900년 10월과 12월에 출판한 두 논문 《빈의 스펙트럼 방정식의 개선에 대하여》 [13] 와 《정상 스펙트럼에서 에너지 분포 법칙의 이론에 대하여》 [14] 에서 기존 빈 법칙이 통계역학적인 관점에서 엔트로피 S S S 와 에너지 U U U 가 다음 특성을 따른다는 것을 발견했는데 d 2 S d U 2 = c o n s t . U \dfrac{{\rm d}^2S}{{\rm d}U^2}=\dfrac{\sf const.}U d U 2 d 2 S ​ = U const. ​
+
+실험값과 이론값의 간극을 해결하기 위해서 위 식을 살짝 수정해 아래의 식을 얻었다. d 2 S d U 2 = α U ( β + U ) \dfrac{{\rm d}^2 S}{{\rm d}U^2} = \dfrac\alpha{U(\beta +U)} d U 2 d 2 S ​ = U ( β + U ) α ​
+
+열역학에서 절대온도 T T T 에 대하여 d S d U = 1 T \cfrac{{\rm d}S}{{\rm d}U} = \cfrac1T d U d S ​ = T 1 ​ 임을 이용하여 위의 미분 방정식을 풀고 앞선 빈 법칙의 식과 계수를 비교하면 다음과 같이 나타낼 수 있는데 E = C λ − 5 e c 2 λ T − 1 E = \dfrac{C\lambda^{-5}}{e^{\frac{c_2}{\lambda T}} - 1} E = e λ T c 2 ​ ​ − 1 C λ − 5 ​
+
+여기에서 플랑크는 통계역학 과의 유사점을 찾고, 각 에너지 진동자 U U U 가 진동수의 정수배 [15] 만큼의 에너지를 가진다는 가설, 즉 E = n h ν E=nh\nu E = nh ν 라는 가설을 세웠다. 이를 플랑크의 양자가설(quantum hypothesis)이라고 부른다. 이 양자가설을 사용하면 레일리-진스 법칙의 유도 과정과는 다른, 오늘날 일반적으로 알려진 새로운 법칙을 얻을 수 있다.
+
+9.1. 양자가설 [편집]
+플랑크는 공식의 물리적인 의미를 설명하기 위하여 진동하는 입자인 '진동자' 모형을 도입하고, 흑체 내벽은 진동자들로 이루어져 있으며 진동자가 진동하면서 복사를 흡수하고 방출한다고 했다. 이 가정은 당시엔 ad hoc 이었으나 공교롭게도 실제 흑체 스펙트럼의 실험 결과에 매우 잘 부합했으며, 근사를 통해 빈 법칙, 레일리-진스 법칙 등을 모두 설명할 수 있다는 점에서 획기적인 발상으로 평가받고 있다.
+
+플랑크는 이 진동자가 주고 받을 수 있는 복사에너지가 진동수에 비례하는 에너지 덩어리로 이루어져 있을 수 밖에 없음을 발견하게 되는데, 이것이 바로 그 유명한 양자가설이며, 이 에너지 덩어리를 양자 (quantum)라고 부르게 된다.
+
+1900년 12월 14일 베를린, 유수의 물리학자들이 모인 앞에서 플랑크는 자신의 공식과 양자가설을 발표하여 키르히호프가 남긴 흑체문제에 종지부를 찍었지만, '에너지의 양자화'라는 새로운 개념은 당시 물리학자들에게도, 플랑크 본인에게도 받아들이기 힘든 것이었다. '양자'의 도입은 전자기파의 에너지에 불연속성이 존재함을 인정하는 것이고, '전자기파는 진동수에 관계없이 동일한 온도에서는 동일한 에너지를 갖는다'는 고전 열역학의 법칙(에너지 등분배 법칙)과 배치되는 것이기 때문이었다.
+
+어찌됐든 양자의 도입으로 고전 물리학으로는 해결할 수 없는 난제였던 흑체문제를 해결하고, 새로운 이론과 모델의 필요성을 촉발시켰다는 점에서 오늘날 많은 사람들이 플랑크가 양자가설을 발표한 이 시기를 양자역학 이 탄생한 시점으로 보고 있다.
+
+그리고 플랑크가 양자가설을 발표하고 나서 5년 후인 1905년 , 양자역학의 서막을 완전히 열어제낀 논문 [16] 이 발표되는데 바로 알베르트 아인슈타인 의 등장이었다.
+
+다시 플랑크 법칙으로 돌아와서, 볼츠만 분포 에 따르면 분석 대상이 에너지가 ε n \varepsilon_n ε n ​ 인 상태에 있을 확률은 e − ε n k B T e^{-\frac{\varepsilon_n}{k_{\rm B}T}} e − k B ​ T ε n ​ ​ 에 비례한다.
+여기서 에너지가 양자화되어있다고 가정, 즉 ε n = n h ν \varepsilon_n = nh\nu ε n ​ = nh ν 라 놓으면 확률밀도함수 P ( ε n ) P(\varepsilon_n) P ( ε n ​ ) 은 다음과 같이 쓸 수 있다. P ( ε n ) = P ( n h ν ) = A e − n h ν k B T \begin{aligned} P(\varepsilon_n) &= P(nh\nu) \\ &= Ae^{-\frac{nh\nu}{k_{\rm B}T}}\end{aligned} P ( ε n ​ ) ​ = P ( nh ν ) = A e − k B ​ T nh ν ​ ​
+
+한편, P P P 는 확률 밀도 함수이므로 모든 n n n 의 경우를 다 더하면 1 1 1 이 되어야 한다. 즉 ∑ n = 0 ∞ P ( n h ν ) = ∑ n = 0 ∞ A e − n h ν k B T = 1 \displaystyle \sum_{n=0}^\infty P(nh\nu) = \sum_{n=0}^\infty Ae^{-\frac{nh\nu}{k_{\rm B}T}} = 1 n = 0 ∑ ∞ ​ P ( nh ν ) = n = 0 ∑ ∞ ​ A e − k B ​ T nh ν ​ = 1
+
+위 무한합은 초항이 A A A , 공비가 e − h ν k B T e^{-\frac{h\nu}{k_{\rm B}T}} e − k B ​ T h ν ​ 인 무한등비급수로 간주할 수 있으며 h h h , ν \nu ν , k B k_{\rm B} k B ​ , T T T 모두 양수의 값을 가지므로 결과적으로 e − h ν k B T < 1 e^{-\frac{h\nu}{k_{\rm B}T}}<1 e − k B ​ T h ν ​ < 1 이다. 따라서 이 무한등비급수는 수렴하며 ∑ n = 0 ∞ P ( n h ν ) = A 1 − e − h ν k B T = 1 ∴ A = 1 − e − h ν k B T P ( n h ν ) = ( 1 − e − h ν k B T ) e − n h ν k B T \begin{aligned} \sum_{n=0}^\infty P(nh\nu) &= \frac A{1-e^{-\frac{h\nu}{k_{\rm B}T}}} = 1 \\ \therefore A &= 1-e^{-\frac{h\nu}{k_{\rm B}T}} \\ P(nh\nu) &= {\left(1-e^{-\frac{h\nu}{k_{\rm B}T}}\right)}e^{-\frac{nh\nu}{k_{\rm B}T}}\end{aligned} n = 0 ∑ ∞ ​ P ( nh ν ) ∴ A P ( nh ν ) ​ = 1 − e − k B ​ T h ν ​ A ​ = 1 = 1 − e − k B ​ T h ν ​ = ( 1 − e − k B ​ T h ν ​ ) e − k B ​ T nh ν ​ ​
+
+에너지의 기댓값 ⟨ E ⟩ \Braket E ⟨ E ⟩ 는 E n P ( E n ) E_nP(E_n) E n ​ P ( E n ​ ) 을 모든 n n n 에 대하여 더한 것과 같으므로 ⟨ E ⟩ = ∑ n = 0 ∞ E n P ( E n ) = ∑ n = 0 ∞ n h ν ( 1 − e − h ν k B T ) e − n h ν k B T \begin{aligned} \Braket E &= \sum_{n=0}^\infty E_nP(E_n) \\ &= \sum_{n=0}^\infty nh\nu{\left(1-e^{-\frac{h\nu}{k_{\rm B}T}}\right)}e^{-\frac{nh\nu}{k_{\rm B}T}} \end{aligned} ⟨ E ⟩ ​ = n = 0 ∑ ∞ ​ E n ​ P ( E n ​ ) = n = 0 ∑ ∞ ​ nh ν ( 1 − e − k B ​ T h ν ​ ) e − k B ​ T nh ν ​ ​
+
+이다. e − h ν k B T = ϵ e^{-\frac{h\nu}{k_{\rm B}T}} = \epsilon e − k B ​ T h ν ​ = ϵ 으로 치환하면 위 식은 다음과 같은 변형을 통해 용이하게 계산할 수 있다. ⟨ E ⟩ = ∑ n = 0 ∞ n h ν ( 1 − ϵ ) ϵ n = h ν ( 1 − ϵ ) ϵ ∑ n = 0 ∞ n ϵ n − 1 = h ν ( 1 − ϵ ) ϵ ∑ n = 0 ∞ d d ϵ ( ϵ n ) = h ν ( 1 − ϵ ) ϵ d d ϵ ∑ n = 0 ∞ ϵ n = h ν ( 1 − ϵ ) ϵ d d ϵ ( 1 1 − ϵ ) = h ν ( 1 − ϵ ) ϵ 1 ( 1 − ϵ ) 2 = h ν ϵ 1 − ϵ = h ν ϵ − 1 − 1 = h ν e h ν k B T − 1 \begin{aligned} \Braket E &= \sum_{n=0}^\infty nh\nu(1-\epsilon)\epsilon^n \\ &= h\nu(1-\epsilon)\epsilon\sum_{n=0}^\infty n\epsilon^{n-1} \\ &= h\nu(1-\epsilon)\epsilon\sum_{n=0}^\infty\frac{\rm d}{{\rm d}\epsilon}(\epsilon^n) \\ &= h\nu(1-\epsilon)\epsilon\frac{\rm d}{{\rm d}\epsilon}\sum_{n=0}^\infty\epsilon^n \\ &= h\nu(1-\epsilon)\epsilon\frac{\rm d}{{\rm d}\epsilon}{\left(\frac1{1-\epsilon}\right)} \\ &= h\nu\cancel{(1-\epsilon)}\epsilon\frac1{(1-\epsilon)^{\cancel2}} \\ &= \frac{h\nu\epsilon}{1-\epsilon} \\ &= \frac{h\nu}{\epsilon^{-1} - 1} \\ &= \frac{h\nu}{e^{\frac{h\nu}{k_{\rm B}T}}-1}\end{aligned} ⟨ E ⟩ ​ = n = 0 ∑ ∞ ​ nh ν ( 1 − ϵ ) ϵ n = h ν ( 1 − ϵ ) ϵ n = 0 ∑ ∞ ​ n ϵ n − 1 = h ν ( 1 − ϵ ) ϵ n = 0 ∑ ∞ ​ d ϵ d ​ ( ϵ n ) = h ν ( 1 − ϵ ) ϵ d ϵ d ​ n = 0 ∑ ∞ ​ ϵ n = h ν ( 1 − ϵ ) ϵ d ϵ d ​ ( 1 − ϵ 1 ​ ) = h ν ( 1 − ϵ ) ​ ϵ ( 1 − ϵ ) 2 ​ 1 ​ = 1 − ϵ h ν ϵ ​ = ϵ − 1 − 1 h ν ​ = e k B ​ T h ν ​ − 1 h ν ​ ​
+
+앞서 레일리-진스 법칙에서 빛의 상태 밀도가 g ( ν ) d ν = 8 π ν 2 c 3 d ν g(\nu){\rm\,d}\nu = \cfrac{8\pi\nu^2}{c^3}{\rm\,d}\nu g ( ν ) d ν = c 3 8 π ν 2 ​ d ν 로 주어졌으므로 여기에 에너지의 기댓값을 곱하면 에너지 밀도에 관한 식이 얻어진다. u ν ( ν , T ) d ν = 8 π h ν 3 c 3 1 e h ν k B T − 1 d ν u_\nu(\nu,\,T){\rm\,d}\nu = \dfrac{8\pi h\nu^3}{c^3}\dfrac1{e^{\frac{h\nu}{k_{\rm B}T}}-1}{\rm\,d}\nu u ν ​ ( ν , T ) d ν = c 3 8 π h ν 3 ​ e k B ​ T h ν ​ − 1 1 ​ d ν
+
+파장으로 나타낼 경우 빈 법칙 항목에서 유도한 것처럼 c λ 2 u ν ( ν ( λ ) , T ) = u λ ( λ , T ) \cfrac c{\lambda^2}u_\nu(\nu(\lambda),\,T) = u_\lambda(\lambda,\,T) λ 2 c ​ u ν ​ ( ν ( λ ) , T ) = u λ ​ ( λ , T ) 이므로 u λ ( λ , T ) d λ = 8 π h c λ 5 1 e h c λ k B T − 1 d λ u_\lambda(\lambda,\,T){\rm\,d}\lambda = \dfrac{8\pi hc}{\lambda^5}\dfrac1{e^{\frac{hc}{\lambda k_{\rm B}T}}-1}{\rm\,d}\lambda u λ ​ ( λ , T ) d λ = λ 5 8 π h c ​ e λ k B ​ T h c ​ − 1 1 ​ d λ
+
+가 된다.
+
+플랑크 법칙은 분광 에너지 밀도 대신 분광 복사휘도(spectral radiance) B ν ( ν , T ) B_\nu(\nu,\,T) B ν ​ ( ν , T ) 로 다루는 경우가 많은데, 복사휘도는 점광원이 단위 시간 당 단위 면적에 가하는 에너지로 정의된다. 점광원에서 나온 광선속 다발은 공간에 입체각 4 π s r 4\pi{\rm\,sr} 4 π sr 으로 퍼지므로 분광 에너지 밀도의 증분 u ν ( ν , T ) d ν u_\nu(\nu,\,T){\rm\,d}\nu u ν ​ ( ν , T ) d ν 을 4 π s r 4\pi{\rm\,sr} 4 π sr 으로 나누면 점광원의 분광 에너지 밀도 증분이 된다. 여기에 부피의 증분 d V {\rm d}V d V 를 곱하면 점광원의 분광 에너지의 증분 d E = u ν ( ν , T ) d ν 4 π s r d V {\rm d}E = \cfrac{u_\nu(\nu,\,T){\rm\,d}\nu}{4\pi{\rm\,sr}}{\rm\,d}V d E = 4 π sr u ν ​ ( ν , T ) d ν ​ d V 이 되며 d V {\rm d}V d V 는 다시 면적의 증분 d A {\rm d}A d A 과 변위의 증분 d r {\rm d}r d r 을 이용해서 d V = d A d r {\rm d}V = {\rm d}A{\rm\,d}r d V = d A d r 로, d r = c d t {\rm d}r = c{\rm\,d}t d r = c d t 로 나타낼 수 있으므로 d E = 8 π h ν 3 c 3 1 e h ν k B T − 1 1 4 π s r d ν d A ⋅ c d t = 2 h ν 3 c 2 1 e h ν k B T − 1 s r − 1 d ν d A d t \begin{aligned} {\rm d}E &= \frac{8\pi h\nu^3}{c^3}\frac1{e^{\frac{h\nu}{k_{\rm B}T}}-1}\frac1{4\pi{\rm\,sr}}{\rm\,d}\nu{\rm\,d}A{\cdot}c{\rm\,d}t \\ &= \dfrac{2h\nu^3}{c^2}\dfrac1{e^{\frac{h\nu}{k_{\rm B}T}}-1}{\rm\,sr^{-1}}{\rm\,d}\nu{\rm\,d}A{\rm\,d}t\end{aligned} d E ​ = c 3 8 π h ν 3 ​ e k B ​ T h ν ​ − 1 1 ​ 4 π sr 1 ​ d ν d A ⋅ c d t = c 2 2 h ν 3 ​ e k B ​ T h ν ​ − 1 1 ​ s r − 1 d ν d A d t ​
+
+가 되는데, 위 관계식은 단위 면적( d A {\rm d}A d A )에 단위 시간 당( d t {\rm d}t d t ) 가해지는 어떤 물리량이 단위 에너지( d E {\rm d}E d E )임을 의미하므로 곧 2 h ν 3 c 3 1 e h ν k B T − 1 s r − 1 \cfrac{2h\nu^3}{c^3}\cfrac1{e^{\frac{h\nu}{k_{\rm B}T}}-1}{\rm\,sr^{-1}} c 3 2 h ν 3 ​ e k B ​ T h ν ​ − 1 1 ​ s r − 1 가 분광 복사휘도 B ν ( ν , T ) B_\nu(\nu,\,T) B ν ​ ( ν , T ) 이다. 따라서 B ν ( ν , T ) = 2 h ν 3 c 2 1 e h ν k B T − 1 s r − 1 = c 4 π s r u ν ( ν , T ) B_\nu(\nu,\,T) = \cfrac{2h\nu^3}{c^2}\cfrac1{e^{\frac{h\nu}{k_{\rm B}T}}-1}{\rm sr^{-1}} = \cfrac c{4\pi\rm\,sr}u_\nu(\nu,\,T) B ν ​ ( ν , T ) = c 2 2 h ν 3 ​ e k B ​ T h ν ​ − 1 1 ​ s r − 1 = 4 π sr c ​ u ν ​ ( ν , T ) 임을 알 수 있다. 파장으로 나타낸 식은 B λ ( λ , T ) = c 4 π s r u λ ( λ , T ) = 2 h c 2 λ 5 1 e h c λ k B T − 1 s r − 1 B_\lambda(\lambda,\,T) = \cfrac c{4\pi\rm\,sr}u_\lambda(\lambda,\,T) = \cfrac{2hc^2}{\lambda^5}\cfrac1{e^{\frac{hc}{\lambda k_{\rm B}T}}-1}{\rm\,sr^{-1}} B λ ​ ( λ , T ) = 4 π sr c ​ u λ ​ ( λ , T ) = λ 5 2 h c 2 ​ e λ k B ​ T h c ​ − 1 1 ​ s r − 1 이며 앞서 플랑크 법칙 문단에서 플랑크가 제시했던 식의 꼴로부터 제1 복사 상수 c 1 L = 2 h c 2 s r − 1 c_{1L} = 2hc^2{\rm\,sr^{-1}} c 1 L ​ = 2 h c 2 s r − 1 및 제2 복사 상수 c 2 = h c k B c_2 = \cfrac{hc}{k_{\rm B}} c 2 ​ = k B ​ h c ​ 를 도입하여 B λ ( λ , T ) = c 1 L λ 5 1 e c 2 λ T − 1 B_\lambda(\lambda,\,T) = \dfrac{c_{1L}}{\lambda^5}\dfrac1{e^{\frac{c_2}{\lambda T}}-1} B λ ​ ( λ , T ) = λ 5 c 1 L ​ ​ e λ T c 2 ​ ​ − 1 1 ​
+
+로 나타내기도 한다.
+
+위 식들을 이용해서 흑체복사의 평균 에너지 E ‾ \overline E E 를 구해보자. 분광 에너지 밀도 u ν ( ν , T ) u_\nu(\nu,\,T) u ν ​ ( ν , T ) 는 진동수가 ν \nu ν 인 빛의 에너지 밀도를 의미하므로 u ν ( ν , T ) u_\nu(\nu,\,T) u ν ​ ( ν , T ) 를 빛의 에너지 h ν h\nu h ν 로 나눈 물리량은 (상태수가 포함된) 광자의 밀도로 볼 수 있다. 따라서 u ν ( ν , T ) h ν \cfrac{u_\nu(\nu,\,T)}{h\nu} h ν u ν ​ ( ν , T ) ​ 를 모든 진동수 범위에서 적분한 값으로 에너지 밀도 u u u 를 나누면 평균 에너지가 될 것이다. E ‾ = ∫ 0 H z ∞ H z u ν ( ν , T ) d ν ∫ 0 H z ∞ H z u ν ( ν , T ) h ν d ν = ∫ 0 H z ∞ H z 8 π h ν 3 c 3 d ν e h ν k B T − 1 ∫ 0 H z ∞ H z 8 π ν 2 c 3 d ν e h ν k B T − 1 = h ∫ 0 H z ∞ H z ν 3 d ν e h ν k B T − 1 ∫ 0 H z ∞ H z ν 2 d ν e h ν k B T − 1 \begin{aligned} \overline E &= \frac{\displaystyle\int_{\rm0\,Hz}^{\rm\infty\,Hz} u_\nu(\nu,\,T){\rm\,d}\nu}{\displaystyle\int_{\rm0\,Hz}^{\rm\infty\,Hz} \frac{u_\nu(\nu,\,T)}{h\nu}{\rm\,d}\nu} \\ &= \frac{\displaystyle\int_{\rm0\,Hz}^{\rm\infty\,Hz}\frac{\cancel{8\pi}h\nu^3}{\cancel{c^3}}\frac{{\rm d}\nu}{e^{\frac{h\nu}{k_{\rm B}T}}-1}}{\displaystyle\int_{\rm0\,Hz}^{\rm\infty\,Hz}\frac{\cancel{8\pi}\nu^2}{\cancel{c^3}}\frac{{\rm\,d}\nu}{e^{\frac{h\nu}{k_{\rm B}T}}-1}} \\ &= \frac{\displaystyle h\int_{\rm0\,Hz}^{\rm\infty\,Hz}\frac{\nu^3{\rm\,d}\nu}{e^{\frac{h\nu}{k_{\rm B}T}}-1}}{\displaystyle\int_{\rm0\,Hz}^{\rm\infty\,Hz}\frac{\nu^2{\rm\,d}\nu}{e^{\frac{h\nu}{k_{\rm B}T}}-1}}\end{aligned} E ​ = ∫ 0 Hz ∞ Hz ​ h ν u ν ​ ( ν , T ) ​ d ν ∫ 0 Hz ∞ Hz ​ u ν ​ ( ν , T ) d ν ​ = ∫ 0 Hz ∞ Hz ​ c 3 8 π ν 2 ​ e k B ​ T h ν ​ − 1 d ν ​ ∫ 0 Hz ∞ Hz ​ c 3 8 π h ν 3 ​ e k B ​ T h ν ​ − 1 d ν ​ ​ = ∫ 0 Hz ∞ Hz ​ e k B ​ T h ν ​ − 1 ν 2 d ν ​ h ∫ 0 Hz ∞ Hz ​ e k B ​ T h ν ​ − 1 ν 3 d ν ​ ​ ​
+
+h ν k B T = x \cfrac{h\nu}{k_{\rm B}T} = x k B ​ T h ν ​ = x 로 치환하면 ν = k B T h x \nu = \cfrac{k_{\rm B}T}h x ν = h k B ​ T ​ x , d ν = k B T h d x {\rm d}\nu = \cfrac{k_{\rm B}T}h{\rm\,d}x d ν = h k B ​ T ​ d x 이며 적분 범위는 동일하므로 E ‾ = h ∫ 0 ∞ ( k B T h ) 4 x 3 d x e x − 1 ∫ 0 ∞ ( k B T h ) 3 x 2 d x e x − 1 = k B T ∫ 0 ∞ x 3 e − x d x 1 − e − x ∫ 0 ∞ x 2 e − x d x 1 − e − x = k B T ∫ 0 ∞ x 3 ∑ n = 1 ∞ ( e − x ) n d x ∫ 0 ∞ x 2 ∑ n = 1 ∞ ( e − x ) n d x = k B T ∑ n = 1 ∞ ∫ 0 ∞ x 3 e − n x d x ∑ n = 1 ∞ ∫ 0 ∞ x 2 e − n x d x \begin{aligned} \overline E &= \frac{\displaystyle \cancel h\int_0^\infty{\left(\frac{k_{\rm B}T}{\cancel h}\right)}^{\cancel4}\frac{x^3{\rm\,d}x}{e^x-1}}{\displaystyle\int_0^\infty{\cancel{\left(\frac{k_{\rm B}T}h\right)}^3}\frac{x^2{\rm\,d}x}{e^x-1}} \\ &= \frac{\displaystyle k_{\rm B}T\int_0^\infty\frac{x^3e^{-x}{\rm\,d}x}{1-e^{-x}}}{\displaystyle\int_0^\infty\frac{x^2e^{-x}{\rm\,d}x}{1-e^{-x}}} \\ &= \frac{\displaystyle k_{\rm B}T\int_0^\infty x^3\sum_{n=1}^\infty{\left(e^{-x}\right)}^n{\rm\,d}x}{\displaystyle\int_0^\infty x^2\sum_{n=1}^\infty{\left(e^{-x}\right)}^n{\rm\,d}x} \\ &= \frac{\displaystyle k_{\rm B}T\sum_{n=1}^\infty\int_0^\infty x^3e^{-nx}{\rm\,d}x}{\displaystyle\sum_{n=1}^\infty\int_0^\infty x^2e^{-nx}{\rm\,d}x}\end{aligned} E ​ = ∫ 0 ∞ ​ ( h k B ​ T ​ ) ​ 3 e x − 1 x 2 d x ​ h ​ ∫ 0 ∞ ​ ( h ​ k B ​ T ​ ) 4 ​ e x − 1 x 3 d x ​ ​ = ∫ 0 ∞ ​ 1 − e − x x 2 e − x d x ​ k B ​ T ∫ 0 ∞ ​ 1 − e − x x 3 e − x d x ​ ​ = ∫ 0 ∞ ​ x 2 n = 1 ∑ ∞ ​ ( e − x ) n d x k B ​ T ∫ 0 ∞ ​ x 3 n = 1 ∑ ∞ ​ ( e − x ) n d x ​ = n = 1 ∑ ∞ ​ ∫ 0 ∞ ​ x 2 e − n x d x k B ​ T n = 1 ∑ ∞ ​ ∫ 0 ∞ ​ x 3 e − n x d x ​ ​
+
+n x = t nx = t n x = t 로 다시 치환하자. x = t n x = \cfrac tn x = n t ​ , d x = d t n {\rm d}x = \cfrac{{\rm d}t}n d x = n d t ​ 이므로 E ‾ = k B T ∑ n = 1 ∞ ∫ 0 ∞ 1 n 4 t 3 e − t d t ∑ n = 1 ∞ ∫ 0 ∞ 1 n 3 t 2 e − t d t = k B T ∑ n = 1 ∞ 1 n 4 ∫ 0 ∞ t 3 e − t d t ∑ n = 1 ∞ 1 n 3 ∫ 0 ∞ t 2 e − t d t = ζ ( 4 ) Γ ( 4 ) ζ ( 3 ) Γ ( 3 ) k B T = π 4 90 ⋅ 6 ζ ( 3 ) ⋅ 2 k B T = π 4 30 ζ ( 3 ) k B T = 2.701 178 032 ⋯ k B T = 3.729 379 × 10 − 23 ( J / K ) T \begin{aligned} \overline E &= \frac{\displaystyle k_{\rm B}T\sum_{n=1}^\infty\int_0^\infty\frac1{n^4}t^3e^{-t}{\rm\,d}t}{\displaystyle\sum_{n=1}^\infty\int_0^\infty\frac1{n^3}t^2e^{-t}{\rm\,d}t} \\ &= \frac{\displaystyle k_{\rm B}T\sum_{n=1}^\infty\frac1{n^4}\int_0^\infty t^3e^{-t}{\rm\,d}t}{\displaystyle\sum_{n=1}^\infty\frac1{n^3}\int_0^\infty t^2e^{-t}{\rm\,d}t} \\ &= \frac{\zeta(4)\Gamma(4)}{\zeta(3)\Gamma(3)}k_{\rm B}T \\ &= \frac{\dfrac{\pi^4}{90}{\cdot}6}{\zeta(3){\cdot}2}k_{\rm B}T \\ &= \frac{\pi^4}{30\zeta(3)}k_{\rm B}T \\ &= 2.701\,178\,032\cdots k_{\rm B}T \\ &= 3.729\,379\times10^{-23}\,({\rm J/K})\,T\end{aligned} E ​ = n = 1 ∑ ∞ ​ ∫ 0 ∞ ​ n 3 1 ​ t 2 e − t d t k B ​ T n = 1 ∑ ∞ ​ ∫ 0 ∞ ​ n 4 1 ​ t 3 e − t d t ​ = n = 1 ∑ ∞ ​ n 3 1 ​ ∫ 0 ∞ ​ t 2 e − t d t k B ​ T n = 1 ∑ ∞ ​ n 4 1 ​ ∫ 0 ∞ ​ t 3 e − t d t ​ = ζ ( 3 ) Γ ( 3 ) ζ ( 4 ) Γ ( 4 ) ​ k B ​ T = ζ ( 3 ) ⋅ 2 90 π 4 ​ ⋅ 6 ​ k B ​ T = 30 ζ ( 3 ) π 4 ​ k B ​ T = 2.701 178 032 ⋯ k B ​ T = 3.729 379 × 1 0 − 23 ( J/K ) T ​
+
+ζ ( z ) \zeta(z) ζ ( z ) 와 Γ ( z ) \Gamma(z) Γ ( z ) 는 각각 제타 함수 와 감마 함수 이다. 위 식으로부터 평균 에너지는 절대온도에 비례함을 알 수 있다.
+
+나중에 밝혀진 바에 따르면 결과는 올바르지만, 공식 유도에 결함이 내포 되어 있다. 공동의 진동자 에너지는 사실 E n = n h ν E_n = nh\nu E n ​ = nh ν 가 아닌 영점 에너지 1 2 h ν \cfrac12h\nu 2 1 ​ h ν 가 포함된 E n ′ = ( n + 1 2 ) h ν = E n + 1 2 h ν {E_n}' = \biggl(n+\cfrac12\biggr)h\nu = E_n + \cfrac12h\nu E n ​ ′ = ( n + 2 1 ​ ) h ν = E n ​ + 2 1 ​ h ν 로 주어지므로, 위 과정에 대입해서 똑같은 방식으로 유도하면 ⟨ E ′ ⟩ \Braket{E'} ⟨ E ′ ⟩ 은 ⟨ E ⟩ \Braket E ⟨ E ⟩ 에 1 2 h ν \cfrac12h\nu 2 1 ​ h ν 가 더해진 값이 나온다. [17] 우선 P ( E n ′ ) P{\left({E_n}'\right)} P ( E n ​ ′ ) 에 대해 P ( E n ′ ) = P ( E n + 1 2 h ν ) = A ′ e − E n k B T e − h ν 2 k B T = A e − E n k B T \begin{aligned} P{\left({E_n}'\right)} &= P{\left(E_n + \dfrac12h\nu\right)} \\ &= A'e^{-\frac{E_n}{k_{\rm B}T}}e^{-\frac{h\nu}{2k_{\rm B}T}} \\ &= Ae^{-\frac{E_n}{k_{\rm B}T}}\end{aligned} P ( E n ​ ′ ) ​ = P ( E n ​ + 2 1 ​ h ν ) = A ′ e − k B ​ T E n ​ ​ e − 2 k B ​ T h ν ​ = A e − k B ​ T E n ​ ​ ​
+
+이며 위 식은 확률밀도함수이므로 n ≥ 0 n\ge0 n ≥ 0 범위에서 모두 다 더하면 1이어야 하는데 1 2 h ν \cfrac12h\nu 2 1 ​ h ν 에 해당되는 항이 비례상수 A A A 에 포함되기 때문에 [18] 결과적으로 P ( E n ′ ) = P ( E n ) P{\left({E_n}'\right)} = P(E_n) P ( E n ​ ′ ) = P ( E n ​ ) 이다.
+다음으로 ⟨ E ′ ⟩ \Braket{E'} ⟨ E ′ ⟩ 을 계산해보면 ⟨ E ′ ⟩ = ∑ n = 0 ∞ E n ′ P ( E n ′ ) = ∑ n = 0 ∞ { E n P ( E n ) + 1 2 h ν P ( E n ) } = ∑ n = 0 ∞ E n P ( E n ) + 1 2 h ν ∑ n = 0 ∞ P ( E n ) = ⟨ E ⟩ + 1 2 h ν \begin{aligned} \Braket{E'} &= \sum_{n=0}^\infty {E_n}'P{\left({E_n}'\right)} \\ &= \sum_{n=0}^\infty{\left\{E_nP({E_n}) + \frac12h\nu P({E_n})\right\}} \\ &= \sum_{n=0}^\infty E_nP({E_n}) + \frac12h\nu\sum_{n=0}^\infty P(E_n) \\ &= \Braket E + \dfrac12h\nu\end{aligned} ⟨ E ′ ⟩ ​ = n = 0 ∑ ∞ ​ E n ​ ′ P ( E n ​ ′ ) = n = 0 ∑ ∞ ​ { E n ​ P ( E n ​ ) + 2 1 ​ h ν P ( E n ​ ) } = n = 0 ∑ ∞ ​ E n ​ P ( E n ​ ) + 2 1 ​ h ν n = 0 ∑ ∞ ​ P ( E n ​ ) = ⟨ E ⟩ + 2 1 ​ h ν ​
+
+한편, 양자 통계학을 이용한 유도에서는 공동 내부의 빛을 광자 가스로 간주하고, 광자는 스핀이 1인 게이지 보손 으로서 보스-아인슈타인 분포 1 e h ν k B T − 1 \cfrac1{e^{\frac{h\nu}{k_{\rm B}T}}-1} e k B ​ T h ν ​ − 1 1 ​ 를 따르므로 이 식에 상태 밀도 g ( ν ) d ν g(\nu){\rm\,d}\nu g ( ν ) d ν 와 빛의 에너지 E = h ν E = h\nu E = h ν 를 곱해서 똑같이 영점 에너지가 포함되지 않은 에너지 분포 함수식을 유도한다.
+결국 플랑크의 가정에 따라 유도할 경우 진동자의 영점에너지 1 2 h ν \cfrac12h\nu 2 1 ​ h ν 만큼을 빼야 맞는다는 것인데, 이에 대해서는 광전효과 에서 금속의 일함수만큼이 빠진 에너지 h ν − W h\nu-W h ν − W 를 갖는 전자가 방출되는 현상이나, 형광 의 원리에서 들뜬 상태와 바닥 상태의 차이만큼의 에너지에 해당하는 빛이 나오는 것과 같은 맥락으로 해석한다. 요컨대, 공동의 바닥 상태와의 차이만큼이 흑체복사로 나타나는 것이기에 영점 에너지를 고려하지 않아도 된다는 해석이다.
+
+9.2. 빈 법칙과의 관계 [편집]
+앞서 빈 법칙은 단파장(고진동수)에서 설명이 잘 되고 장파장(저진동수)에서는 실제와 맞지 않는다고 했다. 플랑크 법칙의 분광 복사휘도를 다음과 같이 변형하고 B λ ( λ , T ) = 2 h c 2 λ 5 1 e h c λ k B T − 1 s r − 1 = 2 h c 2 λ 5 e − h c λ k B T 1 − e − h c λ k B T s r − 1 = 2 h c 2 λ 5 ∑ n = 1 ∞ ( e − h c λ k B T ) n s r − 1 \begin{aligned} B_\lambda(\lambda,\,T) &= \frac{2hc^2}{\lambda^5}\frac1{e^{\frac{hc}{\lambda k_{\rm B}T}}-1}{\rm\,sr^{-1}} \\ &= \frac{2hc^2}{\lambda^5}\frac{e^{-\frac{hc}{\lambda k_{\rm B}T}}}{1-e^{-\frac{hc}{\lambda k_{\rm B}T}}}{\rm\,sr^{-1}} \\ &= \frac{2hc^2}{\lambda^5}\sum_{n=1}^\infty{\left(e^{-\frac{hc}{\lambda k_{\rm B}T}}\right)}^n{\rm\,sr^{-1}}\end{aligned} B λ ​ ( λ , T ) ​ = λ 5 2 h c 2 ​ e λ k B ​ T h c ​ − 1 1 ​ s r − 1 = λ 5 2 h c 2 ​ 1 − e − λ k B ​ T h c ​ e − λ k B ​ T h c ​ ​ s r − 1 = λ 5 2 h c 2 ​ n = 1 ∑ ∞ ​ ( e − λ k B ​ T h c ​ ) n s r − 1 ​
+
+λ ≪ 1 \lambda\ll1 λ ≪ 1 , 즉 c λ = ν \cfrac c\lambda = \nu λ c ​ = ν 이 충분히 크면(단파장, 고진동수) n ≥ 2 n\ge2 n ≥ 2 일 때의 항을 0 0 0 으로 근사하여 ∑ n = 1 ∞ ( e − h c λ k B T ) n ≈ e − h c λ k B T \displaystyle \sum_{n=1}^\infty{\left(e^{-\frac{hc}{\lambda k_{\rm B}T}}\right)}^n\approx e^{-\frac{hc}{\lambda k_{\rm B}T}} n = 1 ∑ ∞ ​ ( e − λ k B ​ T h c ​ ) n ≈ e − λ k B ​ T h c ​ 라고 할 수 있으므로 B λ ( λ , T ) ≈ 2 h c 2 λ 5 e − h c λ k B T s r − 1 B_\lambda(\lambda,\,T) \approx \dfrac{2hc^2}{\lambda^5}e^{-\frac{hc}{\lambda k_{\rm B}T}}{\rm\,sr^{-1}} B λ ​ ( λ , T ) ≈ λ 5 2 h c 2 ​ e − λ k B ​ T h c ​ s r − 1
+
+이는 앞선 빈 법칙의 식 c 1 λ 5 e − c 2 λ T ( c 1 = 2 h c 2 s r − 1 , c 2 = h c k B ) \cfrac{c_1}{\lambda^5}e^{-\frac{c_2}{\lambda T}} ~ \biggl(c_1=2hc^2{\rm\,sr^{-1}},\,c_2 = \cfrac{hc}{k_{\rm B}}\biggr) λ 5 c 1 ​ ​ e − λ T c 2 ​ ​ ( c 1 ​ = 2 h c 2 s r − 1 , c 2 ​ = k B ​ h c ​ ) 와 정확히 같은 꼴이다.
+
+9.3. 빈 변위 법칙과의 관계 [편집]
+한편 빈 변위 법칙에 대해서, 똑같이 B λ ( λ , T ) B_\lambda(\lambda,\,T) B λ ​ ( λ , T ) 를 λ \lambda λ 에 대해 편미분하여 그 값이 0 W / ( m 4 s r ) 0{\rm\,W/(m^4\,sr)} 0 W/ ( m 4 sr ) 이 되는 조건을 찾는다. ∂ ∂ λ B λ ( λ , T ) = ∂ ∂ λ ( 2 h c 2 λ 5 1 e h c λ k B T − 1 s r − 1 ) = 2 h c 2 λ 6 1 e h c λ k B T − 1 { h c λ k B T e h c λ k B T e h c λ k B T − 1 − 5 } s r − 1 = 0 W / ( m 4 s r ) \begin{aligned} \frac{\partial}{\partial\lambda}B_\lambda(\lambda,\,T) &= \frac{\partial}{\partial\lambda}{\left(\frac{2hc^2}{\lambda^5}\frac1{e^{\frac{hc}{\lambda k_{\rm B}T}}-1}{\rm\,sr^{-1}}\right)} \\ &= \frac{2hc^2}{\lambda^6}\frac1{e^{\frac{hc}{\lambda k_{\rm B}T}}-1}{\left\{\frac{hc}{\lambda k_{\rm B}T}\frac{e^{\frac{hc}{\lambda k_{\rm B}T}}}{e^{\frac{hc}{\lambda k_{\rm B}T}}-1} - 5\right\}}{\rm\,sr^{-1}} \\ &= 0{\rm\,W/(m^4\,sr)} \end{aligned} ∂ λ ∂ ​ B λ ​ ( λ , T ) ​ = ∂ λ ∂ ​ ( λ 5 2 h c 2 ​ e λ k B ​ T h c ​ − 1 1 ​ s r − 1 ) = λ 6 2 h c 2 ​ e λ k B ​ T h c ​ − 1 1 ​ { λ k B ​ T h c ​ e λ k B ​ T h c ​ − 1 e λ k B ​ T h c ​ ​ − 5 } s r − 1 = 0 W/ ( m 4 sr ) ​
+
+h c λ k B T = χ \cfrac{hc}{\lambda k_{\rm B}T} = \chi λ k B ​ T h c ​ = χ 라고 놓으면 위 방정식의 해는 χ e χ e χ − 1 = 5 ⟺ χ e χ = 5 e χ − 5 \begin{aligned} && \frac{\chi e^\chi}{e^\chi - 1} &= 5 \\ &\Longleftrightarrow& \chi e^\chi &= 5e^\chi - 5 \end{aligned} ​ ⟺ ​ e χ − 1 χ e χ ​ χ e χ ​ = 5 = 5 e χ − 5 ​
+
+를 만족하는 χ \chi χ 값이다. χ − 5 = x \chi - 5 = x χ − 5 = x 라 놓고 위 식을 x x x 로 정리해주면 다음과 같이 람베르트 W W W 함수 가 얻어지며 χ \chi χ 가 람베르트 W W W 함수로 표현된다. 람베르트 W W W 함수는 음함수 이므로 윗부분인 W 0 W_0 W 0 ​ 만 취한다. ( x + 5 ) e x + 5 = x e x + 5 + 5 e x + 5 = 5 e x + 5 − 5 ⟹ x e x = − 5 e − 5 ∴ x = W 0 ( − 5 e − 5 ) χ = 5 + W 0 ( − 5 e − 5 ) \begin{aligned} && (x+5)e^{x+5} &= xe^{x+5} + \cancel{5e^{x+5}} = \cancel{5e^{x+5}} - 5 \\ &\Longrightarrow& xe^x &= -5e^{-5} \\ && \therefore x &= W_0(-5e^{-5}) \\ && \chi &= 5 + W_0(-5e^{-5})\end{aligned} ​ ⟹ ​ ( x + 5 ) e x + 5 x e x ∴ x χ ​ = x e x + 5 + 5 e x + 5 = 5 e x + 5 − 5 = − 5 e − 5 = W 0 ​ ( − 5 e − 5 ) = 5 + W 0 ​ ( − 5 e − 5 ) ​
+
+χ = 4.965 114 231 744 276 303 ⋯ \chi = 4.965\,114\,231\,744\,276\,303\cdots χ = 4.965 114 231 744 276 303 ⋯ 로 앞서 빈 변위 법칙에서 얻어졌던 5 5 5 에 근접한 값이 얻어지며 λ m a x = h c χ k B T \lambda_{\sf max} = \cfrac{hc}{\chi k_{\rm B}T} λ max ​ = χ k B ​ T h c ​ 이므로 h = 6.626 070 15 × 10 − 34 J ⋅ s h = 6.626\,070\,15\times10^{-34}{\rm\,J{\cdot}s} h = 6.626 070 15 × 1 0 − 34 J ⋅ s , c = 299 792 458 m / s c = 299\,792\,458{\rm\,m/s} c = 299 792 458 m/s , k B = 1.380 649 × 10 − 23 J / K k_{\rm B} = 1.380\,649\times10^{-23}{\rm\,J/K} k B ​ = 1.380 649 × 1 0 − 23 J/K 를 대입해서 계산하면 λ m a x = 6.626 070 15 × 10 − 34 J ⋅ s ⋅ 299 792 458 m / s χ ⋅ 1.380 649 × 10 − 23 J / K ⋅ T ≈ 2.897 772 m m ⋅ K T \begin{aligned} \lambda_{\sf max} &= \frac{6.626\,070\,15\times10^{-34}{\rm\,\cancel{J{\cdot}s}}\cdot299\,792\,458{\rm\,m/\cancel s}}{\chi\cdot1.380\,649\times10^{-23}{\rm\,\cancel J/K}\cdot T} \\ &\approx \frac{2.897\,772{\rm\,mm{\cdot}K}}T\end{aligned} λ max ​ ​ = χ ⋅ 1.380 649 × 1 0 − 23 J ​ /K ⋅ T 6.626 070 15 × 1 0 − 34 J ⋅ s ⋅ 299 792 458 m/ s ​ ​ ≈ T 2.897 772 mm ⋅ K ​ ​
+
+이 된다. 상기 빈 변위 법칙 의 식과 비교해보자.
+
+참고로 복사휘도가 극대인 진동수를 계산할 때에는 일반적인 c = λ ν c = \lambda\nu c = λ ν 공식을 쓰면 안 된다. B ν ( ν , T ) = c ν 2 B λ ( λ ( ν ) , T ) = 2 h ν 3 c 2 1 e h ν k B T − 1 s r − 1 B_\nu(\nu,\,T) = \cfrac c{\nu^2}B_\lambda(\lambda(\nu),\,T) = \cfrac{2h\nu^3}{c^2}\cfrac1{e^{\frac{h\nu}{k_{\rm B}T}}-1}{\rm\,sr^{-1}} B ν ​ ( ν , T ) = ν 2 c ​ B λ ​ ( λ ( ν ) , T ) = c 2 2 h ν 3 ​ e k B ​ T h ν ​ − 1 1 ​ s r − 1 로 두 식의 형태가 다르기 때문에 미분해서 ν m a x \nu_{\sf max} ν max ​ 를 계산해보면 ν m a x = { 3 + W 0 ( − 3 e − 3 ) } k B T h = 5.878 926 × 10 10 ( H z / K ) ⋅ T \nu_{\sf max} = \dfrac{\{3+W_0(-3e^{-3})\}k_{\rm B}T}h = 5.878\,926\times10^{10}\,({\rm Hz/K}){\cdot}T ν max ​ = h { 3 + W 0 ​ ( − 3 e − 3 )} k B ​ T ​ = 5.878 926 × 1 0 10 ( Hz/K ) ⋅ T
+
+가 되어 λ m a x ν m a x = 3 + W 0 ( − 3 e − 3 ) 5 + W 0 ( − 3 e − 5 ) c ≈ 0.568 253 c ≠ c \lambda_{\sf max}\nu_{\sf max} = \cfrac{3+W_0(-3e^{-3})}{5+W_0(-3e^{-5})}c \approx 0.568\,253c \ne c λ max ​ ν max ​ = 5 + W 0 ​ ( − 3 e − 5 ) 3 + W 0 ​ ( − 3 e − 3 ) ​ c ≈ 0.568 253 c  = c 로 일반적인 c = λ ν c = \lambda\nu c = λ ν 의 관계가 성립하지 않는다.
+
+9.4. 레일리-진스 법칙과의 관계 [편집]
+e x = 1 + x 1 ! + x 2 2 ! + ⋯ \displaystyle e^x = 1 + \cfrac x{1!} + \cfrac{x^2}{2!} + \cdots e x = 1 + 1 ! x ​ + 2 ! x 2 ​ + ⋯ 에서 x ≪ 1 x\ll1 x ≪ 1 이면 e x ≈ 1 + x e^x \approx 1 + x e x ≈ 1 + x 로 근사할 수 있다는 점을 적용하면 u ν ( ν , T ) d ν = 8 π h ν 3 c 3 1 e h ν k B T − 1 d ν ≈ 8 π h ν 3 c 3 1 h ν k B T d ν = 8 π ν 2 k B T c 3 d ν \begin{aligned} u_\nu(\nu,\,T){\rm\,d}\nu &= \frac{8\pi h\nu^3}{c^3}\frac1{e^{\frac{h\nu}{k_{\rm B}T}}-1}{\rm\,d}\nu \\ &\approx \frac{8\pi h\nu^3}{c^3}\frac1{\dfrac{h\nu}{k_{\rm B}T}}{\rm\,d}\nu \\ &= \frac{8\pi\nu^2k_{\rm B}T}{c^3}{\rm\,d}\nu\end{aligned} u ν ​ ( ν , T ) d ν ​ = c 3 8 π h ν 3 ​ e k B ​ T h ν ​ − 1 1 ​ d ν ≈ c 3 8 π h ν 3 ​ k B ​ T h ν ​ 1 ​ d ν = c 3 8 π ν 2 k B ​ T ​ d ν ​
+
+로, 진동수가 작을 때에는 레일리-진스 법칙으로 근사된다는 점을 알 수 있다.
+
+9.5. 슈테판-볼츠만 상수 구하기 [편집]
+오늘날의 슈테판-볼츠만 법칙은 엄밀하게는 흑체의 복사발산도 M e M_{\rm e} M e ​ 가 절대온도의 네제곱에 비례한다는 법칙으로 정의된다. [19] M e = σ T 4 M_{\rm e} = \sigma T^4 M e ​ = σ T 4
+
+M e M_{\rm e} M e ​ 는 복사휘도 B B B 를 이용해서 유도할 수 있는데, 둘은 실제 공간에 퍼진 물리량(복사발산도)인지 점광원으로 환산된 물리량(복사휘도)인지에 차이만 있으므로, 복사발산도의 정의에 따라 복사휘도를 입체각에 대해 적분하면 된다. 우리가 알고 있는 함수는 복사휘도를 진동수 혹은 파장으로 미분한 식 즉, B ν ( ν , T ) B_\nu(\nu,\,T) B ν ​ ( ν , T ) 혹은 B λ ( λ , T ) B_\lambda(\lambda,\,T) B λ ​ ( λ , T ) 이므로 이를 이용하자. 즉슨 B ν ( ν , T ) d ν B_\nu(\nu,\,T){\rm\,d}\nu B ν ​ ( ν , T ) d ν 또는 B λ ( λ , T ) d λ B_\lambda(\lambda,\,T){\rm\,d}\lambda B λ ​ ( λ , T ) d λ 가 복사휘도의 증분이고 이걸 공간에 대해 적분하면 복사발산도의 증분이 된다.
+
+이때, 주의할 점이 있는데 흑체에서 나오는 빛의 복사휘도는 람베르트의 코사인 법칙(Lambert's cosine law) [20] 을 따르기 때문에 피적분 함수가 B ν ( ν , T ) cos ⁡ θ ‾ d ν B_\nu(\nu,\,T)\cos\underline\theta{\rm\,d}\nu B ν ​ ( ν , T ) cos θ ​ d ν 가 되며, 복사휘도는 관측기에 검출되는 물리량이기 때문에 관측자 방향으로 방사되지 않는 빛은 계산에서 제외되어 0 ≤ θ ‾ ≤ π 2 0\le\underline\theta\le\cfrac\pi2 0 ≤ θ ​ ≤ 2 π ​ 범위로 적분 범위가 제한된다. 모든 공간으로 적분을 했던 에너지 밀도와 비교하면 반구에 대한 적분으로 볼 수 있으며 정리하면 복사발산도에 관한 식은 다음과 같이 주어진다. M e = ∬ Ω ∫ 0 H z ∞ H z B ν ( ν , T ) cos ⁡ θ ‾ d ν d Ω = ∬ Ω ∫ 0 H z ∞ H z B ν ( ν , T ) s r cos ⁡ θ ‾ d ν d Ω s r = ∫ 0 2 π ∫ 0 π 2 ∫ 0 H z ∞ H z B ν ( ν , T ) s r cos ⁡ θ ‾ d ν sin ⁡ θ ‾ d θ ‾ d ϕ ‾ = ∫ 0 H z ∞ H z B ν ( ν , T ) s r d ν ∫ 0 π 2 cos ⁡ θ ‾ sin ⁡ θ ‾ d θ ‾ ∫ 0 2 π d ϕ ‾ = ∫ 0 H z ∞ H z B ν ( ν , T ) s r d ν 1 2 ⋅ 2 π = π ∫ 0 H z ∞ H z ( 2 h ν 3 c 2 1 e h ν k B T − 1 s r − 1 ) s r d ν = π ∫ 0 H z ∞ H z 2 h ν 3 c 2 d ν e h ν k B T − 1 = π ∫ 0 ∞ 2 h c 2 ( k B T h ) 4 x 3 d x e x − 1 ( h ν k B T = x ⇒ ν = k B T h x , d ν = k B T h d x ) = 2 π k B 4 T 4 c 2 h 3 ∫ 0 ∞ x 3 e − x d x 1 − e − x = 2 π k B 4 T 4 c 2 h 3 ∫ 0 ∞ x 3 ∑ n = 1 ∞ e − n x d x = 2 π k B 4 T 4 c 2 h 3 ∑ n = 1 ∞ ∫ 0 ∞ x 3 e − n x d x = 2 π k B 4 T 4 c 2 h 3 ζ ( 4 ) Γ ( 4 ) = 2 π k B 4 T 4 c 2 h 3 π 4 90 ⋅ 6 = 2 π 5 k B 4 15 c 2 h 3 T 4 \begin{aligned}M_{\rm e} &= \iint_\varOmega\int_{\rm0\,Hz}^{\rm\infty\,Hz} B_\nu(\nu,\,T)\cos\underline\theta{\rm\,d}\nu{\rm\,d}\varOmega \\ &= \iint_\varOmega\int_{\rm0\,Hz}^{\rm\infty\,Hz} B_\nu(\nu,\,T){\rm\,sr}\cos\underline\theta{\rm\,d}\nu{\rm\,d}\frac\varOmega{\rm\,sr} \\ &= \int_0^{2\pi}\int_0^{\frac\pi2}\int_{\rm0\,Hz}^{\rm\infty\,Hz} B_\nu(\nu,\,T){\rm\,sr}\cos\underline\theta{\rm\,d}\nu\sin\underline\theta{\rm\,d}\underline\theta{\rm\,d}\underline\phi \\ &= \int_{\rm0\,Hz}^{\rm\infty\,Hz} B_\nu(\nu,\,T){\rm\,sr}{\rm\,d}\nu \int_0^{\frac\pi2}\cos\underline\theta\sin\underline\theta{\rm\,d}\underline\theta\int_0^{2\pi}{\rm\,d}\underline\phi \\ &= \int_{\rm0\,Hz}^{\rm\infty\,Hz} B_\nu(\nu,\,T){\rm\,sr}{\rm\,d}\nu \frac1{\cancel2}{\cdot}\cancel2\pi \\ &= \pi\int_{\rm0\,Hz}^{\rm\infty\,Hz}{\left(\frac{2h\nu^3}{c^2}\frac1{e^{\frac{h\nu}{k_{\rm B}T}}-1}{\rm\,sr^{-1}}\right)}{\rm\,sr}{\rm\,d}\nu \\ &= \pi\int_{\rm0\,Hz}^{\rm\infty\,Hz}\frac{2h\nu^3}{c^2}\frac{{\rm d}\nu}{e^{\frac{h\nu}{k_{\rm B}T}}-1} \\ &= \pi\int_0^\infty \frac{2h}{c^2}{\left(\frac{k_{\rm B}T}h\right)}^4\frac{x^3{\rm\,d}x}{e^x-1} \quad{\left(\frac{h\nu}{k_{\rm B}T} = x \Rightarrow \nu = \frac{k_{\rm B}T}hx,\,{\rm d}\nu = \frac{k_{\rm B}T}h{\rm\,d}x\right)} \\ &= \frac{2\pi{k_{\rm B}}^4T^4}{c^2h^3}\int_0^\infty\frac{x^3e^{-x}{\rm\,d}x}{1-e^{-x}} \\ &= \frac{2\pi{k_{\rm B}}^4T^4}{c^2h^3}\int_0^\infty x^3\sum_{n=1}^\infty e^{-nx}{\rm\,d}x \\ &= \frac{2\pi{k_{\rm B}}^4T^4}{c^2h^3}\sum_{n=1}^\infty\int_0^\infty x^3e^{-nx}{\rm\,d}x \\ &= \frac{2\pi{k_{\rm B}}^4T^4}{c^2h^3}\zeta(4)\Gamma(4) \\ &= \frac{2\pi{k_{\rm B}}^4T^4}{c^2h^3}\frac{\pi^4}{90}{\cdot}6 \\ &= \frac{2\pi^5{k_{\rm B}}^4}{15c^2h^3}T^4\end{aligned} M e ​ ​ = ∬ Ω ​ ∫ 0 Hz ∞ Hz ​ B ν ​ ( ν , T ) cos θ ​ d ν d Ω = ∬ Ω ​ ∫ 0 Hz ∞ Hz ​ B ν ​ ( ν , T ) sr cos θ ​ d ν d sr Ω ​ = ∫ 0 2 π ​ ∫ 0 2 π ​ ​ ∫ 0 Hz ∞ Hz ​ B ν ​ ( ν , T ) sr cos θ ​ d ν sin θ ​ d θ ​ d ϕ ​ = ∫ 0 Hz ∞ Hz ​ B ν ​ ( ν , T ) sr d ν ∫ 0 2 π ​ ​ cos θ ​ sin θ ​ d θ ​ ∫ 0 2 π ​ d ϕ ​ = ∫ 0 Hz ∞ Hz ​ B ν ​ ( ν , T ) sr d ν 2 ​ 1 ​ ⋅ 2 ​ π = π ∫ 0 Hz ∞ Hz ​ ( c 2 2 h ν 3 ​ e k B ​ T h ν ​ − 1 1 ​ s r − 1 ) sr d ν = π ∫ 0 Hz ∞ Hz ​ c 2 2 h ν 3 ​ e k B ​ T h ν ​ − 1 d ν ​ = π ∫ 0 ∞ ​ c 2 2 h ​ ( h k B ​ T ​ ) 4 e x − 1 x 3 d x ​ ( k B ​ T h ν ​ = x ⇒ ν = h k B ​ T ​ x , d ν = h k B ​ T ​ d x ) = c 2 h 3 2 π k B ​ 4 T 4 ​ ∫ 0 ∞ ​ 1 − e − x x 3 e − x d x ​ = c 2 h 3 2 π k B ​ 4 T 4 ​ ∫ 0 ∞ ​ x 3 n = 1 ∑ ∞ ​ e − n x d x = c 2 h 3 2 π k B ​ 4 T 4 ​ n = 1 ∑ ∞ ​ ∫ 0 ∞ ​ x 3 e − n x d x = c 2 h 3 2 π k B ​ 4 T 4 ​ ζ ( 4 ) Γ ( 4 ) = c 2 h 3 2 π k B ​ 4 T 4 ​ 90 π 4 ​ ⋅ 6 = 15 c 2 h 3 2 π 5 k B ​ 4 ​ T 4 ​
+
+따라서 σ = 2 π 5 k B 4 15 c 2 h 3 \sigma = \cfrac{2\pi^5{k_{\rm B}}^4}{15c^2h^3} σ = 15 c 2 h 3 2 π 5 k B ​ 4 ​ 이며, 각 물리 상수를 대입해서 계산하면 σ = 5.670 374 419 × 10 − 8 W ⋅ m − 2 K − 4 \sigma = 5.670\,374\,419\times10^{-8}{\rm\,W{\cdot}m^{-2}K^{-4}} σ = 5.670 374 419 × 1 0 − 8 W ⋅ m − 2 K − 4 이다.
+
+한편, 앞서 B ν ( ν , T ) = c 4 π s r u ν ( ν , T ) ⟺ u ν ( ν , T ) = 4 π c B ν ( ν , T ) s r B_\nu(\nu,\,T) = \cfrac c{4\pi{\rm\,sr}}u_\nu(\nu,\,T) \Longleftrightarrow u_\nu(\nu,\,T) = \cfrac{4\pi}cB_\nu(\nu,\,T){\rm\,sr} B ν ​ ( ν , T ) = 4 π sr c ​ u ν ​ ( ν , T ) ⟺ u ν ​ ( ν , T ) = c 4 π ​ B ν ​ ( ν , T ) sr 으로 에너지 밀도가 복사휘도와 상수배 관계에 있으므로 에너지 밀도 역시 절대온도의 네제곱에 비례한다. 주의해야할 점은 에너지 밀도는 입체각 4 π s r 4\pi{\rm\,sr} 4 π sr 에 작용하는 복사휘도로 환산된 값과도 같은데 복사휘도처럼 cos ⁡ θ ‾ \cos\underline\theta cos θ ​ 를 곱하거나 적분 범위를 제한하는 등의 조건이 들어가지 않기 때문에 비례관계식의 상수까지 4 π c \cfrac{4\pi}c c 4 π ​ 배가 되지 않는다는 점이다. 식을 전개하면 다음과 같이 된다. u = ∫ 0 H z ∞ H z u ν ( ν , T ) d ν = 4 π c ∫ 0 H z ∞ H z B ν ( ν , T ) s r d ν = 4 π c M e π = 4 σ c T 4 \begin{aligned} u &= \int_{\rm0\,Hz}^{\rm\infty\,Hz} u_\nu(\nu,\,T){\rm\,d}\nu \\ &= \frac{4\pi}c\int_{\rm0\,Hz}^{\rm\infty\,Hz} B_\nu(\nu,\,T){\rm\,sr}{\rm\,d}\nu \\ &= \frac{4\cancel\pi}c\frac{M_{\rm e}}{\cancel\pi} \\ &= \frac{4\sigma}cT^4 \\ \end{aligned} u ​ = ∫ 0 Hz ∞ Hz ​ u ν ​ ( ν , T ) d ν = c 4 π ​ ∫ 0 Hz ∞ Hz ​ B ν ​ ( ν , T ) sr d ν = c 4 π ​ ​ π ​ M e ​ ​ = c 4 σ ​ T 4 ​
+
+따라서 에너지 밀도의 경우 비례상수가 4 σ c = 8 π 5 k B 4 15 c 3 h 3 \cfrac{4\sigma}c = \cfrac{8\pi^5{k_{\rm B}}^4}{15c^3h^3} c 4 σ ​ = 15 c 3 h 3 8 π 5 k B ​ 4 ​ 이 된다.
+
+10. 기타 [편집]
+색온도, 화이트밸런스는 이 문서로 연결된다. 디스플레이 나 조명 , 사진 등의 분야로 인해 해당 검색어를 입력했다가 생뚱맞은 물리학 이론으로 리다이렉트가 되어서 당황할 수 있으나, 사실 연관성이 매우 큰 내용이다. 색온도는 빈 변위 법칙에서 유도되며, 화이트밸런스는 여기서 나온 수치 모델로 색감을 보정하는 작업이기 때문이다.
+
+전자기기에서 백색소음 인 존슨-나이퀴스트 잡음의 원인이기도 하다. 흑체복사를 저주파로 근사하면 존슨-나이퀴스트 잡음을 유도할 수 있다.
+
+11. 관련 문서 [편집]
+- 흑체
+- 물리학 관련 정보
+
+[ 인천남동구,서울365치과의원
+seoul365dental.com v-if
+박준규 대표원장, 인천 남동구 예술로 138 212~214호
+
+] | [ 남동구치과 다비안치과의원
+www.dabien.co.kr v-if
+인천논현역100m, 세심한진료, 철저한 사후관리, 임플란트, 교정, 충치, 잇몸
+
+] | [ 인천논현동 맛집 소문난껍데기
+map.naver.com/p/entry/place/1943388597 v-if
+여기 껍데기 안 먹어봤다는 건 인생의 반을 손해 본 거예요! 동네 맛집의 자부심!
+
+]
+
+[1] 현대의 강재는 등급마다 열처리 단계에서 필요한 온도와 시간을 설정하고, 이를 지키지 못하면 해당 등급을 충족하지 못하는 것으로 간주한다. [2] 아래 표를 보면 알 수 있지만 복사발산도와 복사조도는 그 미분인 분광 복사발산도와 분광 복사조도를 포함해서 차원도 단위도 완전히 동일 한데, 둘을 구분하는 이유는 흑체가 본질적으로 복사율 ε \varepsilon ε 이 ε = 1 \varepsilon=1 ε = 1 인 이상적인 존재 인 반면, 실제로 존재하는 복사원은 ε < 1 \varepsilon<1 ε < 1 인 데서 유래한다. 따라서 흑체는 복사발산도와 복사조도가 같은 물질 이라고 할 수 있다. [3] 즉, 공간으로 복사되기 전 한 점에 모여있다고 가정할 때의 [4] 반사되는 복사속을 J e , r J_{\rm e,\,r} J e , r ​ , 투과되는 복사속을 J e , t r J_{\rm e,\,tr} J e , tr ​ 로 나타낼 때, J e = M e + J e , r + J e , t r J_{\rm e} = M_{\rm e} + J_{\rm e,\,r} + J_{\rm e,\,tr} J e ​ = M e ​ + J e , r ​ + J e , tr ​ 로 정의된다. 즉 상술한 복사발산도는 복사도의 일부에 해당하는 셈. 흑체가 아닌 실제 복사원을 설명하는 물리량이라고 볼 수 있다. 불투명한 물체일 경우 투과되는 복사속이 없어 J e , t r = 0 W / m 2 J_{\rm e,\,tr} = 0{\rm\,W/m^2} J e , tr ​ = 0 W/ m 2 가 된다. [5] 가시광선 복사와 적외선 복사를 가리키는 말이다. [6] 풀네임은 빌헬름 카를 베르너 오토 프리츠 프란츠 빈(Wilhelm Carl Werner Otto Fritz Franz Wien) [7] 여담이지만 빈이 발표한 논문 《흑체복사 스펙트럼의 에너지 분포에 대하여》 에서는 복사강도(Intensiät der Strahlung)라고 표현했는데, 내용상으로는 분광 복사휘도이며 오늘날 기준으로 복사강도는 점광원이 단위 시간당 가하는 에너지( 일률 ), 즉 단위가 W / s r \rm W/sr W/sr 으로 다른 물리량이다. 분광 복사휘도는 점광원에서 나오는 전자기파 스펙트럼 중 특정 파장 혹은 진동수의 빛이 단위 시간당 단위 면적에 가하는 에너지(단위는 파장의 경우 W / ( n m ⋅ s r ⋅ m 2 ) \rm W/(nm{\cdot}sr{\cdot}m^2) W/ ( nm ⋅ sr ⋅ m 2 ) , 진동수의 경우 W / ( H z ⋅ s r ⋅ m 2 ) \rm W/(Hz{\cdot}sr{\cdot}m^2) W/ ( Hz ⋅ sr ⋅ m 2 ) )이다. [8] 후술하겠지만 분광 복사휘도 B ν ( ν , T ) B_\nu(\nu,\,T) B ν ​ ( ν , T ) 는 분광 에너지 밀도(혹은 에너지 밀도 분포 함수) u ν ( ν , T ) u_\nu(\nu,\,T) u ν ​ ( ν , T ) 와 B ν ( ν , T ) = c 4 π s r u ν ( ν , T ) B_\nu(\nu,\,T) = \cfrac c{4\pi{\rm\,sr}}u_\nu(\nu,\,T) B ν ​ ( ν , T ) = 4 π sr c ​ u ν ​ ( ν , T ) 로 서로 상수배 관계에 있다. 따라서 복사휘도가 가장 강하다는 것은 곧 에너지 밀도가 가장 높다는 말과도 같다. [9] 파장에 따른 단색 플럭스가 최대가 되는 지점을 찾아서 빈 변위 법칙을 적용하면 항성의 표면온도를 구할 수 있다. [10] k / r a d {\bf k}/{\rm rad} k / rad , ω / r a d \omega/{\rm rad} ω / rad 표기에 대해서는 삼각함수 문서의 고찰 항목 참고 . 슈테판-볼츠만 상수를 유도하는 항목 에서 Ω s r \cfrac\varOmega{\rm sr} sr Ω ​ 와 같이 나타내어진 표기 역시 분광 복사휘도의 식에 s r − 1 \rm sr^{-1} s r − 1 이 포함되어있기 때문에 단위 관계를 맞추기 위해서는 이와 같이 엄밀한 표기가 필요하다. [11] 위키피디아의 원편광 문서 참고. 빛의 진행 방향에 대하여 왼손방향과 오른손방향의 상태가 가능하다. [12] 여담으로 '자외선 파탄'의 원문은 ultraviolet catastrophe으로서, 우리 우주가 자외선의 빛으로 뒤덮이게 된다는 해석을 단적으로 드러낸 표현, 즉 '자외선 재앙'이 좀 더 적절한 번역이다. 일본에서 '어떤 이론이 특정 경우에 한하여 실제 현상을 잘 설명하지 못하는(실제 현상에 어긋나는) 것'을 '파탄'(破綻)이라고 표현한다는 점을 감안하면, '자외선 파탄'이라는 용어는 일본에서 쓰이는 '자외파탄(紫外破綻)'이 직역된 것으로 보이며, '자외파탄'은 원문이 의미하는 '자외선 재앙'보단 레일리-진스 법칙이 자외선 영역에서 잘 맞지 않는다는 것을 표현한 것에 가깝다. [13] Deutschen Physikalischen Gesellschaft(2), 202-204, 영어 버전 [14] Deutschen Physikalischen Gesellschaft(2), 237-245, 영어 버전 [15] 정확히는 (정수) × \times × ( 플랑크 상수 ) 배 [16] 광양자설, 아인슈타인에게 노벨상의 영예를 안겨준 것이 바로 이 논문이다. [17] 확률 변수 X X X 의 평균 함수를 E ( X ) E(X) E ( X ) 라 할 때, a X + b aX+b a X + b 의 평균은 E ( a X + b ) = a E ( X ) + b E(aX+b) = aE(X)+b E ( a X + b ) = a E ( X ) + b 가 됨을 떠올리면 된다. [18] 실제로 계산해보면 A ′ = e h ν 2 k B T ( 1 − e − h ν k B T ) A' = e^{\frac{h\nu}{2k_{\rm B}T}}{\left(1-e^{-\frac{h\nu}{k_{\rm B}T}}\right)} A ′ = e 2 k B ​ T h ν ​ ( 1 − e − k B ​ T h ν ​ ) 이다. [19] 좀 더 정확하게는 복사율 ε ( 0 < ε < 1 ) \varepsilon\,(0<\varepsilon<1) ε ( 0 < ε < 1 ) 까지 고려해서 M e = ε σ T 4 M_{\rm e} = \varepsilon\sigma T^4 M e ​ = ε σ T 4 으로 쓰는 게 맞긴 하다. 다만 흑체는 ε = 1 \varepsilon=1 ε = 1 이기 때문에 고려하지 않아도 된다. [20] 광원을 똑바로 바라봤을 때의 입사광을 기준으로 θ \theta θ 만큼 비스듬한 각도에서 바라봤을 때 그 세기가 cos ⁡ θ ‾ \cos\underline\theta cos θ ​ 배가 된다는 법칙. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

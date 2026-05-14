@@ -1,0 +1,821 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 각운동량 연산자
+최근 수정 시각: 2025-10-11 02:10:58 [ [ [ ] [ [ 2 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 물리량
+- 양자역학
+]
+
+[ [ ] [ 양자역학 Quantum Mechanics
+[ 펼치기 · 접기 ] 배경 | 흑체복사 · 이중슬릿 실험 · 광전효과 · 콤프턴 산란 · 보어의 원자 모형 · 물질파 · 데이비슨-저머 실험 · 불확정성 원리 · 슈테른-게를라흐 실험 · 프랑크-헤르츠 실험
+이론 체계 | 체계 플랑크 상수 ( 플랑크 단위계 ) · 공리 · 슈뢰딩거 방정식 · 파동함수 · 연산자 ( 해밀토니언 · 선운동량 · 각운동량 ) · 스핀 ( 스피너 ) · 파울리 배타 원리 해석 코펜하겐 해석 ( 보어-아인슈타인 논쟁 ) · 숨은 변수 이론 ( EPR 역설 · 벨의 부등식 · 광자 상자 ) · 다세계 해석 · 앙상블 해석 · 서울 해석 묘사 묘사 ( 슈뢰딩거 묘사 · 하이젠베르크 묘사 · 디랙 묘사) · 행렬역학
+연관 학문 | 천체물리학 ( 천문학 틀 · 우주론 · 양자블랙홀 · 중력 특이점 ) · 핵물리학 틀 ( 원자력 공학 틀 ) · 응집물질물리학 틀 · 컴퓨터 과학 틀 ( 양자컴퓨터 · 양자정보과학 ) · 통계역학 틀 · 양자화학 ( 물리화학 틀 ) · 입자물리학 ( 입자물리학 틀 )
+현상 · 응용 | 양자요동 · 양자 얽힘 · 양자 터널링 · 퍼텐셜 우물 · 양자 조화 진동자 · 오비탈 · 수소 원자 모형 · 쌓음 원리 · 훈트 규칙 · 섭동 ( 스핀 - 궤도 결합 · 제이만 효과 · 슈타르크 효과 · 헬만-파인만 정리 ) · 선택 규칙 · 변분 원리 · WKB 근사법 · 시간 결정 · 보스-아인슈타인 응집 · 솔리톤 · 카시미르 효과 · 아하로노프-봄 효과 · 블랙홀 정보 역설 · 양자점 · 하트리-포크 방법 · 밀도범함수 이론 · 준위 · 양자장론 ( 양자전기역학 · 양자색역학 ) · 뤼드베리 방정식 · 체렌코프 현상
+기타 | 군론 · 기본 입자 · 대칭성 · 비리얼 정리 · 리만 가설 · 매듭이론 · 밀도행렬 · 물질 · 방사선 ( 반감기 ) · 라플라스의 악마 · 슈뢰딩거의 고양이 ( 위그너의 친구 )
+문헌 | 교재 · 분류:물리학술지
+
+1 . 개요 2 . 정의 3 . 고윳값과 고유함수 3.1 . 사다리 연산자 3.2 . 고윳값 3.2.1 . 사다리 연산자의 규격화 3.3 . 궤도 각운동량 연산자의 고유함수 4 . 확률 분포 5 . 기댓값 6 . 불확정성 원리 7 . 추가 논의 7.1 . 궤도 각운동량 연산자의 교환자 관계 7.1.1 . 운동 에너지 연산자와의 교환자 관계 7.2 . 궤도 각운동량 기대치의 시간 변화 7.3 . 회전 연산자 7.4 . 다시 찾아본 각운동량 보존 7.5 . 궤도 각운동량의 덧셈 7.5.1 . 총 각운동량의 덧셈 7.6 . 구면좌표계에서의 기술 7.6.1 . 자유입자 7.6.2 . 중심력장에 구속된 입자 7.7 . 지름 파동 함수와 지름 확률 밀도 함수 8 . 스핀 각운동량
+
+1. 개요 [편집]
+각운동량 연산자 ( 角 運 動 量 演 算 子 , angular momentum operator)는 양자역학 에서 각운동량 과 관련된 연산자이다. 양자역학의 각운동량은 입자의 회전에 의한 궤도 각운동량과 입자에 내재된 각운동량인 스핀 각운동량 , 이 둘의 합인 총 각운동량으로 나눌 수 있다. 이 문서에서는 궤도 각운동량을 주로 설명한다.
+
+2. 정의 [편집]
+양자역학 에서 (궤도) 각운동량은 다른 물리량과 같이 연산자 로 정의된다.
+
+L ^ = r ^ × p ^ \displaystyle \mathbf{\hat{L}}=\mathbf{\hat{r}} \times \mathbf{\hat{p}} L ^ = r ^ × p ^ ​ [1]
+이때, r ^ \mathbf{\hat{r}} r ^ , p ^ \mathbf{\hat{p}} p ^ ​ 는 각각 위치 연산자, 운동량 연산자 이다. p ^ = − i ℏ ∇ \mathbf{\hat{p}}=-i \hbar \boldsymbol{\nabla } p ^ ​ = − i ℏ ∇ 임을 이용하면, 아래와 같이 쓸 수 있다.
+
+L ^ = − i ℏ r × ∇ ⇒ { L ^ x = − i ℏ ( y ∂ ∂ z − z ∂ ∂ y ) L ^ y = − i ℏ ( z ∂ ∂ x − x ∂ ∂ z ) L ^ z = − i ℏ ( x ∂ ∂ y − y ∂ ∂ x ) \displaystyle \mathbf{\hat{L}}=-i \hbar {\mathbf{r}} \times \boldsymbol{\nabla } \quad \Rightarrow \quad \begin{cases} \displaystyle \hat{L}_x = -i\hbar \left(y {\partial\over \partial z} - z {\partial\over \partial y} \right) \\ \displaystyle \hat{L}_y = -i\hbar \left(z {\partial\over \partial x} - x {\partial\over \partial z}\right) \\ \displaystyle \hat{L}_z = -i\hbar \left(x {\partial\over \partial y} - y {\partial\over \partial x} \right) \end{cases} L ^ = − i ℏ r × ∇ ⇒ ⎩ ⎨ ⎧ ​ L ^ x ​ = − i ℏ ( y ∂ z ∂ ​ − z ∂ y ∂ ​ ) L ^ y ​ = − i ℏ ( z ∂ x ∂ ​ − x ∂ z ∂ ​ ) L ^ z ​ = − i ℏ ( x ∂ y ∂ ​ − y ∂ x ∂ ​ ) ​
+
+주어진 궤도 각운동량은
+
+L ^ i = ∑ j , k ε i j k x ^ j p ^ k \displaystyle \hat{L}_{i}=\sum_{j,\,k}\varepsilon_{ijk}\hat{x}_{j}\hat{p}_{k} L ^ i ​ = j , k ∑ ​ ε ij k ​ x ^ j ​ p ^ ​ k ​
+으로 쓸 수 있고 ( ε i j k \varepsilon_{ijk} ε ij k ​ 는 레비치비타 기호 이다.)
+
+L ^ i † = ∑ j , k ε i j k ( x ^ j p ^ k ) † = ∑ j , k ε i j k p ^ k † x ^ j † \displaystyle \begin{aligned} \hat{L}_{i}^{\dagger}&=\sum_{j,\,k} \varepsilon_{ijk}(\hat{x}_{j}\hat{p}_{k})^{\dagger} \\&= \sum_{j,\,k} \varepsilon_{ijk}\hat{p}_{k}^{\dagger}\hat{x}_{j}^{\dagger} \end{aligned} L ^ i † ​ ​ = j , k ∑ ​ ε ij k ​ ( x ^ j ​ p ^ ​ k ​ ) † = j , k ∑ ​ ε ij k ​ p ^ ​ k † ​ x ^ j † ​ ​
+위치 연산자와 운동량 연산자는 자기 수반 연산자 (hermitian operator)이므로
+
+L ^ i † = ∑ j , k ε i j k p ^ k x ^ j \displaystyle \begin{aligned} \hat{L}_{i}^{\dagger}&= \sum_{j,\,k} \varepsilon_{ijk}\hat{p}_{k}\hat{x}_{j} \end{aligned} L ^ i † ​ ​ = j , k ∑ ​ ε ij k ​ p ^ ​ k ​ x ^ j ​ ​
+한편, k = j k=j k = j 인 경우는 연산에 기여하지 않으므로 [2] 무시하고, 그렇게 되면 위치 연산자와 운동량 연산자는 다른 축에 대한 것만 남으므로 교환 가능하다.
+
+L ^ i † = ∑ j , k ε i j k x ^ j p ^ k = L ^ i \displaystyle \begin{aligned} \hat{L}_{i}^{\dagger}&= \sum_{j,\,k} \varepsilon_{ijk}\hat{x}_{j}\hat{p}_{k} \\&=\hat{L}_{i} \end{aligned} L ^ i † ​ ​ = j , k ∑ ​ ε ij k ​ x ^ j ​ p ^ ​ k ​ = L ^ i ​ ​
+따라서 각운동량 연산자는 자기 수반성을 띰을 알 수 있다. 이는 다음을 의미한다. - 각운동량은 양자역학적으로 측정 가능하다. (고윳값이 실수이다.)
+- 각운동량 연산자에 대응하는 고유함수는 정규직교함수이다.
+
+좀 더 일반적으로 각운동량 연산자 [3] J ^ = ( J ^ x , J ^ y , J ^ z ) \displaystyle \mathbf{\hat{J}}=(\hat{J}_{x},\,\hat{J}_{y},\,\hat{J}_{z}) J ^ = ( J ^ x ​ , J ^ y ​ , J ^ z ​ ) 는 다음의 교환자 관계를 만족시키는 연산자를 의미한다.
+
+[ J ^ k , J ^ l ] = ∑ m i ℏ ε k l m J ^ m \displaystyle [\hat{{J}}_{k},\,\hat{{J}}_{l}]=\sum_{m} i\hbar \varepsilon_{klm}\hat{J}_{m} [ J ^ k ​ , J ^ l ​ ] = m ∑ ​ i ℏ ε k l m ​ J ^ m ​
+각각의 성분에 대하여 다음이 성립한다.
+
+[ J ^ x , J ^ y ] = i ℏ J ^ z [ J ^ y , J ^ z ] = i ℏ J ^ x [ J ^ z , J ^ x ] = i ℏ J ^ y \displaystyle \begin{aligned} [\hat{J}_{x},\,\hat{J}_{y}]&=i\hbar \hat{J}_{z} \\ [\hat{J}_{y},\,\hat{J}_{z}]&=i\hbar \hat{J}_{x} \\ [\hat{J}_{z},\,\hat{J}_{x}]&=i\hbar \hat{J}_{y} \end{aligned} [ J ^ x ​ , J ^ y ​ ] [ J ^ y ​ , J ^ z ​ ] [ J ^ z ​ , J ^ x ​ ] ​ = i ℏ J ^ z ​ = i ℏ J ^ x ​ = i ℏ J ^ y ​ ​
+이로써 알 수 있는 것은 양자역학적으로 각운동량의 각각의 성분은 동시 가측량이 아니라는 것 이다. 각운동량 크기의 제곱 연산자 J ^ 2 = J ^ x 2 + J ^ y 2 + J ^ z 2 \hat{J}^{2}=\hat{J}_{x}^{2}+\hat{J}_{y}^{2}+\hat{J}_{z}^{2} J ^ 2 = J ^ x 2 ​ + J ^ y 2 ​ + J ^ z 2 ​ 을 고려하면, 위 교환자 관계에 의하여
+
+[ J ^ 2 , J ^ k ] = 0 \displaystyle [\hat{{J}}^{2},\,\hat{{J}}_{k}]=0 [ J ^ 2 , J ^ k ​ ] = 0
+이 되어 각운동량 크기의 제곱과 한 축에 대한 각운동량의 성분은 동시 가측량이다. 종종 위와 같은 관계를 다음과 같이 한 번에 나타내기도 한다.
+
+i ℏ J ^ = J ^ × J ^ \displaystyle i\hbar \mathbf{\hat{J}}=\mathbf{\hat{J}} \times \mathbf{\hat{J}} i ℏ J ^ = J ^ × J ^
+
+고전역학으로 각운동량을 이해하여 보자. 중심이 원점에 고정된 (매우 작은) 원판이 회전한다고 생각할 때, 양자역학적 상태를 잘 나타내는 것은 무엇인가? 위에서 교환자 관계를 보았던 것을 쓰면, 각운동량의 한 성분 L z L_{z} L z ​ (여기서는 z z z 축이라고 놓겠다.)과 각운동량의 크기 제곱 L 2 L^{2} L 2 은 동시 가측량이라고 했다. 그 외의 정보를 얻기 위해선 계의 정보를 파괴하지 않은 얻을 수 없다. 따라서 이러한 것을 잘 나타내는 것은 각운동량의 크기는 일정하면서 z z z 축 성분 또한 일정한 상태이다. 즉, 아래와 같이 z z z 축을 축으로 세차 운동 하는 경우이다.
+
+이 경우 위 그림처럼 각운동량 L \mathbf{L} L 은 빗변의 길이가 L = L ⋅ L = L 2 L=\sqrt{\mathbf{L} \boldsymbol{\cdot}\mathbf{L}}=\sqrt{L^{2}} L = L ⋅ L ​ = L 2 ​ 이고, 높이가 L z L_{z} L z ​ 인 원뿔 에 연속적으로 나타나게 된다.
+
+3. 고윳값과 고유함수 [편집]
+
+3.1. 사다리 연산자 [편집]
+우선 고윳값을 구하기 이전 양자 조화 진동자 에서 했던 것 처럼 유용한 연산자를 도입하자.
+
+J ^ + : = J ^ x + i J ^ y J ^ − : = J ^ x − i J ^ y \displaystyle \begin{aligned} \hat{J}_{+} :=\hat{J}_{x} +i\hat{J}_{y} \\ \hat{J}_{-} :=\hat{J}_{x} -i\hat{J}_{y} \end{aligned} J ^ + ​ := J ^ x ​ + i J ^ y ​ J ^ − ​ := J ^ x ​ − i J ^ y ​ ​
+이때, J ^ − = J ^ + † \hat{J}_{-}=\hat{J}_{+}^{\dagger} J ^ − ​ = J ^ + † ​ 의 관계 [4] 가 있으며, 각각을 상하 순으로 올림 연산자(raising operator) , 내림 연산자(lowering operator) 라 부르며, 이들을 모두 지칭해 사다리 연산자(ladder operator) 라 부른다. 또한 이전에 살펴봤던 교환자 관계에 의해
+
+[ J ^ z , J ^ ± ] = ± ℏ J ^ ± [ J ^ 2 , J ^ ± ] = 0 \displaystyle \begin{aligned} [\hat{J}_{z},\,\hat{J}_{\pm}]&=\pm \hbar \hat{J}_{\pm} \\ [\hat{J}^{2},\,\hat{J}_{\pm}]&=0 \end{aligned} [ J ^ z ​ , J ^ ± ​ ] [ J ^ 2 , J ^ ± ​ ] ​ = ± ℏ J ^ ± ​ = 0 ​
+을 만족시킨다. 또한, J ^ ± J ^ ∓ = ( J ^ x ± i J ^ y ) ( J ^ x ∓ i J ^ y ) = J ^ x 2 ∓ i ( J ^ x J ^ y − J ^ y J ^ x ) + J ^ y 2 = J ^ x 2 ∓ i [ J ^ x , J ^ y ] + J ^ y 2 = J ^ x 2 ± ℏ J ^ z + J ^ y 2 ( ∵ [ J ^ x , J ^ y ] = i ℏ J ^ z ) = J ^ 2 − J ^ z 2 ± ℏ J ^ z ( ∵ J ^ 2 = J ^ x 2 + J ^ y 2 + J ^ z 2 ) \displaystyle \begin{aligned} \hat{J}_{\pm}\hat{J}_{\mp}&=(\hat{J}_{x} \pm i\hat{J}_{y})(\hat{J}_{x} \mp i\hat{J}_{y}) \\ &=\hat{J}_{x}^{2} \mp i (\hat{J}_{x}\hat{J}_{y}-\hat{J}_{y}\hat{J}_{x})+\hat{J}_{y}^{2} \\ &=\hat{J}_{x}^{2} \mp i [\hat{J}_{x},\,\hat{J}_{y}]+\hat{J}_{y}^{2} \\ &=\hat{J}_{x}^{2} \pm \hbar \hat{J}_{z}+\hat{J}_{y}^{2} &&(\because [\hat{J}_{x},\,\hat{J}_{y}]=i\hbar \hat{J}_{z}) \\ &=\hat{J}^{2}-\hat{J}_{z}^{2} \pm \hbar \hat{J}_{z} &&(\because \hat{J}^{2}=\hat{J}_{x}^{2}+\hat{J}_{y}^{2}+\hat{J}_{z}^{2}) \end{aligned} J ^ ± ​ J ^ ∓ ​ ​ = ( J ^ x ​ ± i J ^ y ​ ) ( J ^ x ​ ∓ i J ^ y ​ ) = J ^ x 2 ​ ∓ i ( J ^ x ​ J ^ y ​ − J ^ y ​ J ^ x ​ ) + J ^ y 2 ​ = J ^ x 2 ​ ∓ i [ J ^ x ​ , J ^ y ​ ] + J ^ y 2 ​ = J ^ x 2 ​ ± ℏ J ^ z ​ + J ^ y 2 ​ = J ^ 2 − J ^ z 2 ​ ± ℏ J ^ z ​ ​ ​ ( ∵ [ J ^ x ​ , J ^ y ​ ] = i ℏ J ^ z ​ ) ( ∵ J ^ 2 = J ^ x 2 ​ + J ^ y 2 ​ + J ^ z 2 ​ ) ​
+
+이므로 나중에 요긴하게 쓸 관계식
+
+J ^ 2 = J ^ ± J ^ ∓ + J ^ z 2 ∓ ℏ J ^ z \displaystyle \begin{aligned} \hat{J}^{2}=\hat{J}_{\pm}\hat{J}_{\mp}+\hat{J}_{z}^{2} \mp \hbar \hat{J}_{z} \end{aligned} J ^ 2 = J ^ ± ​ J ^ ∓ ​ + J ^ z 2 ​ ∓ ℏ J ^ z ​ ​
+를 얻는다. 이외에도 위 결과를 약간 변형하면 다음의 관계식이 성립함이 알려져 있다.
+
+[ J ^ + , J ^ − ] = 2 ℏ J ^ z 2 ( J ^ 2 − J ^ z 2 ) = J ^ + J ^ − + J ^ − J ^ + \displaystyle \begin{aligned} [\hat{J}_{+},\,\hat{J}_{-} ]&=2 \hbar \hat{J}_{z} \\ 2(\hat{J}^{2}-\hat{J}_{z}^{2})&=\hat{J}_{+}\hat{J}_{-}+\hat{J}_{-}\hat{J}_{+} \end{aligned} [ J ^ + ​ , J ^ − ​ ] 2 ( J ^ 2 − J ^ z 2 ​ ) ​ = 2ℏ J ^ z ​ = J ^ + ​ J ^ − ​ + J ^ − ​ J ^ + ​ ​
+
+3.2. 고윳값 [편집]
+본격적으로 고윳값으로 들어가기 전에 다음을 가정하자.
+
+J ^ z φ m = m ℏ φ m \displaystyle \begin{aligned} \hat{J}_{z} \varphi_{m}=m \hbar \varphi_{m} \end{aligned} J ^ z ​ φ m ​ = m ℏ φ m ​ ​
+m m m 은 밝혀내야 할 고윳값이고, φ m \varphi_{m} φ m ​ 은 고윳값 m m m 에 대응하는 고유함수이다. 우선 사다리 연산자가 어떠한 역할을 하는지 살펴보기 위해 고유함수에 사다리 연산자를 취하여 L z L_{z} L z ​ 를 측정해보자.
+
+J ^ z J ^ ± φ m = ( J ^ ± J ^ z ± ℏ J ^ ± ) φ m = ( m ± 1 ) ℏ J ^ ± φ m \displaystyle \begin{aligned} \hat{J}_{z} \hat{J}_{\pm}\varphi_{m}&=(\hat{J}_{\pm}\hat{J}_{z} \pm \hbar \hat{J}_{\pm } )\varphi_{m} \\&=(m \pm 1) \hbar \hat{J}_{\pm}\varphi_{m} \end{aligned} J ^ z ​ J ^ ± ​ φ m ​ ​ = ( J ^ ± ​ J ^ z ​ ± ℏ J ^ ± ​ ) φ m ​ = ( m ± 1 ) ℏ J ^ ± ​ φ m ​ ​
+이것은 사다리 연산자를 취한 고유함수 또한 J ^ z \hat{J}_{z} J ^ z ​ 에 대한 고유함수임을 나타내며, 사다리 연산자는 고윳값을 1만큼 올려주거나 내려준다. 따라서 다음과 같이 쓸 수 있다.
+
+J ^ ± φ m ∝ φ m ± 1 \displaystyle \begin{aligned} \hat{J}_{\pm}\varphi_{m}& \propto \varphi_{m \pm 1} \end{aligned} J ^ ± ​ φ m ​ ​ ∝ φ m ± 1 ​ ​
+이때, 사다리 연산자의 고윳값을 제외하고 쓰기 위해 비례 표시로 나타냈다. 사다리 연산자를 연속적으로 취한다면
+
+J ^ ± n φ m ∝ φ m ± n \displaystyle \begin{aligned} \hat{J}_{\pm}^{n}\varphi_{m}& \propto \varphi_{m \pm n} \end{aligned} J ^ ± n ​ φ m ​ ​ ∝ φ m ± n ​ ​
+위 논의는 J z J_{z} J z ​ 가 양자화되어 있음을 보여준다.
+
+교환자 관계 [ J ^ 2 , J ^ z ] = 0 [\hat{J}^{2},\,\hat{J}_{z}]=0 [ J ^ 2 , J ^ z ​ ] = 0 을 기억한다면, 두 연산자에 대한 고유함수는 공유함을 알 수 있다. [5] 다음을 또한 가정하자.
+
+J ^ 2 φ m = ℏ 2 k 2 φ m \displaystyle \begin{aligned} \hat{J}^{2} \varphi_{m}=\hbar^{2} k^{2} \varphi_{m} \end{aligned} J ^ 2 φ m ​ = ℏ 2 k 2 φ m ​ ​
+J ^ z \hat{J}_{z} J ^ z ​ 와의 고유함수의 공유성 때문에 사다리 연산자를 취한 J ^ z \hat{J}_{z} J ^ z ​ 에 대한 고유함수 또한 해당 연산자의 고유함수가 된다.
+
+J ^ 2 J ^ ± φ m = J ^ ± J ^ 2 φ m = ℏ 2 k 2 J ^ ± φ m \displaystyle \begin{aligned} \hat{J}^{2} \hat{J}_{\pm} \varphi_{m}&= \hat{J}_{\pm} \hat{J}^{2} \varphi_{m} \\&=\hbar^{2}k^{2} \hat{J}_{\pm} \varphi_{m} \end{aligned} J ^ 2 J ^ ± ​ φ m ​ ​ = J ^ ± ​ J ^ 2 φ m ​ = ℏ 2 k 2 J ^ ± ​ φ m ​ ​
+따라서 J ^ 2 \hat{J}^{2} J ^ 2 의 교윳값은 사다리 연산자의 연산에 무관하다.
+
+이제 목적은 m m m 과 k k k 는 어떠한 관계가 있는지 밝히는 것이다.
+
+⟨ J 2 ⟩ = ⟨ φ m ∣ J ^ 2 φ m ⟩ = ℏ 2 k 2 ⟨ φ m ∣ φ m ⟩ = ℏ 2 k 2 ⟨ J z 2 ⟩ = ⟨ φ m ∣ J ^ z 2 φ m ⟩ = ⟨ φ m ∣ J ^ z J ^ z φ m ⟩ = m ℏ ⟨ φ m ∣ J ^ z φ m ⟩ = ℏ 2 m 2 ⟨ φ m ∣ φ m ⟩ = ℏ 2 m 2 \displaystyle \begin{aligned} \langle {J}^{2} \rangle &=\langle \varphi_{m}| \hat{J}^{2} \varphi_{m} \rangle \\ &=\hbar^{2}k^{2} \langle \varphi_{m}| \varphi_{m} \rangle \\ &=\hbar^{2}k^{2} \\ \langle {J}_{z}^{2} \rangle &=\langle \varphi_{m}| \hat{J}_{z}^{2} \varphi_{m} \rangle \\ &=\langle \varphi_{m}| \hat{J}_{z} \hat{J}_{z} \varphi_{m} \rangle \\ &=m \hbar\langle \varphi_{m}| \hat{J}_{z} \varphi_{m} \rangle \\ &=\hbar^{2}m^{2} \langle \varphi_{m}| \varphi_{m} \rangle \\&=\hbar^{2}m^{2} \end{aligned} ⟨ J 2 ⟩ ⟨ J z 2 ​ ⟩ ​ = ⟨ φ m ​ ∣ J ^ 2 φ m ​ ⟩ = ℏ 2 k 2 ⟨ φ m ​ ∣ φ m ​ ⟩ = ℏ 2 k 2 = ⟨ φ m ​ ∣ J ^ z 2 ​ φ m ​ ⟩ = ⟨ φ m ​ ∣ J ^ z ​ J ^ z ​ φ m ​ ⟩ = m ℏ ⟨ φ m ​ ∣ J ^ z ​ φ m ​ ⟩ = ℏ 2 m 2 ⟨ φ m ​ ∣ φ m ​ ⟩ = ℏ 2 m 2 ​
+이때, 이상 및 이하의 평균은 m m m 일 때 취한 것이다. 한편, ⟨ J 2 ⟩ = ⟨ J x 2 ⟩ + ⟨ J y 2 ⟩ + ⟨ J z 2 ⟩ → ℏ 2 k 2 = ⟨ J x 2 ⟩ + ⟨ J y 2 ⟩ + ℏ 2 m 2 \displaystyle \begin{aligned} \langle {J}^{2} \rangle =\langle {J}_{x}^{2} \rangle +\langle {J}_{y}^{2} \rangle+ \langle {J}_{z}^{2} \rangle \quad \to \quad \hbar^{2}k^{2}=\langle {J}_{x}^{2} \rangle +\langle {J}_{y}^{2} \rangle +\hbar^{2}m^{2} \end{aligned} ⟨ J 2 ⟩ = ⟨ J x 2 ​ ⟩ + ⟨ J y 2 ​ ⟩ + ⟨ J z 2 ​ ⟩ → ℏ 2 k 2 = ⟨ J x 2 ​ ⟩ + ⟨ J y 2 ​ ⟩ + ℏ 2 m 2 ​
+
+인데, 일반적으로 ⟨ J x 2 ⟩ ≥ 0 \langle {J}_{x}^{2} \rangle \geq 0 ⟨ J x 2 ​ ⟩ ≥ 0 , ⟨ J y 2 ⟩ ≥ 0 \langle {J}_{y}^{2} \rangle \geq 0 ⟨ J y 2 ​ ⟩ ≥ 0 를 만족하므로
+
+k 2 ≥ m 2 → ∣ k ∣ ≥ ∣ m ∣ \displaystyle \begin{aligned} k^{2} \geq m^{2} \quad \to \quad |k| \geq |m| \end{aligned} k 2 ≥ m 2 → ∣ k ∣ ≥ ∣ m ∣ ​
+사다리 연산자를 적용한 결과에서 k k k 값 하나에 여러 m m m 값을 갖는다고 보는 것이 합당하므로
+
+− ∣ k ∣ ≤ m ≤ ∣ k ∣ \displaystyle \begin{aligned} -|k| \leq m \leq |k| \end{aligned} − ∣ k ∣ ≤ m ≤ ∣ k ∣ ​
+를 만족시켜야 한다. 즉, m m m 은 − ∣ k ∣ -|k| − ∣ k ∣ 와 ∣ k ∣|k| ∣ k ∣ 사이의 값을 갖는다. 한편, m m m 이 가질 수 있는 최댓값을 m m a x m_{\sf{max}} m max ​ , 최솟값을 m m i n m_{\sf{min}} m min ​ 그렇다면, 이들에게 사다리 연산자를 적용했을 때 고윳값이 0이 나오게 하여 고윳값 방정식을 만족시키지 않게 함으로써 가질 수 있는 상태를 제한할 수 있다. 즉,
+
+J ^ + φ m m a x = 0 J ^ − φ m m i n = 0 \displaystyle \begin{aligned} \hat{J}_{+}\varphi_{m_{\sf{max}} }&=0 \\ \hat{J}_{-}\varphi_{m_{\sf{min}} }&=0 \end{aligned} J ^ + ​ φ m max ​ ​ J ^ − ​ φ m min ​ ​ ​ = 0 = 0 ​
+첫 번째 식에 내림 연산자를 적용해보자.
+
+J ^ − J ^ + φ m m a x = 0 \displaystyle \begin{aligned} \hat{J}_{-}\hat{J}_{+}\varphi_{m_{\sf{max}} }&=0 \end{aligned} J ^ − ​ J ^ + ​ φ m max ​ ​ ​ = 0 ​
+그런데 윗 문단에서 논의한 관계식으로부터
+
+J ^ − J ^ + φ m m a x = ( J ^ 2 − J ^ z 2 − ℏ J ^ z ) φ m m a x = ℏ 2 ( k 2 − m m a x 2 − m m a x ) φ m m a x \displaystyle \begin{aligned} \hat{J}_{-}\hat{J}_{+}\varphi_{m_{\sf{max}} }&=(\hat{J}^{2}-\hat{J}_{z}^{2}-\hbar \hat{J}_{z})\varphi_{m_{\sf{max}} } \\ &=\hbar^{2}(k^{2}-m_{\sf{max}}^{2}-m_{\sf{max}})\varphi_{m_{\sf{max}} } \end{aligned} J ^ − ​ J ^ + ​ φ m max ​ ​ ​ = ( J ^ 2 − J ^ z 2 ​ − ℏ J ^ z ​ ) φ m max ​ ​ = ℏ 2 ( k 2 − m max 2 ​ − m max ​ ) φ m max ​ ​ ​
+우변은 모두 동일해야 하므로
+
+k 2 = m m a x 2 + m m a x \displaystyle \begin{aligned} k^{2}=m_{\sf{max}}^{2}+m_{\sf{max}} \end{aligned} k 2 = m max 2 ​ + m max ​ ​
+마찬가지의 방법으로 아래 식에 대하여 행하면
+
+k 2 = m m i n 2 − m m i n \displaystyle \begin{aligned} k^{2}=m_{\sf{min}}^{2}-m_{\sf{min}} \end{aligned} k 2 = m min 2 ​ − m min ​ ​
+위 식으로부터
+
+m m a x 2 + m m a x = m m i n 2 − m m i n \displaystyle \begin{aligned} m_{\sf{max}}^{2}+m_{\sf{max}}=m_{\sf{min}}^{2}-m_{\sf{min}} \end{aligned} m max 2 ​ + m max ​ = m min 2 ​ − m min ​ ​
+이 방정식을 풂으로써 m m a x = − m m i n m_{\sf{max}}=-m_{\sf{min}} m max ​ = − m min ​ 임을 얻고, m m a x = j m_{\sf{max}}=j m max ​ = j 라 놓는다면, k 2 = j ( j + 1 ) k^{2}=j(j+1) k 2 = j ( j + 1 ) 이다.
+
+이때까지의 논의를 종합하면, j j j 값이 정해지면, 각운동량 크기의 제곱의 값 또한 정해지며, 이러한 각운동량 크기를 갖는 상태에서 한 축에 대한 성분은 j j j , j − 1 j-1 j − 1 , j − 2 j-2 j − 2 , ⋯ \cdots ⋯ , − j -j − j 의 ℏ \hbar ℏ 배 만큼의 값만 가질 수 있다.
+
+그런데 조금 더 생각해보면, j j j , j − 1 j-1 j − 1 , j − 2 j-2 j − 2 , ⋯ \cdots ⋯ , − j -j − j 는 초항이 j j j 이고, 공차가 − 1 -1 − 1 인 등차수열 이므로 이 과정을 N N N 번 하여 − j -j − j 에 도달했다고 하면,
+
+j + ( N − 1 ) ( − 1 ) = − j \displaystyle \begin{aligned} j+(N-1)(-1)=-j \end{aligned} j + ( N − 1 ) ( − 1 ) = − j ​
+이때, 다음을 만족시켜야 함을 알 수 있다.
+
+2 j = N − 1 → j = N − 1 2 = n 2 \displaystyle \begin{aligned} 2j=N-1 \quad \to \quad j=\frac{N-1}{2} =\frac{n}{2} \end{aligned} 2 j = N − 1 → j = 2 N − 1 ​ = 2 n ​ ​
+한편, n n n 은 0을 포함한 자연수이므로 j j j 가 가질 수 있는 형태는 1 / 2 1/2 1/2 의 음이 아닌 정수배이다. 즉,
+
+j = 0 , 1 2 , 1 , 3 2 , 2 , 5 2 , ⋯ \displaystyle \begin{aligned} j=0,\,\frac{1}{2},\,1,\,\frac{3}{2},\, 2,\,\frac{5}{2},\,\cdots \end{aligned} j = 0 , 2 1 ​ , 1 , 2 3 ​ , 2 , 2 5 ​ , ⋯ ​
+만 가능하다. 일반적으로 궤도 각운동량의 경우 j j j 는 0을 포함한 자연수만, 스핀 각운동량은 모두 가능한 것으로 알려져 있다. 또한, 위 관계식으로부터 한 j j j 에 가능한 m j m_{j} m j ​ 의 값의 개수는 다음과 같음을 알 수 있다.
+
+N = 2 j + 1 \displaystyle \begin{aligned} N=2j+1 \end{aligned} N = 2 j + 1 ​
+
+이상에서 각운동량에 대한 고유 상태를 기술하기 위해선 두 양자수 j j j 와 m j m_{j} m j ​ ( m j = m_{j}= m j ​ = j j j , ⋯ \cdots ⋯ , − j -j − j )가 필요하며, 두 연산자에 대한 고윳값은 아래와 같이 주어진다.
+
+J ^ z φ j , m j = m j ℏ φ j , m j J ^ 2 φ j , m j = j ( j + 1 ) ℏ 2 φ j , m j \displaystyle \begin{aligned} \hat{J}_{z} \varphi_{j,\,m_{j}}&=m_{j} \hbar \varphi_{j,\, m_{j}} \\ \hat{J}^{2} \varphi_{j,\, m_{j}}&=j(j+1) \hbar^{2} \varphi_{j,\, m_{j}} \end{aligned} J ^ z ​ φ j , m j ​ ​ J ^ 2 φ j , m j ​ ​ ​ = m j ​ ℏ φ j , m j ​ ​ = j ( j + 1 ) ℏ 2 φ j , m j ​ ​ ​
+
+아래는 l = 3 l=3 l = 3 , 즉, L 2 = 12 ℏ 2 L^{2}=12 \hbar^{2} L 2 = 12 ℏ 2 일 때, 가질 수 있는 궤도 각운동량 L m l \mathbf{L}_{m_{l}} L m l ​ ​ 을 나타낸 것이다. 아래와 같이 이 경우 L z = ± 3 ℏ L_{z}=\pm 3 \hbar L z ​ = ± 3ℏ , ± 2 ℏ \pm 2 \hbar ± 2ℏ , ± ℏ \pm \hbar ± ℏ , 0 0 0 으로 총 7가지이다. 또, 위에서도 밝혔듯 L m l \mathbf{L}_{m_{l}} L m l ​ ​ 은 고정되지 못하고, 원뿔 겉에서 연속적으로 나타나게 된다.
+
+3.2.1. 사다리 연산자의 규격화 [편집]
+올림 연산자의 규격화 상수를 C m C_{m} C m ​ 이라 하고, 고유함수 φ m = ∣ m ⟩ \varphi_{m}=| m \rangle φ m ​ = ∣ m ⟩ 의 ket-vector로 간단히 나타내자.
+
+∣ J ^ + m ⟩ = C m ∣ m + 1 ⟩ \displaystyle \begin{aligned} | \hat{J}_{+} m \rangle=C_{m} | m+1 \rangle \end{aligned} ∣ J ^ + ​ m ⟩ = C m ​ ∣ m + 1 ⟩ ​
+양변에 복소 공액을 취하면,
+
+⟨ J ^ + m ∣ = ⟨ m + 1 ∣ C m ∗ \displaystyle \begin{aligned} \langle \hat{J}_{+} m |=\langle m+1 | C_{m}^{\ast} \end{aligned} ⟨ J ^ + ​ m ∣ = ⟨ m + 1∣ C m ∗ ​ ​
+이 결과를 처음의 ket-vector에 곱하면 좌변은
+
+⟨ J ^ + m ∣ J ^ + m ⟩ = ⟨ m ∣ J ^ + † J ^ + m ⟩ = ⟨ m ∣ J ^ − J ^ + m ⟩ = ⟨ m ∣ J ^ 2 − J ^ z 2 − ℏ J ^ z ∣ m ⟩ = ℏ 2 ( k 2 − m 2 − m ) ⟨ m ∣ m ⟩ = ℏ 2 ( k 2 − m 2 − m ) \displaystyle \begin{aligned} \langle \hat{J}_{+} m | \hat{J}_{+} m \rangle &=\langle m | \hat{J}_{+}^{\dagger}\hat{J}_{+} m \rangle \\ &=\langle m | \hat{J}_{-}\hat{J}_{+} m \rangle \\ &=\langle m |\hat{J}^{2}-\hat{J}_{z}^{2}-\hbar \hat{J}_{z} | m \rangle \\&=\hbar^{2}(k^{2}-m^{2}-m)\langle m |m \rangle \\ &=\hbar^{2}(k^{2}-m^{2}-m) \end{aligned} ⟨ J ^ + ​ m ∣ J ^ + ​ m ⟩ ​ = ⟨ m ∣ J ^ + † ​ J ^ + ​ m ⟩ = ⟨ m ∣ J ^ − ​ J ^ + ​ m ⟩ = ⟨ m ∣ J ^ 2 − J ^ z 2 ​ − ℏ J ^ z ​ ∣ m ⟩ = ℏ 2 ( k 2 − m 2 − m ) ⟨ m ∣ m ⟩ = ℏ 2 ( k 2 − m 2 − m ) ​
+이고, 우변은
+
+⟨ m + 1 ∣ C m ∗ C m ∣ m + 1 ⟩ = ∣ C m ∣ 2 \displaystyle \begin{aligned} \langle m+1 | C_{m}^{\ast} C_{m} | m+1 \rangle = |C_{m}|^{2} \end{aligned} ⟨ m + 1∣ C m ∗ ​ C m ​ ∣ m + 1 ⟩ = ∣ C m ​ ∣ 2 ​
+이상에서
+
+C m = ℏ k 2 − m 2 − m \displaystyle \begin{aligned} C_{m}=\hbar \sqrt{k^{2}-m^{2}-m} \end{aligned} C m ​ = ℏ k 2 − m 2 − m ​ ​
+윗 문단에서 나오는 양자수를 이용하여 다음과 같이 쓸 수 있다.
+
+C m = ℏ [ j ( j + 1 ) − m j 2 − m j ] 1 / 2 = ℏ [ ( j − m j ) ( j + m j + 1 ) ] 1 / 2 \displaystyle \begin{aligned} C_{m}&=\hbar [j(j+1)-m_{j}^{2}-m_{j}]^{1/2} \\&=\hbar[(j-m_{j})(j+m_{j}+1) ]^{1/2} \end{aligned} C m ​ ​ = ℏ [ j ( j + 1 ) − m j 2 ​ − m j ​ ] 1/2 = ℏ [( j − m j ​ ) ( j + m j ​ + 1 ) ] 1/2 ​
+이를 이용하여 올림 연산자의 작용은 아래와 같이 쓸 수 있다. J ^ + ∣ j , m j ⟩ = ℏ [ ( j − m j ) ( j + m j + 1 ) ] 1 / 2 ∣ j , m j + 1 ⟩ \displaystyle \begin{aligned} \hat{J}_{+} | j,\,m_{j} \rangle=\hbar[(j-m_{j})(j+m_{j}+1) ]^{1/2} | j,\,m_{j}+1 \rangle \end{aligned} J ^ + ​ ∣ j , m j ​ ⟩ = ℏ [( j − m j ​ ) ( j + m j ​ + 1 ) ] 1/2 ∣ j , m j ​ + 1 ⟩ ​
+
+마찬가지의 방법을 통해 내림 연산자의 작용은 다음과 같음을 알 수 있다. J ^ − ∣ j , m j ⟩ = ℏ [ ( j + m j ) ( j − m j + 1 ) ] 1 / 2 ∣ j , m j − 1 ⟩ \displaystyle \begin{aligned} \hat{J}_{-} | j,\,m_{j} \rangle=\hbar[(j+m_{j})(j-m_{j}+1) ]^{1/2} | j,\,m_{j}-1 \rangle \end{aligned} J ^ − ​ ∣ j , m j ​ ⟩ = ℏ [( j + m j ​ ) ( j − m j ​ + 1 ) ] 1/2 ∣ j , m j ​ − 1 ⟩ ​
+
+3.3. 궤도 각운동량 연산자의 고유함수 [편집]
+회전 운동은 직각 좌표계가 아닌 곡면 좌표계에서 다루는 것이 편리하다. 이에 각 연산자를 구면 좌표계에 맞게 유도해보자. 직각 좌표계와 구면 좌표계의 변환 공식
+
+x = r sin ⁡ θ cos ⁡ ϕ y = r sin ⁡ θ sin ⁡ ϕ z = r cos ⁡ θ \displaystyle \begin{aligned} x&=r\sin{\theta} \cos{\phi} \\y&=r\sin{\theta}\sin{\phi} \\ z&=r\cos{\theta} \end{aligned} x y z ​ = r sin θ cos ϕ = r sin θ sin ϕ = r cos θ ​
+를 통해 다음을 유도할 수 있다.
+
+L ^ x = i ℏ ( sin ⁡ ϕ ∂ ∂ θ + cot ⁡ θ cos ⁡ ϕ ∂ ∂ ϕ ) L ^ y = i ℏ ( − cos ⁡ ϕ ∂ ∂ θ + cot ⁡ θ sin ⁡ ϕ ∂ ∂ ϕ ) L ^ z = − i ℏ ∂ ∂ ϕ L ^ 2 = − ℏ 2 [ 1 sin ⁡ θ ∂ ∂ θ ( sin ⁡ θ ∂ ∂ θ ) + 1 sin ⁡ 2 θ ∂ 2 ∂ 2 ϕ ] \displaystyle \begin{aligned} \hat{L}_{x}&=i\hbar \left(\sin{\phi}\frac{\partial}{\partial \theta}+\cot{\theta}\cos{\phi} \frac{\partial}{\partial \phi} \right) \\ \hat{L}_{y}&=i\hbar \left(-\cos{\phi}\frac{\partial}{\partial \theta}+\cot{\theta}\sin{\phi} \frac{\partial}{\partial \phi} \right) \\ \hat{L}_{z}&=-i \hbar \frac{\partial}{\partial \phi} \\ \hat{L}^{2}&=-\hbar^{2} \left[ \frac{1}{\sin{\theta}}\frac{\partial}{\partial \theta} \left( \sin{\theta} \frac{\partial}{\partial \theta} \right)+\frac{1}{\sin^{2}\theta}\frac{\partial^{2}}{\partial^{2} \phi} \right] \end{aligned} L ^ x ​ L ^ y ​ L ^ z ​ L ^ 2 ​ = i ℏ ( sin ϕ ∂ θ ∂ ​ + cot θ cos ϕ ∂ ϕ ∂ ​ ) = i ℏ ( − cos ϕ ∂ θ ∂ ​ + cot θ sin ϕ ∂ ϕ ∂ ​ ) = − i ℏ ∂ ϕ ∂ ​ = − ℏ 2 [ sin θ 1 ​ ∂ θ ∂ ​ ( sin θ ∂ θ ∂ ​ ) + sin 2 θ 1 ​ ∂ 2 ϕ ∂ 2 ​ ] ​
+찾는 L ^ z \hat{L}_{z} L ^ z ​ , L ^ 2 \hat{L}^{2} L ^ 2 의 고유함수를 구해보자. L ^ z \hat{L}_{z} L ^ z ​ 의 고유치 방정식
+
+L ^ z φ l , m l = m l ℏ φ l , m l \displaystyle \begin{aligned} \hat{L}_{z} \varphi_{l,\,m_{l}}=m_{l}\hbar \varphi_{l,\,m_{l}} \end{aligned} L ^ z ​ φ l , m l ​ ​ = m l ​ ℏ φ l , m l ​ ​ ​
+φ l , m l = Θ ( θ ) Φ ( ϕ ) \varphi_{l,\,m_{l}}=\Theta(\theta) \Phi(\phi) φ l , m l ​ ​ = Θ ( θ ) Φ ( ϕ ) 의 두 독립한 변수의 함수들의 곱으로 이루어져 있다고 가정하면
+
+− i ℏ Θ ( θ ) d Φ ( ϕ ) d ϕ = m l ℏ Θ ( θ ) Φ ( ϕ ) d Φ ( ϕ ) d ϕ = i m l Φ ( ϕ ) \displaystyle \begin{aligned} -i \hbar \Theta(\theta) \frac{{\rm d}\Phi(\phi)}{{\rm d} \phi}&=m_{l}\hbar \Theta(\theta)\Phi(\phi) \\\frac{{\rm d}\Phi(\phi)}{{\rm d} \phi}&=im_{l}\Phi(\phi) \end{aligned} − i ℏΘ ( θ ) d ϕ d Φ ( ϕ ) ​ d ϕ d Φ ( ϕ ) ​ ​ = m l ​ ℏΘ ( θ ) Φ ( ϕ ) = i m l ​ Φ ( ϕ ) ​
+변수 분리를 통해 미분 방정식을 풀면
+
+Φ ( ϕ ) ∝ e i m l ϕ \displaystyle \begin{aligned} \Phi(\phi) \propto e^{i m_{l} \phi} \end{aligned} Φ ( ϕ ) ∝ e i m l ​ ϕ ​
+구면 대칭성 때문에 정수 n n n 에 대하여 Φ ( ϕ ) = Φ ( ϕ + 2 n π ) \Phi(\phi)= \Phi(\phi+2n \pi) Φ ( ϕ ) = Φ ( ϕ + 2 nπ ) 를 만족시켜야 하므로 m l m_{l} m l ​ 은 정수이다.
+
+다행히도 두 연산자에 대한 고유함수는 공유하기 때문에 이 결과를 가지고, 그대로 L ^ 2 \hat{L}^{2} L ^ 2 의 고유치 방정식
+
+L ^ 2 φ l , m l = l ( l + 1 ) ℏ 2 φ l , m l \displaystyle \begin{aligned} \hat{L}^{2} \varphi_{l,\,m_{l}}=l(l+1)\hbar^{2} \varphi_{l,\,m_{l}} \end{aligned} L ^ 2 φ l , m l ​ ​ = l ( l + 1 ) ℏ 2 φ l , m l ​ ​ ​
+에 대입해도 된다. − ℏ 2 [ 1 sin ⁡ θ d d θ ( sin ⁡ θ d Θ ( θ ) d θ ) − m l 2 sin ⁡ 2 θ Θ ( θ ) ] e i m l ϕ = l ( l + 1 ) ℏ 2 Θ ( θ ) e i m l ϕ 1 sin ⁡ θ d d θ ( sin ⁡ θ d Θ ( θ ) d θ ) − m l 2 sin ⁡ 2 θ Θ ( θ ) = − l ( l + 1 ) Θ ( θ ) \displaystyle \begin{aligned} -\hbar^{2} \left[ \frac{1}{\sin{\theta}}\frac{{\rm d} }{{\rm d} \theta} \left( \sin{\theta} \frac{{\rm d} \Theta(\theta)}{{\rm d} \theta} \right)-\frac{m_{l}^{2}}{\sin^{2}\theta} \Theta(\theta) \right]e^{im_{l}\phi}&=l(l+1)\hbar^{2}\Theta(\theta)e^{im_{l}\phi} \\ \frac{1}{\sin{\theta}}\frac{{\rm d} }{{\rm d} \theta} \left( \sin{\theta} \frac{{\rm d} \Theta(\theta)}{{\rm d} \theta} \right)-\frac{m_{l}^{2}}{\sin^{2}\theta} \Theta(\theta) &=-l(l+1)\Theta(\theta) \end{aligned} − ℏ 2 [ sin θ 1 ​ d θ d ​ ( sin θ d θ d Θ ( θ ) ​ ) − sin 2 θ m l 2 ​ ​ Θ ( θ ) ] e i m l ​ ϕ sin θ 1 ​ d θ d ​ ( sin θ d θ d Θ ( θ ) ​ ) − sin 2 θ m l 2 ​ ​ Θ ( θ ) ​ = l ( l + 1 ) ℏ 2 Θ ( θ ) e i m l ​ ϕ = − l ( l + 1 ) Θ ( θ ) ​
+
+cos ⁡ θ = x \cos{\theta}=x cos θ = x 라 놓으면
+
+d d θ = d x d θ d d x = − sin ⁡ θ d d x \displaystyle \begin{aligned} \frac{{\rm d} }{{\rm d} \theta}=\frac{{\rm d}x }{{\rm d} \theta}\frac{{\rm d} }{{\rm d} x} =-\sin{\theta}\frac{{\rm d} }{{\rm d} x} \end{aligned} d θ d ​ = d θ d x ​ d x d ​ = − sin θ d x d ​ ​
+이므로
+
+d d x [ ( 1 − x 2 ) d Θ d x ] + [ l ( l + 1 ) − m l 2 1 − x 2 ] Θ = 0 ( 1 − x 2 ) d 2 Θ d x 2 − 2 x d Θ d x + [ l ( l + 1 ) − m l 2 1 − x 2 ] Θ = 0 \displaystyle \begin{aligned} \frac{{\rm d}}{{\rm d} x} \left[ (1-x^{2}) \frac{{\rm d} \Theta}{{\rm d} x} \right]+ \left[ l(l+1)-\frac{m_{l}^{2}}{1-x^{2}} \right] \Theta &=0 \\ (1-x^2)\frac{{\rm d}^{2} \Theta}{{\rm d} x^{2}}-2x\frac{{\rm d} \Theta}{{\rm d} x} + \left[ l(l+1)-\frac{m_{l}^{2}}{1-x^{2}} \right] \Theta &=0 \end{aligned} d x d ​ [ ( 1 − x 2 ) d x d Θ ​ ] + [ l ( l + 1 ) − 1 − x 2 m l 2 ​ ​ ] Θ ( 1 − x 2 ) d x 2 d 2 Θ ​ − 2 x d x d Θ ​ + [ l ( l + 1 ) − 1 − x 2 m l 2 ​ ​ ] Θ ​ = 0 = 0 ​
+이 방정식은 버금 르장드르 함수 를 해로 갖는 방정식이므로
+
+Θ ( x ) ∝ P l m l ( x ) \displaystyle \begin{aligned} \Theta(x) \propto P_{l}^{m_{l}}(x) \end{aligned} Θ ( x ) ∝ P l m l ​ ​ ( x ) ​
+이다.
+
+위 결과를 종합하면
+
+φ l , m l = ∣ l , m l ⟩ ∝ P l m l ( cos ⁡ θ ) e i m l ϕ \displaystyle \begin{aligned} \varphi_{l, \, m_{l}}=| l,\,m_{l} \rangle\propto P_{l}^{m_{l}}(\cos{\theta}) e^{i m_{l} \phi} \end{aligned} φ l , m l ​ ​ = ∣ l , m l ​ ⟩ ∝ P l m l ​ ​ ( cos θ ) e i m l ​ ϕ ​
+인데, 위와 같은 꼴의 함수를 구면 조화 함수 라 부른다. 하지만 우리는 이 함수에 대하여 규격화를 하지 않았기에 비례 표시를 제거할 수 없다.
+
+이 함수는 입체각 에 대하여 규격화를 한다. 즉,
+
+∮ Ω ⟨ l , m l ∣ l , m l ⟩ d Ω = 1 \displaystyle \begin{aligned} \oint_{\Omega} \langle l, \, m_{l}|l, \, m_{l} \rangle\,{\rm d}\Omega=1 \end{aligned} ∮ Ω ​ ⟨ l , m l ​ ∣ l , m l ​ ⟩ d Ω = 1 ​
+∮ Ω \oint_{\Omega} ∮ Ω ​ 는 전체 입체각에 대한 적분을 의미한다. 따라서 규격화 상수를 A A A 라 놓으면 ∣ A ∣ 2 ∫ 0 2 π ∫ 0 π [ P l m l ( cos ⁡ θ ) e i m l ϕ ] ∗ [ P l m l ( cos ⁡ θ ) e i m l ϕ ] sin ⁡ θ d θ d ϕ = 1 \displaystyle \begin{aligned} |A|^{2} \int_{0}^{2 \pi} \int_{0}^{\pi} [P_{l}^{m_{l}}(\cos{\theta}) e^{i m_{l} \phi}]^{\ast}[P_{l}^{m_{l}}(\cos{\theta}) e^{i m_{l} \phi}]\,\sin{\theta}\,{\rm d } \theta {\rm d } \phi=1 \end{aligned} ∣ A ∣ 2 ∫ 0 2 π ​ ∫ 0 π ​ [ P l m l ​ ​ ( cos θ ) e i m l ​ ϕ ] ∗ [ P l m l ​ ​ ( cos θ ) e i m l ​ ϕ ] sin θ d θ d ϕ = 1 ​
+
+이것을 만족하는 상수는 알려져있으며, 이것을 고려하면 규격화된 고유함수는 아래와 같음을 얻는다. ∣ l , m l ⟩ = 2 l + 1 4 π ( l − m l ) ! ( l + m l ) ! P l m l ( cos ⁡ θ ) e i m l ϕ : = Y l m l ( θ , ϕ ) \displaystyle \begin{aligned} | l,\,m_{l} \rangle=\sqrt{\frac{2l+1}{4\pi} \frac{(l-m_{l})!}{(l+m_{l})!}}P_{l}^{m_{l}}(\cos{\theta}) e^{i m_{l} \phi} :=Y_{l}^{m_{l}}(\theta,\,\phi) \end{aligned} ∣ l , m l ​ ⟩ = 4 π 2 l + 1 ​ ( l + m l ​ )! ( l − m l ​ )! ​ ​ P l m l ​ ​ ( cos θ ) e i m l ​ ϕ := Y l m l ​ ​ ( θ , ϕ ) ​
+
+아래에서 ∣ Y l m l ∣ 2|Y_{l}^{m_{l}}|^{2} ∣ Y l m l ​ ​ ∣ 2 의 그래프의 개형을 볼 수 있다. 단, 실제 크기가 아닌 한 정사각형 의 가로 혹은 세로 길이에 규격화돼 있음에 유의하자. 물리학적으로 ∣ Y l m l ∣ 2|Y_{l}^{m_{l}}|^{2} ∣ Y l m l ​ ​ ∣ 2 은 곧 입자의 편각과 방위각이 각각 ( θ , ϕ ) (\theta,\,\phi) ( θ , ϕ ) 인 곳의 미소 입체각에서 입자가 발견될 확률 밀도 함수 를 나타낸다. 고전 역학과 달리 입자가 많이 발견되는 방위각과 편각이 존재함을 알 수 있다.
+[ 그래프 펼치기 · 접기 ]
+
+참고로, 스핀 각운동량의 경우 행렬 역학을 사용하기에 고유함수가 행렬로 나타난다.
+
+나머지 축에 대한 각운동량은 어떻게 될까? 초급적으로 다가가보고자 한다. 우선 연산자 관계를 다시 생각해보자.
+
+[ L ^ k , L ^ l ] = ∑ m i ℏ ε k l m L ^ m [ L ^ 2 , L ^ k ] = 0 \displaystyle \begin{aligned} [\hat{{L}}_{k},\,\hat{{L}}_{l}]&=\sum_{m} i\hbar \varepsilon_{klm}\hat{L}_{m} \\ [\hat{{L}}^{2},\,\hat{{L}}_{k}]&=0 \end{aligned} [ L ^ k ​ , L ^ l ​ ] [ L ^ 2 , L ^ k ​ ] ​ = m ∑ ​ i ℏ ε k l m ​ L ^ m ​ = 0 ​
+이것을 동시에 만족시키게 하는 방법은 무엇일까? 결국 l l l 이 같은 구면 조화 함수의 결합이 곧 각 축에 대한 고유함수가 된다는 것이다. 이렇게 되어야 임의의 축과 각운동량 크기의 제곱이 동시 가측량이 되고, 해당 연산자들의 함수가 공유하게 되면서도 각 축의 성분에 대한 고유함수들은 공유하지 않는 상태가 된다.
+
+즉, L ^ x \hat{L}_{x} L ^ x ​ 의 고유함수 X l α X_{l}^{\alpha} X l α ​ 는 L ^ 2 \hat{L}^{2} L ^ 2 의 고유함수의 결합
+
+X l α = ∑ m l = − l l a m l Y l m l \displaystyle \begin{aligned} X_{l}^{\alpha}=\sum_{m_{l}=-l}^{l} a_{m_{l}} Y_{l}^{m_{l}} \end{aligned} X l α ​ = m l ​ = − l ∑ l ​ a m l ​ ​ Y l m l ​ ​ ​
+으로 쓸 수 있다. 이때,
+
+L ^ x X l α = α ℏ X l α \displaystyle \begin{aligned} \hat{L}_{x}X_{l}^{\alpha}=\alpha \hbar X_{l}^{\alpha} \end{aligned} L ^ x ​ X l α ​ = α ℏ X l α ​ ​
+를 만족시킬 것이다. 이때, z z z 축 성분과 동일한 형태의 고윳값을 갖는 것은 축이 달라진다고 해서 그 형태가 다르게 되면, 같은 물리 상황에 대해 축만 바꿨을 뿐인데 그 물리량이 달라지는 물리적 상황과 거리가 먼 상황이 연출되기 때문이다. 결국 이는 α \alpha α 또한 m l m_{l} m l ​ 과 같은 제한 조건을 가짐을 암시하고 있다.
+
+L ^ y \hat{L}_{y} L ^ y ​ 의 고유함수와 고윳값도 동일하다.
+
+4. 확률 분포 [편집]
+예를 들어 어떠한 상태에 있는 (스핀 각운동량이 없는) 한 입자에 대하여 한 축에 대한 각운동량 3 ℏ 3\hbar 3ℏ 를 측정할 확률은 어떻게 구하는가? 또, 한 입자에 대하여 각운동량 크기가 12 ℏ \sqrt{12}\hbar 12 ​ ℏ 로 측정될 확률은 얼마인가? 이런 것을 다뤄보고자 한다.
+
+일반적으로 입자의 상태에 대한 상태는 고유 함수의 중첩으로 설명될 수 있다.
+
+ψ = ∑ l = 0 ∞ ∑ ∣ m l ∣ ≤ l a l , m l ∣ l , m l ⟩ \displaystyle \psi=\sum_{l=0}^{\infty}\sum_{|m_{l}| \leq l} a_ {l,\,m_{l}} | l,\,m_{l} \rangle ψ = l = 0 ∑ ∞ ​ ∣ m l ​ ∣ ≤ l ∑ ​ a l , m l ​ ​ ∣ l , m l ​ ⟩
+이때, a l , m l a_ {l,\,m_{l}} a l , m l ​ ​ 은 다음과 같은 내적
+
+a l , m l = ⟨ l , m l ∣ ψ ⟩ \displaystyle a_ {l,\,m_{l}}= \langle l,\,m_{l}|\psi \rangle a l , m l ​ ​ = ⟨ l , m l ​ ∣ ψ ⟩
+로 구할 수 있다. 즉,
+
+ψ = ∑ l = 0 ∞ ∑ ∣ m l ∣ ≤ l ∣ l , m l ⟩ ⟨ l , m l ∣ ψ ⟩ \displaystyle \psi=\sum_{l=0}^{\infty}\sum_{|m_{l}| \leq l} | l,\,m_{l} \rangle \langle l,\,m_{l}|\psi \rangle ψ = l = 0 ∑ ∞ ​ ∣ m l ​ ∣ ≤ l ∑ ​ ∣ l , m l ​ ⟩ ⟨ l , m l ​ ∣ ψ ⟩
+
+만약 이 상태에 있는 입자에 대하여 L 2 = ℏ 2 α ( α + 1 ) L^{2}=\hbar^{2} \alpha(\alpha+1) L 2 = ℏ 2 α ( α + 1 ) 을 관측할 확률 P [ ℏ 2 α ( α + 1 ) ] P[ \hbar^{2} \alpha(\alpha+1) ] P [ ℏ 2 α ( α + 1 )] 은 다음과 같다.
+
+P [ ℏ 2 α ( α + 1 ) ] = ∑ ∣ m ∣ ≤ l ∣ ⟨ α , m l ∣ ψ ⟩ ∣ 2 \displaystyle P[ \hbar^{2} \alpha(\alpha+1) ] =\sum_{|m| \leq l} |\langle \alpha,\,m_{l}|\psi \rangle |^{2} P [ ℏ 2 α ( α + 1 )] = ∣ m ∣ ≤ l ∑ ​ ∣ ⟨ α , m l ​ ∣ ψ ⟩ ∣ 2
+L z = m ℏ L_{z}=m\hbar L z ​ = m ℏ 을 관측할 확률 P [ m ℏ ] P[ m\hbar ] P [ m ℏ ] 은 다음과 같다.
+
+P [ m ℏ ] = ∑ l = ∣ m ∣ ∞ ∣ ⟨ l , m ∣ ψ ⟩ ∣ 2 \displaystyle P[ m\hbar ] =\sum_{ l=|m|}^{\infty} |\langle l,\,m|\psi \rangle |^{2} P [ m ℏ ] = l = ∣ m ∣ ∑ ∞ ​ ∣ ⟨ l , m ∣ ψ ⟩ ∣ 2
+
+5. 기댓값 [편집]
+입자의 각운동량이 L = ℏ l ( l + 1 ) L=\hbar \sqrt{l(l+1)} L = ℏ l ( l + 1 ) ​ , L z = m l ℏ L_{z}=m_{l}\hbar L z ​ = m l ​ ℏ 인 상태에 있다고 해보자. 이 경우 다음은 명백하다.
+
+⟨ L z ⟩ = m l ℏ ⟨ L 2 ⟩ = ℏ 2 l ( l + 1 ) \displaystyle \begin{aligned} \langle L_{z} \rangle &= m_{l}\hbar \\ \langle L^{2} \rangle &= \hbar^{2} l(l+1) \end{aligned} ⟨ L z ​ ⟩ ⟨ L 2 ⟩ ​ = m l ​ ℏ = ℏ 2 l ( l + 1 ) ​
+그렇다면 나머지 축에 대한 물리량의 기댓값은 어떻게 될까?
+
+⟨ L x ⟩ = ⟨ l , m l ∣ L ^ x ∣ l , m l ⟩ \displaystyle \begin{aligned} \langle L_{x} \rangle &= \langle l,\,m_{l} | \hat{L}_{x} | l,\,m_{l} \rangle \end{aligned} ⟨ L x ​ ⟩ ​ = ⟨ l , m l ​ ∣ L ^ x ​ ∣ l , m l ​ ⟩ ​
+여기서 ∣ l , m l ⟩| l,\,m_{l} \rangle ∣ l , m l ​ ⟩ 이 L ^ x \hat{L}_{x} L ^ x ​ 의 고유상태가 아니기 때문에 위 값을 구하기 어려울 것으로 보이지만 다행히도 사다리 연산자가 존재하기 때문에 조금 다가가볼 수 있을 것으로 기대된다. 사다리 연산자는 해당 상태의 고유상태가 되기 때문이다. 다음과 같이 쓰자.
+
+L ^ x = 1 2 ( L ^ + + L ^ − ) \displaystyle \begin{aligned} \hat{L}_{x} &= \frac{1}{2}(\hat{L}_{+}+\hat{L}_{-}) \end{aligned} L ^ x ​ ​ = 2 1 ​ ( L ^ + ​ + L ^ − ​ ) ​
+고유함수의 직교성에 따라 직접 계산해보지 않더라도
+
+⟨ L x ⟩ = 0 \displaystyle \begin{aligned} \langle L_{x} \rangle &=0 \end{aligned} ⟨ L x ​ ⟩ ​ = 0 ​
+이다. 이는 계산 과정에 양자수가 다른 상태의 고유함수의 내적 이 포함되기 때문이다. 마찬가지의 이유로
+
+L ^ y = 1 2 i ( L ^ + − L ^ − ) \displaystyle \begin{aligned} \hat{L}_{y} &= \frac{1}{2i}(\hat{L}_{+}-\hat{L}_{-}) \end{aligned} L ^ y ​ ​ = 2 i 1 ​ ( L ^ + ​ − L ^ − ​ ) ​
+로 쓸 수 있고, 이것 또한 양자수가 다른 상태의 고유함수의 내적이 포함된다는 점에서
+
+⟨ L y ⟩ = ⟨ l , m l ∣ L ^ y ∣ l , m l ⟩ = 0 \displaystyle \begin{aligned} \langle L_{y} \rangle &= \langle l,\,m_{l} | \hat{L}_{y} | l,\,m_{l} \rangle \\& =0 \end{aligned} ⟨ L y ​ ⟩ ​ = ⟨ l , m l ​ ∣ L ^ y ​ ∣ l , m l ​ ⟩ = 0 ​
+위 결과는 L L L 과 L z L_{z} L z ​ 가 측정되었을 때 나머지 축에 대한 성분은 결정할 수 없음을 내포하고 있다.
+
+⟨ L x 2 ⟩ \langle L_{x}^{2} \rangle ⟨ L x 2 ​ ⟩ , ⟨ L y 2 ⟩ \langle L_{y}^{2} \rangle ⟨ L y 2 ​ ⟩ 를 구해보자.
+
+⟨ L x 2 ⟩ = ⟨ l , m l ∣ L ^ x 2 ∣ l , m l ⟩ \displaystyle \begin{aligned} \langle L_{x}^{2} \rangle &= \langle l,\,m_{l} | \hat{L}_{x}^{2} | l,\,m_{l} \rangle \end{aligned} ⟨ L x 2 ​ ⟩ ​ = ⟨ l , m l ​ ∣ L ^ x 2 ​ ∣ l , m l ​ ⟩ ​
+인데,
+
+L ^ x 2 = [ 1 2 ( L ^ + + L ^ − ) ] 2 = 1 4 ( L ^ + 2 + L ^ + L ^ − + L − L ^ + + L ^ − 2 ) \displaystyle \begin{aligned} \hat{L}_{x}^{2} &= \left[ \frac{1}{2} (\hat{L}_{+}+\hat{L}_{-}) \right]^{2}=\frac{1}{4}(\hat{L}_{+}^{2}+\hat{L}_{+}\hat{L}_{-}+{L}_{-}\hat{L}_{+}+\hat{L}_{-}^{2}) \end{aligned} L ^ x 2 ​ ​ = [ 2 1 ​ ( L ^ + ​ + L ^ − ​ ) ] 2 = 4 1 ​ ( L ^ + 2 ​ + L ^ + ​ L ^ − ​ + L − ​ L ^ + ​ + L ^ − 2 ​ ) ​
+위에서 유도한 L ^ 2 = L ^ ± L ^ ∓ + L ^ z 2 ∓ ℏ L ^ z \hat{L}^{2}=\hat{L}_{\pm}\hat{L}_{\mp}+\hat{L}_{z}^{2} \mp \hbar \hat{L}_{z} L ^ 2 = L ^ ± ​ L ^ ∓ ​ + L ^ z 2 ​ ∓ ℏ L ^ z ​ 에 의해 가운데 두 항은 2 ( L ^ 2 − L ^ z 2 ) 2(\hat{L}^{2}-\hat{L}_{z}^{2}) 2 ( L ^ 2 − L ^ z 2 ​ ) 이고, 1항과 4항은 서로 다른 양자수의 고유함수의 내적을 포함시키므로 무시하면,
+
+⟨ L x 2 ⟩ = ⟨ l , m l ∣ L ^ x 2 ∣ l , m l ⟩ = ⟨ l , m l ∣ 1 2 ( L ^ 2 − L ^ z 2 ) ∣ l , m l ⟩ = ℏ 2 2 [ l ( l + 1 ) − m l 2 ] \displaystyle \begin{aligned} \langle L_{x}^{2} \rangle &= \langle l,\,m_{l} | \hat{L}_{x}^{2} | l,\,m_{l} \rangle \\&= \biggl\langle l,\,m_{l} \biggl| \frac{1}{2}(\hat{L}^{2}-\hat{L}_{z}^{2}) \biggr| l,\,m_{l} \biggr\rangle \\&=\frac{\hbar^{2}}{2}[l(l+1)-m_{l}^{2}] \end{aligned} ⟨ L x 2 ​ ⟩ ​ = ⟨ l , m l ​ ∣ L ^ x 2 ​ ∣ l , m l ​ ⟩ = ⟨ l , m l ​ ​ 2 1 ​ ( L ^ 2 − L ^ z 2 ​ ) ​ l , m l ​ ⟩ = 2 ℏ 2 ​ [ l ( l + 1 ) − m l 2 ​ ] ​
+마찬가지의 방법으로
+
+L ^ y 2 = [ 1 2 i ( L ^ + − L ^ − ) ] 2 = − 1 4 { L ^ + 2 − ( L ^ + L ^ − + L − L ^ + ) + L ^ − 2 } \displaystyle \begin{aligned} \hat{L}_{y}^{2} &= \left[ \frac{1}{2i} (\hat{L}_{+}-\hat{L}_{-}) \right]^{2}=-\frac{1}{4}\{\hat{L}_{+}^{2}-(\hat{L}_{+}\hat{L}_{-}+{L}_{-}\hat{L}_{+})+\hat{L}_{-}^{2}\} \end{aligned} L ^ y 2 ​ ​ = [ 2 i 1 ​ ( L ^ + ​ − L ^ − ​ ) ] 2 = − 4 1 ​ { L ^ + 2 ​ − ( L ^ + ​ L ^ − ​ + L − ​ L ^ + ​ ) + L ^ − 2 ​ } ​
+이므로
+
+⟨ L y 2 ⟩ = ℏ 2 2 [ l ( l + 1 ) − m l 2 ] \displaystyle \begin{aligned} \langle L_{y}^{2} \rangle &= \frac{\hbar^{2}}{2}[l(l+1)-m_{l}^{2}] \end{aligned} ⟨ L y 2 ​ ⟩ ​ = 2 ℏ 2 ​ [ l ( l + 1 ) − m l 2 ​ ] ​
+이상에서 ⟨ L x 2 ⟩ = ⟨ L y 2 ⟩ \langle L_{x}^{2} \rangle=\langle L_{y}^{2} \rangle ⟨ L x 2 ​ ⟩ = ⟨ L y 2 ​ ⟩ 임을 얻는다.
+
+6. 불확정성 원리 [편집]
+자세한 내용은 불확정성 원리 문서를 참고하십시오. 일반적으로 자기 수반인 두 연산자 A ^ \hat{A} A ^ , B ^ \hat{B} B ^ 에 대한 각각의 불확정성 Δ A \Delta A Δ A , Δ B \Delta B Δ B 는 다음과 같이 주어진다. (증명은 불확정성 원리 문서를 참조하자.)
+
+Δ A Δ B ≥ ∣ 1 2 i ⟨ ψ ∣ [ A ^ , B ^ ] ∣ ψ ⟩ ∣ \displaystyle \Delta A \Delta B \geq \left| \frac{1}{2i} \langle \psi | [\hat{A},\,\hat{B}] | \psi \rangle \right| Δ A Δ B ≥ ​ 2 i 1 ​ ⟨ ψ ∣ [ A ^ , B ^ ] ∣ ψ ⟩ ​
+ψ \psi ψ 가 L ^ 2 \hat{L}^{2} L ^ 2 , L ^ z \hat{L}_{z} L ^ z ​ 에 대한 공통 고유 함수라 가정해보자. [6] 교환자 관계에 의해 [ L ^ x , L ^ y ] = i ℏ L ^ z [\hat{L}_{x},\,\hat{L}_{y}]=i\hbar \hat{L}_{z} [ L ^ x ​ , L ^ y ​ ] = i ℏ L ^ z ​ 이므로
+
+Δ L x Δ L y ≥ ℏ 2 ∣ ⟨ L z ⟩ ∣ = ℏ 2 ( ∣ m l ∣ ℏ ) \displaystyle \Delta L_{x} \Delta L_{y} \geq \frac{\hbar}{2} | \langle L_{z} \rangle | =\frac{\hbar}{2}(|m_{l}|\hbar) Δ L x ​ Δ L y ​ ≥ 2 ℏ ​ ∣ ⟨ L z ​ ⟩ ∣ = 2 ℏ ​ ( ∣ m l ​ ∣ℏ )
+이다.
+
+위 문단에서 다뤘던 것에서
+
+Δ L x = ⟨ L x 2 ⟩ − ⟨ L x ⟩ 2 = ℏ 2 [ l ( l + 1 ) − m l 2 ] 1 / 2 Δ L y = ⟨ L y 2 ⟩ − ⟨ L y ⟩ 2 = ℏ 2 [ l ( l + 1 ) − m l 2 ] 1 / 2 ∴ Δ L x Δ L y = ℏ 2 2 [ l ( l + 1 ) − m l 2 ] = ℏ 2 ⋅ ℏ [ l ( l + 1 ) − m l 2 ] \displaystyle \begin{aligned} \Delta L_{x}&=\sqrt{\langle L_{x}^{2} \rangle -\langle L_{x} \rangle^{2} } \\ &= \frac{\hbar}{\sqrt{2}}[l(l+1)-m_{l}^{2}]^{1/2} \\ \Delta L_{y}&=\sqrt{\langle L_{y}^{2} \rangle -\langle L_{y} \rangle^{2} } \\ &= \frac{\hbar}{\sqrt{2}}[l(l+1)-m_{l}^{2}]^{1/2} \\ \therefore \Delta L_{x} \Delta L_y &=\frac{\hbar^{2}}{2}[l(l+1)-m_{l}^{2}] \\&=\frac{\hbar}{2} \cdot {\hbar} [l(l+1)-m_{l}^{2}] \end{aligned} Δ L x ​ Δ L y ​ ∴ Δ L x ​ Δ L y ​ ​ = ⟨ L x 2 ​ ⟩ − ⟨ L x ​ ⟩ 2 ​ = 2 ​ ℏ ​ [ l ( l + 1 ) − m l 2 ​ ] 1/2 = ⟨ L y 2 ​ ⟩ − ⟨ L y ​ ⟩ 2 ​ = 2 ​ ℏ ​ [ l ( l + 1 ) − m l 2 ​ ] 1/2 = 2 ℏ 2 ​ [ l ( l + 1 ) − m l 2 ​ ] = 2 ℏ ​ ⋅ ℏ [ l ( l + 1 ) − m l 2 ​ ] ​
+한편, 이것이 불확정성 원리를 만족시키는지 검증하려면, l ( l + 1 ) − m l 2 ≥ ∣ m l ∣ l(l+1)-m_{l}^{2} \geq |m_{l}| l ( l + 1 ) − m l 2 ​ ≥ ∣ m l ​ ∣ 임을 증명하면 된다.
+
+l ( l + 1 ) − m l 2 − ∣ m l ∣ = l ( l + 1 ) − ∣ m l ∣ 2 − ∣ m l ∣ = ( l − ∣ m l ∣ ) ( l + ∣ m l ∣ + 1 ) \displaystyle \begin{aligned} l(l+1)-m_{l}^{2}-|m_{l}|&=l(l+1)-|m_{l}|^{2}-|m_{l}| \\ &=(l-|m_{l}|)(l+|m_{l}|+1) \end{aligned} l ( l + 1 ) − m l 2 ​ − ∣ m l ​ ∣ ​ = l ( l + 1 ) − ∣ m l ​ ∣ 2 − ∣ m l ​ ∣ = ( l − ∣ m l ​ ∣ ) ( l + ∣ m l ​ ∣ + 1 ) ​
+양자수 조건에서 ∣ m l ∣ ≤ l|m_{l}| \leq l ∣ m l ​ ∣ ≤ l 이므로 위 항은 0보다 같거나 크다. 즉, l ( l + 1 ) − m l 2 ≥ ∣ m l ∣ l(l+1)-m_{l}^{2} \geq |m_{l}| l ( l + 1 ) − m l 2 ​ ≥ ∣ m l ​ ∣ 이다.
+
+Δ L x Δ L y = ℏ 2 ⋅ ℏ [ l ( l + 1 ) − m l 2 ] ≥ ℏ 2 ( ∣ m l ∣ ℏ ) = ℏ 2 ∣ ⟨ L z ⟩ ∣ \displaystyle \begin{aligned} \Delta L_{x} \Delta L_y &=\frac{\hbar}{2} \cdot {\hbar} [l(l+1)-m_{l}^{2}] \\& \geq \frac{\hbar}{2}(|m_{l}| \hbar) \\&=\frac{\hbar}{2} | \langle L_{z} \rangle| \end{aligned} Δ L x ​ Δ L y ​ ​ = 2 ℏ ​ ⋅ ℏ [ l ( l + 1 ) − m l 2 ​ ] ≥ 2 ℏ ​ ( ∣ m l ​ ∣ℏ ) = 2 ℏ ​ ∣ ⟨ L z ​ ⟩ ∣ ​
+으로 불확정성 원리를 만족시킨다.
+
+7. 추가 논의 [편집]
+
+7.1. 궤도 각운동량 연산자의 교환자 관계 [편집]
+궤도 각운동량 연산자의 교환자 관계는 궤도 각운동량을 다루면서 중요하게 다뤄지기 때문에 한 번씩은 유도해보는 편이 도움이 된다. 이 문단의 증명 과정에서 아인슈타인 합 규약 이 사용(즉, 합의 기호에 대한 생략)되었다.
+
+본 문단은 크로네커 델타 와 레비치비타 기호 , 합의 기호 , 교환자 연산에 대해서 완벽히 이해하고 있다는 가정하에 작성되었다. 미숙한 독자들은 해당 문서들을 선수로 읽고 오는 것을 추천한다.
+
+이 문단을 나가기 전 크로네커 델타와 레비치비타 기호, 교환자의 중요한 연산을 되짚어보고자 한다.
+
+δ i j a j = a i ε i j k ε i l m = δ j l δ k m − δ j m δ k l [ A B , C ] = A [ B , C ] + [ A , C ] B \displaystyle \begin{aligned} \delta_{ij}a_{j}&=a_{i} \\ \varepsilon_{ijk}\varepsilon_{ilm} &=\delta_{jl}\delta_{km}-\delta_{jm}\delta_{kl} \\ [AB,\,C]&=A[B,\,C]+[A,\,C]B \end{aligned} δ ij ​ a j ​ ε ij k ​ ε i l m ​ [ A B , C ] ​ = a i ​ = δ j l ​ δ k m ​ − δ j m ​ δ k l ​ = A [ B , C ] + [ A , C ] B ​
+- [ L ^ k , L ^ l ] = i ℏ ∑ m ε k l m L ^ m \displaystyle [\hat{{L}}_{k},\,\hat{{L}}_{l}]= i\hbar \sum_{m} \varepsilon_{klm}\hat{L}_{m} [ L ^ k ​ , L ^ l ​ ] = i ℏ m ∑ ​ ε k l m ​ L ^ m ​ [증명]
+궤도 각운동량 연산자의 정의로부터
+
+L ^ i = ε i j k x ^ j p ^ k \displaystyle \begin{aligned} \hat{L}_{i}=\varepsilon_{ijk} \hat{x}_{j}\hat{p}_{k} \end{aligned} L ^ i ​ = ε ij k ​ x ^ j ​ p ^ ​ k ​ ​
+이므로
+
+[ L ^ k , L ^ l ] = [ ε k a b x ^ a p ^ b , ε l c d x ^ c p ^ d ] = ε k a b ε l c d [ x ^ a p ^ b , x ^ c p ^ d ] = ε k a b ε l c d ( x ^ a [ p ^ b , x ^ c p ^ d ] + [ x ^ a , x ^ c p ^ d ] p ^ b ) = − ε k a b ε l c d { x ^ a ( x ^ c [ p ^ d , p ^ b ] + [ x ^ c , p ^ b ] p ^ d ) + ( x ^ c [ p ^ d , x ^ a ] + [ x ^ c , x ^ a ] p ^ d ) p ^ b } \displaystyle \begin{aligned} [\hat{{L}}_{k},\,\hat{{L}}_{l}]&=[\varepsilon_{kab} \hat{x}_{a}\hat{p}_{b},\,\varepsilon_{lcd} \hat{x}_{c}\hat{p}_{d}] \\&=\varepsilon_{kab}\varepsilon_{lcd} [\hat{x}_{a}\hat{p}_{b}, \,\hat{x}_{c}\hat{p}_{d} ] \\&=\varepsilon_{kab}\varepsilon_{lcd} ( \hat{x}_{a} [\hat{p}_{b},\, \hat{x}_{c}\hat{p}_{d}]+[\hat{x}_{a},\,\hat{x}_{c}\hat{p}_{d}]\hat{p}_{b} ) \\&=-\varepsilon_{kab}\varepsilon_{lcd} \{\hat{x}_{a}(\hat{x}_{c} [ \hat{p}_{d},\,\hat{p}_{b}]+[\hat{x}_{c},\,\hat{p}_{b}]\hat{p}_{d})+(\hat{x}_{c}[\hat{p}_{d},\,\hat{x}_{a}]+[\hat{x}_{c},\,\hat{x}_{a}]\hat{p}_{d})\hat{p}_{b} \} \end{aligned} [ L ^ k ​ , L ^ l ​ ] ​ = [ ε k ab ​ x ^ a ​ p ^ ​ b ​ , ε l c d ​ x ^ c ​ p ^ ​ d ​ ] = ε k ab ​ ε l c d ​ [ x ^ a ​ p ^ ​ b ​ , x ^ c ​ p ^ ​ d ​ ] = ε k ab ​ ε l c d ​ ( x ^ a ​ [ p ^ ​ b ​ , x ^ c ​ p ^ ​ d ​ ] + [ x ^ a ​ , x ^ c ​ p ^ ​ d ​ ] p ^ ​ b ​ ) = − ε k ab ​ ε l c d ​ { x ^ a ​ ( x ^ c ​ [ p ^ ​ d ​ , p ^ ​ b ​ ] + [ x ^ c ​ , p ^ ​ b ​ ] p ^ ​ d ​ ) + ( x ^ c ​ [ p ^ ​ d ​ , x ^ a ​ ] + [ x ^ c ​ , x ^ a ​ ] p ^ ​ d ​ ) p ^ ​ b ​ } ​
+교환자 관계
+
+[ p ^ i , p ^ j ] = [ x ^ i , x ^ j ] = 0 [ x ^ i , p ^ j ] = i ℏ δ i j \displaystyle \begin{aligned} [\hat{p}_{i},\,\hat{p}_{j}]&=[\hat{x}_{i},\,\hat{x}_{j}]=0 \\ [\hat{x}_{i},\,\hat{p}_{j}]&=i \hbar \delta_{ij} \end{aligned} [ p ^ ​ i ​ , p ^ ​ j ​ ] [ x ^ i ​ , p ^ ​ j ​ ] ​ = [ x ^ i ​ , x ^ j ​ ] = 0 = i ℏ δ ij ​ ​
+를 사용하면
+
+[ L ^ k , L ^ l ] = − i ℏ ε k a b ε l c d ( δ c b x ^ a p ^ d − δ d a x ^ c p ^ b ) = i ℏ ε k a b ε l c d ( δ d a x ^ c p ^ b − δ c b x ^ a p ^ d ) = i ℏ [ ε k a b ε l c a x ^ c p ^ b − ε k a b ε l b d x ^ a p ^ d ] = i ℏ [ ε a b k ε a l c x ^ c p ^ b − ε b k a ε b d l x ^ a p ^ d ] = i ℏ [ ( δ b l δ k c − δ b c δ k l ) x ^ c p ^ b − ( δ k d δ a l − δ k l δ a d ) x ^ a p ^ d ] = i ℏ ( x ^ k p ^ l − x ^ b p ^ b − x ^ l p ^ k + x ^ a p ^ a ) = i ℏ ( x ^ k p ^ l − x ^ l p ^ k ) = i ℏ ( δ e k δ f l − δ e l δ f k ) x ^ e p ^ f = i ℏ ε m e f ε m k l x ^ e p ^ f = i ℏ ε m k l [ ε m e f x ^ e p ^ f ] = i ℏ ε m k l L ^ m = i ℏ ε k l m L ^ m \displaystyle \begin{aligned} [\hat{{L}}_{k},\,\hat{{L}}_{l}]&=-i \hbar\varepsilon_{kab}\varepsilon_{lcd} (\delta_{cb}\hat{x}_{a}\hat{p}_{d}-\delta_{da}\hat{x}_{c}\hat{p}_{b} ) \\ &=i \hbar\varepsilon_{kab}\varepsilon_{lcd} (\delta_{da}\hat{x}_{c}\hat{p}_{b}-\delta_{cb}\hat{x}_{a}\hat{p}_{d} ) \\ &=i \hbar [ \varepsilon_{kab}\varepsilon_{lca} \hat{x}_{c}\hat{p}_{b} -\varepsilon_{kab}\varepsilon_{lbd}\hat{x}_{a}\hat{p}_{d} ]\\ &=i \hbar [ \varepsilon_{abk}\varepsilon_{alc} \hat{x}_{c}\hat{p}_{b} -\varepsilon_{bka}\varepsilon_{ bdl}\hat{x}_{a}\hat{p}_{d} ] \\ &=i \hbar [ ( \delta_{bl}\delta_{kc}-\delta_{bc} \delta_{kl} ) \hat{x}_{c}\hat{p}_{b} - ( \delta_{kd}\delta_{al}-\delta_{kl} \delta_{ad} ) \hat{x}_{a}\hat{p}_{d} ] \\ &=i \hbar ( \hat{x}_{k}\hat{p}_{l} - \hat{x}_{b}\hat{p}_{b} - \hat{x}_{l}\hat{p}_{k}+\hat{x}_{a}\hat{p}_{a} ) \\ &=i \hbar ( \hat{x}_{k}\hat{p}_{l} - \hat{x}_{l}\hat{p}_{k} ) \\&= i \hbar (\delta_{ek}\delta_{fl}-\delta_{el}\delta_{fk}) \hat{x}_{e}\hat{p}_{f} \\ &=i \hbar \varepsilon_{mef} \varepsilon_{mkl}\hat{x}_{e}\hat{p}_{f} \\&=i\hbar \varepsilon_{mkl} [ \varepsilon_{mef} \hat{x}_{e}\hat{p}_{f}] \\&=i\hbar \varepsilon_{mkl} \hat{L}_{m} \\&=i\hbar \varepsilon_{klm} \hat{L}_{m} \end{aligned} [ L ^ k ​ , L ^ l ​ ] ​ = − i ℏ ε k ab ​ ε l c d ​ ( δ c b ​ x ^ a ​ p ^ ​ d ​ − δ d a ​ x ^ c ​ p ^ ​ b ​ ) = i ℏ ε k ab ​ ε l c d ​ ( δ d a ​ x ^ c ​ p ^ ​ b ​ − δ c b ​ x ^ a ​ p ^ ​ d ​ ) = i ℏ [ ε k ab ​ ε l c a ​ x ^ c ​ p ^ ​ b ​ − ε k ab ​ ε l b d ​ x ^ a ​ p ^ ​ d ​ ] = i ℏ [ ε abk ​ ε a l c ​ x ^ c ​ p ^ ​ b ​ − ε bk a ​ ε b d l ​ x ^ a ​ p ^ ​ d ​ ] = i ℏ [( δ b l ​ δ k c ​ − δ b c ​ δ k l ​ ) x ^ c ​ p ^ ​ b ​ − ( δ k d ​ δ a l ​ − δ k l ​ δ a d ​ ) x ^ a ​ p ^ ​ d ​ ] = i ℏ ( x ^ k ​ p ^ ​ l ​ − x ^ b ​ p ^ ​ b ​ − x ^ l ​ p ^ ​ k ​ + x ^ a ​ p ^ ​ a ​ ) = i ℏ ( x ^ k ​ p ^ ​ l ​ − x ^ l ​ p ^ ​ k ​ ) = i ℏ ( δ e k ​ δ f l ​ − δ e l ​ δ f k ​ ) x ^ e ​ p ^ ​ f ​ = i ℏ ε m e f ​ ε mk l ​ x ^ e ​ p ^ ​ f ​ = i ℏ ε mk l ​ [ ε m e f ​ x ^ e ​ p ^ ​ f ​ ] = i ℏ ε mk l ​ L ^ m ​ = i ℏ ε k l m ​ L ^ m ​ ​
+- [ L ^ 2 , L ^ k ] = 0 [\hat{L}^{2},\,\hat{L}_{k}]=0 [ L ^ 2 , L ^ k ​ ] = 0 [증명]
+각 성분의 제곱에 대한 연산자는 성분의 연산자와는 교환 관계가 어떻게 되는지 알아보자.
+
+[ L ^ l 2 , L ^ k ] = [ L ^ l L ^ l , L ^ k ] = L ^ l [ L ^ l , L ^ k ] + [ L ^ l , L ^ k ] L ^ l = i ℏ ε l k m [ L ^ l L ^ m + L ^ m L ^ l ] = i ℏ ε k m l [ L ^ m L ^ l + L ^ l L ^ m ] \displaystyle \begin{aligned} [\hat{L}_{l}^{2},\,\hat{L}_{k}]&=[\hat{L}_{l}\hat{L}_{l},\,\hat{L}_{k}]\\&=\hat{L}_{l}[\hat{L}_{l},\,\hat{L}_{k}]+[\hat{L}_{l},\,\hat{L}_{k}]\hat{L}_{l}\\&=i\hbar \varepsilon_{lkm} [\hat{L}_{l}\hat{L}_{m}+ \hat{L}_{m}\hat{L}_{l}] \\&=i\hbar \varepsilon_{kml} [\hat{L}_{m}\hat{L}_{l}+\hat{L}_{l}\hat{L}_{m} ] \end{aligned} [ L ^ l 2 ​ , L ^ k ​ ] ​ = [ L ^ l ​ L ^ l ​ , L ^ k ​ ] = L ^ l ​ [ L ^ l ​ , L ^ k ​ ] + [ L ^ l ​ , L ^ k ​ ] L ^ l ​ = i ℏ ε l k m ​ [ L ^ l ​ L ^ m ​ + L ^ m ​ L ^ l ​ ] = i ℏ ε k m l ​ [ L ^ m ​ L ^ l ​ + L ^ l ​ L ^ m ​ ] ​
+특히 l = k l=k l = k 일 때, [ L ^ k 2 , L ^ k ] = 0 [\hat{L}_{k}^{2},\,\hat{L}_{k}]=0 [ L ^ k 2 ​ , L ^ k ​ ] = 0 이다. 단, l l l 이 결정된 상태이기 때문에 m m m 에 대한 합이라는 것에 유의한다.
+
+이를 통해 중요한 연산자 관계 [ L ^ 2 , L k ] = 0 [\hat{L}^{2},\,L_{k}]=0 [ L ^ 2 , L k ​ ] = 0 를 유도할 수 있다. L ^ 2 = ∑ l L ^ l 2 \displaystyle \hat{L}^2=\sum_{l} \hat{L}_{l}^{2} L ^ 2 = l ∑ ​ L ^ l 2 ​ 임을 이용하자.
+
+[ L ^ 2 , L ^ k ] = [ ∑ l L ^ l 2 , L ^ k ] = ∑ l [ L ^ l 2 , L ^ k ] = i ℏ ∑ l ε k m l [ L ^ m L ^ l + L ^ l L ^ m ] = 0 \displaystyle \begin{aligned} [\hat{L}^{2},\,\hat{L}_{k}]&= \left[\sum_{l}\hat{L}_{l}^{2},\hat{L}_{k}\right]\\&=\sum_{l}[\hat{L}_{l}^{2},\hat{L}_{k}] \\&=i\hbar \sum_{l} \varepsilon_{kml} [\hat{L}_{m}\hat{L}_{l}+\hat{L}_{l}\hat{L}_{m} ] \\&=0 \end{aligned} [ L ^ 2 , L ^ k ​ ] ​ = [ l ∑ ​ L ^ l 2 ​ , L ^ k ​ ] = l ∑ ​ [ L ^ l 2 ​ , L ^ k ​ ] = i ℏ l ∑ ​ ε k m l ​ [ L ^ m ​ L ^ l ​ + L ^ l ​ L ^ m ​ ] = 0 ​
+따라서 각운동량 크기의 제곱 연산자와 각 축의 성분에 대한 연산자는 교환하므로 동시 가측량이자, 공통된 고유함수를 공유한다. 다만, 각 축에 대한 성분의 연산자 끼리는 교환하지 않으므로 이들 모두가 동시 가측량과 고유함수를 공유한다고 생각하면 안 된다.
+- [ x ^ k , L ^ l ] = i ℏ ∑ m ε k l m x ^ m \displaystyle[\hat{x}_{k},\, \hat{L}_{l}]=i \hbar \sum_{m} \varepsilon_{klm}\hat{x}_{m} [ x ^ k ​ , L ^ l ​ ] = i ℏ m ∑ ​ ε k l m ​ x ^ m ​ [증명]
+[ x ^ k , L ^ l ] = [ x ^ k , ε l a b x ^ a p ^ b ] = ε l a b [ x ^ k , x ^ a p ^ b ] = − ε l a b ( x ^ a [ p ^ b , x ^ k ] + [ x ^ a , x ^ k ] p ^ b ) = i ℏ ε l a b δ b k x ^ a = i ℏ ε l a k x ^ a = i ℏ ε k l m x ^ m \displaystyle \begin{aligned} [\hat{x}_{k},\, \hat{L}_{l}]&=[\hat{x}_{k},\, \varepsilon_{lab} \hat{x}_{a}\hat{p}_{b}] \\&=\varepsilon_{lab} [\hat{x}_{k},\, \hat{x}_{a}\hat{p}_{b}] \\&=- \varepsilon_{lab} (\hat{x}_{a}[\hat{p}_{b},\,\hat{x}_{k}]+[\hat{x}_{a},\,\hat{x}_{k}]\hat{p}_{b}) \\&=i \hbar \varepsilon_{lab}\delta_{bk}\hat{x}_{a} \\&=i \hbar \varepsilon_{lak}\hat{x}_{a} \\&=i \hbar \varepsilon_{klm}\hat{x}_{m} \end{aligned} [ x ^ k ​ , L ^ l ​ ] ​ = [ x ^ k ​ , ε l ab ​ x ^ a ​ p ^ ​ b ​ ] = ε l ab ​ [ x ^ k ​ , x ^ a ​ p ^ ​ b ​ ] = − ε l ab ​ ( x ^ a ​ [ p ^ ​ b ​ , x ^ k ​ ] + [ x ^ a ​ , x ^ k ​ ] p ^ ​ b ​ ) = i ℏ ε l ab ​ δ bk ​ x ^ a ​ = i ℏ ε l ak ​ x ^ a ​ = i ℏ ε k l m ​ x ^ m ​ ​
+즉, 각운동량과 위치는 같은 축에 대해서가 아닌 이상 동시 가측량이 아니다.
+- [ p ^ k , L ^ l ] = i ℏ ∑ m ε k l m p ^ m \displaystyle[\hat{p}_{k},\, \hat{L}_{l}]=i \hbar \sum_{m} \varepsilon_{klm}\hat{p}_{m} [ p ^ ​ k ​ , L ^ l ​ ] = i ℏ m ∑ ​ ε k l m ​ p ^ ​ m ​ [증명]
+[ p ^ k , L ^ l ] = [ p ^ k , ε l a b x ^ a p ^ b ] = ε l a b [ p ^ k , x ^ a p ^ b ] = − ε l a b ( x ^ a [ p ^ b , p ^ k ] + [ x ^ a , p ^ k ] p ^ b ) = − i ℏ ε l a b δ a k p ^ b = − i ℏ ε l k b p ^ b = i ℏ ε k l m p ^ m \displaystyle \begin{aligned} [\hat{p}_{k},\, \hat{L}_{l}]&=[\hat{p}_{k},\, \varepsilon_{lab} \hat{x}_{a}\hat{p}_{b}] \\&=\varepsilon_{lab} [\hat{p}_{k},\, \hat{x}_{a}\hat{p}_{b}] \\&=- \varepsilon_{lab} (\hat{x}_{a}[\hat{p}_{b},\,\hat{p}_{k}]+[\hat{x}_{a},\,\hat{p}_{k}]\hat{p}_{b}) \\&=-i \hbar \varepsilon_{lab}\delta_{ak}\hat{p}_{b} \\&=-i \hbar \varepsilon_{lkb}\hat{p}_{b} \\&=i \hbar \varepsilon_{klm}\hat{p}_{m} \end{aligned} [ p ^ ​ k ​ , L ^ l ​ ] ​ = [ p ^ ​ k ​ , ε l ab ​ x ^ a ​ p ^ ​ b ​ ] = ε l ab ​ [ p ^ ​ k ​ , x ^ a ​ p ^ ​ b ​ ] = − ε l ab ​ ( x ^ a ​ [ p ^ ​ b ​ , p ^ ​ k ​ ] + [ x ^ a ​ , p ^ ​ k ​ ] p ^ ​ b ​ ) = − i ℏ ε l ab ​ δ ak ​ p ^ ​ b ​ = − i ℏ ε l k b ​ p ^ ​ b ​ = i ℏ ε k l m ​ p ^ ​ m ​ ​
+위치 연산자와 동일하다.
+- [ p ^ k 2 , L ^ l ] = 2 i ℏ ∑ m ε k l m p ^ k p ^ m \displaystyle[\hat{p}_{k}^{2},\, \hat{L}_{l}]=2i \hbar \sum_{m} \varepsilon_{klm} \hat{p}_{k}\hat{p}_{m} [ p ^ ​ k 2 ​ , L ^ l ​ ] = 2 i ℏ m ∑ ​ ε k l m ​ p ^ ​ k ​ p ^ ​ m ​ [증명]
+[ p ^ k 2 , L ^ l ] = [ p ^ k p ^ k , L l ] = p ^ k [ p ^ k , L l ] + [ p ^ k , L l ] p ^ k = i ℏ ε k l m [ p ^ k p ^ m + p ^ m p ^ k ] = 2 i ℏ ε k l m p ^ k p ^ m \displaystyle \begin{aligned} [\hat{p}_{k}^{2},\, \hat{L}_{l}]&=[\hat{p}_{k}\hat{p}_{k},\, L_{l}] \\&=\hat{p}_{k}[\hat{p}_{k},\, L_{l}]+[\hat{p}_{k},\, L_{l}]\hat{p}_{k} \\&=i \hbar \varepsilon_{klm} [\hat{p}_{k}\hat{p}_{m}+\hat{p}_{m}\hat{p}_{k}]\\&=2i \hbar \varepsilon_{klm} \hat{p}_{k}\hat{p}_{m} \end{aligned} [ p ^ ​ k 2 ​ , L ^ l ​ ] ​ = [ p ^ ​ k ​ p ^ ​ k ​ , L l ​ ] = p ^ ​ k ​ [ p ^ ​ k ​ , L l ​ ] + [ p ^ ​ k ​ , L l ​ ] p ^ ​ k ​ = i ℏ ε k l m ​ [ p ^ ​ k ​ p ^ ​ m ​ + p ^ ​ m ​ p ^ ​ k ​ ] = 2 i ℏ ε k l m ​ p ^ ​ k ​ p ^ ​ m ​ ​
+- [ p ^ k 2 , L ^ ] = 0 [\hat{p}_{k}^{2},\, \mathbf{\hat{L}}]=\mathbf{0} [ p ^ ​ k 2 ​ , L ^ ] = 0 [증명]
+L ^ = ∑ l L ^ l e l \mathbf{\hat{L}}=\displaystyle \sum_{l} \hat{L}_{l} \mathbf{e}_{l} L ^ = l ∑ ​ L ^ l ​ e l ​ 이므로
+
+[ p ^ k 2 , L ^ ] = [ p ^ k 2 , ∑ l L ^ l e l ] = ∑ l e l [ p ^ k 2 , L ^ l ] = 2 i ℏ ∑ l ε k l m e l p ^ k p ^ m = 0 \displaystyle \begin{aligned} [\hat{p}_{k}^{2},\, \mathbf{\hat{L}}]&= \left[\hat{p}_{k}^{2},\, \sum_{l} \hat{L}_{l} \mathbf{e}_{l} \right] \\&=\sum_{l}\mathbf{e}_{l}[\hat{p}_{k}^{2},\, \hat{L}_{l}] \\&=2i \hbar\sum_{l}\varepsilon_{klm} \mathbf{e}_{l} \hat{p}_{k}\hat{p}_{m} \\&=\mathbf{0} \end{aligned} [ p ^ ​ k 2 ​ , L ^ ] ​ = [ p ^ ​ k 2 ​ , l ∑ ​ L ^ l ​ e l ​ ] = l ∑ ​ e l ​ [ p ^ ​ k 2 ​ , L ^ l ​ ] = 2 i ℏ l ∑ ​ ε k l m ​ e l ​ p ^ ​ k ​ p ^ ​ m ​ = 0 ​
+- [ p ^ 2 , L ^ l ] = 0 [\hat{p}^{2},\,\hat{L}_{l}]=0 [ p ^ ​ 2 , L ^ l ​ ] = 0 [증명]
+[ p ^ 2 , L ^ l ] = ∑ k [ p ^ k 2 , L ^ l ] = 2 i ℏ ∑ m , k ε k l m p ^ k p ^ m = 2 i ℏ ∑ m , k ε l m k p ^ k p ^ m = − 2 i ℏ ∑ m , k ε l k m p ^ k p ^ m \displaystyle \begin{aligned} [\hat{p}^{2},\,\hat{L}_{l}]&=\sum_{k}[\hat{p}_{k}^{2},\,\hat{L}_{l}] \\&=2i \hbar \sum_{m,\,k} \varepsilon_{klm} \hat{p}_{k}\hat{p}_{m} \\&=2i \hbar \sum_{m,\,k} \varepsilon_{lmk} \hat{p}_{k}\hat{p}_{m} \\&=-2i \hbar \sum_{m,\,k} \varepsilon_{lkm} \hat{p}_{k}\hat{p}_{m} \end{aligned} [ p ^ ​ 2 , L ^ l ​ ] ​ = k ∑ ​ [ p ^ ​ k 2 ​ , L ^ l ​ ] = 2 i ℏ m , k ∑ ​ ε k l m ​ p ^ ​ k ​ p ^ ​ m ​ = 2 i ℏ m , k ∑ ​ ε l mk ​ p ^ ​ k ​ p ^ ​ m ​ = − 2 i ℏ m , k ∑ ​ ε l k m ​ p ^ ​ k ​ p ^ ​ m ​ ​
+그런데, m m m , k k k 는 더미 변수이기 때문에
+
+∑ m , k ε l m k p ^ k p ^ m = − ∑ m , k ε l m k p ^ k p ^ m \displaystyle \begin{aligned} \sum_{m,\,k} \varepsilon_{lmk} \hat{p}_{k}\hat{p}_{m} =- \sum_{m,\,k} \varepsilon_{lmk} \hat{p}_{k}\hat{p}_{m} \end{aligned} m , k ∑ ​ ε l mk ​ p ^ ​ k ​ p ^ ​ m ​ = − m , k ∑ ​ ε l mk ​ p ^ ​ k ​ p ^ ​ m ​ ​
+이 성립하므로 이것은 곧 위 식의 값이 0임을 말한다.
+- [ p ^ 2 , L ^ 2 ] = 0 [\hat{p}^{2},\,\hat{L}^{2}]=0 [ p ^ ​ 2 , L ^ 2 ] = 0 [증명]
+[ p ^ k 2 , L ^ l 2 ] = L ^ l [ L ^ l , p ^ k 2 ] + [ L ^ l , p ^ k 2 ] L ^ l = L ^ l p ^ k [ p ^ k , L ^ l ] + L ^ l [ p ^ k , L ^ l ] p ^ k + p ^ k [ p ^ k , L ^ l ] L ^ l + [ p ^ k , L ^ l ] p ^ k L ^ l = i ℏ ε k l m [ L ^ l p ^ k p ^ m + L ^ l p ^ m p ^ k + p ^ k p ^ m L ^ l + p ^ m p k L ^ l ] = 2 i ℏ ε k l m [ L ^ l p ^ k p ^ m + p ^ k p ^ m L ^ l ] = − 2 ℏ 2 ε k l m ε l a b [ x ^ a p ^ b p ^ k p ^ m + p ^ k p ^ m x ^ a p ^ b ] = − 2 ℏ 2 ε l m k ε l a b [ x ^ a p ^ b p ^ k p ^ m + p ^ k p ^ m x ^ a p ^ b ] = − 2 ℏ 2 ( δ m a δ k b − δ m b δ k a ) [ x ^ a p ^ b p ^ k p ^ m + p ^ k p ^ m x ^ a p ^ b ] = − 2 ℏ 2 ∑ m ≠ k [ x ^ m p ^ k p ^ k p ^ m − x ^ k p ^ m p ^ k p ^ m + p ^ k p ^ m x ^ m p ^ k − x ^ k p ^ m p ^ k p ^ m ] = − 2 ℏ 2 ∑ m ≠ k [ x ^ m p ^ k p ^ k p ^ m − x ^ m p ^ k p ^ k p ^ m + p ^ k p ^ m x ^ m p ^ k − p ^ k p ^ m x ^ m p ^ k ] = 0 [ p ^ 2 , L ^ l 2 ] = ∑ k [ p ^ k 2 , L ^ l 2 ] = 0 ∴ [ p ^ 2 , L ^ 2 ] = ∑ l [ p ^ 2 , L ^ l 2 ] = 0 \displaystyle \begin{aligned} [\hat{p}_{k}^{2},\, \hat{L}_{l}^{2}]&=\hat{L}_{l}[\hat{L}_{l},\,\hat{p}_{k}^{2}]+[\hat{L}_{l},\,\hat{p}_{k}^{2}]\hat{L}_{l}\\ &=\hat{L}_{l}\hat{p}_{k}[\hat{p}_{k},\,\hat{L}_{l}]+\hat{L}_{l}[\hat{p}_{k},\,\hat{L}_{l}]\hat{p}_{k}+\hat{p}_{k}[\hat{p}_{k},\,\hat{L}_{l}]\hat{L}_{l}+[\hat{p}_{k},\,\hat{L}_{l}]\hat{p}_{k}\hat{L}_{l} \\&=i\hbar \varepsilon_{klm}[ \hat{L}_{l}\hat{p}_{k}\hat{p}_{m}+\hat{L}_{l}\hat{p}_{m}\hat{p}_{k}+\hat{p}_{k}\hat{p}_{m}\hat{L}_{l}+ \hat{p}_{m}{p}_{k} \hat{L}_{l} ] \\&=2i\hbar \varepsilon_{klm} [ \hat{L}_{l}\hat{p}_{k}\hat{p}_{m}+\hat{p}_{k}\hat{p}_{m}\hat{L}_{l} ]\\&=-2\hbar^{2} \varepsilon_{klm}\varepsilon_{lab} [ \hat{x}_{a}\hat{p}_{b} \hat{p}_{k}\hat{p}_{m}+\hat{p}_{k}\hat{p}_{m}\hat{x}_{a}\hat{p}_{b} ] \\ &=-2\hbar^{2} \varepsilon_{lmk}\varepsilon_{lab} [ \hat{x}_{a}\hat{p}_{b} \hat{p}_{k}\hat{p}_{m}+\hat{p}_{k}\hat{p}_{m}\hat{x}_{a}\hat{p}_{b} ] \\ &=-2\hbar^{2}(\delta_{ma}\delta_{kb}-\delta_{mb}\delta_{ka})[ \hat{x}_{a}\hat{p}_{b} \hat{p}_{k}\hat{p}_{m}+\hat{p}_{k}\hat{p}_{m}\hat{x}_{a}\hat{p}_{b} ] \\ &=-2\hbar^{2}\sum_{m \neq k}[ \hat{x}_{m}\hat{p}_{k} \hat{p}_{k}\hat{p}_{m}-\hat{x}_{k}\hat{p}_{m} \hat{p}_{k}\hat{p}_{m}+\hat{p}_{k}\hat{p}_{m}\hat{x}_{m}\hat{p}_{k}-\hat{x}_{k}\hat{p}_{m} \hat{p}_{k}\hat{p}_{m} ] \\ &=-2\hbar^{2}\sum_{m \neq k}[ \hat{x}_{m}\hat{p}_{k} \hat{p}_{k}\hat{p}_{m}-\hat{x}_{m}\hat{p}_{k} \hat{p}_{k}\hat{p}_{m}+\hat{p}_{k}\hat{p}_{m}\hat{x}_{m}\hat{p}_{k}-\hat{p}_{k}\hat{p}_{m}\hat{x}_{m}\hat{p}_{k} ] \\&=0 \\ \\ [\hat{p}^{2},\,\hat{L}_{l}^{2}]&=\sum_{k}[\hat{p}_{k}^{2},\,\hat{L}_{l}^{2}] \\&=0 \\ \\ \therefore [\hat{p}^{2},\,\hat{L}^{2}]&=\sum_{l}[\hat{p}^{2},\,\hat{L}_{l}^{2}] \\&=0 \end{aligned} [ p ^ ​ k 2 ​ , L ^ l 2 ​ ] [ p ^ ​ 2 , L ^ l 2 ​ ] ∴ [ p ^ ​ 2 , L ^ 2 ] ​ = L ^ l ​ [ L ^ l ​ , p ^ ​ k 2 ​ ] + [ L ^ l ​ , p ^ ​ k 2 ​ ] L ^ l ​ = L ^ l ​ p ^ ​ k ​ [ p ^ ​ k ​ , L ^ l ​ ] + L ^ l ​ [ p ^ ​ k ​ , L ^ l ​ ] p ^ ​ k ​ + p ^ ​ k ​ [ p ^ ​ k ​ , L ^ l ​ ] L ^ l ​ + [ p ^ ​ k ​ , L ^ l ​ ] p ^ ​ k ​ L ^ l ​ = i ℏ ε k l m ​ [ L ^ l ​ p ^ ​ k ​ p ^ ​ m ​ + L ^ l ​ p ^ ​ m ​ p ^ ​ k ​ + p ^ ​ k ​ p ^ ​ m ​ L ^ l ​ + p ^ ​ m ​ p k ​ L ^ l ​ ] = 2 i ℏ ε k l m ​ [ L ^ l ​ p ^ ​ k ​ p ^ ​ m ​ + p ^ ​ k ​ p ^ ​ m ​ L ^ l ​ ] = − 2 ℏ 2 ε k l m ​ ε l ab ​ [ x ^ a ​ p ^ ​ b ​ p ^ ​ k ​ p ^ ​ m ​ + p ^ ​ k ​ p ^ ​ m ​ x ^ a ​ p ^ ​ b ​ ] = − 2 ℏ 2 ε l mk ​ ε l ab ​ [ x ^ a ​ p ^ ​ b ​ p ^ ​ k ​ p ^ ​ m ​ + p ^ ​ k ​ p ^ ​ m ​ x ^ a ​ p ^ ​ b ​ ] = − 2 ℏ 2 ( δ ma ​ δ k b ​ − δ mb ​ δ k a ​ ) [ x ^ a ​ p ^ ​ b ​ p ^ ​ k ​ p ^ ​ m ​ + p ^ ​ k ​ p ^ ​ m ​ x ^ a ​ p ^ ​ b ​ ] = − 2 ℏ 2 m  = k ∑ ​ [ x ^ m ​ p ^ ​ k ​ p ^ ​ k ​ p ^ ​ m ​ − x ^ k ​ p ^ ​ m ​ p ^ ​ k ​ p ^ ​ m ​ + p ^ ​ k ​ p ^ ​ m ​ x ^ m ​ p ^ ​ k ​ − x ^ k ​ p ^ ​ m ​ p ^ ​ k ​ p ^ ​ m ​ ] = − 2 ℏ 2 m  = k ∑ ​ [ x ^ m ​ p ^ ​ k ​ p ^ ​ k ​ p ^ ​ m ​ − x ^ m ​ p ^ ​ k ​ p ^ ​ k ​ p ^ ​ m ​ + p ^ ​ k ​ p ^ ​ m ​ x ^ m ​ p ^ ​ k ​ − p ^ ​ k ​ p ^ ​ m ​ x ^ m ​ p ^ ​ k ​ ] = 0 = k ∑ ​ [ p ^ ​ k 2 ​ , L ^ l 2 ​ ] = 0 = l ∑ ​ [ p ^ ​ 2 , L ^ l 2 ​ ] = 0 ​
+- [ p ^ 2 , L ^ ] = 0 [\hat{p}^{2},\,\mathbf{\hat{L}}]=\mathbf{0} [ p ^ ​ 2 , L ^ ] = 0 [증명]
+[ p ^ 2 , L ^ ] = ∑ k [ p ^ k 2 , L ^ ] = 0 \displaystyle \begin{aligned} [\hat{p}^{2},\, \mathbf{\hat{L}}]&= \sum_{k}[\hat{p}_{k}^{2},\, \mathbf{\hat{L}}] \\&=\mathbf{0} \end{aligned} [ p ^ ​ 2 , L ^ ] ​ = k ∑ ​ [ p ^ ​ k 2 ​ , L ^ ] = 0 ​
+
+7.1.1. 운동 에너지 연산자와의 교환자 관계 [편집]
+운동 에너지 연산자
+
+T ^ = p ^ 2 2 m \displaystyle \begin{aligned} \hat{T}=\frac{\hat{p}^{2}}{2m}\end{aligned} T ^ = 2 m p ^ ​ 2 ​ ​
+이 성립하고, 위 문단으로부터
+
+[ p ^ 2 , L ^ 2 ] = [ p ^ 2 , L ^ l ] = 0 \displaystyle \begin{aligned} [\hat{p}^{2},\,\hat{L}^{2}]=[\hat{p}^{2},\,\hat{L}_{l}]=0 \end{aligned} [ p ^ ​ 2 , L ^ 2 ] = [ p ^ ​ 2 , L ^ l ​ ] = 0 ​
+임을 증명한 바 있으므로
+
+[ T ^ , L ^ 2 ] = [ T ^ , L ^ l ] = 0 \displaystyle \begin{aligned} [\hat{T},\,\hat{L}^{2}]=[\hat{T},\,\hat{L}_{l}]=0 \end{aligned} [ T ^ , L ^ 2 ] = [ T ^ , L ^ l ​ ] = 0 ​
+즉, 각운동량 제곱 연산자와 각운동량의 한축에 대한 성분 연산자는 운동 에너지 연산자와 교환하며, 이들은 동시 가측량이자 공통의 고유함수를 가진다. 한편, 자유입자의 경우 퍼텐셜은 없기 때문에 해밀토니언 연산자는 운동 에너지 연산자와 같으므로
+
+[ H ^ , L ^ 2 ] = [ H ^ , L ^ l ] = 0 \displaystyle \begin{aligned} [\hat{\mathcal{H}},\,\hat{L}^{2}]=[\hat{\mathcal{H}},\,\hat{L}_{l}]=0 \end{aligned} [ H ^ , L ^ 2 ] = [ H ^ , L ^ l ​ ] = 0 ​
+이 성립한다.
+
+또한 윗 문단에서 [ p ^ 2 , L ^ ] = 0 [\hat{p}^{2},\,\mathbf{\hat{L}}]=\mathbf{0} [ p ^ ​ 2 , L ^ ] = 0 임을 증명했으므로 위와 같은 논리로
+
+[ T ^ , L ^ ] = 0 \displaystyle \begin{aligned} [\hat{T},\,\mathbf{\hat{L}}]=\mathbf{0} \end{aligned} [ T ^ , L ^ ] = 0 ​
+자유입자의 경우 [ H ^ , L ^ ] = 0 [\hat{\mathcal{H}},\,\mathbf{\hat{L}}]=\mathbf{0} [ H ^ , L ^ ] = 0 이다.
+
+7.2. 궤도 각운동량 기대치의 시간 변화 [편집]
+스핀이 없는 3차원상의 자유입자를 생각하자. 이 입자에 대한 해밀토니언 연산자에 대하여
+
+[ H ^ , L ^ ] = 0 \displaystyle \begin{aligned} [ \hat{\mathcal{H}},\, \mathbf{\hat{L}}]=\mathbf{0} \end{aligned} [ H ^ , L ^ ] = 0 ​
+임을 위에서 증명했다.
+
+양자역학에서 기대치의 시간 전개는 다음과 같이 주어진다.
+
+d ⟨ A ⟩ d t = i ℏ ⟨ [ H ^ , A ^ ] ⟩ + ⟨ ∂ A ^ ∂ t ⟩ \displaystyle \begin{aligned} \frac{{\rm d}\langle A \rangle}{{\rm d}t}=\frac{i}{\hbar}\langle [\hat{\mathcal H},\,\hat{A}] \rangle +\biggl\langle \frac{\partial \hat{A}}{\partial t} \biggr\rangle \end{aligned} d t d ⟨ A ⟩ ​ = ℏ i ​ ⟨[ H ^ , A ^ ]⟩ + ⟨ ∂ t ∂ A ^ ​ ⟩ ​
+각운동량 연산자는 시간에 의존하지 않기 때문에 ∂ L ^ / ∂ t = 0 {\partial \mathbf{\hat{L}}}/{\partial t}=\mathbf{0} ∂ L ^ / ∂ t = 0 이므로
+
+d ⟨ L ⟩ d t = 0 \displaystyle \begin{aligned} \frac{{\rm d}\langle \mathbf{L} \rangle}{{\rm d}t}= \mathbf{0} \end{aligned} d t d ⟨ L ⟩ ​ = 0 ​
+고전역학에서 봤던 외력(외부 토크)이 없는 입자의 각운동량이 보존된다는 것과 유사한 결과를 얻었다.
+
+허나, 고전역학의 경우 각운동량이 보존될 때, 운동은 한 평면에 기술된다는 결과를 얻었으나, 양자역학에서는 그러한 결론을 낼 수 없음에 유의해야 한다.
+
+7.3. 회전 연산자 [편집]
+양자역학적으로 상태를 회전시키는 연산자가 존재하는가? 연산자 문서에 나와있듯 그러한 연산자는 존재한다. 다만, 여기서는 간단한 초급적인 수학을 이용해서 그 연산자를 유도해보고자 한다. 회전은 각운동량과 관련이 있으므로 이 연산자가 포함될 것으로 기대된다.
+
+어떠한 축과 평행한 단위벡터 n ^ \mathbf{\hat{n}} n ^ 을 고려하자.(이때 오른손 법칙을 만족하게 잡는다.) 이때, 축과 수직한 평면에서 무한소의 각만큼의 각 변화 δ ϕ \delta \phi δ ϕ 를 일으켰다고 하자. [7] 다음을 약속한다.
+
+δ ϕ : = δ ϕ n \displaystyle \delta \boldsymbol{\phi} := \delta \phi \,\mathbf{n} δ ϕ := δ ϕ n
+한편, 이에 따른 변위
+
+δ r = δ ϕ × r \displaystyle \delta \mathbf{r} = \delta \boldsymbol{\phi} \times \mathbf{r} δ r = δ ϕ × r
+로 주어진다.
+
+어떠한 상태 f ( r ) f(\mathbf{r}) f ( r ) 을 고려했을 때, 이러한 회전이 이루어지고 난 후의 상태는 f ( r − δ r ) f(\mathbf{r}-\delta \mathbf{r}) f ( r − δ r ) 이다. δ r \delta r δ r 이 매우 작기 때문에 1차항까지 전개하면
+
+f ( r − δ r ) = f ( r ) − ∇ f ( r ) ⋅ δ r = f ( r ) − ∇ f ( r ) ⋅ ( δ ϕ × r ) = f ( r ) + δ ϕ ⋅ ( r × ∇ f ( r ) ) \displaystyle \begin{aligned} f(\mathbf{r}-\delta \mathbf{r}) &= f(\mathbf{r})-\boldsymbol{\nabla}f(\mathbf{r}) \boldsymbol{\cdot} \delta \mathbf{r} \\ &=f(\mathbf{r})-\boldsymbol{\nabla}f(\mathbf{r}) \boldsymbol{\cdot} (\delta \boldsymbol{\phi} \times \mathbf{r}) \\ &=f(\mathbf{r})+ \delta \boldsymbol{\phi} \boldsymbol{\cdot} (\mathbf{r} \times \boldsymbol{\nabla}f(\mathbf{r}) ) \end{aligned} f ( r − δ r ) ​ = f ( r ) − ∇ f ( r ) ⋅ δ r = f ( r ) − ∇ f ( r ) ⋅ ( δ ϕ × r ) = f ( r ) + δ ϕ ⋅ ( r × ∇ f ( r )) ​
+한편, 각운동량 연산자
+
+L ^ = r ^ × p ^ = − i ℏ r ^ × ∇ ⇔ r ^ × ∇ = i ℏ L ^ \displaystyle {\begin{aligned} \mathbf{\hat{L}}&=\mathbf{\hat{r}} \times \mathbf{\hat{p}} \\ &=-i\hbar \mathbf{\hat{r}} \times \boldsymbol{\nabla} \end{aligned}} \quad \Leftrightarrow \quad \mathbf{\hat{r}} \times \boldsymbol{\nabla}=\frac{i}{\hbar} \mathbf{\hat{L}} L ^ ​ = r ^ × p ^ ​ = − i ℏ r ^ × ∇ ​ ⇔ r ^ × ∇ = ℏ i ​ L ^
+이것을 사용하면,
+
+f ( r − δ r ) = f ( r ) + δ ϕ ⋅ L ^ f ( r ) = ( I ^ − i ℏ δ ϕ ⋅ L ^ ) f ( r ) \displaystyle \begin{aligned} f(\mathbf{r}-\delta \mathbf{r})&=f(\mathbf{r})+ \delta \boldsymbol{\phi} \boldsymbol{\cdot} \mathbf{\hat{L}} f(\mathbf{r}) \\&=\left(\hat{I}-\frac{i}{\hbar} \delta \boldsymbol{\phi} \boldsymbol{\cdot} \mathbf{\hat{L}} \right)f(\mathbf{r}) \end{aligned} f ( r − δ r ) ​ = f ( r ) + δ ϕ ⋅ L ^ f ( r ) = ( I ^ − ℏ i ​ δ ϕ ⋅ L ^ ) f ( r ) ​
+I ^ \hat{I} I ^ 는 항등 연산자, 즉 자기 자신을 내놓는 연산자이다. 이때 좌변은 곧 상태를 δ ϕ \delta \phi δ ϕ 만큼 회전시키는 연산자라 볼 수 있다.
+
+그렇다면 Δ ϕ : = Φ ≫ 1 \Delta \phi:=\Phi \gg 1 Δ ϕ := Φ ≫ 1 만큼 회전시키는 나타내는 연산자는 어떻게 구해야 할까? 무한소각 δ ϕ \delta \phi δ ϕ 를 다음과 같이 쓰자.
+
+δ ϕ = lim ⁡ N → ∞ Φ N \displaystyle \begin{aligned} \delta \phi=\lim_{N \to \infty} \frac{\Phi}{N} \end{aligned} δ ϕ = N → ∞ lim ​ N Φ ​ ​
+또한 무한소각만큼의 회전을 무한히 반복하면 곧 일반적인 각 만큼의 회전에 도달할 것으로 기대되므로 구하는 연산자는 무한소각만큼 회전시키는 연산자를 무한히 상태에 작용시켜야 한다. 즉,
+
+R ^ = lim ⁡ N → ∞ ( I ^ − i ℏ Φ N ⋅ L ^ ) N = lim ⁡ N → ∞ ( I ^ − i ℏ Φ ⋅ L ^ ⋅ 1 N ) N \displaystyle \begin{aligned} \hat{R}&=\lim_{N \to \infty} \left(\hat{I}-\frac{i}{\hbar} \frac{\boldsymbol{\Phi}}{N} \boldsymbol{\cdot} \mathbf{\hat{L}} \right)^{N} \\&= \lim_{N \to \infty} \left(\hat{I}-\frac{i}{\hbar} \boldsymbol{\Phi} \boldsymbol{\cdot} \mathbf{\hat{L}} \cdot \frac{1}{N} \right)^{N} \end{aligned} R ^ ​ = N → ∞ lim ​ ( I ^ − ℏ i ​ N Φ ​ ⋅ L ^ ) N = N → ∞ lim ​ ( I ^ − ℏ i ​ Φ ⋅ L ^ ⋅ N 1 ​ ) N ​
+자연로그의 밑 의 정의를 사용하면
+
+e a = lim ⁡ x → ∞ ( 1 + a x ) x \displaystyle \begin{aligned} e^{a}=\lim_{x \to \infty} \left( 1+\frac{a}{x} \right)^{x} \end{aligned} e a = x → ∞ lim ​ ( 1 + x a ​ ) x ​
+이기 때문에 다음을 얻는다.
+
+R ^ = exp ⁡ ( − i ℏ Φ ⋅ L ^ ) \displaystyle \begin{aligned} \hat{R}=\exp{\biggl(-\frac{i}{\hbar} \boldsymbol{\Phi} \boldsymbol{\cdot} \mathbf{\hat{L}} \biggr)} \end{aligned} R ^ = exp ( − ℏ i ​ Φ ⋅ L ^ ) ​
+이때,
+
+R ^ ≠ exp ⁡ ( − i ℏ Φ x L ^ x ) exp ⁡ ( − i ℏ Φ y L ^ y ) exp ⁡ ( − i ℏ Φ z L ^ z ) \displaystyle \begin{aligned} \hat{R} \neq \exp{\biggl(-\frac{i}{\hbar} \Phi_{x} \hat{L}_{x} \biggr)} \exp{\biggl(-\frac{i}{\hbar} \Phi_{y} \hat{L}_{y} \biggr)} \exp{\biggl(-\frac{i}{\hbar} \Phi_{z} \hat{L}_{z} \biggr)} \end{aligned} R ^  = exp ( − ℏ i ​ Φ x ​ L ^ x ​ ) exp ( − ℏ i ​ Φ y ​ L ^ y ​ ) exp ( − ℏ i ​ Φ z ​ L ^ z ​ ) ​
+임에 유의해야 한다. 그 이유는 위 연산이 연산자에 관한 것이라는 점과 각 축의 성분에 대한 각운동량 연산자는 서로 교환하지 않는 점 때문이다.
+
+간단한 경우로 Φ = e z ϕ \boldsymbol{\Phi}=\mathbf{e}_{z}\phi Φ = e z ​ ϕ 인 경우를 고려하면,
+
+R ^ = exp ⁡ ( − i ℏ ϕ L ^ z ) \displaystyle \begin{aligned} \hat{R}=\exp{\biggl(-\frac{i}{\hbar} \phi \hat{L}_{z} \biggr)} \end{aligned} R ^ = exp ( − ℏ i ​ ϕ L ^ z ​ ) ​
+이것은 상태를 z z z 축을 회전축으로 하여 회전시키는 연산자가 된다.
+
+쉽게 생각하기 위해서 회전축이 z z z 축인 경우에 한해서 생각해보자. 이때 역회전은 무엇일까? − ϕ -\phi − ϕ 만큼 회전시키는 것과 같을 것이다.
+
+R ^ − 1 = exp ⁡ ( i ℏ ϕ L ^ z ) \displaystyle \begin{aligned} \hat{R}^{-1}=\exp{\biggl(\frac{i}{\hbar} \phi \hat{L}_{z} \biggr)} \end{aligned} R ^ − 1 = exp ( ℏ i ​ ϕ L ^ z ​ ) ​
+이것은 곧
+
+R ^ − 1 R ^ = I ^ \displaystyle \begin{aligned} \hat{R}^{-1}\hat{R}=\hat{I} \end{aligned} R ^ − 1 R ^ = I ^ ​
+를 의미한다. 한편,
+
+R ^ † = ∑ k 1 k ! [ ( − i ℏ ϕ L ^ z ) k ] † = ∑ k 1 k ! [ ( − i ℏ ϕ L ^ z ) † ] k = ∑ k 1 k ! [ ( i ℏ ϕ L ^ z † ) ] k \displaystyle \begin{aligned} \hat{R}^{\dagger}&=\sum_{k} \frac{1}{k!} \left[ \left( -\frac{i}{\hbar}\phi \hat{L}_{z} \right)^{k} \right]^{\dagger} \\&=\sum_{k} \frac{1}{k!} \left[ \left( -\frac{i}{\hbar}\phi \hat{L}_{z} \right)^{\dagger} \right]^{k} \\&= \sum_{k} \frac{1}{k!} \left[ \left( \frac{i}{\hbar}\phi \hat{L}_{z}^{\dagger} \right)\right]^{k} \end{aligned} R ^ † ​ = k ∑ ​ k ! 1 ​ [ ( − ℏ i ​ ϕ L ^ z ​ ) k ] † = k ∑ ​ k ! 1 ​ [ ( − ℏ i ​ ϕ L ^ z ​ ) † ] k = k ∑ ​ k ! 1 ​ [ ( ℏ i ​ ϕ L ^ z † ​ ) ] k ​
+이때, L ^ z \hat{L}_{z} L ^ z ​ 는 자기 수반이므로
+
+R ^ † = ∑ k 1 k ! [ ( i ℏ ϕ L ^ z ) ] k = exp ⁡ ( i ℏ ϕ L ^ z ) = R ^ − 1 \displaystyle \begin{aligned} \hat{R}^{\dagger}&= \sum_{k} \frac{1}{k!} \left[ \left( \frac{i}{\hbar}\phi \hat{L}_{z} \right)\right]^{k} \\&= \exp{\biggl(\frac{i}{\hbar} \phi \hat{L}_{z} \biggr)} \\&=\hat{R}^{-1} \end{aligned} R ^ † ​ = k ∑ ​ k ! 1 ​ [ ( ℏ i ​ ϕ L ^ z ​ ) ] k = exp ( ℏ i ​ ϕ L ^ z ​ ) = R ^ − 1 ​
+따라서 다음이 성립한다.
+
+R ^ † R ^ = I ^ \displaystyle \begin{aligned} \hat{R}^{\dagger} \hat{R}=\hat{I} \end{aligned} R ^ † R ^ = I ^ ​
+이러한 연산자를 유니터리 연산자 (unitary operator)라 한다. 유사한 논의를 거쳐 다음 또한 성립함을 알 수 있다.
+
+R ^ R ^ † = I ^ \displaystyle \begin{aligned}\hat{R} \hat{R}^{\dagger} =\hat{I} \end{aligned} R ^ R ^ † = I ^ ​
+쉬운 유도를 위해 특수한 경우만을 생각했지만 실제론 임의의 축에 대한 회전 연산자 또한 성립한다.
+
+이 문단은 엄밀하게 유도되거나 증명된 것은 아니다. 깊게 파고들면 곧 군론 과 맞닥뜨리게 되고, 생각보다 깊은 수준의 선형대수학 이 필요하다.
+
+7.4. 다시 찾아본 각운동량 보존 [편집]
+아무 것도 없는 우주상에서 (자유) 입자를 관측한다고 생각해보자. 회전 연산자를 상태에 가하면 이 상태는 한 축을 기준으로 회전이 가해지게 된다.
+
+회전하기 전 기술되는 상태를 ∣ r ⟩| \mathbf{r} \rangle ∣ r ⟩ 이라 해보자. 이때, 해밀토니언은
+
+⟨ H ⟩ = ⟨ r ∣ H ^ ∣ r ⟩ \displaystyle \begin{aligned} \langle \mathcal H \rangle = \langle \mathbf{r} |\hat{\mathcal H}| \mathbf{r} \rangle \end{aligned} ⟨ H ⟩ = ⟨ r ∣ H ^ ∣ r ⟩ ​
+이다. 그런데 약간의 (무한소각의) 회전을 했다고 한 순간에 했다고 생각해보자. 공간이 등방적이기 때문에 해밀토니언은 회전(관찰자가 관측하는 "회전 상태"가 아니다.)에 무관해야 한다. [8] [9] 즉,
+
+⟨ H ⟩ = ⟨ r + δ r ∣ H ^ ∣ r + δ r ⟩ \displaystyle \begin{aligned} \langle \mathcal H \rangle = \langle \mathbf{r}+\delta \mathbf{r} |\hat{\mathcal H}| \mathbf{r}+\delta \mathbf{r} \rangle \end{aligned} ⟨ H ⟩ = ⟨ r + δ r ∣ H ^ ∣ r + δ r ⟩ ​
+한편,
+
+∣ r + δ r ⟩ = R ^ ∣ r ⟩ ⟨ r + δ r ∣ = ⟨ R ^ r ∣ = ⟨ r ∣ R ^ † \displaystyle \begin{aligned} | \mathbf{r}+\delta \mathbf{r} \rangle &= \hat{R} | \mathbf{r} \rangle \\ \langle \mathbf{r}+\delta \mathbf{r} | &= \langle \hat{R} \mathbf{r} | \\&=\langle \mathbf{r} | \hat{R}^{\dagger} \end{aligned} ∣ r + δ r ⟩ ⟨ r + δ r ∣ ​ = R ^ ∣ r ⟩ = ⟨ R ^ r ∣ = ⟨ r ∣ R ^ † ​
+이므로 위 식을 다음과 같이 쓸 수 있다.
+
+⟨ H ⟩ = ⟨ r ∣ R ^ † H ^ R ^ ∣ r ⟩ \displaystyle \begin{aligned} \langle \mathcal H \rangle = \langle \mathbf{r} |\hat{R}^{\dagger}\hat{\mathcal H} \hat{R} | \mathbf{r} \rangle \end{aligned} ⟨ H ⟩ = ⟨ r ∣ R ^ † H ^ R ^ ∣ r ⟩ ​
+이상에서
+
+H ^ = R ^ † H ^ R ^ \displaystyle \begin{aligned} \hat{\mathcal H} = \hat{R}^{\dagger}\hat{\mathcal H} \hat{R} \end{aligned} H ^ = R ^ † H ^ R ^ ​
+R ^ \hat{R} R ^ 은 유니터리 연산자이기 때문에 R ^ R ^ † = I ^ \hat{R}\hat{R}^{\dagger}=\hat{I} R ^ R ^ † = I ^ 이므로 양변에 R ^ \hat{R} R ^ 을 곱하고 정리하면,
+
+H ^ R ^ − R ^ H ^ = [ H ^ , R ^ ] = 0 \displaystyle \begin{aligned} \hat{\mathcal H} \hat{R}-\hat{R} \hat{\mathcal H} =[\hat{\mathcal H},\,\hat{R}]=0 \end{aligned} H ^ R ^ − R ^ H ^ = [ H ^ , R ^ ] = 0 ​
+그런데
+
+R ^ = I ^ − i ℏ δ ϕ ⋅ L ^ \displaystyle \begin{aligned} \hat{R}=\hat{I}-\frac{i}{\hbar} \delta\boldsymbol{\phi} \boldsymbol{\cdot} \mathbf{\hat{L}} \end{aligned} R ^ = I ^ − ℏ i ​ δ ϕ ⋅ L ^ ​
+항등 연산자는 해밀토니언 연산자와 교환하며, 이에 따라
+
+[ H ^ , δ ϕ ⋅ L ^ ] = δ ϕ ⋅ [ H ^ , L ^ ] = 0 \displaystyle \begin{aligned} [\hat{\mathcal H},\,\delta\boldsymbol{\phi} \boldsymbol{\cdot}\mathbf{\hat{L}}]=\delta\boldsymbol{\phi} \boldsymbol{\cdot} [\hat{\mathcal H},\,\mathbf{\hat{L}}]=0 \end{aligned} [ H ^ , δ ϕ ⋅ L ^ ] = δ ϕ ⋅ [ H ^ , L ^ ] = 0 ​
+를 만족시켜야 하는데, 임의의 회전을 고려하므로
+
+[ H ^ , L ^ ] = 0 \displaystyle \begin{aligned} [\hat{\mathcal H},\,\mathbf{\hat{L}}]=0 \end{aligned} [ H ^ , L ^ ] = 0 ​
+이것은 곧 다음을 의미한다.
+
+d ⟨ L ⟩ d t = 0 \displaystyle \begin{aligned} \frac{{\rm d}\langle \mathbf{L} \rangle}{{\rm d}t}= \mathbf{0} \end{aligned} d t d ⟨ L ⟩ ​ = 0 ​
+즉, 공간의 등방성은 각운동량의 보존을 이끌어낸다는 것이 양자역학에서도 확인된 것이다.
+
+7.5. 궤도 각운동량의 덧셈 [편집]
+스핀이 없는 입자가 두 개 있는 경우를 생각해보자. (물론, 여러 개 있는 경우도 가능할 것이나 수준상 두 개인 경우만 다루도록 하자.) 두 입자는 상호작용하지 않는다고 가정하자.
+
+이 계의 총 각운동량은
+
+L = L 1 + L 2 \displaystyle \begin{aligned} \mathbf{L}=\mathbf{L}_{1}+\mathbf{L}_{2} \end{aligned} L = L 1 ​ + L 2 ​ ​
+로 나타낼 수 있을 것이므로 연산자 연산 또한
+
+L ^ = L ^ 1 + L ^ 2 \displaystyle \begin{aligned} \mathbf{\hat{L}}=\mathbf{\hat{L}}_{1}+\mathbf{\hat{L}}_{2} \end{aligned} L ^ = L ^ 1 ​ + L ^ 2 ​ ​
+으로 나타낼 수 있다. 한편, 서로 다른 입자에 대한 연산자는 서로 교환한다.
+
+[ L ^ j 1 , L ^ j 2 ] = 0 \displaystyle \begin{aligned} [\hat{L}_{j1},\,\hat{L}_{j2}]=0 \end{aligned} [ L ^ j 1 ​ , L ^ j 2 ​ ] = 0 ​
+
+교환자 관계
+
+[ L ^ 2 , L ^ z ] = [ L ^ 2 , L ^ z 1 ] + [ L ^ 2 , L ^ z 2 ] \displaystyle \begin{aligned} [\hat{L}^{2},\,\hat{L}_{z}]=[\hat{L}^{2},\,\hat{L}_{z1}]+[\hat{L}^{2},\,\hat{L}_{z2}] \end{aligned} [ L ^ 2 , L ^ z ​ ] = [ L ^ 2 , L ^ z 1 ​ ] + [ L ^ 2 , L ^ z 2 ​ ] ​
+를 조사해보자. 한편,
+
+L ^ 2 = L ^ ⋅ L ^ = ( L ^ 1 + L ^ 2 ) ⋅ ( L ^ 1 + L ^ 2 ) = L ^ 1 2 + L ^ 2 2 + 2 L ^ 1 ⋅ L ^ 2 \displaystyle \begin{aligned} \hat{L}^{2}&=\mathbf{\hat{L}} \boldsymbol{\cdot} \mathbf{\hat{L}} \\ &=(\mathbf{\hat{L}}_{1}+\mathbf{\hat{L}}_{2}) \boldsymbol{\cdot} (\mathbf{\hat{L}}_{1}+\mathbf{\hat{L}}_{2}) \\&=\hat{L}_{1}^{2}+\hat{L}_{2}^{2}+2\mathbf{\hat{L}}_{1} \boldsymbol{\cdot} \mathbf{\hat{L}}_{2} \end{aligned} L ^ 2 ​ = L ^ ⋅ L ^ = ( L ^ 1 ​ + L ^ 2 ​ ) ⋅ ( L ^ 1 ​ + L ^ 2 ​ ) = L ^ 1 2 ​ + L ^ 2 2 ​ + 2 L ^ 1 ​ ⋅ L ^ 2 ​ ​
+각 각운동량 연산자는 궤도 각운동량의 기본적인 교환자 관계를 만족한다. 즉, 계산에 기여하는 것은
+
+2 { [ L ^ 1 ⋅ L ^ 2 , L ^ z 1 ] + [ L ^ 1 ⋅ L ^ 2 , L ^ z 2 ] } = 2 { [ L ^ 1 , L ^ z 1 ] ⋅ L ^ 2 + L ^ 1 ⋅ [ L ^ 2 , L ^ z 2 ] } \displaystyle \begin{aligned} 2 \{ [\mathbf{\hat{L}}_{1} \boldsymbol{\cdot} \mathbf{\hat{L}}_{2},\,\hat{L}_{z1}]+[\mathbf{\hat{L}}_{1} \boldsymbol{\cdot} \mathbf{\hat{L}}_{2},\,\hat{L}_{z2}] \}&=2 \{ [\mathbf{\hat{L}}_{1} ,\,\hat{L}_{z1}]\boldsymbol{\cdot} \mathbf{\hat{L}}_{2}+\mathbf{\hat{L}}_{1} \boldsymbol{\cdot}[ \mathbf{\hat{L}}_{2},\,\hat{L}_{z2}] \} \end{aligned} 2 {[ L ^ 1 ​ ⋅ L ^ 2 ​ , L ^ z 1 ​ ] + [ L ^ 1 ​ ⋅ L ^ 2 ​ , L ^ z 2 ​ ]} ​ = 2 {[ L ^ 1 ​ , L ^ z 1 ​ ] ⋅ L ^ 2 ​ + L ^ 1 ​ ⋅ [ L ^ 2 ​ , L ^ z 2 ​ ]} ​
+다음을 이용하면,
+
+[ L ^ 1 , L ^ z 1 ] = e x [ L ^ x 1 , L ^ z 1 ] + e y [ L ^ y 1 , L ^ z 1 ] + e z [ L ^ z 1 , L ^ z 1 ] = i ℏ { − e x L ^ y 1 + e y L ^ x 1 } [ L ^ 2 , L ^ z 2 ] = i ℏ { − e x L ^ y 2 + e y L ^ x 2 } \displaystyle \begin{aligned} [\mathbf{\hat{L}}_{1} ,\,\hat{L}_{z1}]&=\mathbf{e}_{x}[\hat{L}_{x1},\,\hat{L}_{z1}]+\mathbf{e}_{y}[\hat{L}_{y1},\,\hat{L}_{z1}]+\mathbf{e}_{z}[\hat{L}_{z1},\,\hat{L}_{z1}] \\&=i\hbar \{ -\mathbf{e}_{x} \hat{L}_{y1} + \mathbf{e}_{y} \hat{L}_{x1} \} \\ [\mathbf{\hat{L}}_{2} ,\,\hat{L}_{z2}]&=i\hbar \{- \mathbf{e}_{x} \hat{L}_{y2} + \mathbf{e}_{y} \hat{L}_{x2} \} \end{aligned} [ L ^ 1 ​ , L ^ z 1 ​ ] [ L ^ 2 ​ , L ^ z 2 ​ ] ​ = e x ​ [ L ^ x 1 ​ , L ^ z 1 ​ ] + e y ​ [ L ^ y 1 ​ , L ^ z 1 ​ ] + e z ​ [ L ^ z 1 ​ , L ^ z 1 ​ ] = i ℏ { − e x ​ L ^ y 1 ​ + e y ​ L ^ x 1 ​ } = i ℏ { − e x ​ L ^ y 2 ​ + e y ​ L ^ x 2 ​ } ​
+아래와 같이 나오게 된다.
+
+[ L ^ 2 , L ^ z ] = 0 \displaystyle \begin{aligned} [\hat{L}^{2},\,\hat{L}_{z}]=0 \end{aligned} [ L ^ 2 , L ^ z ​ ] = 0 ​
+즉, 계의 각운동량 연산자 또한 기본적인 궤도 각운동량의 교환자 관계를 만족시킨다. 또한,
+
+[ L ^ k , l ^ m ] = [ L ^ k 1 + L ^ k 2 , L ^ l 1 + L ^ l 2 ] = [ L ^ k 1 , L ^ l 1 ] + [ L ^ k 2 , L ^ l 2 ] + [ L ^ k 1 , L ^ l 2 ] + [ L ^ k 2 , L ^ l 1 ] = i ℏ ∑ m ε l m n ( L ^ m 1 + L ^ m 2 ) ( ∵ [ L ^ i 1 , L ^ j 2 ] = 0 ) = i ℏ ∑ m ε l m n L ^ m \displaystyle \begin{aligned} [\hat{L}_{k} ,\,\hat{l}_{m}]&=[\hat{L}_{k1}+\hat{L}_{k2} ,\,\hat{L}_{l1}+\hat{L}_{l2}] \\ &=[\hat{L}_{k1} ,\,\hat{L}_{l1}]+[\hat{L}_{k2} ,\,\hat{L}_{l2}]+[\hat{L}_{k1} ,\,\hat{L}_{l2}]+[\hat{L}_{k2} ,\,\hat{L}_{l1}] \\&=i\hbar \sum_{m} \varepsilon_{lmn} ( \hat{L}_{m1}+\hat{L}_{m2} ) \qquad (\because [\hat{L}_{i1},\,\hat{L}_{j2}]=0) \\&= i\hbar \sum_{m} \varepsilon_{lmn} \hat{L}_{m} \end{aligned} [ L ^ k ​ , l ^ m ​ ] ​ = [ L ^ k 1 ​ + L ^ k 2 ​ , L ^ l 1 ​ + L ^ l 2 ​ ] = [ L ^ k 1 ​ , L ^ l 1 ​ ] + [ L ^ k 2 ​ , L ^ l 2 ​ ] + [ L ^ k 1 ​ , L ^ l 2 ​ ] + [ L ^ k 2 ​ , L ^ l 1 ​ ] = i ℏ m ∑ ​ ε l mn ​ ( L ^ m 1 ​ + L ^ m 2 ​ ) ( ∵ [ L ^ i 1 ​ , L ^ j 2 ​ ] = 0 ) = i ℏ m ∑ ​ ε l mn ​ L ^ m ​ ​
+으로 각운동량의 정의에 부합한다. [10] 따라서 다음과 같이 쓸 수 있다.
+
+L ^ 2 ∣ l , m , l 1 , l 2 ⟩ = ℏ 2 l ( l + 1 ) ∣ l , m , l 1 , l 2 ⟩ L ^ z ∣ l , m , l 1 , l 2 ⟩ = m ℏ ∣ l , m , l 1 , l 2 ⟩ \displaystyle \begin{aligned} \hat{L}^{2} | l,\,m,\,l_{1},\,l_{2} \rangle &=\hbar^{2}l(l+1)| l,\,m,\,l_{1},\,l_{2} \rangle \\ \hat{L}_{z} | l,\,m,\,l_{1},\,l_{2} \rangle &=m\hbar| l,\,m,\,l_{1},\,l_{2} \rangle \end{aligned} L ^ 2 ∣ l , m , l 1 ​ , l 2 ​ ⟩ L ^ z ​ ∣ l , m , l 1 ​ , l 2 ​ ⟩ ​ = ℏ 2 l ( l + 1 ) ∣ l , m , l 1 ​ , l 2 ​ ⟩ = m ℏ∣ l , m , l 1 ​ , l 2 ​ ⟩ ​
+
+아래는 증명치 않겠지만 모두 교환하는 교환자의 집합이다.
+
+{ L ^ 2 , L ^ z , L ^ 1 2 , L ^ 2 2 } , { L ^ 1 2 , L ^ 2 2 , L ^ z 1 , L ^ z 2 } \displaystyle \begin{aligned} \{ \hat{L}^{2},\,\hat{L}_{z},\,\hat{L}_{1}^{2},\,\hat{L}_{2}^{2} \},\,\{ \hat{L}_{1}^{2},\,\hat{L}_{2}^{2},\,\hat{L}_{z1},\,\hat{L}_{z2} \} \end{aligned} { L ^ 2 , L ^ z ​ , L ^ 1 2 ​ , L ^ 2 2 ​ } , { L ^ 1 2 ​ , L ^ 2 2 ​ , L ^ z 1 ​ , L ^ z 2 ​ } ​
+따라서 이 계를 기술하는데 { l , m , l 1 , l 2 } \{ l,\,m,\,l_{1},\,l_{2} \} { l , m , l 1 ​ , l 2 ​ } , { l 1 , m 1 , l 2 , m 2 } \{ l_{1},\,m_{1},\,l_{2},\,m_{2} \} { l 1 ​ , m 1 ​ , l 2 ​ , m 2 ​ } 는 각각 계를 기술하기 좋은 양자수가 된다. 그런데 우리는 단일 계의 상태에 대해서만 아는 상태이므로 후자를 사용하도록 하자. 즉, 해당 계는 { l 1 , m 1 , l 2 , m 2 } \{ l_{1},\,m_{1},\,l_{2},\,m_{2} \} { l 1 ​ , m 1 ​ , l 2 ​ , m 2 ​ } 를 사용하여 기술할 수 있다. 마찬가지로 증명은 생략하지만 이 경우 계의 기저는 본래 단일 계의 직접곱(direct product)을 사용,
+
+∣ l 1 , m 1 ⟩ ⊗ ∣ l 2 , m 2 ⟩ ≡ ∣ l 1 , l 2 , m 1 , m 2 ⟩ \displaystyle \begin{aligned} |l_{1} ,\,m_{1} \rangle \otimes |l_{2} ,\,m_{2} \rangle \equiv | l_{1},\,l_{2},\,m_{1},\,m_{2} \rangle \end{aligned} ∣ l 1 ​ , m 1 ​ ⟩ ⊗ ∣ l 2 ​ , m 2 ​ ⟩ ≡ ∣ l 1 ​ , l 2 ​ , m 1 ​ , m 2 ​ ⟩ ​
+로 선택할 수 있다. 이때, 단일 계의 경우 차원이 2 l j + 1 2l_{j}+1 2 l j ​ + 1 이므로 해당 계의 차원은 ( 2 l 1 + 1 ) ( 2 l 2 + 1 ) (2l_{1}+1)(2l_{2}+1) ( 2 l 1 ​ + 1 ) ( 2 l 2 ​ + 1 ) 이다. 다만 주의해야 할 것은 두 좋은 양자수의 집합에 대한 기저는 동일한 상태를 나타내는 기저는 아니다. 우리가 찾고자 하는 공간의 기저(결합된 상태)를 알고 있는 공간의 기저(결합되지 않는 상태)로 나타내고자 하는 것이 포인트이다.
+
+벡터 공간에서 한 기저는 다른 기저로 전개할 수 있다.
+
+∣ l , m , l 1 , l 2 ⟩ = ∑ m 1 , m 2 ∣ l 1 , l 2 , m 1 , m 2 ⟩ ⟨ l 1 , l 2 , m 1 , m 2 ∣ l , m , l 1 , l 2 ⟩ \displaystyle \begin{aligned} | l,\,m,\,l_{1},\,l_{2} \rangle=\sum_{m_{1},\, m_{2}} | l_{1},\,l_{2},\,m_{1},\,m_{2} \rangle \langle l_{1},\,l_{2},\,m_{1},\,m_{2} | l,\,m,\,l_{1},\,l_{2} \rangle \end{aligned} ∣ l , m , l 1 ​ , l 2 ​ ⟩ = m 1 ​ , m 2 ​ ∑ ​ ∣ l 1 ​ , l 2 ​ , m 1 ​ , m 2 ​ ⟩ ⟨ l 1 ​ , l 2 ​ , m 1 ​ , m 2 ​ ∣ l , m , l 1 ​ , l 2 ​ ⟩ ​
+이때 나온 계수
+
+⟨ l 1 , l 2 , m 1 , m 2 ∣ l , m , l 1 , l 2 ⟩ ≡ C m 1 , m 2 \displaystyle \begin{aligned} \langle l_{1},\,l_{2},\,m_{1},\,m_{2} | l,\,m,\,l_{1},\,l_{2} \rangle \equiv C_{m_{1},\,m_{2}} \end{aligned} ⟨ l 1 ​ , l 2 ​ , m 1 ​ , m 2 ​ ∣ l , m , l 1 ​ , l 2 ​ ⟩ ≡ C m 1 ​ , m 2 ​ ​ ​
+를 클렙슈-고르단 계수(Clebsch-Gordan coefficient) 라 한다.
+
+위치표현에서 파동함수의 형태는 두 입자의 좌표 ( θ 1 , ϕ 1 ) (\theta_{1},\,\phi_{1}) ( θ 1 ​ , ϕ 1 ​ ) , ( θ 2 , ϕ 2 ) (\theta_{2},\,\phi_{2}) ( θ 2 ​ , ϕ 2 ​ ) 에 대한 사영을 사용하여
+
+⟨ θ 1 , ϕ 1 , θ 2 , ϕ 2 ∣ l , m , l 1 , l 2 ⟩ = ∑ m 1 , m 2 C m 1 , m 2 ⟨ θ 1 , ϕ 1 ∣ l 1 , m 1 ⟩ ⊗ ⟨ θ 2 , ϕ 2 ∣ l 2 , m 2 ⟩ = ∑ m 1 , m 2 C m 1 , m 2 Y l 1 m 1 ( θ 1 , ϕ 1 ) Y l 2 m 2 ( θ 2 , ϕ 2 ) \displaystyle \begin{aligned} \langle \theta_{1},\,\phi_{1},\,\theta_{2},\,\phi_{2}| l,\,m,\,l_{1},\,l_{2} \rangle &=\sum_{m_{1},\, m_{2}}C_{m_{1},\,m_{2}} \langle \theta_{1},\,\phi_{1}| l_{1},\,m_{1} \rangle \otimes \langle \theta_{2},\,\phi_{2}| l_{2},\,m_{2} \rangle \\&=\sum_{m_{1},\, m_{2}}C_{m_{1},\,m_{2}} Y_{l_{1}}^{m_{1}}(\theta_{1},\,\phi_{1})Y_{l_{2}}^{m_{2}}(\theta_{2},\,\phi_{2}) \end{aligned} ⟨ θ 1 ​ , ϕ 1 ​ , θ 2 ​ , ϕ 2 ​ ∣ l , m , l 1 ​ , l 2 ​ ⟩ ​ = m 1 ​ , m 2 ​ ∑ ​ C m 1 ​ , m 2 ​ ​ ⟨ θ 1 ​ , ϕ 1 ​ ∣ l 1 ​ , m 1 ​ ⟩ ⊗ ⟨ θ 2 ​ , ϕ 2 ​ ∣ l 2 ​ , m 2 ​ ⟩ = m 1 ​ , m 2 ​ ∑ ​ C m 1 ​ , m 2 ​ ​ Y l 1 ​ m 1 ​ ​ ( θ 1 ​ , ϕ 1 ​ ) Y l 2 ​ m 2 ​ ​ ( θ 2 ​ , ϕ 2 ​ ) ​
+으로 구할 수 있다.
+
+이제부터는 l l l , m m m , m 1 m_{1} m 1 ​ , m 2 m_{2} m 2 ​ 의 관계를 보자.
+
+L ^ z ∣ l , m , l 1 , l 2 ⟩ = m ℏ ∣ l , m , l 1 , l 2 ⟩ = ∑ m 1 , m 2 m ℏ ∣ l 1 , l 2 , m 1 , m 2 ⟩ ⟨ l 1 , l 2 , m 1 , m 2 ∣ l , m , l 1 , l 2 ⟩ L ^ z ∣ l , m , l 1 , l 2 ⟩ = ∑ m 1 , m 2 L ^ z ∣ l 1 , l 2 , m 1 , m 2 ⟩ ⟨ l 1 , l 2 , m 1 , m 2 ∣ l , m , l 1 , l 2 ⟩ = ∑ m 1 , m 2 ( L ^ z 1 + L ^ z 2 ) ∣ l 1 , l 2 , m 1 , m 2 ⟩ ⟨ l 1 , l 2 , m 1 , m 2 ∣ l , m , l 1 , l 2 ⟩ = ∑ m 1 , m 2 ℏ ( m 1 + m 2 ) ∣ l 1 , l 2 , m 1 , m 2 ⟩ ⟨ l 1 , l 2 , m 1 , m 2 ∣ l , m , l 1 , l 2 ⟩ \displaystyle \begin{aligned} \hat{L}_{z}| l,\,m,\,l_{1},\,l_{2} \rangle &=m\hbar | l,\,m,\,l_{1},\,l_{2} \rangle \\&= \sum_{m_{1},\, m_{2}} m\hbar | l_{1},\,l_{2},\,m_{1},\,m_{2} \rangle \langle l_{1},\,l_{2},\,m_{1},\,m_{2} | l,\,m,\,l_{1},\,l_{2} \rangle \\ \\ \hat{L}_{z}| l,\,m,\,l_{1},\,l_{2} \rangle &=\sum_{m_{1},\, m_{2}} \hat{L}_{z}| l_{1},\,l_{2},\,m_{1},\,m_{2} \rangle \langle l_{1},\,l_{2},\,m_{1},\,m_{2} | l,\,m,\,l_{1},\,l_{2} \rangle \\&=\sum_{m_{1},\, m_{2}} (\hat{L}_{z1}+\hat{L}_{z2}) | l_{1},\,l_{2},\,m_{1},\,m_{2} \rangle \langle l_{1},\,l_{2},\,m_{1},\,m_{2} | l,\,m,\,l_{1},\,l_{2} \rangle \\&=\sum_{m_{1},\, m_{2}} \hbar(m_{1}+m_{2}) | l_{1},\,l_{2},\,m_{1},\,m_{2} \rangle \langle l_{1},\,l_{2},\,m_{1},\,m_{2} | l,\,m,\,l_{1},\,l_{2} \rangle \end{aligned} L ^ z ​ ∣ l , m , l 1 ​ , l 2 ​ ⟩ L ^ z ​ ∣ l , m , l 1 ​ , l 2 ​ ⟩ ​ = m ℏ∣ l , m , l 1 ​ , l 2 ​ ⟩ = m 1 ​ , m 2 ​ ∑ ​ m ℏ∣ l 1 ​ , l 2 ​ , m 1 ​ , m 2 ​ ⟩ ⟨ l 1 ​ , l 2 ​ , m 1 ​ , m 2 ​ ∣ l , m , l 1 ​ , l 2 ​ ⟩ = m 1 ​ , m 2 ​ ∑ ​ L ^ z ​ ∣ l 1 ​ , l 2 ​ , m 1 ​ , m 2 ​ ⟩ ⟨ l 1 ​ , l 2 ​ , m 1 ​ , m 2 ​ ∣ l , m , l 1 ​ , l 2 ​ ⟩ = m 1 ​ , m 2 ​ ∑ ​ ( L ^ z 1 ​ + L ^ z 2 ​ ) ∣ l 1 ​ , l 2 ​ , m 1 ​ , m 2 ​ ⟩ ⟨ l 1 ​ , l 2 ​ , m 1 ​ , m 2 ​ ∣ l , m , l 1 ​ , l 2 ​ ⟩ = m 1 ​ , m 2 ​ ∑ ​ ℏ ( m 1 ​ + m 2 ​ ) ∣ l 1 ​ , l 2 ​ , m 1 ​ , m 2 ​ ⟩ ⟨ l 1 ​ , l 2 ​ , m 1 ​ , m 2 ​ ∣ l , m , l 1 ​ , l 2 ​ ⟩ ​
+두 결과로부터
+
+∑ m 1 , m 2 { m − ( m 1 + m 2 ) } ∣ l 1 , l 2 , m 1 , m 2 ⟩ ⟨ l 1 , l 2 , m 1 , m 2 ∣ l , m , l 1 , l 2 ⟩ = 0 \displaystyle \begin{aligned} \sum_{m_{1},\,m_{2}}\{ m-(m_{1}+m_{2}) \}| l_{1},\,l_{2},\,m_{1},\,m_{2} \rangle \langle l_{1},\,l_{2},\,m_{1},\,m_{2} | l,\,m,\,l_{1},\,l_{2} \rangle =0 \end{aligned} m 1 ​ , m 2 ​ ∑ ​ { m − ( m 1 ​ + m 2 ​ )} ∣ l 1 ​ , l 2 ​ , m 1 ​ , m 2 ​ ⟩ ⟨ l 1 ​ , l 2 ​ , m 1 ​ , m 2 ​ ∣ l , m , l 1 ​ , l 2 ​ ⟩ = 0 ​
+고려하는 ∣ l 1 , l 2 , m 1 , m 2 ⟩| l_{1},\,l_{2},\,m_{1},\,m_{2} \rangle ∣ l 1 ​ , l 2 ​ , m 1 ​ , m 2 ​ ⟩ 은 선형독립인 기저이므로 등식이 되려면 다음을 만족시켜야 한다.
+
+{ m − ( m 1 + m 2 ) } ⟨ l 1 , l 2 , m 1 , m 2 ∣ l , m , l 1 , l 2 ⟩ = 0 \displaystyle \begin{aligned}\{ m-(m_{1}+m_{2}) \}\langle l_{1},\,l_{2},\,m_{1},\,m_{2} | l,\,m,\,l_{1},\,l_{2} \rangle =0 \end{aligned} { m − ( m 1 ​ + m 2 ​ )} ⟨ l 1 ​ , l 2 ​ , m 1 ​ , m 2 ​ ∣ l , m , l 1 ​ , l 2 ​ ⟩ = 0 ​
+그런데 ⟨ l 1 , l 2 , m 1 , m 2 ∣ l , m , l 1 , l 2 ⟩ = 0 \langle l_{1},\,l_{2},\,m_{1},\,m_{2} | l,\,m,\,l_{1},\,l_{2} \rangle =0 ⟨ l 1 ​ , l 2 ​ , m 1 ​ , m 2 ​ ∣ l , m , l 1 ​ , l 2 ​ ⟩ = 0 인 항은 전개에 기여하지 않으므로
+
+∴ m = m 1 + m 2 \displaystyle \begin{aligned} \therefore m=m_{1}+m_{2} \end{aligned} ∴ m = m 1 ​ + m 2 ​ ​
+이다.
+
+두 계의 각운동량의 합을 계산하는 것이기에 단일 계 처럼 l l l 값이 단일로 존재하지 않는다는 것을 직감할 수 있다. m ≤ l m \leq l m ≤ l , m 1 ≤ l 1 m_{1} \leq l_{1} m 1 ​ ≤ l 1 ​ , m 2 ≤ l 2 m_{2} \leq l_{2} m 2 ​ ≤ l 2 ​ 을 만족하므로 최대의 l m a x = m 1 + m 2 l_{\sf{max}}=m_{1}+m_{2} l max ​ = m 1 ​ + m 2 ​ 이 된다. 이 경우 차원을 살펴보자. ∣ m 1 ∣ ≤ l 1|m_{1}| \leq l_{1} ∣ m 1 ​ ∣ ≤ l 1 ​ , ∣ m 2 ∣ ≤ l 2|m_{2}| \leq l_{2} ∣ m 2 ​ ∣ ≤ l 2 ​ 에서 가능한 l l l 은 2 l + 1 = 2 ( l 1 + l 2 ) + 1 2l+1=2(l_{1}+l_{2})+1 2 l + 1 = 2 ( l 1 ​ + l 2 ​ ) + 1 개이다. 허나, 이것은 위에서 지적했던 복합계의 기저의 차원 ( 2 l 1 + 1 ) ( 2 l 2 + 1 ) (2l_{1}+1)(2l_{2}+1) ( 2 l 1 ​ + 1 ) ( 2 l 2 ​ + 1 ) 이 아니므로 다음의 가능성 l = l 1 + l 2 − 1 l=l_{1}+l_{2}-1 l = l 1 ​ + l 2 ​ − 1 을 고려해보자. 이 경우 차원은
+
+2 ( l 1 + l 2 − 1 ) + 1 \displaystyle \begin{aligned} 2(l_{1}+l_{2}-1)+1 \end{aligned} 2 ( l 1 ​ + l 2 ​ − 1 ) + 1 ​
+둘을 더해도 ( 2 l 1 + 1 ) ( 2 l 2 + 1 ) (2l_{1}+1)(2l_{2}+1) ( 2 l 1 ​ + 1 ) ( 2 l 2 ​ + 1 ) 이 아니므로 다음 가능성 l = l 1 + l 2 − 2 l=l_{1}+l_{2}-2 l = l 1 ​ + l 2 ​ − 2 를 고려하고, ⋯ \cdots ⋯ , l m i n = x l_{\sf{min}}=x l min ​ = x 를 그 차원의 합이 ( 2 l 1 + 1 ) ( 2 l 2 + 1 ) (2l_{1}+1)(2l_{2}+1) ( 2 l 1 ​ + 1 ) ( 2 l 2 ​ + 1 ) 이 될 때까지 생각한다. 이는 초항이 2 ( l 1 + l 2 ) + 1 2(l_{1}+l_{2})+1 2 ( l 1 ​ + l 2 ​ ) + 1 이고, 공차가 -2인 등차수열 이므로 N N N 항일 때, l m i n = x l_{\sf{min}}=x l min ​ = x 이라면
+
+2 ( l 1 + l 2 ) + 1 − 2 ( N − 1 ) = 2 x + 1 \displaystyle \begin{aligned} 2(l_{1}+l_{2})+1-2(N-1)=2x+1 \end{aligned} 2 ( l 1 ​ + l 2 ​ ) + 1 − 2 ( N − 1 ) = 2 x + 1 ​
+이것을 정리함으로써
+
+N = ( l 1 + l 2 ) + 1 − x \displaystyle \begin{aligned} N=(l_{1}+l_{2})+1-x \end{aligned} N = ( l 1 ​ + l 2 ​ ) + 1 − x ​
+를 얻는다. 등차수열의 합 공식에 의하여
+
+1 2 [ ( l 1 + l 2 ) + 1 − x ] [ { 2 ( l 1 + l 2 ) + 1 } + ( 2 x + 1 ) ] = ( 2 l 1 + 1 ) ( 2 l 2 + 1 ) \displaystyle \begin{aligned} \frac{1}{2}[(l_{1}+l_{2})+1-x][\{2(l_{1}+l_{2})+1\}+(2x+1) ]=(2l_{1}+1)(2l_{2}+1) \end{aligned} 2 1 ​ [( l 1 ​ + l 2 ​ ) + 1 − x ] [{ 2 ( l 1 ​ + l 2 ​ ) + 1 } + ( 2 x + 1 )] = ( 2 l 1 ​ + 1 ) ( 2 l 2 ​ + 1 ) ​
+2 l 1 + 1 = a 2l_{1}+1 =a 2 l 1 ​ + 1 = a , 2 l 1 + 1 = b 2l_{1}+1 =b 2 l 1 ​ + 1 = b 로 치환하면
+
+1 2 { 1 2 ( a + b ) − x } ( a + b + 2 x ) = a b { ( a + b ) − 2 x } ( a + b + 2 x ) = 4 a b ( a + b ) 2 − 4 x 2 = 4 a b 1 4 ( a − b ) 2 = x 2 1 4 ( 2 l 1 − 2 l 2 ) 2 = x 2 ( l 1 − l 2 ) 2 = x 2 \displaystyle \begin{aligned} \frac{1}{2}\left\{\frac{1}{2} (a+b )-x \right\}(a+b+2x)&=ab \\ \{(a+b)-2x \}(a+b+2x)&=4ab \\ (a+b)^{2}-4x^2&=4ab \\ \frac{1}{4}(a-b)^{2}&=x^{2} \\ \frac{1}{4}(2l_{1}-2l_{2})^{2}&=x^{2} \\(l_{1}-l_{2})^{2}&=x^{2} \end{aligned} 2 1 ​ { 2 1 ​ ( a + b ) − x } ( a + b + 2 x ) {( a + b ) − 2 x } ( a + b + 2 x ) ( a + b ) 2 − 4 x 2 4 1 ​ ( a − b ) 2 4 1 ​ ( 2 l 1 ​ − 2 l 2 ​ ) 2 ( l 1 ​ − l 2 ​ ) 2 ​ = ab = 4 ab = 4 ab = x 2 = x 2 = x 2 ​
+2 l = n 2l=n 2 l = n ( n n n 은 음이 아닌 정수)라는 조건으로부터 x ≥ 0 x \geq 0 x ≥ 0 이므로 그 해는 x = ∣ l 1 − l 2 ∣ x=|l_{1}-l_{2}| x = ∣ l 1 ​ − l 2 ​ ∣ 이다. 즉, 가능한 l l l 은
+
+l 1 + l 2 , l 1 + l 2 − 1 , l 1 + l 2 − 2 , ⋯ , ∣ l 1 − l 2 ∣ \displaystyle \begin{aligned} l_{1}+l_{2},\,l_{1}+l_{2}-1,\,l_{1}+l_{2}-2,\, \cdots ,\, |l_{1}-l_{2}| \end{aligned} l 1 ​ + l 2 ​ , l 1 ​ + l 2 ​ − 1 , l 1 ​ + l 2 ​ − 2 , ⋯ , ∣ l 1 ​ − l 2 ​ ∣ ​
+이다.
+
+아래의 그림의 ( a ) \rm (a) ( a ) 는 결합 전 각운동량 상태를, ( b ) \rm (b) ( b ) 는 결합 후 각운동량 상태를 모식도로 나타낸 것이다.
+
+결합 후에는 L z 1 L_{z1} L z 1 ​ 과 L z 2 L_{z2} L z 2 ​ 는 더 이상 보존되지 않는다. 이 의미를 알아보자. 우리가 단일계에서 각운동량의 한 축에 대한 성분이나 크기를 얻을 수 있었던 것은 각 물리량이 보존이 되기 때문이었다.
+
+어떤 상태에 있는 두 입자계에서 각각의 입자의 각운동량의 한 축의 성분을 측정 후엔 ∣ l 1 , m 1 , l 2 , m 2 ⟩|l_{1},\,m_{1},\,l_{2},\,m_{2} \rangle ∣ l 1 ​ , m 1 ​ , l 2 ​ , m 2 ​ ⟩ 의 상태, 즉 그림 (a)와 같은 상태로 남을 것이다. 하지만 이 상태에서 계의 총 각운동량의 크기 또는 한 축의 성분을 측정한다고 생각해보자. 이 상태에서 ∣ l 1 , m 1 , l 2 , m 2 ⟩|l_{1},\,m_{1},\,l_{2},\,m_{2} \rangle ∣ l 1 ​ , m 1 ​ , l 2 ​ , m 2 ​ ⟩ 의 상태는 측정에 대하여 고유상태가 아니기 때문에 계의 정보가 파괴돼버리고, 해당 물리량들이 결정된 후 상태는 ∣ l , m , l 1 , l 2 ⟩|l,\,m,\,l_{1},\,l_{2} \rangle ∣ l , m , l 1 ​ , l 2 ​ ⟩ , 즉 (b)와 같이 바뀌게 된다. 이 상태에서는 각각의 각운동량의 한 성분에 대한 측정에 대하여 고유상태가 아니므로 이들을 계의 정보를 파괴하지 않는 한 얻을 수 없다. 즉, 단일계에서 한 축이 아닌 다른 물리량은 보존되지 않아 결정할 수 없었던 것을 생각해보면 이는 본 그림과 같이 각 성분이 보존되지 않아야 함을 암시하고 있다. 이때, 전자를 비결합 표현(uncoupled representation) , 후자를 결합 표현(coupled representation) 이라 한다. 따라서 양자역학에서는 계의 물리량을 측정하는지 계의 구성원 각각의 물리량을 측정하는지에 따라 계의 상태가 파괴될 수 있다.
+
+7.5.1. 총 각운동량의 덧셈 [편집]
+이론은 완전히 동일하다. 즉,
+
+J ^ = J ^ 1 + J ^ 2 \displaystyle \begin{aligned} \mathbf{\hat{J}}=\mathbf{\hat{J}}_{1}+\mathbf{\hat{J}}_{2} \end{aligned} J ^ = J ^ 1 ​ + J ^ 2 ​ ​
+이고, 고유치 방정식은 다음과 같다.
+
+J ^ 2 ∣ j , m , j 1 , j 2 ⟩ = ℏ 2 j ( j + 1 ) ∣ j , m , j 1 , j 2 ⟩ J ^ z ∣ j , m , j 1 , j 2 ⟩ = m ℏ ∣ j , m , j 1 , j 2 ⟩ \displaystyle \begin{aligned} \hat{J}^{2}| j,\,m,\,j_{1},\,j_{2} \rangle&=\hbar^{2}j(j+1) | j,\,m,\,j_{1},\,j_{2} \rangle \\ \hat{J}_{z}| j,\,m,\,j_{1},\,j_{2} \rangle&=m \hbar | j,\,m,\,j_{1},\,j_{2} \rangle\end{aligned} J ^ 2 ∣ j , m , j 1 ​ , j 2 ​ ⟩ J ^ z ​ ∣ j , m , j 1 ​ , j 2 ​ ⟩ ​ = ℏ 2 j ( j + 1 ) ∣ j , m , j 1 ​ , j 2 ​ ⟩ = m ℏ∣ j , m , j 1 ​ , j 2 ​ ⟩ ​
+{ j , m , j 1 , j 2 } \{ j,\,m,\,j_{1},\,j_{2} \} { j , m , j 1 ​ , j 2 ​ } , { j 1 , m 1 , j 2 , m 2 } \{ j_{1},\,m_{1},\,j_{2},\,m_{2} \} { j 1 ​ , m 1 ​ , j 2 ​ , m 2 ​ } 는 그 연산자의 교환관계에 따라 계를 기술하기 좋은 양자수가 되어,
+
+∣ j , m , j 1 , j 2 ⟩ = ∑ m 1 , m 2 ∣ j 1 , j 2 , m 1 , m 2 ⟩ ⟨ j 1 , j 2 , m 1 , m 2 ∣ j , m , j 1 , j 2 ⟩ = ∑ m 1 , m 2 C m 1 , m 2 ∣ j 1 , j 2 , m 1 , m 2 ⟩ \displaystyle \begin{aligned} | j,\,m,\,j_{1},\,j_{2} \rangle &=\sum_{m_{1},\, m_{2}} | j_{1},\,j_{2},\,m_{1},\,m_{2} \rangle \langle j_{1},\,j_{2},\,m_{1},\,m_{2} | j,\,m,\,j_{1},\,j_{2} \rangle \\&=\sum_{m_{1},\, m_{2}} C_{m_{1},\,m_{2}} | j_{1},\,j_{2},\,m_{1},\,m_{2} \rangle \end{aligned} ∣ j , m , j 1 ​ , j 2 ​ ⟩ ​ = m 1 ​ , m 2 ​ ∑ ​ ∣ j 1 ​ , j 2 ​ , m 1 ​ , m 2 ​ ⟩ ⟨ j 1 ​ , j 2 ​ , m 1 ​ , m 2 ​ ∣ j , m , j 1 ​ , j 2 ​ ⟩ = m 1 ​ , m 2 ​ ∑ ​ C m 1 ​ , m 2 ​ ​ ∣ j 1 ​ , j 2 ​ , m 1 ​ , m 2 ​ ⟩ ​
+로 전개 가능하며, 다음을 만족시킨다.
+
+m = m 1 + m 2 \displaystyle \begin{aligned} m=m_{1}+m_{2} \end{aligned} m = m 1 ​ + m 2 ​ ​
+또한, 궤도 각운동량 때와 마찬가지로 가능한 j j j 값은 다음과 같다.
+
+j = j 1 + j 2 , j 1 + j 2 − 1 , j 1 + j 2 − 2 , ⋯ , ∣ j 1 − j 2 ∣ \displaystyle \begin{aligned} j=j_{1}+j_{2},\,j_{1}+j_{2}-1,\,j_{1}+j_{2}-2,\,\cdots,\,|j_{1}-j_{2}| \end{aligned} j = j 1 ​ + j 2 ​ , j 1 ​ + j 2 ​ − 1 , j 1 ​ + j 2 ​ − 2 , ⋯ , ∣ j 1 ​ − j 2 ​ ∣ ​
+
+7.6. 구면좌표계에서의 기술 [편집]
+고전역학적으로 주어진 각운동량을 제곱함으로써 다음을 얻는다.
+
+L 2 = ( r × p ) ⋅ ( r × p ) = r 2 p 2 − ( r ⋅ p ) 2 = r 2 p 2 − r 2 ( e r ⋅ p ) 2 \displaystyle \begin{aligned} L^{2}&=(\mathbf{r} \times \mathbf{p}) \boldsymbol{\cdot} (\mathbf{r} \times \mathbf{p}) \\&=r^{2}p^{2}-(\mathbf{r} \boldsymbol{\cdot} \mathbf{p})^{2} \\&= r^{2}p^{2}-r^{2}(\mathbf{e}_{r} \boldsymbol{\cdot} \mathbf{p})^{2} \end{aligned} L 2 ​ = ( r × p ) ⋅ ( r × p ) = r 2 p 2 − ( r ⋅ p ) 2 = r 2 p 2 − r 2 ( e r ​ ⋅ p ) 2 ​
+이것을 다시쓰면
+
+p 2 = ( e r ⋅ p ) 2 + L 2 r 2 \displaystyle \begin{aligned} p^{2}=(\mathbf{e}_{r} \boldsymbol{\cdot} \mathbf{p})^{2}+\frac{L^{2}}{r^{2}} \end{aligned} p 2 = ( e r ​ ⋅ p ) 2 + r 2 L 2 ​ ​
+이때, e r ⋅ p = p r \mathbf{e}_{r} \boldsymbol{\cdot} \mathbf{p}=p_{r} e r ​ ⋅ p = p r ​ , 즉 운동량의 지름 성분이라 생각할 수 있고, 약간의 조작을 거치면
+
+p 2 2 m = p r 2 2 m + L 2 2 m r 2 \displaystyle \begin{aligned} \frac{p^{2}}{2m}=\frac{p_{r}^{2}}{2m}+\frac{L^{2}}{2mr^{2}} \end{aligned} 2 m p 2 ​ = 2 m p r 2 ​ ​ + 2 m r 2 L 2 ​ ​
+으로 운동 에너지를 얻을 수 있다. 즉, 운동 에너지를 지름 방향의 운동의 것과 회전에 의한 운동의 것으로 나눈 것이다. 즉, 입자의 해밀토니언은 퍼텐셜 V V V 를 도입하여
+
+H = p r 2 2 m + L 2 2 m r 2 + V \displaystyle \begin{aligned} H=\frac{p_{r}^{2}}{2m}+\frac{L^{2}}{2mr^{2}}+V \end{aligned} H = 2 m p r 2 ​ ​ + 2 m r 2 L 2 ​ + V ​
+
+얼핏 보면 양자역학에서도 이것이 가능할 것처럼 보인다. 즉,
+
+H ^ = p ^ r 2 2 m + L ^ 2 2 m r 2 + V ^ \displaystyle \begin{aligned} \hat{\mathcal{H}}=\frac{\hat{p}_{r}^{2}}{2m}+\frac{\hat{L}^{2}}{2mr^{2}}+\hat{V} \end{aligned} H ^ = 2 m p ^ ​ r 2 ​ ​ + 2 m r 2 L ^ 2 ​ + V ^ ​
+으로 쓸 수 있을 것으로 기대되는데, 여기서 나온
+
+p ^ r = 1 r ^ r ^ ⋅ p ^ \displaystyle \begin{aligned} \hat{p}_{r}=\frac{1}{\hat{r}}\mathbf{\hat{r}} \boldsymbol{\cdot} \mathbf{\hat{p}} \end{aligned} p ^ ​ r ​ = r ^ 1 ​ r ^ ⋅ p ^ ​ ​
+으로 주어질 것이다. 하지만 이 연산자는 치명적인 문제가 있는데,
+
+p ^ r † = p ^ ⋅ r ^ 1 r ^ ≠ p ^ r \displaystyle \begin{aligned} \hat{p}_{r}^{\dagger}=\mathbf{\hat{p}}\boldsymbol{\cdot} \mathbf{\hat{r}}\frac{1}{\hat{r}} \neq \hat{p}_{r} \end{aligned} p ^ ​ r † ​ = p ^ ​ ⋅ r ^ r ^ 1 ​  = p ^ ​ r ​ ​
+위에서 볼 수 있듯, 자기 수반이 아니다. 즉, 해당 연산자로 측정을 하면 얻기를 원하는 운동량의 지름 성분이 측정되지 않는다.
+
+이 문제를 해결하기 위해서 각운동량 연산자의 제곱을 구하는 과정부터 다시 해보자.
+
+L ^ 2 = ( r ^ × p ^ ) ⋅ ( r ^ × p ^ ) = ( ε j k l x ^ k p ^ l ) ( ε j m n x ^ m p ^ n ) = ( ε j k l x ^ k p ^ l ) ( ε j m n x ^ m p ^ n ) = ε j k l ε j m n x ^ k p ^ l x ^ m p ^ n = ( δ k m δ l n − δ k n δ l m ) x ^ k p ^ l x ^ m p ^ n = x ^ k p ^ l x ^ k p ^ l − x ^ k p ^ l x ^ l p ^ k \displaystyle \begin{aligned} \hat{L}^{2} &=(\mathbf{\hat{r}} \times \mathbf{\hat{p}}) \boldsymbol{\cdot} (\mathbf{\hat{r}} \times \mathbf{\hat{p}}) \\&=(\varepsilon_{jkl}\hat{x}_{k}\hat{p}_{l})(\varepsilon_{jmn}\hat{x}_{m}\hat{p}_{n} ) \\&=(\varepsilon_{jkl}\hat{x}_{k}\hat{p}_{l})(\varepsilon_{jmn}\hat{x}_{m}\hat{p}_{n} ) \\&=\varepsilon_{jkl}\varepsilon_{jmn}\hat{x}_{k}\hat{p}_{l}\hat{x}_{m}\hat{p}_{n} \\&=(\delta_{km}\delta_{ln}-\delta_{kn}\delta_{lm})\hat{x}_{k}\hat{p}_{l}\hat{x}_{m}\hat{p}_{n} \\&=\hat{x}_{k}\hat{p}_{l}\hat{x}_{k}\hat{p}_{l}-\hat{x}_{k}\hat{p}_{l}\hat{x}_{l}\hat{p}_{k} \end{aligned} L ^ 2 ​ = ( r ^ × p ^ ​ ) ⋅ ( r ^ × p ^ ​ ) = ( ε j k l ​ x ^ k ​ p ^ ​ l ​ ) ( ε j mn ​ x ^ m ​ p ^ ​ n ​ ) = ( ε j k l ​ x ^ k ​ p ^ ​ l ​ ) ( ε j mn ​ x ^ m ​ p ^ ​ n ​ ) = ε j k l ​ ε j mn ​ x ^ k ​ p ^ ​ l ​ x ^ m ​ p ^ ​ n ​ = ( δ k m ​ δ l n ​ − δ k n ​ δ l m ​ ) x ^ k ​ p ^ ​ l ​ x ^ m ​ p ^ ​ n ​ = x ^ k ​ p ^ ​ l ​ x ^ k ​ p ^ ​ l ​ − x ^ k ​ p ^ ​ l ​ x ^ l ​ p ^ ​ k ​ ​
+중요한 것은 위치 연산자와 운동량 연산자가 교환하지 않기 때문에 조금의 조작을 거쳐야 한다.
+
+L ^ 2 = x ^ k ( x ^ k p ^ l − i ℏ δ k l ) p ^ l − ( p ^ l x ^ k + i ℏ δ k l ) x ^ l p ^ k = x ^ k x ^ k p ^ l p ^ l − i ℏ x ^ k p ^ k − p ^ l x ^ k x ^ l p ^ k − i ℏ x ^ k p ^ k = x ^ k x ^ k p ^ l p ^ l − p ^ l x ^ k x ^ l p ^ k − 2 i ℏ x ^ k p ^ k = x ^ k x ^ k p ^ l p ^ l − p ^ l x ^ l x ^ k p ^ k − 2 i ℏ x ^ k p ^ k = x ^ k x ^ k p ^ l p ^ l − ( x ^ l p ^ l − i ℏ ) x ^ k p ^ k − 2 i ℏ x ^ k p ^ k = x ^ k x ^ k p ^ l p ^ l − x ^ l p ^ l x ^ k p ^ k + 3 i ℏ x ^ k p ^ k − 2 i ℏ x ^ k p ^ k ( ∵ ∑ k = 1 3 ∑ l = 1 3 x ^ k p ^ k = 3 ∑ k = 1 3 x ^ k p ^ k ) = x ^ k x ^ k p ^ l p ^ l − x ^ l p ^ l x ^ k p ^ k + i ℏ x ^ k p ^ k ∴ L ^ 2 = r ^ 2 p ^ 2 − ( r ^ ⋅ p ^ ) 2 + i ℏ ( r ^ ⋅ p ^ ) \displaystyle \begin{aligned} \hat{L}^{2}&=\hat{x}_{k}(\hat{x}_{k}\hat{p}_{l}-i\hbar \delta_{kl} )\hat{p}_{l}-(\hat{p}_{l}\hat{x}_{k}+i\hbar \delta_{kl})\hat{x}_{l}\hat{p}_{k} \\ &=\hat{x}_{k}\hat{x}_{k}\hat{p}_{l}\hat{p}_{l}-i\hbar \hat{x}_{k}\hat{p}_{k}-\hat{p}_{l}\hat{x}_{k}\hat{x}_{l}\hat{p}_{k}-i\hbar \hat{x}_{k}\hat{p}_{k} \\&=\hat{x}_{k}\hat{x}_{k}\hat{p}_{l}\hat{p}_{l}-\hat{p}_{l}\hat{x}_{k}\hat{x}_{l}\hat{p}_{k}-2i\hbar \hat{x}_{k}\hat{p}_{k} \\&=\hat{x}_{k}\hat{x}_{k}\hat{p}_{l}\hat{p}_{l}-\hat{p}_{l}\hat{x}_{l}\hat{x}_{k}\hat{p}_{k}-2i\hbar \hat{x}_{k}\hat{p}_{k} \\&=\hat{x}_{k}\hat{x}_{k}\hat{p}_{l}\hat{p}_{l}-(\hat{x}_{l}\hat{p}_{l}-i \hbar)\hat{x}_{k}\hat{p}_{k}-2i\hbar \hat{x}_{k}\hat{p}_{k} \\&=\hat{x}_{k}\hat{x}_{k}\hat{p}_{l}\hat{p}_{l}-\hat{x}_{l}\hat{p}_{l}\hat{x}_{k}\hat{p}_{k}+3i \hbar\hat{x}_{k}\hat{p}_{k}-2i\hbar \hat{x}_{k}\hat{p}_{k} \qquad \biggl( \because \sum_{k=1}^{3}\sum_{l=1}^{3} \hat{x}_{k}\hat{p}_{k} =3\sum_{k=1}^{3} \hat{x}_{k}\hat{p}_{k} \biggr) \\&=\hat{x}_{k}\hat{x}_{k}\hat{p}_{l}\hat{p}_{l}-\hat{x}_{l}\hat{p}_{l}\hat{x}_{k}\hat{p}_{k}+i \hbar\hat{x}_{k}\hat{p}_{k} \\ \\ \therefore \hat{L}^{2}&=\hat{r}^{2} \hat{p}^{2}-(\mathbf{\hat{r}} \boldsymbol{\cdot} \mathbf{\hat{p}})^{2}+i\hbar (\mathbf{\hat{r}} \boldsymbol{\cdot} \mathbf{\hat{p}}) \end{aligned} L ^ 2 ∴ L ^ 2 ​ = x ^ k ​ ( x ^ k ​ p ^ ​ l ​ − i ℏ δ k l ​ ) p ^ ​ l ​ − ( p ^ ​ l ​ x ^ k ​ + i ℏ δ k l ​ ) x ^ l ​ p ^ ​ k ​ = x ^ k ​ x ^ k ​ p ^ ​ l ​ p ^ ​ l ​ − i ℏ x ^ k ​ p ^ ​ k ​ − p ^ ​ l ​ x ^ k ​ x ^ l ​ p ^ ​ k ​ − i ℏ x ^ k ​ p ^ ​ k ​ = x ^ k ​ x ^ k ​ p ^ ​ l ​ p ^ ​ l ​ − p ^ ​ l ​ x ^ k ​ x ^ l ​ p ^ ​ k ​ − 2 i ℏ x ^ k ​ p ^ ​ k ​ = x ^ k ​ x ^ k ​ p ^ ​ l ​ p ^ ​ l ​ − p ^ ​ l ​ x ^ l ​ x ^ k ​ p ^ ​ k ​ − 2 i ℏ x ^ k ​ p ^ ​ k ​ = x ^ k ​ x ^ k ​ p ^ ​ l ​ p ^ ​ l ​ − ( x ^ l ​ p ^ ​ l ​ − i ℏ ) x ^ k ​ p ^ ​ k ​ − 2 i ℏ x ^ k ​ p ^ ​ k ​ = x ^ k ​ x ^ k ​ p ^ ​ l ​ p ^ ​ l ​ − x ^ l ​ p ^ ​ l ​ x ^ k ​ p ^ ​ k ​ + 3 i ℏ x ^ k ​ p ^ ​ k ​ − 2 i ℏ x ^ k ​ p ^ ​ k ​ ( ∵ k = 1 ∑ 3 ​ l = 1 ∑ 3 ​ x ^ k ​ p ^ ​ k ​ = 3 k = 1 ∑ 3 ​ x ^ k ​ p ^ ​ k ​ ) = x ^ k ​ x ^ k ​ p ^ ​ l ​ p ^ ​ l ​ − x ^ l ​ p ^ ​ l ​ x ^ k ​ p ^ ​ k ​ + i ℏ x ^ k ​ p ^ ​ k ​ = r ^ 2 p ^ ​ 2 − ( r ^ ⋅ p ^ ​ ) 2 + i ℏ ( r ^ ⋅ p ^ ​ ) ​
+
+위에서 나온 각 항에 대하여 다음을 계산해보자.
+
+⟨ r ∣ r ^ 2 p ^ 2 ∣ f ⟩ = ⟨ r ^ 2 r ∣ p ^ 2 ∣ f ⟩ = r 2 ⟨ r ∣ p ^ 2 ∣ f ⟩ = − r 2 ℏ 2 ∇ 2 ⟨ r ∣ f ⟩ = − r 2 ℏ 2 ∇ 2 f ( r ) ⟨ r ∣ ( r ^ ⋅ p ^ ) 2 ∣ f ⟩ = ( ℏ i ) 2 ( r ⋅ ∇ ) ( r ⋅ ∇ ) ⟨ r ∣ f ⟩ = − ℏ 2 r ∂ ∂ r ( r ∂ ∂ r ) ⟨ r ∣ f ⟩ = − ℏ 2 r ∂ ∂ r ( r ∂ f ( r ) ∂ r ) = − ℏ 2 r ( r ∂ 2 f ( r ) ∂ r 2 + ∂ f ( r ) ∂ r ) = − ℏ 2 r 2 ( ∂ 2 f ( r ) ∂ r 2 + 1 r ∂ f ( r ) ∂ r ) ⟨ r ∣ i ℏ ( r ^ ⋅ p ^ ) ∣ f ⟩ = ℏ 2 ( r ⋅ ∇ ) ⟨ r ∣ f ⟩ = ℏ 2 r 2 ( 1 r ∂ f ( r ) ∂ r ) \displaystyle \begin{aligned} \langle \mathbf{r} |\hat{r}^{2} \hat{p}^{2}| f \rangle &= \langle \hat{r}^{2}\mathbf{r} | \hat{p}^{2}| f \rangle \\ &=r^{2}\langle \mathbf{r} | \hat{p}^{2}| f \rangle \\ &=-r^{2} \hbar^{2} \nabla^{2} \langle \mathbf{r} | f \rangle \\&=-r^{2} \hbar^{2} \nabla^{2} f(\mathbf{r}) \\ \\ \langle \mathbf{r} |(\mathbf{\hat{r}} \boldsymbol{\cdot} \mathbf{\hat{p}})^{2}| f \rangle &= \biggl( \frac{\hbar}{i} \biggr)^{2} (\mathbf{r} \boldsymbol{\cdot} \boldsymbol{\nabla})(\mathbf{r} \boldsymbol{\cdot} \boldsymbol{\nabla}) \langle \mathbf{r} | f \rangle \\&=-\hbar^{2} r \frac{\partial}{\partial r}\biggl( r \frac{\partial}{\partial r} \biggr)\langle \mathbf{r} | f \rangle \\&=-\hbar^{2} r \frac{\partial}{\partial r}\biggl( r \frac{\partial f(\mathbf{r})}{\partial r} \biggr) \\&=-\hbar^{2}r \biggl(r\frac{\partial^{2} f(\mathbf{r})}{\partial r^{2}}+\frac{\partial f(\mathbf{r})}{\partial r} \biggr) \\ &=-\hbar^{2}r^{2} \biggl(\frac{\partial^{2} f(\mathbf{r})}{\partial r^{2}}+\frac{1}{r}\frac{\partial f(\mathbf{r})}{\partial r} \biggr) \\ \\ \langle \mathbf{r}|i\hbar (\mathbf{\hat{r}} \boldsymbol{\cdot} \mathbf{\hat{p}}) | f \rangle&=\hbar^{2}(\mathbf{r} \boldsymbol{\cdot} \boldsymbol{\nabla}) \langle \mathbf{r} | f \rangle \\&=\hbar^{2} r^{2} \biggl(\frac{1}{r} \frac{\partial f(\mathbf{r})}{\partial r} \biggr) \end{aligned} ⟨ r ∣ r ^ 2 p ^ ​ 2 ∣ f ⟩ ⟨ r ∣ ( r ^ ⋅ p ^ ​ ) 2 ∣ f ⟩ ⟨ r ∣ i ℏ ( r ^ ⋅ p ^ ​ ) ∣ f ⟩ ​ = ⟨ r ^ 2 r ∣ p ^ ​ 2 ∣ f ⟩ = r 2 ⟨ r ∣ p ^ ​ 2 ∣ f ⟩ = − r 2 ℏ 2 ∇ 2 ⟨ r ∣ f ⟩ = − r 2 ℏ 2 ∇ 2 f ( r ) = ( i ℏ ​ ) 2 ( r ⋅ ∇ ) ( r ⋅ ∇ ) ⟨ r ∣ f ⟩ = − ℏ 2 r ∂ r ∂ ​ ( r ∂ r ∂ ​ ) ⟨ r ∣ f ⟩ = − ℏ 2 r ∂ r ∂ ​ ( r ∂ r ∂ f ( r ) ​ ) = − ℏ 2 r ( r ∂ r 2 ∂ 2 f ( r ) ​ + ∂ r ∂ f ( r ) ​ ) = − ℏ 2 r 2 ( ∂ r 2 ∂ 2 f ( r ) ​ + r 1 ​ ∂ r ∂ f ( r ) ​ ) = ℏ 2 ( r ⋅ ∇ ) ⟨ r ∣ f ⟩ = ℏ 2 r 2 ( r 1 ​ ∂ r ∂ f ( r ) ​ ) ​
+이상에서 다음과 같은 결과를 얻는다.
+
+− ⟨ r ∣ ( r ^ ⋅ p ^ ) 2 ∣ f ⟩ + ⟨ r ∣ i ℏ ( r ^ ⋅ p ^ ) ∣ f ⟩ = ℏ 2 r 2 ( ∂ 2 f ( r ) ∂ r 2 + 2 r ∂ f ( r ) ∂ r ) = ℏ 2 r 2 ⋅ 1 r ∂ 2 ∂ r 2 ( r f ( r ) ) = − r 2 ⋅ ℏ i 1 r ∂ ∂ r r ⋅ ℏ i 1 r ∂ ∂ r r f ( r ) \displaystyle \begin{aligned} -\langle \mathbf{r} |(\mathbf{\hat{r}} \boldsymbol{\cdot} \mathbf{\hat{p}})^{2}| f \rangle+ \langle \mathbf{r}|i\hbar (\mathbf{\hat{r}} \boldsymbol{\cdot} \mathbf{\hat{p}}) | f \rangle &= \hbar^{2} r^{2}\biggl(\frac{\partial^{2} f(\mathbf{r})}{\partial r^{2}}+\frac{2}{r}\frac{\partial f(\mathbf{r})}{\partial r} \biggr) \\&=\hbar^{2} r^{2} \cdot \frac{1}{r} \frac{\partial^{2}}{\partial r^{2}}(r f(\mathbf{r})) \\&= -r^{2} \cdot \frac{\hbar}{i} \frac{1}{r} \frac{\partial}{\partial r} r \cdot \frac{\hbar}{i} \frac{1}{r} \frac{\partial}{\partial r} rf(\mathbf{r}) \end{aligned} − ⟨ r ∣ ( r ^ ⋅ p ^ ​ ) 2 ∣ f ⟩ + ⟨ r ∣ i ℏ ( r ^ ⋅ p ^ ​ ) ∣ f ⟩ ​ = ℏ 2 r 2 ( ∂ r 2 ∂ 2 f ( r ) ​ + r 2 ​ ∂ r ∂ f ( r ) ​ ) = ℏ 2 r 2 ⋅ r 1 ​ ∂ r 2 ∂ 2 ​ ( r f ( r )) = − r 2 ⋅ i ℏ ​ r 1 ​ ∂ r ∂ ​ r ⋅ i ℏ ​ r 1 ​ ∂ r ∂ ​ r f ( r ) ​
+이때, 연산자
+
+P ^ r = ℏ i 1 r ∂ ∂ r r = ℏ i ( 1 r + ∂ ∂ r ) \displaystyle \begin{aligned} \hat{\mathcal{P}}_{r}&=\frac{\hbar}{i}\frac{1}{r} \frac{\partial}{\partial r} r \\&=\frac{\hbar}{i}\biggl(\frac{1}{r}+\frac{\partial}{\partial r} \biggr) \end{aligned} P ^ r ​ ​ = i ℏ ​ r 1 ​ ∂ r ∂ ​ r = i ℏ ​ ( r 1 ​ + ∂ r ∂ ​ ) ​
+로 정의하자. 이것의 의미는 후술하기로 한다.
+
+위치 공간에서 각 연산자의 표현을 검토하여
+
+p ^ r = 1 r ^ r ^ ⋅ p ^ = 1 r r ⋅ ( ℏ i ∇ ) = ℏ i 1 r ⋅ r ⋅ ∂ ∂ r = ℏ i ∂ ∂ r p ^ r † = p ^ ⋅ r ^ 1 r ^ = ( ℏ i ∇ ) ⋅ r ⋅ 1 r = ℏ i ⋅ ( ∇ ⋅ r ) ⋅ 1 r = ℏ i 1 r 2 ∂ ∂ r r 2 ⋅ r ⋅ 1 r = ℏ i 1 r 2 ∂ ∂ r r 2 = ℏ i ( 2 r + ∂ ∂ r ) ∴ p ^ r + p ^ r † = 2 ⋅ ℏ i ( 1 r + ∂ ∂ r ) ⇒ P ^ r = 1 2 ( p ^ r + p ^ r † ) \displaystyle \begin{aligned} \hat{p}_{r}&=\frac{1}{\hat{r}}\mathbf{\hat{r}} \boldsymbol{\cdot} \mathbf{\hat{p}} \\&=\frac{1}{r} \mathbf{r} \boldsymbol{\cdot} \biggl(\frac{\hbar}{i} \boldsymbol{\nabla} \biggr) \\&=\frac{\hbar}{i}\frac{1}{r} \cdot r \cdot \frac{\partial}{\partial r} \\&=\frac{\hbar}{i}\frac{\partial}{\partial r} \\ \\ \hat{p}_{r}^{\dagger}&=\mathbf{\hat{p}} \boldsymbol{\cdot} \mathbf{\hat{r}}\frac{1}{\hat{r}} \\&= \biggl(\frac{\hbar}{i} \boldsymbol{\nabla} \biggr)\boldsymbol{\cdot} \mathbf{r} \cdot \frac{1}{r} \\&=\frac{\hbar}{i} \cdot (\boldsymbol{\nabla}\boldsymbol{\cdot} \mathbf{r}) \cdot \frac{1}{r} \\&=\frac{\hbar}{i}\frac{1}{r^{2}} \frac{\partial}{\partial r} r^{2} \cdot r \cdot \frac{1}{r} \\&=\frac{\hbar}{i}\frac{1}{r^{2}} \frac{\partial}{\partial r} r^{2} \\&=\frac{\hbar}{i} \biggl( \frac{2}{r}+\frac{\partial}{\partial r} \biggr) \\ \\ \therefore \hat{p}_{r}+\hat{p}_{r}^{\dagger}&=2\cdot \frac{\hbar}{i} \biggl( \frac{1}{r}+\frac{\partial}{\partial r} \biggr) \quad \Rightarrow \quad \hat{\mathcal{P}}_{r}=\frac{1}{2} (\hat{p}_{r}+\hat{p}_{r}^{\dagger}) \end{aligned} p ^ ​ r ​ p ^ ​ r † ​ ∴ p ^ ​ r ​ + p ^ ​ r † ​ ​ = r ^ 1 ​ r ^ ⋅ p ^ ​ = r 1 ​ r ⋅ ( i ℏ ​ ∇ ) = i ℏ ​ r 1 ​ ⋅ r ⋅ ∂ r ∂ ​ = i ℏ ​ ∂ r ∂ ​ = p ^ ​ ⋅ r ^ r ^ 1 ​ = ( i ℏ ​ ∇ ) ⋅ r ⋅ r 1 ​ = i ℏ ​ ⋅ ( ∇ ⋅ r ) ⋅ r 1 ​ = i ℏ ​ r 2 1 ​ ∂ r ∂ ​ r 2 ⋅ r ⋅ r 1 ​ = i ℏ ​ r 2 1 ​ ∂ r ∂ ​ r 2 = i ℏ ​ ( r 2 ​ + ∂ r ∂ ​ ) = 2 ⋅ i ℏ ​ ( r 1 ​ + ∂ r ∂ ​ ) ⇒ P ^ r ​ = 2 1 ​ ( p ^ ​ r ​ + p ^ ​ r † ​ ) ​
+를 얻는다. 이것이 양자역학적으로 표현된 지름 방향의 운동량(연산자)이다.
+
+따라서
+
+⟨ r ∣ L ^ 2 ∣ f ⟩ = r 2 ⟨ r ∣ p ^ 2 ∣ f ⟩ − r 2 ⟨ r ∣ P ^ r 2 ∣ f ⟩ ⟨ r ∣ p ^ 2 ∣ f ⟩ = ⟨ r ∣ P ^ r 2 ∣ f ⟩ + 1 r 2 ⟨ r ∣ L ^ 2 ∣ f ⟩ ⟨ r ∣ p ^ 2 ∣ f ⟩ = ⟨ r ∣ P ^ r 2 ∣ f ⟩ + ⟨ 1 r ^ 2 r ∣ L ^ 2 ∣ f ⟩ ∴ ⟨ r ∣ p ^ 2 ∣ f ⟩ = ⟨ r ∣ P ^ r 2 ∣ f ⟩ + ⟨ r ∣ 1 r ^ 2 L ^ 2 ∣ f ⟩ \displaystyle \begin{aligned} \langle \mathbf{r} |\hat{L}^{2} | f \rangle&={r}^{2} \langle \mathbf{r} |\hat{p}^{2} | f \rangle -r^{2}\langle \mathbf{r} |\hat{\mathcal{P}}_{r}^{2} | f \rangle \\ \langle \mathbf{r} |\hat{p}^{2} | f \rangle =& \langle \mathbf{r} |\hat{\mathcal{P}}_{r}^{2} | f \rangle +\frac{1}{r^{2}}\langle \mathbf{r} |\hat{L}^{2} | f \rangle \\ \langle \mathbf{r} |\hat{p}^{2} | f \rangle =& \langle \mathbf{r} |\hat{\mathcal{P}}_{r}^{2} | f \rangle +\biggl\langle \frac{1}{\hat{r}^{2}} \mathbf{r} \biggl|\hat{L}^{2} \biggr| f \biggr\rangle \\ \\ \therefore \langle \mathbf{r} |\hat{p}^{2} | f \rangle =& \langle \mathbf{r} |\hat{\mathcal{P}}_{r}^{2} | f \rangle +\biggl\langle \mathbf{r} \biggl| \frac{1}{\hat{r}^{2}} \hat{L}^{2} \biggr| f \biggr\rangle \end{aligned} ⟨ r ∣ L ^ 2 ∣ f ⟩ ⟨ r ∣ p ^ ​ 2 ∣ f ⟩ = ⟨ r ∣ p ^ ​ 2 ∣ f ⟩ = ∴ ⟨ r ∣ p ^ ​ 2 ∣ f ⟩ = ​ = r 2 ⟨ r ∣ p ^ ​ 2 ∣ f ⟩ − r 2 ⟨ r ∣ P ^ r 2 ​ ∣ f ⟩ ⟨ r ∣ P ^ r 2 ​ ∣ f ⟩ + r 2 1 ​ ⟨ r ∣ L ^ 2 ∣ f ⟩ ⟨ r ∣ P ^ r 2 ​ ∣ f ⟩ + ⟨ r ^ 2 1 ​ r ​ L ^ 2 ​ f ⟩ ⟨ r ∣ P ^ r 2 ​ ∣ f ⟩ + ⟨ r ​ r ^ 2 1 ​ L ^ 2 ​ f ⟩ ​
+이상에서
+
+p ^ 2 = P ^ r 2 + 1 r ^ 2 L ^ 2 \displaystyle \begin{aligned} \hat{p}^{2}=\hat{\mathcal{P}}_{r}^{2}+\frac{1}{\hat{r}^{2}}\hat{L}^{2} \end{aligned} p ^ ​ 2 = P ^ r 2 ​ + r ^ 2 1 ​ L ^ 2 ​
+그런데 위치 표현에서는 일반적으로 L ^ ( θ , ϕ ) \hat{L}(\theta,\,\phi) L ^ ( θ , ϕ ) 이고, r ^ − 2 ( r ) = r − 2 \hat{r}^{-2}(r)=r^{-2} r ^ − 2 ( r ) = r − 2 이므로 다음과 같이 써도 무관하다.
+
+p ^ 2 = P ^ r 2 + L ^ 2 r 2 \displaystyle \begin{aligned} \hat{p}^{2}=\hat{\mathcal{P}}_{r}^{2}+\frac{\hat{L}^{2}}{{r}^{2}} \end{aligned} p ^ ​ 2 = P ^ r 2 ​ + r 2 L ^ 2 ​ ​
+양자역학에서도 고전역학과 비슷하게 위치 표현에서 해밀토니언 연산자를 다음과 같이 쓸 수 있음을 얻는다.
+
+H ^ = P ^ r 2 2 m + L ^ 2 2 m r 2 + V ^ \displaystyle \begin{aligned} \hat{\mathcal{H}}=\frac{\hat{\mathcal{P}}_{r}^{2}}{2m}+\frac{\hat{L}^{2}}{2mr^{2}}+\hat{V} \end{aligned} H ^ = 2 m P ^ r 2 ​ ​ + 2 m r 2 L ^ 2 ​ + V ^ ​
+
+7.6.1. 자유입자 [편집]
+자유입자의 경우 V ^ = 0 \hat{V}=0 V ^ = 0 이므로 해밀토니언 연산자는
+
+H ^ = P ^ r 2 2 m + L ^ 2 2 m r 2 \displaystyle \begin{aligned} \hat{\mathcal{H}}=\frac{\hat{\mathcal{P}}_{r}^{2}}{2m}+\frac{\hat{L}^{2}}{2mr^{2}} \end{aligned} H ^ = 2 m P ^ r 2 ​ ​ + 2 m r 2 L ^ 2 ​ ​
+이미 자유입자에 대하여 다음을 증명한 바 있다.
+
+[ H ^ , L ^ 2 ] = [ H ^ , L ^ z ] = 0 \displaystyle \begin{aligned} [\hat{\mathcal{H}},\,\hat{L}^{2}]=[\hat{\mathcal{H}},\,\hat{L}_{z}]=0 \end{aligned} [ H ^ , L ^ 2 ] = [ H ^ , L ^ z ​ ] = 0 ​
+따라서 해밀토니언 연산자에 대한 고유함수는 각운동량 제곱 연산자와 공유하고, 이것은 또 한 축의 각운동량 성분에 대한 연산자와 공유한다. 이에 해밀토니언 연산자에 대한 고유함수를 다음 꼴로 쓸 수 있다.
+
+φ ( r , θ , ϕ ) = R ( r ) Y l m ( θ , ϕ ) \displaystyle \begin{aligned} \varphi(r,\,\theta,\,\phi)=R(r)Y_{l}^{m}(\theta,\,\phi) \end{aligned} φ ( r , θ , ϕ ) = R ( r ) Y l m ​ ( θ , ϕ ) ​
+이것을 이용하면
+
+H ^ φ ( r , θ , ϕ ) = 1 2 m [ P ^ r 2 R ( r ) Y l m ( θ , ϕ ) + L ^ 2 r 2 R ( r ) Y l m ( θ , ϕ ) ] = 1 2 m [ Y l m ( θ , ϕ ) P ^ r 2 R ( r ) + R ( r ) r 2 ℏ 2 l ( l + 1 ) Y l m ( θ , ϕ ) ] = E φ ( r , θ , ϕ ) \displaystyle \begin{aligned} \hat{\mathcal{H}}\varphi(r,\,\theta,\,\phi)&=\frac{1}{2m} \biggl[ \hat{\mathcal{P}}_{r}^{2}R(r)Y_{l}^{m}(\theta,\,\phi)+\frac{\hat{L}^{2}}{r^{2}}R(r)Y_{l}^{m}(\theta,\,\phi)\biggr] \\ &=\frac{1}{2m} \biggl[ Y_{l}^{m}(\theta,\,\phi)\hat{\mathcal{P}}_{r}^{2}R(r)+\frac{R(r)}{r^{2}}\hbar^{2}l(l+1) Y_{l}^{m}(\theta,\,\phi) \biggr] \\&=E \varphi(r,\,\theta,\,\phi) \end{aligned} H ^ φ ( r , θ , ϕ ) ​ = 2 m 1 ​ [ P ^ r 2 ​ R ( r ) Y l m ​ ( θ , ϕ ) + r 2 L ^ 2 ​ R ( r ) Y l m ​ ( θ , ϕ ) ] = 2 m 1 ​ [ Y l m ​ ( θ , ϕ ) P ^ r 2 ​ R ( r ) + r 2 R ( r ) ​ ℏ 2 l ( l + 1 ) Y l m ​ ( θ , ϕ ) ] = E φ ( r , θ , ϕ ) ​
+정리하면
+
+1 r ∂ 2 ∂ r 2 ( r R ( r ) ) − l ( l + 1 ) R ( r ) r 2 = − 2 m E ℏ 2 R ( r ) 1 r ∂ 2 ∂ r 2 ( r R ( r ) ) − [ l ( l + 1 ) r 2 − k 2 ] R ( r ) = 0 ( 2 m E ℏ 2 ≡ k 2 ) r 2 ∂ 2 R ( r ) ∂ r 2 + 2 r ∂ R ( r ) ∂ r + [ r 2 k 2 − l ( l + 1 ) ] R ( r ) = 0 x 2 ∂ 2 R ( x ) ∂ x 2 + 2 x ∂ R ( x ) ∂ x + [ x 2 − l ( l + 1 ) ] R ( x ) = 0 \displaystyle \begin{aligned} \frac{1}{r} \frac{\partial^{2}}{\partial r^{2}} (rR(r))-l(l+1)\frac{R(r)}{r^{2}}&=-\frac{2mE}{\hbar^{2}}R(r) \\ \frac{1}{r} \frac{\partial^{2}}{\partial r^{2}} (rR(r))-\biggl[\frac{l(l+1)}{r^{2}}-k^{2} \biggr]R(r) &=0 \qquad \biggl(\frac{2mE}{\hbar^{2}} \equiv k^{2} \biggr) \\ r^{2}\frac{\partial^{2}R(r)}{\partial r^{2}}+2r\frac{\partial R(r)}{\partial r}+[r^{2}k^{2}-l(l+1) ]R(r)&=0 \\ x^{2}\frac{\partial^{2}R(x)}{\partial x^{2}}+2x\frac{\partial R(x)}{\partial x}+[x^{2}-l(l+1) ]R(x)&=0 \end{aligned} r 1 ​ ∂ r 2 ∂ 2 ​ ( r R ( r )) − l ( l + 1 ) r 2 R ( r ) ​ r 1 ​ ∂ r 2 ∂ 2 ​ ( r R ( r )) − [ r 2 l ( l + 1 ) ​ − k 2 ] R ( r ) r 2 ∂ r 2 ∂ 2 R ( r ) ​ + 2 r ∂ r ∂ R ( r ) ​ + [ r 2 k 2 − l ( l + 1 )] R ( r ) x 2 ∂ x 2 ∂ 2 R ( x ) ​ + 2 x ∂ x ∂ R ( x ) ​ + [ x 2 − l ( l + 1 )] R ( x ) ​ = − ℏ 2 2 m E ​ R ( r ) = 0 ( ℏ 2 2 m E ​ ≡ k 2 ) = 0 = 0 ​
+이것은 구면 베셀 방정식 이고, 제2종 구면 베셀 함수는 x → 0 x\to 0 x → 0 에서 발산하는 문제가 있기에 제1종 구면 베셀 함수만 그 해로 택하여
+
+φ ( r , θ , ϕ ) = ∣ l , k , m ⟩ = j l ( k r ) Y l m ( θ , ϕ ) \displaystyle \begin{aligned} \varphi(r,\,\theta,\,\phi)=| l,\,k,\,m \rangle=j_{l}(kr)Y_{l}^{m}(\theta,\,\phi) \end{aligned} φ ( r , θ , ϕ ) = ∣ l , k , m ⟩ = j l ​ ( k r ) Y l m ​ ( θ , ϕ ) ​
+수학적으로 다음과 같음이 알려져있다.
+
+⟨ l , k , m ∣ l ′ , k ′ , m ′ ⟩ = π 2 k 2 δ l l ′ δ m m ′ δ ( k − k ′ ) \displaystyle \begin{aligned} \langle l,\,k,\,m| l',\,k',\,m' \rangle=\frac{\pi}{2k^{2}}\delta_{ll'}\delta_{mm'}\delta(k-k') \end{aligned} ⟨ l , k , m ∣ l ′ , k ′ , m ′ ⟩ = 2 k 2 π ​ δ l l ′ ​ δ m m ′ ​ δ ( k − k ′ ) ​
+
+직교 좌표계에서 자유입자의 고유함수를 구하면 아래와 같음이 알려져있다.
+
+ψ = 1 ( 2 π ) 3 / 2 e i k ⋅ r \displaystyle \begin{aligned} \psi=\frac{1}{(2\pi)^{3/2}} e^{i \mathbf{k} \boldsymbol{\cdot} \mathbf{r}} \end{aligned} ψ = ( 2 π ) 3/2 1 ​ e i k ⋅ r ​
+이 상태에서 운동량과 해밀토니언을 측정하면 각각 p = ℏ k \mathbf{p}=\hbar \mathbf{k} p = ℏ k , H = ℏ 2 k 2 / 2 m \mathcal{H}=\hbar^{2} k^{2}/2m H = ℏ 2 k 2 /2 m 을 준다. 만일 k = k e r + α e θ + β e ϕ \mathbf{k}=k \mathbf{e}_{r}+\alpha \mathbf{e}_{\theta}+\beta \mathbf{e}_{\phi} k = k e r ​ + α e θ ​ + β e ϕ ​ 일 때, 위 상태에서 각운동량과 관계된 물리량을 측정하면 어떠한 상태가 되는가? 이것은 위의 상태는 선운동량과 해밀토니언에 대하여 결정된 상태임을 이해하면 쉽게 결론을 내릴 수 있다. 이것을 각운동량과 해밀토니언의 고유함수들로 중첩된 상태
+
+e i k ⋅ r = 4 π ∑ l = 0 ∞ ∑ m = − l l i l Y l m ∗ ( α , β ) ∣ l , k , m ⟩ \displaystyle \begin{aligned} e^{i \mathbf{k} \boldsymbol{\cdot} \mathbf{r}}=4\pi \sum_{l=0}^{\infty}\sum_{m=-l}^{l}i^{l} Y_{l}^{m\ast}(\alpha,\,\beta) | l,\,k,\,m \rangle \end{aligned} e i k ⋅ r = 4 π l = 0 ∑ ∞ ​ m = − l ∑ l ​ i l Y l m ∗ ​ ( α , β ) ∣ l , k , m ⟩ ​
+으로 생각하면 그 답이 나온다.
+
+7.6.2. 중심력장에 구속된 입자 [편집]
+앞서 나온 과정 처럼 운동 에너지 연산자와 각운동량 연산자는 서로 교환한다. 즉,
+
+[ T ^ , L ^ z ] = [ T ^ , L ^ 2 ] = 0 \displaystyle \begin{aligned} [\hat{T},\,\hat{L}_{z}]=[\hat{T},\,\hat{L}^{2}]=0 \end{aligned} [ T ^ , L ^ z ​ ] = [ T ^ , L ^ 2 ] = 0 ​
+중심력장의 경우 V ^ = V ( r ) \hat{V}=V(r) V ^ = V ( r ) 이 성립한다. 그렇다면
+
+[ H ^ , L ^ 2 ] = [ T ^ , L ^ 2 ] + [ V ^ , L ^ 2 ] \displaystyle \begin{aligned} [\hat{\mathcal{H}},\,\hat{L}^{2}]=[\hat{T},\,\hat{L}^{2}]+[\hat{V},\,\hat{L}^{2}] \end{aligned} [ H ^ , L ^ 2 ] = [ T ^ , L ^ 2 ] + [ V ^ , L ^ 2 ] ​
+인데, 위치 표현에서 L ^ 2 ( θ , ϕ ) \hat{L}^{2}(\theta,\,\phi) L ^ 2 ( θ , ϕ ) 이므로 우변의 제 2항 또한 0이다. 이는 L ^ z \hat{L}_{z} L ^ z ​ 일 때도 마찬가지로 성립한다. 즉, 중심력장 또한
+
+[ H ^ , L ^ z ] = [ H ^ , L ^ 2 ] = 0 \displaystyle \begin{aligned} [\hat{\mathcal{H}},\,\hat{L}_{z}]=[\hat{\mathcal{H}},\,\hat{L}^{2}]=0 \end{aligned} [ H ^ , L ^ z ​ ] = [ H ^ , L ^ 2 ] = 0 ​
+이므로 { H ^ , L ^ 2 , L ^ z } \{ \hat{\mathcal{H}},\,\hat{L}^{2},\,\hat{L}_{z} \} { H ^ , L ^ 2 , L ^ z ​ } 는 서로 교환하는 연산자의 집합이다.
+
+이 계의 고유함수는 위 점을 고려하면
+
+φ ( r , θ , ϕ ) = R ( r ) Y l m ( θ , ϕ ) \displaystyle \begin{aligned} \varphi(r,\,\theta,\,\phi)=R(r)Y_{l}^{m}(\theta,\,\phi) \end{aligned} φ ( r , θ , ϕ ) = R ( r ) Y l m ​ ( θ , ϕ ) ​
+로 나타낼 수 있다. (규격화 상수는 무시하도록 하겠다.) 구면좌표계에서 해밀토니언 연산자는 앞서 조사한 것과 같이
+
+H ^ = P ^ r 2 2 m + L ^ 2 2 m r 2 + V ( r ) \displaystyle \begin{aligned} \hat{\mathcal{H}}=\frac{\hat{\mathcal{P}}_{r}^{2}}{2m}+\frac{\hat{L}^{2}}{2mr^{2}}+V(r) \end{aligned} H ^ = 2 m P ^ r 2 ​ ​ + 2 m r 2 L ^ 2 ​ + V ( r ) ​
+고유함수를 대입하면
+
+ℏ 2 2 m 1 r ∂ 2 ∂ r 2 ( r R ( r ) ) − ℏ 2 l ( l + 1 ) 2 m r 2 R ( r ) − V ( r ) R ( r ) = − E R ( r ) ℏ 2 2 m 1 r ∂ 2 ∂ r 2 ( r R ( r ) ) − [ ℏ 2 l ( l + 1 ) 2 m r 2 + V ( r ) ] R ( r ) = − E R ( r ) \displaystyle \begin{aligned} \frac{\hbar^{2}}{2m}\frac{1}{r} \frac{\partial^{2}}{\partial r^{2}} (rR(r))-\frac{\hbar^{2}l(l+1)}{2mr^{2}}R(r)-V(r)R(r)&=-ER(r) \\ \frac{\hbar^{2}}{2m}\frac{1}{r} \frac{\partial^{2}}{\partial r^{2}} (rR(r))-\left[\frac{\hbar^{2}l(l+1)}{2mr^{2}}+V(r) \right]R(r)&=-ER(r) \end{aligned} 2 m ℏ 2 ​ r 1 ​ ∂ r 2 ∂ 2 ​ ( r R ( r )) − 2 m r 2 ℏ 2 l ( l + 1 ) ​ R ( r ) − V ( r ) R ( r ) 2 m ℏ 2 ​ r 1 ​ ∂ r 2 ∂ 2 ​ ( r R ( r )) − [ 2 m r 2 ℏ 2 l ( l + 1 ) ​ + V ( r ) ] R ( r ) ​ = − E R ( r ) = − E R ( r ) ​
+위 식이 중심력장에 대한 지름 방향의 파동 방정식이다. 여기서 나온
+
+V e f f ( r ) = ℏ 2 l ( l + 1 ) 2 m r 2 + V ( r ) \displaystyle \begin{aligned} V_{\sf{eff}}(r)=\frac{\hbar^{2}l(l+1)}{2mr^{2}}+V(r) \end{aligned} V eff ​ ( r ) = 2 m r 2 ℏ 2 l ( l + 1 ) ​ + V ( r ) ​
+을 유효 퍼텐셜(effective potential)로 정의한다.
+
+여기서
+
+V ( r ) = − 1 4 π ε 0 Z e 2 r \displaystyle \begin{aligned} V(r)=-\frac{1}{4\pi \varepsilon_{0}}\frac{Ze^{2}}{r} \end{aligned} V ( r ) = − 4 π ε 0 ​ 1 ​ r Z e 2 ​ ​
+로 놓은 것이 수소형 원자의 경우이다. 자세한 내용은 수소 원자 모형 문서를 참조한다.
+
+7.7. 지름 파동 함수와 지름 확률 밀도 함수 [편집]
+위 논의에서 자유입자이거나 중심력장에 구속된 입자에 대한 지름 파동 방정식은
+
+− ℏ 2 2 m 1 r ∂ 2 ∂ r 2 ( r R ( r ) ) + V e f f ( r ) R ( r ) = E R ( r ) \displaystyle -\frac{\hbar^{2}}{2m}\frac{1}{r} \frac{\partial^{2}}{\partial r^{2}} (rR(r))+V_{\sf{eff}}(r)R(r)=ER(r) − 2 m ℏ 2 ​ r 1 ​ ∂ r 2 ∂ 2 ​ ( r R ( r )) + V eff ​ ( r ) R ( r ) = E R ( r )
+으로 구할 수 있고, 입자를 기술하는 파동함수는
+
+φ ( r , θ , ϕ ) = R ( r ) Y l m l ( θ , ϕ ) \displaystyle \varphi(r,\,\theta,\,\phi)= R(r) Y_{l}^{m_{l}}(\theta,\,\phi) φ ( r , θ , ϕ ) = R ( r ) Y l m l ​ ​ ( θ , ϕ )
+형태였다.
+
+따라서 입자를 구면 좌표계의 미소 부피에서 발견할 확률은 다음과 같이 구할 수 있을 것이다.
+
+P ( r , θ , ϕ ) d V = φ ∗ ( r , θ , ϕ ) φ ( r , θ , ϕ ) r 2 d r d Ω \displaystyle P(r,\,\theta,\,\phi)\,{\rm d}V=\varphi^{\ast}(r,\,\theta,\,\phi)\varphi(r,\,\theta,\,\phi)\,r^{2}\,{\rm dr} {\rm d}\Omega P ( r , θ , ϕ ) d V = φ ∗ ( r , θ , ϕ ) φ ( r , θ , ϕ ) r 2 dr d Ω
+규격화는
+
+∫ 0 ∞ ∣ R ( r ) ∣ 2 r 2 d r ∮ Ω Y l m l ∗ ( θ , ϕ ) Y l m l ( θ , ϕ ) d Ω = 1 \displaystyle \int_{0}^{\infty} |R(r)|^{2} \,r^{2}{\rm d}r\oint_{\Omega} Y_{l}^{m_{l}\ast}(\theta,\,\phi)Y_{l}^{m_{l}}(\theta,\,\phi)\,{\rm d}\Omega=1 ∫ 0 ∞ ​ ∣ R ( r ) ∣ 2 r 2 d r ∮ Ω ​ Y l m l ​ ∗ ​ ( θ , ϕ ) Y l m l ​ ​ ( θ , ϕ ) d Ω = 1
+인데, 구면 조화 함수는 모든 입체각에 대한 적분이 1이다. 즉
+
+∫ 0 ∞ ∣ R ( r ) ∣ 2 r 2 d r = 1 \displaystyle \int_{0}^{\infty} |R(r)|^{2} \,r^{2}{\rm d}r=1 ∫ 0 ∞ ​ ∣ R ( r ) ∣ 2 r 2 d r = 1
+인데, 이것이 지름 파동 함수에 대한 규격화 조건 이다. 이것을 다시 쓰면
+
+∫ 0 ∞ ∣ r R ( r ) ∣ 2 d r = 1 \displaystyle \int_{0}^{\infty} |rR(r)|^{2} {\rm d}r=1 ∫ 0 ∞ ​ ∣ r R ( r ) ∣ 2 d r = 1
+즉, 입자를 r r r 과 r + d r r+{\rm d}r r + d r 사이의 구각에서 발견할 확률 P ( r ) d r = ∣ r R ( r ) ∣ 2 d r P(r)\,{\rm d}r = |rR(r)|^{2}\, {\rm d}r P ( r ) d r = ∣ r R ( r ) ∣ 2 d r 이다. 즉, 직각 좌표계처럼 파동함수의 제곱이 확률 밀도 함수가 되지 않고, 가중 함수가 붙어야 확률 밀도 함수가 된다.
+
+참고로 u ( r ) ≡ r R ( r ) u(r) \equiv rR(r) u ( r ) ≡ r R ( r ) 로 정의하여 지름 파동 방정식에 대입하면
+
+− ℏ 2 2 m ∂ 2 u ( r ) ∂ r 2 + V e f f ( r ) u ( r ) = E u ( r ) \displaystyle -\frac{\hbar^{2}}{2m}\frac{\partial^{2}u(r)}{\partial r^{2}} +V_{\sf{eff}}(r)u(r)=Eu(r) − 2 m ℏ 2 ​ ∂ r 2 ∂ 2 u ( r ) ​ + V eff ​ ( r ) u ( r ) = E u ( r )
+1차원 시간에 무관한 슈뢰딩거 방정식과 같은 꼴이 나오게 된다.
+
+8. 스핀 각운동량 [편집]
+자세한 내용은 스핀(물리학) 문서를 참고하십시오.
+[1] 여기서 hat( ^ \hat{\,\:} ^ )은 단위 벡터를 표시하는 것이 아닌 연산자를 나타내는 표기이다. [2] 레비치비타 기호 의 특성 때문이다. [3] 궤도 각운동량 L \mathbf{L} L , 스핀 각운동량 S \mathbf{S} S , 총 각운동량 J \mathbf{J} J 모두 포함된다. [4] 따라서 이들은 에르미트 행렬 이 아니므로 관측 가능한 값을 내놓지 않는다. [5] 일반적으로 교환하는 두 연산자에 대한 고유함수는 공유한다. 자세한 것은 교환자 문서를 참조하라. [6] 즉, 입자의 상태함수가 구면 조화 함수로 주어지는 경우. [7] 무한소 회전을 생각하는 이유는 회전을 벡터로 다루기 위함이다. [8] 공간의 어디 방향으로 보나 똑같은 상황이다. 그런데 입자의 (관측자 입장에서 관측한) 위치가 변한다고 해서 입자의 에너지가 달라지겠는가? [9] 회전 연산자는 곧 회전변환의 일종이다. 해밀토니언은 스칼라이기 때문에 이러한 변환에 불변이다. [10] 사실 각운동량의 합은 총 각운동량의 일종이므로 증명하지 않아도 이렇게 됨을 쉽게 예상할 수 있다. 이 문서의 내용 중 전체 또는 일부는 다른 문서에서 가져왔습니다.
+[ 펼치기 · 접기 ] 운동량 문서의 r66 판 ( 이전 역사 )
+각운동량 문서의 r205 판, 4번 문단 ( 이전 역사 ) 각운동량 연산자/심화 문서의 r34 판 ( 이전 역사 ) [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 남동구알바 쿠팡
+www.coupang.com v-if
+[ [ 로켓배송 ] [ 로켓직구 ] [ 골드박스 ] [ 로켓프레시 ] ]
+흥미진진한 남동구알바, 밤새도록 읽는 재미에 빠져보세요.
+
+] | [ 남동구가구 전문 썸앤데코
+m.place.naver.com/place/1778971598 v-if
+자체제작 가구 및 타브랜드제품을 가성비있게 제공하는 가구전문 브랜드 썸앤데코
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

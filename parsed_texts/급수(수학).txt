@@ -1,0 +1,437 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 급수(수학)
+최근 수정 시각: 2026-04-04 11:59:53 [ [ [ ] [ [ 24 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 급수(수학)
+- 수열
+]
+
+[ [ ] [ 유한 급수와 합의 기호에 대한 내용은 수열 문서를 참고하십시오.
+sum 은(는) 여기로 연결됩니다. 동명의 유튜버에 대한 내용은 sum(유튜버) 문서를 참고하십시오.
+해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 수학적 정의 3 . 주의점 4 . 기본 성질 5 . 급수의 수렴과 수열의 극한과의 관계 6 . 절대 수렴과 조건 수렴 7 . 급수의 수렴 판정 7.1 . 코시 판정법 7.2 . 비교 판정법 7.2.1 . 따름 정리 1 7.2.2 . 따름 정리 2: 극한 비교 판정법 7.3 . 적분 판정법 7.3.1 . p-급수 판정법 7.4 . 비율 판정법 7.4.1 . 따름정리 7.5 . 근 판정법 7.5.1 . 따름정리 7.6 . 라베 판정법 7.7 . 교대급수 판정법 7.8 . 디리클레 판정법 7.9 . 아벨 판정법 7.10 . 코시 응집 판정법 8 . 주요 급수
+
+1. 개요 [편집]
+급수 ( 級 數 , series)는 수열 의 모든 항의 합이다.
+
+2. 수학적 정의 [편집]
+급수는 수열의 극한 으로 이해되어야 한다. 수열 { a n } \{a_n\} { a n ​ } 의 제 n n n 항까지의 합으로 정의된 새로운 수열 { S n } \{S_n\} { S n ​ } 을 고려해보자. S n = ∑ k = 1 n a k = a 1 + a 2 + a 3 + ⋯ + a n \begin{aligned}S_n = \sum_{k=1}^n a_k = a_1 +a_2 +a_3 +\cdots +a_n\end{aligned} S n ​ = k = 1 ∑ n ​ a k ​ = a 1 ​ + a 2 ​ + a 3 ​ + ⋯ + a n ​ ​
+
+이것을 제 n \boldsymbol n n 항까지의 부분합 , 혹은 간단히 부분합 이라고 한다. 부분합에 대해 다음 수열의 극한 lim ⁡ n → ∞ S n = lim ⁡ n → ∞ ∑ k = 1 n a k \begin{aligned}\lim_{n\to\infty} S_n = \lim_{n\to\infty} \sum_{k=1}^n a_k\end{aligned} n → ∞ lim ​ S n ​ = n → ∞ lim ​ k = 1 ∑ n ​ a k ​ ​
+
+을 생각할 수 있고, 이것을 급수 라 한다. 이 급수가 수렴한다면, 극한값을 S S S 라 하자. S = lim ⁡ n → ∞ S n = lim ⁡ n → ∞ ∑ k = 1 n a k \begin{aligned}S = \lim_{n\to\infty} S_n = \lim_{n\to\infty} \sum_{k=1}^n a_k\end{aligned} S = n → ∞ lim ​ S n ​ = n → ∞ lim ​ k = 1 ∑ n ​ a k ​ ​
+
+이것을 기호로 다음과 같이 나타낸다. S = ∑ n = 1 ∞ a n \begin{aligned}S = \sum_{n=1}^\infty a_n\end{aligned} S = n = 1 ∑ ∞ ​ a n ​ ​
+
+이때, 다음과 같은 기호를 차용하기도 한다. - S = ∑ n ∈ N a n \displaystyle S = \sum_{n\in\N} a_n S = n ∈ N ∑ ​ a n ​ [1]
+- S = ∑ a n \displaystyle S = \sum a_n S = ∑ a n ​ [2]
+
+위 { a n } \{a_n\} { a n ​ } 의 생성함수 를 f ( x ) f(x) f ( x ) 라 하고, 스틸체스 적분 꼴로 표현하면 다음과 같다. ∫ 1 ∞ f ( x ) d ⌊ x ⌋ \begin{aligned}\int_1^\infty f(x) \,{\rm d}\lfloor x\rfloor\end{aligned} ∫ 1 ∞ ​ f ( x ) d ⌊ x ⌋ ​ [A]
+
+급수의 직관적인 해석은 어떤 수열에 대해 특정 항에서 다른 항의 수를 모두 더하란 뜻으로, 유한 수열과 다르게 특정한 항까지 더하는 개념이 아니라 끝없이 보탠다.
+
+위를 정리하면 아래와 같다. 급수 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty} a_n n = 1 ∑ ∞ ​ a n ​ 의 부분합을 S n S_n S n ​ 이라 할 때, 수열 { S n } \{S_n\} { S n ​ } 이 어떤 실수 S S S 로 수렴할 때, 해당 급수는 S S S 로 수렴한다 고 정의한다. 급수가 수렴하지 않으면 발산한다 고 한다.
+
+3. 주의점 [편집]
+정의를 보면 알겠지만 급수의 정의는 부분합의 극한값 이다. 저 위에 무한히 많은 항을 더한 것 같은 표현은 그저 무한대 표시처럼 관습적인 표현으로 알아두자. 그래서인지, 급수를 처음 배울 때는 많은 수학 선생님들이 첫 번째 표현을 많이 강조한다.
+
+무한 번 더하는 것과 무한급수가 다르다는 것은 리만 재배열 정리 라는 걸 통해 직관적으로 이해할 수 있다. 단순하게 말해서, 조건 수렴하는 급수는 덧셈과 달리 교환법칙 이 안 먹힌다는 이야기다. [4]
+
+또 다른 주의점으로는, 각 항이 유리수라면 부분합도 항상 유리수이지만, 부분합의 극한인 급수는 무리수 일 수 있다는 점이 있다. 사실, 일반적으로 실수는 유리수 수열의 극한을 통해 구성하기도 한다. 곧, 모든 실수는 유리수의 급수로 표현이 가능하다. 한 가지 예시로는 다음을 들 수 있다. π 4 = ∑ n = 0 ∞ ( − 1 ) n 2 n + 1 = 1 − 1 3 + 1 5 − 1 7 + 1 9 − 1 11 + ⋯ \begin{aligned}\frac\pi4 &= \sum_{n=0}^\infty \frac{(-1)^n}{2n+1} \\&= 1 -\frac13 +\frac15 -\frac17 +\frac19 -\frac1{11} +\cdots \end{aligned} 4 π ​ ​ = n = 0 ∑ ∞ ​ 2 n + 1 ( − 1 ) n ​ = 1 − 3 1 ​ + 5 1 ​ − 7 1 ​ + 9 1 ​ − 11 1 ​ + ⋯ ​
+
+4. 기본 성질 [편집]
+∑ n = 1 ∞ a n \displaystyle\sum_{n=1}^\infty a_n n = 1 ∑ ∞ ​ a n ​ 과 ∑ n = 1 ∞ b n \displaystyle\sum_{n=1}^\infty b_n n = 1 ∑ ∞ ​ b n ​ 이 수렴할 때, 다음을 얻는다. - ∑ n = 1 ∞ ( a n ± b n ) = ∑ n = 1 ∞ a n ± ∑ n = 1 ∞ b n \displaystyle \sum_{n=1}^\infty (a_n \pm b_n) = \sum_{n=1}^\infty a_n \pm \sum_{n=1}^\infty b_n n = 1 ∑ ∞ ​ ( a n ​ ± b n ​ ) = n = 1 ∑ ∞ ​ a n ​ ± n = 1 ∑ ∞ ​ b n ​
+- ∑ n = 1 ∞ c a n = c ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^\infty ca_n = c\sum_{n=1}^\infty a_n n = 1 ∑ ∞ ​ c a n ​ = c n = 1 ∑ ∞ ​ a n ​ (단, c c c 는 상수)
+
+이는 합의 기호 및 극한의 성질로부터 유도할 수 있다.
+
+5. 급수의 수렴과 수열의 극한과의 관계 [편집]
+급수 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty} a_n n = 1 ∑ ∞ ​ a n ​ 이 수렴하면 lim ⁡ n → ∞ a n = 0 \displaystyle \lim_{n \to \infty} a_n=0 n → ∞ lim ​ a n ​ = 0 이다.
+
+주의해야 할 것은 이 정리의 역은 성립하지 않는다는 점이다. 반례는 { 1 / n } \{1/n\} { 1/ n } 으로 lim ⁡ n → ∞ 1 n = 0 \lim\limits_{n\to \infty} \cfrac 1n=0 n → ∞ lim ​ n 1 ​ = 0
+
+이지만 급수 ∑ n = 1 ∞ 1 n = ∞ \displaystyle \sum_{n=1}^{\infty} \frac 1n=\infty n = 1 ∑ ∞ ​ n 1 ​ = ∞
+
+로 수렴하지 않음이 알려져있다.
+
+보통 증명을 할 때는 이것의 대우를 사용한다. lim ⁡ n → ∞ a n ≠ 0 \lim\limits_{n\to \infty} a_n \neq 0 n → ∞ lim ​ a n ​  = 0 이면, 급수 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty} a_n n = 1 ∑ ∞ ​ a n ​ 은 발산한다.
+
+이 때, a n a_n a n ​ 의 극한값이 양수이면 급수 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty} a_n n = 1 ∑ ∞ ​ a n ​ 은 항상 양의 무한대로 발산하며, a n a_n a n ​ 의 극한값이 음수이면 급수 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty} a_n n = 1 ∑ ∞ ​ a n ​ 은 항상 음의 무한대로 발산한다. [5]
+
+증명은 아래와 같다. 급수가 수렴하므로 lim ⁡ n → ∞ S n = S \lim\limits_{n\to \infty} S_n=S n → ∞ lim ​ S n ​ = S 이며, lim ⁡ n → ∞ S n − 1 = S \lim\limits_{n\to\infty} S_{n-1}=S n → ∞ lim ​ S n − 1 ​ = S 또한 성립한다.
+
+수열 문서로부터 a n = S n − S n − 1 a_n=S_n-S_{n-1} a n ​ = S n ​ − S n − 1 ​
+
+이므로 극한을 취하면 lim ⁡ n → ∞ a n = lim ⁡ n → ∞ ( S n − S n − 1 ) = lim ⁡ n → ∞ S n − lim ⁡ n → ∞ S n − 1 = S − S = 0 \begin{aligned} \lim_{n \to \infty} a_n&=\lim_{n \to \infty} (S_n-S_{n-1}) \\&=\lim_{n \to \infty} S_n -\lim_{n \to \infty} S_{n-1} \\&=S-S \\&=0 \end{aligned} n → ∞ lim ​ a n ​ ​ = n → ∞ lim ​ ( S n ​ − S n − 1 ​ ) = n → ∞ lim ​ S n ​ − n → ∞ lim ​ S n − 1 ​ = S − S = 0 ​
+
+이 방법을 통해 급수의 수렴 여부를 판단하는 것을 일반항 판정법(발산 판정법) 이라 한다.
+
+6. 절대 수렴과 조건 수렴 [편집]
+급수 ∑ n = 1 ∞ ∣ a n ∣ \displaystyle \sum_{n=1}^{\infty} |a_n| n = 1 ∑ ∞ ​ ∣ a n ​ ∣ 이 수렴하면 급수 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty} a_n n = 1 ∑ ∞ ​ a n ​ 은 절대 수렴 한다고 하며, 급수 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty} a_{n} n = 1 ∑ ∞ ​ a n ​ 은 수렴하나 급수 ∑ n = 1 ∞ ∣ a n ∣ \displaystyle \sum_{n=1}^{\infty} |a_n| n = 1 ∑ ∞ ​ ∣ a n ​ ∣ 이 수렴하지 않으면 조건 수렴 한다고 한다. [6]
+
+이때 다음이 성립한다. 급수 ∑ n = 1 ∞ ∣ a n ∣ \displaystyle \sum_{n=1}^{\infty} |a_n| n = 1 ∑ ∞ ​ ∣ a n ​ ∣ 이 수렴하면, 급수 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty} a_n n = 1 ∑ ∞ ​ a n ​ 도 수렴한다. 즉, 절대 수렴하는 급수는 수렴한다.
+
+이것의 증명은 아래와 같다. [증명] 모든 a n a_n a n ​ 에 대하여
+
+− ∣ a n ∣ ≤ a n ≤ ∣ a n ∣ \displaystyle -|a_n| \leq a_n \leq |a_n| − ∣ a n ​ ∣ ≤ a n ​ ≤ ∣ a n ​ ∣
+이므로
+
+0 ≤ ∑ n = 1 ∞ ( a n + ∣ a n ∣ ) ≤ 2 ∑ n = 1 ∞ ∣ a n ∣ \displaystyle 0 \leq \sum_{n=1}^{\infty} (a_n + |a_n|) \leq 2\sum_{n=1}^{\infty} |a_n| 0 ≤ n = 1 ∑ ∞ ​ ( a n ​ + ∣ a n ​ ∣ ) ≤ 2 n = 1 ∑ ∞ ​ ∣ a n ​ ∣
+이다. 이때, 급수 ∑ n = 1 ∞ ∣ a n ∣ \displaystyle\sum_{n=1}^{\infty}|a_n| n = 1 ∑ ∞ ​ ∣ a n ​ ∣ 이 값 A A A 로 수렴한다면,
+
+0 ≤ ∑ n = 1 ∞ ( a n + ∣ a n ∣ ) ≤ 2 A \displaystyle 0 \leq \sum_{n=1}^{\infty}(a_n + |a_n|) \leq 2A 0 ≤ n = 1 ∑ ∞ ​ ( a n ​ + ∣ a n ​ ∣ ) ≤ 2 A
+형태가 돼, ∑ n = 1 ∞ ( a n + ∣ a n ∣ ) \displaystyle\sum_{n=1}^{\infty}(a_n + |a_n|) n = 1 ∑ ∞ ​ ( a n ​ + ∣ a n ​ ∣ ) 는 각 항이 양수인 수열의 급수로, 단조 수렴 정리 에 의해 또한 수렴할 수밖에 없다. 해당 수렴값을 B B B 라고 한다면, 극한의 성질에 의해 ∑ n = 1 ∞ a n \displaystyle\sum_{n=1}^{\infty}a_n n = 1 ∑ ∞ ​ a n ​ 는 B − A B-A B − A 로 수렴한다. [7]
+
+조금 더 심화적인 증명은 아래와 같다. [심화 증명] 급수 ∑ n = 1 ∞ ∣ a n ∣ \displaystyle \sum_{n=1}^{\infty}|a_n| n = 1 ∑ ∞ ​ ∣ a n ​ ∣ 이 수렴하면, 코시 판정법에 따라 임의의 ε > 0 \varepsilon >0 ε > 0 에 대하여
+
+∀ n ≥ N , ∀ p ∈ N : ∣ ∣ a n + 1 ∣ + ∣ a n + 2 ∣ + ⋯ ∣ a n + p ∣ ∣ = ∣ a n + 1 ∣ + ∣ a n + 2 ∣ + ⋯ ∣ a n + p ∣ < ε \forall n \geq N,\, \forall p \in {\mathbb{N} : \quad \left|\left|a_{n+1}\right| + \left|a_{n+2}\right| + \cdots \left|a_{n+p}\right|\right| = \left|a_{n+1}\right| + \left|a_{n+2}\right| + \cdots \left|a_{n+p}\right| < \varepsilon} ∀ n ≥ N , ∀ p ∈ N : ∣ ∣ a n + 1 ​ ∣ + ∣ a n + 2 ​ ∣ + ⋯ ∣ a n + p ​ ∣ ∣ = ∣ a n + 1 ​ ∣ + ∣ a n + 2 ​ ∣ + ⋯ ∣ a n + p ​ ∣ < ε
+를 만족시키는 자연수 N N N 이 존재한다.
+
+∣ a n + 1 + a n + 2 + ⋯ a n + p ∣ ≤ ∣ a n + 1 ∣ + ∣ a n + 2 ∣ + ⋯ ∣ a n + p ∣ \left|a_{n+1} + a_{n+2} + \cdots a_{n+p} \right| \leq \left|a_{n+1}\right| + \left|a_{n+2}\right| + \cdots \left|a_{n+p}\right| ∣ a n + 1 ​ + a n + 2 ​ + ⋯ a n + p ​ ∣ ≤ ∣ a n + 1 ​ ∣ + ∣ a n + 2 ​ ∣ + ⋯ ∣ a n + p ​ ∣
+이므로 또 다시 코시 판정법에 의해 급수 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty}a_n n = 1 ∑ ∞ ​ a n ​ 또한 수렴한다.
+
+절댓값 대신 택시 노름 같은 임의의 노름 을 사용해도 성립한다. 또한 이는 실수와 같은 바나흐 공간 에서만 성립하는 성질이다. 즉, 유리수에선 성립하지 않을 수가 있다.
+
+7. 급수의 수렴 판정 [편집]
+급수는 수학 및 물리학 등의 학문에서 중요하게 다뤄지는 토픽 중 하나이다.
+
+이제 관심사는 "과연 이 급수가 수렴을 할 것인가"를 판단하는 것이다. 우선 어떠한 급수를 구해놨다고 하더라도 발산하면, 특히 물리학에서는 [8] , 그 급수는 별다른 의미를 가지지 못하는 것이 되기 때문이다.
+
+그렇기 때문에 이 급수의 수렴 판정은 중요한 과제 중 하나였기 때문에 많은 수학자들에 의해서 연구됐고, 그 성과 또한 많이 나와있다. 여기서는 그 중 일부를 수록하였다.
+
+7.1. 코시 판정법 [편집]
+급수 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty} a_n n = 1 ∑ ∞ ​ a n ​ 이 수렴하면, 임의의 ε > 0 \varepsilon >0 ε > 0 에 대하여
+
+∀ n ≥ N , ∀ p ∈ N : ∣ a n + 1 + a n + 2 + ⋯ + a n + p ∣ < ε \begin{aligned} \forall n \geq N, \ \forall p \in {\mathbb{N}} : \quad \left|a_{n+1} + a_{n+2} + \cdots + a_{n+p}\right|<\varepsilon \end{aligned} ∀ n ≥ N , ∀ p ∈ N : ∣ a n + 1 ​ + a n + 2 ​ + ⋯ + a n + p ​ ∣ < ε ​
+를 만족하는 자연수 N N N 이 존재한다. 이 명제의 역 또한 성립한다.
+
+코시의 이 기준은, 실수상에서 수렴성과 동치이다. [9] 그리고 수렴성의 정의와는 달리, 구체적인 수렴값은 몰라도 좋다. 때문에, 해석학과 (거리가 주어진) 위상공간에서 아주 중요한 역할을 한다. 코시의 기준을 만족하는 수열을 코시 수열 또는 기본 수열이라 부르고, 코시 수열이 수렴하는 공간을 "완비적이다" 또는 "완비성을 가졌다." 고 표현한다. [10]
+
+또한, 코시 응집 판정법과는 별개다.
+[증명] 급수 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty} a_n n = 1 ∑ ∞ ​ a n ​ 이 수렴한다고 가정하면 부분합 S n S_n S n ​ 은 코시 수열이어야 한다. 즉, 어떤 자연수 N N N 에 대하여
+
+∀ n , ∀ m ≥ N : ∣ S m − S n ∣ < ε \begin{aligned} \forall n ,\, \forall m \geq N : \quad \left|S_m-S_n\right| < \varepsilon \end{aligned} ∀ n , ∀ m ≥ N : ∣ S m ​ − S n ​ ∣ < ε ​
+가 성립한다. 이는 곧 코시 판정법이 성립함을 의미한다.
+
+역으로 코시 판정법이 성립한다 가정하면, 부분합 S n S_{n} S n ​ 이 코시 수열임을 의미하고, 이것은 곧 급수 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty} a_{n} n = 1 ∑ ∞ ​ a n ​ 이 수렴함을 의미한다.
+
+7.2. 비교 판정법 [편집]
+어떤 자연수 N N N 에 대하여
+
+∀ n ≥ N : 0 < a n ≤ b n \forall n \geq N:\quad 0<a_n \leq b_n ∀ n ≥ N : 0 < a n ​ ≤ b n ​
+이라 가정하자. 이때, 급수 ∑ n = 1 ∞ b n \displaystyle \sum_{n=1}^{\infty} b_n n = 1 ∑ ∞ ​ b n ​ 이 수렴하면, ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty} a_n n = 1 ∑ ∞ ​ a n ​ 도 수렴한다.
+
+보통 'DCT(direct comparison test)'라 부른다.
+[증명] 위 코시 판정법에 의해 N = 1 N=1 N = 1 일 때를 증명하여도 충분하다.
+
+A n = ∑ k = 1 n a k B n = ∑ k = 1 n b k \begin{aligned} A_n=\sum_{k=1}^n a_k \\ B_n=\sum_{k=1}^n b_k \end{aligned} A n ​ = k = 1 ∑ n ​ a k ​ B n ​ = k = 1 ∑ n ​ b k ​ ​
+라 하자. 항 a k a_k a k ​ , b k b_k b k ​ 가 모두 양수이므로 수열 { A n } \{A_n\} { A n ​ } , { B n } \{B_n\} { B n ​ } 은 증가한다. 또한, a k ≤ b k a_k \leq b_k a k ​ ≤ b k ​ 이므로
+
+∀ n ≥ N : 0 < A n ≤ B n \forall n \geq N:\quad 0<A_n \leq B_n ∀ n ≥ N : 0 < A n ​ ≤ B n ​
+이다. 이제 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty} a_{n} n = 1 ∑ ∞ ​ a n ​ 이 발산한다고 가정하면, { A n } \{A_n\} { A n ​ } 도 발산하고, 이것은 곧 그 수열이 유계가 아님을 의미한다. 따라서 { B n } \left\{B_n\right\} { B n ​ } 도 유계가 아니고, ∑ n = 1 ∞ b n \displaystyle \sum_{n=1}^{\infty}b_n n = 1 ∑ ∞ ​ b n ​ 도 발산한다.
+
+7.2.1. 따름 정리 1 [편집]
+자연수 n = 1 , 2 , 3 , ⋯ n=1,\,2,\,3,\,\cdots n = 1 , 2 , 3 , ⋯ 에 대하여 a n > 0 a_{n}>0 a n ​ > 0 , b n > 0 b_{n}>0 b n ​ > 0 이고 두 수열
+
+{ a n b n } \biggl\{\dfrac{a_n}{b_n} \biggr\} { b n ​ a n ​ ​ } , { b n a n } \quad \biggl\{\dfrac{b_n}{a_n} \biggr\} { a n ​ b n ​ ​ }
+이 유계이면, 두 급수 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty}a_n n = 1 ∑ ∞ ​ a n ​ , ∑ n = 1 ∞ b n \displaystyle \sum_{n=1}^{\infty}b_n n = 1 ∑ ∞ ​ b n ​ 은 둘 다 수렴하거나 둘 다 발산한다.
+
+[증명] { a n / b n } \{{a_n}/{b_n}\} { a n ​ / b n ​ } , { b n / a n } \{{b_n}/{a_n}\} { b n ​ / a n ​ } 이 유계이므로 임의의 자연수 n n n 에 대하여
+
+a n b n ≤ M 1 \dfrac{a_n}{b_n}\leq M_{1} b n ​ a n ​ ​ ≤ M 1 ​ , b n a n ≤ M 2 \quad \dfrac{b_n}{a_n}\leq M_{2} a n ​ b n ​ ​ ≤ M 2 ​
+가 성립하는 양수 M 1 M_1 M 1 ​ , M 2 M_2 M 2 ​ 가 존재한다.
+
+따라서
+
+0 < 1 M 1 ≤ b n a n ≤ M 2 0<\dfrac{1}{M_1} \leq \dfrac{b_n}{a_n} \leq M_2 0 < M 1 ​ 1 ​ ≤ a n ​ b n ​ ​ ≤ M 2 ​
+이고, 곧
+
+0 < a n M 1 ≤ b n ≤ M 2 a n 0<\dfrac{a_n}{M_1} \leq b_n \leq M_2 a_n 0 < M 1 ​ a n ​ ​ ≤ b n ​ ≤ M 2 ​ a n ​
+이다. 따라서 비교 판정법에 의해 위 명제는 참이다.
+
+7.2.2. 따름 정리 2: 극한 비교 판정법 [편집]
+자연수 n = 1 , 2 , 3 , ⋯ n=1,\,2,\,3,\,\cdots n = 1 , 2 , 3 , ⋯ 에 대하여 a n > 0 a_n>0 a n ​ > 0 , b n > 0 b_n>0 b n ​ > 0 이고 두 수열
+
+lim ⁡ n → ∞ b n a n \lim\limits_{n \to \infty} \cfrac{b_n}{a_n} n → ∞ lim ​ a n ​ b n ​ ​
+이 양수로서 존재하면, 두 급수 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty}a_n n = 1 ∑ ∞ ​ a n ​ , ∑ n = 1 ∞ b n \displaystyle \sum_{n=1}^{\infty}b_n n = 1 ∑ ∞ ​ b n ​ 은 둘 다 수렴하거나 둘 다 발산한다.
+
+이 판정법은 'LCT(limit comparison test)'라 부르기도 한다.
+
+이 판정법은 위 따름 정리 1의 특별한 경우이다. 다음의 추가 정리 2개는 각각 LCT의 사용 범위를 넓히는 역할을 한다. [추가 정리] - 자연수 n = 1 , 2 , 3 , ⋯ n = 1,\, 2,\, 3,\, \cdots n = 1 , 2 , 3 , ⋯ 에 대해 a n > 0 , b n > 0 , lim ⁡ n → ∞ b n a n = 0 a_n>0, \,b_n>0, \, \lim\limits_{n \to \infty} \cfrac{b_n}{a_n} = 0 a n ​ > 0 , b n ​ > 0 , n → ∞ lim ​ a n ​ b n ​ ​ = 0 이고, ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty}a_n n = 1 ∑ ∞ ​ a n ​ 가 수렴하면 ∑ n = 1 ∞ b n \displaystyle \sum_{n=1}^{\infty}b_n n = 1 ∑ ∞ ​ b n ​ 도 수렴한다.
+- 자연수 n = 1 , 2 , 3 , ⋯ n = 1,\, 2,\, 3,\, \cdots n = 1 , 2 , 3 , ⋯ 에 대해 a n > 0 , b n > 0 , lim ⁡ n → ∞ b n a n = ∞ a_n>0,\, b_n>0, \, \lim\limits_{n \to \infty} \cfrac{b_n}{a_n} = \infty a n ​ > 0 , b n ​ > 0 , n → ∞ lim ​ a n ​ b n ​ ​ = ∞ 이고, ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty}a_n n = 1 ∑ ∞ ​ a n ​ 가 발산하면 ∑ n = 1 ∞ b n \displaystyle \sum_{n=1}^{\infty}b_n n = 1 ∑ ∞ ​ b n ​ 도 발산한다.
+
+증명은 아래와 같다. [증명] - 어떤 자연수 N N N 에 대해 ∀ n ≥ N : b n a n ≤ 1 \forall n \geq N :\quad\dfrac{b_n}{a_n}\leq 1 ∀ n ≥ N : a n ​ b n ​ ​ ≤ 1 이다. DCT에 의해 명제는 참이다.
+- 어떤 자연수 N N N 에 대해 ∀ n ≥ N : b n a n ≥ 1 \forall n \geq N : \quad\dfrac{b_n}{a_n} \geq 1 ∀ n ≥ N : a n ​ b n ​ ​ ≥ 1 이다. DCT에 의해 명제는 참이다. [12]
+
+7.3. 적분 판정법 [편집]
+
+적분 판정법의 초등적인 아이디어를 위의 시각 자료를 통해 알아보자.
+
+구간 [ 1 , ∞ ) [1,\,\infty) [ 1 , ∞ ) 에서 연속이며, 감소하는 함수 y = f ( x ) y=f(x) y = f ( x ) 를 고려하자. 또한 이 함수의 치역은 양수이다. (a) 와 같이 밑변의 길이가 1 1 1 이고, 자연수 n n n 에 대하여 높이가 f ( n ) = a n f(n)=a_n f ( n ) = a n ​ 인 직사각형들을 고려하자.
+
+이때,
+
+∑ n = 1 ∞ a n = a 1 + a 2 + a 3 + ⋯ + a n + ⋯ \displaystyle \sum_{n=1}^{\infty}a_n=a_1+a_2+a_3+\cdots+a_n+\cdots n = 1 ∑ ∞ ​ a n ​ = a 1 ​ + a 2 ​ + a 3 ​ + ⋯ + a n ​ + ⋯
+은 곧 이 무한한 개수의 직사각형의 넓이의 합이 될 것이다.
+
+한편, (b) 와 같이 y = f ( x ) y=f(x) y = f ( x ) 와 x = 1 x=1 x = 1 과 x = ∞ x=\infty x = ∞ , x x x 축으로 둘러싸인 넓이 S S S 는 이상 적분으로 표기할 수 있으며, 아래와 같다.
+
+S = ∫ 1 ∞ f ( x ) d x \displaystyle S=\int_{1}^{\infty} f(x)\,{\rm d}x S = ∫ 1 ∞ ​ f ( x ) d x
+
+그런데, 그림에서 볼 수 있듯
+
+0 < ∑ n = 1 ∞ a n < S \displaystyle 0< \sum_{n=1}^{\infty} a_n < S 0 < n = 1 ∑ ∞ ​ a n ​ < S
+이므로 S S S 가 수렴한다면, 급수 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty} a_n n = 1 ∑ ∞ ​ a n ​ 은 수렴할 수밖에 없다.
+
+따라서 급수의 수렴 여부를 판단하는 것은 아래의 이상 적분
+
+∫ 1 ∞ f ( x ) d x \displaystyle \int_1^{\infty} f(x)\,{\rm d}x ∫ 1 ∞ ​ f ( x ) d x
+의 수렴 여부를 판단하는 것으로 충분하다.
+
+이상을 심화적으로 알아보자. 수열 { a n } \{a_n\} { a n ​ } 의 항이 - 전부 양수이며,
+- lim ⁡ n → 0 a n = 0 \lim\limits_{n \to 0} a_n=0 n → 0 lim ​ a n ​ = 0 이고,
+- [ 1 , ∞ ) [1,\,\infty) [ 1 , ∞ ) 에서 정의된 함수 ∀ n ∈ N : f ( n ) = a n \forall n\in\N:\quad f(n) = a_n ∀ n ∈ N : f ( n ) = a n ​ 이 감소 함수이면,
+
+급수 ∑ n = 0 ∞ a n \displaystyle \sum_{n=0}^{\infty} a_n n = 0 ∑ ∞ ​ a n ​ 과 수열 ∫ 1 n f ( x ) d x \displaystyle \int_1^n f(x)\,{\rm d}x ∫ 1 n ​ f ( x ) d x 는 둘 다 수렴하거나 둘 다 발산한다.
+
+[증명] 모든 자연수 k k k 에 대하여
+
+∀ x ∈ [ k , k + 1 ] : a k + 1 ≤ f ( x ) ≤ a k \forall x\in[k,\,k+1]:\quad a_{k+1} \le f(x) \le a_k ∀ x ∈ [ k , k + 1 ] : a k + 1 ​ ≤ f ( x ) ≤ a k ​
+이므로
+
+a k + 1 ≤ ∫ k k + 1 f ( x ) d x ≤ a k \displaystyle a_{k+1} \leq \int_k^{k+1}f(x)\,{\rm d}x \leq a_k a k + 1 ​ ≤ ∫ k k + 1 ​ f ( x ) d x ≤ a k ​
+이다. 만약 n ≥ 2 n \geq 2 n ≥ 2 이면,
+
+∑ k = 1 n − 1 a k + 1 ≤ ∑ k = 1 n − 1 ∫ k k + 1 f ( x ) d x ≤ ∑ k = 1 n − 1 a k \displaystyle \sum_{k=1}^{n-1} a_{k+1} \leq \sum_{k=1}^{n-1} \int_k^{k+1} f(x)\,{\rm d}x \leq \sum_{k=1}^{n-1}a_k k = 1 ∑ n − 1 ​ a k + 1 ​ ≤ k = 1 ∑ n − 1 ​ ∫ k k + 1 ​ f ( x ) d x ≤ k = 1 ∑ n − 1 ​ a k ​
+이고, 곧
+
+S n − a 1 ≤ ∫ 1 n f ( x ) d x ≤ S n − 1 \displaystyle S_n-a_1 \leq \int_1^n f(x)\,{\rm d}x \leq S_{n-1} S n ​ − a 1 ​ ≤ ∫ 1 n ​ f ( x ) d x ≤ S n − 1 ​
+이다. 각 자연수 k k k 에 대하여 a k a_k a k ​ 이므로 수열 { S n } \{S_n\} { S n ​ } 은 단조 증가 한다.
+
+비슷하게, f ( x ) > 0 f(x)>0 f ( x ) > 0 , x ∈ [ 1 , ∞ ) x \in [1,\,\infty) x ∈ [ 1 , ∞ ) 이므로
+
+∫ 1 n f ( x ) d x \displaystyle \int_1^n f(x)\,{\rm d}x ∫ 1 n ​ f ( x ) d x
+또한 단조 증가 수열이다.
+
+이제 급수 ∑ n = 0 ∞ a n \displaystyle \sum_{n=0}^{\infty} a_n n = 0 ∑ ∞ ​ a n ​ 이 수렴한다고 가정하자. 그럼
+
+∫ 1 n f ( x ) d x \displaystyle \int_1^n f(x)\,{\rm d}x ∫ 1 n ​ f ( x ) d x
+는 유계 이고 따라서 수렴한다.
+
+역으로
+
+∫ 1 n f ( x ) d x \displaystyle \int_1^n f(x)\,{\rm d}x ∫ 1 n ​ f ( x ) d x
+가 수렴하면, ∑ n = 0 ∞ a n \displaystyle \sum_{n=0}^{\infty} a_n n = 0 ∑ ∞ ​ a n ​ 는 유계이고, 수렴한다. ∑ k = 1 ∞ a n \displaystyle \sum_{k=1}^{\infty} a_n k = 1 ∑ ∞ ​ a n ​ 은 유계이고, 따라서 수렴한다. [13]
+
+7.3.1. p-급수 판정법 [편집]
+급수 ∑ n = 1 ∞ 1 n p \displaystyle \sum_{n=1}^{\infty}\frac{1}{n^p} n = 1 ∑ ∞ ​ n p 1 ​ 에 대해, - p > 1 p>1 p > 1 이면 수렴하고,
+- p ≤ 1 p \leq 1 p ≤ 1 이면 발산한다.
+
+적분 판정법의 특별한 경우이다. [14] 지수(power)를 보고 판별하기 때문에 p-급수라는 이름이 붙었다. n의 p제곱이 아닌, n의 -p제곱의 무한급수라는 것에 주의.
+
+7.4. 비율 판정법 [편집]
+a n a_n a n ​ 의 각 항이 0이 아니고,
+
+lim sup ⁡ n → ∞ ∣ a n + 1 a n ∣ = R lim inf ⁡ n → ∞ ∣ a n + 1 a n ∣ = r \begin{aligned} \limsup_{n \to \infty} \left| \frac{a_{n+1}}{a_n} \right| &=R \\ \liminf_{n \to \infty} \left| \frac{a_{n+1}}{a_n} \right| &=r \end{aligned} n → ∞ lim sup ​ ​ a n ​ a n + 1 ​ ​ ​ n → ∞ lim inf ​ ​ a n ​ a n + 1 ​ ​ ​ ​ = R = r ​
+라 하면, - R < 1 R<1 R < 1 이면, ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty}a_n n = 1 ∑ ∞ ​ a n ​ 은 수렴한다.
+- r > 1 r>1 r > 1 이면, ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty}a_n n = 1 ∑ ∞ ​ a n ​ 은 발산한다.
+
+( R = 1 R=1 R = 1 , r = 1 r=1 r = 1 인 경우는 수렴인지 발산인지 판정 불가하다. [15] )
+
+달랑베르 가 처음 공식화시켰다고 알려져 있으나 '달랑베르 비율 판정법' 또는 '코시 비율 판정법'이라고도 불린다. 근 판정법과 상당히 비슷하다. 영어로 ratio test라고 불린다.
+[증명] - R < 1 \bm R<1 R < 1 인 경우
+절대수렴 판정법에 의해 각 a n a_n a n ​ 이 양수인 경우만 고려해도 무관하다.
+
+0 < ε < 1 − R 0<\varepsilon<1-R 0 < ε < 1 − R
+를 만족하는 임의의 ε \varepsilon ε 에 대해
+
+∀ n > N : a n + 1 a n < R + ε < 1 \forall n>N:\quad \dfrac{a_{n+1}}{a_n} < R+\varepsilon < 1 ∀ n > N : a n ​ a n + 1 ​ ​ < R + ε < 1
+을 만족하게 하는 자연수 N N N 이 존재한다. 만약 η = R + ε \eta = R+\varepsilon η = R + ε 이라 하면
+
+∀ n > N : a n + 1 < η a n \forall n>N: \quad a_{n+1} < \eta a_n ∀ n > N : a n + 1 ​ < η a n ​
+이고, 곧
+
+∀ n > N : a n < η n − N a N \forall n>N:\quad a_n < \eta^{n-N} a_N ∀ n > N : a n ​ < η n − N a N ​
+이다. 급수
+
+∑ n = N + 1 ∞ η n − N a N = a N ∑ j = 1 ∞ η j \displaystyle \sum_{n=N+1}^\infty \eta^{n-N} a_N = a_N \sum_{j=1}^\infty \eta^j n = N + 1 ∑ ∞ ​ η n − N a N ​ = a N ​ j = 1 ∑ ∞ ​ η j
+은 η < 1 \eta<1 η < 1 이기 때문에 수렴하고, 따라서 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^\infty a_n n = 1 ∑ ∞ ​ a n ​ 도 수렴한다.
+- r > 1 \bm r>1 r > 1 인 경우
+적당히 큰 자연수 N N N 에 대해
+
+∀ n ≥ N : ∣ a n + 1 a n ∣ > 1 \forall n\geq N: \quad \left| \dfrac{a_{n+1}}{a_n} \right| > 1 ∀ n ≥ N : ​ a n ​ a n + 1 ​ ​ ​ > 1
+이다. 따라서 n > N n>N n > N 는 ∣ a n ∣ > ∣ a N ∣ > 0|a_n| > |a_N| > 0 ∣ a n ​ ∣ > ∣ a N ​ ∣ > 0 을 의미하고, 곧
+
+lim ⁡ n → ∞ a n ≠ 0 \lim\limits_{n\to\infty} a_n \neq 0 n → ∞ lim ​ a n ​  = 0
+이다. 따라서 발산판정법 에 의해 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^\infty a_n n = 1 ∑ ∞ ​ a n ​ 는 발산한다.
+
+상극한과 하극한을 구하는 것은 까다롭기 때문에, 보통은 아래의 따름정리를 사용하게 된다. 사실, 수학과가 아니면 처음부터 비율판정법을 아래의 것으로 배운다.
+
+7.4.1. 따름정리 [편집]
+다음을 가정하자.
+
+∀ k ∈ N : a k > 0 , lim ⁡ k → ∞ a k + 1 a k = l \forall k \in {\Bbb N} : \quad a_k>0 ,\quad \lim\limits_{k \to \infty} \cfrac{a_{k+1}}{a_k} = l ∀ k ∈ N : a k ​ > 0 , k → ∞ lim ​ a k ​ a k + 1 ​ ​ = l
+이때, - l < 1 l<1 l < 1 이면 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty}a_n n = 1 ∑ ∞ ​ a n ​ 는 수렴한다.
+- l > 1 l>1 l > 1 이면 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty}a_n n = 1 ∑ ∞ ​ a n ​ 는 발산한다.
+
+주의할 점은, l = 1 l=1 l = 1 일 때는 판별을 할 수 없다는 것이다. 그럴 때는 다른 판별법을 사용해야 한다.
+
+7.5. 근 판정법 [편집]
+모든 자연수 n n n 에 대하여 a n > 0 a_{n}>0 a n ​ > 0 이고, lim sup ⁡ n → ∞ a n n = R \limsup\limits_{n \to \infty} \sqrt [n] {a_n} = R n → ∞ lim sup ​ n a n ​ ​ = R 일 때, - R < 1 R<1 R < 1 이면, 급수 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty}a_n n = 1 ∑ ∞ ​ a n ​ 은 수렴한다.
+- R > 1 R>1 R > 1 이면, 급수 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty}a_n n = 1 ∑ ∞ ​ a n ​ 은 발산한다. [16]
+
+근 판정법은 멱급수의 수렴 반지름을 구하는 데 사용할 수 있다.
+[증명] - R < 1 R<1 R < 1 이면 R < ρ < 1 R<\rho <1 R < ρ < 1 를 만족하는 임의의 ρ \rho ρ 에 대해
+
+∀ n > N : a n n ≤ ρ \forall n>N : \quad \sqrt [n]{a_n} \leq \rho ∀ n > N : n a n ​ ​ ≤ ρ
+를 만족하게 하는 자연수 N N N 이 존재한다. 그럼
+
+∀ n > N : a n ≤ ρ n \forall n>N : \quad a_n \leq \rho ^n ∀ n > N : a n ​ ≤ ρ n
+이고 급수 ∑ n = N + 1 ∞ ρ n \displaystyle \sum_{n=N+1}^{\infty}\rho ^n n = N + 1 ∑ ∞ ​ ρ n 는 ρ < 1 \rho <1 ρ < 1 이기 때문에 수렴한다. DCT에 의해 ∑ n = N + 1 ∞ a n \displaystyle \sum_{n=N+1}^{\infty}a_n n = N + 1 ∑ ∞ ​ a n ​ 는 수렴하고, 곧 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty}a_n n = 1 ∑ ∞ ​ a n ​ 도 수렴한다.
+- R > 1 R>1 R > 1 이면 a n n > 1 \sqrt [n]{a_n} >1 n a n ​ ​ > 1 를 만족하는 무수히 많은 자연수 n n n 가 존재한다. 따라서 무수히 많은 n n n 에 대해 a n > 1 a_n>1 a n ​ > 1 이 성립하고 이것은 곧 lim ⁡ n → ∞ a n ≠ 0 \displaystyle \lim_{n \to \infty}a_{n} \neq 0 n → ∞ lim ​ a n ​  = 0 을 의미한다. 일반항 판정법에 의해 급수는 발산한다.
+
+비율 판정법의 증명법과 매우 유사하다. 상극한, 하극한의 성질에 의해 lim inf ⁡ n → ∞ a n + 1 a n ≤ lim inf ⁡ n → ∞ a n n ≤ lim sup ⁡ n → ∞ a n n ≤ lim sup ⁡ n → ∞ a n + 1 a n \begin{aligned}\liminf_{n\to\infty}\frac{a_{n+1}}{a_n} &\leq \liminf_{n\to \infty} \sqrt [n] {a_n} \\&\leq \limsup_{n\to \infty} \sqrt [n] {a_n} \\&\leq \limsup_{n\to\infty}\frac{a_{n+1}}{a_n}\end{aligned} n → ∞ lim inf ​ a n ​ a n + 1 ​ ​ ​ ≤ n → ∞ lim inf ​ n a n ​ ​ ≤ n → ∞ lim sup ​ n a n ​ ​ ≤ n → ∞ lim sup ​ a n ​ a n + 1 ​ ​ ​
+
+이 성립하므로 비율 판정법으로 판정가능하면 근 판정법으로도 판정가능하다. 그 역은 성립하지 않는다.
+
+7.5.1. 따름정리 [편집]
+∀ k ∈ N : a k > 0 \forall k \in {\Bbb N} : \quad a_k>0 ∀ k ∈ N : a k ​ > 0 , lim ⁡ k → ∞ a k k = l \lim\limits_{k \to \infty}\sqrt [k]{a_k} = l k → ∞ lim ​ k a k ​ ​ = l 이라 가정하자. - l < 1 l<1 l < 1 이면 ∑ k = 1 ∞ a k \displaystyle \sum_{k=1}^{\infty}a_k k = 1 ∑ ∞ ​ a k ​ 는 수렴한다.
+- l > 1 l>1 l > 1 이면 ∑ k = 1 ∞ a k \displaystyle \sum_{k=1}^{\infty}a_k k = 1 ∑ ∞ ​ a k ​ 는 발산한다.
+
+비율 판정법와 마찬가지로 l = 1 l=1 l = 1 인 경우에는 사용할 수 없다.
+
+7.6. 라베 판정법 [편집]
+수열 a n \displaystyle a_n a n ​ 에 대하여 a n ≠ 0 \displaystyle a_n \neq 0 a n ​  = 0 일 때,
+
+lim sup ⁡ n → ∞ ( n ∣ 1 − a n + 1 a n ∣ ) = R , lim inf ⁡ n → ∞ ( n ∣ 1 − a n + 1 a n ∣ ) = r \displaystyle \limsup_{n\to\infty}\left(n \left| 1-\frac{a_{n+1}}{a_n} \right| \right)= R,\quad \liminf_{n\to\infty} \left(n \left| 1-\frac{a_{n+1}}{a_n} \right| \right) = r n → ∞ lim sup ​ ( n ​ 1 − a n ​ a n + 1 ​ ​ ​ ) = R , n → ∞ lim inf ​ ( n ​ 1 − a n ​ a n + 1 ​ ​ ​ ) = r
+이라 하면 - R > 1 R>1 R > 1 이면 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty}a_n n = 1 ∑ ∞ ​ a n ​ 은 절대 수렴한다.
+- r < 1 r<1 r < 1 이면 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty}a_n n = 1 ∑ ∞ ​ a n ​ 은 절대 수렴하지 않는다.
+
+비율 판정법, 근 판정법에서 극한값이 1이 나올 때, 사용한다.
+
+7.7. 교대급수 판정법 [편집]
+수열 { a n } \{a_n\} { a n ​ } 이 단조 감소 수열이고, lim ⁡ n → ∞ a n = 0 \lim\limits_{n \to \infty} a_n=0 n → ∞ lim ​ a n ​ = 0 이면, 급수 ∑ n = 1 ∞ ( − 1 ) n a n \displaystyle \sum_{n=1}^{\infty} (-1)^{n}a_n n = 1 ∑ ∞ ​ ( − 1 ) n a n ​ 은 수렴한다.
+
+줄여서 'AST(alternating series test)'라 부른다.
+
+증명은 아래와 같다. [증명] S n = ∑ k = 1 n ( − 1 ) k a k \displaystyle S_n = \sum_{k=1}^n (-1)^k a_k S n ​ = k = 1 ∑ n ​ ( − 1 ) k a k ​ 라 하자. 그러면
+
+S 2 n − S 2 ( n − 1 ) = S 2 n − S 2 n − 2 = a 2 n − a 2 n − 1 ≤ 0 \begin{aligned} S_{2n}-S_{2(n-1)} &= S_{2n}-S_{2n-2} \\ &= a_{2n}-a_{2n-1} \\ &\le 0 \end{aligned} S 2 n ​ − S 2 ( n − 1 ) ​ ​ = S 2 n ​ − S 2 n − 2 ​ = a 2 n ​ − a 2 n − 1 ​ ≤ 0 ​
+이므로 수열 { S 2 n } \{S_{2n}\} { S 2 n ​ } 은 단조 감소 수열이다. 또한
+
+S 2 n = − a 1 + a 2 − a 3 + a 4 − a 5 + ⋯ + a 2 n − 2 − a 2 n − 1 + a 2 n = − a 1 + ( a 2 − a 3 ) + ( a 4 − a 5 ) + ⋯ + ( a 2 n − 2 − a 2 n − 1 ) + a 2 n ≥ − a 1 \begin{aligned} S_{2n} &= -a_1 +a_2 -a_3 +a_4 -a_5 +\cdots +a_{2n-2} -a_{2n-1} +a_{2n} \\ &= -a_1 +(a_2-a_3) +(a_4-a_5) +\cdots +(a_{2n-2}-a_{2n-1}) +a_{2n} \\ &\geq -a_1 \end{aligned} S 2 n ​ ​ = − a 1 ​ + a 2 ​ − a 3 ​ + a 4 ​ − a 5 ​ + ⋯ + a 2 n − 2 ​ − a 2 n − 1 ​ + a 2 n ​ = − a 1 ​ + ( a 2 ​ − a 3 ​ ) + ( a 4 ​ − a 5 ​ ) + ⋯ + ( a 2 n − 2 ​ − a 2 n − 1 ​ ) + a 2 n ​ ≥ − a 1 ​ ​
+이므로 { S 2 n } \{S_{2n}\} { S 2 n ​ } 는 아래로 유계 이다. 따라서 단조 수렴 정리 에 의해 { S 2 n } \{S_{2n}\} { S 2 n ​ } 은 수렴한다.
+
+이제 lim ⁡ n → ∞ S 2 n = S \lim\limits_{n\to\infty} S_{2n} = S n → ∞ lim ​ S 2 n ​ = S 라 하자. 그러면
+
+S 2 n − 1 = S 2 n − a 2 n S_{2n-1} = S_{2n}-a_{2n} S 2 n − 1 ​ = S 2 n ​ − a 2 n ​
+이므로
+
+lim ⁡ n → ∞ S 2 n − 1 = lim ⁡ n → ∞ S 2 n − lim ⁡ n → ∞ a 2 n = S − 0 = S \begin{aligned} \lim_{n\to\infty} S_{2n-1} &= \lim_{n\to\infty} S_{2n} -\lim_{n\to\infty} a_{2n} \\&= S-0 \\&= S \end{aligned} n → ∞ lim ​ S 2 n − 1 ​ ​ = n → ∞ lim ​ S 2 n ​ − n → ∞ lim ​ a 2 n ​ = S − 0 = S ​
+이다. 따라서 lim ⁡ n → ∞ S n = S \lim\limits_{n\to\infty} S_n = S n → ∞ lim ​ S n ​ = S 이다. 즉, ∑ n = 1 ∞ ( − 1 ) n a n \displaystyle \sum_{n=1}^{\infty} (-1)^n a_n n = 1 ∑ ∞ ​ ( − 1 ) n a n ​ 는 수렴한다.
+
+7.8. 디리클레 판정법 [편집]
+실 수열 { a n } \{a_n\} { a n ​ } 이 단조 수열이고, lim ⁡ n → ∞ a n = 0 \lim\limits_{n \to \infty} a_n=0 n → ∞ lim ​ a n ​ = 0 이라 하자. 또 복소 수열 { b n } \{b_n\} { b n ​ } 에 대하여 ∑ k = 1 n b k \displaystyle \sum_{k=1}^n b_k k = 1 ∑ n ​ b k ​ 가 유계인 급수라 하자. 그러면 급수 ∑ n = 1 ∞ a n b n \displaystyle \sum_{n=1}^{\infty} a_n b_n n = 1 ∑ ∞ ​ a n ​ b n ​ 은 수렴한다.
+
+교대급수 판정법을 일반화한 판정법이다. 디리클레 판정법에서 b k = ( − 1 ) k b_k = (-1)^k b k ​ = ( − 1 ) k 으로 두면 교대급수 판정법을 얻을 수 있다. 디리클레 급수와 연관되어 있다. [17]
+
+7.9. 아벨 판정법 [편집]
+두 수열 { a n } \{a_n\} { a n ​ } , { b n } \{b_n\} { b n ​ } 에 대하여 다음의 조건을 만족시킨다고 하자. - 급수 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty} a_n n = 1 ∑ ∞ ​ a n ​ 이 수렴한다.
+- 수열 { b n } \{b_n\} { b n ​ } 은 유계 단조 수열이다.
+
+이때, 급수 ∑ n = 1 ∞ a n b n \displaystyle \sum_{n=1}^{\infty}a_n b_n n = 1 ∑ ∞ ​ a n ​ b n ​ 은 수렴한다.
+
+7.10. 코시 응집 판정법 [편집]
+음이 아닌 단조 감소 실 수열 { a n } \{a_n\} { a n ​ } 에 대하여, 급수 ∑ n = 1 ∞ a n \displaystyle \sum_{n=1}^{\infty}a_n n = 1 ∑ ∞ ​ a n ​ 과 급수 ∑ n = 0 ∞ 2 n a 2 n \displaystyle \sum_{n=0}^{\infty}2^n a_{2^n} n = 0 ∑ ∞ ​ 2 n a 2 n ​ 의 수렴성은 동치이다.
+
+[증명]
+1 2 ∑ k = 0 n 2 k a 2 k = 1 2 ( a 1 + 2 a 2 + 4 a 4 + . . . + 2 n a 2 n ) = a 1 2 + a 2 + 2 a 4 + . . . + 2 n − 1 a 2 n \displaystyle \frac 12 \sum_{k=0}^n 2^k a_{2^k} = \frac 12(a_1 + 2a_2 + 4a_4 + ... + 2^na_{2^n}) = \frac{a_1}{2} + a_2 + 2a_4 + ... + 2^{n-1}a_{2^n} 2 1 ​ k = 0 ∑ n ​ 2 k a 2 k ​ = 2 1 ​ ( a 1 ​ + 2 a 2 ​ + 4 a 4 ​ + ... + 2 n a 2 n ​ ) = 2 a 1 ​ ​ + a 2 ​ + 2 a 4 ​ + ... + 2 n − 1 a 2 n ​
+가 성립한다. - 단조 감소성에서
+
+a 1 2 + a 2 + 2 a 4 + . . . + 2 n − 1 a 2 n ≤ a 1 + a 2 + a 3 + a 4 + . . . + a 2 n = ∑ k = 1 2 n a k \displaystyle \frac{a_1}{2} + a_2 + 2a_4 + ... + 2^{n-1}a_{2^n} \le a_1 + a_2 + a_3 + a_4 + ... + a_{2^n} = \sum_{k=1}^{2^n} a_k 2 a 1 ​ ​ + a 2 ​ + 2 a 4 ​ + ... + 2 n − 1 a 2 n ​ ≤ a 1 ​ + a 2 ​ + a 3 ​ + a 4 ​ + ... + a 2 n ​ = k = 1 ∑ 2 n ​ a k ​
+을 얻는다. 따라서, ∑ k = 1 ∞ a k \displaystyle \sum_{k=1}^{\infty} a_k k = 1 ∑ ∞ ​ a k ​ 가 수렴하면 ∑ k = 0 ∞ 2 k a 2 k \displaystyle \sum_{k=0}^{\infty} 2^k a_{2^k} k = 0 ∑ ∞ ​ 2 k a 2 k ​ 도 수렴한다.
+- 단조 감소성에서
+
+∑ k = 0 n 2 k a 2 k = a 1 + 2 a 2 + 4 a 4 + . . . + 2 n a 2 n ≥ a 1 + a 2 + a 3 + . . . a 2 n + . . . a 2 n + 1 − 1 = ∑ k = 1 2 n + 1 − 1 a k \displaystyle \sum_{k=0}^n 2^k a_{2^k} = a_1 + 2a_2 + 4a_4 + ... + 2^na_{2^n} \ge a_1 + a_2 + a_3 + ... a_{2^n} + ... a_{2^{n+1}-1} = \displaystyle \sum_{k=1}^{2^{n+1}-1} a_k k = 0 ∑ n ​ 2 k a 2 k ​ = a 1 ​ + 2 a 2 ​ + 4 a 4 ​ + ... + 2 n a 2 n ​ ≥ a 1 ​ + a 2 ​ + a 3 ​ + ... a 2 n ​ + ... a 2 n + 1 − 1 ​ = k = 1 ∑ 2 n + 1 − 1 ​ a k ​
+을 얻는다. 따라서, ∑ k = 0 ∞ 2 k a 2 k \displaystyle \sum_{k=0}^{\infty} 2^k a_{2^k} k = 0 ∑ ∞ ​ 2 k a 2 k ​ 가 수렴하면 ∑ k = 1 ∞ a k \displaystyle \sum_{k=1}^{\infty} a_k k = 1 ∑ ∞ ​ a k ​ 도 수렴한다.
+
+8. 주요 급수 [편집]
+- 기하급수
+- 조화급수
+- 멱급수
+- 테일러 급수
+- 푸리에 급수
+
+[ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 남동구가구 전문 썸앤데코
+m.place.naver.com/place/1778971598 v-if
+자체제작 가구 및 타브랜드제품을 가성비있게 제공하는 가구전문 브랜드 썸앤데코
+
+] | [ 사무실의 모든것 지니오피스!
+jinioffice.co.kr v-if
+[ [ 회사소개 ] [ 납품실적 ] [ 견적문의 ] [ 고객센터 ] ]
+기업맞춤형 비즈니스 토탈 쇼핑몰! 사무집기, 냉난방, OA전문, 상품+가격 경쟁력
+
+]
+
+[1] n n n 이 자연수 가 되는 항을 모두 더하라는 뜻. 이렇게 시그마에 아래에만 무언가가 쓰여 있을 경우, 그곳에 쓰여 있는 명제를 만족하는 모든 n n n 에 대해서 더하라는 의미이다. 다만, 절대 수렴 하지 않는 급수에 대해서는 리만 재배열 정리 때문에 이런 표기가 잘 정의되지 않는다 . [2] 첫째 항이 n = 1 n=1 n = 1 인 급수는 이렇게 시그마의 위·아래를 생략하고 쓰기도 한다. 혹은, 문맥상 위·아래를 일일이 적지 않아도 다 이해할 수 있는 경우에도 생략한다. 주로 통계학 분야에서 이런 표기가 자주 쓰인다. [A] 3.1 3.2 여기서 ⌊ x ⌋ \lfloor x \rfloor ⌊ x ⌋ 는 최대 정수 함수 이다. [4] 유한 번은 교환법칙은 먹힌다. 유한 번 교환해서 더하는 순서를 원래대로 바꿀 수 없으면 값이 달라질 수 있다. [5] 간혹 이 명제에 대해 사람들이 극한값 1을 기준으로, a1=5, a2=-3.4... 이런 식으로 양수와 음수가 번갈아서 나오면 극한값이 양수여도 급수는 음의 무한대로 발산하는 것이 아니냐고 물어보는 경우도 있는데, 이런 경우에도 양의 무한대로 발산한다. 즉, 급수의 발산하는 방향은 반드시 극한값의 부호와 일치한다. [6] 무한차원 벡터공간에서는 수렴하지만 조건수렴하지도 절대수렴하지도 않는 반례가 존재한다. 이 경우 조건수렴은 항의 순서라는 조건에 따라 수렴값이 달라지는 급수로 정의된다. [7] 복소수 나 벡터 일 경우에는 각 성분별로 분리 해서 수렴 여부를 검증하면 된다. [8] 다만 양자역학까지 들어가게 되면 물리학에서도 재규격화 라는 걸 동원해서 발산하는 급수를 어찌저찌 실수처럼 다룰 수는 있게 된다. 악명높은
+
+1 + 2 + 3 + ⋯ = − 1 12 \qquad 1+2+3+\cdots=-\dfrac{1}{12} 1 + 2 + 3 + ⋯ = − 12 1 ​
+
+를 연습문제로 내놓는 양자역학 교과서도 있을 정도 [9] 수렴하면 코시의 기준을 만족하지만, 그렇지 않은 공간도 있다. [10] 실수와 복소수 공간은 완비적이지만 유리수 공간은 그렇지 않다. 반례로 ⟨ ⌊ 10 n 2 ⌋ 10 n ⟩ \biggl\langle\dfrac{\lfloor 10^n \sqrt2 \rfloor}{10^n} \biggr\rangle ⟨ 1 0 n ⌊ 1 0 n 2 ​ ⌋ ​ ⟩ [A] 은 유리 수열로서 코시 수열이지만, 그 극한은 2 \sqrt 2 2 ​ 로 유리수가 아니다. 완비가 아닌 공간을 완비로 만드는 과정을 "완비화"라 부른다. 유리수 공간의 완비화는 실수의 공간이다. [12] 극한값의 성질을 사용한다. 수열의 극한값이 0이면 어느 시점에서 모든 항이 1보다는 작아야 한다. 반대로 극한값이 무한대이면 어느 시점에서 모든 항이 1보다는 커야한다. [13] 위로 유계이며 단조 증가인 수열은 수렴한다. 수열의 극한의 정의를 이용해 쉽게 보일 수 있다. [14] 코시 응집 판정법으로도 간단하게 증명가능하다. [15] 즉, 수열이 발산할 수도 있고 수렴할 수도 있다. [16] R = 1 R=1 R = 1 경우, 수렴하는 경우도 있고, 그렇지 않은 경우도 있다. 급수 ⟨ 1 ⟩ \left\langle1\right\rangle ⟨ 1 ⟩ 의 합은 발산하지만, ⟨ n − 2 ⟩ \langle n^{-2}\rangle ⟨ n − 2 ⟩ 의 합은 수렴한다. [17] 디리클레 급수(Dirichlet series)란 정수론적 함수 f f f 에 대하여, 실수 s > 1 s>1 s > 1 이 주어졌을 때, F ( s ) = ∑ n = 1 ∞ f ( s ) n s \displaystyle F(s)=\sum_{n=1}^{\infty}\frac{f(s)}{n^s} F ( s ) = n = 1 ∑ ∞ ​ n s f ( s ) ​ 의 꼴로 주어지는 급수다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

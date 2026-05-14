@@ -1,0 +1,249 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 로그함수
+최근 수정 시각: 2026-04-29 19:35:01 [ [ [ ] [ [ 21 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 로그(수학)
+- 해석학(수학)
+- 초등함수
+]
+
+[ [ ] [ 초등함수
+Elementary Functions
+[ 펼치기 · 접기 ] 대수함수 | 유리함수 · 무리함수
+다항함수 | 상수함수 · 일차함수 · 이차함수 · 삼차함수 · 사차함수 · 추론 · 공식 ( 길이 · 넓이 ) · 소수생성다항식
+초월함수 | 지수함수 ( 확률밀도함수 · 허수지수함수 ) · 로그함수 ( 복소로그함수 ) · 삼각함수 ( 역삼각함수 ) · 쌍곡선 함수 ( 역쌍곡선 함수 )
+
+1 . 개요 2 . 그래프의 특징 2.1 . 로그 나선 3 . 극한 3.1 . 특수한 함수의 극한 4 . 미분 5 . 적분 6 . 기타 7 . 실생활과 로그함수 8 . 관련 문서
+
+1. 개요 [편집]
+로그함수( logarithm ic function) 는 진수 에 변수 x x x 가 있는 함수 를 의미한다. 즉, f ( x ) = log ⁡ a x ( x > 0 , a > 0 , a ≠ 1 ) \displaystyle \begin{aligned} f(x) = \log_ax \qquad (x>0, a>0, a\ne1) \end{aligned} f ( x ) = lo g a ​ x ( x > 0 , a > 0 , a  = 1 ) ​ [1]
+
+꼴로 표현되는 함수를 의미한다. (로그의 정의는 로그(수학) 문서 참고.)
+
+특히, 밑이 2 2 2 , e e e , 10 10 10 인 경우에 한해서
+
+lb ⁡ x ≔ log ⁡ 2 x ln ⁡ x ≔ log ⁡ e x lg ⁡ x ≔ log ⁡ 10 x \begin{aligned}\operatorname{lb}x&\coloneqq\log_2x\\\ln x&\coloneqq\log_ex\\\lg x&\coloneqq\log_{10}x\end{aligned} lb x ln x l g x ​ : = lo g 2 ​ x : = lo g e ​ x : = lo g 10 ​ x ​
+로 쓰고 각각 이진로그 , 자연로그 , 상용로그 라고 부른다. 그러나 대학 수학 이상에서는 필요한 분야 외에는 상용로그를 쓸 일이 거의 없기 때문에 자연로그를 log ⁡ \log lo g 라고 쓰는 것이 흔하다. 또한 정보이론 이나 컴퓨터과학 에서는 밑이 2인 로그 log ⁡ 2 \log_2 lo g 2 ​ 를 흔히 쓰므로 이를 l b \rm lb lb 혹은 l g \rm lg lg [2] 로 나타내기도 한다.
+
+지수함수 와 마찬가지로 유한 차수 다항식으로 표현할 수 없기 때문에 초월함수 에 속한다.
+
+대한민국의 고교 과정 수학에서는 편의상 함수의 거듭제곱 표기를 함수의 합성 을 나타내는 데 사용하지만, 일반적으로 함수의 거듭제곱 표기는 함수의 결과값의 거듭제곱으로 쓰인다. 로그함수도 마찬가지다. 이를테면 다음과 같다. log ⁡ a 2 x = ( log ⁡ a x ) 2 ≠ ( log ⁡ a ∘ log ⁡ a ) ( x ) = log ⁡ a ( log ⁡ a x ) \displaystyle \begin{aligned} {\log_a}^2\,x &= (\log_ax)^2 \\ &\ne (\log_a\circ\log_a)(x) = \log_a(\log_ax) \end{aligned} lo g a ​ 2 x ​ = ( lo g a ​ x ) 2  = ( lo g a ​ ∘ lo g a ​ ) ( x ) = lo g a ​ ( lo g a ​ x ) ​
+
+로그의 합성의 경우, 보통 괄호나 고리점 없이 다음처럼 쓴다. ln ⁡ ln ⁡ x = ln ⁡ ( ln ⁡ x ) = ( ln ⁡ ∘ ln ⁡ ) ( x ) log ⁡ log ⁡ x = log ⁡ ( log ⁡ x ) = ( log ⁡ ∘ log ⁡ ) ( x ) \displaystyle \begin{aligned} \ln\ln x &= \ln(\ln x) = (\ln\circ\ln)(x) \\ \log\log x &= \log(\log x) = (\log\circ\log)(x) \end{aligned} ln ln x lo g lo g x ​ = ln ( ln x ) = ( ln ∘ ln ) ( x ) = lo g ( lo g x ) = ( lo g ∘ lo g ) ( x ) ​
+
+고등학교 교육과정 수준에서 자세히 설명한 영상 .
+
+로그의 밑에 미지수가 들어간 함수도 생각할 수 있지만 일반적으로 진수에 들어간 경우만 생각한다. 로그의 밑에 미지수가 들어간 로그방정식도 대부분은 진수에만 미지수가 들어가도록 밑 변환 공식을 통해 식을 변형하는 경우가 많은 것과 같은 이유이다.
+
+2. 그래프의 특징 [편집]
+a > 1 \boldsymbol{a>1} a > 1 일 때 그래프 개형 | 0 < a < 1 \boldsymbol{0<a<1} 0 < a < 1 일 때 그래프 개형
+
+복소평면 에서의 그래프 개형 [3]
+
+f ( x ) = log ⁡ a x f(x) = \log_ax f ( x ) = lo g a ​ x 의 그래프는 다음과 같은 성질이 있다. - a 0 = 1 ⇔ log ⁡ a 1 = 0 a^0 = 1 \Leftrightarrow \log_a1 = 0 a 0 = 1 ⇔ lo g a ​ 1 = 0 이므로, a a a 의 값에 관계 없이 점 ( 1 , 0 ) (1,0) ( 1 , 0 ) 을 지난다.
+- a 1 = a ⇔ log ⁡ a a = 1 a^1 = a \Leftrightarrow \log_aa = 1 a 1 = a ⇔ lo g a ​ a = 1 이므로, 점 ( a , 1 ) (a,1) ( a , 1 ) 을 지난다.
+- a − 1 = 1 a ⇔ log ⁡ a 1 a = − 1 a^{-1} = \dfrac1a \Leftrightarrow \log_a\dfrac1a = -1 a − 1 = a 1 ​ ⇔ lo g a ​ a 1 ​ = − 1 이므로, 점 ( 1 a , − 1 ) \biggl(\dfrac1a,-1\biggr) ( a 1 ​ , − 1 ) 을 지난다.
+- a > 1 a>1 a > 1 이면 단조증가하고, 0 < a < 1 0<a<1 0 < a < 1 이면 단조감소한다.
+- 밑에 관계없이 log ⁡ a x = − log ⁡ a 1 x \log_ax = -\log_a\dfrac1x lo g a ​ x = − lo g a ​ x 1 ​ 이다.
+- 지수함수 f ( x ) = a x f(x) = a^x f ( x ) = a x 와 서로 역함수 관계에 있으므로, 해당 그래프와는 직선 y = x y=x y = x 를 기준으로 대칭이다. 즉, 밑이 0 0 0 보다 크고 서로 같다면 지수함수의 x x x 좌표 = 로그함수의 y y y 좌표 , 지수함수의 y y y 좌표 = 로그함수의 x x x 좌표 인 것이다. - a ∈ ( 0 , 1 ) ∪ ( 1 , e e ] a \in (0,1) \cup (1,\sqrt[e]e\,] a ∈ ( 0 , 1 ) ∪ ( 1 , e e ​ ] 일 경우, 밑이 a a a 인 지수함수와 반드시 하나 이상의 교점 을 갖는다. [4] - a ∈ ( 1 , e e ⁣ ) a \in (1,\sqrt[e]e\;\!) a ∈ ( 1 , e e ​ ) 인 경우, 두 개의 교점을 갖는다.
+
+2.1. 로그 나선 [편집]
+
+상수 a a a , b b b 에 대하여 로그함수 θ ( r ) = b ln ⁡ ( a r ) \displaystyle \begin{aligned} \theta(r)= b\ln(ar) \end{aligned} θ ( r ) = b ln ( a r ) ​
+
+를 극좌표 에 나타낼 경우 그 그래프는 위와 같은 나선 을 그리게 된다. 나선모양 자체는 증가함수나 감소함수가 극좌표상에서 그려지는 일반적인 모양이므로 특별할 것은 아니지만, 야코프 베르누이 는 로그함수에 의한 나선모양을 'spira mirabilis', 즉 '경이로운 나선(miraculous spiral)'이라 칭송한다. 이는 로그나선이 가진 자기유사성 때문이다.
+
+구체적으로, 그래프를 원점을 중심으로 확대 혹은 축소하더라도 자기 자신과 합동이 된다. 여러 프랙탈 도형들이 그렇듯 로그나선 또한 자연에서 흔히 나타나는 도형 이라고 여겨지고 있다. 대표적으로 앵무조개 가 있다.
+
+원점에서 나선 위의 임의의 한 점을 이은 직선과 그 점에서의 접선이 이루는 각은 항상 일정하다. 이때 그 각을 α \alpha α 라 하면 위 식에서 b = tan ⁡ α b=\tan\alpha b = tan α 로 주어진다.
+
+여담으로 야코프 베르누이는 이 경이로운 나선을 자신의 묘비에 새기길 바랐지만, 묘비에는 로그나선 대신 아르키메데스 나선 이라는 엉뚱한 나선이 새겨졌다고 한다.
+
+3. 극한 [편집]
+- 로그함수는 연속이다. 즉, 양수 c > 0 c>0 c > 0 과 a > 0 a>0 a > 0 에 대하여 lim ⁡ x → c log ⁡ a x = log ⁡ a c \lim\limits_{x\to c}\log_ax = \log_ac x → c lim ​ lo g a ​ x = lo g a ​ c 이다.
+- a > 1 a>1 a > 1 인 경우 - lim ⁡ x → ∞ log ⁡ a x = ∞ \lim\limits_{x\to\infty} \log_ax = \infty x → ∞ lim ​ lo g a ​ x = ∞
+- lim ⁡ x → 0 + log ⁡ a x = − ∞ \lim\limits_{x\to0^+} \log_ax = -\infty x → 0 + lim ​ lo g a ​ x = − ∞
+- 0 < a < 1 0<a<1 0 < a < 1 인 경우 - lim ⁡ x → ∞ log ⁡ a x = − ∞ \lim\limits_{x\to\infty} \log_ax = -\infty x → ∞ lim ​ lo g a ​ x = − ∞
+- lim ⁡ x → 0 + log ⁡ a x = ∞ \lim\limits_{x\to 0^+} \log_ax = \infty x → 0 + lim ​ lo g a ​ x = ∞
+- a > 1 a>1 a > 1 일 때 [5] , 임의의 실수 p > 0 p>0 p > 0 에 대해 lim ⁡ x → ∞ log ⁡ a x x p = 0 \lim\limits_{x\to\infty} \dfrac{\log_ax}{x^p} = 0 x → ∞ lim ​ x p lo g a ​ x ​ = 0 - 통계학의 점근이론 등에 쓰이는 중요한 성질 중 하나로, 매우 느리게 증가함 을 의미한다. 분자와 분모 둘 다 증가함수지만, 분모가 증가하는 속도가 분자의 증가 속도보다 훨씬 빠르다는 말이다. 여기서 포인트는 p p p 가 0 0 0 보다 큰 임의의 실수 라는 것. 즉, 로그함수는 직선 y = x y = x y = x 보다도 느리게 증가하고, 제곱근함수 y = x y = \sqrt x y = x ​ 보다도 느리게 증가한다.
+- 그래서 역함수인 지수함수는 성질이 정반대이다. 즉, 지수함수의 증가는 어떠한 다항함수의 증가보다도 훨씬 빠르다.
+- 밑과 진수가 모두 다항식으로 이루어진 경우 - 예를 들어 밑이 x 3 + 20 x 2 + 100 x + 444 x^3+20x^2+100x+444 x 3 + 20 x 2 + 100 x + 444 이고 진수가 x 4 − 15 x 3 + 66 x 2 − 123 x + 567 x^4-15x^3+66x^2-123x+567 x 4 − 15 x 3 + 66 x 2 − 123 x + 567 이라고 하자. 여기서 lim ⁡ x → ∞ \lim\limits_{x\to\infty} x → ∞ lim ​ 일 경우, 그 값은 4 3 \dfrac{4}{3} 3 4 ​ 가 된다.
+- 0 0 \dfrac{0}{0} 0 0 ​ 꼴의 극한, 즉 밑과 진수가 모두 1로 수렴하는 경우는 밑과 진수가 모두 완전 n제곱식으로 이루어져야 성립하며, 인수분해를 통해 간단히 풀 수 있다.
+- ∞ / ∞ \infty/\infty ∞/∞ 꼴의 극한, 즉 밑과 진수가 모두 무한대로 발산하는 경우는 밑과 진수의 최고차항의 계수가 모두 양수여야 성립하며, (진수의 최고차항의 차수)/(밑의 최고차항의 차수)가 극한값이 된다. 여기서는 인수분해를 할 필요도 없이 밑과 진수의 최고차항만 보면 된다.
+- lim ⁡ x → ∞ π ( x ) x / ln ⁡ x = 1 \lim\limits_{x\to\infty} \dfrac{\pi(x)}{x/{\ln x}} = 1 x → ∞ lim ​ x / ln x π ( x ) ​ = 1 ( 소수 정리 [6] [7] ) - 충분히 큰 어떤 양수 x x x 에 대해, 그 수보다 작거나 같은 소수 의 개수를 x / ln ⁡ x x/{\ln x} x / ln x 의 값으로 근사시킬 수 있다는 의미이다. [8]
+- lim ⁡ n → ∞ ( ∑ k = 1 n 1 k − ln ⁡ n ) ⁣ = γ \displaystyle \lim_{n\to\infty} \Biggl( \sum_{k=1}^n \frac1k -\ln n \Biggr) \!= \gamma n → ∞ lim ​ ( k = 1 ∑ n ​ k 1 ​ − ln n ) = γ ( 오일러-마스케로니 상수 ) - 반비례 관계 그래프와 접하는 자연수 막대들을 자연로그 그래프 모양으로 잘라낸 조각을 모아 그 넓이를 모두 합하면 특정한 수가 된다는 의미이다.
+
+3.1. 특수한 함수의 극한 [편집]
+- 다음 극한을 고려해보자. lim ⁡ x → 0 ln ⁡ ( x + 1 ) x \displaystyle \begin{aligned} \lim_{x\to0} \frac{\ln(x+1)}x \end{aligned} x → 0 lim ​ x ln ( x + 1 ) ​ ​
+
+식을 변형하면, 아래와 같은 극한 값을 얻는다. lim ⁡ x → 0 ln ⁡ ( x + 1 ) x = lim ⁡ x → 0 1 x ln ⁡ ( x + 1 ) = lim ⁡ x → 0 ln ⁡ ( x + 1 ) 1 / x = ln ⁡ [ lim ⁡ x → 0 ( x + 1 ) 1 / x ] = ln ⁡ e = 1 \displaystyle \begin{aligned} \lim_{x\to0} \frac{\ln(x+1)}x &= \lim_{x\to0} \frac1x \ln(x+1) \\ &= \lim_{x\to0} \ln(x+1)^{1/x} \\ &= \ln \Bigl[ \lim_{x\to0} (x+1)^{1/x} \Bigr] \\ &= \ln e \\ &=1 \end{aligned} x → 0 lim ​ x ln ( x + 1 ) ​ ​ = x → 0 lim ​ x 1 ​ ln ( x + 1 ) = x → 0 lim ​ ln ( x + 1 ) 1/ x = ln [ x → 0 lim ​ ( x + 1 ) 1/ x ] = ln e = 1 ​
+
+식의 전개에서 로그의 성질 및 e e e 의 극한을 이용한 정의 를 사용했다.
+- 또 다른 극한 lim ⁡ x → 0 log ⁡ a ( x + 1 ) x \displaystyle \begin{aligned} \lim_{x\to0} \frac{\log_a(x+1)}x \end{aligned} x → 0 lim ​ x lo g a ​ ( x + 1 ) ​ ​
+
+의 경우, 위 결과에서 로그의 밑이 e e e 에서 a a a 로 바뀐 형태이므로 간단한 계산을 통해 그 결과를 아래와 같이 쓸 수 있다. lim ⁡ x → 0 log ⁡ a ( x + 1 ) x = lim ⁡ x → 0 1 x ln ⁡ ( x + 1 ) ln ⁡ a = 1 ln ⁡ a lim ⁡ x → 0 ln ⁡ ( x + 1 ) x = 1 ln ⁡ a ⋅ 1 = 1 ln ⁡ a \displaystyle \begin{aligned} \lim_{x\to0} \frac{\log_a(x+1)}x &= \lim_{x\to0} \frac1x \frac{\ln(x+1)}{\ln a} \\ &= \frac1{\ln a} \lim_{x\to0} \frac{\ln(x+1)}x \\ &= \frac1{\ln a} \cdot 1 \\ &= \frac1{\ln a} \end{aligned} x → 0 lim ​ x lo g a ​ ( x + 1 ) ​ ​ = x → 0 lim ​ x 1 ​ ln a ln ( x + 1 ) ​ = ln a 1 ​ x → 0 lim ​ x ln ( x + 1 ) ​ = ln a 1 ​ ⋅ 1 = ln a 1 ​ ​
+- 위 결과를 사용하여 lim ⁡ x → 0 e x − 1 x \displaystyle \begin{aligned} \lim_{x\to0} \frac{e^x-1}x \end{aligned} x → 0 lim ​ x e x − 1 ​ ​
+
+의 값을 구해보자. e x − 1 = t e^x-1 = t e x − 1 = t 로 치환하면, x → 0 x\to0 x → 0 일 때 t → 0 t\to0 t → 0 이고, x = ln ⁡ ( t + 1 ) x=\ln(t+1) x = ln ( t + 1 ) 이므로 lim ⁡ x → 0 e x − 1 x = lim ⁡ t → 0 t ln ⁡ ( t + 1 ) = lim ⁡ x → 0 1 ln ⁡ ( t + 1 ) t = 1 lim ⁡ t → 0 ln ⁡ ( t + 1 ) t = 1 1 = 1 \displaystyle \begin{aligned} \lim_{x\to0} \frac{e^x-1}x &= \lim_{t\to0} \frac t{\ln(t+1)} \\ &= \lim_{x\to0} \frac1{\dfrac{\ln(t+1)}t} \\ &= \frac1{\lim\limits_{t\to0} \dfrac{\ln(t+1)}t} \\ &= \frac11 \\ &= 1 \end{aligned} x → 0 lim ​ x e x − 1 ​ ​ = t → 0 lim ​ ln ( t + 1 ) t ​ = x → 0 lim ​ t ln ( t + 1 ) ​ 1 ​ = t → 0 lim ​ t ln ( t + 1 ) ​ 1 ​ = 1 1 ​ = 1 ​
+
+임을 얻을 수 있다. 더 나아가 이 극한 식이 의미하는 바가 무엇인지 살펴보자. 극한 식을 다음과 같은 형태로 쓰면 lim ⁡ x → 0 e x − 1 x = lim ⁡ x → 0 e x − e 0 x − 0 \displaystyle \begin{aligned} \lim_{x\to0} \frac{e^x-1}x = \lim_{x\to0} \frac{e^x-e^0}{x-0} \end{aligned} x → 0 lim ​ x e x − 1 ​ = x → 0 lim ​ x − 0 e x − e 0 ​ ​
+
+이는 곧 함수 y = e x y = e^x y = e x 의 x = 0 x = 0 x = 0 에서의 미분계수 혹은 접선의 기울기를 구하는 것과 같다는 것을 알 수 있다.
+- 같은 방법으로, a x − 1 = t a^x-1 = t a x − 1 = t 로 치환하면 x → 0 x\to0 x → 0 일 때 t → 0 t\to0 t → 0 이고, x = log ⁡ a ( t + 1 ) x=\log_a(t+1) x = lo g a ​ ( t + 1 ) 이므로 lim ⁡ x → 0 a x − 1 x = lim ⁡ t → 0 t log ⁡ a ( t + 1 ) = lim ⁡ x → 0 1 log ⁡ a ( t + 1 ) t = 1 lim ⁡ t → 0 log ⁡ a ( t + 1 ) t = 1 1 ln ⁡ a = ln ⁡ a \displaystyle \begin{aligned} \lim_{x\to0} \frac{a^x-1}x &= \lim_{t\to0} \frac t{\log_a(t+1)} \\ &= \lim_{x\to0} \frac1{\dfrac{\log_a(t+1)}t} \\ &= \frac1{\lim\limits_{t\to0} \dfrac{\log_a(t+1)}t} \\ &= \frac1{\dfrac1{\ln a}} \\ &= \ln a \end{aligned} x → 0 lim ​ x a x − 1 ​ ​ = t → 0 lim ​ lo g a ​ ( t + 1 ) t ​ = x → 0 lim ​ t lo g a ​ ( t + 1 ) ​ 1 ​ = t → 0 lim ​ t lo g a ​ ( t + 1 ) ​ 1 ​ = ln a 1 ​ 1 ​ = ln a ​
+
+임을 얻을 수 있고, 이는 y = a x y = a^x y = a x 의 x = 0 x = 0 x = 0 에서의 미분계수 혹은 접선의 기울기를 구한 것과 같다.
+
+이상의 문단을 정리하면 아래와 같다. lim ⁡ x → 0 ln ⁡ ( x + 1 ) x = 1 lim ⁡ x → 0 log ⁡ a ( x + 1 ) x = 1 ln ⁡ a lim ⁡ x → 0 e x − 1 x = 1 lim ⁡ x → 0 a x − 1 x = ln ⁡ a \displaystyle \begin{aligned} \lim_{x\to0} \frac{\ln(x+1)}x &= 1 \\ \lim_{x\to0} \frac{\log_a(x+1)}x &= \frac1{\ln a} \\ \lim_{x\to0} \frac{e^x-1}x &= 1 \\ \lim_{x\to0} \frac{a^x-1}x &= \ln a \end{aligned} x → 0 lim ​ x ln ( x + 1 ) ​ x → 0 lim ​ x lo g a ​ ( x + 1 ) ​ x → 0 lim ​ x e x − 1 ​ x → 0 lim ​ x a x − 1 ​ ​ = 1 = ln a 1 ​ = 1 = ln a ​
+
+이 문단의 내용 중 전체 또는 일부는 자연로그 문서의 r650 판, 4.2.3번 문단 에서 가져왔습니다. 이전 역사 보러 가기
+
+4. 미분 [편집]
+- 간단한 꼴의 미분 (단, a a a 는 1 1 1 이 아닌 양의 실수, x x x 는 양의 실수) d d x ln ⁡ x = 1 x d d x log ⁡ a x = 1 x ln ⁡ a \displaystyle \begin{aligned} \frac{\rm d}{{\rm d}x} \ln x &= \frac1x \\ \frac{\rm d}{{\rm d}x} \log_ax &= \frac1{x\ln a} \end{aligned} d x d ​ ln x d x d ​ lo g a ​ x ​ = x 1 ​ = x ln a 1 ​ ​
+
+[증명] - 도함수 의 정의 사용
+
+d d x ln ⁡ x = lim ⁡ h → 0 ln ⁡ ( x + h ) − ln ⁡ x h = lim ⁡ h → 0 1 h ( ln ⁡ ( x + h ) − ln ⁡ x ) = lim ⁡ h → 0 1 h ln ⁡ ( x + h x ) ⁣ = lim ⁡ h → 0 ln ⁡ ( 1 + h x ) ⁣ 1 h = lim ⁡ h → 0 ln ⁡ ( 1 + h x ) ⁣ x h 1 x = lim ⁡ h → 0 1 x ln ⁡ ( 1 + h x ) ⁣ x h = 1 x lim ⁡ h → 0 ln ⁡ ( 1 + h x ) ⁣ x h = 1 x ⋅ ln ⁡ e = 1 x ■ \displaystyle \begin{aligned} \frac{\rm d}{{\rm d}x} \ln x &= \lim_{h\to0} \frac{\ln(x+h)-\ln x}h = \lim_{h\to0} \frac1h (\ln(x+h)-\ln x) \\ &= \lim_{h\to0} \frac1h \ln\biggl( \frac{x+h}x \biggr) \!= \lim_{h\to0} \ln\biggl( 1+\frac hx \biggr)^{\!\footnotesize\frac1h} \\ &= \lim_{h\to0} \ln\biggl( 1+\frac hx \biggr)^{\!\footnotesize\frac xh \frac1x} = \lim_{h\to0} \frac1x \ln\biggl( 1+\frac hx \biggr)^{\!\footnotesize\frac xh} \\ &= \frac1x \lim_{h\to0} \ln\biggl( 1+\frac hx \biggr)^{\!\footnotesize\frac xh} = \frac1x \cdot \ln e \\ &= \frac1x \qquad \blacksquare \end{aligned} d x d ​ ln x ​ = h → 0 lim ​ h ln ( x + h ) − ln x ​ = h → 0 lim ​ h 1 ​ ( ln ( x + h ) − ln x ) = h → 0 lim ​ h 1 ​ ln ( x x + h ​ ) = h → 0 lim ​ ln ( 1 + x h ​ ) h 1 ​ = h → 0 lim ​ ln ( 1 + x h ​ ) h x ​ x 1 ​ = h → 0 lim ​ x 1 ​ ln ( 1 + x h ​ ) h x ​ = x 1 ​ h → 0 lim ​ ln ( 1 + x h ​ ) h x ​ = x 1 ​ ⋅ ln e = x 1 ​ ■ ​
+- 한편, log ⁡ a x = ln ⁡ x ln ⁡ a \log_ax = \dfrac{\ln x}{\ln a} lo g a ​ x = ln a ln x ​ 이므로
+
+d d x log ⁡ a x = d d x ln ⁡ x ln ⁡ a = 1 ln ⁡ a d d x ln ⁡ x = 1 ln ⁡ a ⋅ 1 x = 1 x ln ⁡ a ■ \displaystyle \begin{aligned} \frac{\rm d}{{\rm d}x} \log_ax &= \frac{\rm d}{{\rm d}x} \frac{\ln x}{\ln a} = \frac1{\ln a} \frac{\rm d}{{\rm d}x} \ln x = \frac1{\ln a} \cdot \frac1x \\ &= \frac1{x\ln a} \qquad \blacksquare \end{aligned} d x d ​ lo g a ​ x ​ = d x d ​ ln a ln x ​ = ln a 1 ​ d x d ​ ln x = ln a 1 ​ ⋅ x 1 ​ = x ln a 1 ​ ■ ​
+- 거듭제곱 꼴의 미분 (단, n n n 은 0 0 0 이상의 정수, a a a 는 1 1 1 이 아닌 양의 실수, x x x 는 양의 실수) d d x ln ⁡ n x = n ln ⁡ n − 1 x x d d x log ⁡ a n x = n log ⁡ a n − 1 x x ln ⁡ a = n ln ⁡ n − 1 x x ln ⁡ n a \displaystyle \begin{aligned} \frac{\rm d}{{\rm d}x} \ln^nx &= \frac{n\ln^{n-1}x}x \\ \frac{\rm d}{{\rm d}x} \,{\log_a}^n\,x &= \frac{n\,{\log_a}^{n-1}\,x}{x\ln a} \\ &= \frac{n\ln^{n-1}x}{x\ln^na} \end{aligned} d x d ​ ln n x d x d ​ lo g a ​ n x ​ = x n ln n − 1 x ​ = x ln a n lo g a ​ n − 1 x ​ = x ln n a n ln n − 1 x ​ ​
+
+[증명] - u = ln ⁡ x u=\ln x u = ln x , y = u n y=u^n y = u n 으로 치환 후 합성함수의 미분법 사용.
+
+d d x ln ⁡ n x = d d x ( ln ⁡ x ) n = d d x u n = d y d x = d y d u d u d x = d d u u n ⋅ d d x ln ⁡ x = n u n − 1 ⋅ 1 x = n ( ln ⁡ x ) n − 1 x = n ln ⁡ n − 1 x x ■ \displaystyle \begin{aligned} \frac{\rm d}{{\rm d}x} \ln^nx &= \frac{\rm d}{{\rm d}x} (\ln x)^n = \frac{\rm d}{{\rm d}x} \,u^n = \frac{{\rm d}y}{{\rm d}x} \\ &= \frac{{\rm d}y}{{\rm d}u} \frac{{\rm d}u}{{\rm d}x} = \frac{\rm d}{{\rm d}u} \,u^n \cdot \frac{\rm d}{{\rm d}x} \ln x \\ &= nu^{n-1} \cdot \frac1x = \frac{n(\ln x)^{n-1}}x \\ &= \frac{n\ln^{n-1}x}x \qquad \blacksquare \end{aligned} d x d ​ ln n x ​ = d x d ​ ( ln x ) n = d x d ​ u n = d x d y ​ = d u d y ​ d x d u ​ = d u d ​ u n ⋅ d x d ​ ln x = n u n − 1 ⋅ x 1 ​ = x n ( ln x ) n − 1 ​ = x n ln n − 1 x ​ ■ ​
+- u = log ⁡ a x u=\log_ax u = lo g a ​ x , y = u n y=u^n y = u n 으로 치환 후 합성함수의 미분법 사용.
+
+d d x log ⁡ a n x = d d x ( log ⁡ a x ) n = d d x u n = d y d x = d y d u d u d x = d d u u n ⋅ d d x log ⁡ a x = n u n − 1 ⋅ 1 x ln ⁡ a = n log ⁡ a n − 1 x x ln ⁡ a ■ = n ( ln ⁡ x ln ⁡ a ) ⁣ n − 1 ⋅ 1 x ln ⁡ a = n ln ⁡ n − 1 x x ln ⁡ n a ■ \displaystyle \begin{aligned} \frac{\rm d}{{\rm d}x} \,{\log_a}^n\,x &= \frac{\rm d}{{\rm d}x} (\log_ax)^n = \frac{\rm d}{{\rm d}x} \,u^n = \frac{{\rm d}y}{{\rm d}x} \\ &= \frac{{\rm d}y}{{\rm d}u} \frac{{\rm d}u}{{\rm d}x} = \frac{\rm d}{{\rm d}u} \,u^n \cdot \frac{\rm d}{{\rm d}x} \log_ax \\ &= n{\color{#00aa00}u}^{n-1} \cdot \frac1{x\ln a} = \frac{n\,{\log_a}^{n-1}\,x}{x\ln a} \qquad \blacksquare \\ &= n \biggl( {\color{#00aa00}\frac{\ln x}{\ln a}} \biggr)^{\!n-1} \cdot \frac1{x\ln a} \\ &= \frac{n\ln^{n-1}x}{x\ln^na} \qquad \blacksquare \end{aligned} d x d ​ lo g a ​ n x ​ = d x d ​ ( lo g a ​ x ) n = d x d ​ u n = d x d y ​ = d u d y ​ d x d u ​ = d u d ​ u n ⋅ d x d ​ lo g a ​ x = n u n − 1 ⋅ x ln a 1 ​ = x ln a n lo g a ​ n − 1 x ​ ■ = n ( l n a l n x ​ ) n − 1 ⋅ x ln a 1 ​ = x ln n a n ln n − 1 x ​ ■ ​
+- 진수가 일차식일 때의 미분 (단, n n n 은 0 0 0 이상의 정수, a a a 는 1 1 1 이 아닌 양의 실수, b b b 와 c c c 와 x x x 는 b x + c > 0 bx+c>0 b x + c > 0 을 만족하는 양의 실수) d d x log ⁡ a ( b x + c ) = b ( b x + c ) ln ⁡ a d d x log ⁡ a n ( b x + c ) = b n log ⁡ a n − 1 ( b x + c ) ( b x + c ) ln ⁡ a = b n ln ⁡ n − 1 ( b x + c ) ( b x + c ) ln ⁡ n a \displaystyle \begin{aligned} \frac{\rm d}{{\rm d}x} \log_a(bx+c) &= \frac b{(bx+c)\ln a} \\ \frac{\rm d}{{\rm d}x} \,{\log_a}^n(bx+c) &= \frac{bn\,{\log_a}^{n-1}(bx+c)}{(bx+c)\ln a} \\ &= \frac{bn\ln^{n-1}(bx+c)}{(bx+c)\ln^na} \end{aligned} d x d ​ lo g a ​ ( b x + c ) d x d ​ lo g a ​ n ( b x + c ) ​ = ( b x + c ) ln a b ​ = ( b x + c ) ln a bn lo g a ​ n − 1 ( b x + c ) ​ = ( b x + c ) ln n a bn ln n − 1 ( b x + c ) ​ ​
+
+[증명] - u = b x + c u=bx+c u = b x + c , y = log ⁡ a u y=\log_au y = lo g a ​ u 로 치환 후 합성함수의 미분법 사용.
+
+d d x log ⁡ a ( b x + c ) = d d x log ⁡ a u = d y d x = d y d u d u d x = d d u log ⁡ a u ⋅ d d x ( b x + c ) = 1 u ln ⁡ a ⋅ b = b ( b x + c ) ln ⁡ a ■ \displaystyle \begin{aligned} \frac{\rm d}{{\rm d}x} \log_a(bx+c) &= \frac{\rm d}{{\rm d}x} \log_au = \frac{{\rm d}y}{{\rm d}x} \\ &= \frac{{\rm d}y}{{\rm d}u} \frac{{\rm d}u}{{\rm d}x} = \frac{\rm d}{{\rm d}u} \log_au \cdot \frac{\rm d}{{\rm d}x} (bx+c) \\ &= \frac1{u\ln a} \cdot b \\ &= \frac b{(bx+c)\ln a} \qquad \blacksquare \end{aligned} d x d ​ lo g a ​ ( b x + c ) ​ = d x d ​ lo g a ​ u = d x d y ​ = d u d y ​ d x d u ​ = d u d ​ lo g a ​ u ⋅ d x d ​ ( b x + c ) = u ln a 1 ​ ⋅ b = ( b x + c ) ln a b ​ ■ ​
+- u = log ⁡ a ( b x + c ) u=\log_a(bx+c) u = lo g a ​ ( b x + c ) , y = u n y=u^n y = u n 으로 치환 후 합성함수의 미분법 사용.
+
+d d x log ⁡ a n ( b x + c ) = d d x ( log ⁡ a ( b x + c ) ) n = d d x u n = d y d x = d y d u d u d x = d d u u n ⋅ d d x log ⁡ a ( b x + c ) = n u n − 1 ⋅ b ( b x + c ) ln ⁡ a = b n log ⁡ a n − 1 ( b x + c ) ( b x + c ) ln ⁡ a ■ = n ( ln ⁡ ( b x + c ) ln ⁡ a ) ⁣ n − 1 ⋅ b ( b x + c ) ln ⁡ a = b n ln ⁡ n − 1 ( b x + c ) ( b x + c ) ln ⁡ n a ■ \displaystyle \begin{aligned} \frac{\rm d}{{\rm d}x} \,{\log_a}^n(bx+c) &= \frac{\rm d}{{\rm d}x} (\log_a(bx+c))^n = \frac{\rm d}{{\rm d}x} \,u^n = \frac{{\rm d}y}{{\rm d}x} \\ &= \frac{{\rm d}y}{{\rm d}u} \frac{{\rm d}u}{{\rm d}x} = \frac{\rm d}{{\rm d}u} \,u^n \cdot \frac{\rm d}{{\rm d}x} \log_a(bx+c) \\ &= n{\color{#00aa00}u}^{n-1} \cdot \frac b{(bx+c)\ln a} = \frac{bn\,{\log_a}^{n-1}(bx+c)}{(bx+c)\ln a} \qquad \blacksquare \\ &= n \biggl( {\color{#00aa00}\frac{\ln(bx+c)}{\ln a}} \biggr)^{\!n-1} \cdot \frac b{(bx+c)\ln a} \\ &= \frac{bn\ln^{n-1}(bx+c)}{(bx+c)\ln^na} \qquad \blacksquare \end{aligned} d x d ​ lo g a ​ n ( b x + c ) ​ = d x d ​ ( lo g a ​ ( b x + c ) ) n = d x d ​ u n = d x d y ​ = d u d y ​ d x d u ​ = d u d ​ u n ⋅ d x d ​ lo g a ​ ( b x + c ) = n u n − 1 ⋅ ( b x + c ) ln a b ​ = ( b x + c ) ln a bn lo g a ​ n − 1 ( b x + c ) ​ ■ = n ( l n a l n ( b x + c ) ​ ) n − 1 ⋅ ( b x + c ) ln a b ​ = ( b x + c ) ln n a bn ln n − 1 ( b x + c ) ​ ■ ​
+
+5. 적분 [편집]
+적분 상수는 C C C 로 나타내기로 한다. 그리고 n k ‾ n^{\underline k} n k ​ 는 하강 계승 이다. - 간단한 꼴의 부정적분 (단, a a a 는 1 1 1 이 아닌 양의 실수, x x x 는 양의 실수) ∫ ln ⁡ x d x = x ln ⁡ x − x + C ∫ log ⁡ a x d x = x ln ⁡ x − x ln ⁡ a + C = x log ⁡ a x − x ln ⁡ a + C \displaystyle \begin{aligned} \int \ln x \,{\rm d}x &= x\ln x -x +C \\ \int \log_ax \,{\rm d}x &= \frac{x\ln x -x}{\ln a} +C \\ &= x\log_ax -\frac x{\ln a} +C \end{aligned} ∫ ln x d x ∫ lo g a ​ x d x ​ = x ln x − x + C = ln a x ln x − x ​ + C = x lo g a ​ x − ln a x ​ + C ​
+
+[증명] - 부분적분법 을 사용한다.
+
+∫ f ( x ) g ′ ( x ) d x = f ( x ) g ( x ) − ∫ f ′ ( x ) g ( x ) d x \displaystyle \begin{aligned} \int f(x)g'(x) \,{\rm d}x = f(x)g(x) -\int f'(x)g(x) \,{\rm d}x \end{aligned} ∫ f ( x ) g ′ ( x ) d x = f ( x ) g ( x ) − ∫ f ′ ( x ) g ( x ) d x ​
+f ( x ) = ln ⁡ x f(x) = \ln x f ( x ) = ln x , g ′ ( x ) = 1 g'(x) = 1 g ′ ( x ) = 1 이라고 두면, f ′ ( x ) = 1 x f'(x) = \dfrac1x f ′ ( x ) = x 1 ​ , g ( x ) = x g(x) = x g ( x ) = x 이므로
+
+∫ ln ⁡ x d x = ∫ ln ⁡ x ⋅ 1 d x = ln ⁡ x ⋅ x − ∫ 1 x ⋅ x d x = x ln ⁡ x − ∫ d x = x ln ⁡ x − x + C ■ \displaystyle \begin{aligned} \int \ln x \,{\rm d}x &= \int \ln x \cdot 1 \,{\rm d}x \\ &= \ln x \cdot x -\int \frac1x \cdot x \,{\rm d}x \\ &= x\ln x -\int {\rm d}x \\ &= x\ln x -x +C \qquad\blacksquare \end{aligned} ∫ ln x d x ​ = ∫ ln x ⋅ 1 d x = ln x ⋅ x − ∫ x 1 ​ ⋅ x d x = x ln x − ∫ d x = x ln x − x + C ■ ​
+- 한편, log ⁡ a x = ln ⁡ x ln ⁡ a \log_ax = \dfrac{\ln x}{\ln a} lo g a ​ x = ln a ln x ​ 이므로
+
+∫ log ⁡ a x d x = ∫ ln ⁡ x ln ⁡ a d x = 1 ln ⁡ a ∫ ln ⁡ x d x = 1 ln ⁡ a ( x ln ⁡ x − x + C ) = x ln ⁡ x − x ln ⁡ a + C ■ = x log ⁡ a x − x ln ⁡ a + C ■ \displaystyle \begin{aligned} \int \log_ax \,{\rm d}x &= \int \frac{\ln x}{\ln a} \,{\rm d}x = \frac1{\ln a} \int \ln x \,{\rm d}x \\ &= \frac1{\ln a} (x\ln x -x +C) \\ &= \frac{x\ln x -x}{\ln a} +C \qquad\blacksquare \\ &= x\log_ax -\frac x{\ln a} +C \qquad\blacksquare \end{aligned} ∫ lo g a ​ x d x ​ = ∫ ln a ln x ​ d x = ln a 1 ​ ∫ ln x d x = ln a 1 ​ ( x ln x − x + C ) = ln a x ln x − x ​ + C ■ = x lo g a ​ x − ln a x ​ + C ■ ​
+- 거듭제곱 꼴의 부정적분 (단, n n n 은 0 0 0 이상의 정수, a a a 는 1 1 1 이 아닌 양의 실수, x x x 는 양의 실수) ∫ ln ⁡ n x d x = x ln ⁡ n x − n ∫ ln ⁡ n − 1 x d x ( n ≥ 1 ) = ∑ k = 0 n ( − 1 ) k n ! ( n − k ) ! x ln ⁡ n − k x + C ( n ≥ 0 ) = ∑ k = 0 n ( − 1 ) k n k ‾ x ln ⁡ n − k x + C ( n ≥ 0 ) ∫ log ⁡ a n x d x = x log ⁡ a n x − n ln ⁡ a ∫ log ⁡ a n − 1 x d x ( n ≥ 1 ) = 1 ln ⁡ n a ∑ k = 0 n ( − 1 ) k n k ‾ x ln ⁡ n − k x + C ( n ≥ 0 ) = ∑ k = 0 n ( − 1 ) k n k ‾ ln ⁡ k a x log ⁡ a n − k x + C ( n ≥ 0 ) \displaystyle \begin{aligned} \int \ln^nx \,{\rm d}x &= x\ln^nx -n\int \ln^{n-1}x \,{\rm d}x &(n\ge1) \\ &= \sum_{k=0}^n \frac{(-1)^kn!}{(n-k)!} \,x\ln^{n-k}x +C &(n\ge0) \\ &= \sum_{k=0}^n (-1)^k n^{\underline k} \,x\ln^{n-k}x +C &(n\ge0) \\ \int {\log_a}^n\,x \,{\rm d}x &= x\,{\log_a}^n\,x -\frac n{\ln a} \int {\log_a}^{n-1}\,x \,{\rm d}x &(n\ge1) \\ &= \frac1{\ln^na} \sum_{k=0}^n (-1)^k n^{\underline k} \,x\ln^{n-k}x +C &(n\ge0) \\ &= \sum_{k=0}^n \frac{(-1)^k n^{\underline k}}{\ln^ka} \,x\,{\log_a}^{n-k}\,x +C &(n\ge0) \end{aligned} ∫ ln n x d x ∫ lo g a ​ n x d x ​ = x ln n x − n ∫ ln n − 1 x d x = k = 0 ∑ n ​ ( n − k )! ( − 1 ) k n ! ​ x ln n − k x + C = k = 0 ∑ n ​ ( − 1 ) k n k ​ x ln n − k x + C = x lo g a ​ n x − ln a n ​ ∫ lo g a ​ n − 1 x d x = ln n a 1 ​ k = 0 ∑ n ​ ( − 1 ) k n k ​ x ln n − k x + C = k = 0 ∑ n ​ ln k a ( − 1 ) k n k ​ ​ x lo g a ​ n − k x + C ​ ( n ≥ 1 ) ( n ≥ 0 ) ( n ≥ 0 ) ( n ≥ 1 ) ( n ≥ 0 ) ( n ≥ 0 ) ​
+
+[증명] - 부분적분법 을 사용한다.
+
+∫ f ( x ) g ′ ( x ) d x = f ( x ) g ( x ) − ∫ f ′ ( x ) g ( x ) d x \displaystyle \begin{aligned} \int f(x)g'(x) \,{\rm d}x = f(x)g(x) -\int f'(x)g(x) \,{\rm d}x \end{aligned} ∫ f ( x ) g ′ ( x ) d x = f ( x ) g ( x ) − ∫ f ′ ( x ) g ( x ) d x ​
+f ( x ) = ln ⁡ n x f(x) = \ln^nx f ( x ) = ln n x , g ′ ( x ) = 1 g'(x) = 1 g ′ ( x ) = 1 이라고 두면, f ′ ( x ) = n ln ⁡ n − 1 x x f'(x) = \dfrac{n\ln^{n-1}x}x f ′ ( x ) = x n ln n − 1 x ​ , g ( x ) = x g(x) = x g ( x ) = x 이므로
+
+∫ ln ⁡ n x d x = ∫ ln ⁡ n x ⋅ 1 d x = ln ⁡ n x ⋅ x − ∫ n ln ⁡ n − 1 x x ⋅ x d x = x ln ⁡ n x − n ∫ ln ⁡ n − 1 x d x ■ = x ln ⁡ n x − n ( x ln ⁡ n − 1 x − ( n − 1 ) ∫ ln ⁡ n − 2 x d x ) = x ln ⁡ n x − n x ln ⁡ n − 1 x + n ( n − 1 ) ∫ ln ⁡ n − 2 x d x = x ln ⁡ n x − n x ln ⁡ n − 1 x + n ( n − 1 ) x ln ⁡ n − 2 x − n ( n − 1 ) ( n − 2 ) ∫ ln ⁡ n − 3 x d x = ⋯ = x ln ⁡ n x − n x ln ⁡ n − 1 x + n ( n − 1 ) x ln ⁡ n − 2 x − n ( n − 1 ) ( n − 2 ) x ln ⁡ n − 3 x + ⋯ + ( − 1 ) n − 2 n ( n − 1 ) ⋯ 5 ⋅ 4 ⋅ 3 x ln ⁡ 2 x + ( − 1 ) n − 1 n ( n − 1 ) ⋯ 4 ⋅ 3 ⋅ 2 ∫ ln ⁡ x d x = x ln ⁡ n x − n x ln ⁡ n − 1 x + n ( n − 1 ) x ln ⁡ n − 2 x − n ( n − 1 ) ( n − 2 ) x ln ⁡ n − 3 x + ⋯ + ( − 1 ) n − 1 n ( n − 1 ) ⋯ 4 ⋅ 3 ⋅ 2 ⋅ ( x ln ⁡ x − x ) = x ln ⁡ n x − n x ln ⁡ n − 1 x + n ( n − 1 ) x ln ⁡ n − 2 x − n ( n − 1 ) ( n − 2 ) x ln ⁡ n − 3 x + ⋯ + ( − 1 ) n − 1 n ( n − 1 ) ⋯ 4 ⋅ 3 ⋅ 2 x ln ⁡ x + ( − 1 ) n n ( n − 1 ) ⋯ 4 ⋅ 3 ⋅ 2 ⋅ 1 x + C = ∑ k = 0 n ( − 1 ) k n ! ( n − k ) ! x ln ⁡ n − k x + C ■ \displaystyle \begin{aligned} \int \ln^nx \,{\rm d}x &= \int \ln^nx \cdot 1 \,{\rm d}x \\ &= \ln^nx \cdot x -\int \frac{n\ln^{n-1}x}x \cdot x \,{\rm d}x \\ &= x\ln^nx -n\int \ln^{n-1}x \,{\rm d}x \qquad\blacksquare \\ &= x\ln^nx -n \biggl( x\ln^{n-1}x -(n-1)\int \ln^{n-2}x \,{\rm d}x \biggr) \\ &= x\ln^nx -nx\ln^{n-1}x +n(n-1)\int \ln^{n-2}x \,{\rm d}x \\ &= x\ln^nx -nx\ln^{n-1}x +n(n-1)x\ln^{n-2}x -n(n-1)(n-2)\int \ln^{n-3}x \,{\rm d}x \\ &= \cdots \\ &= x\ln^nx -nx\ln^{n-1}x +n(n-1)x\ln^{n-2}x -n(n-1)(n-2)x\ln^{n-3}x +\cdots \\ &\quad +(-1)^{n-2}n(n-1)\cdots5\cdot4\cdot3x\ln^2x +(-1)^{n-1}n(n-1)\cdots4\cdot3\cdot2\int\ln x\,{\rm d}x \\ &= x\ln^nx -nx\ln^{n-1}x +n(n-1)x\ln^{n-2}x -n(n-1)(n-2)x\ln^{n-3}x +\cdots \\ &\quad +(-1)^{n-1}n(n-1)\cdots4\cdot3\cdot2\cdot(x\ln x-x) \\ &= x\ln^nx -nx\ln^{n-1}x +n(n-1)x\ln^{n-2}x -n(n-1)(n-2)x\ln^{n-3}x +\cdots \\ &\quad +(-1)^{n-1}n(n-1)\cdots4\cdot3\cdot2x\ln x +(-1)^nn(n-1)\cdots4\cdot3\cdot2\cdot1x +C \\ &= \sum_{k=0}^n \frac{(-1)^kn!}{(n-k)!} \,x\ln^{n-k}x +C \qquad\blacksquare \end{aligned} ∫ ln n x d x ​ = ∫ ln n x ⋅ 1 d x = ln n x ⋅ x − ∫ x n ln n − 1 x ​ ⋅ x d x = x ln n x − n ∫ ln n − 1 x d x ■ = x ln n x − n ( x ln n − 1 x − ( n − 1 ) ∫ ln n − 2 x d x ) = x ln n x − n x ln n − 1 x + n ( n − 1 ) ∫ ln n − 2 x d x = x ln n x − n x ln n − 1 x + n ( n − 1 ) x ln n − 2 x − n ( n − 1 ) ( n − 2 ) ∫ ln n − 3 x d x = ⋯ = x ln n x − n x ln n − 1 x + n ( n − 1 ) x ln n − 2 x − n ( n − 1 ) ( n − 2 ) x ln n − 3 x + ⋯ + ( − 1 ) n − 2 n ( n − 1 ) ⋯ 5 ⋅ 4 ⋅ 3 x ln 2 x + ( − 1 ) n − 1 n ( n − 1 ) ⋯ 4 ⋅ 3 ⋅ 2 ∫ ln x d x = x ln n x − n x ln n − 1 x + n ( n − 1 ) x ln n − 2 x − n ( n − 1 ) ( n − 2 ) x ln n − 3 x + ⋯ + ( − 1 ) n − 1 n ( n − 1 ) ⋯ 4 ⋅ 3 ⋅ 2 ⋅ ( x ln x − x ) = x ln n x − n x ln n − 1 x + n ( n − 1 ) x ln n − 2 x − n ( n − 1 ) ( n − 2 ) x ln n − 3 x + ⋯ + ( − 1 ) n − 1 n ( n − 1 ) ⋯ 4 ⋅ 3 ⋅ 2 x ln x + ( − 1 ) n n ( n − 1 ) ⋯ 4 ⋅ 3 ⋅ 2 ⋅ 1 x + C = k = 0 ∑ n ​ ( n − k )! ( − 1 ) k n ! ​ x ln n − k x + C ■ ​
+여기서 n ! ( n − k ) ! \dfrac{n!}{(n-k)!} ( n − k )! n ! ​ 은 하강 계승 n k ‾ n^{\underline k} n k ​ 와 같으므로 위 식은 다음과 같이 간단히 나타낼 수 있다.
+
+∫ ln ⁡ n x d x = ∑ k = 0 n ( − 1 ) k n ! ( n − k ) ! x ln ⁡ n − k x + C = ∑ k = 0 n ( − 1 ) k n k ‾ x ln ⁡ n − k x + C ■ \displaystyle \begin{aligned} \int \ln^nx \,{\rm d}x &= \sum_{k=0}^n \frac{(-1)^kn!}{(n-k)!} \,x\ln^{n-k}x +C \\ &= \sum_{k=0}^n (-1)^kn^{\underline k}\,x\ln^{n-k}x +C \qquad\blacksquare \end{aligned} ∫ ln n x d x ​ = k = 0 ∑ n ​ ( n − k )! ( − 1 ) k n ! ​ x ln n − k x + C = k = 0 ∑ n ​ ( − 1 ) k n k ​ x ln n − k x + C ■ ​
+- 한편, log ⁡ a x = ln ⁡ x ln ⁡ a \log_ax = \dfrac{\ln x}{\ln a} lo g a ​ x = ln a ln x ​ 이므로
+
+∫ log ⁡ a n x d x = ∫ ( ln ⁡ x ln ⁡ a ) ⁣ n d x = 1 ln ⁡ n a ∫ ln ⁡ n x d x \displaystyle \begin{aligned} \int {\log_a}^n\,x \,{\rm d}x &= \int \biggl( \frac{\ln x}{\ln a} \biggr)^{\!n} \,{\rm d}x = \frac1{\ln^na} \int \ln^nx \,{\rm d}x \end{aligned} ∫ lo g a ​ n x d x ​ = ∫ ( ln a ln x ​ ) n d x = ln n a 1 ​ ∫ ln n x d x ​
+로 나타낼 수 있고, 위에서 이 적분에 대해 유도한 첫 번째 공식을 사용하면
+
+∫ log ⁡ a n x d x = 1 ln ⁡ n a ∫ ln ⁡ n x d x = 1 ln ⁡ n a ( x ln ⁡ n x − n ∫ ln ⁡ n − 1 x d x ) = x log ⁡ a n x − n ln ⁡ a ∫ log ⁡ a n − 1 x d x ■ \displaystyle \begin{aligned} \int {\log_a}^n\,x \,{\rm d}x &= \frac1{\ln^na} \int \ln^nx \,{\rm d}x \\ &= \frac1{\ln^na} \biggl( x\ln^nx -n\int \ln^{n-1}x \,{\rm d}x \biggr) \\ &= x\,{\log_a}^n\,x -\frac n{\ln a} \int {\log_a}^{n-1}\,x \,{\rm d}x \qquad\blacksquare \end{aligned} ∫ lo g a ​ n x d x ​ = ln n a 1 ​ ∫ ln n x d x = ln n a 1 ​ ( x ln n x − n ∫ ln n − 1 x d x ) = x lo g a ​ n x − ln a n ​ ∫ lo g a ​ n − 1 x d x ■ ​
+세 번째 공식을 사용하면 (두 번째 공식은 하강 계승의 자리에 간단히 분수를 대입해서 얻을 수 있으므로)
+
+∫ log ⁡ a n x d x = 1 ln ⁡ n a ∫ ln ⁡ n x d x = 1 ln ⁡ n a ( ∑ k = 0 n ( − 1 ) k n k ‾ x ln ⁡ n − k x + C ) = 1 ln ⁡ n a ∑ k = 0 n ( − 1 ) k n k ‾ x ln ⁡ n − k x + C ■ = ∑ k = 0 n ( − 1 ) k n k ‾ ln ⁡ k a x ln ⁡ n − k x ln ⁡ n − k a + C = ∑ k = 0 n ( − 1 ) k n k ‾ ln ⁡ k a x log ⁡ a n − k x + C ■ \displaystyle \begin{aligned} \int {\log_a}^n\,x \,{\rm d}x &= \frac1{\ln^na} \int \ln^nx \,{\rm d}x \\ &= \frac1{\ln^na} \Biggl( \sum_{k=0}^n (-1)^k n^{\underline k} \,x\ln^{n-k}x +C \Biggr) \\ &= \frac1{\ln^na} \sum_{k=0}^n (-1)^k n^{\underline k} \,x\ln^{n-k}x +C \qquad\blacksquare \\ &= \sum_{k=0}^n \frac{(-1)^k n^{\underline k}}{\ln^ka} \frac{x\ln^{n-k}x}{\ln^{n-k}a} +C \\ &= \sum_{k=0}^n \frac{(-1)^k n^{\underline k}}{\ln^ka} \,x\,{\log_a}^{n-k}\,x +C \qquad\blacksquare \end{aligned} ∫ lo g a ​ n x d x ​ = ln n a 1 ​ ∫ ln n x d x = ln n a 1 ​ ( k = 0 ∑ n ​ ( − 1 ) k n k ​ x ln n − k x + C ) = ln n a 1 ​ k = 0 ∑ n ​ ( − 1 ) k n k ​ x ln n − k x + C ■ = k = 0 ∑ n ​ ln k a ( − 1 ) k n k ​ ​ ln n − k a x ln n − k x ​ + C = k = 0 ∑ n ​ ln k a ( − 1 ) k n k ​ ​ x lo g a ​ n − k x + C ■ ​
+- 진수가 일차식일 때의 부정적분 (단, n n n 은 0 0 0 이상의 정수, a a a 는 1 1 1 이 아닌 양의 실수, b b b 와 c c c 와 x x x 는 b x + c > 0 bx+c>0 b x + c > 0 을 만족하는 양의 실수) ∫ log ⁡ a ( b x + c ) d x = ( b x + c ) ln ⁡ ( b x + c ) b ln ⁡ a − x ln ⁡ a + C = b x + c b log ⁡ a ( b x + c ) − x ln ⁡ a + C ∫ log ⁡ a n ( b x + c ) d x = b x + c b log ⁡ a n ( b x + c ) − n ln ⁡ a ∫ log ⁡ a n − 1 ( b x + c ) d x ( n ≥ 1 ) = 1 b ln ⁡ n a ∑ k = 0 n ( − 1 ) k n k ‾ ( b x + c ) ln ⁡ n − k ( b x + c ) + C ( n ≥ 0 ) = ∑ k = 0 n ( − 1 ) k n k ‾ b ln ⁡ k a ( b x + c ) log ⁡ a n − k ( b x + c ) + C ( n ≥ 0 ) \displaystyle \begin{aligned} \int \log_a(bx+c) \,{\rm d}x &= \frac{(bx+c)\ln(bx+c)}{b\ln a} -\frac x{\ln a} +C \\ &= \frac{bx+c}b \log_a(bx+c) -\frac x{\ln a} +C \\ \int {\log_a}^n(bx+c) \,{\rm d}x &= \frac{bx+c}b \,{\log_a}^n(bx+c) -\frac n{\ln a} \int {\log_a}^{n-1}(bx+c) \,{\rm d}x &(n\ge1) \\ &= \frac1{b\ln^na} \sum_{k=0}^n (-1)^k n^{\underline k} (bx+c) \ln^{n-k}(bx+c) +C &(n\ge0) \\ &= \sum_{k=0}^n \frac{(-1)^k n^{\underline k}}{b\ln^ka} \,(bx+c) \,{\log_a}^{n-k}(bx+c) +C &(n\ge0) \end{aligned} ∫ lo g a ​ ( b x + c ) d x ∫ lo g a ​ n ( b x + c ) d x ​ = b ln a ( b x + c ) ln ( b x + c ) ​ − ln a x ​ + C = b b x + c ​ lo g a ​ ( b x + c ) − ln a x ​ + C = b b x + c ​ lo g a ​ n ( b x + c ) − ln a n ​ ∫ lo g a ​ n − 1 ( b x + c ) d x = b ln n a 1 ​ k = 0 ∑ n ​ ( − 1 ) k n k ​ ( b x + c ) ln n − k ( b x + c ) + C = k = 0 ∑ n ​ b ln k a ( − 1 ) k n k ​ ​ ( b x + c ) lo g a ​ n − k ( b x + c ) + C ​ ( n ≥ 1 ) ( n ≥ 0 ) ( n ≥ 0 ) ​
+
+[증명] - 치환적분 을 사용한다. b x + c = t bx+c = t b x + c = t 라고 두면 b d x = d t b\,{\rm d}x = {\rm d}t b d x = d t 이므로
+
+∫ log ⁡ a ( b x + c ) d x = ∫ log ⁡ a t ⋅ d t b = 1 b ∫ log ⁡ a t d t = 1 b ( t ln ⁡ t − t ln ⁡ a + C ) ⁣ = t ln ⁡ t − t b ln ⁡ a + C = ( b x + c ) ln ⁡ ( b x + c ) − b x − c ) b ln ⁡ a + C = ( b x + c ) ln ⁡ ( b x + c ) b ln ⁡ a − x ln ⁡ a + C ■ = b x + c b log ⁡ a ( b x + c ) − x ln ⁡ a + C ■ \displaystyle \begin{aligned} \int \log_a(bx+c) \,{\rm d}x &= \int \log_at \cdot \frac{{\rm d}t}b = \frac1b \int \log_at \,{\rm d}t \\ &= \frac1b \biggl( \frac{t\ln t -t}{\ln a} +C \biggr) \!= \frac{t\ln t -t}{b\ln a} +C \\ &= \frac{(bx+c)\ln(bx+c) -bx -c)}{b\ln a} +C \\ &= \frac{(bx+c)\ln(bx+c)}{b\ln a} -\frac x{\ln a} +C \qquad\blacksquare \\ &= \frac{bx+c}b \log_a(bx+c) -\frac x{\ln a} +C \qquad\blacksquare \end{aligned} ∫ lo g a ​ ( b x + c ) d x ​ = ∫ lo g a ​ t ⋅ b d t ​ = b 1 ​ ∫ lo g a ​ t d t = b 1 ​ ( ln a t ln t − t ​ + C ) = b ln a t ln t − t ​ + C = b ln a ( b x + c ) ln ( b x + c ) − b x − c ) ​ + C = b ln a ( b x + c ) ln ( b x + c ) ​ − ln a x ​ + C ■ = b b x + c ​ lo g a ​ ( b x + c ) − ln a x ​ + C ■ ​
+- 치환적분 을 사용한다. b x + c = t bx+c = t b x + c = t 라고 두면 b d x = d t b\,{\rm d}x = {\rm d}t b d x = d t 이므로
+
+∫ log ⁡ a n ( b x + c ) d x = ∫ log ⁡ a n t ⋅ d t b = 1 b ∫ log ⁡ a n t d t \displaystyle \begin{aligned} \int {\log_a}^n(bx+c) \,{\rm d}x &= \int {\log_a}^n\,t \cdot \frac{{\rm d}t}b = \frac1b \int {\log_a}^n\,t \,{\rm d}t \end{aligned} ∫ lo g a ​ n ( b x + c ) d x ​ = ∫ lo g a ​ n t ⋅ b d t ​ = b 1 ​ ∫ lo g a ​ n t d t ​
+로 나타낼 수 있고, 위에서 이 적분에 대해 유도한 첫 번째 공식을 사용하면
+
+∫ log ⁡ a n ( b x + c ) d x = 1 b ∫ log ⁡ a n t d t = 1 b ( t log ⁡ a n t − n ln ⁡ a ∫ log ⁡ a n − 1 t d t ) = b x + c b log ⁡ a n ( b x + c ) − n b ln ⁡ a ∫ log ⁡ a n − 1 ( b x + c ) ⋅ b d x = b x + c b log ⁡ a n ( b x + c ) − n ln ⁡ a ∫ log ⁡ a n − 1 ( b x + c ) d x ■ \displaystyle \begin{aligned} \int {\log_a}^n(bx+c) \,{\rm d}x &= \frac1b \int {\log_a}^n\,t \,{\rm d}t \\ &= \frac1b \biggl( t\,{\log_a}^n\,t -\frac n{\ln a} \int {\log_a}^{n-1}\,t \,{\rm d}t \biggr) \\ &= \frac{bx+c}b \,{\log_a}^n(bx+c) -\frac n{b\ln a} \int {\log_a}^{n-1}(bx+c) \cdot b\,{\rm d}x \\ &= \frac{bx+c}b \,{\log_a}^n(bx+c) -\frac n{\ln a} \int {\log_a}^{n-1}(bx+c) \,{\rm d}x \qquad\blacksquare \end{aligned} ∫ lo g a ​ n ( b x + c ) d x ​ = b 1 ​ ∫ lo g a ​ n t d t = b 1 ​ ( t lo g a ​ n t − ln a n ​ ∫ lo g a ​ n − 1 t d t ) = b b x + c ​ lo g a ​ n ( b x + c ) − b ln a n ​ ∫ lo g a ​ n − 1 ( b x + c ) ⋅ b d x = b b x + c ​ lo g a ​ n ( b x + c ) − ln a n ​ ∫ lo g a ​ n − 1 ( b x + c ) d x ■ ​
+두 번째 공식을 사용하면
+
+∫ log ⁡ a n ( b x + c ) d x = 1 b ∫ log ⁡ a n t d t = 1 b ( 1 ln ⁡ n a ∑ k = 0 n ( − 1 ) k n k ‾ t ln ⁡ n − k t + C ) = 1 b ln ⁡ n a ∑ k = 0 n ( − 1 ) k n k ‾ ( b x + c ) ln ⁡ n − k ( b x + c ) + C ■ \displaystyle \begin{aligned} \int {\log_a}^n(bx+c) \,{\rm d}x &= \frac1b \int {\log_a}^n\,t \,{\rm d}t \\ &= \frac1b \Biggl( \frac1{\ln^na} \sum_{k=0}^n (-1)^k n^{\underline k} \,t\ln^{n-k}t +C \Biggr) \\ &= \frac1{b\ln^na} \sum_{k=0}^n (-1)^k n^{\underline k} (bx+c) \ln^{n-k}(bx+c) +C \qquad\blacksquare \end{aligned} ∫ lo g a ​ n ( b x + c ) d x ​ = b 1 ​ ∫ lo g a ​ n t d t = b 1 ​ ( ln n a 1 ​ k = 0 ∑ n ​ ( − 1 ) k n k ​ t ln n − k t + C ) = b ln n a 1 ​ k = 0 ∑ n ​ ( − 1 ) k n k ​ ( b x + c ) ln n − k ( b x + c ) + C ■ ​
+세 번째 공식을 사용하면
+
+∫ log ⁡ a n ( b x + c ) d x = 1 b ∫ log ⁡ a n t d t = 1 b ( ∑ k = 0 n ( − 1 ) k n k ‾ ln ⁡ k a t log ⁡ a n − k t + C ) = ∑ k = 0 n ( − 1 ) k n k ‾ b ln ⁡ k a ( b x + c ) log ⁡ a n − k ( b x + c ) + C ■ \displaystyle \begin{aligned} \int {\log_a}^n(bx+c) \,{\rm d}x &= \frac1b \int {\log_a}^n\,t \,{\rm d}t \\ &= \frac1b \Biggl( \sum_{k=0}^n \frac{(-1)^k n^{\underline k}}{\ln^ka} \,t\,{\log_a}^{n-k}\,t +C \Biggr) \\ &= \sum_{k=0}^n \frac{(-1)^k n^{\underline k}}{b\ln^ka} \,(bx+c) \,{\log_a}^{n-k}(bx+c) +C \qquad\blacksquare \end{aligned} ∫ lo g a ​ n ( b x + c ) d x ​ = b 1 ​ ∫ lo g a ​ n t d t = b 1 ​ ( k = 0 ∑ n ​ ln k a ( − 1 ) k n k ​ ​ t lo g a ​ n − k t + C ) = k = 0 ∑ n ​ b ln k a ( − 1 ) k n k ​ ​ ( b x + c ) lo g a ​ n − k ( b x + c ) + C ■ ​
+- x m x^m x m 과 ln ⁡ n x \ln^nx ln n x 의 곱 (단, m m m 과 n n n 은 0 0 0 이상의 정수, x x x 는 양의 실수) ∫ x m ln ⁡ n x d x = ∑ k = 0 n ( − 1 ) k ( m + 1 ) k + 1 n ! ( n − k ) ! x m + 1 ln ⁡ n − k x + C = ∑ k = 0 n ( − 1 ) k n k ‾ ( m + 1 ) k + 1 x m + 1 ln ⁡ n − k x + C ∫ 0 1 x m ln ⁡ n x d x = ( − 1 ) n n ! ( m + 1 ) n + 1 \displaystyle \begin{aligned} \int x^m \ln^nx \,{\rm d}x &= \sum_{k=0}^n \frac{(-1)^k}{(m+1)^{k+1}} \frac{n!}{(n-k)!} \,x^{m+1} \ln^{n-k}x +C \\ &= \sum_{k=0}^n \frac{(-1)^k n^{\underline k}}{(m+1)^{k+1}} \,x^{m+1} \ln^{n-k}x +C \\ \int_0^1 x^m \ln^nx \,{\rm d}x &= \frac{(-1)^n n!}{(m+1)^{n+1}} \end{aligned} ∫ x m ln n x d x ∫ 0 1 ​ x m ln n x d x ​ = k = 0 ∑ n ​ ( m + 1 ) k + 1 ( − 1 ) k ​ ( n − k )! n ! ​ x m + 1 ln n − k x + C = k = 0 ∑ n ​ ( m + 1 ) k + 1 ( − 1 ) k n k ​ ​ x m + 1 ln n − k x + C = ( m + 1 ) n + 1 ( − 1 ) n n ! ​ ​
+
+[증명]
+부정적분은 부분적분법 을 사용하여 아래와 같이 증명할 수 있다.
+∫ x m ln ⁡ n x d x = x m + 1 m + 1 ln ⁡ n x − ∫ x m + 1 m + 1 ( n ln ⁡ n − 1 x ⋅ 1 x ) d x = x m + 1 m + 1 ln ⁡ n x − n m + 1 ∫ x m ln ⁡ n − 1 x d x = x m + 1 m + 1 ln ⁡ n x − n m + 1 ( x m + 1 m + 1 ln ⁡ n − 1 x − n − 1 m + 1 ∫ x m ln ⁡ n − 2 x d x ) = x m + 1 m + 1 ln ⁡ n x − n x m + 1 ( m + 1 ) 2 ln ⁡ n − 1 x + n ( n − 1 ) ( m + 1 ) 2 ∫ x m ln ⁡ n − 2 x d x = x m + 1 m + 1 ln ⁡ n x − n x m + 1 ( m + 1 ) 2 ln ⁡ n − 1 x + n ( n − 1 ) x m + 1 ( m + 1 ) 3 ln ⁡ n − 2 x − n ( n − 1 ) ( n − 2 ) ( m + 1 ) 3 ∫ x m ln ⁡ n − 3 x d x = ⋯ = 1 m + 1 x m + 1 ln ⁡ n x − n ( m + 1 ) 2 x m + 1 ln ⁡ n − 1 x + n ( n − 1 ) ( m + 1 ) 3 x m + 1 ln ⁡ n − 2 x − ⋯ + ( − 1 ) n − 1 n ( n − 1 ) ⋯ 4 ⋅ 3 ⋅ 2 ( m + 1 ) n x m + 1 ln ⁡ x + ( − 1 ) n n ( n − 1 ) ⋯ 3 ⋅ 2 ⋅ 1 ( m + 1 ) n ∫ x m d x = 1 m + 1 x m + 1 ln ⁡ n x − n ( m + 1 ) 2 x m + 1 ln ⁡ n − 1 x + n ( n − 1 ) ( m + 1 ) 3 x m + 1 ln ⁡ n − 2 x − ⋯ + ( − 1 ) n − 1 n ( n − 1 ) ⋯ 4 ⋅ 3 ⋅ 2 ( m + 1 ) n x m + 1 ln ⁡ x + ( − 1 ) n n ( n − 1 ) ⋯ 3 ⋅ 2 ⋅ 1 ( m + 1 ) n + 1 x m + 1 + C = ∑ k = 0 n ( − 1 ) k ( m + 1 ) k + 1 n ! ( n − k ) ! x m + 1 ln ⁡ n − k x + C ■ = ∑ k = 0 n ( − 1 ) k n k ‾ ( m + 1 ) k + 1 x m + 1 ln ⁡ n − k x + C ■ \displaystyle \begin{aligned} &\quad \int x^m \ln^nx \,{\rm d}x = \frac{x^{m+1}}{m+1} \ln^nx -\int \frac{x^{m+1}}{m+1} \biggl( n\ln^{n-1}x \cdot \frac1x \biggr) {\rm d}x \\ &= \frac{x^{m+1}}{m+1} \ln^nx -\frac n{m+1} \int x^m \ln^{n-1}x \,{\rm d}x \\ &= \frac{x^{m+1}}{m+1} \ln^nx -\frac n{m+1} \biggl( \frac{x^{m+1}}{m+1} \ln^{n-1}x -\frac{n-1}{m+1} \int x^m \ln^{n-2}x \,{\rm d}x \biggr) \\ &= \frac{x^{m+1}}{m+1} \ln^nx -\frac{nx^{m+1}}{(m+1)^2} \ln^{n-1}x +\frac{n(n-1)}{(m+1)^2} \int x^m \ln^{n-2}x \,{\rm d}x \\ &= \frac{x^{m+1}}{m+1} \ln^nx -\frac{nx^{m+1}}{(m+1)^2} \ln^{n-1}x +\frac{n(n-1)x^{m+1}}{(m+1)^3} \ln^{n-2}x -\frac{n(n-1)(n-2)}{(m+1)^3} \int x^m \ln^{n-3}x \,{\rm d}x \\ &= \cdots \\ &= \frac1{m+1} \,x^{m+1}\ln^nx -\frac n{(m+1)^2} \,x^{m+1}\ln^{n-1}x +\frac{n(n-1)}{(m+1)^3} \,x^{m+1}\ln^{n-2}x -\cdots \\ &\quad +\frac{(-1)^{n-1} n(n-1)\cdots4\cdot3\cdot2}{(m+1)^n} \,x^{m+1} \ln x +\frac{(-1)^nn(n-1)\cdots3\cdot2\cdot1}{(m+1)^n} \int x^m \,{\rm d}x \\ &= \frac1{m+1} \,x^{m+1}\ln^nx -\frac n{(m+1)^2} \,x^{m+1}\ln^{n-1}x +\frac{n(n-1)}{(m+1)^3} \,x^{m+1}\ln^{n-2}x -\cdots \\ &\quad +\frac{(-1)^{n-1} n(n-1)\cdots4\cdot3\cdot2}{(m+1)^n} \,x^{m+1} \ln x +\frac{(-1)^nn(n-1)\cdots3\cdot2\cdot1}{(m+1)^{n+1}} \,x^{m+1} +C \\ &= \sum_{k=0}^n \frac{(-1)^k}{(m+1)^{k+1}} \frac{n!}{(n-k)!} \,x^{m+1} \ln^{n-k}x +C \qquad\blacksquare \\ &= \sum_{k=0}^n \frac{(-1)^k n^{\underline k}}{(m+1)^{k+1}} \,x^{m+1} \ln^{n-k}x +C \qquad\blacksquare \end{aligned} ​ ∫ x m ln n x d x = m + 1 x m + 1 ​ ln n x − ∫ m + 1 x m + 1 ​ ( n ln n − 1 x ⋅ x 1 ​ ) d x = m + 1 x m + 1 ​ ln n x − m + 1 n ​ ∫ x m ln n − 1 x d x = m + 1 x m + 1 ​ ln n x − m + 1 n ​ ( m + 1 x m + 1 ​ ln n − 1 x − m + 1 n − 1 ​ ∫ x m ln n − 2 x d x ) = m + 1 x m + 1 ​ ln n x − ( m + 1 ) 2 n x m + 1 ​ ln n − 1 x + ( m + 1 ) 2 n ( n − 1 ) ​ ∫ x m ln n − 2 x d x = m + 1 x m + 1 ​ ln n x − ( m + 1 ) 2 n x m + 1 ​ ln n − 1 x + ( m + 1 ) 3 n ( n − 1 ) x m + 1 ​ ln n − 2 x − ( m + 1 ) 3 n ( n − 1 ) ( n − 2 ) ​ ∫ x m ln n − 3 x d x = ⋯ = m + 1 1 ​ x m + 1 ln n x − ( m + 1 ) 2 n ​ x m + 1 ln n − 1 x + ( m + 1 ) 3 n ( n − 1 ) ​ x m + 1 ln n − 2 x − ⋯ + ( m + 1 ) n ( − 1 ) n − 1 n ( n − 1 ) ⋯ 4 ⋅ 3 ⋅ 2 ​ x m + 1 ln x + ( m + 1 ) n ( − 1 ) n n ( n − 1 ) ⋯ 3 ⋅ 2 ⋅ 1 ​ ∫ x m d x = m + 1 1 ​ x m + 1 ln n x − ( m + 1 ) 2 n ​ x m + 1 ln n − 1 x + ( m + 1 ) 3 n ( n − 1 ) ​ x m + 1 ln n − 2 x − ⋯ + ( m + 1 ) n ( − 1 ) n − 1 n ( n − 1 ) ⋯ 4 ⋅ 3 ⋅ 2 ​ x m + 1 ln x + ( m + 1 ) n + 1 ( − 1 ) n n ( n − 1 ) ⋯ 3 ⋅ 2 ⋅ 1 ​ x m + 1 + C = k = 0 ∑ n ​ ( m + 1 ) k + 1 ( − 1 ) k ​ ( n − k )! n ! ​ x m + 1 ln n − k x + C ■ = k = 0 ∑ n ​ ( m + 1 ) k + 1 ( − 1 ) k n k ​ ​ x m + 1 ln n − k x + C ■ ​
+부정적분을 구했으므로, 정적분도 쉽게 구할 수 있다. 아래에서 하강 계승의 성질 n n ‾ = n ! n^{\underline n} = n! n n ​ = n ! 이 사용되었다.
+∫ 0 1 x m ln ⁡ n x d x = ⁣ [ ∑ k = 0 n ( − 1 ) k n k ‾ ( m + 1 ) k + 1 x m + 1 ln ⁡ n − k x ] 0 1 = ⁣ [ ∑ k = 0 n − 1 ( − 1 ) k n k ‾ ( m + 1 ) k + 1 x m + 1 ln ⁡ n − k x + ( − 1 ) n n n ‾ ( m + 1 ) n + 1 x m + 1 ] 0 1 = ( − 1 ) n n n ‾ ( m + 1 ) n + 1 = ( − 1 ) n n ! ( m + 1 ) n + 1 ■ \displaystyle \begin{aligned} \int_0^1 x^m \ln^nx \,{\rm d}x &= \!\Biggl[ \sum_{k=0}^n \frac{(-1)^k n^{\underline k}}{(m+1)^{k+1}} \,x^{m+1} \ln^{n-k}x \Biggr]_0^1 \\ &= \!\Biggl[ \sum_{k=0}^{n-1} \frac{(-1)^k n^{\underline k}}{(m+1)^{k+1}} \,x^{m+1} \ln^{n-k}x + \frac{(-1)^n n^{\underline n}}{(m+1)^{n+1}} \,x^{m+1} \Biggr]_0^1 \\ &= \frac{(-1)^n n^{\underline n}}{(m+1)^{n+1}} \\ &= \frac{(-1)^n n!}{(m+1)^{n+1}} \qquad\blacksquare \end{aligned} ∫ 0 1 ​ x m ln n x d x ​ = [ k = 0 ∑ n ​ ( m + 1 ) k + 1 ( − 1 ) k n k ​ ​ x m + 1 ln n − k x ] 0 1 ​ = [ k = 0 ∑ n − 1 ​ ( m + 1 ) k + 1 ( − 1 ) k n k ​ ​ x m + 1 ln n − k x + ( m + 1 ) n + 1 ( − 1 ) n n n ​ ​ x m + 1 ] 0 1 ​ = ( m + 1 ) n + 1 ( − 1 ) n n n ​ ​ = ( m + 1 ) n + 1 ( − 1 ) n n ! ​ ■ ​
+- 로그 적분 함수 (단, x x x 는 1 1 1 이 아닌 실수)
+
+∫ 0 x 1 ln ⁡ t d t ≡ li ⁡ ( x ) \displaystyle \begin{aligned} \int_0^x \frac1{\ln t} \,{\rm d}t \equiv \operatorname{li}(x) \end{aligned} ∫ 0 x ​ ln t 1 ​ d t ≡ li ( x ) ​ [9]
+- 폴리로그함수 (단, z ∈ C ∖ ( 1 , ∞ ) z\in\mathbb{C}\setminus(1,\infty) z ∈ C ∖ ( 1 , ∞ ) )
+
+∫ 0 z − ln ⁡ ( 1 − t ) t d t = Li ⁡ 2 ( z ) \displaystyle \begin{aligned} \int_0^z \frac{-\ln(1-t)}t \,{\rm d}t = \operatorname{Li}_2(z) \end{aligned} ∫ 0 z ​ t − ln ( 1 − t ) ​ d t = Li 2 ​ ( z ) ​
+
+6. 기타 [편집]
+- 미적분학 과 해석학 에서는 x − 1 x^{-1} x − 1 의 정적분으로 자연로그의 밑 e e e 와 자연로그함수를 먼저 정의하고 이것의 역함수로 지수함수 e x e^x e x 를 정의한 후, 다시 미적분 을 활용해서 a x a^x a x 를 정의하기도 한다. 마치 수 체계를 확장해나가듯, 특정한 규칙과 그 속성을 유지하는 e e e 와 ln ⁡ x \ln x ln x 가 먼저 정의되고 이 값들에 대해 일반화된 함수를 나중에 정의하는 셈. 역사적으로 지수함수보다 로그함수가 먼저 발명되었으므로 이는 역사적인 순서를 따라 정의하는 방법이라 할 수 있다. 그러나 로그함수와 지수함수는 근본적으로 동일한 현상이며 동전의 양면이기 때문에 어느 것을 먼저 정의하든 논리적 정합성만 지킨다면 상관없다. 일례로 대한민국 의 고등학교 수학 교육 과정에서는 지수함수 를 배운 뒤 그 역함수로 소개하며, 외국의 미적분학 교과서도 Early Transcendentals라고 적혀있다면 이 순서를 따른다. 이렇게 하는 이유는 당연하겠지만 지수는 중학교 때도 배워서 익숙한 개념이지만, 로그는 당장 처음 배워야 하기 때문이다.
+- 일본에서는 로가리듬을 '대수( 対 ( たい ) 数 ( すう ) )'라고 하므로 로그함수 역시 '대수함수' [10] 라고 한다. 이는 중국에서도 마찬가지이다. [11]
+- 소수 에서 상당히 중요한 함수로, 다름 아닌 소수 계량 함수 와 깊게 엮여 있기 때문이다. 자세한 사항은 소수 정리 문서를 참고하자.
+- 일반화된 버전으로 폴리로그함수 가 있다. 자세한 내용은 해당 문서 참고.
+- y = x x y=x^x y = x x 이나 무한 지수 탑 함수 처럼 괴상한 함수들의 미분이나 복잡한 부정형 의 극한을 구할 때 자연로그 함수의 미분을 많이 쓴다. ln ⁡ x \ln x ln x 의 미분이 1 / x 1/x 1/ x 여서 계산이 여러모로 용이해지기 때문이다.
+- 밑에 상관없이 차수 가 0이다.
+
+7. 실생활과 로그함수 [편집]
+로그함수는 의외로 사람들의 실생활에서 많이 보이는 함수이다. 괜히 수학세계에서 로그함수가 지수함수 보다 먼저 정의된 게 아니다.
+- 주식 이나 암호화폐 등 시장에서 가격이 실시간 변동하는 자산의 차트 를 볼 때, 일반적인 차트는 호가 단위에 따라 움직이므로(이걸 '틱'이라고 한다) 주가나 암호화폐 가격 상승에 따라 틱 단위가 커질 수록 그래프에 왜곡이 발생한다. 그래서 투자자들의 실제 수익률에 그래프를 맞추기 위해 틱 단위로 표시되는 일반 차트(선형차트, Linear Scale)을 조정하기 위해 자연로그 를 취한 로그함수 형태로 그래프를 바꿔놓는데, 이 것을 로그차트(Log Scale)라고 한다. 차트를 로그함수화 하면 해당 자산에 투자자들이 실제 얻는 수익률을 나타낼 수 있다.
+
+- 영화 나 음악 , 게임 같이 초동 이 중요하고 시간이 갈 수록 판매량이 떨어지는 문화 콘텐츠의 경우 판매량이나 스트리밍 수치 그래프를 로그함수에 근사시킬 수 있다. 위의 그래프는 2025년 9월 10일 기준 넷플릭스 역대 최고 스트리밍 시청 수 기록을 보유한 영화들의 개봉 주차별 스트리밍 누적 수치 추세 그래프이다. 한 개의 일차함수 직선 을 제외한 나머지 작품들( 레드 노티스 , 캐리온 , 댐즐 )의 그래프가 모두 로그함수처럼 초반에 확 치고 올라왔다가 시간이 갈 수록 상승 추세가 내려 앉는 것을 볼 수 있다. 누적 수치 자체는 해당 작품을 감상하는 사람이 단 1명이라도 있으면 영원히 계속 상승하여 누적 시청 기록 그래프는 무한대 로 발산 하겠지만, 대부분의 시청자 수는 개봉 초반에 발생하고 시간이 갈 수록 증가폭이 줄어들게 된다. 빠른 속도로 무한대로 발산하는 단 하나의 일차함수 그래프 만 빼고 말이다.
+
+8. 관련 문서 [편집]
+- 수학 관련 정보
+- 함수
+- 지수함수
+- 복소로그함수
+- 폴리로그함수
+- 로그 적분 함수
+- 로그 감마 함수
+
+[ 고급단독주택형 허브로움요양원
+blog.naver.com/herbroum v-if
+남동구 신축 단독요양원 재활물리치료 고급인테리어 1인실 2인실 테라스있는요양원
+
+] | [ 체계적인 간호박사요양원
+map.naver.com/p/entry/place/1548755161 v-if
+간호사상주,10년이상경력의 베테랑들이 직접케어,병원급관리, 24시간IOT난방관리
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+]
+
+[1] 복소함수론에서는 a < 0 a<0 a < 0 인 로그도 정의할 수 있다. 복소수 z = r e i θ z=re^{i\theta} z = r e i θ 의 편각 arg ⁡ z = θ \arg z=\theta ar g z = θ 의 범위를 주값인 ( − π , π ] (-\pi,\,\pi] ( − π , π ] 로 잡았을 때, log ⁡ − 1 e = log ⁡ e e log ⁡ e − 1 = 1 π i = − i π \log_{-1}e=\dfrac{\log_e e}{\log_e{-1}}=\dfrac1{\pi i}=-\dfrac i\pi lo g − 1 ​ e = lo g e ​ − 1 lo g e ​ e ​ = π i 1 ​ = − π i ​ 이다. 오일러 등식 을 적용하면 안 되는 것이, 편각이 주기 2 π 2\pi 2 π 인 다가 함수 (즉, e π i = − 1 e^{\pi i}=-1 e π i = − 1 이 아니라 e ( 2 n + 1 ) π i = − 1 e^{(2n+1)\pi i}=-1 e ( 2 n + 1 ) π i = − 1 )이기 때문이다. 자세한 내용은 복소로그함수 참고. [2] ISO 표준에서는 밑이 10 10 10 인 로그이므로 주의 [3] 우측은 리만 곡면 으로 나타낸 것이다. [4] 이 집합은 무한 지수 탑 함수 y = − W ( − Log ⁡ x ) Log ⁡ x y = -\dfrac{W(-\operatorname{Log}x)}{{\operatorname{Log}x}} y = − Log x W ( − Log x ) ​ 가 실수 공역을 갖는 집합이기도 하다. [5] 0 < a < 1 0<a<1 0 < a < 1 의 경우도 동일한 결과가 성립한다. 그러나 설명의 편의와 의의 전달을 위해 증가하는 경우를 상정함. [6] π ( x ) \pi(x) π ( x ) 는 소수 계량 함수 이다. x x x 보다 작거나 같은 소수 의 개수이다. [7] 이 식은 18세기 말에 가우스 와 르장드르 에 의해 추측되었고 훗날 증명된 정리이며, 최근에는 로그 적분 함수 li ⁡ ( x ) = ∫ 0 x d t ln ⁡ t \displaystyle \operatorname{li}(x) = \int_0^x \frac{{\rm d}t}{\ln t} li ( x ) = ∫ 0 x ​ ln t d t ​ 를 이용한 식 lim ⁡ x → ∞ π ( x ) li ⁡ ( x ) = 1 \lim\limits_{x\to\infty} \dfrac{\pi(x)}{\operatorname{li}(x)} = 1 x → ∞ lim ​ li ( x ) π ( x ) ​ = 1 이 더 엄밀하다는 것이 알려져 있다. [8] 소수의 개수까지만 알려줄 뿐, 구체적으로 어떤 소수가 있는지는 알 수 없다. 그 실마리를 찾는 것이 그 유명한 리만 가설 이다. [9] x = 1 x=1 x = 1 에서 특이점을 가지므로 코시 주욧값 을 이용해야 한다. [10] '함수'를 보통 函数가 아닌 関数(관수)로 쓰는데, 단순히 函이 일본에서 상용한자가 아니기 때문에 발음이 かん으로 같은 関으로 대체해서 쓰는 것이다. [11] 중국에서는 函이 상용한자 범위에 있기 때문에 한국과 똑같이 函数라고 한다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

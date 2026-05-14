@@ -1,0 +1,202 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 아하로노프-봄 효과
+최근 수정 시각: 2025-09-03 14:54:03 [ [ [ ] [ [ 3 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 물리학
+- 양자역학
+]
+
+[ [ ] [ 양자역학 Quantum Mechanics
+[ 펼치기 · 접기 ] 배경 | 흑체복사 · 이중슬릿 실험 · 광전효과 · 콤프턴 산란 · 보어의 원자 모형 · 물질파 · 데이비슨-저머 실험 · 불확정성 원리 · 슈테른-게를라흐 실험 · 프랑크-헤르츠 실험
+이론 체계 | 체계 플랑크 상수 ( 플랑크 단위계 ) · 공리 · 슈뢰딩거 방정식 · 파동함수 · 연산자 ( 해밀토니언 · 선운동량 · 각운동량 ) · 스핀 ( 스피너 ) · 파울리 배타 원리 해석 코펜하겐 해석 ( 보어-아인슈타인 논쟁 ) · 숨은 변수 이론 ( EPR 역설 · 벨의 부등식 · 광자 상자 ) · 다세계 해석 · 앙상블 해석 · 서울 해석 묘사 묘사 ( 슈뢰딩거 묘사 · 하이젠베르크 묘사 · 디랙 묘사) · 행렬역학
+연관 학문 | 천체물리학 ( 천문학 틀 · 우주론 · 양자블랙홀 · 중력 특이점 ) · 핵물리학 틀 ( 원자력 공학 틀 ) · 응집물질물리학 틀 · 컴퓨터 과학 틀 ( 양자컴퓨터 · 양자정보과학 ) · 통계역학 틀 · 양자화학 ( 물리화학 틀 ) · 입자물리학 ( 입자물리학 틀 )
+현상 · 응용 | 양자요동 · 양자 얽힘 · 양자 터널링 · 퍼텐셜 우물 · 양자 조화 진동자 · 오비탈 · 수소 원자 모형 · 쌓음 원리 · 훈트 규칙 · 섭동 ( 스핀 - 궤도 결합 · 제이만 효과 · 슈타르크 효과 · 헬만-파인만 정리 ) · 선택 규칙 · 변분 원리 · WKB 근사법 · 시간 결정 · 보스-아인슈타인 응집 · 솔리톤 · 카시미르 효과 · 아하로노프-봄 효과 · 블랙홀 정보 역설 · 양자점 · 하트리-포크 방법 · 밀도범함수 이론 · 준위 · 양자장론 ( 양자전기역학 · 양자색역학 ) · 뤼드베리 방정식 · 체렌코프 현상
+기타 | 군론 · 기본 입자 · 대칭성 · 비리얼 정리 · 리만 가설 · 매듭이론 · 밀도행렬 · 물질 · 방사선 ( 반감기 ) · 라플라스의 악마 · 슈뢰딩거의 고양이 ( 위그너의 친구 )
+문헌 | 교재 · 분류:물리학술지
+
+1 . 개요 2 . 선수 지식 2.1 . 전자기장에 의한 해밀토니언 2.2 . 전자기장 내 슈뢰딩거 방정식 의 변형 3 . 상세 3.1 . 벡터 퍼텐셜에 의한 효과 3.1.1 . 베리 위상 으로 해석 3.2 . 스칼라 퍼텐셜에 의한 효과 4 . 기타 5 . 관련 문서
+
+1. 개요 [편집]
+Aharonov-Bohm effect
+
+1959년 아하로노프 (Yakir Aharonov, 1932)와 봄 (David Joseph Bohm, 1917-1992)이 발견한 현상으로, 대전된 입자가 전자기장이 없는 영역(명확히는 전자기장 텐서가 0인 영역)에서도 이러한 전자기장의 효과를 받는 현상을 일컫는다.
+
+전기 퍼텐셜 (이하 "스칼라 퍼텐셜")과 자기 퍼텐셜 (이하 "벡터 퍼텐셜") 두 퍼텐셜에 의한 효과가 있다.
+
+이 문서에서는 학부 수준만 논의하기로 한다. 좀 더 심층적인 정보를 원하는 독자는 이곳(영어) 을 참고하기 바란다.
+
+이 현상은 상당히 중요한데, 어떤 독자들은 장에 대한 퍼텐셜은 장이 벡터라는 수학적인 번거로움을 덜기 위해 도입한 것, 즉 실재하지 않고 오로지 수학적인 편의를 위해서만 도입한 것이라 생각할 수도 있다. 그러나 이 현상은 퍼텐셜에 의해 영향을 받는다는 게 실제적으로 관측된다는 것이다. 물론 퍼텐셜 자체는 측정되지 않지만 절대로 전자와 같이 생각하면 안되며, 이 현상은 퍼텐셜이 물리적으로 실재함을 보여주고 증명한다고 볼 수 있다.
+
+2. 선수 지식 [편집]
+
+2.1. 전자기장에 의한 해밀토니언 [편집]
+로런츠 힘 문서에서 전기장과 자기장이 있는 영역에서 대전된 입자는 다음과 같은 해밀토니언 을 가짐을 논의했다.
+
+H = 1 2 m ( p − q A ) 2 + q Φ \displaystyle \begin{aligned} \mathcal{H}=\frac{1}{2m} (\mathbf{p}-q \mathbf{A})^{2}+q \Phi \end{aligned} H = 2 m 1 ​ ( p − q A ) 2 + q Φ ​
+Φ \Phi Φ , A \mathbf{A} A 는 각각 스칼라 퍼텐셜, 벡터 퍼텐셜이다.
+
+2.2. 전자기장 내 슈뢰딩거 방정식 의 변형 [편집]
+스칼라 퍼텐셜과 벡터 퍼텐셜 모두 게이지 변환에 대해 불변이며, 그것은 전자기파 방사 문서에서 소개된 것 처럼 다음과 같다.
+
+A = A + ∇ Λ Φ = Φ − ∂ Λ ∂ t \displaystyle \begin{aligned} \mathbf{A} &= \mathbf{A}+\boldsymbol{\nabla}\Lambda \\ \Phi &= \Phi- \frac{\partial \Lambda}{\partial t} \end{aligned} A Φ ​ = A + ∇ Λ = Φ − ∂ t ∂ Λ ​ ​
+
+전자기장이 있는 곳에서 해밀토니언을 분석해보면
+
+H = 1 2 m ( − i ℏ ∇ − q A ) 2 + q Φ = 1 2 m ( − i ℏ ∇ − q A ) ⋅ ( − i ℏ ∇ − q A ) + q Φ = 1 2 m ( − ℏ 2 ∇ 2 + i ℏ q A ⋅ ∇ + i ℏ q ∇ ⋅ A + q 2 A 2 ) + q Φ \displaystyle \begin{aligned} \mathcal{H}&=\frac{1}{2m} (-i\hbar \boldsymbol{\nabla}-q \mathbf{A})^{2}+q \Phi \\&=\frac{1}{2m} (-i\hbar \boldsymbol{\nabla}-q \mathbf{A}) \boldsymbol{\cdot}(-i\hbar \boldsymbol{\nabla}-q \mathbf{A}) +q \Phi \\&=\frac{1}{2m} (-\hbar^{2} \nabla^{2}+i \hbar q \mathbf{A} \boldsymbol{\cdot} \boldsymbol{\nabla}+i \hbar q \boldsymbol{\nabla} \boldsymbol{\cdot} \mathbf{A}+q^2 A^2 )+q \Phi \end{aligned} H ​ = 2 m 1 ​ ( − i ℏ ∇ − q A ) 2 + q Φ = 2 m 1 ​ ( − i ℏ ∇ − q A ) ⋅ ( − i ℏ ∇ − q A ) + q Φ = 2 m 1 ​ ( − ℏ 2 ∇ 2 + i ℏ q A ⋅ ∇ + i ℏ q ∇ ⋅ A + q 2 A 2 ) + q Φ ​
+따라서 파동함수를 적용시키면
+
+H ψ = 1 2 m ( − ℏ 2 ∇ 2 + i ℏ q A ⋅ ∇ + i ℏ q ∇ ⋅ A + q 2 A 2 ) ψ + q Φ ψ = 1 2 m [ − ℏ 2 ∇ 2 ψ + i ℏ q A ⋅ ( ∇ ψ ) + i ℏ q ∇ ⋅ ( A ψ ) + q 2 A 2 ψ ] + q Φ ψ = 1 2 m [ − ℏ 2 ∇ 2 ψ + i ℏ q A ⋅ ( ∇ ψ ) + i ℏ q [ A ⋅ ( ∇ ψ ) + ( ∇ ⋅ A ) ψ ] + q 2 A 2 ψ ] + q Φ ψ = 1 2 m [ − ℏ 2 ∇ 2 ψ + 2 i ℏ q A ⋅ ( ∇ ψ ) + i ℏ q ( ∇ ⋅ A ) ψ + q 2 A 2 ψ ] + q Φ ψ \displaystyle \begin{aligned} \mathcal{H}\psi &=\frac{1}{2m} (-\hbar^{2} \nabla^{2}+i \hbar q \mathbf{A} \boldsymbol{\cdot} \boldsymbol{\nabla}+i \hbar q \boldsymbol{\nabla} \boldsymbol{\cdot} \mathbf{A}+q^2 A^2 )\psi+q \Phi \psi \\&=\frac{1}{2m} [-\hbar^{2} \nabla^{2}\psi+i \hbar q \mathbf{A} \boldsymbol{\cdot} (\boldsymbol{\nabla}\psi)+i \hbar q \boldsymbol{\nabla} \boldsymbol{\cdot} (\mathbf{A}\psi)+q^2 A^2 \psi ]+q \Phi \psi \\&=\frac{1}{2m} [-\hbar^{2} \nabla^{2}\psi+i \hbar q \mathbf{A} \boldsymbol{\cdot} (\boldsymbol{\nabla}\psi)+i \hbar q [\mathbf{A} \boldsymbol{\cdot} (\boldsymbol{\nabla}\psi)+(\boldsymbol{\nabla} \boldsymbol{\cdot} \mathbf{A} )\psi]+q^2 A^2 \psi ]+q \Phi \psi \\&=\frac{1}{2m} [-\hbar^{2} \nabla^{2}\psi+2i \hbar q \mathbf{A} \boldsymbol{\cdot} (\boldsymbol{\nabla}\psi)+i \hbar q (\boldsymbol{\nabla} \boldsymbol{\cdot} \mathbf{A} )\psi+q^2 A^2 \psi ]+q \Phi \psi \end{aligned} H ψ ​ = 2 m 1 ​ ( − ℏ 2 ∇ 2 + i ℏ q A ⋅ ∇ + i ℏ q ∇ ⋅ A + q 2 A 2 ) ψ + q Φ ψ = 2 m 1 ​ [ − ℏ 2 ∇ 2 ψ + i ℏ q A ⋅ ( ∇ ψ ) + i ℏ q ∇ ⋅ ( A ψ ) + q 2 A 2 ψ ] + q Φ ψ = 2 m 1 ​ [ − ℏ 2 ∇ 2 ψ + i ℏ q A ⋅ ( ∇ ψ ) + i ℏ q [ A ⋅ ( ∇ ψ ) + ( ∇ ⋅ A ) ψ ] + q 2 A 2 ψ ] + q Φ ψ = 2 m 1 ​ [ − ℏ 2 ∇ 2 ψ + 2 i ℏ q A ⋅ ( ∇ ψ ) + i ℏ q ( ∇ ⋅ A ) ψ + q 2 A 2 ψ ] + q Φ ψ ​
+정적인 자기장을 다룬다면, 쿨롱 게이지 조건 ∇ ⋅ A = 0 \boldsymbol{\nabla} \boldsymbol{\cdot} \mathbf{A}=0 ∇ ⋅ A = 0 을 도입할 수 있다.
+
+H ψ = 1 2 m [ − ℏ 2 ∇ 2 ψ + 2 i ℏ q A ⋅ ( ∇ ψ ) + q 2 A 2 ψ ] + q Φ ψ \displaystyle \begin{aligned} \mathcal{H}\psi &=\frac{1}{2m} [-\hbar^{2} \nabla^{2}\psi+2i \hbar q \mathbf{A} \boldsymbol{\cdot} (\boldsymbol{\nabla}\psi)+q^2 A^2 \psi ]+q \Phi \psi \end{aligned} H ψ ​ = 2 m 1 ​ [ − ℏ 2 ∇ 2 ψ + 2 i ℏ q A ⋅ ( ∇ ψ ) + q 2 A 2 ψ ] + q Φ ψ ​
+게이지 불변성을 이용해 벡터 퍼텐셜과 스칼라 퍼텐셜을 대치한다.
+
+H ψ = 1 2 m [ − ℏ 2 ∇ 2 ψ + 2 i ℏ q ( A + ∇ Λ ) ⋅ ( ∇ ψ ) + q 2 ( A + ∇ Λ ) 2 ψ ] + q ( Φ − ∂ Λ ∂ t ) ψ \displaystyle \begin{aligned} \mathcal{H}\psi &=\frac{1}{2m} [-\hbar^{2} \nabla^{2}\psi+2i \hbar q (\mathbf{A}+\boldsymbol{\nabla}\Lambda) \boldsymbol{\cdot} (\boldsymbol{\nabla}\psi)+q^2 (\mathbf{A}+\boldsymbol{\nabla}\Lambda)^2 \psi ]+q \left(\Phi- \frac{\partial \Lambda}{\partial t} \right) \psi \end{aligned} H ψ ​ = 2 m 1 ​ [ − ℏ 2 ∇ 2 ψ + 2 i ℏ q ( A + ∇ Λ ) ⋅ ( ∇ ψ ) + q 2 ( A + ∇ Λ ) 2 ψ ] + q ( Φ − ∂ t ∂ Λ ​ ) ψ ​
+만약 ∇ Λ = − A \boldsymbol{\nabla}\Lambda=-\mathbf{A} ∇ Λ = − A , Λ ˙ = Φ \dot{\Lambda}=\Phi Λ ˙ = Φ 를 만족하게만 할 수 있다면,
+
+H ψ ′ = − ℏ 2 2 m ∇ 2 ψ ′ \displaystyle \begin{aligned} \mathcal{H}\psi' &=-\frac{\hbar^{2}}{2m} \nabla^{2}\psi' \end{aligned} H ψ ′ ​ = − 2 m ℏ 2 ​ ∇ 2 ψ ′ ​
+으로 자유입자의 해밀토니언으로 쓸 수 있다. 파동함수에 프라임을 붙인 것은 전자기장을 게이지 변환할 경우 파동함수 또한 변환이 이루어져야 하기 때문이다. 이는 다음과 같으며 그 이유는 게이지 변환 문서를 참고하기 바란다.
+
+ψ ′ = ψ exp ⁡ ( i q Λ ℏ ) \displaystyle \begin{aligned} \psi'=\psi\exp{\biggl( i\frac{q\Lambda}{\hbar} \biggr)} \end{aligned} ψ ′ = ψ exp ( i ℏ q Λ ​ ) ​
+사실상 본래의 파동함수에 새로운 "위상"이 붙는다고 볼 수 있다. 중요한 것은 이러한 효과를 준 것이 장이 아니라 퍼텐셜이라는 점이다.
+
+문제를 간단히 하기 위해 벡터 퍼텐셜만 있는 경우, 스칼라 퍼텐셜만 있는 경우로 나눈다. 전자의 경우
+
+Λ = ∫ P A ⋅ d r \displaystyle \begin{aligned} \Lambda=\int_{P} \mathbf{A}\boldsymbol{\cdot} {\rm d}\mathbf{r} \end{aligned} Λ = ∫ P ​ A ⋅ d r ​
+P P P 는 어떤 경로이다. 특히 경로가 폐곡선이라면
+
+Λ = ∮ C A ⋅ d r = F \displaystyle \begin{aligned} \Lambda=\oint_{C} \mathbf{A}\boldsymbol{\cdot} {\rm d}\mathbf{r} =F \end{aligned} Λ = ∮ C ​ A ⋅ d r = F ​
+F F F 는 자기 선속이다. 이렇게 되는 이유는 자기 퍼텐셜 문서에 있다. 반대로 후자의 경우
+
+Λ = ∫ 0 t Φ d t ′ \displaystyle \begin{aligned} \Lambda=\int_{0}^{t} \Phi\,{\rm d}t' \end{aligned} Λ = ∫ 0 t ​ Φ d t ′ ​
+이 성립한다.
+
+3. 상세 [편집]
+위에서도 주의를 준 바 있으나 이 현상은 장에 의해 생기는 게 아니라 퍼텐셜에 의해 생긴다는 점이다. 이 점을 잘 상기하면서 읽어나가길 바란다.
+
+3.1. 벡터 퍼텐셜에 의한 효과 [편집]
+
+위 그림과 같이 x y xy x y 평면에 놓인 원형 회색 영역에만 자기장이 존재한다고 하자. 문제를 간단히 하기 위해 해당 자기장은 균일한 자기장이며 z z z 방향이라고 가정하자. [1] 이 경우 벡터 퍼텐셜은 내외부 모두 ϕ \phi ϕ 방향이다. [2]
+
+이 경우 "경계"를 기준으로 회색 영역(내부)에만 자기장이 존재하기 때문에 고전적으로 생각할 때 입자는 두 점 S \sf{S} S , F \sf{F} F 를 잇는 두 경로 P 1 P_{1} P 1 ​ , P 2 P_{2} P 2 ​ 에 대해 입자가 이동하더라도 전자기장의 영향은 받지 않을 것이다. 그러나 실험에서는 이것이 아님이 드러났다.
+
+이중슬릿 실험 과 같이 입자 빔을 이중 슬릿에 통과시킨 후 위와 같은 상황을 만든다. 그리고 일정 거리 떨어진 곳에 스크린을 설치한다. 그렇다면 잘 알듯이 간섭 무늬를 만들게 된다. 그런데 여기서 자기장의 세기를 변화시킨다고 해보자. 자기장을 차폐했기에 외부는 아무런 영향을 받지 않는게 상식적이다. 간섭 무늬는 변화가 없어야 할 것이다. 그러나 자기장의 세기의 변화가 생김에 따라 이 간섭무늬가 이동했다. 이것은 곧 전자기장의 영향을 받았다고 해석할 수밖에 없다.
+
+이것은 사실 눈치가 빠른 사람은 깨달았겠지만, 위에서 게이지 변환을 다룰 때 다뤄진 파동함수의 변환에서 그 이유를 찾을 수 있다. 아까 윗 문단에서 이러한 변환을 거칠 때, "위상"이 붙는 셈이라고 했다. 이에 위 그림의 두 경로를 지날 때 서로 다른 위상이 붙게 되고, 결국 이들이 간섭했을 때 위상차가 생기기 때문에 위 실험에서 간섭 무늬가 이동한 것이다.
+
+위 상황에서 "경계" 내부를 제외한 영역의 슈뢰딩거 방정식은 다음과 같이 주어진다.
+
+1 2 m ( − i ℏ ∇ − q A ) 2 ψ = E ψ \displaystyle \begin{aligned} \frac{1}{2m} (-i\hbar \boldsymbol{\nabla}-q \mathbf{A})^{2}\psi=E\psi\end{aligned} 2 m 1 ​ ( − i ℏ ∇ − q A ) 2 ψ = E ψ ​
+이상의 결과를 사용하면 다음과 같은 파동함수를 사용하면
+
+ψ ′ = ψ exp ⁡ ( i q ℏ ∫ P A ⋅ d r ) \displaystyle \begin{aligned} \psi'=\psi\exp{\biggl( i\frac{q}{\hbar} \int_{P} \mathbf{A}\boldsymbol{\cdot} {\rm d}\mathbf{r} \biggr)} \end{aligned} ψ ′ = ψ exp ( i ℏ q ​ ∫ P ​ A ⋅ d r ) ​
+자유 입자와 같은 문제로 취급할 수 있다. 즉
+
+ψ = ψ ′ exp ⁡ ( − i q ℏ ∫ P A ⋅ d r ) \displaystyle \begin{aligned} \psi=\psi'\exp{\biggl( -i\frac{q}{\hbar} \int_{P} \mathbf{A}\boldsymbol{\cdot} {\rm d}\mathbf{r} \biggr)} \end{aligned} ψ = ψ ′ exp ( − i ℏ q ​ ∫ P ​ A ⋅ d r ) ​
+이다. ψ ′ \psi' ψ ′ 는 자유 입자의 파동함수이다. 여기서 보면 알겠지만 어떤 경로를 지나느냐에 따라 파동함수의 위상은 달라진다. 경로 P j P_{j} P j ​ 를 지날 때 파동함수를 ψ j \psi_{j} ψ j ​ 라 하면 F \sf{F} F 에서 파동함수는 선협 결합
+
+1 2 ( ψ 1 + ψ 2 ) = ψ 1 2 ( 1 + ψ 2 ψ 1 ) \displaystyle \begin{aligned} \frac{1}{2}(\psi_{1}+\psi_{2}) =\frac{\psi_{1}}{2}\left( 1+\frac{\psi_{2}}{\psi_{1}} \right) \end{aligned} 2 1 ​ ( ψ 1 ​ + ψ 2 ​ ) = 2 ψ 1 ​ ​ ( 1 + ψ 1 ​ ψ 2 ​ ​ ) ​
+인데,
+
+ψ 2 ψ 1 = exp ⁡ [ − i q ℏ ( ∫ P 2 A ⋅ d r − ∫ P 1 A ⋅ d r ) ] = exp ⁡ ( − i q ℏ ∮ C A ⋅ d r ) = exp ⁡ ( − i q F ℏ ) = exp ⁡ ( − i q B S ℏ ) \displaystyle \begin{aligned} \frac{\psi_{2}}{\psi_{1}}&=\exp{\biggl[ -i\frac{q}{\hbar} \left( \int_{P_{2}} \mathbf{A}\boldsymbol{\cdot} {\rm d}\mathbf{r}-\int_{P_{1}} \mathbf{A}\boldsymbol{\cdot} {\rm d}\mathbf{r} \right) \biggr]} \\ &=\exp{\biggl( -i \frac{q}{\hbar} \oint_{C} \mathbf{A}\boldsymbol{\cdot} {\rm d}\mathbf{r} \biggr)}\\ &=\exp{\left( -i \frac{qF}{\hbar} \right) }\\ &=\exp{\left( -i \frac{qBS}{\hbar} \right) } \end{aligned} ψ 1 ​ ψ 2 ​ ​ ​ = exp [ − i ℏ q ​ ( ∫ P 2 ​ ​ A ⋅ d r − ∫ P 1 ​ ​ A ⋅ d r ) ] = exp ( − i ℏ q ​ ∮ C ​ A ⋅ d r ) = exp ( − i ℏ q F ​ ) = exp ( − i ℏ q B S ​ ) ​
+이므로 ( C C C 는 두 경로를 이은 폐곡선이며, S S S 는 폐곡선 사이의 넓이이다. [3] )
+
+1 2 ( ψ 1 + ψ 2 ) = ψ 1 2 [ 1 + exp ⁡ ( − i q B S ℏ ) ] \displaystyle \begin{aligned} \frac{1}{2}(\psi_{1}+\psi_{2}) =\frac{\psi_{1}}{2}\left[ 1+\exp{\left( -i \frac{qBS}{\hbar} \right) } \right] \end{aligned} 2 1 ​ ( ψ 1 ​ + ψ 2 ​ ) = 2 ψ 1 ​ ​ [ 1 + exp ( − i ℏ q B S ​ ) ] ​
+입자의 발견 확률은
+
+∣ 1 2 ( ψ 1 + ψ 2 ) ∣ 2 = ∣ ψ 1 ∣ 2 2 [ 1 + cos ⁡ ( q B S ℏ ) ] = ∣ ψ 1 ∣ 2 cos ⁡ 2 ( q B S ℏ ) = ∣ ψ ′ ∣ 2 cos ⁡ 2 ( q B S ℏ ) = ∣ ψ ′ ∣ 2 cos ⁡ 2 ( q F ℏ ) \displaystyle \begin{aligned} \left|\frac{1}{2}(\psi_{1}+\psi_{2})\right|^2 &=\frac{|\psi_{1}|^2}{2}\left[ 1+ \cos{\biggl(\frac{qBS}{\hbar} \biggr)} \right] \\&=|\psi_{1}|^2\cos^2{\biggl(\frac{qBS}{\hbar} \biggr)}\\&=|\psi'|^2\cos^2{\biggl(\frac{qBS}{\hbar} \biggr)}\\&=|\psi'|^2\cos^2{\biggl(\frac{qF}{\hbar} \biggr)} \end{aligned} ​ 2 1 ​ ( ψ 1 ​ + ψ 2 ​ ) ​ 2 ​ = 2 ∣ ψ 1 ​ ∣ 2 ​ [ 1 + cos ( ℏ q B S ​ ) ] = ∣ ψ 1 ​ ∣ 2 cos 2 ( ℏ q B S ​ ) = ∣ ψ ′ ∣ 2 cos 2 ( ℏ q B S ​ ) = ∣ ψ ′ ∣ 2 cos 2 ( ℏ q F ​ ) ​
+여기서 보면 F \sf{F} F 에서 입자의 발견 확률은 진동함을 알 수 있다. 즉, 자기장의 세기를 변화시키면 입자의 발견 확률이 진동하게 되며, 이를 다르게 말하면 입자가 관측되기도 하고 관측이 안되기도 함을 뜻한다, 이를 윗 실험과 연관시켜보면 전체의 간섭 무늬가 이동해야 함을 알 수 있다. 이는 두 경로의 위상차에서 비롯되었다.
+
+3.1.1. 베리 위상 으로 해석 [편집]
+
+위 그림과 같이 폐원판 x 2 + y 2 ≤ d 2 x^2+y^2 \leq d^2 x 2 + y 2 ≤ d 2 영역에만 균일한 자기장 B = B e z \mathbf{B}=B\mathbf{e}_{z} B = B e z ​ 가 존재한다고 하자. 이때, 한 변의 길이가 L L L 인 무한 퍼텐셜 상자에 전하량 q q q 이고, 질량이 m m m 인 입자가 갇혀있다고 가정하자. R \mathbf{R} R 은 상자 중심까지의 위치 벡터, r \mathbf{r} r 은 입자의 위치 벡터이다.
+
+이때 상자를 아주 천천히 원 궤도로 돌린다고 생각해보자. 이 경우 단열 근사 를 사용할 수 있다. 이때 해밀토니언은 R ( t ) \mathbf{R}(t) R ( t ) 에 의존하게 될 것이다.
+
+H ( R ( t ) ) ψ ( R ( t ) ) = E ( R ( t ) ) ψ ( R ( t ) ) \displaystyle \begin{aligned} \mathcal{H}(\mathbf{R}(t))\psi(\mathbf{R}(t))=E(\mathbf{R}(t))\psi(\mathbf{R}(t)) \end{aligned} H ( R ( t )) ψ ( R ( t )) = E ( R ( t )) ψ ( R ( t )) ​
+이때, 베리 위상은 해당 문서에서 다뤘듯이
+
+γ = ∫ R r i ⟨ φ n ( t ) ∣ ∇ R φ n ( t ) ⟩ ⋅ d R ′ \begin{aligned} {\gamma} = \int_{\mathbf{R}}^{\mathbf{r}} i\langle \varphi_{n}(t)| \boldsymbol{\nabla}_{\mathbf{R}}\varphi_{n}(t) \rangle \boldsymbol{\cdot } {\rm d}\mathbf{R'} \end{aligned} γ = ∫ R r ​ i ⟨ φ n ​ ( t ) ∣ ∇ R ​ φ n ​ ( t )⟩ ⋅ d R ′ ​
+인데, 여기서
+
+ψ = φ n ( r − R ) exp ⁡ ( − i q ℏ ∫ R r A ⋅ d r ′ ) \displaystyle \begin{aligned} \psi=\varphi_{n}(\mathbf{r-R}) \exp{ \biggl(-i \frac{q}{\hbar} \int_{\mathbf{R}}^{\mathbf{r}} \mathbf{A}\boldsymbol{\cdot} {\rm d}\mathbf{r'} \biggr)} \end{aligned} ψ = φ n ​ ( r − R ) exp ( − i ℏ q ​ ∫ R r ​ A ⋅ d r ′ ) ​
+이다. φ n \varphi_{n} φ n ​ 은 무한 퍼텐셜 상자의 고유함수이다. 한편,
+
+∇ R [ φ n ( r − R ) exp ⁡ ( − i q ℏ ∫ R r A ⋅ d r ′ ) ] = ∇ R [ φ n ( r − R ) ] exp ⁡ ( − i q ℏ ∫ R r A ⋅ d r ′ ) − i q A ( R ) ℏ φ n ( r − R ) exp ⁡ ( − i q ℏ ∫ R r A ⋅ d r ′ ) \begin{aligned} \boldsymbol{\nabla}_{\mathbf{R}} \biggl[\varphi_{n}(\mathbf{r-R}) \exp{ \biggl(-i \frac{q}{\hbar} \int_{\mathbf{R}}^{\mathbf{r}} \mathbf{A}\boldsymbol{\cdot} {\rm d}\mathbf{r'} \biggr)} \biggr]=\boldsymbol{\nabla}_{\mathbf{R}}[\varphi_{n}(\mathbf{r-R}) ]\exp{ \biggl(-i \frac{q}{\hbar} \int_{\mathbf{R}}^{\mathbf{r}} \mathbf{A}\boldsymbol{\cdot} {\rm d}\mathbf{r'} \biggr)}-\frac{iq\mathbf{A}(\mathbf{R})}{\hbar}\varphi_{n}(\mathbf{r-R}) \exp{ \biggl(-i \frac{q}{\hbar} \int_{\mathbf{R}}^{\mathbf{r}} \mathbf{A}\boldsymbol{\cdot} {\rm d}\mathbf{r'} \biggr)} \end{aligned} ∇ R ​ [ φ n ​ ( r − R ) exp ( − i ℏ q ​ ∫ R r ​ A ⋅ d r ′ ) ] = ∇ R ​ [ φ n ​ ( r − R )] exp ( − i ℏ q ​ ∫ R r ​ A ⋅ d r ′ ) − ℏ i q A ( R ) ​ φ n ​ ( r − R ) exp ( − i ℏ q ​ ∫ R r ​ A ⋅ d r ′ ) ​
+이므로
+
+⟨ φ n ( t ) ∣ ∇ R φ n ( t ) ⟩ = ∭ φ n ( r − R ) ∇ R [ φ n ( r − R ) ] d 3 r − i q A ( R ) ℏ ⟨ φ n ( r − R ) ∣ φ n ( r − R ) = ∭ φ n ( r − R ) ∇ R [ φ n ( r − R ) ] d 3 r − i q A ( R ) ℏ = − ∭ φ n ( r − R ) ∇ [ φ n ( r − R ) ] d 3 r − i q A ( R ) ℏ = 1 i ℏ ∭ φ n ( r − R ) [ − i ℏ ∇ [ φ n ( r − R ) ] ] d 3 r − i q A ( R ) ℏ = 1 i ℏ ⟨ φ n ( r − R ) ∣ p ∣ φ n ( r − R ) ⟩ − i q A ( R ) ℏ = 1 i ℏ ⟨ p ⟩ − i q A ( R ) ℏ \begin{aligned} \langle \varphi_{n}(t)| \boldsymbol{\nabla}_{\mathbf{R}}\varphi_{n}(t) \rangle&=\iiint \varphi_{n}(\mathbf{r-R}) \boldsymbol{\nabla}_{\mathbf{R}}[\varphi_{n}(\mathbf{r-R}) ]\,{\rm d}^{3}\mathbf{r}-\frac{iq \mathbf{A}(\mathbf{R})}{\hbar} \langle \varphi_{n}(\mathbf{r-R})|\varphi_{n}(\mathbf{r-R}) \\ &=\iiint \varphi_{n}(\mathbf{r-R}) \boldsymbol{\nabla}_{\mathbf{R}}[\varphi_{n}(\mathbf{r-R}) ]\,{\rm d}^{3}\mathbf{r}-\frac{iq \mathbf{A}(\mathbf{R})}{\hbar} \\ &=-\iiint \varphi_{n}(\mathbf{r-R}) \boldsymbol{\nabla}[\varphi_{n}(\mathbf{r-R}) ]\,{\rm d}^{3}\mathbf{r}-\frac{iq \mathbf{A}(\mathbf{R})}{\hbar} \\&=\frac{1}{i\hbar}\iiint \varphi_{n}(\mathbf{r-R}) [-i\hbar\boldsymbol{\nabla}[\varphi_{n}(\mathbf{r-R}) ]]\,{\rm d}^{3}\mathbf{r}-\frac{iq \mathbf{A}(\mathbf{R})}{\hbar}\\&=\frac{1}{i\hbar}\langle \varphi_{n}(\mathbf{r-R})|\mathbf{p}|\varphi_{n}(\mathbf{r-R}) \rangle-\frac{iq \mathbf{A}(\mathbf{R})}{\hbar} \\&=\frac{1}{i\hbar}\langle \mathbf{p} \rangle-\frac{iq \mathbf{A}(\mathbf{R})}{\hbar} \end{aligned} ⟨ φ n ​ ( t ) ∣ ∇ R ​ φ n ​ ( t )⟩ ​ = ∭ φ n ​ ( r − R ) ∇ R ​ [ φ n ​ ( r − R )] d 3 r − ℏ i q A ( R ) ​ ⟨ φ n ​ ( r − R ) ∣ φ n ​ ( r − R ) = ∭ φ n ​ ( r − R ) ∇ R ​ [ φ n ​ ( r − R )] d 3 r − ℏ i q A ( R ) ​ = − ∭ φ n ​ ( r − R ) ∇ [ φ n ​ ( r − R )] d 3 r − ℏ i q A ( R ) ​ = i ℏ 1 ​ ∭ φ n ​ ( r − R ) [ − i ℏ ∇ [ φ n ​ ( r − R )]] d 3 r − ℏ i q A ( R ) ​ = i ℏ 1 ​ ⟨ φ n ​ ( r − R ) ∣ p ∣ φ n ​ ( r − R )⟩ − ℏ i q A ( R ) ​ = i ℏ 1 ​ ⟨ p ⟩ − ℏ i q A ( R ) ​ ​
+여기서 ∇ R = − ∇ \boldsymbol{\nabla}_{\mathbf{R}}=-\boldsymbol{\nabla} ∇ R ​ = − ∇ 임을 이용했다. 이는 분리 벡터 문서의 설명을 참조한다. 무한 퍼텐셜 우물 문서의 결과와 같이 이 문제에서 운동량 기댓값은 0 \mathbf{0} 0 이다.
+
+∴ ⟨ φ n ( t ) ∣ ∇ R φ n ( t ) ⟩ = − i q A ( R ) ℏ = − i q ℏ B d 2 2 R e ϕ \begin{aligned} \therefore \langle \varphi_{n}(t)| \boldsymbol{\nabla}_{\mathbf{R}}\varphi_{n}(t) \rangle&=-\frac{iq \mathbf{A}(\mathbf{R})}{\hbar} \\&=-\frac{iq}{\hbar}\frac{B d^2}{2R} \mathbf{e}_{\phi} \end{aligned} ∴ ⟨ φ n ​ ( t ) ∣ ∇ R ​ φ n ​ ( t )⟩ ​ = − ℏ i q A ( R ) ​ = − ℏ i q ​ 2 R B d 2 ​ e ϕ ​ ​
+이 문제에서 벡터 퍼텐셜을 계산하는 법은 자기 퍼텐셜 문서의 하위 문서 예제에서 솔레노이드의 자기 퍼텐셜을 구한 것을 참조하면 된다. 상자가 1회전하면
+
+γ = ∮ C i ⟨ φ n ( t ) ∣ ∇ R φ n ( t ) ⟩ ⋅ d R = q ℏ ∫ 0 2 π B d 2 2 R e ϕ ⋅ R e ϕ d ϕ = q ℏ ⋅ B ( π d 2 ) = q F ℏ \begin{aligned} {\gamma} &= \oint_{C} i\langle \varphi_{n}(t)| \boldsymbol{\nabla}_{\mathbf{R}}\varphi_{n}(t) \rangle \boldsymbol{\cdot } {\rm d}\mathbf{R} \\&= \frac{q}{\hbar}\int_{0}^{2\pi} \frac{B d^2}{2R} \mathbf{e}_{\phi} \boldsymbol{\cdot} R\mathbf{e}_{\phi} \, {\rm d}\phi \\&= \frac{q}{\hbar} \cdot B (\pi d^2) \\ &= \frac{qF}{\hbar} \end{aligned} γ ​ = ∮ C ​ i ⟨ φ n ​ ( t ) ∣ ∇ R ​ φ n ​ ( t )⟩ ⋅ d R = ℏ q ​ ∫ 0 2 π ​ 2 R B d 2 ​ e ϕ ​ ⋅ R e ϕ ​ d ϕ = ℏ q ​ ⋅ B ( π d 2 ) = ℏ q F ​ ​
+이상에서 이 문제의 베리 위상은
+
+e i γ = exp ⁡ ( i q F ℏ ) \begin{aligned} e^{i \gamma}=\exp{\biggl( i \frac{qF}{\hbar} \biggr)} \end{aligned} e iγ = exp ( i ℏ q F ​ ) ​
+으로 아까와 같은 꼴의 위상을 얻었음을 알 수 있다. (단, 위 문제에서는 경로가 반대 방향이었기에 − - − 가 붙은 것이다.)
+
+따라서 이러한 위상을 베리 위상 으로 이해할 수 있다.
+
+3.2. 스칼라 퍼텐셜에 의한 효과 [편집]
+이 경우에도 위와 같이 차폐된 전기장 영역을 생각하고, 스칼라 퍼텐셜은 시간에 의존한다고 생각해보자.
+
+벡터 퍼텐셜이 있는 경우와 같은 논법으로 시간 t t t 에서의 위상을 구하면 다음과 같다.
+
+exp ⁡ ( − i q ℏ ∫ 0 t Φ d t ′ ) \displaystyle \begin{aligned} \exp{\biggl( -i\frac{q}{\hbar}\int_{0}^{t} \Phi\,{\rm d}t' \biggr)} \end{aligned} exp ( − i ℏ q ​ ∫ 0 t ​ Φ d t ′ ) ​
+
+이 경우는 시간에 따라 위상이 달라지기에 자기 퍼텐셜만 있는 경우와 비슷한 실험을 하면, 시간에 따라 간섭 무늬가 이동하게 될 것이다.
+
+4. 기타 [편집]
+- 중력 퍼텐셜 에 대해서 도 이러한 효과가 나타날 수 있다고 이론적으로 밝혀져 현재 여러 실험이 진행되고 있다. #
+
+5. 관련 문서 [편집]
+- 퍼텐셜 에너지
+- 전기장
+- 자기장
+- 전기 퍼텐셜
+- 자기 퍼텐셜
+- 로런츠 힘
+- 게이지 변환
+
+[ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 남동구인력 쿠팡
+www.coupang.com v-if
+[ [ 로켓프레시 ] [ 골드박스 ] [ 로켓직구 ] [ 로켓배송 ] ]
+공구 없이 뚝딱! 남동구인력 무볼트 조립으로 간편하게 공간을 정리하세요.
+
+] | [ 남동구이사 하나로퀵
+www.1577-3410.com
+[ [ 기사실명제퀵 ] [ 빠르게배송퀵 ] [ 퀵서비스전문 ] [ 배송배달조회 ] ]
+5분 내 출발 가능! 오토바이 용달 빠른 당일퀵배송 실명제퀵기사 안전배송퀵전문업체
+
+]
+
+[1] 이러한 자기장을 쉽게 만들 수 있는 방법은 아주 긴 솔레노이드를 z z z 축 위에 놓고 반시계 방향의 전류를 흘러주는 것이다. 이상적인 긴 솔레노이드는 내부에만 균일한 자기장이 생기고 외부에는 생기지 않는다. [2] 벡터 퍼텐셜 문서의 하위 문서인 예제 중 솔레노이드에 의한 벡터 퍼텐셜 구한 것을 참고하기 바란다. [3] 단, 마지막 결과는 우리가 균일한 자기장을 다루고 있고, 자기장과 면적소 방향이 일치함에 따라 그렇게 쓸 수 있음에 유의한다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

@@ -1,0 +1,280 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 복소해석학
+최근 수정 시각: 2026-02-13 15:47:46 [ [ [ ] [ [ 14 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 해석학(수학)
+]
+
+[ [ ] [ 수학의 분과
+Fields of Mathematics
+[ 펼치기 · 접기 ] 수학기초론 | 수리논리학 (모델 이론 · 증명 이론) · 집합론 · 순서론 · 타입 이론 · 범주론 (고차 범주론) · 계산 이론( 오토마타 이론 )
+대수학 | 고전대수학 · 추상대수학 · 가환대수학 · 선형대수학 · 대수기하학 ( 호몰로지 이론 ) · 표현론 · 보편 대수학
+정수론 | 초등적 정수론 · 대수적 정수론 · 해석적 정수론 · 소수론 · 모듈러 산술 · 디오판토스 방정식
+해석학 | 미적분학 · 실해석학 · 복소해석학 · 복소 동역학 · 측도론 · 조화해석학 · 함수해석학 · 해석 기하학 · 범함수 미적분학 · 미분기하학 · 수치해석학 · 분수계 미적분학 · 해석적 정수론 · 카오스 이론
+기하학 | 유클리드 기하학 ( 논증 기하학 ) · 해석 기하학 ( 미분기하학 ) · 대수기하학 ( 호몰로지 이론 ) · 비유클리드 기하학
+위상수학 | 일반 위상수학 · 점-집합 위상수학 · 매듭이론 · 대수위상수학
+확률론 ( 통계학 ) · 이론 컴퓨터 과학 ( 형식언어론 ) · 이산수학 ( 조합론 ) · 공업수학 · 수리물리학 · 수리경제학
+틀:과학의 범위 · 틀:형식과학 · 수학 관련 정보
+
+해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 주제와 사고방식 2.1 . 복소해석함수의 성질 2.2 . 선적분 과 유수 2.2.1 . 고립 특이점에서의 유수(residue) 계산법 2.3 . 등각 사상 2.4 . 다가 함수, 리만 곡면, 모노드로미 2.5 . 모듈러 형식 등등의 응용 3 . 교과서
+
+1. 개요 [편집]
+複 素 解 析 學 / complex analysis
+
+복소수 위에서의 함수의 미적분과 관련된 성질을 다루는 수학의 한 분야. 형식적으로는 해석학 의 하위분야라고 볼 수도 있겠지만, 일변수 및 다변수 해석학에서 실변수만을 다룰 때에는 못 보던 독자적이면서도 일반적인 성질을 많이 갖고 있는 복소수의 성질로 인해 별도의 분야로 취급받는다.
+
+복소해석학의 주 대상인 복소함수 (function of a complex variable)는 정의역과 치역이 모두 복소수인 함수이고, 이 복소함수의 미분은 마치 실함수처럼 lim ⁡ h → 0 f ( z + h ) − f ( z ) h \lim\limits_{h\to0} \dfrac{f(z+h)-f(z)}h h → 0 lim ​ h f ( z + h ) − f ( z ) ​ 로 정의한다. 물론, 사용된 연산들은 모두 복소수의 연산이고 h h h 가 복소수 범위 내에서의 극한이어서, 생각보다는 미분이 까다롭다. 예를 들어 z z z 에 대한 다항함수 는 복소평면 위에서도 항상 미분 가능하지만, f ( z ) = z ˉ f(z) = \bar z f ( z ) = z ˉ 라는 함수는 z = 0 z=0 z = 0 에서 lim ⁡ ϵ → 0 f ( ϵ ) ϵ \lim\limits_{\epsilon\to0} \dfrac{f(\epsilon)}\epsilon ϵ → 0 lim ​ ϵ f ( ϵ ) ​ 과 lim ⁡ ϵ → 0 f ( ϵ i ) ϵ i \lim\limits_{\epsilon\to0} \dfrac{f(\epsilon i)}{\epsilon i} ϵ → 0 lim ​ ϵ i f ( ϵ i ) ​ 의 값이 각각 1 1 1 과 − 1 -1 − 1 로 서로 다르므로 복소미분이 불가능하다. [1]
+
+복소함수가 주어진 점 근방에서 미분가능하면 그 점에서 정칙 (holomorphic) 또는 해석적 (complex analytic)이라 부른다. 고작 미분가능한 함수에 그런 고급스러운 이름을 붙여주는 것은 실해석학을 공부하다 처음 온 사람들에게는 도저히 이해가 되지 않을 것이다. 하지만 여기에는 정칙함수는 몇 번이고 미분가능하며 테일러 급수 전개도 항상 가능 하다는 최상급의 성질을 가진다는 반전이 있다. 이외에도 정칙함수는 경계값에 따라 내부값이 유일하게 결정된다든지, [2] 제한적으로 '인수분해'가 가능하다던지 등의 신비한 성질들을 갖고 있다. 실해석학 에서 끝없이 반례를 들고나와 불신을 안겨주었던 실함수와는 다르게, 심지어는 다항식 에 비벼볼 정도로 좋은 성질을 가진 복소 정칙함수는 힐링을 주는 느낌마저 든다. 이런 정칙함수의 특성으로 인해 복소해석학은 단순한 2변수 해석학과 차별화되는 길을 걷게 된다. [3]
+
+정칙함수의 정체성 중 다른 하나는 (축소가능한) 닫힌 경로에서 복소 선적분 을 하면 0이 된다는 성질이고, [4] 반대로 닫힌 경로에서 선적분이 0이면 정칙함수가 된다. 이는 복소평면 위에서 경로를 자유자재로 움직이며 원하는 적분값을 얻어내는 것에 쓰인다. 이 활용법이 복소함수의 좋은 성질과 결합되어, 복소해석학은 많은 곳에서 (1) 실수함수의 구멍을 메워 주어 어려운 계산을 가능하게 하는 역할 을 맡게 된다. 예를 들어서 sin ⁡ z = z ∏ n = 1 ∞ ⁣ ( 1 − z 2 n 2 π 2 ) ⁣ \displaystyle \sin z = z \prod_{n=1}^\infty \!\left( 1-\frac{z^2}{n^2\pi^2} \right)\! sin z = z n = 1 ∏ ∞ ​ ( 1 − n 2 π 2 z 2 ​ ) 등의 함수식을 증명한다든지, ∫ − ∞ ∞ sin ⁡ x x d x \displaystyle \int_{-\infty}^\infty \frac{\sin x}x \,{\rm d}x ∫ − ∞ ∞ ​ x sin x ​ d x 같은 이상적분을 유수 하나로 퉁치고 넘어간다든지 등, 실수만 갖고는 하기 힘든 많은 일을 할 수 있다. [5]
+
+한편 기하학 의 관점에서 보면, 복소해석함수는 각을 보존하는 등각 사상(conformal mapping)으로서의 의미와 동치이다. 덕분에 복소해석학은 (2) 2차원 곡면의 기하학적 구조를 설명하는 역할 을 맡을 수 있다. 등각사상을 정칙함수로 해석하여 복소해석학은 리만 사상 정리(Riemann mapping theorem) 등 많은 결과를 내고 결국에는 모든 2차원 곡면의 기하학적 구조를 구면기하, 평면기하, 쌍곡기하 세 가지로 분류하기에 이르렀다(uniformization theorem). 이는 나중에 일반화되어 푸앵카레 추측 과 Thurston의 기하화 추측(geometrization conjecture)까지 이어지는 유서 깊은 문제가 된다. 현실적으로 uniformization은 편미분방정식 을 풀 때 주어진 공간을 등각사상으로 쉽게 변형해서 거기서 미분방정식을 푸는 식으로 활용된다.
+
+이러한 이유로 복소해석학은 그 자체로 일반화되어 수많은 분야를 낳기도 하고, 실해석학, 푸리에 해석 , 해석적 정수론 등의 분야에 활용되어 왔다. 대수학에서도 선형대수학, 현대대수학 및 고급과정에서 계속 중요한 도구로 동원된다. 수학과의 고학년생들이 배우는 전공심화과목이 아니라 1~2학년 때부터 배우는 기초과목이어야 하지 않나 생각될 정도로 복소해석학에서 다루는 주요한 정리와 성질을 써먹는 과목이 많다. 그러나 의외로 대개의 교과서 및 수업 커리큘럼은 초반부에서 잠시나마 1학년 미적분학 및 해석학의 재탕을 진행한다. 수학과의 3~4학년, 빨라야 2학년에서나 시작하는 과목이긴 하지만 복소수에 익숙하지 않은 학생들이 많기 때문에 첫 학기 중간고사 즈음까지는 복소수를 직교좌표계 및 극형식으로 다양하게 다뤄보게 된다. 하지만 쉬운 내용이라고 긴장을 풀면 금방 코시-리만 방정식 과 선적분 이 나오고, 연결성, 유수 등 단순한 복소수 대상 미적분학의 수준을 아득히 넘어서는 고난도의 주제들이 쏟아져내린다. 복잡하고 노가다 스러운 계산과 논리적으로 빈틈 없는 증명이 모두 높은 수준으로 요구되는 어려운 과목이지만 같은 시기에 공부하는 위상수학 , 현대대수학 , 미분기하학 등의 다른 과목들도 쟁쟁하기 그지없는 초고난도 과목들이기 때문에 초반부에 긴장을 풀었다가 결국 학기말 성적을 그르치는 학생들도 많다.
+
+더 고급과정으로 가면, 정칙함수의 복소변수가 둘 이상인 경우를 생각하는 다변수 복소함수론(several complex variables)도 있다. 다만, 2차원 이상에서는 그 유명한 리만 사상 정리가 성립하지 않는다. 사실 2차원 이상에서는 서로 쌍정칙 하지 않는 유계영역들이 무수히 많이 존재하게 된다. 이 원인을 연구하기 위해 초대 필즈 메달리스트이자 수학도들에겐 교과서 저자로 더 유명한 Lars Ahlfors 등의 많은 학자들이 미분기하학을 이용하게 되는데, 이는 나중에 복소(해석)기하라는 학문으로 발전하게 된다.
+
+2. 주제와 사고방식 [편집]
+
+2.1. 복소해석함수의 성질 [편집]
+- 정칙성: 모든 복소해석함수는 정칙적이기에 항상 테일러 전개가 가능하다는 특성이 있다.
+- 코시-리만 방정식 : 복소평면의 열린집합상에서 정의된 연속함수가 해석적이기 위한 필요충분조건을 나타낸다. 또한 복소함수의 특징상 일부 영역에서 해석적이라면 일부 특이점을 제외한 복소평면 전체에서 해석적이 되기 때문에, 이 방정식을 이용하면 해석적이지 않은 특이점 을 찾아내는 것도 가능하다.
+- 루셰의 정리: 복소평면의 열린집합 위에서 정의된 두 해석함수 f f f , g g g 가 존재할 때, 특정 영역 내부에서 한 함수의 절대값이 항상 다른 함수보다 크다면(즉 ∣ f ∣ > ∣ g ∣|f|>|g| ∣ f ∣ > ∣ g ∣ ), f f f 와 f + g f+g f + g 의 영점의 개수는 중복을 허가할 때 항상 같다는 정리. 대수학의 기본정리 의 풀이법 중 하나다.
+- 리우빌의 정리 : 복소평면 위에서 정의된 해석함수 f : C → C f:\mathbb{C}\to\mathbb{C} f : C → C 가 복소평면 전체에서 유계라면 이 함수는 상수함수가 된다. [6] 복소해석학에서 가장 아름다운 정리라고 불리며, 대수학의 기본정리 를 증명하는 핵심 키가 된다. 조금 특이하게도 대수학의 기본정리 는 대수학 에 속하는 정리지만 대수학 의 기술만으로 증명 가능한 초등적 증명이 불가능하며, 그 중에 가장 쉬운 증명방법이 바로 복소해석학의 기술인 리우빌의 정리를 이용하는 것이다. [7]
+- 피카르의 소정리: 리우빌의 정리보다 강력한 정리. 복소평면 위에서 정의된 미분 가능함수 f : C → C − { A } f:\mathbb{C}\to\mathbb{C}-\{A\} f : C → C − { A } 에서 f ( z ) = c f(z)=c f ( z ) = c , c ∈ C c\in\mathbb{C} c ∈ C 가 서로 다른 c c c 에 대해 근을 가진다고 하면(즉 상수함수가 아니면), 치역에 속하지 않는 복소평면상의 점의 집합 { A } \{A\} { A } 는 공집합 이거나 원소가 하나뿐인 점집합이라는 정리다. 리우빌의 정리는 어디까지나 복소평면에서 유계인 상수함수만을 따지지만, 이 피카르의 정리는 복소평면상에서 유계가 아닌 전해석함수까지 모조리 포괄하는 강력한 조건. 여담으로, { A } \{A\} { A } 는 본질적 특이점 이며, 즉 본질적 특이점은 많아봐야 하나 뿐이라는 소리. [8] 참고로 피카르의 소정리는 피카르의 대정리의 따름정리로, 증명 역시 피카르의 대정리에서 유도된다.
+- 최대 절댓값 원리: 복소평면의 열린 부분집합 위에서 정의된 상수가 아닌 미분 가능함수 f : U → C f:U\to\mathbb{C} f : U → C 의 절댓값이 최대가 되는 점은 U U U 안에서 존재할 수 없다. [9]
+- 등각사상: 미분계수가 0이 되지 않는 모든 복소해석함수는 등각사상이다. 즉, orientation과 angle을 동시에 보존하는 함수.
+
+2.2. 선적분 과 유수 [편집]
+복소평면상의 두 복소수 z 0 z_0 z 0 ​ 와 z 1 z_1 z 1 ​ 를 잇는 경로는 무한히 많다. 벡터장의 적분을 경험해봤다면 알겠지만, 평면상에서의 선적분은 시작점과 끝점만이 아니라 그 선택한 경로에 따라서도 적분값이 바뀌게 된다. 하지만 복소평면상에서 정의된 해석적 복소함수에는 한 가지 중요한 성질이 존재하는데, 바로 해석적 영역 내부에서는 경로를 어떻게 잡아도 z 0 → z 1 z_0\to z_1 z 0 ​ → z 1 ​ 의 선적분은 경로에 무관하게 시작점과 끝점에 의해서만 적분값이 결정된다는 점이다. 벡터장의 보존적 벡터장 과 비슷한 케이스.
+
+이 성질을 결정하는 것은 적분경로가 모두 해석적인 영역일 때, 혹은 내부에 고립특이점 [10] 을 1개 이하로 지니고 있을 때인데, 이 특이점을 결정하는 것은 로랑 급수 전개로서 계산되는 유수 다. 제거 가능한 특이점 [11] 이라면 유수는 0이기에 무시할 수 있다.
+
+그렇다면, 위에서 언급한 ∫ − ∞ ∞ sin ⁡ x x d x \displaystyle \int_{-\infty}^\infty \frac{\sin x}x \,{\rm d}x ∫ − ∞ ∞ ​ x sin x ​ d x 를 유수를 이용하지 않는 방법과 이용하는 방법으로 풀어보자. 계산상 생략한 부분(특히 유수를 사용하지 않는 부분에서의 부분적분법의 반복적용 부분)도 어느 정도 존재하지만, 난이도상으로는 유수를 사용하는 쪽이 조금 더 쉽다.
+
+유수를 이용하지 않는, 순수한 실해석학 방법만으로의 풀이 [ 펼치기 · 접기 ] 다음 함수를 정의하자. I ( s ) = ∫ 0 ∞ e − s x sin ⁡ x x d x \displaystyle I(s) = \int_0^\infty \frac{e^{-sx}\sin x}x \,{\rm d}x I ( s ) = ∫ 0 ∞ ​ x e − s x sin x ​ d x (단, s ≥ 0 s\geq0 s ≥ 0 )
+s → ∞ s\to\infty s → ∞ 일때의 I ( s ) I(s) I ( s ) 의 극한값은 당연히 0 0 0 이 된다. 반대로, s = 0 s=0 s = 0 일 때 I ( 0 ) = ∫ 0 ∞ sin ⁡ x x d x I(0) = \displaystyle \int_0^\infty \frac{\sin x}x \,{\rm d}x I ( 0 ) = ∫ 0 ∞ ​ x sin x ​ d x 임도 알 수 있다.
+이제, 이 I ( s ) I(s) I ( s ) 를 s s s 에 대해 미분해보자.
+d d s I ( s ) = ∫ 0 ∞ ∂ ∂ s ( e − s x sin ⁡ x x ) d x = − ∫ 0 ∞ e − s x sin ⁡ x d x \displaystyle \frac{{\rm d}}{{\rm d}s} I(s) = \int_0^\infty \frac{\partial}{\partial s} \left(\frac{e^{-sx}\sin x}x\right) \,{\rm d}x = -\int_0^\infty e^{-sx} \sin x \,{\rm d}x d s d ​ I ( s ) = ∫ 0 ∞ ​ ∂ s ∂ ​ ( x e − s x sin x ​ ) d x = − ∫ 0 ∞ ​ e − s x sin x d x 가 된다.
+부분적분법을 반복 적용하면, 이 피적분함수의 원시함수는 e − s x ( s sin ⁡ x + cos ⁡ x ) s 2 + 1 + C \dfrac{e^{-sx} (s\sin x+\cos x)}{s^2+1} +C s 2 + 1 e − s x ( s sin x + cos x ) ​ + C 의 꼴을 갖게 된다.
+즉, d d s I ( s ) = ∫ 0 ∞ e − s x sin ⁡ x d x = − 1 1 + s 2 \displaystyle \frac{{\rm d}}{{\rm d}s} I(s) = \int_0^\infty e^{-sx} \sin x \,{\rm d}x = -\frac1{1+s^2} d s d ​ I ( s ) = ∫ 0 ∞ ​ e − s x sin x d x = − 1 + s 2 1 ​ 로 정리할 수 있게 된다. [12]
+이 피적분함수의 원시함수는 ∫ 1 1 + s 2 d s = arctan ⁡ s + C \displaystyle \int \frac1{1+s^2} \,{\rm d}s = \arctan s +C ∫ 1 + s 2 1 ​ d s = arctan s + C 이다. 즉, I ( s ) = C − arctan ⁡ s I(s) = C -\arctan s I ( s ) = C − arctan s 이다.
+그런데 앞에서 lim ⁡ s → ∞ I ( s ) = 0 \lim\limits_{s\to\infty} I(s) = 0 s → ∞ lim ​ I ( s ) = 0 이라는 것이 자명함을 보였다. 그러므로 0 = C − lim ⁡ s → ∞ arctan ⁡ s 0 = C -\lim\limits_{s\to\infty} \arctan s 0 = C − s → ∞ lim ​ arctan s 이며, 정리하면 C = π 2 C = \dfrac\pi2 C = 2 π ​ 가 된다.
+따라서 I ( s ) = π 2 − arctan ⁡ s I(s) = \frac\pi2 -\arctan s I ( s ) = 2 π ​ − arctan s 이며, 필요로 하는 적분값은 s = 0 s=0 s = 0 일 때의 값이므로 I ( 0 ) = ∫ 0 ∞ sin ⁡ x x d x = π 2 \displaystyle I(0) = \int_0^\infty \frac{\sin x}x \,{\rm d}x = \frac\pi2 I ( 0 ) = ∫ 0 ∞ ​ x sin x ​ d x = 2 π ​ 이다.
+또한, 이 함수는 우함수 이므로 ∫ − ∞ ∞ sin ⁡ x x d x = 2 ∫ 0 ∞ sin ⁡ x x d x = π \displaystyle \int_{-\infty}^\infty \frac{\sin x}x \,{\rm d}x = 2\int_0^\infty \frac{\sin x}x \,{\rm d}x = \pi ∫ − ∞ ∞ ​ x sin x ​ d x = 2 ∫ 0 ∞ ​ x sin x ​ d x = π 가 된다.
+
+유수를 사용한 복소해석학적 방법의 풀이 [ 펼치기 · 접기 ] 먼저 기본적인 복소함수의 적분의 성질을 몇 가지 되새겨보자.
+(1) f ( z ) = g ( z ) + i h ( z ) f(z)=g(z)+ih(z) f ( z ) = g ( z ) + ih ( z ) 라고 하자. 그렇다면 동일한 C \mathfrak{C} C 에 대하여, ∫ C f ( z ) d z = ∫ C g ( z ) d z + i ∫ C h ( z ) d z \displaystyle \int_{\mathfrak{C}}f(z) dz=\int_{\mathfrak{C}}g(z)dz+i\int_{\mathfrak{C}}h(z)dz ∫ C ​ f ( z ) d z = ∫ C ​ g ( z ) d z + i ∫ C ​ h ( z ) d z 가 된다.
+(2) C = ⋃ k = 1 n C k \mathfrak{C}=\displaystyle\bigcup_{k=1}^{n}\mathfrak{C}_k C = k = 1 ⋃ n ​ C k ​ 라고 하면, ∫ C f ( z ) d z = ∑ k = 1 n ∫ C k f ( z ) d z \displaystyle \int_{\mathfrak{C}}f(z) dz=\sum_{k=1}^{n}\int_{\mathfrak{C}_k}f(z) dz ∫ C ​ f ( z ) d z = k = 1 ∑ n ​ ∫ C k ​ ​ f ( z ) d z
+
+조르당 보조정리(Jordan's lemma)
+다음 조건을 만족하는 함수에 대하여 성립하는 보조정리 .
+(1) 함수 f ( z ) f(z) f ( z ) 가 ∣ z ∣ = R 0 \left|z\right|=R_0 ∣ z ∣ = R 0 ​ 라는 원의 외측의 상반평면 [13] 의 모든 점에서 해석적이다.
+(2) C R C_R C R ​ 라는 경로를 다음과 같이 정의하자. z = R e i θ , 단 0 ≤ θ ≤ π , R > R 0 z=Re^{i\theta}, \text{단} 0\leq\theta\leq\pi, R>R_0 z = R e i θ , 단 0 ≤ θ ≤ π , R > R 0 ​
+(3) C R C_R C R ​ 의 모든 점 z z z 에서 C R C_R C R ​ 이 경로상에서 유계이며 [14] , 그 최대값을 M R , lim ⁡ R → ∞ M R = 0 M_R, \displaystyle\lim_{R\to\infty}M_R=0 M R ​ , R → ∞ lim ​ M R ​ = 0 이 성립한다.
+이 때, 모든 양의 상수 a a a 에 대하여, 다음이 성립한다.
+lim ⁡ R → ∞ ∫ C R f ( z ) e i a z d z = 0 \displaystyle \lim_{R\to\infty}\int_{C_R}f(z)e^{iaz}dz=0 R → ∞ lim ​ ∫ C R ​ ​ f ( z ) e ia z d z = 0
+
+이제 f ( a ) = ∫ − ∞ ∞ e i a x x \displaystyle f(a)=\int_{-\infty}^{\infty}\frac{e^{iax}}{x} f ( a ) = ∫ − ∞ ∞ ​ x e ia x ​ 라는 함수를 정의하자.
+그런데, 오일러의 공식에 의하여 e i a x = cos ⁡ a x + i sin ⁡ a x e^{{iax}}=\cos ax+i\sin ax e ia x = cos a x + i sin a x 이므로 이를 넣고 정리해보자.
+f ( a ) = ∫ − ∞ ∞ e i a x x = ∫ − ∞ ∞ cos ⁡ a x x + i ∫ − ∞ ∞ sin ⁡ a x x \displaystyle f(a)=\int_{-\infty}^{\infty}\frac{e^{iax}}{x}=\int_{-\infty}^{\infty}\frac{\cos ax}{x}+i\int_{-\infty}^{\infty}\frac{\sin ax}{x} f ( a ) = ∫ − ∞ ∞ ​ x e ia x ​ = ∫ − ∞ ∞ ​ x cos a x ​ + i ∫ − ∞ ∞ ​ x sin a x ​
+즉, 우리가 구할 ∫ − ∞ ∞ sin ⁡ x x d x \displaystyle \int_{-\infty}^{\infty}\frac{\sin x}{x}dx ∫ − ∞ ∞ ​ x sin x ​ d x 라는 값은 f ( x ) f(x) f ( x ) 의 허수성분이 된다. [15]
+
+이제, 이 함수를 조금 변형해보자.
+I ( x , r ) I(x,r) I ( x , r ) 이라는 이변수 함수를 정의해보자.
+I ( x , r ) = ∫ − r r e i a x x \displaystyle I(x,r)=\int_{-r}^{r}\frac{e^{iax}}{x} I ( x , r ) = ∫ − r r ​ x e ia x ​ 라고 두면, f ( x ) = lim ⁡ r → ∞ I ( x , r ) f(x)=\displaystyle \lim_{r\to\infty}I(x,r) f ( x ) = r → ∞ lim ​ I ( x , r ) 이라는 점을 알 수 있다.
+
+또한, 유수를 알기 위하여 e i a x x \displaystyle \frac{e^{iax}}{x} x e ia x ​ 를 z 0 = 0 z_0=0 z 0 ​ = 0 에 대해서 로랑급수로 전개하자.
+e i a x x = 1 x 1 0 ! + i a 1 ! + a 2 i 2 x 2 ! + a 3 i 3 z 2 3 ! + a 4 z 3 4 ! + ⋯ = ∑ n = 0 ∞ ( i a x ) n − 1 n ! = 0 x 0 + ∑ n = 1 ∞ ( a i ) n x n n ! + 1 x \displaystyle \frac{e^{iax}}{x}=\frac{1}{x}\frac{1}{0!}+\frac{ia}{1!}+\frac{a^2 i^2x}{2!}+\frac{a^3i^3z^2}{3!}+\frac{a^4z^3}{4!}+\cdots=\sum_{n=0}^{\infty}\frac{\left(iax\right)^{n-1}}{n!}=0x^{0}+\sum_{n=1}^{\infty}\frac{\left(ai\right)^{n}x^n}{n!}+\frac{1}{x} x e ia x ​ = x 1 ​ 0 ! 1 ​ + 1 ! ia ​ + 2 ! a 2 i 2 x ​ + 3 ! a 3 i 3 z 2 ​ + 4 ! a 4 z 3 ​ + ⋯ = n = 0 ∑ ∞ ​ n ! ( ia x ) n − 1 ​ = 0 x 0 + n = 1 ∑ ∞ ​ n ! ( ai ) n x n ​ + x 1 ​ 가 되므로, e i a x x \displaystyle \frac{e^{iax}}{x} x e ia x ​ 의 z 0 = 0 z_0=0 z 0 ​ = 0 에 대한 유수는 1. 즉 z 0 = 0 z_0=0 z 0 ​ = 0 은 단순 극(simple pole)이다.
+
+이제 이 함수를 계산하기 위하여, 경로 C \mathfrak{C} C 를 다음과 같이 정의하자.
+
+C = C 1 ∪ C 2 ∪ C ϵ ∪ C R \mathfrak{C}=\mathfrak{C}_1\cup\mathfrak{C}_2\cup\mathfrak{C}_{\epsilon}\cup\mathfrak{C}_{R} C = C 1 ​ ∪ C 2 ​ ∪ C ϵ ​ ∪ C R ​ 이라는 상반평면에 위치한 4개의 경로의 합으로 둔다.
+이때, C 1 = [ − r , − ϵ ] \mathfrak{C}_1=\left[-r, -\epsilon\right] C 1 ​ = [ − r , − ϵ ] , C 2 = [ ϵ , r ] \mathfrak{C}_2=\left[\epsilon, r\right] C 2 ​ = [ ϵ , r ] 인 실수구간이며, C ϵ \mathfrak{C}_\epsilon C ϵ ​ 은 원점을 중심으로 반지름 ϵ \epsilon ϵ 인 시계방향의 반원이며, C R \mathfrak{C}_{R} C R ​ 은 반지름이 r r r 인 반시계방향의 반원이다.
+
+그런데, 코시-구르사 정리에 의하여 단순폐곡선 내부에서 항상 해석적인 함수를 폐곡선을 따라 적분한 ∫ C e i a x x d x = 0 \displaystyle \int_\mathfrak{C}\frac{e^{iax}}{x}dx=0 ∫ C ​ x e ia x ​ d x = 0 임은 자명하므로, ∫ C e i a x x d x = ∫ C 1 e i a x x d x + ∫ C 2 e i a x x d x + ∫ C R e i a x x d x + ∫ C ϵ e i a x x d x = 0 \displaystyle \int_\mathfrak{C} \frac{e^{iax}}{x}dx=\int_{\mathfrak{C}_1}\frac{e^{iax}}{x}dx+\int_{\mathfrak{C}_2}\frac{e^{iax}}{x}dx+\int_{\mathfrak{C}_R}\frac{e^{iax}}{x}dx+\int_{\mathfrak{C}_\epsilon}\frac{e^{iax}}{x}dx=0 ∫ C ​ x e ia x ​ d x = ∫ C 1 ​ ​ x e ia x ​ d x + ∫ C 2 ​ ​ x e ia x ​ d x + ∫ C R ​ ​ x e ia x ​ d x + ∫ C ϵ ​ ​ x e ia x ​ d x = 0 이고, e i a x x \displaystyle\frac{e^{iax}}{x} x e ia x ​ 를 실수축을 따라 전개한 허수부인 sin ⁡ a x x \displaystyle \frac{\sin ax}{x} x sin a x ​ 는 우함수 이므로 다음 성질이 성립한다.
+∫ C 1 e i a x x d x = ∫ C 2 e i a x x d x \displaystyle \int_{\mathfrak{C}_1}\frac{e^{iax}}{x}dx=\int_{\mathfrak{C}_2}\frac{e^{iax}}{x}dx ∫ C 1 ​ ​ x e ia x ​ d x = ∫ C 2 ​ ​ x e ia x ​ d x
+또한, 조르당 보조 정리(Jordan's lemma)에 의하여 r → ∞ r\to\infty r → ∞ 일 때 ∫ C R e i a x x d x = 0 \displaystyle \int_{\mathfrak{C}_{R}}\frac{e^{iax}}{x}dx=0 ∫ C R ​ ​ x e ia x ​ d x = 0 이 된다.
+즉, ∫ C e i a x x d x = 2 ∫ C 1 e i a x x d x + ∫ C ϵ e i a x x d x \displaystyle \int_\mathfrak{C}\frac{e^{iax}}{x}dx=2\int_{\mathfrak{C}_1}\frac{e^{iax}}{x}dx+\int_{\mathfrak{C}_\epsilon}\frac{e^{iax}}{x}dx ∫ C ​ x e ia x ​ d x = 2 ∫ C 1 ​ ​ x e ia x ​ d x + ∫ C ϵ ​ ​ x e ia x ​ d x 가 된다.
+
+또한 상반평면에서 극점을 우회하는 시계방향의 반원 C ϵ \mathfrak{C}_{\epsilon} C ϵ ​ 에 대한 선적분 lim ⁡ ϵ → 0 ∫ C ϵ f ( z ) d z \displaystyle \lim_{\epsilon\to 0}\int_{\mathfrak{C}_\epsilon}f(z)dz ϵ → 0 lim ​ ∫ C ϵ ​ ​ f ( z ) d z 은 해당 극점에 대한 유수가 B 0 B_0 B 0 ​ 일 때, lim ⁡ ϵ → 0 ∫ C ϵ f ( z ) d z = − B 0 π i \displaystyle \lim_{\epsilon\to 0}\int_{\mathfrak{C}_\epsilon}f(z)dz=-B_0\pi i ϵ → 0 lim ​ ∫ C ϵ ​ ​ f ( z ) d z = − B 0 ​ π i 가 된다.
+주어진 함수에서 원점에 대한 유수가 1이므로, ∫ C e i a x x d x = 0 = 2 ∫ C 1 e i a x x d x + ∫ C ϵ e i a x x d x \displaystyle \int_\mathfrak{C}\frac{e^{iax}}{x}dx=0=2\int_{\mathfrak{C}_1}\frac{e^{iax}}{x}dx+\int_{\mathfrak{C}_\epsilon}\frac{e^{iax}}{x}dx ∫ C ​ x e ia x ​ d x = 0 = 2 ∫ C 1 ​ ​ x e ia x ​ d x + ∫ C ϵ ​ ​ x e ia x ​ d x 에서 0 = lim ⁡ ( ϵ , r ) → ( 0 , ∞ ) { 2 ∫ C 1 e i a x x d x + ∫ C ϵ e i a x x d x } = lim ⁡ ϵ → 0 , r → ∞ { 2 ∫ C 1 e i a x x d x − π i } \displaystyle 0=\lim_{\left(\epsilon,r\right)\to\left(0,\infty\right)}\{2\int_{\mathfrak{C}_1}\frac{e^{iax}}{x}dx+\int_{\mathfrak{C}_\epsilon}\frac{e^{iax}}{x}dx\}=\lim_{\epsilon\to 0, r\to\infty}\{2\int_{\mathfrak{C}_1}\frac{e^{iax}}{x}dx-\pi i\} 0 = ( ϵ , r ) → ( 0 , ∞ ) lim ​ { 2 ∫ C 1 ​ ​ x e ia x ​ d x + ∫ C ϵ ​ ​ x e ia x ​ d x } = ϵ → 0 , r → ∞ lim ​ { 2 ∫ C 1 ​ ​ x e ia x ​ d x − π i } 이므로,
+∫ − ∞ ∞ e i a x x d x = i ∫ − ∞ ∞ sin ⁡ a x x d x = i π \displaystyle \int_{-\infty}^{\infty}\frac{e^{iax}}{x}dx=i\int_{-\infty}^{\infty}\frac{\sin ax}{x}dx=i\pi ∫ − ∞ ∞ ​ x e ia x ​ d x = i ∫ − ∞ ∞ ​ x sin a x ​ d x = iπ .
+즉, ∫ − ∞ ∞ sin ⁡ x x d x = π \displaystyle \int_{-\infty}^{\infty}\frac{\sin x}{x}dx=\pi ∫ − ∞ ∞ ​ x sin x ​ d x = π 가 된다.
+
+참고로 유수가 중요한 이유는 로랑급수 전개 시 함수를 z − z 0 z-z_0 z − z 0 ​ 에 대한 다항식으로 전개하는데, 이를 치환적분해보면 다음과 같은 일이 벌어지기 때문이다. f ( z ) = ∑ n = − ∞ − 2 c n ( z − z 0 ) − n + c − 1 ( z − z 0 ) − 1 + ∑ n = 0 ∞ c n ( z − z 0 ) n \displaystyle \begin{aligned} f\left(z\right)=&\sum_{n=-\infty}^{-2}c_{n}\left(z-z_0\right)^{-n}\\ &+c_{-1}\left(z-z_0\right)^{-1}\\ &+\sum_{n=0}^{\infty}c_{n}\left(z-z_0\right)^{n} \end{aligned} f ( z ) = ​ n = − ∞ ∑ − 2 ​ c n ​ ( z − z 0 ​ ) − n + c − 1 ​ ( z − z 0 ​ ) − 1 + n = 0 ∑ ∞ ​ c n ​ ( z − z 0 ​ ) n ​
+
+로 둘 때, ∮ C f ( z ) d z = ∮ C ∑ n = − ∞ − 2 c n ( z − z 0 ) − n d z + c − 1 ∮ C ( z − z 0 ) − 1 d z + ∮ C ∑ n = 0 ∞ c n ( z − z 0 ) n d z \displaystyle \begin{aligned} \oint_{C} f\left(z\right){\rm d}z=&\oint_{C}\sum_{n=-\infty}^{-2}c_{n}\left(z-z_0\right)^{-n}{\rm d}z\\ &+c_{-1}\oint_{C}\left(z-z_0\right)^{-1}{\rm d}z\\ &+\oint_{C}\sum_{n=0}^{\infty}c_{n}\left(z-z_0\right)^{n}{\rm d}z \end{aligned} ∮ C ​ f ( z ) d z = ​ ∮ C ​ n = − ∞ ∑ − 2 ​ c n ​ ( z − z 0 ​ ) − n d z + c − 1 ​ ∮ C ​ ( z − z 0 ​ ) − 1 d z + ∮ C ​ n = 0 ∑ ∞ ​ c n ​ ( z − z 0 ​ ) n d z ​
+
+라고 정리할 수 있는데 C C C 를 z 0 z_0 z 0 ​ 를 중심으로 하는 반경 r r r 의 양의 방향의 닫힌 폐곡선이라고 하자.
+즉, C : = ∣ z − z 0 ∣ = r C:=\left|z-z_0\right|=r C := ∣ z − z 0 ​ ∣ = r 이라고 할 수 있고, 경로 C C C 상의 점 z z z 는 z 0 + r e i θ z_0+re^{i\theta} z 0 ​ + r e i θ (단, 0 ≤ θ < 2 π 0\leq \theta<2\pi 0 ≤ θ < 2 π )라고 둘 수 있다.
+이제 치환적분을 해 보자.
+z = z 0 + r e i θ z=z_0+re^{i\theta} z = z 0 ​ + r e i θ 이므로, d z = i r e i θ d θ = i ( z − z 0 ) d θ \displaystyle{{\rm d}z=ire^{i\theta}{\rm d}\theta}=i\left(z-z_0\right){\rm d}\theta d z = i r e i θ d θ = i ( z − z 0 ​ ) d θ 가 되는데, 이는 f ( z ) f\left(z\right) f ( z ) 의 모든 항의 차수를 1차씩 올리는 결과가 된다. -2차항 이하의 차수는 -1차항 이하의 차수가 되고, 상수항 이상의 차수는 1차항 이상의 차수가 되어 단순폐곡선 C C C 를 따라 적분하게 된다. 이러면 이 항은 전부 0이 되어 사라진다. [16]
+그런데 -1차항은 상수항이 되면서 남게 된다 . [17] 상수항은 단순폐곡선으로 적분 시 2 π i 2\pi i 2 π i 를 곱하게 되므로, 함수의 복소적분값은 2 π i 2\pi i 2 π i 에 유수를 곱한 값과 같게 되는 것이다. [18]
+
+2.2.1. 고립 특이점에서의 유수(residue) 계산법 [편집]
+바로 위 문단에서, 복소평면상의 닫힌 궤적 적분시 유수만이 직접적으로 영향을 준다고 설명했다.
+보통 유수를 계산할 때는 로랑 급수 전개를 통해서 ( z − z 0 ) − 1 \left(z-z_0\right)^{-1} ( z − z 0 ​ ) − 1 의 계수가 바로 유수라고 설명하지만, 문제는 고립 특이점에서 로랑 급수 전개가 생각보다 바로 떠오르지 않는 경우가 흔하다는 점이다. 이 경우는 다음 성질을 이용해서 계산하게 된다.
+z 0 z_0 z 0 ​ 가 함수 f f f 의 고립 특이점일 때, 다음 두 조건은 서로 동치이다.
+(a) z 0 z_0 z 0 ​ 는 함수 f f f 에서 계수 m m m 을 지니는 극점이다.
+(b) f ( z ) f(z) f ( z ) 를 z = z 0 z=z_0 z = z 0 ​ 에서 0이 아닌 값을 가지는 해석함수 ϕ ( z ) \phi\left(z\right) ϕ ( z ) 를 이용하여 다음과 같이 표현할 수 있다.
+f ( z ) = ϕ ( z ) ( z − z 0 ) m f(z)=\displaystyle{\frac{\phi(z)}{\left(z-z_0\right)^m}} f ( z ) = ( z − z 0 ​ ) m ϕ ( z ) ​ (단 m = 1 , 2 , ⋯ m=1, 2, \cdots m = 1 , 2 , ⋯ )
+즉, ( z − z 0 ) m f ( z ) ≠ 0 \left(z-z_0\right)^m f(z)\neq 0 ( z − z 0 ​ ) m f ( z )  = 0 이 되는 최소의 정수 m m m 이 존재할 때, ϕ ( z ) = ( z − z 0 ) m f ( z ) \phi(z)=\left(z-z_0\right)^m f(z) ϕ ( z ) = ( z − z 0 ​ ) m f ( z ) 라고 표기한다.
+
+이 성질이 성립함을 확인했을 경우, 즉 극점에 한해서 다음과 같이 유수 Res ⁡ ( f , z 0 ) \operatorname{Res}\left(f, z_0\right) Res ( f , z 0 ​ ) 를 계산할 수 있다. Res ⁡ ( f , z 0 ) = ϕ ( z 0 ) \operatorname{Res}\left(f,\, z_0\right)=\phi\left(z_0\right) Res ( f , z 0 ​ ) = ϕ ( z 0 ​ ) ( m = 1 m=1 m = 1 일 때)
+Res ⁡ ( f , z 0 ) = ϕ ( m − 1 ) ( z 0 ) ( m − 1 ) ! \operatorname{Res}\left(f,\, z_0\right)=\displaystyle{\frac{\phi^{(m-1)}\left(z_0\right)}{\left(m-1\right)!}} Res ( f , z 0 ​ ) = ( m − 1 ) ! ϕ ( m − 1 ) ( z 0 ​ ) ​ ( m m m 이 2 이상의 정수일 때)
+
+2.3. 등각 사상 [편집]
+어떤 복소함수가 존재한다고 했을 때, 이 함수가 등각사상이라는 말은 복소평면상의 두 복소곡선이 한 점 α \alpha α 에서 만날 때, 이 두 곡선을 정의역이라 두면, 치역으로 나오는 두 복소곡선의 내각이 정의역 곡선이 이루는 내각과 동일하다는 것을 의미한다.
+단, 중요한 점은 f ′ ( α ) ≠ 0 f'\left(\alpha\right)\neq 0 f ′ ( α )  = 0 이어야 한다는 점인데, f ′ ( α ) = 0 f'\left(\alpha\right)=0 f ′ ( α ) = 0 이라면 이 점에서의 내각을 구하는 것은 무의미해지며, 실함수에서 f ′ ′ ( α ) = 0 f''\left(\alpha\right)=0 f ′′ ( α ) = 0 인 점을 변곡점이라고 명명했던 것처럼 이 점을 변곡점이라고 칭한다. f ( z ) = z 2 f\left(z\right)=z^2 f ( z ) = z 2 를 예시로 들면, 이 함수는 f ′ ( z ) = 2 z f'\left(z\right)=2z f ′ ( z ) = 2 z 이므로 z = 0 z=0 z = 0 에서 f ′ ( z ) = 0 f'\left(z\right)=0 f ′ ( z ) = 0 이 된다. 이 때, 실수축과 허수축을 정의역이라 둘 경우, 이 두 정의역 집합은 함수 f f f 를 거쳐서 다음과 같은 치역집합으로 변경된다.
+C 1 = ( − ∞ , ∞ ) = R , C 2 = ( − i ∞ , i ∞ ) = i R → f ( C 1 ) = [ 0 , ∞ ) , f ( C 2 ) = ( − ∞ , 0 ] \mathcal{C}_{1}=\left(-\infty,\infty\right)=\mathbb{R}, \mathcal{C}_{2}=\left(-i\infty, i\infty\right)=i\mathbb{R} \to f\left(\mathcal{C}_{1}\right)=[0, \infty), f\left(\mathcal{C}_{2}\right)=\left(-\infty, 0\right]{} C 1 ​ = ( − ∞ , ∞ ) = R , C 2 ​ = ( − i ∞ , i ∞ ) = i R → f ( C 1 ​ ) = [ 0 , ∞ ) , f ( C 2 ​ ) = ( − ∞ , 0 ] [19]
+물론 z = 0 z=0 z = 0 이 아니기만 하면 되므로 ℑ z = 1 , ℜ z = 1 \Im{z}=1, \Re{z}=1 ℑ z = 1 , ℜ z = 1 인 수직인 두 직선( l 1 : z = x + i l_1:z=x+i l 1 ​ : z = x + i , l 2 : z = 1 + y i l_2:z=1+yi l 2 ​ : z = 1 + y i . 단 x , y ∈ R x, y \in \mathbb{R} x , y ∈ R )의 경우 z = 1 + i z=1+i z = 1 + i 에서 교차하는데, f ( l 1 ) = x 2 − 1 + 2 x i f(l_1)=x^2-1+2xi f ( l 1 ​ ) = x 2 − 1 + 2 x i , f ( l 2 ) = 1 − y 2 + 2 y i f(l_2)=1-y^2+2yi f ( l 2 ​ ) = 1 − y 2 + 2 y i 이고, f ( 1 + i ) = 2 i f(1+i)=2i f ( 1 + i ) = 2 i 이고, f ( l 1 ∣ x = 1 ) , f ( l 2 ∣ y = 1 ) f(l_1|_{x=1}), f(l_2|_{y=1}) f ( l 1 ​ ∣ x = 1 ​ ) , f ( l 2 ​ ∣ y = 1 ​ ) 에서 직교하는걸 알 수 있다.
+실제로 f ( l 1 ) , f ( l 2 ) f(l_1), f(l_2) f ( l 1 ​ ) , f ( l 2 ​ ) 의 실수부와 허수부를 각각 x , y x, y x , y 좌표로 치환해서 실수평면으로 옮겨보면, f ( l 1 ) f(l_1) f ( l 1 ​ ) 은 4 y = y 2 − 1 4y=y^2-1 4 y = y 2 − 1 , f ( l 2 ) f(l_2) f ( l 2 ​ ) 는 4 y = 1 − y 2 4y=1-y^2 4 y = 1 − y 2 이 되는데, 음함수의 미분을 이용해서 계산해보면 f ′ ( l 1 ) = 2 y \displaystyle f'(l_1)=\frac{2}{y} f ′ ( l 1 ​ ) = y 2 ​ , f ′ ( l 2 ) = − 2 y \displaystyle f'(l_2)=-\frac{2}{y} f ′ ( l 2 ​ ) = − y 2 ​ 가 되고, ( 0 , 2 ) (0, 2) ( 0 , 2 ) 에서의 각각의 미분계수는 1과 -1로 서로 직교함을 보일 수 있다.
+증명
+영역 A \mathcal{A} A 에서 B \mathcal{B} B 로 연관시키는 ∀ z ∈ A , z → w ( ∀ w ∈ B ) \forall z\in\mathcal{A}, z\to w\left(\forall w\in\mathcal{B}\right) ∀ z ∈ A , z → w ( ∀ w ∈ B ) 로 정의되는 해석적 함수 f f f 가 있다고 가정하자.
+(단 z = x + i y , w = u + i v z=x+iy, w=u+iv z = x + i y , w = u + i v ).
+
+영역 A \mathcal{A} A 상에서 α \alpha α 에서 만나는 임의의 두 경로 C 1 , C 2 \mathcal{C}_{1}, \mathcal{C}_{2} C 1 ​ , C 2 ​ 를 정의하자.(단 f ′ ( α ) ≠ 0 f'\left(\alpha\right)\neq 0 f ′ ( α )  = 0 )
+영역 A \mathcal{A} A 에서 f f f 가 해석적이므로, f f f 는 영역 A \mathcal{A} A 에서 연속적이며 미분가능하다.
+f f f 가 해석적이며 C 1 , C 2 ∈ A \mathcal{C}_{1}, \mathcal{C}_{2} \in \mathcal{A} C 1 ​ , C 2 ​ ∈ A 이므로, f f f 를 통한 C 1 , C 2 \mathcal{C}_{1}, \mathcal{C}_{2} C 1 ​ , C 2 ​ 의 B \mathcal{B} B 위의 상인 곡선 C 1 , C 2 \mathfrak{C}_{1}, \mathfrak{C}_{2} C 1 ​ , C 2 ​ 가 존재함은 자명하다.
+그러면 각각의 곡선이 실수축 x x x 과 이루는 내각을 각각 ψ 1 , ψ 2 \boldsymbol{\psi}_{1}, \boldsymbol{\psi}_{2} ψ 1 ​ , ψ 2 ​ 라고 할 수 있다.
+경로 C 1 , C 2 \mathcal{C}_{1}, \mathcal{C}_{2} C 1 ​ , C 2 ​ 상에 각각 점을 하나씩 잡아서 z 1 , z 2 z_{1}, z_{2} z 1 ​ , z 2 ​ 라고 정의하자.
+그렇다면 두 곡선의 내각은 lim ⁡ z 1 , z 2 → α ∠ z 2 α z 1 = ψ 2 − ψ 1 = ψ \displaystyle{\lim_{z_{1}, z_{2}\to\alpha}\angle{z_{2}\alpha z_{1}}}=\boldsymbol{\psi}_{2}-\boldsymbol{\psi}_{1}=\boldsymbol{\psi} z 1 ​ , z 2 ​ → α lim ​ ∠ z 2 ​ α z 1 ​ = ψ 2 ​ − ψ 1 ​ = ψ 가 된다.
+
+그런데 z 1 − α = r 1 e i θ 1 , z 2 − α = r 2 e i θ 2 z_{1}-\alpha=r_{1}e^{i\theta_{1}}, z_{2}-\alpha=r_{2}e^{i\theta_{2}} z 1 ​ − α = r 1 ​ e i θ 1 ​ , z 2 ​ − α = r 2 ​ e i θ 2 ​ 라고 둘 수도 있다.
+복소평면에서도 일반 평면상의 극한이 그대로 적용되므로, r → 0 r\to 0 r → 0 으로 두면 z 1 , z 2 → α z_{1}, z_{2}\to\alpha z 1 ​ , z 2 ​ → α 임은 명백하다.
+또한, θ 1 → ψ 1 , θ 2 → ψ 2 \theta_{1}\to\boldsymbol{\psi}_{1}, \theta_{2}\to\boldsymbol{\psi}_{2} θ 1 ​ → ψ 1 ​ , θ 2 ​ → ψ 2 ​ 임도 명백하다.
+이제 f ( α ) = β f\left(\alpha\right)=\beta f ( α ) = β 라고 두자.
+α ∈ C 1 , C 2 \alpha\in\mathcal{C}_{1}, \mathcal{C}_{2} α ∈ C 1 ​ , C 2 ​ 이므로 β ∈ C 1 , C 2 \beta\in\mathfrak{C}_{1}, \mathfrak{C}_{2} β ∈ C 1 ​ , C 2 ​ 다.
+그러므로 f ( z 1 ) = w 1 , f ( z 2 ) = w 2 f\left(z_{1}\right)=w_{1}, f\left(z_{2}\right)=w_{2} f ( z 1 ​ ) = w 1 ​ , f ( z 2 ​ ) = w 2 ​ 라고 한 뒤, 위의 방식대로 다시 정리하자.
+
+w 1 − β = R 1 e i ϕ 1 , w 2 − β = R 2 e i ϕ 2 w_{1}-\beta=R_{1}e^{i\phi_{1}}, w_{2}-\beta=R_{2}e^{i\phi_{2}} w 1 ​ − β = R 1 ​ e i ϕ 1 ​ , w 2 ​ − β = R 2 ​ e i ϕ 2 ​ 이며, C 1 , C 2 \mathfrak{C}_{1}, \mathfrak{C}_{2} C 1 ​ , C 2 ​ 가 이루는 각은 lim ⁡ w 1 , w 2 → β ∠ w 2 β w 1 \displaystyle{\lim_{w_{1}, w_{2}\to\beta}\angle{w_{2}\beta w_{1}}} w 1 ​ , w 2 ​ → β lim ​ ∠ w 2 ​ β w 1 ​ 가 된다.
+가정에서 f ′ ( α ) ≠ 0 f'\left(\alpha\right)\neq 0 f ′ ( α )  = 0 이라고 했으므로, f ′ ( α ) = ρ e i λ f'\left(\alpha\right)=\rho e^{i\lambda} f ′ ( α ) = ρ e iλ 라고 정의할 수 있다.
+f ′ ( α ) = lim ⁡ z 1 → α w 1 − β z 1 − α f'\left(\alpha\right)=\displaystyle{\lim_{z_{1}\to \alpha}\frac{w_{1}-\beta}{z_{1}-\alpha}} f ′ ( α ) = z 1 ​ → α lim ​ z 1 ​ − α w 1 ​ − β ​ 인데, 위에서 w 1 − β = R 1 e i ϕ 1 , z 1 − α = r 1 e i θ 1 w_{1}-\beta=R_{1}e^{i\phi_{1}}, z_{1}-\alpha=r_{1}e^{i\theta_{1}} w 1 ​ − β = R 1 ​ e i ϕ 1 ​ , z 1 ​ − α = r 1 ​ e i θ 1 ​ 라고 했으므로 대입하자.
+f ′ ( α ) = lim ⁡ z 1 → α w 1 − β z 1 − α = lim ⁡ z 1 → α R 1 e i ϕ 1 r 1 e i θ 1 = lim ⁡ z 1 → α R 1 r 1 e i ( ϕ 1 − θ 1 ) = ρ e i λ f'\left(\alpha\right)=\displaystyle{\lim_{z_{1}\to \alpha}\frac{w_{1}-\beta}{z_{1}-\alpha}}=\displaystyle{\lim_{z_{1}\to \alpha}\frac{R_{1}e^{i\phi_{1}}}{r_{1}e^{i\theta_{1}}}}=\displaystyle{\lim_{z_{1}\to\alpha}\frac{R_{1}}{r_{1}}e^{i\left(\phi_{1}-\theta_{1}\right)}}=\rho e^{i\lambda} f ′ ( α ) = z 1 ​ → α lim ​ z 1 ​ − α w 1 ​ − β ​ = z 1 ​ → α lim ​ r 1 ​ e i θ 1 ​ R 1 ​ e i ϕ 1 ​ ​ = z 1 ​ → α lim ​ r 1 ​ R 1 ​ ​ e i ( ϕ 1 ​ − θ 1 ​ ) = ρ e iλ
+즉 ρ = R 1 r 1 , lim ⁡ z 1 → α λ = lim ⁡ z 1 → α ( ϕ 1 − θ 1 ) = lim ⁡ w 1 → β λ \rho=\displaystyle{\frac{R_{1}}{r_{1}}}, \lim_{z_{1}\to\alpha}\lambda=\lim_{z_{1}\to\alpha}\left(\phi_{1}-\theta_{1}\right)=\lim_{w_{1}\to\beta}\lambda ρ = r 1 ​ R 1 ​ ​ , z 1 ​ → α lim ​ λ = z 1 ​ → α lim ​ ( ϕ 1 ​ − θ 1 ​ ) = w 1 ​ → β lim ​ λ 가 되어, λ + ψ 1 = ϕ 1 \lambda+\boldsymbol{\psi}_{1}=\phi_{1} λ + ψ 1 ​ = ϕ 1 ​ 이 된다.
+역시 마찬가지로 λ + ψ 2 = ϕ 2 \lambda+\boldsymbol{\psi}_{2}=\phi_{2} λ + ψ 2 ​ = ϕ 2 ​ 가 된다.
+lim ⁡ w 1 , w 2 → β ∠ w 2 β w 1 \displaystyle{\lim_{w_{1}, w_{2}\to\beta}\angle{w_{2}\beta w_{1}}} w 1 ​ , w 2 ​ → β lim ​ ∠ w 2 ​ β w 1 ​ 는 ϕ 2 − ϕ 1 \phi_{2}-\phi_{1} ϕ 2 ​ − ϕ 1 ​ 이므로, 각각을 위에서 구한 값으로 치환하면
+ϕ 2 − ϕ 1 = ( λ + ψ 2 ) − ( λ + ψ 1 ) = ψ 2 − ψ 1 = ψ \phi_{2}-\phi_{1}=\left(\lambda+\boldsymbol{\psi}_{2}\right)-\left(\lambda+\boldsymbol{\psi}_{1}\right)=\boldsymbol{\psi}_{2}-\boldsymbol{\psi}_{1}=\boldsymbol{\psi} ϕ 2 ​ − ϕ 1 ​ = ( λ + ψ 2 ​ ) − ( λ + ψ 1 ​ ) = ψ 2 ​ − ψ 1 ​ = ψ 가 된다.
+즉 f f f 가 주어진 영역 내에서 해석적이라면 이 함수는 정의역의 두 곡선이 이루는 각을 그대로 치역에서도 보존하는 등각사상이 된다.
+
+비슷한 것으로 등편각 사상이라는게 존재하는데, 이쪽은 내각의 부호가 바뀐다.
+
+그런데 위의 증명은 결국 함수를 계속해서 극좌표화 해야 하는 단점이 존재한다. 단순하게 미분의 성질만으로 증명하려면 아래의 방식을 사용하는 편이 빠르다.
+매끄러운 곡선 C 1 \mathcal{C}_{1} C 1 ​ 가 다음 식으로 정의된다고 하자.
+z = z ( t ) , ( a ≤ t ≤ b ) z=z\left(t\right), \left(a\leq t \leq b\right) z = z ( t ) , ( a ≤ t ≤ b )
+또한 함수 f ( z ) f\left(z\right) f ( z ) 를 C 1 \mathcal{C}_{1} C 1 ​ 상의 모든 점 z z z 에서 정의된다고 하자.
+그러면 다음 식은 변환 w = f ( z ) w=f\left(z\right) w = f ( z ) 에 의한 C 1 \mathcal{C}_{1} C 1 ​ 의 상 Γ 1 \Gamma_{1} Γ 1 ​ 에 대한 매개변수 표현식이 된다.
+w = f ( z ( t ) ) , ( a ≤ t ≤ b ) w=f\left(z\left(t\right)\right), \left(a\leq t \leq b\right) w = f ( z ( t ) ) , ( a ≤ t ≤ b )
+곡선 C 1 \mathcal{C}_{1} C 1 ​ 는 해석적인 점 z 0 = z ( t 0 ) , ( a < t 0 < b ) z_{0}=z\left(t_{0}\right), \left(a<t_{0}<b\right) z 0 ​ = z ( t 0 ​ ) , ( a < t 0 ​ < b ) 를 지나고, f ′ ( z 0 ) ≠ 0 f'\left(z_{0}\right)\neq 0 f ′ ( z 0 ​ )  = 0 이라고 하자.
+
+미분의 연쇄법칙 에 의하여, 다음 식이 얻어진다.
+w ′ ( t 0 ) = f ′ ( z ( t 0 ) ) z ′ ( t 0 ) w'\left(t_{0}\right)=f'\left(z\left(t_{0}\right)\right)z'\left(t_{0}\right) w ′ ( t 0 ​ ) = f ′ ( z ( t 0 ​ ) ) z ′ ( t 0 ​ )
+그런데 편각의 성질을 고려하면, 다음 식이 성립함을 알 수 있다.
+arg ⁡ w ′ ( t 0 ) = arg ⁡ f ′ ( z ( t 0 ) ) + arg ⁡ z ′ ( t 0 ) \arg w'\left(t_{0}\right)=\arg f'\left(z\left(t_{0}\right)\right)+ \arg z'\left(t_{0}\right) ar g w ′ ( t 0 ​ ) = ar g f ′ ( z ( t 0 ​ ) ) + ar g z ′ ( t 0 ​ )
+마찬가지로 매끄러운 곡선 C 2 \mathcal{C}_{2} C 2 ​ 을 z = z ( l ) , ( c ≤ l ≤ d ) \mathbf{z}=\mathbf{z}\left(l\right), \left(c\leq l \leq d\right) z = z ( l ) , ( c ≤ l ≤ d ) 이라고 정의하자.
+그리고 C 2 \mathcal{C}_{2} C 2 ​ 도 역시 C 2 \mathcal{C}_{2} C 2 ​ 상의 모든 점 z \mathbf{z} z 에서 f f f 가 정의된다고 하자. 그러면 w = f ( z ) \mathbf{w}=f\left(\mathbf{z}\right) w = f ( z ) 에 의한 C 2 \mathcal{C}_{2} C 2 ​ 의 상 Γ 2 \Gamma_{2} Γ 2 ​ 매개변수 표현식 역시 다음과 같이 된다.
+w = f ( z ( l ) ) , ( c ≤ l ≤ d ) \mathbf{w}=f\left(\mathbf{z}\left(l\right)\right), \left(c\leq l \leq d\right) w = f ( z ( l ) ) , ( c ≤ l ≤ d )
+C 2 \mathcal{C}_{2} C 2 ​ 도 해석적인 점 z 0 = z ( l 0 ) , ( c < l 0 < d ) z_{0}=\mathbf{z}\left(l_{0}\right), \left(c<l_{0}<d\right) z 0 ​ = z ( l 0 ​ ) , ( c < l 0 ​ < d ) 을 지난다고 한 뒤,마찬가지의 전개를 통하면
+arg ⁡ w ′ ( l 0 ) = arg ⁡ f ′ ( z ( l 0 ) ) + arg ⁡ z ′ ( l 0 ) \arg \mathbf{w}'\left(l_{0}\right)=\arg f'\left(\mathbf{z}\left(l_{0}\right)\right)+ \arg \mathbf{z}'\left(l_{0}\right) ar g w ′ ( l 0 ​ ) = ar g f ′ ( z ( l 0 ​ ) ) + ar g z ′ ( l 0 ​ ) 이 성립함도 자명하다.
+그런데, z ( t 0 ) = z ( l 0 ) = z 0 z\left(t_{0}\right)=\mathbf{z}\left(l_{0}\right)=z_{0} z ( t 0 ​ ) = z ( l 0 ​ ) = z 0 ​ 라는걸 고려하자.
+그렇다면 위의 두 식
+{ arg ⁡ w ′ ( t 0 ) = arg ⁡ f ′ ( z ( t 0 ) ) + arg ⁡ z ′ ( t 0 ) arg ⁡ w ′ ( l 0 ) = arg ⁡ f ′ ( z ( l 0 ) ) + arg ⁡ z ′ ( l 0 ) \begin{cases} \arg w'\left(t_{0}\right)=\arg f'\left(z\left(t_{0}\right)\right)+ \arg z'\left(t_{0}\right)\\\arg \mathbf{w}'\left(l_{0}\right)=\arg f'\left(\mathbf{z}\left(l_{0}\right)\right)+ \arg \mathbf{z}'\left(l_{0}\right)\end{cases} { ar g w ′ ( t 0 ​ ) = ar g f ′ ( z ( t 0 ​ ) ) + ar g z ′ ( t 0 ​ ) ar g w ′ ( l 0 ​ ) = ar g f ′ ( z ( l 0 ​ ) ) + ar g z ′ ( l 0 ​ ) ​
+은 다음과 같이 바뀐다.
+{ arg ⁡ w ′ ( t 0 ) = arg ⁡ f ′ ( z 0 ) + arg ⁡ z ′ ( t 0 ) arg ⁡ w ′ ( l 0 ) = arg ⁡ f ′ ( z 0 ) + arg ⁡ z ′ ( l 0 ) \begin{cases} \arg w'\left(t_{0}\right)=\arg f'\left(z_{0}\right)+ \arg z'\left(t_{0}\right)\\\arg \mathbf{w}'\left(l_{0}\right)=\arg f'\left(z_{0}\right)+ \arg \mathbf{z}'\left(l_{0}\right)\end{cases} { ar g w ′ ( t 0 ​ ) = ar g f ′ ( z 0 ​ ) + ar g z ′ ( t 0 ​ ) ar g w ′ ( l 0 ​ ) = ar g f ′ ( z 0 ​ ) + ar g z ′ ( l 0 ​ ) ​
+곡선 C 1 , C 2 \mathcal{C}_{1}, \mathcal{C}_{2} C 1 ​ , C 2 ​ 가 α \alpha α 에서 이루는 끼인각은 arg ⁡ z ′ ( t 0 ) − arg ⁡ z ′ ( l 0 ) \arg \mathbf{z}'\left(t_{0}\right)-\arg z'\left(l_{0}\right) ar g z ′ ( t 0 ​ ) − ar g z ′ ( l 0 ​ ) 임은 자명하다.
+그런데 이 두 곡선의 상인 Γ 1 , Γ 2 \Gamma_{1}, \Gamma_{2} Γ 1 ​ , Γ 2 ​ 가 이루는 각은 마찬가지 사고방식으로 arg ⁡ w ′ ( l 0 ) − arg ⁡ w ′ ( t 0 ) \arg \mathbf{w}'\left(l_{0}\right)-\arg w'\left(t_{0}\right) ar g w ′ ( l 0 ​ ) − ar g w ′ ( t 0 ​ ) 임이 자명한데, 바로 위의 식의 관계를 대입해보자.
+arg ⁡ w ′ ( l 0 ) − arg ⁡ w ′ ( t 0 ) = arg ⁡ f ′ ( z 0 ) + arg ⁡ z ′ ( l 0 ) − arg ⁡ f ′ ( z 0 ) − arg ⁡ z ′ ( t 0 ) = arg ⁡ z ′ ( t 0 ) − arg ⁡ z ′ ( l 0 ) \arg \mathbf{w}'\left(l_{0}\right)-\arg w'\left(t_{0}\right)=\arg f'\left(z_{0}\right)+ \arg \mathbf{z}'\left(l_{0}\right)-\arg f'\left(z_{0}\right)- \arg z'\left(t_{0}\right)=\arg \mathbf{z}'\left(t_{0}\right)-\arg z'\left(l_{0}\right) ar g w ′ ( l 0 ​ ) − ar g w ′ ( t 0 ​ ) = ar g f ′ ( z 0 ​ ) + ar g z ′ ( l 0 ​ ) − ar g f ′ ( z 0 ​ ) − ar g z ′ ( t 0 ​ ) = ar g z ′ ( t 0 ​ ) − ar g z ′ ( l 0 ​ ) 가 된다.
+즉, 두 곡선 C 1 , C 2 \mathcal{C}_{1}, \mathcal{C}_{2} C 1 ​ , C 2 ​ 가 이루는 내각은 두 곡선이 f f f 에 대한 상인 두 곡선 Γ 1 , Γ 2 \Gamma_{1}, \Gamma_{2} Γ 1 ​ , Γ 2 ​ 가 이루는 내각과 같다.( Q . E . D . \mathbf{Q.E.D.} Q.E.D. )
+
+단, 주의해야 할 점은, 등각사상은 어디까지나 일변수 복소함수 에서만 성립한다. 다변수 복소함수 에서는 뫼비우스 변환 을 제외하면 일반적으로 성립하지 않는 성질이다.
+
+2.4. 다가 함수, 리만 곡면, 모노드로미 [편집]
+
+2.5. 모듈러 형식 등등의 응용 [편집]
+
+3. 교과서 [편집]
+- Lars Ahlfors, Complex Analysis
+1953년 출간 이후 거의 70년이 지난 지금까지도 정점의 자리를 지키고 있는 복소해석 교재 불후의 마스터피스. [20] 학부에서부터 대학원 내용까지 중요한 내용들이 전부 수록되어 있으나 위상수학적으로 접근하기 때문에 다른 책들보다 난이도가 높은 편. 수식보다는 글을 통해서 설명하는 경향이 있어서 전개의 호흡이 길다. 후반부에서 증명의 중간 단계를 건너뛰는 부분들이 있어서 전반부보다 엄밀함이 떨어진다.
+- Brown & Churchil, Complex Variables and Applications(복소함수론과 그 응용), 경문사, 2019
+난이도가 높지 않아서 입문하기에 좋은 교재이다. 보통 처칠이라고 불린다. 다만 책 제목처럼 응용쪽에 초점을 맞추고 있기 때문에 깊이 있는 증명은 많이 다루지 않고 있으며 수학과가 아닌 다른 과 학생들이 복소수에 대해 공부할 때 많이 활용한다. [21] 해당 저서의 번역자는 그 유명한 허민 교수. 수학용어 한글화에 오늘도 내일도 묵묵히 매진하는 그의 신념에 많은 수학도들이 고통받았지만, 이 역서만큼은 우수한 번역으로 평가받으며 역서로는 이례적이게도 처칠이라는 이름을 대신하여 '허민'이라고까지 불린다. 사실 질 좋은 연습문제도 있으나 연습문제에 학생이 생각할 여지를 주지 않고 풀이 프로세스를 제공해버리기에 저평가 받는편. 자체적으로 난이도를 올리고 싶다면 이런 류의 연습문제는 교재의 힌트를 보지 말고 직접 해결해보는 것도 좋은 방법이다.
+- Saminathan Ponnusami & Herb Silverman, Complex Variables with Applications(실버만 복소해석학), 신한출판미디어, 2018
+마찬가지로 널리 쓰이는 책이지만 처칠보다 진입장벽이 조금 높다는 평이 있다. 특이하게도 해당 저서의 번역은 복소해석학 전공 교수가 아니라 수학교사 4인방 [22] 이 맡았다. 사실 분야를 막론하고 국역 전공서적들은 알고보면 교수는 이름만 걸어놓고 대학원생이 고생하는 일이 많다 참고로 역자 중 한 사람이 <맛있는 해석학>의 저자 이슬비(김백진)로, 덕분에 2학년 해석학 때부터 <맛있는 해석학>을 끼고 산 학생이라면 문장 구성 그리고 역자의 번역 취향 부터가 매우 익숙해서 다른 역서나 한국어 저서와 비교해도 유달리 잘 읽힌다. 하지만 모교인 공주대학교 수학교육과에서는 <맛있는 해석학>을 부교재로 쓰면서도 복소는 처칠 책으로 수업한다 카더라 . 한편으로 Richard Silverman 교수 [23] 의 <Complex Analysis with Applications>와 혼동하느라 결국 둘 다 사는(...) 불상사가 국내 뿐만 아니라 전세계적으로 흔하다. 그래서 영어권에서는 실버만이라는 익숙한 이름 대신 공저자인 인도 수학자 포누사미의 이름으로 지칭하며 일부러 구분하는 이들도 간혹 있다.
+- Elias M. Stein & Rami Shakarchi, Complex Analysis (Princeton Lectures in Analysis, No. 2)
+프린스턴 대학교에서 대학원 수준 해석학 강의에 쓰는 책으로 희한하게도 해석적 정수론 을 테마로 삼고 있다. 1권이 푸리에 해석, 2권이 복소해석, 3권이 실해석, 4권이 함수해석+α를 담고 있다. 3장까지는 학부생들이 봐도 무방할 정도로 설명이 친절하지만, 대학원생을 대상으로 쓴 교재인만큼 난이도가 어렵고 4장부터는 1권에서 다룬 푸리에 해석의 내용을 증명없이 사용하여 이론을 전개하기 때문에 매우 어려운 교재이다. 연습문제는 난이도가 꽤 높은 편이며 특히 심화 문제 파트는 불과 수십 년 전에 나왔던 논문을 소재로 한(...) 문제들도 있을 정도로 매우 깊고 어렵다. 2022년 2월, 푸리에 해석학과 같이 번역서 출판 소식이 나왔다. # 2023년 11월에는 번역을 감수한 서울대 김영원 교수가 본인의 강의 내용을 토대로 이 책을 해설한 강의노트를 출판하였다. 서울대학교 , KAIST , POSTECH 을 비롯한 수많은 상위권 대학들이 복소해석학 교재로 채택하고 있으나, 책의 수준이 너무나 어렵기에(...) 이들 학교에서도 수강 중 GG를 치는 이들이 적지 않을 정도로 어려운 교재이다.
+- 복소해석학개론, 고석구
+건국대학교에 재직중인 고석구 교수의 저서로 전술한 입문 교재인 처칠에 비해 조금 높은 난이도를 가지고 있다.
+
+응용에 중점을 둔다면 공업수학 이나 수리물리학 교과서 또한 참고할 만하다.
+
+[ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 확실한 지원금! 인터넷가입
+internetsignal.shop v-if
+[ [ 인터넷가입 ] [ 전국최대 ] [ 지원금받기 ] ]
+남동인터넷 비밀지원금지급 고객불만Zero 당일개통! 당일입금! 확실한 요금설계
+
+] | [ 남동인터넷 가입센터
+www.tv-road.co.kr v-if
+이달특가상품 디지털파격할인.결합상품, 와이파이공유기 제공, 설치비무료
+
+]
+
+[1] 물론 ϵ ∈ R \epsilon\in\R ϵ ∈ R 이다. [2] 이와 반대로 내부값이 같은 두 정칙 함수를 이용해서 경계나 그 외부에서 한 함수의 값을 다른 함수의 값으로 정의하는 것이 이른바 해석적 연속 으로, 이를 이용하면 모든 자연수의 합이 -1/12이라던가 하는 재미있는 결과 를 얻을 수 있다. [3] 반대로 실해석학에서의 해석함수는 지정된 정의역에서 테일러 급수가 항상 수렴하는 함수를 의미하며, 미분 가능 함수보다 범위가 좁다. 즉, 미분 가능한 함수라고 항상 해석함수인 것은 아니며, 반대로 해석함수가 아니라고 미분 불가능하다고 말할 수 없는 것. 이런 의미에서 복소함수의 해석함수는 보다 성질이 좋아서 정칙 함수라는 별도의 명칭을 붙이기도 한다. [4] 증명은 그린 정리 와 코시-리만 방정식 을 이용한다. 증명 과정은 그린 정리 항목 참조. 참고로 이 성질을 반대로 말하면 닫힌 경로에서 복소선적분을 했는데 적분값이 0이 아니라면, 그 경로 내부에는 경로를 축소하지 못하게 만드는 특이점이 존재함을 알 수 있다. 이런 특이점이 존재할 경우, 유수 라는 개념을 이용해서 복소 선적분의 값을 구할 수 있다. [5] 이런 종류의 계산은 과학/공학 계산과정에서 에서 흔히 나타나며, 특히 양자역학 과 양자장론 에서 주구장창 쓰여서 공학자나 물리학자들이 복소해석학을 익혀두는 경우가 많다. [6] 즉, 특이점이 존재하지 않는 해석적 전해석함수는 상수함수가 된다는 의미. [7] 학부 수준에서 대수학의 기본정리를 초등적으로 증명하려 도전하면 어디선가 반드시 논리상의 허점이 생긴다. 이 허점을 보완하기 위해서는 반드시 수학의 다른 영역을 사용해야 한다. 갈루아 이론을 이용한 증명조차 해석학의 정리인 중간값 정리를 이용한다. 대수학만을 이용하는 초등적 증명이 정말로 아예 불가능하지는 않으나, 학부 대수학 시간에 도저히 꺼내들 수 없는 툴을 동원해야 하기 때문에 배보다 배꼽이 더 커지므로 사실상 학부 수준에서는 복소해석학의 툴을 동원하는 것이 가장 현명한 선택이다. [8] 그 외의 특이점은 전부 제거 가능한 특이점이거나 극점이 된다. [9] 라플라스 방정식 항목에서 언급되는 최댓값 정리와 본질적으로는 동일하다. 라플라스 방정식을 만족하는 조화함수의 정의역을 2차원(정확하게는 복소 평면이나 리만 곡면)으로 둘 경우에 한해서는, 복소평면에서 정의할 때와 동일해지기 때문. [10] 그 점 만 제외한 다른 영역에서 해석적일 경우를 의미 [11] 점 k k k 가 제거 가능한 특이점이라는 것은 lim ⁡ z → k ( z − k ) f ( z ) = 0 \lim\limits_{z\to k} \,(z-k)f(z)=0 z → k lim ​ ( z − k ) f ( z ) = 0 임을 의미. [12] F ( x ) = e − s x ( s sin ⁡ x + cos ⁡ x ) s 2 + 1 + C F(x) = \dfrac{e^{-sx} (s\sin x+\cos x)}{s^2+1} +C F ( x ) = s 2 + 1 e − s x ( s sin x + cos x ) ​ + C 라고 두면, d d s I ( s ) = ∫ 0 ∞ e − s x sin ⁡ x d x = lim ⁡ x → ∞ [ F ( x ) − F ( 0 ) ] \displaystyle \frac{{\rm d}}{{\rm d}s} I(s) = \int_0^\infty e^{-sx} \sin x \,{\rm d}x = \lim_{x\to\infty} [F(x)-F(0) ] d s d ​ I ( s ) = ∫ 0 ∞ ​ e − s x sin x d x = x → ∞ lim ​ [ F ( x ) − F ( 0 )] 이므로, 적분상수가 사라져서 e − s x ( s sin ⁡ x + cos ⁡ x ) s 2 + 1 ∣ x = 0 x = ∞ = 0 1 + s 2 − 1 ⋅ ( s ⋅ 0 + 1 ) 1 + s 2 = − 1 1 + s 2 \biggl. \dfrac{e^{-sx} (s\sin x+\cos x)}{s^2+1} \biggr|_{x=0}^{x=\infty} = \dfrac0{1+s^2} -\dfrac{1 \cdot (s\cdot0+1)}{1+s^2} = -\dfrac1{1+s^2} s 2 + 1 e − s x ( s sin x + cos x ) ​ ​ x = 0 x = ∞ ​ = 1 + s 2 0 ​ − 1 + s 2 1 ⋅ ( s ⋅ 0 + 1 ) ​ = − 1 + s 2 1 ​ 가 된다. [13] z = ( x , y ) = x + i y z=(x,y)=x+iy z = ( x , y ) = x + i y 일 때, y ≥ 0 y\geq 0 y ≥ 0 인 복소평면 [14] 경로상이라고 명시한 이유는 리우빌의 정리 의 자명한 결과다. 경로 내부의 영역에서 유계라면 리우빌의 정리에 의해 상수함수밖에 될 수 없기 때문. [15] cos ⁡ x x \dfrac{\cos x}{x} x cos x ​ 는 기함수이므로 실수부는 사라진다. [16] n ∈ Z / { − 1 } n\in \mathbb{Z}/\{-1\} n ∈ Z / { − 1 } 일 때, ∫ 0 2 π ( c n e ( n + 1 ) i θ ) d θ = c n ∫ 0 2 π e ( n + 1 ) i θ d θ = c n ( n + 1 ) i e ( n + 1 ) i θ ∣ θ = 0 θ = 2 π = c n ( n + 1 ) i ( e 2 n π i − e 0 ) = c n ( n + 1 ) i ⋅ 0 = 0 \displaystyle{\int_{0}^{2\pi}\left(c_{n}e^{\left(n+1\right)i\theta}\right){\rm d}\theta=c_{n}\int_{0}^{2\pi}e^{\left(n+1\right)i\theta}{\rm d}\theta}=\left.\frac{c_{n}}{\left(n+1\right)i}e^{\left(n+1\right)i\theta}\right|^{\theta=2\pi}_{\theta=0}=\frac{c_{n}}{\left(n+1\right)i}\left(e^{2n\pi i}-e^{0}\right)=\frac{c_{n}}{\left(n+1\right)i}\cdot0=0 ∫ 0 2 π ​ ( c n ​ e ( n + 1 ) i θ ) d θ = c n ​ ∫ 0 2 π ​ e ( n + 1 ) i θ d θ = ( n + 1 ) i c n ​ ​ e ( n + 1 ) i θ ​ θ = 0 θ = 2 π ​ = ( n + 1 ) i c n ​ ​ ( e 2 nπ i − e 0 ) = ( n + 1 ) i c n ​ ​ ⋅ 0 = 0 이 되기 때문. [17] 그렇기에 Residue(잔여물), 유수(留數), 남는 수라고 표현한다. [18] 정확하게는 해당 곡선이 유수가 0이 아닌 점 을 몇 r a d \rm{rad} rad 도느냐가 영향을 끼친다. 정확하게 해석하자면 경로적분 상에서 유수가 0이 아닌 점을 시계 반대방향으로 세어 돌아간 r a d ⋅ i {\rm rad}\cdot i rad ⋅ i 만큼을 곱하는 것. 위에서 단순 폐곡선을 따라 적분시 2 π i 2\pi i 2 π i 를 곱한다고 한 것은, 단순 폐곡선이 기본적으로 반시계방향으로 1바퀴( 2 π r a d 2\pi~{\rm rad} 2 π rad )를 돌기 때문이다. 위의 증명에서 극점을 우회하는 시계방향의 반원이 유수가 B 0 B_0 B 0 ​ 일 때 − π i B 0 -\pi i B_0 − π i B 0 ​ 이라고 한 것도, 시계방향으로 반원을 돈다는 것 자체가 호도법 기준으로 − π r a d -\pi~{\rm rad} − π rad 이기 때문. [19] 즉, 둘 다 실수축의 양 옆에서 접근했다가 되튕기는 양상을 보이며, 이 두 치역집합은 서로 직교하지 않고 같은 직선상에 늘어서게 된다. 이 외에도 여러 가지 예시를 들 수 있으며, f ′ ( α ) = 0 f'\left(\alpha\right)=0 f ′ ( α ) = 0 인 점에서는 일반적으로 내각이 보존되지 않는 예외 사상이 발생한다. 그렇기 때문에 방향이 갑자기 바뀔 수 있다고 해서 변곡점이라고 붙는 것. [20] 위에서 언급했듯이 저자가 이 분야 업적으로 초대 필즈상 을 수상했으니 어찌보면 자연스러운 일이다. [21] 그래서 이 교재를 쓰는 과목은 복소해석학보다는 복소함수론이나 복소변수론 같은 이름을 주로 사용한다. [22] 지오지브라를 좋아하는 최경식, 해석학을 맛있어하는 김백진, 이예찬 교사는 세종교육청 교육공무원 발령 기사 확인 결과 세종과학예술영재학교 근무 중으로 확인된다. [23] 영어권에서는 소련-러시아 수학 서적의 영역으로 유명하다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

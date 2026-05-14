@@ -1,0 +1,148 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 가측함수
+최근 수정 시각: 2025-04-16 10:20:24 [ [ [ ] [ [ 1 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 해석학(수학)
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 정의 2.1 . 가측함수 2.2 . 단순함수 2.3 . 측도수렴 3 . 성질 3.1 . 루진 정리 3.2 . 예고로프 정리
+
+measurable function / 可 測 函 數
+
+1. 개요 [편집]
+가측함수는 역상이 가측성을 보존하는 함수로, 르베그 적분 의 대상이 된다. 가측함수는 두 가측공간(잴 수 있는 공간, measurable space) 사이에서 위상공간의 연속함수와 유사한 방식으로 정의된다.
+
+2. 정의 [편집]
+
+2.1. 가측함수 [편집]
+두 가측공간 ( X , M ) (X,\ \mathcal{M}) ( X , M ) 과 ( Y , N ) (Y,\ \mathcal{N}) ( Y , N ) 에 대하여 함수 f : X → Y f:X\to Y f : X → Y 가 임의의 E ∈ N E\in\mathcal{N} E ∈ N 에 대하여 f − 1 ( E ) ∈ M f^{-1}(E)\in\mathcal{M} f − 1 ( E ) ∈ M 을 만족시키면 f f f 를 ( M , N ) (\mathcal{M,\ N}) ( M , N ) -가측함수 라고 한다. Y Y Y 가 보렐 σ \sigma σ -대수가 주어진 실수 또는 복소수 집합인 경우 f f f 를 M \mathcal{M} M -가측함수라고 한다. 특히 ( X , M ) = ( R , L ) (X,\ \mathcal{M})=(\mathbb{R},\ \mathcal{L}) ( X , M ) = ( R , L ) 이고 ( Y , N ) = ( R , B R ) (Y,\ \mathcal{N})=(\mathbb{R},\ \mathcal{B}_{\mathbb{R}}) ( Y , N ) = ( R , B R ​ ) 일 때, f f f 를 르베그 가측 함수라고 한다. 가측함수는 X X X 의 부분집합으로 축소할 수 있다. E ⊂ X E\subset X E ⊂ X 에 대하여 모든 보렐 집합 B B B 가 f − 1 ( B ) ∩ E ∈ M f^{-1}(B)\cap E \in \mathcal{M} f − 1 ( B ) ∩ E ∈ M 이면 f f f 는 E E E 에서 가측이라고 한다. 이는 σ \sigma σ -대수 M E = { E ∩ F ∣ F ∈ M } \mathcal{M}_E=\{E\cap F\ |\ F\in \mathcal{M}\} M E ​ = { E ∩ F ∣ F ∈ M } 가 주어진 부분집합 E E E 에 대한 f f f 의 제한 사상 f ∣ E f|_E f ∣ E ​ 가 가측임과 동치이다.
+
+공역에 주어진 σ \sigma σ -대수가 생성 집합족을 갖는 경우, 함수의 가측성의 판단은 생성 집합족의 원소로 한정할 수 있다. 즉, N \mathcal{N} N 이 E \mathcal{E} E 로 생성되는 σ \sigma σ -대수일 때, 함수 f : X → Y f:X\to Y f : X → Y 가 ( M , N ) (\mathcal{M,\ N}) ( M , N ) -가측함수일 필요충분조건은 모든 E ∈ E E\in\mathcal{E} E ∈ E 에 대하여 f − 1 ( E ) ∈ M f^{-1}(E)\in\mathcal{M} f − 1 ( E ) ∈ M 인 것이다. 이로부터 몇 가지 주요한 성질을 얻을 수 있다. 첫째, 보렐 σ \sigma σ -대수는 열린집합족으로 생성되므로 두 거리(위상)공간 X X X , Y Y Y 에 모두 보렐 σ \sigma σ -대수가 주어졌을 때, 연속함수 f : X → Y f:X\to Y f : X → Y 는 ( B X , B Y ) (\mathcal{B}_X,\ \mathcal{B}_Y) ( B X ​ , B Y ​ ) -가측함수이다. 둘째, 실수의 보렐 σ \sigma σ -대수는 { ( a , ∞ ) ∣ a ∈ R } \{(a,\ \infty)\ |\ a\in\mathbb{R}\} {( a , ∞ ) ∣ a ∈ R } 로 생성되므로 M \mathcal{M} M -가측함수 f : X → R f:X\to\mathbb{R} f : X → R 를 임의의 a ∈ R a\in\mathbb{R} a ∈ R 에 대하여 f − 1 ( ( a , ∞ ) ) ∈ M f^{-1}((a,\ \infty))\in\mathcal{M} f − 1 (( a , ∞ )) ∈ M 를 만족시키는 함수 f f f 로 정의할 수 있다.
+
+2.2. 단순함수 [편집]
+지시함수 (특성함수)의 유한 선형 결합인 단순함수(simple function) 는 르베그 적분에서 중요한 역할을 한다. 리만 적분은 정의역의 적분 구간을 분할하여 리만합을 구하고 리만합에 극한을 취해 적분값을 계산한다. 반면 르베그 적분은 가측함수의 치역을 분할하여 각 분할 값과 그 역상의 측도의 곱의 합을 구하고 극한을 취해 적분값을 계산한다. 이때, 가측함수의 치역을 분할하여 얻은 함수가 단순함수이다. 단순함수 f : X → R f:X\to\mathbb{R} f : X → R 의 치역을 { a 1 , … , a n } \{a_1,\ \ldots\ ,\ a_n\} { a 1 ​ , … , a n ​ } 이라 할 때, 다음을 f f f 의 표준형이라고 한다.
+
+f = ∑ k = 1 n a k 1 E k , E k = f − 1 ( a k ) \displaystyle f=\sum_{k=1}^n a_k1_{E_k},\quad E_k=f^{-1}(a_k) f = k = 1 ∑ n ​ a k ​ 1 E k ​ ​ , E k ​ = f − 1 ( a k ​ )
+양의 실숫값을 갖는 임의의 가측함수는 단순함수열로 근사할 수 있다. 정리 가측공간 ( X , M ) (X,\ \mathcal{M}) ( X , M ) 에 대하여 함수 f : X → [ 0 , ∞ ] f:X\to[0,\ \infty] f : X → [ 0 , ∞ ] 가 가측함수이면 f f f 로 점별수렴하는 증가 단순함수열 { ϕ n } \{\phi_n\} { ϕ n ​ } 이 존재한다. { ϕ n } \{\phi_n\} { ϕ n ​ } 은 f f f 가 유계인 집합에서 f f f 로 균등수렴한다.
+
+이러한 단순함수열은 각 자연수 n n n 과 0 ≤ k ≤ 2 2 n − 1 0\leq k \leq 2^{2n}-1 0 ≤ k ≤ 2 2 n − 1 인 자연수 k k k 에 대하여 공역을 구간 I n k = ( k 2 − n , ( k + 1 ) 2 − n ] I_n^k=(k2^{-n},\ (k+1)2^{-n}] I n k ​ = ( k 2 − n , ( k + 1 ) 2 − n ] 과 J n = ( 2 n , ∞ ] J_n=(2^n,\ \infty] J n ​ = ( 2 n , ∞ ] 로 분할하여 E n k = f − 1 ( I n k ) E_n^k=f^{-1}(I_n^k) E n k ​ = f − 1 ( I n k ​ ) , F n = f − 1 ( F n ) F_n=f^{-1}(F_n) F n ​ = f − 1 ( F n ​ ) 를 얻어 다음과 같이 구성한다.
+
+ϕ n = ∑ k = 0 2 2 n − 1 k 2 − n 1 E n k + 2 n 1 F n \displaystyle\phi_n=\sum_{k=0}^{2^{2n}-1}k2^{-n}1_{E_n^k}+2^n1_{F_n} ϕ n ​ = k = 0 ∑ 2 2 n − 1 ​ k 2 − n 1 E n k ​ ​ + 2 n 1 F n ​ ​
+이 때, 각 구간 I n k I_n^k I n k ​ 와 J n J_n J n ​ 이 보렐 집합이고 함수 f f f 가 가측함수이므로 각 E n k E_n^k E n k ​ 와 F n F_n F n ​ 는 가측집합이다. 따라서 가측집합에 대한 특성함수의 유한 선형 결합인 단순함수 ϕ n \phi_n ϕ n ​ 또한 가측함수이다.
+
+2.3. 측도수렴 [편집]
+측도공간 ( X , M , μ ) (X,\ \mathcal{M},\ \mu) ( X , M , μ ) 의 가측복소함수열 { f n } \{f_n\} { f n ​ } 이 임의의 ϵ > 0 \epsilon>0 ϵ > 0 에 대하여 m , n → ∞ m,\ n\to\infty m , n → ∞ 일 때
+
+μ ( { x ∈ X : ∣ f n ( x ) − f m ( x ) ∣ ≥ ϵ } ) → 0 \mu(\{x\in X:|f_n(x)-f_m(x)|\geq \epsilon \})\to0 μ ({ x ∈ X : ∣ f n ​ ( x ) − f m ​ ( x ) ∣ ≥ ϵ }) → 0
+이면 { f n } \{f_n\} { f n ​ } 를 측도 코시 열이라고 한다. { f n } \{f_n\} { f n ​ } 가 함수 f f f 에 대하여 n → ∞ n\to\infty n → ∞ 일 때
+
+μ ( { x ∈ X : ∣ f n ( x ) − f ( x ) ∣ ≥ ϵ } ) → 0 \mu(\{x\in X:|f_n(x)-f(x)|\geq\epsilon\})\to0 μ ({ x ∈ X : ∣ f n ​ ( x ) − f ( x ) ∣ ≥ ϵ }) → 0
+이면 { f n } \{f_n\} { f n ​ } 는 f f f 로 측도수렴 한다고 한다.
+
+f n f_n f n ​ 과 g n g_n g n ​ 이 각각 f f f 와 g g g 로 측도수렴할 때, f n + g n f_n+g_n f n ​ + g n ​ 은 f + g f+g f + g 로 측도수렴한다. μ ( X ) < ∞ \mu(X)<\infty μ ( X ) < ∞ 이면 f n g n f_ng_n f n ​ g n ​ 은 f g fg f g 로 측도수렴한다. 측도 코시 함수열 { f n } \{f_n\} { f n ​ } 은 가측함수 f f f 로 측도수렴한다. 또한 f n f_n f n ​ 이 f f f 와 g g g 로 측도수렴하면 거의 어디에서나 f = g f=g f = g 이다.
+
+함수열 { f n } \{f_n\} { f n ​ } 가 f f f 로 거의 어디서나 수렴하면 { f n } \{f_n\} { f n ​ } 은 f f f 로 측도수렴한다. 따라서 다음 함의관계가 성립한다.
+
+균등수렴 ⇒ \Rightarrow ⇒ 점별수렴 ⇒ \Rightarrow ⇒ 거의 어디에서나 수렴 ⇒ \Rightarrow ⇒ 측도수렴
+그러나 그 역은 성립하지 않는다. n = 2 i + j ( 0 ≤ j < 2 i ) n=2^i+j\ (0\leq j<2^i) n = 2 i + j ( 0 ≤ j < 2 i ) 에 대하여 I n = [ j 2 i , j + 1 2 i ] I_n=\left[\dfrac{j}{2^i},\ \dfrac{j+1}{2^i}\right] I n ​ = [ 2 i j ​ , 2 i j + 1 ​ ] 라 하자. f n = 1 I n f_n=1_{I_n} f n ​ = 1 I n ​ ​ 이라 하자. 임의의 ϵ > 0 \epsilon>0 ϵ > 0 에 대하여 2 − M < ϵ 2^{-M}<\epsilon 2 − M < ϵ 인 자연수 M M M 를 택한다. n = 2 i + j > 2 M n=2^i+j>2^{M} n = 2 i + j > 2 M 일 때, { x : f n ( x ) ≥ ϵ } = I n \{x:f_n(x)\geq\epsilon\}=I_n { x : f n ​ ( x ) ≥ ϵ } = I n ​ 이고 μ ( I n ) = 2 − i \mu(I_n)=2^{-i} μ ( I n ​ ) = 2 − i 이므로 n → ∞ n\to\infty n → ∞ 에 따라 μ ( { x : f n ( x ) ≥ ϵ } ) → 0 \mu(\{x:f_n(x)\geq\epsilon\})\to0 μ ({ x : f n ​ ( x ) ≥ ϵ }) → 0 이다. 즉, { f n } \{f_n\} { f n ​ } 은 0 0 0 으로 측도수렴한다. 그러나 임의의 x ∈ [ 0 , 1 ] x\in[0,\ 1] x ∈ [ 0 , 1 ] 에 대하여 n → ∞ n\to\infty n → ∞ 에 따라 f n ( x ) f_n(x) f n ​ ( x ) 는 함숫값으로 0 0 0 과 1 1 1 을 무수히 많이 가지므로 { f n } \{f_n\} { f n ​ } 은 발산한다.
+
+측도수렴성은 거의 어디에서나 수렴성을 보장하지 못하지만 부분적인 거의 어디에서나 수렴성을 갖는다. 즉, { f n } \{f_n\} { f n ​ } 이 f f f 로 측도수렴하면 f f f 로 거의 어디에서나 수렴하는 부분수열 { f n k } \{f_{n_k}\} { f n k ​ ​ } 가 존재한다.
+
+3. 성질 [편집]
+M \mathcal{M} M -가측함수는 다음과 같은 성질을 갖는다. - f , g : X → R ‾ f,\ g:X\to\overline{\mathbb{R}} f , g : X → R 가 M \mathcal{M} M -가측이면 f + g , f g f+g,\ fg f + g , f g 도 M \mathcal{M} M -가측이다.
+- 각 n n n 에 대하여 함수 f n n : ( X , M ) → R ‾ f_nn:(X,\ \mathcal{M})\to\overline{\mathbb{R}} f n ​ n : ( X , M ) → R 가 가측함수일 때, 다음 함수는 모두 가측이다. - sup ⁡ n ∈ N f n ( x ) \sup\limits_{n\in\mathbb{N}}f_n(x) n ∈ N sup ​ f n ​ ( x )
+- inf ⁡ n ∈ N f n ( x ) \inf\limits_{n\in\mathbb{N}}f_n(x) n ∈ N in f ​ f n ​ ( x )
+- lim sup ⁡ n → ∞ f n ( x ) \limsup\limits_{n\to\infty}f_n(x) n → ∞ lim sup ​ f n ​ ( x )
+- lim inf ⁡ n → ∞ f n ( x ) \liminf\limits_{n\to\infty}f_n(x) n → ∞ lim inf ​ f n ​ ( x )
+
+성질 b.를 활용하여 다양한 결과를 얻을 수 있다. - 가측함수열 { f n } \{f_n\} { f n ​ } 가 함수 f f f 로 점별수렴할 때, f f f 는 M \mathcal{M} M -가측함수이다.
+- 집합 { x ∈ X ∣ f n ( x ) converges } \{x\in X\ |\ f_n(x)\text{ converges}\} { x ∈ X ∣ f n ​ ( x ) converges } 는 M \mathcal{M} M 의 가측집합이다.
+- 두 함수 f , g : X → R ‾ f,\ g:X\to\overline{\mathbb{R}} f , g : X → R 가 M \mathcal{M} M -가측이면 max ⁡ ( f , g ) \max(f,\ g) max ( f , g ) 와 min ⁡ ( f , g ) \min(f,\ g) min ( f , g ) 도 M \mathcal{M} M -가측함수이다. - 함수 f : X → R ‾ f:X\to\overline{\mathbb{R}} f : X → R 가 M \mathcal{M} M -가측이면 f f f 의 양수 부분 f + ( x ) = max ⁡ ( f ( x ) , 0 ) f^+(x)=\max(f(x),\ 0) f + ( x ) = max ( f ( x ) , 0 ) 과 음수 부분 f − ( x ) = max ⁡ ( − f ( x ) , 0 ) f^-(x)=\max(-f(x),\ 0) f − ( x ) = max ( − f ( x ) , 0 ) 도 M \mathcal{M} M -가측이다.
+
+가측공간 ( X , M ) (X,\ \mathcal{M}) ( X , M ) 에 완비측도 μ \mu μ 가 주어졌을 때, 다음 성질이 성립한다. - 가측함수 f f f 에 대하여 f = g μ -a.e. f=g\ \mu\text{-a.e. } f = g μ -a.e. 이면 g g g 는 가측함수이다.
+- 가측함수열 { f n } \{f_n\} { f n ​ } 이 함수 f f f 로 a.e.- \text{a.e.-} a.e.- 수렴할 때, f f f 는 M \mathcal{M} M -가측함수이다.
+
+가측함수는 연속성과 균등수렴성을 거의 어디에서나 갖는다. 구체적으로 다음이 성립한다.
+
+3.1. 루진 정리 [편집]
+루진 정리 (Lusin's theorem) 르베그 가측함수 f : [ a , b ] → C f:[a,\ b]\to\mathbb{C} f : [ a , b ] → C 와 ϵ > 0 \epsilon>0 ϵ > 0 에 대하여 다음 조건을 만족시키는 컴팩트 집합 E ⊆ [ a , b ] E\subseteq[a,\ b] E ⊆ [ a , b ] 가 존재한다.
+
+m ( E c ) < ϵ m(E^c)<\epsilon m ( E c ) < ϵ 이고 f ∣ E f|_E f ∣ E ​ 는 연속함수이다.
+
+3.2. 예고로프 정리 [편집]
+예고로프 정리 (Egorov’s theorem) 유한측도공간 ( X , μ ) (X,\ \mu) ( X , μ ) 위에서 정의된 가측복소함수열 { f n } \{f_n\} { f n ​ } 이 f f f 로 a.e. \text{a.e.} a.e. -수렴한다. 그러면 임의의 ϵ > 0 \epsilon>0 ϵ > 0 에 대하여 다음 조건을 만족시키는 μ ( E ) < ϵ \mu(E)<\epsilon μ ( E ) < ϵ 인 E ⊆ X E\subseteq X E ⊆ X 가 존재한다.
+
+E c E^c E c 에서 { f n } \{f_n\} { f n ​ } 은 f f f 로 균등수렴한다.
+
+이 문서의 내용 중 전체 또는 일부는 측도 문서의 r152 판, 2.3번 문단 에서 가져왔습니다. 이전 역사 보러 가기
+[ 하나로퀵에서 남동구퀵서비스
+1577-3410.com
+[ [ 하나로퀵업체 ] [ 화물퀵서비스 ] [ 법인신청접수 ] [ 하나로퀵후기 ] ]
+오토바이배달 서울, 바이크퀵 24시간, 서류배송 퀵, 소포퀵 저렴, 급한퀵 실시간
+
+] | [ 남동구퀵배송 퀵브라더스
+www.1599-8330.com v-if
+[ [ 착한요금 ] [ 전국배송 ] [ ktx특송퀵 ] [ 버스.항공퀵 ] ]
+전국 어디든지 구석구석 당일배송, 저렴한요금, 카드결제OK, 친절상담, 비밀엄수
+
+] | [ 한국로지스 !친절배송!
+www.18332442.co.kr v-if
+한국로지스, 포장이사, 리프트화물, 용달, 전국당일특송 365일 가능합니다.
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

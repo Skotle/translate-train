@@ -1,0 +1,345 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 스핀(물리학)
+최근 수정 시각: 2026-02-20 10:59:32 [ [ [ ] [ [ 16 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 물리량
+- 양자역학
+]
+
+[ [ ] [ 양자역학 Quantum Mechanics
+[ 펼치기 · 접기 ] 배경 | 흑체복사 · 이중슬릿 실험 · 광전효과 · 콤프턴 산란 · 보어의 원자 모형 · 물질파 · 데이비슨-저머 실험 · 불확정성 원리 · 슈테른-게를라흐 실험 · 프랑크-헤르츠 실험
+이론 체계 | 체계 플랑크 상수 ( 플랑크 단위계 ) · 공리 · 슈뢰딩거 방정식 · 파동함수 · 연산자 ( 해밀토니언 · 선운동량 · 각운동량 ) · 스핀 ( 스피너 ) · 파울리 배타 원리 해석 코펜하겐 해석 ( 보어-아인슈타인 논쟁 ) · 숨은 변수 이론 ( EPR 역설 · 벨의 부등식 · 광자 상자 ) · 다세계 해석 · 앙상블 해석 · 서울 해석 묘사 묘사 ( 슈뢰딩거 묘사 · 하이젠베르크 묘사 · 디랙 묘사) · 행렬역학
+연관 학문 | 천체물리학 ( 천문학 틀 · 우주론 · 양자블랙홀 · 중력 특이점 ) · 핵물리학 틀 ( 원자력 공학 틀 ) · 응집물질물리학 틀 · 컴퓨터 과학 틀 ( 양자컴퓨터 · 양자정보과학 ) · 통계역학 틀 · 양자화학 ( 물리화학 틀 ) · 입자물리학 ( 입자물리학 틀 )
+현상 · 응용 | 양자요동 · 양자 얽힘 · 양자 터널링 · 퍼텐셜 우물 · 양자 조화 진동자 · 오비탈 · 수소 원자 모형 · 쌓음 원리 · 훈트 규칙 · 섭동 ( 스핀 - 궤도 결합 · 제이만 효과 · 슈타르크 효과 · 헬만-파인만 정리 ) · 선택 규칙 · 변분 원리 · WKB 근사법 · 시간 결정 · 보스-아인슈타인 응집 · 솔리톤 · 카시미르 효과 · 아하로노프-봄 효과 · 블랙홀 정보 역설 · 양자점 · 하트리-포크 방법 · 밀도범함수 이론 · 준위 · 양자장론 ( 양자전기역학 · 양자색역학 ) · 뤼드베리 방정식 · 체렌코프 현상
+기타 | 군론 · 기본 입자 · 대칭성 · 비리얼 정리 · 리만 가설 · 매듭이론 · 밀도행렬 · 물질 · 방사선 ( 반감기 ) · 라플라스의 악마 · 슈뢰딩거의 고양이 ( 위그너의 친구 )
+문헌 | 교재 · 분류:물리학술지
+
+1 . 개요 2 . 회전과의 관계 3 . 입자별 스핀 4 . 스핀의 도입 5 . 스핀 각운동량 연산자 6 . 스핀 ½인 계 6.1 . 고유함수 6.2 . 상태의 중첩과 확률 6.3 . 임의의 방향에 대한 스핀 6.4 . 스핀과 자기 쌍극자 모멘트 6.4.1 . 균일한 자기장 내의 스핀의 세차 운동 6.5 . 두 스핀의 덧셈 7 . 기타 8 . 둘러보기
+
+1. 개요 [편집]
+스핀 (spin)은 실제 회전 운동과는 관련 없이 입자 가 내재적으로 가지는 고유 각운동량 이다. 실제 회전과 관련이 없기 때문에 스핀이라는 고유 용어로 부르는 것이다.
+
+2. 회전과의 관계 [편집]
+스핀에 대해 설명하기에 앞서 각운동량과 이에 대한 연관성을 먼저 알아야 한다.
+
+고전역학 에서 각운동량 을 언급하면 보통 궤도 각운동량을 말한다. 이는 달이 지구 주위를 돌듯이, 입자가 하나의 기준점을 두고 그 주위를 공전 하고 있는 상태라고 보면 된다.
+
+이 궤도 각운동량은 양자역학에서도 계산할 수 있다. [1] 수소 원자에서의 전자를 예로 들자면, 전자가 원자핵을 공전하며 나타나는 궤도 각운동량이 있다. 물론 이는 비유일 뿐이며, 양자역학에서는 입자의 위치나 운동량이 결정되어 있지 않으므로 말 그대로 전자가 빙글빙글 돌아서 각운동량이 생긴다는 것은 아니다. 다만 직관적으로는 고전물리학에 비유해도 큰 지장은 없다.
+
+일반적으로 전하를 가진 입자는 자신의 궤도 각운동량에 따라 자석처럼 변한다. (고등학교 물리학 시간에 배운, 원형 도선과 솔레노이드 의 전자기 유도를 생각해보자.) 이를 자기 모멘트 라고 한다. 그래서 많은 학자들이 당연히 전자에서 자기 모멘트가 발생하는 경우도 이 궤도 각운동량 때문이라고 여겼다. 하지만 직접 실험한 결과, 전혀 다른 현상이 나타났다. 이는 전자의 각운동량이 궤도 각운동량이 아니라 다른 종류의 각운동량이라는 점을 시사했고, 당시에는 이 각운동량이 전자의 자전 에서 기인한 것이라고 생각하여, 물리학자들은 스핀(spin)이라는 이름을 붙였다. 즉 하나의 입자가 궤도 각운동량만이 아니라 자기자신을 축으로 삼고 회전하는 또 다른 각운동량인 '스핀'도 갖는다는 것이다.
+
+그러나 다시 시간이 흘러, 실제로 전자가 자전할 수는 없다는 사실이 나타났다. [2] 하지만 그렇다고 스핀의 존재를 부정할 수도 없었다. 그래서 물리학자들은 위그너 분류를 통해 스핀이라는 각운동량을 팽이가 회전하는 것처럼 실질적으로 회전하는 것이라 여기지 않고, 전하나 질량 같은, 입자의 기본성질 중의 하나로 보고 있다. [3] 마치 양자역학에서 전자가 궤도 각운동량을 갖고 있다고 해서 전자가 거시 세계의 물체가 다른 물체를 공전하듯이 원자핵 주변을 돌고 있다고 생각하면 문제가 생기는 것처럼 말이다.
+
+다시 말해, 스핀이라는 각운동량은 입자의 궤도, 위치, 운동량과는 전혀 관계 없이, 입자 자체에 내재된 성질 자체인 것이다. 그래서 스핀은 다른 양자 연산자들과 달리 고전물리학에 대응하는 존재가 아예 없다. 그렇기 때문에 이론적 예측보다 실험적 관찰이 먼저 이루어진 것.
+
+보통은 이해를 돕기 위해 스핀을 전자의 자전이라고 많이들 설명하긴 하지만, 조금 더 파고들면 이해하기 더욱 어려워진다.
+
+스핀이 1이라는 것은 1바퀴를 돌았을 때 돌기 전 원래 상태로 돌아오는 것을 말한다. 다시 말해 360도를 돌면 1바퀴 돌기 전 상태로 돌아오는 것이다. 거시 세계의 모든 것들은 이와 같다. 그러나 스핀 값은 1만 가능한 게 아니고 2, 0, 심지어 1 / 2 1/2 1/2 등 여러 가지가 있다. 한 바퀴가 아니라 2바퀴를 돌아야 돌기 전 상태로 돌아오는 것은 거시 세계에서 상상하기 어렵다. (반 바퀴는 그냥 흔한 회전 대칭이다.) 그러나 입자가 아니라 띠 구조를 찾아보면 거시 세계 에서도 찾기 어려운 구조 는 아니다.
+
+이 스핀은 우리가 말하는 자기모멘트, 자기장의 원인이다. 한마디로 자석이 생기는 이유이다. 하지만 실제 물질에서 결정 구조와 전자 배치를 포함한 수많은 전자의 극도로 복잡한 상호작용 때문에 거시적인 자기적 특성을 예측하고 계산하는 것은 여전히 현대 물리학과 재료 과학의 큰 도전 과제다.
+
+영구자석 의 원리를 근본적으로 설명할 때 필요한 개념이다. 전류 없이 자성을 띠는 이유를 전자기학 수준에서는 설명할 수 없기 때문.
+
+3. 입자별 스핀 [편집]
+전자 , 양성자 , 중성자 등 스핀이 반정수 [4] ( 1 / 2 1/2 1/2 , 3 / 2 3/2 3/2 , 5 / 2 5/2 5/2 , ⋯ \cdots ⋯ )인 입자들은 페르미-디랙 통계를 따르는 페르미온 이며, 광자 등 스핀이 정수 (0, 1, 2, ⋯ \cdots ⋯ )인 입자들은 보스-아인슈타인 통계를 따르는 보손 이라는 스핀-통계 정리가 있다. 비상대론적 양자역학에서 이 스핀-통계 정리는 그냥 받아들여야 하지만, 상대론적 양자역학 에서는 증명할 수 있게 된다. 참고로 표준모형에서 페르미온 기본입자들( 전자 , 뮤온 , 타우온 , 중성미자 , 쿼크 )은 모두 스핀 1 / 2 1/2 1/2 을 지니며, 게이지 보손 (광자, W 보손, Z 보손, 글루온)은 모두 스핀 1을 지니고, 힉스 보손 은 스핀 0을 지닌다.
+
+4. 스핀의 도입 [편집]
+자세한 내용은 슈테른-게를라흐 실험 문서를 참고하십시오. 스핀은 슈테른-게를라흐 실험 의 결과에서 도입되었다.
+
+5. 스핀 각운동량 연산자 [편집]
+각운동량 연산자 로 부터 궤도 각운동량 연산자 L ^ {\mathbf{\hat L}} L ^ 를 다뤘다. 여기서 다룬 사실은 스핀 각운동량 연산자 S ^ \mathbf{\hat{S}} S ^ 에 대해서도 성립한다고 가정한다. 이때, 궤도 각운동량에서의 두 양자수 ( l , m l ) (l,\,m_{l}) ( l , m l ​ ) 은 ( s , m s ) (s,\,m_{s}) ( s , m s ​ ) 에 대응된다. 따라서
+
+S ^ 2 ∣ s , m s ⟩ = ℏ 2 s ( s + 1 ) ∣ s , m s ⟩ S ^ z ∣ s , m s ⟩ = m s ℏ ∣ s , m s ⟩ \displaystyle \begin{aligned} \hat{S}^{2}| s,\,m_{s} \rangle &=\hbar^2 s(s+1)| s,\,m_{s} \rangle \\ \hat{S}_{z}| s,\,m_{s} \rangle &=m_{s}\hbar| s,\,m_{s} \rangle \end{aligned} S ^ 2 ∣ s , m s ​ ⟩ S ^ z ​ ∣ s , m s ​ ⟩ ​ = ℏ 2 s ( s + 1 ) ∣ s , m s ​ ⟩ = m s ​ ℏ∣ s , m s ​ ⟩ ​
+스핀 궤도 각운동량 연산자에서는 궤도 각운동량 연산자과 달리 s s s 가 반정수인 것을 허용하게 된다. 교환자 관계 또한
+
+[ S ^ k , S ^ l ] = ∑ m i ℏ ε k l m S ^ m [ S ^ 2 , S ^ k ] = 0 \displaystyle \begin{aligned} [\hat{S}_{k},\,\hat{S}_{l}]& =\sum_{m} i\hbar \varepsilon_{klm} \hat{S}_{m} \\ [\hat{S}^{2},\,\hat{S}_{k}]&=0 \end{aligned} [ S ^ k ​ , S ^ l ​ ] [ S ^ 2 , S ^ k ​ ] ​ = m ∑ ​ i ℏ ε k l m ​ S ^ m ​ = 0 ​
+등이 성립한다.
+
+6. 스핀 ½인 계 [편집]
+많은 물리학적 문제에서는 스핀 1 / 2 1/2 1/2 인 계를 중요하게 여긴다. 그 이유는 페르미온 의 대표적인 예가 전자이고, 이 전자의 스핀이 1 / 2 1/2 1/2 이기 때문이다. 해당 입자가 '두 번' 회전해야 원래 상태로 돌아온다는 것을 의미한다.
+
+6.1. 고유함수 [편집]
+이러한 스핀은 공간적인 성질과 무관하기 때문에 많은 양자역학 문제에서 사용했던 공간적 파동함수를 사용할 수 없다. 그렇기에 순수 선형대수학 으로 접근한다. 스핀이 1 / 2 1/2 1/2 일 때, 가능한 S z S_z S z ​ 는 ± ℏ / 2 \pm \hbar/2 ± ℏ/2 이다. 즉, 두 개의 준위를 갖는다. 따라서 고유함수를 생각하기 위해 2차원 벡터 공간( R 2 \mathbb{R}^2 R 2 )을 생각하는데, 그 기저를
+
+χ + = [ 1 0 ] χ − = [ 0 1 ] \begin{aligned} \chi_{+}&=\begin{bmatrix} 1 \\0 \end{bmatrix} \\ \chi_{-}&=\begin{bmatrix} 0 \\1 \end{bmatrix} \end{aligned} χ + ​ χ − ​ ​ = [ 1 0 ​ ] = [ 0 1 ​ ] ​
+로 잡자. 사실 기저의 선택은 자유이나, 정규직교화된 기저를 원하고, 계산의 용의성을 위해 가장 간단한 기저를 원하므로 위와 같이 잡았다. 이때, 각각은 다음과 같은 고유치 방정식을 만족시킨다고 하자. 또한 χ + = ∣ ⁣ ↑ ⟩ \chi_{+}=|\! \uparrow\, \rangle χ + ​ = ∣ ↑ ⟩ [5] , χ − = ∣ ⁣ ↓ ⟩ \chi_{-}=|\! \downarrow\, \rangle χ − ​ = ∣ ↓ ⟩ 로 나타내기도 하며, 각 상태를 스핀 up 상태, 스핀 down 상태라 부른다.
+
+S ^ z χ ± = ± ℏ 2 χ ± \begin{aligned} \hat{S}_{z} \chi_{\pm}=\pm \frac{\hbar}{2}\chi_{\pm} \end{aligned} S ^ z ​ χ ± ​ = ± 2 ℏ ​ χ ± ​ ​
+이러면 쉽게 한 축에 대한 스핀 각운동량 연산자를
+
+S ^ z = ℏ 2 [ 1 0 0 − 1 ] \begin{aligned} \hat{S}_{z}=\frac{\hbar}{2}\begin{bmatrix} 1 ~ &0\\0 ~ & -1 \end{bmatrix} \end{aligned} S ^ z ​ = 2 ℏ ​ [ 1 0 ​ 0 − 1 ​ ] ​
+으로 구할 수 있다. 이제 다른 축 성분을 구해보자. 이를 쉽게 구하기 위해, 궤도 각운동량 연산자를 분석할 때 도입했던 올림 연산자와 내림 연산자 를 도입한다.
+
+S ^ + = S ^ x + i S ^ y S ^ − = S ^ x − i S ^ y \begin{aligned} \hat{S}_{+}&=\hat{S}_{x}+i\hat{S}_y \\ \hat{S}_{-}&=\hat{S}_{x}-i\hat{S}_y \end{aligned} S ^ + ​ S ^ − ​ ​ = S ^ x ​ + i S ^ y ​ = S ^ x ​ − i S ^ y ​ ​
+를 도입하고, S ^ + ∣ s , m s ⟩ = ℏ [ ( s − m s ) ( s + m s + 1 ) ] 1 / 2 ∣ s , m s + 1 ⟩ S ^ − ∣ s , m s ⟩ = ℏ [ ( s + m s ) ( s − m s + 1 ) ] 1 / 2 ∣ s , m s − 1 ⟩ \begin{aligned} \hat{S}_{+}| s,\,m_{s} \rangle=\hbar[(s-m_{s})(s+m_{s}+1) ]^{1/2} | s,\,m_{s}+1 \rangle \\ \hat{S}_{-}| s,\,m_{s} \rangle=\hbar[(s+m_{s})(s-m_{s}+1) ]^{1/2} | s,\,m_{s}-1 \rangle\end{aligned} S ^ + ​ ∣ s , m s ​ ⟩ = ℏ [( s − m s ​ ) ( s + m s ​ + 1 ) ] 1/2 ∣ s , m s ​ + 1 ⟩ S ^ − ​ ∣ s , m s ​ ⟩ = ℏ [( s + m s ​ ) ( s − m s ​ + 1 ) ] 1/2 ∣ s , m s ​ − 1 ⟩ ​
+
+임을 이용하면
+
+S ^ + χ − = ℏ χ + S ^ − χ + = ℏ χ − \begin{aligned} \hat{S}_{+} \chi_{-}&=\hbar \chi_{+} \\ \hat{S}_{-} \chi_{+}&=\hbar \chi_{-} \end{aligned} S ^ + ​ χ − ​ S ^ − ​ χ + ​ ​ = ℏ χ + ​ = ℏ χ − ​ ​
+이다. 따라서 올림 연산자와 내림 연산자를 각각 구하면,
+
+S ^ + = ℏ [ 0 1 0 0 ] S ^ − = ℏ [ 0 0 1 0 ] \begin{aligned} \hat{S}_{+}&=\hbar \begin{bmatrix} 0 ~ &1\\0 ~ & 0 \end{bmatrix} \\\hat{S}_{-}&=\hbar \begin{bmatrix} 0 ~ &0\\1 ~ & 0 \end{bmatrix} \end{aligned} S ^ + ​ S ^ − ​ ​ = ℏ [ 0 0 ​ 1 0 ​ ] = ℏ [ 0 1 ​ 0 0 ​ ] ​
+한편, 2 S ^ x = S ^ + + S ^ − 2\hat{S}_{x}=\hat{S}_{+}+\hat{S}_{-} 2 S ^ x ​ = S ^ + ​ + S ^ − ​ , 2 i S ^ y = S ^ + − S ^ − 2i\hat{S}_{y}=\hat{S}_{+}-\hat{S}_{-} 2 i S ^ y ​ = S ^ + ​ − S ^ − ​ 임을 이용하여 이상의 결과를 모두 정리하여 다음을 얻는다.
+
+S ^ x = ℏ 2 [ 0 1 1 0 ] S ^ y = ℏ 2 [ 0 − i i 0 ] S ^ z = ℏ 2 [ 1 0 0 − 1 ] \begin{aligned} \hat{S}_{x}&=\frac{\hbar}{2} \begin{bmatrix} 0 ~ &1\\1 ~ & 0 \end{bmatrix} \\\hat{S}_{y}&=\frac{\hbar}{2} \begin{bmatrix} 0 ~ &-i\\i ~ & 0 \end{bmatrix} \\ \hat{S}_{z}&=\frac{\hbar}{2} \begin{bmatrix} 1 ~ &0\\0 ~ & -1 \end{bmatrix} \end{aligned} S ^ x ​ S ^ y ​ S ^ z ​ ​ = 2 ℏ ​ [ 0 1 ​ 1 0 ​ ] = 2 ℏ ​ [ 0 i ​ − i 0 ​ ] = 2 ℏ ​ [ 1 0 ​ 0 − 1 ​ ] ​
+이 때 나온 세 행렬
+
+σ x = [ 0 1 1 0 ] σ y = [ 0 − i i 0 ] σ z = [ 1 0 0 − 1 ] \begin{aligned} \boldsymbol{\sigma_{x}}&= \begin{bmatrix} 0 ~ &1\\1 ~ & 0 \end{bmatrix} \\\boldsymbol{\sigma_{y}}&= \begin{bmatrix} 0 ~ &-i\\i ~ & 0 \end{bmatrix} \\ \boldsymbol{\sigma_{z}}&= \begin{bmatrix} 1 ~ &0\\0 ~ & -1 \end{bmatrix} \end{aligned} σ x ​ σ y ​ σ z ​ ​ = [ 0 1 ​ 1 0 ​ ] = [ 0 i ​ − i 0 ​ ] = [ 1 0 ​ 0 − 1 ​ ] ​
+를 파울리 행렬 (Pauli matrix)이라 한다. 파울리 행렬은 다음과 같은 성질이 있다. - σ x 2 = σ y 2 = σ z 2 = I \boldsymbol{\sigma_{x}}^{2}=\boldsymbol{\sigma_{y}}^{2}=\boldsymbol{\sigma_{z}}^{2}=\pmb{\mathsf{I}} σ x ​ 2 = σ y ​ 2 = σ z ​ 2 = I
+- σ i σ j = δ i j I + i ε i j k σ k \boldsymbol{\sigma_{i}}\boldsymbol{\sigma_{j}}=\delta_{ij}\pmb{\mathsf{I}}+i\varepsilon_{ijk}\boldsymbol{\sigma_{k}} σ i ​ σ j ​ = δ ij ​ I + i ε ij k ​ σ k ​
+
+여기서 I \pmb{\mathsf{I}} I 는 2 × 2 2 \times 2 2 × 2 단위행렬이다.
+
+이 결과로부터 S ^ 2 \hat{S}^{2} S ^ 2 를 바로 구할 수 있는데,
+
+S ^ 2 = S ^ x 2 + S ^ y 2 + S ^ z 2 = 3 4 ℏ 2 I = 3 4 ℏ 2 [ 1 0 0 1 ] \begin{aligned} \hat{S}^{2}&=\hat{S}_{x}^{2}+\hat{S}_{y}^{2}+\hat{S}_{z}^{2} \\&=\frac{3}{4}\hbar^2\pmb{\mathsf{I}} \\&=\frac{3}{4}\hbar^2\begin{bmatrix} 1 ~ &0\\0 ~ & 1 \end{bmatrix} \end{aligned} S ^ 2 ​ = S ^ x 2 ​ + S ^ y 2 ​ + S ^ z 2 ​ = 4 3 ​ ℏ 2 I = 4 3 ​ ℏ 2 [ 1 0 ​ 0 1 ​ ] ​
+
+만약 스핀 1인 계를 다룬다면, 그 기저를 어떻게 구성해야 하는가? 이는 위 과정 속에 그 답이 나와있다. 3차원 벡터공간( R 3 \mathbb{R}^3 R 3 )에서 정규직교 기저를 잡은 후 동일하게 그 이론을 전개해나가면 된다. 이때, 관련된 스핀 연산자들은 모두 3 × 3 3 \times 3 3 × 3 정사각행렬로 나타나게 될 것이다.
+
+6.2. 상태의 중첩과 확률 [편집]
+스핀이 1 / 2 1/2 1/2 인 어떤 입자의 한 축에 대한 스핀 각운동량의 성분을 측정할 경우 측정을 하기 전엔 두 기저의 선형결합으로 상태가 중첩되어 있다.
+
+∣ ψ ⟩ = a ∣ ⁣ ↑ ⟩ + b ∣ ⁣ ↓ ⟩ \begin{aligned} |\psi \rangle =a|\! \uparrow \,\rangle+b|\!\downarrow \,\rangle \end{aligned} ∣ ψ ⟩ = a ∣ ↑ ⟩ + b ∣ ↓ ⟩ ​
+이 때에도 규격화 조건
+
+⟨ ψ ∣ ψ ⟩ = ∣ a ∣ 2 + ∣ b ∣ 2 = 1 \begin{aligned} \langle \psi|\psi \rangle=|a|^2+|b|^2=1 \end{aligned} ⟨ ψ ∣ ψ ⟩ = ∣ a ∣ 2 + ∣ b ∣ 2 = 1 ​
+을 만족시켜야 한다.
+
+만약 이 계에서 한 축에 대한 스핀 각운동량의 성분이 + ℏ / 2 +\hbar/2 + ℏ/2 로 관측하게 될 확률은 P [ ↑ ] = ∣ ⟨ ↑ ⁣ ∣ ψ ⟩ ∣ 2 = ∣ a ∣ 2 P[\,\uparrow\,]=|\langle \, \uparrow \!|\psi \rangle|^2=|a|^2 P [ ↑ ] = ∣ ⟨ ↑ ∣ ψ ⟩ ∣ 2 = ∣ a ∣ 2 으로 이때까지 했던 것과 동일하다.
+
+여기서 나온 ∣ ψ ⟩| \psi \rangle ∣ ψ ⟩ 를 스피너(spinor) 라 부른다.
+
+6.3. 임의의 방향에 대한 스핀 [편집]
+위의 과정을 통해 S ^ 2 \hat{S}^2 S ^ 2 과 S ^ z \hat{S}_{z} S ^ z ​ 에 대한 고윳값과 고유함수를 구하였다. 그럼 임의의 방향에 대한 스핀 각운동량의 측정은 어떻게 해야하는가? 예를 들어 x x x 축 성분을 측정했을 때는 어떻게 되는가?
+
+이를 위해서는 해당 방향에 해당하는 스핀 연산자를 만들어야 한다. 해당 방향을 e n \mathbf{e}_{n} e n ​ 이라 하자. 그렇다면, 측정하기 원하는 가측량의 연산자는
+
+S ^ ⋅ e n \begin{aligned} \mathbf{\hat{S}}\boldsymbol{\cdot} \mathbf{e}_{n} \end{aligned} S ^ ⋅ e n ​ ​
+이 된다. 한편, e n = e x sin ⁡ θ cos ⁡ ϕ + e y sin ⁡ θ sin ⁡ ϕ + e z cos ⁡ θ \begin{aligned} \mathbf{e}_{n}=\mathbf{e}_{x}\sin{\theta}\cos{\phi}+\mathbf{e}_{y}\sin{\theta}\sin{\phi}+ \mathbf{e}_{z}\cos{\theta}\end{aligned} e n ​ = e x ​ sin θ cos ϕ + e y ​ sin θ sin ϕ + e z ​ cos θ ​
+
+로 쓸 수 있기 때문에 S ^ ⋅ e n = ℏ 2 ( σ x sin ⁡ θ cos ⁡ ϕ + σ y sin ⁡ θ sin ⁡ ϕ + σ z cos ⁡ θ ) = ℏ 2 [ cos ⁡ θ e − i ϕ sin ⁡ θ e i ϕ sin ⁡ θ − cos ⁡ θ ] \begin{aligned} \mathbf{\hat{S}}\boldsymbol{\cdot} \mathbf{e}_{n} &= \frac{\hbar}{2} (\sigma_{x}\sin{\theta}\cos{\phi}+\sigma_{y}\sin{\theta}\sin{\phi}+\sigma_{z}\cos{\theta}) \\ &=\frac{\hbar}{2}\begin{bmatrix} \cos{\theta} ~ &e^{-i\phi}\sin{\theta} \\e^{i\phi}\sin{\theta} ~ & -\cos{\theta} \end{bmatrix} \end{aligned} S ^ ⋅ e n ​ ​ = 2 ℏ ​ ( σ x ​ sin θ cos ϕ + σ y ​ sin θ sin ϕ + σ z ​ cos θ ) = 2 ℏ ​ [ cos θ e i ϕ sin θ ​ e − i ϕ sin θ − cos θ ​ ] ​
+
+물리량이 가측한다는 것은 곧 위 행렬을 대각화시키는 고윳값을 측정하는 것과 동치이다. 또한 그 고유벡터는 계의 고유상태가 된다. 따라서 이 문제는 위 행렬에 대한 고윳값 문제로 대치된다. 그 고윳값을 λ \lambda λ 라 놓았을 때, 다음의 영년 방정식 ∣ ℏ 2 cos ⁡ θ − λ ℏ 2 ⋅ e − i ϕ sin ⁡ θ ℏ 2 ⋅ e i ϕ sin ⁡ θ − ℏ 2 cos ⁡ θ − λ ∣ = 0 \begin{aligned} \begin{vmatrix} \dfrac{\hbar}{2}\cos{\theta}-\lambda ~ &\dfrac{\hbar}{2}\cdot e^{-i\phi}\sin{\theta} \\ \\ \dfrac{\hbar}{2} \cdot e^{i\phi}\sin{\theta} ~ & -\dfrac{\hbar}{2} \cos{\theta}-\lambda \end{vmatrix}=0 \end{aligned} ​ 2 ℏ ​ cos θ − λ 2 ℏ ​ ⋅ e i ϕ sin θ ​ 2 ℏ ​ ⋅ e − i ϕ sin θ − 2 ℏ ​ cos θ − λ ​ ​ = 0 ​
+
+이때, 고윳값은 λ = ± ℏ / 2 \lambda=\pm \hbar/2 λ = ± ℏ/2 가 나오게 된다. 따라서 각 경우에 대해 그 고유벡터를 다음과 같이 구할 수 있다. ∣ ⁣ ↑ ⟩ e n = [ exp ⁡ ( − i ϕ 2 ) cos ⁡ ( θ 2 ) exp ⁡ ( i ϕ 2 ) sin ⁡ ( θ 2 ) ] ∣ ⁣ ↓ ⟩ e n = [ − exp ⁡ ( − i ϕ 2 ) sin ⁡ ( θ 2 ) exp ⁡ ( i ϕ 2 ) cos ⁡ ( θ 2 ) ] \begin{aligned} |\! \uparrow \, \rangle_{\mathbf{e}_{n}}&=\begin{bmatrix} \exp{\biggl( -\dfrac{i \phi}{2} \biggr)} \cos{\biggl( \dfrac{\theta}{2} \biggr)}\\ \\ \exp{\biggl( \dfrac{i \phi}{2} \biggr)} \sin{\biggl( \dfrac{\theta}{2} \biggr)} \end{bmatrix} \\ |\! \downarrow \, \rangle_{\mathbf{e}_{n}}&=\begin{bmatrix} -\exp{\biggl( -\dfrac{i \phi}{2} \biggr)} \sin{\biggl( \dfrac{\theta}{2} \biggr)}\\ \\ \exp{\biggl( \dfrac{i \phi}{2} \biggr)} \cos{\biggl( \dfrac{\theta}{2} \biggr)} \end{bmatrix} \end{aligned} ∣ ↑ ⟩ e n ​ ​ ∣ ↓ ⟩ e n ​ ​ ​ = ​ exp ( − 2 i ϕ ​ ) cos ( 2 θ ​ ) exp ( 2 i ϕ ​ ) sin ( 2 θ ​ ) ​ ​ = ​ − exp ( − 2 i ϕ ​ ) sin ( 2 θ ​ ) exp ( 2 i ϕ ​ ) cos ( 2 θ ​ ) ​ ​ ​
+
+두 고유벡터는 정규직교화된 것을 쉽게 증명할 수 있다. 이때 위에서 나온
+
+위 결과를 통해 S ^ x \hat{S}_{x} S ^ x ​ , S ^ y \hat{S}_{y} S ^ y ​ 에 대한 고유값은 모두 ± ℏ / 2 \pm \hbar/2 ± ℏ/2 임과 동시에 다음과 같은 고유벡터를 가짐을 알 수 있다.
+
+∣ ⁣ ↑ ⟩ e x = 1 2 [ 1 1 ] ∣ ⁣ ↓ ⟩ e x = 1 2 [ − 1 1 ] ∣ ⁣ ↑ ⟩ e y = 1 2 [ 1 i ] ∣ ⁣ ↓ ⟩ e y = 1 2 [ − 1 i ] \begin{aligned} |\! \uparrow \, \rangle_{\mathbf{e}_{x}}&=\frac{1}{\sqrt{2}}\begin{bmatrix} 1 \\ 1 \end{bmatrix} \\ |\! \downarrow \, \rangle_{\mathbf{e}_{x}}&=\frac{1}{\sqrt{2}}\begin{bmatrix} -1 \\ 1 \end{bmatrix} \\ \\ |\! \uparrow \, \rangle_{\mathbf{e}_{y}}&=\frac{1}{\sqrt{2}}\begin{bmatrix} 1 \\ i \end{bmatrix} \\ |\! \downarrow \, \rangle_{\mathbf{e}_{y}}&=\frac{1}{\sqrt{2}}\begin{bmatrix} -1 \\ i \end{bmatrix} \end{aligned} ∣ ↑ ⟩ e x ​ ​ ∣ ↓ ⟩ e x ​ ​ ∣ ↑ ⟩ e y ​ ​ ∣ ↓ ⟩ e y ​ ​ ​ = 2 ​ 1 ​ [ 1 1 ​ ] = 2 ​ 1 ​ [ − 1 1 ​ ] = 2 ​ 1 ​ [ 1 i ​ ] = 2 ​ 1 ​ [ − 1 i ​ ] ​
+그런데 자세히 살펴보면 위 결과는 모두 ∣ ⁣ ↑ ⟩|\! \uparrow \, \rangle ∣ ↑ ⟩ 와 ∣ ⁣ ↓ ⟩|\! \downarrow \, \rangle ∣ ↓ ⟩ 의 선형결합으로 이루어졌음을 알 수 있다. 이는 궤도 각운동량 연산자를 다룰 때, 다른 축에 대한 각운동량의 성분에 대한 고유함수는 한 축에 대한 고유함수의 선형결합이라는 점과, 그 고윳값이 방향에 무관하다는 사실이 스핀 각운동량에서도 확인된 것이다.
+
+6.4. 스핀과 자기 쌍극자 모멘트 [편집]
+일반적으로 스핀이 존재하는 입자의 경우 근사적으로 자기 쌍극자 모멘트를 가진다고 볼 수 있다. 이때 다음을 만족시키게 된다. (이때 단위계는 CGS 단위계 임에 유의.)
+
+μ S = g q 2 m c S \begin{aligned} \boldsymbol{\mu}_{S}=\frac{g q}{2mc}\mathbf{S} \end{aligned} μ S ​ = 2 m c g q ​ S ​
+아래첨자는 스핀에 의한 것임을 강조하기 위해 붙였다. 전자의 경우 q = − e q=-e q = − e , g ≃ 2 g \simeq 2 g ≃ 2 [6] 로 놓아
+
+μ S = − e m c S = − e ℏ 2 m c σ ≡ − μ B σ \begin{aligned} \boldsymbol{\mu}_{S}&=-\frac{ e}{mc}\mathbf{S} \\&=-\frac{ e \hbar}{2mc}\boldsymbol{\sigma} \\&\equiv-\mu_{\rm B}\boldsymbol{\sigma} \end{aligned} μ S ​ ​ = − m c e ​ S = − 2 m c e ℏ ​ σ ≡ − μ B ​ σ ​
+이때, e ℏ / 2 m c ≡ μ B e \hbar /2mc \equiv \mu_{\rm B} e ℏ/2 m c ≡ μ B ​ 로 정의하고, 이를 보어 마그네톤(Bohr magneton)라 한다. 위에서 볼 수 있듯 전자의 자기 모멘트는 스핀의 방향과 정반대이다.
+
+외부 자기장 B \mathbf{B} B 가 존재하는 경우 퍼텐셜은
+
+V = − μ S ⋅ B \begin{aligned} V=-\boldsymbol{\mu}_{S} \boldsymbol{\cdot} \mathbf{B} \end{aligned} V = − μ S ​ ⋅ B ​
+으로 주어진다.
+
+6.4.1. 균일한 자기장 내의 스핀의 세차 운동 [편집]
+위 결과를 이용하여 전자가 균일한 자기장 B = B 0 e z \mathbf{B}=B_{0}\mathbf{e}_{z} B = B 0 ​ e z ​ 내에 있을 때, 스핀 각운동량은 어떻게 되는지 알아보자.
+
+이때, 전자의 운동 에너지는 존재하지 않고, 스핀에 의한 해밀토니언만 있다고 가정하면 전자의 해밀토니언은
+
+H = − μ S ⋅ B = − μ z B 0 = e B 0 ℏ 2 m c σ z ≡ ω 2 ⋅ ℏ σ z \begin{aligned} \mathcal{H}&=-\boldsymbol{\mu}_{S} \boldsymbol{\cdot} \mathbf{B} \\&=-\mu_{z}B_{0} \\&=\frac{eB_{0} \hbar}{2mc} \sigma_{z} \\ & \equiv \frac{\omega}{2} \cdot \hbar \sigma_{z} \end{aligned} H ​ = − μ S ​ ⋅ B = − μ z ​ B 0 ​ = 2 m c e B 0 ​ ℏ ​ σ z ​ ≡ 2 ω ​ ⋅ ℏ σ z ​ ​
+이때, 초기 상태 ∣ ψ ⟩ = a ∣ ⁣ ↑ ⟩ + b ∣ ⁣ ↓ ⟩| \psi \rangle=a|\! \uparrow \,\rangle+b|\! \downarrow \,\rangle ∣ ψ ⟩ = a ∣ ↑ ⟩ + b ∣ ↓ ⟩ 에 있던 스핀의 상태는
+
+∣ Ψ ( t ) ⟩ = exp ⁡ ( − i H ^ t ℏ ) ∣ ψ ⟩ \begin{aligned} | \Psi(t) \rangle =\exp{\biggl( \frac{-i\hat{\mathcal{H} } t}{\hbar} \biggr)}| \psi \rangle \end{aligned} ∣Ψ ( t )⟩ = exp ( ℏ − i H ^ t ​ ) ∣ ψ ⟩ ​
+의 상태로 변하게 된다.
+
+∴ ∣ Ψ ( t ) ⟩ = [ a exp ⁡ ( − i ω t 2 ) b exp ⁡ ( i ω t 2 ) ] \begin{aligned} \therefore | \Psi(t) \rangle =\begin{bmatrix} a \exp{\biggl( -\dfrac{i \omega t}{2} \biggr)}\\ \\ b\exp{\biggl( \dfrac{i \omega t}{2} \biggr)} \end{bmatrix} \end{aligned} ∴ ∣Ψ ( t )⟩ = ​ a exp ( − 2 iω t ​ ) b exp ( 2 iω t ​ ) ​ ​ ​
+이때, 규격화 조건에 따라 ∣ a ∣ 2 + ∣ b ∣ 2 = 1|a|^2+|b|^2=1 ∣ a ∣ 2 + ∣ b ∣ 2 = 1 을 만족해야 한다. 만약 a = cos ⁡ ( α / 2 ) a=\cos{(\alpha/2)} a = cos ( α /2 ) 로 잡으면, 위 식은
+
+∣ Ψ ( t ) ⟩ = [ exp ⁡ ( − i ω t 2 ) cos ⁡ ( α 2 ) exp ⁡ ( i ω t 2 ) sin ⁡ ( α 2 ) ] \begin{aligned} | \Psi(t) \rangle =\begin{bmatrix} \exp{\biggl( -\dfrac{i \omega t}{2} \biggr)} \cos{\biggl( \dfrac{\alpha}{2} \biggr)}\\ \\ \exp{\biggl( \dfrac{i \omega t}{2} \biggr)}\sin{\biggl( \dfrac{\alpha}{2} \biggr)} \end{bmatrix} \end{aligned} ∣Ψ ( t )⟩ = ​ exp ( − 2 iω t ​ ) cos ( 2 α ​ ) exp ( 2 iω t ​ ) sin ( 2 α ​ ) ​ ​ ​
+이것은 위에서 보았던 것과 대조해보면 z z z 축과 이루는 방향이 α \alpha α 이고, x x x 축과 이루는 각이 ω t \omega t ω t 인 방향에 대한 스핀의 고유 상태임을 알 수 있다. 즉, 스핀이 세차 운동함을 알 수 있다. 기댓값을 계산해보면 이는 명확해진다.
+
+⟨ S x ⟩ = ℏ 2 sin ⁡ α cos ⁡ ( ω t ) ⟨ S y ⟩ = ℏ 2 sin ⁡ α sin ⁡ ( ω t ) ⟨ S z ⟩ = ℏ 2 cos ⁡ α \begin{aligned} \langle S_{x} \rangle &=\frac{\hbar}{2}\sin{\alpha}\cos{(\omega t)} \\ \langle S_{y} \rangle &=\frac{\hbar}{2}\sin{\alpha}\sin{(\omega t)} \\ \langle S_{z} \rangle &=\frac{\hbar}{2}\cos{\alpha} \end{aligned} ⟨ S x ​ ⟩ ⟨ S y ​ ⟩ ⟨ S z ​ ⟩ ​ = 2 ℏ ​ sin α cos ( ω t ) = 2 ℏ ​ sin α sin ( ω t ) = 2 ℏ ​ cos α ​
+즉, 기댓값이 세차 운동하는 것을 살펴볼 수 있다.
+
+이것을 라머 세차 운동(Larmor precession)이라 한다. 이때 ω L ≡ e B 0 / 2 m c \omega_{L} \equiv eB_{0}/2mc ω L ​ ≡ e B 0 ​ /2 m c 를 라머 진동수(Larmor frequency)라 한다.
+
+해당 계의 고유상태를 구해보자.
+
+H = e B 0 ℏ 2 m c σ z = μ B B 0 σ z \begin{aligned} \mathcal{H}&=\frac{eB_{0} \hbar}{2mc} \sigma_{z} \\ &= \mu_{\rm{B}} B_{0} \sigma_{z} \end{aligned} H ​ = 2 m c e B 0 ​ ℏ ​ σ z ​ = μ B ​ B 0 ​ σ z ​ ​
+으로 나타낼 수 있다. 이상에서
+
+H ^ = μ B B 0 [ 1 0 0 − 1 ] \begin{aligned} \hat{\mathcal{H}}&= \mu_{\rm{B}} B_{0} \begin{bmatrix} 1 ~ &0\\0 ~ & -1 \end{bmatrix} \end{aligned} H ^ ​ = μ B ​ B 0 ​ [ 1 0 ​ 0 − 1 ​ ] ​
+결국 고유상태를 구한다는 것은 위 행렬을 대각화 시키는 고윳값과 고유벡터를 구하는 것과 동치이다. 위 행렬의 고윳값은 쉽게 μ B B 0 \mu_{\rm{B}} B_{0} μ B ​ B 0 ​ , − μ B B 0 - \mu_{\rm{B}} B_{0} − μ B ​ B 0 ​ 임을 알 수 있고, 각각에 따른 그 고유벡터는 각각 ∣ ⁣ ↑ ⟩|\! \uparrow \, \rangle ∣ ↑ ⟩ , ∣ ⁣ ↓ ⟩|\! \downarrow \, \rangle ∣ ↓ ⟩ 이다.
+
+− μ S ⋅ B -\boldsymbol{\mu}_{S} \boldsymbol{\cdot} \mathbf{B} − μ S ​ ⋅ B 가 최댓값 μ B B 0 \mu_{\rm{B}} B_{0} μ B ​ B 0 ​ 을 가질 때, 스핀과 자기장은 같은 방향에 놓이게 된다. 이 경우 전자의 자기 모멘트 자체는 자기장과 반대의 방향으로 정렬되어 있기 때문에 그 에너지가 최대가 되는 것이다. 반대로 최솟값 − μ B B 0 -\mu_{\rm{B}} B_{0} − μ B ​ B 0 ​ 를 가질 때는 스핀과 자기장은 서로 반대 방향으로 놓여있고, 이는 곧 자기장과 전자의 자기 모멘트가 같은 방향으로 정렬되어 있음을 의미하기에 최솟값을 갖는 것이다.
+
+6.5. 두 스핀의 덧셈 [편집]
+스핀이 1 / 2 1/2 1/2 인 입자 2개가 있다고 하자. 그렇다면 이들의 스핀의 합은 어떻게 계산하여야 하는가?
+
+전체 스핀에 해당하는 연산자는 다음과 같이 주어진다.
+
+S ^ = S ^ 1 + S ^ 2 \begin{aligned} \mathbf{\hat{S}}=\mathbf{\hat{S}}_{1}+\mathbf{\hat{S}}_{2} \end{aligned} S ^ = S ^ 1 ​ + S ^ 2 ​ ​
+이에 한 축에 대한 성분은
+
+S ^ z = S ^ z 1 + S ^ z 2 \begin{aligned} {\hat{S}}_{z}={\hat{S}}_{z1}+{\hat{S}}_{z2} \end{aligned} S ^ z ​ = S ^ z 1 ​ + S ^ z 2 ​ ​
+마찬가지의 방법으로
+
+S ^ 2 = S ^ 1 2 + S ^ 2 2 + 2 S ^ 1 ⋅ S ^ 2 \begin{aligned} \hat{S}^2=\hat{S}_{1}^2+\hat{S}_{2}^2+2\mathbf{\hat{S}}_{1} \boldsymbol{\cdot} \mathbf{\hat{S}}_{2} \end{aligned} S ^ 2 = S ^ 1 2 ​ + S ^ 2 2 ​ + 2 S ^ 1 ​ ⋅ S ^ 2 ​ ​
+이다.
+
+궤도 각운동량의 덧셈에서 살펴본것과 유사하게 { s , m , s 1 , s 2 } \{ s,\,m,\,s_{1},\,s_{2} \} { s , m , s 1 ​ , s 2 ​ } , { s 1 , m 1 , s 2 , m 2 } \{ s_{1},\,m_{1},\,s_{2},\,m_{2} \} { s 1 ​ , m 1 ​ , s 2 ​ , m 2 ​ } 는 서로 교환하는 양자수의 집합으로 전자의 경우 결합 표현으로써 좋은 양자수를, 후자의 경우 분리 표현으로써 좋은 양자수를 얻는다.
+
+우리가 구하기 원하는 결합표현에서의 고유함수를 구하기 위해 그 기저를 분리 표현의 기저를 사용한다. 즉, 결합 표현의 기저는 다음의 기저들로 구성되어 있다.
+
+∣ s 1 , m 1 ⟩ ⊗ ∣ s 2 , m 2 ⟩ \begin{aligned} | s_{1},\,m_{1} \rangle \otimes | s_{2},\,m_{2} \rangle \end{aligned} ∣ s 1 ​ , m 1 ​ ⟩ ⊗ ∣ s 2 ​ , m 2 ​ ⟩ ​
+표기의 용의룰 위해 한 예로 입자 1은 스핀 up, 입자 2는 스핀 down 상태에 있을 경우 그 표기를
+
+∣ 1 2 , 1 2 ⟩ 1 ⊗ ∣ 1 2 , − 1 2 ⟩ 2 ≡ ∣ ⁣ ↑ ↓ ⟩ \begin{aligned} \biggl| \frac{1}{2},\,\frac{1}{2} \biggr\rangle_{1} \otimes \biggl| \frac{1}{2},\,-\frac{1}{2} \biggr\rangle_{2} \equiv |\! \uparrow \, \downarrow \,\rangle \end{aligned} ​ 2 1 ​ , 2 1 ​ ⟩ 1 ​ ⊗ ​ 2 1 ​ , − 2 1 ​ ⟩ 2 ​ ≡ ∣ ↑ ↓ ⟩ ​
+와 같이 한다.
+
+각운동량 문서에서 이러한 덧셈을 다룰 때, 가능한 s s s 는 s 1 + s 2 s_{1}+s_{2} s 1 ​ + s 2 ​ , s 1 + s 2 − 1 s_{1}+s_{2}-1 s 1 ​ + s 2 ​ − 1 , ⋯ \cdots ⋯ , ∣ s 1 − s 2 ∣|s_{1}-s_{2}| ∣ s 1 ​ − s 2 ​ ∣ 라 했다. 따라서 이 경우에는 s s s 는 1, 0 두 가지 가능하다.
+
+s = 1 s=1 s = 1 인 상태부터 따져보자. m m m 의 최댓값은 1인데, 이는 입자의 두 스핀이 모두 up인 상태에서 가능하다. 따라서 이 경우의 고유함수는 ∣ 1 , 1 ⟩ = ∣ ⁣ ↑ ↑ ⟩| 1,\,1 \rangle=|\! \uparrow \, \uparrow \,\rangle ∣1 , 1 ⟩ = ∣ ↑ ↑ ⟩ 이다. ∣ s , m , s 1 , s 2 ⟩|s,\,m,\,s_{1},\,s_{2} \rangle ∣ s , m , s 1 ​ , s 2 ​ ⟩ 에서 s 1 s_1 s 1 ​ , s 2 s_2 s 2 ​ 는 생략했다. m = 0 m=0 m = 0 인 상태를 구하는 것은 쉽다. 왜냐하면 내림 연산자가 있기 때문이다.
+
+내림 연산자는 다음과 같이 주어지게 된다.
+
+S ^ − = S ^ x − i S ^ y = ( S ^ x 1 + S ^ x 2 ) − i ( S ^ y 1 + S ^ y 2 ) = ( S ^ x 1 − i S ^ y 1 ) + ( S ^ x 2 − i S ^ y 2 ) = S ^ − ( 1 ) + S ^ − ( 2 ) \begin{aligned} \hat{S}_{-}&=\hat{S}_{x}-i\hat{S}_{y} \\ &=(\hat{S}_{x1}+\hat{S}_{x2})-i(\hat{S}_{y1}+\hat{S}_{y2}) \\&=(\hat{S}_{x1}-i\hat{S}_{y1})+(\hat{S}_{x2}-i\hat{S}_{y2}) \\&=\hat{S}_{-}^{(1)}+\hat{S}_{-}^{(2)} \end{aligned} S ^ − ​ ​ = S ^ x ​ − i S ^ y ​ = ( S ^ x 1 ​ + S ^ x 2 ​ ) − i ( S ^ y 1 ​ + S ^ y 2 ​ ) = ( S ^ x 1 ​ − i S ^ y 1 ​ ) + ( S ^ x 2 ​ − i S ^ y 2 ​ ) = S ^ − ( 1 ) ​ + S ^ − ( 2 ) ​ ​
+이것을 위에서 나온 고유상태에 작용하면
+
+S ^ − ∣ ⁣ ↑ ↑ ⟩ = ∣ ⁣ ↓ ↑ ⟩ + ∣ ⁣ ↑ ↓ ⟩ \begin{aligned} \hat{S}_{-}|\! \uparrow \, \uparrow \,\rangle=|\! \downarrow \, \uparrow \,\rangle+|\! \uparrow \, \downarrow \,\rangle \end{aligned} S ^ − ​ ∣ ↑ ↑ ⟩ = ∣ ↓ ↑ ⟩ + ∣ ↑ ↓ ⟩ ​
+규격화까지 고려해주면
+
+∣ 1 , 0 ⟩ = 1 2 ( ∣ ⁣ ↓ ↑ ⟩ + ∣ ⁣ ↑ ↓ ⟩ ) \begin{aligned} | 1,\,0 \rangle=\frac{1}{\sqrt{2}}(|\! \downarrow \, \uparrow \,\rangle+|\! \uparrow \, \downarrow \,\rangle ) \end{aligned} ∣1 , 0 ⟩ = 2 ​ 1 ​ ( ∣ ↓ ↑ ⟩ + ∣ ↑ ↓ ⟩) ​
+이곳에 한 번 더 내림 연산자를 취해주고, 규격화를 해줌으로써 다음을 얻는다.
+
+∣ 1 , − 1 ⟩ = ∣ ⁣ ↓ ↓ ⟩ \begin{aligned} | 1,\,-1 \rangle=|\! \downarrow \, \downarrow \,\rangle \end{aligned} ∣1 , − 1 ⟩ = ∣ ↓ ↓ ⟩ ​
+
+그렇다면 s = 0 s=0 s = 0 인 상태는 어떻게 구해야 할까? 이것은 위에서 구한 ∣ 1 , 0 ⟩|1,\,0 \rangle ∣1 , 0 ⟩ 상태에 주목한다. 이 상태가 m = 0 m=0 m = 0 이고, m = m 1 + m 2 m=m_{1}+m_{2} m = m 1 ​ + m 2 ​ 이므로
+
+a ∣ ⁣ ↓ ↑ ⟩ + b ∣ ⁣ ↑ ↓ ⟩ \begin{aligned} a|\! \downarrow \, \uparrow \,\rangle+b|\! \uparrow \, \downarrow \,\rangle \end{aligned} a ∣ ↓ ↑ ⟩ + b ∣ ↑ ↓ ⟩ ​
+를 고려했을 때, b = − a b=-a b = − a 인 경우밖에 없다. 이 상태가 ∣ 1 , 0 ⟩|1,\,0 \rangle ∣1 , 0 ⟩ 과 직교하길 원하므로 그 위상을 적절히 선택하면
+
+∣ 0 , 0 ⟩ = 1 2 ( ∣ ⁣ ↓ ↑ ⟩ − ∣ ⁣ ↑ ↓ ⟩ ) \begin{aligned} | 0,\,0 \rangle=\frac{1}{\sqrt{2}}(|\! \downarrow \, \uparrow \,\rangle-|\! \uparrow \, \downarrow \,\rangle ) \end{aligned} ∣0 , 0 ⟩ = 2 ​ 1 ​ ( ∣ ↓ ↑ ⟩ − ∣ ↑ ↓ ⟩) ​
+
+잘 보면, ∣ 1 , 0 ⟩|1,\,0 \rangle ∣1 , 0 ⟩ 과 ∣ 0 , 0 ⟩|0,\,0 \rangle ∣0 , 0 ⟩ 은 비슷한 형태를 하고 있는 것 같아도 서로 대칭 파동함수, 반대칭 파동함수라는 큰 차이점이 있다. [7]
+
+이와 같이 s = 1 s=1 s = 1 일 때는 3개의 상태가 존재함에 따라 이 상태를 삼중항 상태(triplet state), s = 0 s=0 s = 0 일 때는 1개의 상태만 존재함에 따라 단일항 상태(singlet state)라 한다.
+
+위 내용을 정리하면 아래와 같다. 상태 | s \boldsymbol{s} s | m \boldsymbol{m} m | 고유함수
+삼중항 상태 | 1 1 1 | 1 1 1 | ∣ ⁣ ↑ ↑ ⟩|\! \uparrow \, \uparrow \,\rangle ∣ ↑ ↑ ⟩
+0 0 0 | 1 2 ( ∣ ⁣ ↓ ↑ ⟩ + ∣ ⁣ ↑ ↓ ⟩ ) \dfrac{1}{\sqrt{2}}(|\! \downarrow \, \uparrow \,\rangle+|\! \uparrow \, \downarrow \,\rangle ) 2 ​ 1 ​ ( ∣ ↓ ↑ ⟩ + ∣ ↑ ↓ ⟩)
+− 1 -1 − 1 | ∣ ⁣ ↓ ↓ ⟩|\! \downarrow \, \downarrow \,\rangle ∣ ↓ ↓ ⟩
+단일항 상태 | 0 0 0 | 0 0 0 | 1 2 ( ∣ ⁣ ↓ ↑ ⟩ − ∣ ⁣ ↑ ↓ ⟩ ) \dfrac{1}{\sqrt{2}}(|\! \downarrow \, \uparrow \,\rangle-|\! \uparrow \, \downarrow \,\rangle ) 2 ​ 1 ​ ( ∣ ↓ ↑ ⟩ − ∣ ↑ ↓ ⟩)
+
+7. 기타 [편집]
+이론적으로 생각하면 스핀의 존재가 당연하다는 견해도 있다. 뇌터의 정리 의 따르면, 물리학에서의 대칭성은 보존량에 대응한다. 시간의 균질성은 에너지 보존 법칙에 대응하며, 공간의 균질성은 선운동량 보존 법칙에 대응한다. 이와 마찬가지로 회전에 대한 대칭성은 각운동량 보존의 법칙에 대응한다. 우리의 우주는 회전에 대해 불변이므로 각운동량이 보존된다고 할 수 있다. 이 각운동량을 J \mathbf{J} J 라고 한다면, 이것이 궤도 각운동량 L = r × p \mathbf{L}=\mathbf{r} \times \mathbf{p} L = r × p 와 같으리라는 보장은 없다. 스핀의 존재를 알기 전에는 굳이 다르다는 가정을 할 이유가 없었지만, 사실 이론적으로만 따져 보면 굳이 같을 이유가 없으므로, J \mathbf{J} J 와 L \mathbf{L} L 의 차이를 스핀 각운동량 S = J − L \mathbf{S=J-L} S = J − L 으로 정의할 수 있다. 이는 마치 전자기학에서 총 선운동량이 역학적 선운동량 m v m\mathbf{v} m v 과 전자기장 운동량 q A q\mathbf{A} q A 의 합인 것과 유사하다. 공간의 균질성에 대응하여 보존되는 양이 질량 곱하기 속도라고 가정하는 것이 이상한 것이라는 것이다.
+
+회전 대칭성으로 정의되는 각운동량 J \mathbf{J} J , 궤도 각운동량 L \mathbf{L} L , 스핀 S \mathbf{S} S 모두 특수 유니터리 군 S U ( 2 ) \mathrm{SU}(2) SU ( 2 ) 의 대칭성을 가지고 있다. 그리고 S U ( 2 ) \mathrm{SU}(2) SU ( 2 ) 의 대칭을 가지는 연산자의 고유값은 정수 혹은 반정수이다. 다른 축 성분들은 기준축 성분을 관측하는 행위에 의해 영향을 받으므로 기준축 하나에 대한 고유값만을 생각하자. 그러면 그 고유값은 정수나 반정수가 되어야 한다. 다만 궤도 각운동량 연산자와 스핀 각운동량 연산자의 차이는 궤도 각운동량 연산자는 양자수가 정수만이 가능하고 스핀 각운동량 연산자는 반정수도 가능하다는 것이다. 그 이유는 궤도 각운동량은 한 바퀴 회전 후에 그대로여야 한다는 물리적 제약이 있기에 반정수 양자수는 허용되지 않지만, 스핀 각운동량은 물리적 위치와 관계가 없으므로 그런 제약에서 자유롭기에 한 바퀴 회전해도 같은 모양일 이유가 없다. 스핀이 0인 입자는 모든 방향에서 보아도 같은 모습이고, 스핀이 2인 입자는 반바퀴만 돌려도 같은 모습으로 보이게 된다. 스핀이 1인 입자는 한 바퀴 돌려야 같은 모습으로 보이고, 스핀이 1 / 2 1/2 1/2 인 입자는 두 바퀴를 돌려야 같은 모습으로 보인다. [8]
+
+끈 이론 에서는 스핀이 2인 입자가 존재하게 되는데, 이것이 중력을 매개하는 중력자 일 것으로 추측된다.
+
+MRI 는 인체 내 풍부하게 포함된 수소 원자의 스핀을 강력한 자기장으로 조작하는 장치이다. 때문에 수소가 없는 조직(즉 수분이 별로 포함되지 않은 조직, 예를 들어 뼈)은 MRI로 촬영할 수 없으며 X선을 써야 한다.
+
+8. 둘러보기 [편집]
+페르미온
+Fermions
+[ 펼치기 · 접기 ] 기본 입자 | 렙톤 | 전자 · 뮤온 · 타우온 · 중성미자 (전자 중성미자 · 뮤온 중성미자 · 타우 중성미자)
+쿼크 | 업 · 다운 · 참 · 스트레인지 · 톱 · 보텀
+바리온 | 핵자 ( 양성자 · 중성자 ) · 펜타쿼크
+기타 | 질량수가 홀수인 원자핵
+주요 성질
+스핀 · 스피너 · 파울리 배타 원리 · 페르미-디랙 통계 · 마요라나 페르미온
+기본 입자 · 강입자 · 페르미온 · 보손
+
+보손
+Bosons
+[ 펼치기 · 접기 ] 스핀 반전성(P) | 0 ℏ 0\hbar 0ℏ | 1 ℏ 1\hbar 1ℏ | 2 ℏ 2\hbar 2ℏ
+스칼라 보손(P=+1) · 유사스칼라 보손(P=−1) | 벡터 보손(P=−1) · 유사벡터 보손(P=+1) | (텐서 보손)
+기본 입자 | − 1 -1 − 1 | 게이지 보손 ( 글루온 · 광자 · W/Z 보손 )
++ 1 +1 + 1 | 힉스 보손 | 중력자
+메손 | − 1 -1 − 1 | 유사스칼라 메손 (파이온 · 에타 메손 · 케이온 ) | 벡터 메손
++ 1 +1 + 1 | 스칼라 메손 | 유사벡터 메손
+기타 | + 1 +1 + 1 | 알파 입자
+( − 1 ) ℓ (-1)^\ell ( − 1 ) ℓ ( ℓ \ell ℓ : 핵 궤도 양자수) | 질량수가 짝수인 원자핵
+주요 성질
+스핀 · 보스-아인슈타인 응집
+기본 입자 · 강입자 · 페르미온 · 보손
+
+기본 입자
+Elementary Particles
+[ 펼치기 · 접기 ] 페르미온
+세대 종류 | Ⅰ | Ⅱ | Ⅲ
+쿼크 | u \rm u u
+업 쿼크 | c \rm c c
+참 쿼크 | t \rm t t
+톱 쿼크
+d \rm d d
+다운 쿼크 | s \rm s s
+스트레인지 쿼크 | b \rm b b
+보텀 쿼크
+렙톤 | e \rm e e
+전자 | μ \textμ μ
+뮤온 | τ \textτ τ
+타우온
+e ‾ \rm\overline e e
+양전자
+ν e \rm\textν_e ν e ​
+전자 중성미자 | ν μ \textν_\textμ ν μ ​
+뮤온 중성미자 | ν τ \textν_\textτ ν τ ​
+타우 중성미자
+
+보손
+게이지 보손 | g \rm g g
+글루온 | γ \textγ γ
+광자 | W ± Z 0 \rm W^\pm \ Z^0 W ± Z 0
+W/Z 보손
+스칼라 보손 | H \rm H H
+힉스 보손
+기타 | 중력자
+주요 성질
+스핀 · 색전하 · 맛깔
+기본 입자 · 강입자 · 페르미온 · 보손
+
+[1] 이는 양자화되어 있으며 우리가 수소 원자 오비탈에서 흔히 l l l 이라고 부르는 각운동량 양자 수와 관련되어 있다. [2] 모순 없는 모델을 세울 수가 없었다. [3] 다만 기본입자만 스핀을 가지는 것은 아니다. 중성자나 양성자도 스핀이 있으나, 이러한 합성입자들의 스핀은 모두 그것을 구성하는 기본입자들의 스핀으로 설명할 수 있다. [4] 유리수 가 아닌 굳이 '반'정수라는 표현을 쓰는 이유는 스핀을 기약분수 로 표현할 시 분모가 2로만 나타나기 때문이다. [5] 이 문서에서 위 화살표는 커누스 윗화살표 표기법 이 아님에 주의. [6] 실제 실험값과 약간 차이가 있다. [7] 입자를 서로 교환함에 따라 파동함수의 부호가 안바뀌면 대칭, 바뀌면 반대칭을 붙인다. [8] plate trick이나 belt trick 같은 단어로 검색을 해보면 이런 스핀 1 / 2 1/2 1/2 이란게 대충 어떤느낌인지 직관적으로 보여주는 몇가지 실험이 있다. 이 문서의 내용 중 전체 또는 일부는 스핀 문서의 r81 판, 4번 문단 에서 가져왔습니다. 이전 역사 보러 가기 [ 남동구퀵서비스 하나로퀵
+1577-3410.com
+[ [ 하나로퀵업체 ] [ 화물퀵서비스 ] [ 법인신청접수 ] [ 하나로퀵후기 ] ]
+5분내출발 오토바이서류퀵서비스 빠른퀵배송 심부름 실명제퀵기사 퀵하세요.
+
+] | [ 남동구퀵배송 퀵브라더스
+www.1599-8330.com v-if
+[ [ 착한요금 ] [ 전국배송 ] [ ktx특송퀵 ] [ 버스.항공퀵 ] ]
+전국 어디든지 구석구석 당일배송, 저렴한요금, 카드결제OK, 친절상담, 비밀엄수
+
+] | [ 한국로지스 !친절배송!
+www.18332442.co.kr v-if
+한국로지스, 포장이사, 리프트화물, 용달, 전국당일특송 365일 가능합니다.
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

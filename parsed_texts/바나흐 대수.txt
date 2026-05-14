@@ -1,0 +1,256 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 바나흐 대수
+최근 수정 시각: 2026-02-05 15:43:24 [ [ [ ] [ [ 1 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 함수해석학
+]
+
+[ [ ] [ 1 . 개요 2 . 정의 2.1 . 결합 대수 2.2 . 바나흐 대수 2.3 . 단위원과 가역원 2.4 . 스펙트럼 2.5 . 준동형사상 3 . 구성 3.1 . 단위 대수화 3.2 . 복소 대수화 3.3 . 합 바나흐 대수 3.4 . 몫 바나흐 대수 4 . 성질 4.1 . 연산의 성질 4.1.1 . 곱셈의 연속성 4.1.2 . 가역원의 성질 4.2 . 스펙트럼의 성질 4.2.1 . 스펙트럼 사상 정리 4.3 . 구조적 성질 4.3.1 . 겔판트-마주르 정리 4.3.2 . 준동형사상의 성질 4.4 . 겔판트 표현 5 . 예시 6 . 역사
+
+1. 개요 [편집]
+바나흐 대수(바나흐 代 數 , Banach algebra)는 결합 대수 의 연산구조와 바나흐 공간 의 위상 및 해석적 구조를 호환되게 갖춘 대수이다.
+
+2. 정의 [편집]
+
+2.1. 결합 대수 [편집]
+체 K ∈ { R , C } \mathbb{K}\in\{\mathbb{R,\ C}\} K ∈ { R , C } 위의 벡터 공간 A A A 가 벡터의 곱셈을 갖추고, 그 곱셈에 대하여 환 을 이루면 A A A 를 K \mathbb{K} K -결합 대수라고 한다.
+
+2.2. 바나흐 대수 [편집]
+K \mathbb{K} K -결합 대수 A A A 가 노름 ∥ ⋅ ∥ : A → [ 0 , ∞ ) \|\cdot\|:A\to[0,\ \infty) ∥ ⋅ ∥ : A → [ 0 , ∞ ) 에 대하여 바나흐 공간을 이루고 모든 a , b ∈ A a,\ b\in A a , b ∈ A 에 대하여 부등식
+∥ a b ∥ ≤ ∥ a ∥ ∥ b ∥ \|ab\|\le\|a\|\|b\| ∥ ab ∥ ≤ ∥ a ∥∥ b ∥ 를 만족시키면 A A A 를 K \mathbb{K} K -바나흐 대수라고 한다.
+
+2.3. 단위원과 가역원 [편집]
+K \mathbb{K} K -바나흐 대수 A A A 의 원소 e e e 가 모든 a ∈ A a\in A a ∈ A 에 대하여 등식 e a = a e = a ea=ae=a e a = a e = a 를 만족시키면 e e e 를 A A A 의 단위원(unit element)라 한다. 이때, 단위원의 크기는 ∥ e ∥ = 1 \|e\|=1 ∥ e ∥ = 1 로 둔다. 체 K \mathbb{K} K 는 K \mathbb{K} K 에서 A A A 로의 사상 α ↦ α e \alpha\mapsto \alpha e α ↦ α e 에 의해 A A A 로 자연스럽게 매장되므로 A A A 의 단위원을 1 1 1 로 표기한다. 바나흐 대수는 단위원을 갖지 않을 수 있으나, 단위원을 갖지 않는 바나흐 대수는 모두 자연스러운 단위화가 가능하다. 이에 따라 월터 루딘 등 일부 저자는 역원을 이용해 스펙트럼 정리 등을 다루기 위해 바나흐 대수의 정의에 단위원 존재성을 포함하기도 한다.
+
+단위원을 갖는 바나흐 대수 A A A 의 원소 a a a 에 대하여 x a = 1 xa=1 x a = 1 을 만족시키는, A A A 의 원소 x x x 가 존재하면 a a a 를 왼쪽 가역이라고 한다. 반대로 a y = 1 ay=1 a y = 1 을 만족시키는, A A A 의 원소 y y y 가 존재하면 a a a 를 오른쪽 가역이라고 한다. x a = a y = 1 xa=ay=1 x a = a y = 1 을 만족시키는, A A A 의 원소 x , y x, y x , y 가 모두 존재하면 a a a 를 가역이라고 한다. a a a 가 가역인 경우 x a = a x = 1 xa=ax=1 x a = a x = 1 을 만족시키는, A A A 의 원소 x x x 는 유일하며 이를 a − 1 a^{-1} a − 1 로 표기한다. 왼쪽 가역, 오른쪽 가역, 가역인, A A A 의 원소들의 집합을 각각 G l ( A ) G_l(A) G l ​ ( A ) , G r ( A ) G_r(A) G r ​ ( A ) , G ( A ) G(A) G ( A ) 로 표기한다.
+
+2.4. 스펙트럼 [편집]
+단위원이 있는 K \mathbb{K} K -바나흐 대수 A A A 의 원소 a a a 에 대하여 K \mathbb{K} K 의 부분 집합
+σ ( a ) = { α ∈ K : ∃ ( a − α 1 ) − 1 } \sigma(a)=\{\alpha\in\mathbb{K}:\cancel\exists (a-\alpha1)^{-1}\} σ ( a ) = { α ∈ K : ∃ ​ ( a − α 1 ) − 1 } 을 a a a 의 스펙트럼(spectrum)이라고 한다. 또 스펙트럼의 여집합
+ρ ( a ) = K ∖ σ ( a ) = { α ∈ K : ∃ ( a − α 1 ) − 1 } \begin{aligned}\rho(a)&=\mathbb{K}\setminus \sigma(a)\\ &=\{\alpha\in\mathbb{K}:\exists (a-\alpha1)^{-1}\}\end{aligned} ρ ( a ) ​ = K ∖ σ ( a ) = { α ∈ K : ∃ ( a − α 1 ) − 1 } ​ 를 a a a 의 분해 집합(resolvent set)이라고 한다.
+
+복소 바나흐 대수 A A A 의 원소 a a a 에 대하여
+r ( a ) = sup ⁡ { ∣ α ∣ : α ∈ σ ( a ) } r(a)=\sup\{|\alpha|:\alpha\in\sigma(a)\} r ( a ) = sup { ∣ α ∣ : α ∈ σ ( a )} 를 a a a 의 스펙트럼 반지름(spectral radius)이라 한다.
+
+2.5. 준동형사상 [편집]
+K \mathbb{K} K -바나흐 대수 A , B A, B A , B 에 대하여 선형사상 h : A → B h:A\to B h : A → B 가 항등적으로 0 0 0 이 아니고 모든 a , b ∈ A a, b\in A a , b ∈ A 에 대하여
+h ( a b ) = h ( a ) h ( b ) h(ab)=h(a)h(b) h ( ab ) = h ( a ) h ( b )
+
+를 만족시키면 h h h 를 준동형 사상 (homomorphism)이라고 한다. 즉, 바나흐 대수의 준동형사상은 벡터공간의 덧셈, 스칼라곱 구조와 대수의 곱셈 구조를 보존하는 사상이다. A A A 의 준동형사상 h h h 가 모든 a ∈ A a\in A a ∈ A 에 대하여
+∥ h ( a ) ∥ = ∥ a ∥ \|h(a)\|=\|a\| ∥ h ( a ) ∥ = ∥ a ∥
+
+를 만족시키면 h h h 를 등거리사상(isometric)이라고 한다.
+
+3. 구성 [편집]
+
+3.1. 단위 대수화 [편집]
+단위원을 갖지 않는 K \mathbb{K} K -바나흐 대수 A A A 에 대하여 dim ⁡ A 1 / A = 1 \dim A_1 /A=1 dim A 1 ​ / A = 1 을 만족시키는 단위 바나흐 대수 A 1 A_1 A 1 ​ 이 존재한다. 증명
+K \mathbb{K} K -벡터 공간 A 1 = A × K A_1=A\times\mathbb{K} A 1 ​ = A × K 에 벡터곱
+( a , α ) ( b , β ) ↦ ( a b + α b + β a , α β ) (a,\ \alpha)(b,\ \beta)\mapsto(ab+\alpha b + \beta a,\ \alpha\beta) ( a , α ) ( b , β ) ↦ ( ab + α b + β a , α β ) 를 부여하면 A 1 A_1 A 1 ​ 은 대수이다. 또 ∥ ( a , α ) ∥ 1 = ∥ a ∥ + ∣ α ∣ \|(a,\ \alpha)\|_1=\|a\|+|\alpha| ∥ ( a , α ) ∥ 1 ​ = ∥ a ∥ + ∣ α ∣ 라 하면 ∥ ⋅ ∥ 1 \|\cdot\|_1 ∥ ⋅ ∥ 1 ​ 은 대수 A 1 A_1 A 1 ​ 의 노름이며 임의의 코시열이 수렴하여 A 1 A_1 A 1 ​ 는 바나흐 공간이고,
+∥ ( a , α ) ( b , β ) ∥ 1 = ∥ ( a b + β a + α b , α β ) ∥ 1 = ∥ a b + β a + α b ∥ + ∣ α β ∣ ≤ ∥ a ∥ ∥ b ∥ + ∣ β ∣ ∥ a ∥ + ∣ α ∣ ∥ b ∥ + ∣ α ∣ ∣ β ∣ = ∥ ( a , α ) ∥ 1 ∥ ( b , β ) ∥ 1 \begin{aligned} &\|(a,\alpha)(b,\beta)\|_1\\ &=\|(ab+\beta a+\alpha b,\alpha\beta)\|_1\\ &=\|ab+\beta a +\alpha b\|+|\alpha\beta|\\ &\le \|a\|\|b\|+|\beta|\|a\|+|\alpha|\|b\|+|\alpha||\beta|\\ &=\|(a,\alpha)\|_1\|(b,\beta)\|_1 \end{aligned} ​ ∥ ( a , α ) ( b , β ) ∥ 1 ​ = ∥ ( ab + β a + α b , α β ) ∥ 1 ​ = ∥ ab + β a + α b ∥ + ∣ α β ∣ ≤ ∥ a ∥∥ b ∥ + ∣ β ∣∥ a ∥ + ∣ α ∣∥ b ∥ + ∣ α ∣∣ β ∣ = ∥ ( a , α ) ∥ 1 ​ ∥ ( b , β ) ∥ 1 ​ ​ 이므로 바나흐 대수이다. 이때, ( 0 , 1 ) ∈ A 1 (0,1)\in A_1 ( 0 , 1 ) ∈ A 1 ​ 는 단위원이다.
+
+두 바나흐 대수 A , A 1 A, A_1 A , A 1 ​ 사이의 사상 L : A → A 1 L:A\to A_1 L : A → A 1 ​ , a ↦ ( a , 0 ) a\mapsto(a,0) a ↦ ( a , 0 ) 는 선형사상이고 상과 역상이 각각 A , A 1 A, A_1 A , A 1 ​ 의 열의 수렴성을 보존하므로 A A A 에서 A 1 A_1 A 1 ​ 로의 등거리 동형사상이다. 또 ker ⁡ L = { 0 } \ker L=\{0\} ker L = { 0 } 이므로 dim ⁡ A 1 / A = 1 \dim A_1 /A=1 dim A 1 ​ / A = 1 이다.
+
+3.2. 복소 대수화 [편집]
+
+3.3. 합 바나흐 대수 [편집]
+바나흐 대수족 { A i : i ∈ I } \{A_i:i\in I\} { A i ​ : i ∈ I } 와 1 ≤ p ≤ ∞ 1\le p \le\infty 1 ≤ p ≤ ∞ 에 대하여 집합 A A A 를 A = ∏ i ∈ I A i A=\prod_{i\in I}A_i A = ∏ i ∈ I ​ A i ​ 라 하고, 범함수 ∥ ⋅ ∥ ∞ : A → [ 0 , ∞ ] \|\cdot\|_\infty:A\to[0,\infty] ∥ ⋅ ∥ ∞ ​ : A → [ 0 , ∞ ] 를
+∥ a ∥ ∞ = sup ⁡ i ∈ I ∥ a i ∥ i \|a\|_\infty=\sup_{i\in I}\|a_i\|_i ∥ a ∥ ∞ ​ = sup i ∈ I ​ ∥ a i ​ ∥ i ​ 라 하자.
+⊕ ∞ A i : = { a ∈ A : ∥ a ∥ ∞ < ∞ } ⊕ 0 A i : = { a ∈ A : ∣ { i : ∥ a ( i ) ∥ i ≥ ϵ } ∣ < ∞ ∀ ϵ > 0 } \displaystyle\oplus_\infty A_i:=\left\{a\in A:\|a\|_\infty<\infty\right\}\\ \displaystyle\oplus_0 A_i:=\left\{a\in A:|\{i:\|a(i)\|_i\ge\epsilon\}|<\infty\forall \epsilon>0\right\} ⊕ ∞ ​ A i ​ := { a ∈ A : ∥ a ∥ ∞ ​ < ∞ } ⊕ 0 ​ A i ​ := { a ∈ A : ∣ { i : ∥ a ( i ) ∥ i ​ ≥ ϵ } ∣ < ∞∀ ϵ > 0 } 라 하면 ⊕ ∞ A i \oplus_\infty A_i ⊕ ∞ ​ A i ​ 와 ⊕ 0 A i \oplus_0 A_i ⊕ 0 ​ A i ​ 는 노름 ∥ ⋅ ∥ ∞ \|\cdot\|_\infty ∥ ⋅ ∥ ∞ ​ 를 갖춘 바나흐 대수이다.
+
+3.4. 몫 바나흐 대수 [편집]
+바나흐 대수 A A A 와 A A A 의 닫힌 진 아이디얼 M M M 에 대하여 몫 집합 A / M A/M A / M 에 곱셈 ( a + M ) ( b + M ) = a b + M (a+M)(b+M)=ab+M ( a + M ) ( b + M ) = ab + M 을 정의하면 A / M A/M A / M 은 몫 노름 ∥ a + M ∥ = inf ⁡ { ∥ a + b ∥ : b ∈ M } \|a+M\|=\inf\{\|a+b\|:b\in M\} ∥ a + M ∥ = in f { ∥ a + b ∥ : b ∈ M } 을 갖춘 바나흐 대수이다. 이때 A A A 가 단위원 1 1 1 을 가진 바나흐 대수이면 A / M A/M A / M 도 단위원 1 + M 1+M 1 + M 을 갖는다.
+
+4. 성질 [편집]
+
+4.1. 연산의 성질 [편집]
+
+4.1.1. 곱셈의 연속성 [편집]
+바나흐 대수 A A A 의 곱셈 연산은 A × A A\times A A × A 에서 A A A 로의 연속사상이다. { ( a n , b n ) } \{(a_n, b_n)\} {( a n ​ , b n ​ )} 을 ( a , b ) (a,b) ( a , b ) 로 수렴하는, A × A A\times A A × A 의 열이라 하면
+∥ a n b n − a b ∥ = ∥ a n b n − a b n + a b n − a b ∥ ≤ ∥ a n − a ∥ ∥ b n ∥ + ∥ a ∥ ∥ b n − b ∥ → 0 \begin{aligned} &\|a_nb_n-ab\| \\&=\|a_nb_n-ab_n+ab_n-ab\|\\ &\le \|a_n-a\|\|b_n\|+\|a\|\|b_n-b\|\\ &\to 0 \end{aligned} ​ ∥ a n ​ b n ​ − ab ∥ = ∥ a n ​ b n ​ − a b n ​ + a b n ​ − ab ∥ ≤ ∥ a n ​ − a ∥∥ b n ​ ∥ + ∥ a ∥∥ b n ​ − b ∥ → 0 ​ 이므로 { a n b n } \{a_nb_n\} { a n ​ b n ​ } 은 A A A 의 수렴하는 열이기 때문이다.
+
+바나흐 대수의 정의에서 부등식 ∥ a b ∥ ≤ ∥ a ∥ ∥ b ∥ \|ab\|\le\|a\|\|b\| ∥ ab ∥ ≤ ∥ a ∥∥ b ∥ 는 곱셈의 연속성으로 대체할 수 있다. 즉, 바나흐 공간 X X X 가 X X X 위에서 정의된 곱셈 연산에 대하여 결합 대수를 이루고, X X X 위의 곱셈 연산이 바나흐 공간의 노름 위상에서 좌, 우측으로 모두 연속이면 X X X 는 바나흐 대수이다.
+
+4.1.2. 가역원의 성질 [편집]
+단위원 1 1 1 을 갖는 바나흐 대수 A A A 에 대하여 G ( A ) G(A) G ( A ) 는 곱셈 연산에 관해 군 을 이룬다.
+
+단위원을 갖는 바나흐 대수에서 등비 급수 의 수렴성이 일반화된다. A A A 의 원소 a a a 가 ∥ a − 1 ∥ < 1 {\|a-1\|<1} ∥ a − 1∥ < 1 을 만족시키면 a a a 는 가역이며, a − 1 = ∑ n = 0 ∞ ( 1 − a ) n a^{-1}=\sum_{n=0}^\infty (1-a)^n a − 1 = ∑ n = 0 ∞ ​ ( 1 − a ) n 이다. 증명
+x = 1 − a x=1-a x = 1 − a 라 하면 ∥ x ∥ = r < 1 \|x\|=r<1 ∥ x ∥ = r < 1 이다. 바나흐 대수의 정의에 의해, ∥ y n ∥ ≤ ∥ y ∥ n ≤ r n \|y^n\|\le\|y\|^n\le r^n ∥ y n ∥ ≤ ∥ y ∥ n ≤ r n 이고 따라서 급수 y = ∑ n = 0 ∞ x n y=\sum_{n=0}^\infty x^n y = ∑ n = 0 ∞ ​ x n 는 A A A 에서 수렴한다. y n = ∑ k = 0 n x n y_n=\sum_{k=0}^n x^n y n ​ = ∑ k = 0 n ​ x n 이라 하면 y n ( 1 − x ) = 1 − x n + 1 y_n(1-x)=1-x^{n+1} y n ​ ( 1 − x ) = 1 − x n + 1 이고, n → ∞ n\to\infty n → ∞ 에 따라 x n + 1 → 0 x^{n+1}\to 0 x n + 1 → 0 이므로 y ( 1 − x ) = 1 y(1-x)=1 y ( 1 − x ) = 1 이다. 같은 방법으로 ( 1 − x ) y = 1 (1-x)y=1 ( 1 − x ) y = 1 이다. 따라서 a = 1 − x a=1-x a = 1 − x 는 가역이고 그 역원은 y = ∑ n = 0 ∞ ( 1 − a ) n y=\sum_{n=0}^\infty (1-a)^n y = ∑ n = 0 ∞ ​ ( 1 − a ) n 이다.
+
+위 증명 과정에서 활용된 ∑ n = 0 ∞ x n \sum_{n=0}^\infty x^n ∑ n = 0 ∞ ​ x n 꼴의 급수를 노이만 급수라고 한다. 노이만 급수는 등비 급수의 일반화 중 하나이다.
+
+G ( A ) , G l ( A ) , G r ( A ) G(A),\ G_l(A),\ G_r(A) G ( A ) , G l ​ ( A ) , G r ​ ( A ) 은 A A A 의 열린 집합 이며, G ( A ) G(A) G ( A ) 위의 사상 a ↦ a − 1 a\mapsto a^{-1} a ↦ a − 1 은 G ( A ) G(A) G ( A ) 의 위상 동형 사상 이다. 증명
+G l G_l G l ​ 의 원소 a 0 a_0 a 0 ​ 에 대하여 b 0 b_0 b 0 ​ 를 b 0 a 0 = 1 b_0a_0=1 b 0 ​ a 0 ​ = 1 을 만족시키는, G G G 의 원소라 하자.
+∥ a − a 0 ∥ < ∥ b 0 ∥ − 1 \|a-a_0\|<\|b_0\|^{-1} ∥ a − a 0 ​ ∥ < ∥ b 0 ​ ∥ − 1 인 임의의 a a a 에 대하여
+∥ b 0 a − 1 ∥ < 1 \|b_0a-1\|<1 ∥ b 0 ​ a − 1∥ < 1 이므로 x = b 0 a x=b_0a x = b 0 ​ a 는 왼쪽 가역원이다. 이때, b = x − 1 b 0 b=x^{-1}b_0 b = x − 1 b 0 ​ 는 x a = 1 xa=1 x a = 1 을 만족시켜 a a a 는 왼쪽 가역원으로
+B ( a 0 , ∥ b 0 ∥ − 1 ) ⊆ G l B(a_0,\|b_0\|^{-1})\subseteq G_l B ( a 0 ​ , ∥ b 0 ​ ∥ − 1 ) ⊆ G l ​ 이다. 따라서 G l G_l G l ​ 은 A A A 의 열린 집합이다. 같은 방법으로 G r G_r G r ​ 도 A A A 의 열린 집합이고 G = G l ∩ G r G=G_l\cap G_r G = G l ​ ∩ G r ​ 이므로 G G G 는 A A A 의 열린 집합이다.
+
+G G G 의 사상 a ↦ a − 1 a\mapsto a^{-1} a ↦ a − 1 가 G G G 의 열의 수렴성을 보존함을 보인다. G G G 의 열 { a n } \{a_n\} { a n ​ } 이 1 1 1 로 수렴한다고 하자. 임의의 양수 ϵ \epsilon ϵ 에 대하여 부등식 δ / ( 1 − δ ) < max ⁡ { ϵ , 1 } {\delta/(1-\delta)<\max\{\epsilon, 1\}} δ / ( 1 − δ ) < max { ϵ , 1 } 을 만족시키는 양수 δ \delta δ 를 선택하면 ∥ a n − 1 ∥ < δ {\|a_n -1\|<\delta} ∥ a n ​ − 1∥ < δ 일 때
+a n − 1 = ∑ k = 0 ∞ ( 1 − a n ) k = 1 + ∑ k = 1 ∞ ( 1 − a n ) k \displaystyle a_n^{-1}=\sum_{k=0}^\infty (1-a_n)^k=1+\sum_{k=1}^\infty(1-a_n)^k a n − 1 ​ = k = 0 ∑ ∞ ​ ( 1 − a n ​ ) k = 1 + k = 1 ∑ ∞ ​ ( 1 − a n ​ ) k 이므로
+∥ a n − 1 − 1 ∥ = ∥ ∑ k = 1 ∞ ( 1 − a n ) k ∥ ≤ ∑ k = 1 ∞ ∥ 1 − a n ∥ k < δ 1 − δ < ϵ \displaystyle\begin{aligned} \|a_n^{-1}-1\|&=\left\|\sum_{k=1}^\infty(1-a_n)^k\right\|\\ &\le \sum_{k=1}^\infty \|1-a_n\|^k\\ &<\frac{\delta}{1-\delta}<\epsilon\end{aligned} ∥ a n − 1 ​ − 1∥ ​ = ​ k = 1 ∑ ∞ ​ ( 1 − a n ​ ) k ​ ≤ k = 1 ∑ ∞ ​ ∥1 − a n ​ ∥ k < 1 − δ δ ​ < ϵ ​ 이다. 따라서 n → ∞ n\to\infty n → ∞ 에 따라 a n − 1 → 1 a_n^{-1}\to 1 a n − 1 ​ → 1 이다. G G G 의 원소 a a a 에 대하여 { a n } \{a_n\} { a n ​ } 을 a a a 로 수렴하는, G G G 의 열이라 하면 a − 1 a → 1 a^{-1}a\to 1 a − 1 a → 1 이다. 이때 a n − 1 a = ( a − 1 a n ) − 1 → 1 {a_n^{-1}a=(a^{-1}a_n)^{-1}\to1} a n − 1 ​ a = ( a − 1 a n ​ ) − 1 → 1 이므로 a n − 1 = a n − 1 a a − 1 → a − 1 a_n^{-1}=a_n^{-1}aa^{-1}\to a^{-1} a n − 1 ​ = a n − 1 ​ a a − 1 → a − 1 이다. 따라서 사상 a ↦ a − 1 a\mapsto a^{-1} a ↦ a − 1 은 연속이다. 또한 사상 a ↦ a − 1 a\mapsto a^{-1} a ↦ a − 1 은 자기 자신을 연속인 역사상으로 가지므로 G ( A ) G(A) G ( A ) 의 위상 동형 사상이다.
+
+4.2. 스펙트럼의 성질 [편집]
+R \mathbb{R} R -바나흐 대수에서 어떤 원소의 스펙트럼은 공집합 일 수 있다. 실수체 R \mathbb{R} R 위의 이차정사각행렬 A = [ 0 − 1 1 0 ] A=\begin{bmatrix}0&-1\\1&0\end{bmatrix} A = [ 0 1 ​ − 1 0 ​ ] 에 대하여 det ⁡ ( A − α I ) = α 2 + 1 \det(A-\alpha I)=\alpha^2 +1 det ( A − α I ) = α 2 + 1 이므로 A A A 의 스펙트럼은 실수체에서 공집합이다. 그러나 바나흐 대수가 복소수체 C \mathbb{C} C 위에서 정의된 경우 스펙트럼의 존재가 보장된다. 단위 C \mathbb{C} C -바나흐 대수 A A A 와 A A A 의 각 원소 a a a 에 대하여 a a a 의 스펙트럼 σ ( a ) \sigma(a) σ ( a ) 는 C \mathbb{C} C 의 컴팩트 부분집합이고 공집합이 아니다. 증명
+복소수 α \alpha α 에 대하여 ∣ α ∣ > ∥ a ∥|\alpha|>\|a\| ∣ α ∣ > ∥ a ∥ 이면 ( 1 − α − 1 a ) (1-\alpha^{-1}a) ( 1 − α − 1 a ) 는 가역원이므로 α \alpha α 는 σ ( a ) \sigma(a) σ ( a ) 에 속하지 않는다. 따라서 σ ( a ) \sigma(a) σ ( a ) 는 복소수체의 유계집합이다.
+함수 g : C → A g:\mathbb{C}\to A g : C → A 를 g ( α ) = α 1 − a g(\alpha)=\alpha1-a g ( α ) = α 1 − a 라 하면 g g g 는 연속이다. 열린 집합 G ( A ) G(A) G ( A ) 의 연속 함수 g g g 에 의한 역상 g − 1 ( G ( A ) ) g^{-1}(G(A)) g − 1 ( G ( A )) 는 분해 집합 ρ ( a ) \rho(a) ρ ( a ) 와 같으므로 ρ ( a ) \rho(a) ρ ( a ) 는 열린 집합이고 따라서 스펙트럼 σ ( a ) \sigma(a) σ ( a ) 는 닫힌 집합이다. 즉, 스펙트럼 σ ( a ) \sigma(a) σ ( a ) 는 복소수체의 유계 닫힌 집합으로, 컴팩트 부분집합이다.
+함수 f : ρ ( a ) → G ( A ) f:\rho(a)\to G(A) f : ρ ( a ) → G ( A ) 를
+f ( α ) = ( α 1 − a ) − 1 f(\alpha)=(\alpha1-a)^{-1} f ( α ) = ( α 1 − a ) − 1 로 정의하자. σ ( a ) \sigma(a) σ ( a ) 가 C \mathbb{C} C 의 컴팩트 집합이므로 ρ ( a ) \rho(a) ρ ( a ) 는 C \mathbb{C} C 의 공집합이 아닌 열린 집합이고 따라서 α ∈ ρ ( a ) \alpha\in \rho(a) α ∈ ρ ( a ) 와 α + h ∈ ρ ( a ) \alpha+h\in\rho(a) α + h ∈ ρ ( a ) 가 되도록 하는 0 0 0 이 아닌 복소수 h h h 가 존재한다.
+x = α + h − a , y = α − a x=\alpha+h-a, y=\alpha-a x = α + h − a , y = α − a 라 하면 등식 x − 1 − y − 1 = x − 1 ( y − x ) y − 1 x^{-1}-y^{-1}=x^{-1}(y-x)y^{-1} x − 1 − y − 1 = x − 1 ( y − x ) y − 1 에 의해
+f ( α + h ) − f ( α ) h = ( α + h − a ) − 1 ( − h ) ( α − a ) − 1 h = − ( α + h − a ) − 1 ( α − a ) − 1 \begin{aligned} &\frac{f(\alpha+h)-f(\alpha)}{h}\\ &=\frac{(\alpha+h-a)^{-1}(-h)(\alpha-a)^{-1}}{h}\\ &=-(\alpha+h-a)^{-1}(\alpha -a )^{-1} \end{aligned} ​ h f ( α + h ) − f ( α ) ​ = h ( α + h − a ) − 1 ( − h ) ( α − a ) − 1 ​ = − ( α + h − a ) − 1 ( α − a ) − 1 ​ 이다. h → 0 h\to 0 h → 0 에 따라 ( α + h − a ) − 1 → ( α − a ) − 1 (\alpha+h-a)^{-1}\to(\alpha-a)^{-1} ( α + h − a ) − 1 → ( α − a ) − 1 이므로
+f ′ ( α ) = − ( α 1 − a ) − 2 f'(\alpha)=-(\alpha1-a)^{-2} f ′ ( α ) = − ( α 1 − a ) − 2 이다. f ′ f' f ′ 은 연속 함수이므로 f f f 는 ρ ( a ) \rho(a) ρ ( a ) 위에서 해석적이다. ∣ z ∣ > ∥ a ∥|z|>\|a\| ∣ z ∣ > ∥ a ∥ 인 복소수 z z z 에 대하여 1 − z − 1 a 1-z^{-1}a 1 − z − 1 a 은 가역이므로
+f ( z ) = z − 1 ( 1 − z − 1 a ) − 1 f(z)=z^{-1}(1-z^{-1}a)^{-1} f ( z ) = z − 1 ( 1 − z − 1 a ) − 1 이고, z → ∞ z\to\infty z → ∞ 에 따라서 f ( z ) → 0 f(z)\to 0 f ( z ) → 0 이다. ρ ( a ) = C \rho(a)=\mathbb{C} ρ ( a ) = C 일 경우 리우빌의 정리 에 의해 f f f 는 상수함수이다. f ′ ≠ 0 f'\ne0 f ′  = 0 이므로 이는 모순이고 따라서 ρ ( a ) ≠ C \rho(a)\ne\mathbb{C} ρ ( a )  = C 로, σ ( a ) \sigma(a) σ ( a ) 는 공집합이 아니다.
+
+단위 C \mathbb{C} C -바나흐 대수의 원소 a a a 의 스펙트럼 반지름 r ( a ) r(a) r ( a ) 은 다음과 같다.
+r ( a ) = lim ⁡ n → ∞ ∥ a n ∥ 1 n \displaystyle r(a)=\lim_{n\to\infty}\|a^n\|^{\frac{1}{n}} r ( a ) = n → ∞ lim ​ ∥ a n ∥ n 1 ​ 증명
+집합 D = { z ∈ C : z = 0 or z − 1 ∈ ρ ( a ) } D=\{z\in\mathbb{C}:z=0 \text{ or } z^{-1}\in\rho(a)\} D = { z ∈ C : z = 0 or z − 1 ∈ ρ ( a )} 라 하자. 함수 f : D → A f:D\to A f : D → A 를
+f ( z ) = { 0 , z = 0 ( z − 1 − a ) − 1 , z ≠ 0 f(z)=\begin{cases}0,&z=0\\(z^{-1}-a)^{-1},&z\ne0\end{cases} f ( z ) = { 0 , ( z − 1 − a ) − 1 , ​ z = 0 z  = 0 ​ 로 정의한다. z → ∞ z\to\infty z → ∞ 에 따라 ( z − 1 − a ) − 1 → 0 (z^{-1}-a)^{-1}\to 0 ( z − 1 − a ) − 1 → 0 이므로 f f f 는 D D D 에서 해석적이고, 따라서 거듭제곱 급수 표현을 갖는다. 가역원의 노이만 급수 전개 표현에 따라 ∣ z ∣ < ∥ a ∥ − 1|z|<\|a\|^{-1} ∣ z ∣ < ∥ a ∥ − 1 일 때 f f f 의 거듭제곱 급수 표현은
+f ( z ) = ∑ n = 0 ∞ a n ( z − 1 ) n + 1 = z ∑ n = 0 ∞ z n a n \displaystyle f(z)=\sum_{n=0}^\infty \frac{a^n}{(z^{-1})^{n+1}}=z\sum_{n=0}^\infty z^na^n f ( z ) = n = 0 ∑ ∞ ​ ( z − 1 ) n + 1 a n ​ = z n = 0 ∑ ∞ ​ z n a n 이다. 이 거듭제곱 급수의 수렴 반지름을 R R R 이라 하면
+R = dist ⁡ ( 0 , ∂ G ) = dist ⁡ ( 0 , σ ( a ) − 1 ) R=\operatorname{dist}(0, \partial G)=\operatorname{dist}(0,\sigma(a)^{-1}) R = dist ( 0 , ∂ G ) = dist ( 0 , σ ( a ) − 1 ) 이다. 따라서
+R = inf ⁡ { ∣ α ∣ : α − 1 ∈ σ ( a ) } = r ( a ) − 1 R=\inf\{|\alpha|:\alpha^{-1}\in\sigma(a)\}=r(a)^{-1} R = in f { ∣ α ∣ : α − 1 ∈ σ ( a )} = r ( a ) − 1 이다. 또한 거듭제곱 급수의 수렴 반지름 R R R 에 대하여 R − 1 = lim sup ⁡ ∥ a n ∥ 1 n R^{-1}=\limsup\|a^n\|^{\frac{1}{n}} R − 1 = lim sup ∥ a n ∥ n 1 ​ 이므로
+r ( a ) = lim sup ⁡ ∥ a n ∥ 1 n r(a)=\limsup \|a^n\|^{\frac{1}{n}} r ( a ) = lim sup ∥ a n ∥ n 1 ​ 이다. 복소수 α \alpha α 와 양의 정수 n n n 에 대하여
+α n − a n = ( α − a ) ( α n − 1 + α n − 2 a + ⋯ + a n − 1 ) = ( α n − 1 + α n − 2 a + ⋯ + a n − 1 ) ( α − a ) \begin{aligned} &\alpha^n-a^n\\ &=(\alpha-a)(\alpha^{n-1}+\alpha^{n-2}a+\cdots+a^{n-1})\\ &=(\alpha^{n-1}+\alpha^{n-2}a+\cdots+a^{n-1})(\alpha-a) \end{aligned} ​ α n − a n = ( α − a ) ( α n − 1 + α n − 2 a + ⋯ + a n − 1 ) = ( α n − 1 + α n − 2 a + ⋯ + a n − 1 ) ( α − a ) ​ 이므로 α n − a n \alpha^n -a^n α n − a n 이 가역이면 α − a \alpha-a α − a 도 가역이다. α \alpha α 가 a a a 의 스펙트럼에 속하면 α n − a n \alpha^n-a^n α n − a n 은 모든 양의 정수 n n n 에 대하여 비가역으로 ∣ α ∣ n ≤ ∥ a n ∥|\alpha|^n \le \|a^n\| ∣ α ∣ n ≤ ∥ a n ∥ 이고, 따라서
+r ( a ) ≤ lim inf ⁡ ∥ a n ∥ 1 n ≤ lim sup ⁡ ∥ a n ∥ 1 n r(a)\le \liminf\|a^n\|^{\frac{1}{n}}\le\limsup\|a^n\|^{\frac{1}{n}} r ( a ) ≤ lim inf ∥ a n ∥ n 1 ​ ≤ lim sup ∥ a n ∥ n 1 ​ 이다. 이때, r ( a ) = lim sup ⁡ ∥ a n ∥ 1 n r(a)=\limsup \|a^n\|^{\frac{1}{n}} r ( a ) = lim sup ∥ a n ∥ n 1 ​ 이므로 r ( a ) = lim ⁡ n → ∞ ∥ a n ∥ 1 n r(a)=\lim_{n\to\infty} \|a^n\|^{\frac{1}{n}} r ( a ) = lim n → ∞ ​ ∥ a n ∥ n 1 ​ 이다.
+
+바나흐 대수의 원소의 스펙트럼은 그 원소가 속한 바나흐 대수에 따라 달라질 수 있다. 이때, a a a 가 속한 바나흐 대수들의 포함 관계에 따라 스펙트럼의 일반적인 포함관계가 성립한다. A , B A, B A , B 가 공통 단위원을 갖는 단위 바나흐 대수이고 B ⊆ A B\subseteq A B ⊆ A 이면 임의의 a a a 에 대하여 σ A ( a ) ⊆ σ B ( a ) \sigma_A(a)\subseteq\sigma_B(a) σ A ​ ( a ) ⊆ σ B ​ ( a ) 이다.
+
+4.2.1. 스펙트럼 사상 정리 [편집]
+단위 C \mathbb{C} C -바나흐 대수 A A A 의 원소 a a a 에 대하여 Hol ⁡ ( a ) \operatorname{Hol}(a) Hol ( a ) 를 σ ( a ) \sigma(a) σ ( a ) 근방에서 해석적인 모든 함수의 집합이라 하자. f ∈ Hol ⁡ ( a ) f\in \operatorname{Hol}(a) f ∈ Hol ( a ) 에 대하여 다음이 성립한다.
+σ ( f ( a ) ) = f ( σ ( a ) ) \sigma(f(a))=f(\sigma(a)) σ ( f ( a )) = f ( σ ( a ))
+
+4.3. 구조적 성질 [편집]
+
+4.3.1. 겔판트-마주르 정리 [편집]
+나눗셈 환인 단위 복소 바나흐 대수는 복소수 대수 C \mathbb{C} C 와 동형이다. 증명
+단위 C \mathbb{C} C -복소 바나흐 대수 A A A 의 임의의 원소 a a a 와 x x x 의 스펙트럼 σ ( x ) \sigma(x) σ ( x ) 의 임의의 복소수 α \alpha α 에 대하여 α 1 − a \alpha1-a α 1 − a 가 비가역이고 A A A 가 나눗셈환이므로 α 1 − a = 0 \alpha1-a=0 α 1 − a = 0 이다. 즉, a = α 1 a=\alpha1 a = α 1 로, 단위원의 복소수곱이다. 따라서 A A A 는 복소수 대수 C \mathbb{C} C 와 동형이다.
+
+이에 따라 사원수 대수 H \mathbb{H} H 는 바나흐 대수가 될 수 없다.
+
+이 성질을 밝혀낸 아즈라일 겔판트 과 스타니스와프 마주르 의 이름을 따왔다.
+
+4.3.2. 준동형사상의 성질 [편집]
+복소 대수 A A A 의 선형범함수 h h h 가 준동형사상일 때, h h h 를 복소 준동형사상(complex homomorphism)이라고 한다. 단위원을 갖춘 복소 바나흐 대수 A A A 의 복소 준동형사상 h h h 에 대하여 다음이 성립한다. - h ( 1 ) = 1 h(1)=1 h ( 1 ) = 1
+- 모든 a ∈ G ( a ) a\in G(a) a ∈ G ( a ) 에 대하여 h ( a ) ≠ 0 h(a)\ne0 h ( a )  = 0
+- ∥ h ∥ = 1 \|h\|=1 ∥ h ∥ = 1
+- h h h 는 연속이다.
+
+증명
+a. h h h 는 항등적으로 0 0 0 이 아니므로 어떤 b ∈ A b\in A b ∈ A 에 대하여 h ( b ) ≠ 0 h(b)\ne0 h ( b )  = 0 이다.
+h ( b ) = h ( b 1 ) = h ( b ) h ( 1 ) ≠ 0 h(b)=h(b1)=h(b)h(1)\ne0 h ( b ) = h ( b 1 ) = h ( b ) h ( 1 )  = 0 에서 h ( 1 ) = 1 h(1)=1 h ( 1 ) = 1 이다.
+b. a ∈ G ( A ) a\in G(A) a ∈ G ( A ) 에 대하여
+h ( a ) h ( a − 1 ) = h ( a a − 1 ) = h ( e ) = 1 h(a)h(a^{-1})=h(aa^{-1})=h(e)=1 h ( a ) h ( a − 1 ) = h ( a a − 1 ) = h ( e ) = 1 이므로 h ( a − 1 ) ≠ 0 h(a^{-1})\ne0 h ( a − 1 )  = 0 이다.
+c. ∥ a ∥ < 1 \|a\|<1 ∥ a ∥ < 1 인 임의의 a ∈ A a\in A a ∈ A 에 대하여 α ∈ C \alpha\in\mathbb{C} α ∈ C 가 ∣ α ∣ > 1|\alpha|> 1 ∣ α ∣ > 1 이라 하자. 1 − α − 1 a 1-\alpha^{-1}a 1 − α − 1 a 는 가역이므로
+h ( 1 − α − 1 a ) = 1 − α − 1 h ( a ) ≠ 0 h(1-\alpha^{-1}a)=1-\alpha^{-1}h(a)\ne 0 h ( 1 − α − 1 a ) = 1 − α − 1 h ( a )  = 0 에서 h ( a x ) ≠ α h(ax)\ne\alpha h ( a x )  = α 이다. 즉, ∣ h ( a ) ∣ ≤ 1|h(a)|\le1 ∣ h ( a ) ∣ ≤ 1 이다. 또 h ( 1 ) = 1 h(1)=1 h ( 1 ) = 1 이므로 ∥ h ∥ = 1 \|h\|=1 ∥ h ∥ = 1 이다.
+d. A A A 의 원소 a 0 a_0 a 0 ​ 와 임의의 양수 ϵ \epsilon ϵ 에 대하여 δ < max ⁡ { ϵ , 1 } \delta<\max\{\epsilon, 1\} δ < max { ϵ , 1 } 인 양수 δ \delta δ 를 선택하자. ∥ a 0 − a ∥ < δ {\|a_0-a\|<\delta} ∥ a 0 ​ − a ∥ < δ 이면 ∥ δ − 1 ( a 0 − a ) ∥ < 1 {\|\delta^{-1}(a_0-a)\|<1} ∥ δ − 1 ( a 0 ​ − a ) ∥ < 1 이므로 ∣ h ( δ − 1 ( a 0 − a ) ) ∣ < 1 {|h(\delta^{-1}(a_0-a))|<1} ∣ h ( δ − 1 ( a 0 ​ − a )) ∣ < 1 이고
+∣ h ( δ − 1 ( a 0 − a ) ) ∣ = δ − 1 ∣ h ( a 0 ) − h ( a ) ∣ < 1 \begin{aligned} |h(\delta^{-1}(a_0-a))|&=\delta^{-1}|h(a_0)-h(a)|\\ &<1 \end{aligned} ∣ h ( δ − 1 ( a 0 ​ − a )) ∣ ​ = δ − 1 ∣ h ( a 0 ​ ) − h ( a ) ∣ < 1 ​ 에서 ∣ h ( a 0 ) − h ( a ) ∣ < δ ≤ ϵ {|h(a_0)-h(a)|<\delta\le\epsilon} ∣ h ( a 0 ​ ) − h ( a ) ∣ < δ ≤ ϵ 이므로 h h h 는 연속이다.
+d'. h h h 의 연속성은 겔판트-마주르 정리를 이용해 보일 수도 있다. 준동형사상 h h h 의 핵 ker ⁡ h \ker h ker h 는 바나흐 대수 A A A 의 극대 아이디얼로 닫힌집합이고, 몫대수 A / ker ⁡ h A/\ker h A / ker h 는 나눗셈환이다. 따라서 겔판트-마주르 정리에 의해 A / ker ⁡ h A/\ker h A / ker h 는 복소수체 C \mathbb{C} C 와 동형이다. 준동형사상 h h h 는 자연사상 π : A → A / ker ⁡ h \pi:A\to A/\ker h π : A → A / ker h 와 동형사상 ϕ : A / ker ⁡ h → C \phi:A/\ker h \to \mathbb{C} ϕ : A / ker h → C 에 대하여 h = π ∘ ϕ h=\pi\circ\phi h = π ∘ ϕ 이고 두 사상 π , ϕ \pi,\ \phi π , ϕ 는 모두 연속사상이므로 h h h 도 연속사상이다.
+
+복소 준동형사상의 단위성 h ( 1 ) = 1 h(1)=1 h ( 1 ) = 1 은 모든 대수 준동형사상에 관해 일반적으로 성립하는 성질은 아니다. l ∞ l^\infty l ∞ 공간 , 즉 상한 노름 ∥ a n ∥ ∞ = sup ⁡ { ∣ a k ∣ : k ∈ N } \|a_n\|_\infty=\sup\{|a_k|:k\in\mathbb{N}\} ∥ a n ​ ∥ ∞ ​ = sup { ∣ a k ​ ∣ : k ∈ N } 이 유한한 수열 공간에 각 성분별 곱셈
+( a 1 , a 2 , … ) ( b 1 , b 2 , … ) = ( a 1 b 1 , a 2 b 2 , … ) (a_1,a_2,\ldots)(b_1,b_2,\ldots)=(a_1b_1,a_2b_2,\ldots) ( a 1 ​ , a 2 ​ , … ) ( b 1 ​ , b 2 ​ , … ) = ( a 1 ​ b 1 ​ , a 2 ​ b 2 ​ , … ) 을 부여하면 l ∞ l^\infty l ∞ 공간은 바나흐 대수이며, 단위원은 ( 1 , 1 , … ) (1,1,\ldots) ( 1 , 1 , … ) 이다. 실수 전체의 집합 R \mathbb{R} R 에서 l ∞ l^\infty l ∞ 공간으로의 사상 h h h 를 h ( x ) = ( x , 0 , … ) h(x)=(x,0,\ldots) h ( x ) = ( x , 0 , … ) 로 정의하면. h h h 는 대수 준동형사상이다. 이때 h ( 1 ) = ( 1 , 0 , … ) h(1)=(1,0,\ldots) h ( 1 ) = ( 1 , 0 , … ) 이므로 h h h 는 단위성을 갖지 않는다.
+
+대수 준동형사상이 전사인 경우 단위성이 성립한다. 두 단위 대수 A , B A, B A , B 사이의 전사 대수 준동형사상 h : A → B h:A\to B h : A → B 과 임의의 b ∈ B b\in B b ∈ B 에 대하여 h ( a ) = b h(a)=b h ( a ) = b 인 a ∈ A a\in A a ∈ A 가 존재하고,
+h ( a ) = h ( a 1 A ) = h ( a ) h ( 1 A ) = h ( 1 A a ) = h ( 1 A ) h ( a ) = b \begin{aligned} h(a)&=h(a 1_A)=h(a)h(1_A)\\ &=h(1_A a)=h(1_A)h(a)\\ &=b\end{aligned} h ( a ) ​ = h ( a 1 A ​ ) = h ( a ) h ( 1 A ​ ) = h ( 1 A ​ a ) = h ( 1 A ​ ) h ( a ) = b ​ 이다. b b b 는 B B B 의 임의의 원소이므로 h ( 1 A ) = 1 B h(1_A)=1_B h ( 1 A ​ ) = 1 B ​ 이다.
+
+복소 준동형사상의 단위성과 가역원의 상이 0 0 0 이 아닌 성질은 복소 단위 바나흐 대수의 선형 범함수가 복소 준동형사상일 조건이기도 하다. 이를 Gleason-Kahane-Żelazko 정리라고 한다.
+
+(Gleason-Kahane-Żelazko 정리) 복소 단위 바나흐 대수 A A A 의 선형 범함수 f : A → C f:A\to\mathbb{C} f : A → C 가 f ( 1 ) = 1 f(1)=1 f ( 1 ) = 1 이고 A A A 의 모든 가역원 x x x 에 대하여 f ( x ) ≠ 0 f(x)\ne 0 f ( x )  = 0 이면 A A A 의 임의의 두 원소 a , b a, b a , b 에 대하여 f ( a b ) = f ( a ) f ( b ) f(ab)=f(a)f(b) f ( ab ) = f ( a ) f ( b ) 이다. 증명
+자연수 n n n 과 복소수 t t t 에 대하여 f ( t ( 1 − a ) n ) f(t(1-a)^n) f ( t ( 1 − a ) n ) 은 t t t 에 대한 n n n 차 다항식이다. ∣ t ∣ > ∥ a ∥|t|>\|a\| ∣ t ∣ > ∥ a ∥ 이면 ∥ t − 1 a ∥ < 1 \|t^-1a\|<1 ∥ t − 1 a ∥ < 1 이므로 t − 1 ( t 1 − a ) t^{-1}(t1-a) t − 1 ( t 1 − a ) 는 가역이다. 따라서 각 자연수 n n n 에 대하여 ( t 1 − a ) n (t1-a)^n ( t 1 − a ) n 은 가역이고, f ( ( t 1 − a ) n ) ≠ 0 f((t1-a)^n)\ne0 f (( t 1 − a ) n )  = 0 이다. 따라서 다항식 f ( t ( 1 − a ) n ) f(t(1-a)^n) f ( t ( 1 − a ) n ) 의 n n n 개의 근 α 1 , … , α n \alpha_1,\ldots , \alpha_n α 1 ​ , … , α n ​ 의 크기는 모두 ∥ a ∥ \|a\| ∥ a ∥ 이하이다.
+{ n f ( a ) } 2 − n ( n − 1 ) f ( a 2 ) = { ∑ j = 1 n α j } 2 − ∑ j , k = 1 ( j ≠ k ) n α j α k = ∑ j = 1 n α j 2 \begin{aligned}&\{nf(a)\}^2 -n(n-1)f(a^2)\\ &=\left\{\sum_{j=1}^n \alpha_j\right\}^2-\sum_{j,k=1(j \ne k)}^n \alpha_j\alpha_k\\ &= \sum_{j=1}^n \alpha^2_j \end{aligned} ​ { n f ( a ) } 2 − n ( n − 1 ) f ( a 2 ) = { j = 1 ∑ n ​ α j ​ } 2 − j , k = 1 ( j  = k ) ∑ n ​ α j ​ α k ​ = j = 1 ∑ n ​ α j 2 ​ ​ 이므로
+∣ { n f ( a ) } 2 − n ( n − 1 ) f ( a 2 ) ∣ ≤ n ∥ a ∥ 2|\{nf(a)\}^2 -n(n-1)f(a^2)|\le n\|a\|^2 ∣ { n f ( a ) } 2 − n ( n − 1 ) f ( a 2 ) ∣ ≤ n ∥ a ∥ 2 이고, 양변을 n 2 n^2 n 2 으로 나누면 n → ∞ n\to\infty n → ∞ 일 때
+f ( a 2 ) = { f ( a ) } 2 f(a^2)=\{f(a)\}^2 f ( a 2 ) = { f ( a ) } 2 이다. 위 등식에서 a a a 를 a + b a+b a + b 로 치환하면
+f ( a b + b a ) = 2 f ( a ) f ( b ) f(ab+ba)=2f(a)f(b) f ( ab + ba ) = 2 f ( a ) f ( b ) 이다. 이때 A A A 가 가환 대수인 경우 f ( a b ) = f ( a ) f ( b ) f(ab)=f(a)f(b) f ( ab ) = f ( a ) f ( b ) 를 얻는다.
+
+A A A 가 가환 대수가 아닌 경우 f ( a b ) ≠ f ( a ) f ( b ) f(ab)\ne f(a)f(b) f ( ab )  = f ( a ) f ( b ) 를 만족시키는, A A A 의 두 원소 a , b a, b a , b 가 존재한다고 가정한다. 두 상수 α , β ( α ≠ 0 ) \alpha, \beta(\alpha\ne0) α , β ( α  = 0 ) 에 대하여
+f ( ( α a + β 1 ) b ) = α f ( a b ) + β f ( b ) ≠ α f ( a ) f ( b ) + β f ( b ) = f ( α a + β 1 ) f ( b ) \begin{aligned}f((\alpha a +\beta 1)b)&=\alpha f(ab)+\beta f(b)\\ &\ne \alpha f(a) f(b) +\beta f(b)\\ &=f(\alpha a +\beta1)f(b) \end{aligned} f (( α a + β 1 ) b ) ​ = α f ( ab ) + β f ( b )  = α f ( a ) f ( b ) + β f ( b ) = f ( α a + β 1 ) f ( b ) ​ 이다. 따라서 두 상수 α , β \alpha, \beta α , β 를 연립방정식
+{ f ( a ) α + β = 0 f ( a b ) α + f ( b ) β = 0 \begin{cases} f(a)\alpha+\beta=0\\ f(ab)\alpha+f(b)\beta=0 \end{cases} { f ( a ) α + β = 0 f ( ab ) α + f ( b ) β = 0 ​ 의 해로 선택하여 t = α a + β 1 t=\alpha a+\beta 1 t = α a + β 1 로 두면 f ( t ) = 0 , f ( t b ) = 1 , f ( b t ) = − 1 f(t)=0, f(tb)=1, f(bt)=-1 f ( t ) = 0 , f ( t b ) = 1 , f ( b t ) = − 1 이다. 여기서 s = b t b s=btb s = b t b 라 하면 f ( t ) f ( s ) = 0 f(t)f(s)=0 f ( t ) f ( s ) = 0 이다. 반면 f ( t 2 ) = { f ( t ) } 2 , f ( t s + s t ) = 2 f ( t ) f ( s ) f(t^2)=\{f(t)\}^2, f(ts+st)=2f(t)f(s) f ( t 2 ) = { f ( t ) } 2 , f ( t s + s t ) = 2 f ( t ) f ( s ) 에서
+2 f ( t ) f ( s ) = f ( t s + s t ) = f ( ( t s ) 2 ) + f ( ( s t ) 2 ) = { f ( t b ) } 2 + { f ( b t ) } 2 = 2 \begin{aligned} 2f(t)f(s)&=f(ts+st)\\ &=f((ts)^2)+f((st)^2)\\ &=\{f(tb)\}^2+\{f(bt)\}^2\\ &=2 \end{aligned} 2 f ( t ) f ( s ) ​ = f ( t s + s t ) = f (( t s ) 2 ) + f (( s t ) 2 ) = { f ( t b ) } 2 + { f ( b t ) } 2 = 2 ​ 로 모순이다.
+
+4.4. 겔판트 표현 [편집]
+가환 단위 복소 바나흐 대수 A A A 는 컴팩트 하우스도르프 공간 위에서 정의된 연속함수 대수와 대수 준동형이다.
+
+가환 단위 복소 바나흐 대수 A A A 에 대하여 0 0 0 이 아닌 복소 준동형사상 h : A → C h:A\to\mathbb{C} h : A → C 를 A A A 의 지표 (character)라고 한다. M A \mathcal{M}_A M A ​ 를 A A A 의 지표의 집합이라고 하면 M A \mathcal{M}_A M A ​ 는 바나흐 대수 A A A 의 쌍대공간 A ∗ A^* A ∗ 의 부분집합으로, w k ∗ \mathrm{wk^*} w k ∗ 위상에 대하여 컴팩트 하우스도르프 공간을 이룬다. 컴팩트 하우스도르프 공간 M A \mathcal{M}_A M A ​ 를 A A A 의 극대 아이디얼 공간 (maximal ideal space)이라고 한다. 대수의 지표와 극대아이디얼 은 표준적인 일대일 대응을 이루므로 M A \mathcal{M}_A M A ​ 는 A A A 의 극대 아이디얼의 집합으로 파악할 수 있다. 증명
+각 h ∈ M A h\in \mathcal{M}_A h ∈ M A ​ 에 대하여 ∥ h ∥ = 1 \|h\|=1 ∥ h ∥ = 1 이므로 M A ⊂ b a l l A ∗ \mathcal{M}_A\subset \mathrm{ball}\ A^* M A ​ ⊂ ball A ∗ 이다. 바나흐-앨러오글루 정리 에 의해 b a l l A ∗ \mathrm{ball}\ A^* ball A ∗ 는 컴팩트 하우스도르프 공간이므로 M A \mathcal{M}_A M A ​ 가 닫힌집합임을 보이는 것으로 충분하다. 그물 { h i } \{h_i\} { h i ​ } 가 h ∈ b a l l A ∗ h\in\mathrm{ball}\ A^* h ∈ ball A ∗ 로 w k ∗ \mathrm{wk}^* wk ∗ -수렴한다고 하자. a , b ∈ A a,\ b\in A a , b ∈ A 에 대하여
+h ( a b ) = lim ⁡ i h i ( a b ) = lim ⁡ i h i ( a ) h i ( b ) = h ( a ) h ( b ) \begin{aligned} h(ab)&=\lim_i h_i(ab)\\ &=\lim_i h_i(a)h_i(b)\\ &=h(a)h(b) \end{aligned} h ( ab ) ​ = i lim ​ h i ​ ( ab ) = i lim ​ h i ​ ( a ) h i ​ ( b ) = h ( a ) h ( b ) ​ 이므로 h ∈ M A h\in \mathcal{M}_A h ∈ M A ​ 이다.
+
+A A A 의 원소 a a a 에 대하여 범함수
+a ^ : M A → C , a ^ ( h ) = h ( a ) \hat{a}:\mathcal{M}_A\to\mathbb{C},\ \hat{a}(h)=h(a) a ^ : M A ​ → C , a ^ ( h ) = h ( a ) 를 a a a 의 겔판트 변환 (Gelfand transform)이라고 한다. 겔판트 변환은 M A \mathcal{M}_A M A ​ 위의 연속사상이고 A A A 에서 연속함수 공간 C ( M A ) C(\mathcal{M}_A) C ( M A ​ ) 으로의 사상 a ↦ a ^ a\mapsto \hat{a} a ↦ a ^ 는 연속 대수 준동형사상이며, 작용소 노름은 1 1 1 이다. 이 연속 대수 준동형사상
+^ : A → C ( M A ) , a ↦ a ^ \hat{\ }:A\to C(\mathcal{M}_A),\ a\mapsto\hat{a} ^ : A → C ( M A ​ ) , a ↦ a ^ 을 가환 단위 복소 바나흐 대수 A A A 의 겔판트 표현 (겔판트 변환, Gelfand representation, Gelfand transformation)이라고 한다. 증명
+M A \mathcal{M}_A M A ​ 에서 그물 { h i } \{h_i\} { h i ​ } 가 h h h 로 수렴하면 { h i } \{h_i\} { h i ​ } 는 A ∗ A^* A ∗ 에서 h h h 로 w k ∗ \mathrm{wk^*} w k ∗ 수렴한다. 따라서 각 a ∈ A a\in A a ∈ A 에 대하여
+a ^ ( h i ) = h i ( a ) → h ( a ) = a ^ ( h ) \hat{a}(h_i)=h_i(a)\to h(a)=\hat{a}(h) a ^ ( h i ​ ) = h i ​ ( a ) → h ( a ) = a ^ ( h ) 으로, a ^ \hat{a} a ^ 는 M A \mathcal{M}_A M A ​ 위의 연속사상이다.
+각 a , b ∈ A a,\ b\in A a , b ∈ A 에 대하여 a b ^ ( h ) = h ( a b ) = h ( a ) h ( b ) = a ^ ( h ) b ^ ( h ) \widehat{ab}(h)=h(ab) =h(a)h(b)=\hat{a}(h)\hat{b}(h) ab ( h ) = h ( ab ) = h ( a ) h ( b ) = a ^ ( h ) b ^ ( h ) 이고 α ∈ C \alpha\in\mathbb{C} α ∈ C 에 대하여 α a + b ^ ( h ) = h ( α a + b ) = α h ( a ) + h ( b ) = α a ^ ( h ) + b ^ ( h ) \widehat{\alpha a + b}(h)=h(\alpha a+b)=\alpha h(a)+h(b)=\alpha\hat{a}(h)+\hat{b}(h) α a + b ​ ( h ) = h ( α a + b ) = α h ( a ) + h ( b ) = α a ^ ( h ) + b ^ ( h ) 이므로 ^ \hat{\ } ^ 는 대수 준동형사상이다.
+각 h ∈ M A h\in\mathcal{M}_A h ∈ M A ​ 의 작용소 노름은 1 1 1 이므로 a ∈ A a\in A a ∈ A 에 대하여 ∣ a ^ ( h ) ∣ = ∣ h ( a ) ∣ ≤ ∥ a ∥|\hat{a}(h)|=|h(a)|\le\|a\| ∣ a ^ ( h ) ∣ = ∣ h ( a ) ∣ ≤ ∥ a ∥ 이다. 따라서 ∥ a ^ ∥ ∞ ≤ ∥ a ∥ \|\hat{a}\|_\infty\le \|a\| ∥ a ^ ∥ ∞ ​ ≤ ∥ a ∥ 로 ^ \hat{\ } ^ 는 연속이다. 또한 1 ^ = 1 \hat{1}=1 1 ^ = 1 이므로 ∥ ^ ∥ = 1 \|\hat{\ }\|=1 ∥ ^ ∥ = 1 이다.
+
+겔판트 표현 ^ : A → C ( M A ) \hat{\ }:A\to C(\mathcal{M}_A) ^ : A → C ( M A ​ ) 의 핵은
+⋂ { M : M 은 A 의 극대아이디얼 } \displaystyle\bigcap \{M:M\text{은 }A\text{의 극대아이디얼}\} ⋂ { M : M 은 A 의 극대아이디얼 } 이다. a ^ = 0 \hat{a}=0 a ^ = 0 이므로 임의의 h ∈ M A h\in\mathcal{M}_A h ∈ M A ​ 에 대하여 a ^ ( h ) = h ( a ) = 0 \hat{a}(h)=h(a)=0 a ^ ( h ) = h ( a ) = 0 이고 이는 a ∈ ∩ h ∈ M A ker ⁡ h a\in \cap_{h\in \mathcal{M}_A}\ker\ h a ∈ ∩ h ∈ M A ​ ​ ker h 를 뜻한다. 이때 각 ker ⁡ h \ker\ h ker h 는 A A A 의 극대아이디얼과 일대일 대응이므로 ∩ h ∈ M A ker ⁡ h \cap_{h\in \mathcal{M}_A}\ker\ h ∩ h ∈ M A ​ ​ ker h 는 A A A 의 모든 극대 아이디얼의 교집합과 같다. 겔판트 표현의 핵을 A A A 의 근기 (radical)라 하고 r a d A \mathrm{rad}\ A rad A 로 표기한다.
+
+일반적인 바나흐 대수의 겔판트 표현은 단사, 전사, 거리동형, 위상동형 등의 성질을 보장하지 않는다. - 겔판트 표현이 단사가 아닌 경우
+C \mathbb{C} C -행렬 대수 M 2 ( C ) M_2(\mathbb{C}) M 2 ​ ( C ) 의 부분대수
+A 1 = { [ α β 0 α ] : α , β ∈ C } A_1=\displaystyle\left\{\begin{bmatrix}\alpha&\beta\\0&\alpha\end{bmatrix}:\alpha,\ \beta\in\mathbb{C}\right\} A 1 ​ = { [ α 0 ​ β α ​ ] : α , β ∈ C } 는 행렬 노름과 단위원을 갖춘 가환 복소 단위 바나흐 대수이다. A 1 A_1 A 1 ​ 의 극대 아이디얼은
+M = { [ 0 β 0 0 ] : β ∈ C } M=\left\{\begin{bmatrix}0&\beta\\0&0\end{bmatrix}:\beta\in\mathbb{C}\right\} M = { [ 0 0 ​ β 0 ​ ] : β ∈ C } 이 유일하므로 rad ⁡ A 1 = M ≠ { 0 } \operatorname{rad}A_1=M\ne\left\{0\right\} rad A 1 ​ = M  = { 0 } 이다. 따라서 A 1 A_1 A 1 ​ 의 겔판트 표현은 단사가 아니다.
+- 겔판트 표현이 전사가 아닌 경우
+C \mathbb{C} C -함수 대수 A 2 = C 1 [ 0 , 1 ] A_2=C^1[0,\ 1] A 2 ​ = C 1 [ 0 , 1 ] 은 노름 ∥ f ∥ ∞ + ∥ f ′ ∥ ∞ \|f\|_\infty+\|f'\|_\infty ∥ f ∥ ∞ ​ + ∥ f ′ ∥ ∞ ​ 를 갖춘 가환 복소 단위 바나흐 대수이다. A 2 A_2 A 2 ​ 의 지표는 모두 ϕ a ( f ) = f ( a ) , a ∈ [ 0 , 1 ] \phi_a(f)=f(a),\ a\in [0,\ 1] ϕ a ​ ( f ) = f ( a ) , a ∈ [ 0 , 1 ] 꼴이므로 A 2 A_2 A 2 ​ 의 극대 아이디얼은 M a = { f ∈ A 2 : f ( a ) = 0 } M_a=\{f\in A_2:f(a)=0\} M a ​ = { f ∈ A 2 ​ : f ( a ) = 0 } 이다. 따라서 M A 2 \mathcal{M}_{A_2} M A 2 ​ ​ 는 [ 0 , 1 ] [0, 1] [ 0 , 1 ] 와 위상동형이고 A 2 A_2 A 2 ​ 의 겔판트 표현의 공역은 C [ 0 , 1 ] C[0,\ 1] C [ 0 , 1 ] 이다. 이때 f ∈ A 2 f\in A_2 f ∈ A 2 ​ 의 겔판트 변환 f ^ \hat{f} f ^ ​ 와 a ∈ [ 0 , 1 ] a\in[0,\ 1] a ∈ [ 0 , 1 ] 에 대하여 f ^ ( a ) = f ^ ( ϕ a ) = ϕ a ( f ) = f ( a ) \hat{f}(a)=\hat{f}(\phi_a)=\phi_a(f)=f(a) f ^ ​ ( a ) = f ^ ​ ( ϕ a ​ ) = ϕ a ​ ( f ) = f ( a ) 이므로 A 2 A_2 A 2 ​ 의 겔판트 표현의 상은 C 1 [ 0 , 1 ] ⊊ C [ 0 , 1 ] C^1[0,\ 1]\subsetneq C[0,\ 1] C 1 [ 0 , 1 ] ⊊ C [ 0 , 1 ] 이다. 즉, A 2 A_2 A 2 ​ 의 겔판트 표현은 전사가 아니다.
+- 겔판트 표현이 거리동형이 아닌 경우
+A 2 = C 1 [ 0 , 1 ] A_2=C^1[0,\ 1] A 2 ​ = C 1 [ 0 , 1 ] 는 노름 ∥ f ∥ ∞ + ∥ f ′ ∥ ∞ \|f\|_\infty+\|f'\|_\infty ∥ f ∥ ∞ ​ + ∥ f ′ ∥ ∞ ​ 를 갖추었으나 A 2 A_2 A 2 ​ 의 겔판트 변환의 공역 C [ 0 , 1 ] C[0,\ 1] C [ 0 , 1 ] 은 균등 노름 ∥ f ∥ ∞ \|f\|_\infty ∥ f ∥ ∞ ​ 을 갖춘 대수다. 이 두 노름은 동일한 거리를 유도하지 않으므로 A 2 A_2 A 2 ​ 의 겔판트 표현은 거리동형이 아니다.
+- 겔판트 표현이 위상동형이 아닌 경우
+전단사가 아닌 겔판트 표현은 자명하게 위상동형사상이 아니다.
+
+전단사 겔판트 표현은 바나흐 공간의 열린 사상 정리에 의해 위상 동형사상이다. 전단사 겔판트 표현은 바나흐 대수와 그 겔판트 변환 사이의 대수 동형, 위상 동형사상이므로 두 대수의 대수적, 해석적 구조를 일치시킨다. 바나흐 대수에 정의된 노름에 따라 거리 동형성은 만족시키지 않을 수 있으나, 바나흐 대수와 겔판트 표현의 노름이 서로 동치임이 보장된다.
+
+이처럼 일반적인 바나흐 대수와 그 겔판트 표현은 기하적 성질이 완벽히 대응되지 않을 수 있으나, 가환 바나흐 대수애 대합 연산과 관련 조건이 첨가된 가환 C ∗ C^* C ∗ -대수 의 경우 대수와 그 겔판트 변환이 등거리 *-동형이다.
+
+겔판트 표현은 스펙트럼을 보존하며, 스펙트럼과 관련된 성질을 갖는다. 가환 단위 복소 바나흐 대수 A A A 의 겔판트 변환에 대하여 다음이 성립한다. - a ∈ A a\in A a ∈ A 가 가역원일 필요충분조건은 a ^ ∈ C ( M A ) \hat{a}\in C(\mathcal{M}_A) a ^ ∈ C ( M A ​ ) 가 가역원인 것이다.
+- a ∈ A a\in A a ∈ A 에 대하여 σ A ( a ) = a ^ ( M A ) = σ C ( M A ) ( a ^ ) \sigma_A(a)=\hat{a}(\mathcal{M}_A)=\sigma_{C(\mathcal{M}_A)}(\hat{a}) σ A ​ ( a ) = a ^ ( M A ​ ) = σ C ( M A ​ ) ​ ( a ^ )
+- ∥ a ^ ∥ ∞ = lim ⁡ n → ∞ ∥ a n ∥ 1 / n \|\hat{a}\|_\infty=\lim_{n\to\infty}\|a^n\|^{1/n} ∥ a ^ ∥ ∞ ​ = lim n → ∞ ​ ∥ a n ∥ 1/ n
+- A A A 의 겔판트 표현이 거리 동형일 필요충분조건은 ∥ a ∥ 2 = ∥ a 2 ∥ \|a\|^2=\|a^2\| ∥ a ∥ 2 = ∥ a 2 ∥ 이다.
+
+증명
+a. a ∈ A a\in A a ∈ A 가 가역이면 a − 1 ∈ A a^{-1}\in A a − 1 ∈ A 에 대하여 a ^ a − 1 ^ = a a − 1 ^ = 1 \hat{a}\hat{a^{-1}}=\widehat{aa^{-1}}=1 a ^ a − 1 ^ = a a − 1 = 1 이다. 반대로 a a a 가 비가역이라 가정하면 a a a 를 포함하는 극대 아이디얼 M M M 이 존재한다. 즉, ker ⁡ ϕ = M \ker{\phi}=M ker ϕ = M 인 ϕ ∈ M ( A ) \phi\in\mathcal{M}(A) ϕ ∈ M ( A ) 가 존재한다. a ^ ( ϕ ) = ϕ ( a ) = 0 \hat{a}(\phi)=\phi(a)=0 a ^ ( ϕ ) = ϕ ( a ) = 0 이므로 a ^ \hat{a} a ^ 는 C ( M A ) C(\mathcal{M_A}) C ( M A ​ ) 의 가역원이 아니다.
+b. α ∈ σ ( a ) ⇔ a − α 1 ∉ G ( A ) ⇔ a ^ − α 1 ∉ G ( C ( M A ) ⇔ a ^ ∈ σ C ( M A ) ( a ^ ) ) \alpha\in\sigma(a)\Leftrightarrow a-\alpha1\notin G(A)\Leftrightarrow\hat{a}-\alpha1\notin G(C(\mathcal{M}_A)\Leftrightarrow \hat{a}\in \sigma_{C(\mathcal{M}_A)}(\hat{a})) α ∈ σ ( a ) ⇔ a − α 1 ∈ / G ( A ) ⇔ a ^ − α 1 ∈ / G ( C ( M A ​ ) ⇔ a ^ ∈ σ C ( M A ​ ) ​ ( a ^ ))
+
+5. 예시 [편집]
+- 바나흐 공간 X X X 위의 유계 작용소 공간 B ( X ) \mathcal{B}(X) B ( X ) 는 합성 연산을 벡터곱으로 갖춘 바나흐 대수이다. 이때, 항등 작용소 1 1 1 은 B ( X ) \mathcal{B}(X) B ( X ) 의 단위원이다.
+- 바나흐 공간 X X X 위의 컴팩트 작용소 공간 B 0 ( X ) \mathcal{B_0}(X) B 0 ​ ( X ) 는 유계 작용소 공간 B ( X ) \mathcal{B}(X) B ( X ) 의 아이디얼 인 바나흐 대수이다. X X X 의 차원이 무한한 경우 X X X 의 단위구는 컴팩트 집합이 아니므로 항등 작용소는 B 0 ( X ) \mathcal{B_0}(X) B 0 ​ ( X ) 에 속하지 않고, 따라서 B 0 ( X ) \mathcal{B_0}(X) B 0 ​ ( X ) 는 단위원을 갖지 않는다.
+- 컴팩트 집합 X X X 위의 연속함수 공간 C ( X ) C(X) C ( X ) 에 대하여 함수의 곱셈을 ( f g ) ( x ) = f ( x ) g ( x ) (fg)(x)=f(x)g(x) ( f g ) ( x ) = f ( x ) g ( x ) 로 정의하면 C ( X ) C(X) C ( X ) 는 단위원을 갖는 가환 바나흐 대수이다.
+- 국소 컴팩트 위상군 G G G 가 왼쪽 하르 측도를 갖추었을 때, L 1 ( G ) L^1(G) L 1 ( G ) 공간은 합성곱 을 곱셈으로 하는 바나흐 ∗ ^* ∗ -대수이다.
+
+6. 역사 [편집]
+바나흐 대수는 함수 공간 위의 곱셈 연산 구조, 작용소 공간의 구조 등을 연구하는 과정에서 발전했다. 20세기 초 리스, 폰 노이만, 바나흐 등의 수학자들이 노름 및 바나흐 공간의 이론을 정립했다. 1930년대 나구모와 요시다는 각각 ‘선형 거리 환’, ‘거리 완비 환‘으로 바나흐 대수의 초기 형태를 제시했으며 마주르와 갤판트가 바나흐 대수의 구조에 관한 연구를 수행했다. ‘바나흐 대수’라는 용어는 1945년 앰브로즈가 도입했다.
+[ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 하나로퀵 남동구퀵서비스
+1577-3410.com
+[ [ 하나로퀵업체 ] [ 화물퀵서비스 ] [ 법인신청접수 ] [ 하나로퀵후기 ] ]
+10분배차 퀵배송 하나로퀵서비스물류 25년전통이사 서류퀵서비스 퀵 접수하세요.
+
+] | [ 남동구퀵배송 퀵브라더스
+www.1599-8330.com v-if
+[ [ 착한요금 ] [ 전국배송 ] [ ktx특송퀵 ] [ 버스.항공퀵 ] ]
+전국 어디든지 구석구석 당일배송, 저렴한요금, 카드결제OK, 친절상담, 인천공항
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

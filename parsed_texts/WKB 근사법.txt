@@ -1,0 +1,307 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if WKB 근사법
+최근 수정 시각: 2026-03-22 04:49:44 [ [ [ ] [ v-if ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 1926년 연구
+- 양자역학
+]
+
+[ [ ] [ 양자역학 Quantum Mechanics
+[ 펼치기 · 접기 ] 배경 | 흑체복사 · 이중슬릿 실험 · 광전효과 · 콤프턴 산란 · 보어의 원자 모형 · 물질파 · 데이비슨-저머 실험 · 불확정성 원리 · 슈테른-게를라흐 실험 · 프랑크-헤르츠 실험
+이론 체계 | 체계 플랑크 상수 ( 플랑크 단위계 ) · 공리 · 슈뢰딩거 방정식 · 파동함수 · 연산자 ( 해밀토니언 · 선운동량 · 각운동량 ) · 스핀 ( 스피너 ) · 파울리 배타 원리 해석 코펜하겐 해석 ( 보어-아인슈타인 논쟁 ) · 숨은 변수 이론 ( EPR 역설 · 벨의 부등식 · 광자 상자 ) · 다세계 해석 · 앙상블 해석 · 서울 해석 묘사 묘사 ( 슈뢰딩거 묘사 · 하이젠베르크 묘사 · 디랙 묘사) · 행렬역학
+연관 학문 | 천체물리학 ( 천문학 틀 · 우주론 · 양자블랙홀 · 중력 특이점 ) · 핵물리학 틀 ( 원자력 공학 틀 ) · 응집물질물리학 틀 · 컴퓨터 과학 틀 ( 양자컴퓨터 · 양자정보과학 ) · 통계역학 틀 · 양자화학 ( 물리화학 틀 ) · 입자물리학 ( 입자물리학 틀 )
+현상 · 응용 | 양자요동 · 양자 얽힘 · 양자 터널링 · 퍼텐셜 우물 · 양자 조화 진동자 · 오비탈 · 수소 원자 모형 · 쌓음 원리 · 훈트 규칙 · 섭동 ( 스핀 - 궤도 결합 · 제이만 효과 · 슈타르크 효과 · 헬만-파인만 정리 ) · 선택 규칙 · 변분 원리 · WKB 근사법 · 시간 결정 · 보스-아인슈타인 응집 · 솔리톤 · 카시미르 효과 · 아하로노프-봄 효과 · 블랙홀 정보 역설 · 양자점 · 하트리-포크 방법 · 밀도범함수 이론 · 준위 · 양자장론 ( 양자전기역학 · 양자색역학 ) · 뤼드베리 방정식 · 체렌코프 현상
+기타 | 군론 · 기본 입자 · 대칭성 · 비리얼 정리 · 리만 가설 · 매듭이론 · 밀도행렬 · 물질 · 방사선 ( 반감기 ) · 라플라스의 악마 · 슈뢰딩거의 고양이 ( 위그너의 친구 )
+문헌 | 교재 · 분류:물리학술지
+
+1 . 개요 2 . 유도 2.1 . 형태 3 . 예시 4 . 제약 조건의 해석 5 . 연결 공식 6 . 활용 6.1 . 우물형 퍼텐셜 6.2 . 터널링 7 . 관련 문서
+
+1. 개요 [편집]
+WKB approximation
+
+1926년, 3명의 물리학자 벤첼(Gregor Wentzel; 1898-1978), 크라머러스(Hendrik Anthony Kramers; 1894-1952), 브릴루앙(Léon Brillouin; 1889-1969) [1] 가 각각 유도한 양자역학적 근사법이다. WKB란 이름은 세 사람의 이름의 맨 첫 글자를 따서 명명된 것이다.
+
+양자역학에서 계의 파동함수 를 얻는 것은 매우 중요한 일로, 이는 파동함수 내 계의 모든 정보가 응축되어 있기 때문이다. 시간에 의존하지 않는 슈뢰딩거 방정식
+
+− ℏ 2 2 m ∂ 2 ψ ∂ x 2 + V ( x ) ψ = E ψ \begin{aligned} -\frac{\hbar^{2}}{2m}\frac{\partial^{2} \psi}{\partial x^{2}}+V(x)\psi=E\psi \end{aligned} − 2 m ℏ 2 ​ ∂ x 2 ∂ 2 ψ ​ + V ( x ) ψ = E ψ ​
+을 풀면 계의 시간에 의존하지 않는 파동함수를 얻을 수 있다. 하지만 불행히도 미분방정식 특성 상 이것이 쉽게 풀리는 상황은 극히 적다. 그렇기 때문에 양자역학에서는 다양한 근사를 통해 파동함수를 얻는 방법이 나와있는데, 다루는 WKB 근사법 또한 그 중 하나이다.
+
+2. 유도 [편집]
+시간에 의존하지 않는 슈뢰딩거 방정식을 변형하여
+
+∂ 2 ψ ∂ x 2 + 2 m [ E − V ( x ) ] ℏ 2 ψ = 0 \begin{aligned} \frac{\partial^{2} \psi}{\partial x^{2}}+\frac{2m[E-V(x) ]}{\hbar^{2}}\psi=0 \end{aligned} ∂ x 2 ∂ 2 ψ ​ + ℏ 2 2 m [ E − V ( x )] ​ ψ = 0 ​
+형태로 쓰고, 다음과 같이 치환을 하자.
+
+k ( x ) = 2 m [ E − V ( x ) ] ℏ 2 \begin{aligned} k(x)= \sqrt{\dfrac{2m[E-V(x) ]}{\hbar^{2}} } \end{aligned} k ( x ) = ℏ 2 2 m [ E − V ( x )] ​ ​ ​
+그럼 위 방정식은
+
+∂ 2 ψ ∂ x 2 + [ k ( x ) ] 2 ψ = 0 \begin{aligned} \frac{\partial^{2} \psi}{\partial x^{2}}+[k(x) ]^{2}\psi=0 \end{aligned} ∂ x 2 ∂ 2 ψ ​ + [ k ( x ) ] 2 ψ = 0 ​
+가 된다. 시험해로
+
+ψ = exp ⁡ ( i W ( x ) ℏ ) \begin{aligned} \psi=\exp{\biggl( \frac{i \mathcal{W}(x)}{\hbar} \biggr)} \end{aligned} ψ = exp ( ℏ i W ( x ) ​ ) ​
+를 사용해보자. 본 방정식에 대입하면
+
+i ℏ ∂ 2 W ∂ x 2 − [ ∂ W ∂ x ] 2 + ℏ 2 [ k ( x ) ] 2 = 0 \begin{aligned} i \hbar \frac{\partial^{2} \mathcal{W}}{\partial x^{2}}- \left[ \frac{\partial \mathcal{W}}{\partial x} \right]^{2}+\hbar^{2}[k(x) ]^{2}=0 \end{aligned} i ℏ ∂ x 2 ∂ 2 W ​ − [ ∂ x ∂ W ​ ] 2 + ℏ 2 [ k ( x ) ] 2 = 0 ​
+만약
+
+ℏ ∣ ∂ 2 W ∂ x 2 ∣ ≪ ∣ ∂ W ∂ x ∣ 2 \begin{aligned} \hbar \left|\frac{\partial^{2} \mathcal{W}}{\partial x^{2}} \right| \ll \left|\frac{\partial \mathcal{W}}{\partial x} \right|^{2} \end{aligned} ℏ ​ ∂ x 2 ∂ 2 W ​ ​ ≪ ​ ∂ x ∂ W ​ ​ 2 ​
+이 성립한다고 가정하자. 이것의 의미는 후술하기로 한다. 그렇다면 제2항에 비해 제1항이 매우 작기에 무시 가능하여
+
+− [ ∂ W ∂ x ] 2 + ℏ 2 [ k ( x ) ] 2 = 0 ⇒ ∂ W ∂ x = ± ℏ k ( x ) \begin{aligned} - \left[ \frac{\partial \mathcal{W}}{\partial x} \right]^{2}+\hbar^{2}[k(x) ]^{2}=0 \quad \Rightarrow \quad \frac{\partial \mathcal{W}}{\partial x}= \pm \hbar k(x) \end{aligned} − [ ∂ x ∂ W ​ ] 2 + ℏ 2 [ k ( x ) ] 2 = 0 ⇒ ∂ x ∂ W ​ = ± ℏ k ( x ) ​
+이때 해는 다음과 같이 나오게 된다.
+
+W 0 ( x ) = ± ℏ ∫ x k ( q ) d q \begin{aligned} \mathcal{W}_{0}(x)=\pm \hbar \int^{x} k(q)\,{\rm d}q \end{aligned} W 0 ​ ( x ) = ± ℏ ∫ x k ( q ) d q ​
+이 해를 그냥 사용하기에는 무리 [2] 가 있으므로 이것을 다시 방정식에 대입해서 정리하면
+
+[ ∂ W ∂ x ] 2 = ℏ 2 [ k ( x ) ] 2 ± i ℏ 2 k ′ ( x ) \begin{aligned} \left[ \frac{\partial \mathcal{W}}{\partial x} \right]^{2}=\hbar^{2}[k(x) ]^{2} \pm i \hbar^{2} k'(x) \end{aligned} [ ∂ x ∂ W ​ ] 2 = ℏ 2 [ k ( x ) ] 2 ± i ℏ 2 k ′ ( x ) ​
+따라서 해를 다음과 같은 형태로 쓸 수 있다.
+
+W ( x ) ≃ ± ℏ ∫ x [ k ( q ) ] 2 ± i k ′ ( q ) d q \begin{aligned} \mathcal{W}(x) \simeq \pm \hbar \int^{x} \sqrt{ [k(q) ]^{2} \pm i k'(q) } \,{\rm d}q \end{aligned} W ( x ) ≃ ± ℏ ∫ x [ k ( q ) ] 2 ± i k ′ ( q ) ​ d q ​
+그런데 위 제약 조건에서
+
+ℏ ∣ ∂ 2 W 0 ∂ x 2 ∣ ≪ ∣ ∂ W 0 ∂ x ∣ 2 ⇒ ∣ k ′ ∣ ≪ ∣ k ∣ 2 \begin{aligned} \hbar \left|\frac{\partial^{2} \mathcal{W}_{0}}{\partial x^{2}} \right| \ll \left|\frac{\partial \mathcal{W}_{0}}{\partial x} \right|^{2} \quad \Rightarrow \quad |k'| \ll |k|^{2} \end{aligned} ℏ ​ ∂ x 2 ∂ 2 W 0 ​ ​ ​ ≪ ​ ∂ x ∂ W 0 ​ ​ ​ 2 ⇒ ∣ k ′ ∣ ≪ ∣ k ∣ 2 ​
+이므로 적분 내의 항을 테일러 전개 하여
+
+W ( x ) ≃ ± ℏ ∫ x k ( q ) [ 1 ± i 2 k ′ ( q ) [ k ( q ) ] 2 ] d q = ± ℏ ∫ x k ( q ) d q + ℏ ∫ x i 2 k ′ ( q ) k ( q ) d q = ± ℏ ∫ x k ( q ) d q + i ℏ 2 ln ⁡ ( k ( x ) ) \begin{aligned} \mathcal{W}(x) &\simeq \pm \hbar \int^{x} k(q) \left[1 \pm \frac{i}{2}\frac{k'(q)}{[k(q) ]^{2}} \right] \,{\rm d}q \\&=\pm \hbar \int^{x} k(q)\,{\rm d}q +\hbar \int^{x} \frac{i}{2}\frac{k'(q)}{k(q) } \,{\rm d}q \\&=\pm \hbar \int^{x} k(q)\,{\rm d}q+\frac{i \hbar}{2} \ln{(k(x))} \end{aligned} W ( x ) ​ ≃ ± ℏ ∫ x k ( q ) [ 1 ± 2 i ​ [ k ( q ) ] 2 k ′ ( q ) ​ ] d q = ± ℏ ∫ x k ( q ) d q + ℏ ∫ x 2 i ​ k ( q ) k ′ ( q ) ​ d q = ± ℏ ∫ x k ( q ) d q + 2 i ℏ ​ ln ( k ( x )) ​
+따라서 WKB 근사에서 파동함수의 형태는 다음과 같이 쓸 수 있다.
+
+ψ = C k ( x ) exp ⁡ ( ± i ∫ x k ( q ) d q ) \begin{aligned} \psi =\frac{C}{\sqrt{k(x)}} \exp{\biggl( \pm i \int^{x} k(q)\,{\rm d}q \biggr)} \end{aligned} ψ = k ( x ) ​ C ​ exp ( ± i ∫ x k ( q ) d q ) ​
+C C C 는 상수이다.
+
+2.1. 형태 [편집]
+모든 파동함수는 입사파와 반사파의 선형 결합으로 쓸 수 있다.
+
+[1] 속박 영역
+입자가 E > V ( x ) E>V(x) E > V ( x ) 인 영역(위 그림에서 '영역Ⅰ')에 있다면 파동함수는 다음과 같은 형태로 쓸 수 있다. ψ = A ′ k ( x ) exp ⁡ ( i ∫ x k ( q ) d q ) + B ′ k ( x ) exp ⁡ ( − i ∫ x k ( q ) d q ) \begin{aligned} \psi =\frac{A'}{\sqrt{k(x)}}\exp{\displaystyle \biggl( i \int^{x} k(q)\,{\rm d}q \biggr)}+\frac{B'}{\sqrt{k(x)}}\exp{\displaystyle \biggl( -i \int^{x} k(q)\,{\rm d}q \biggr)} \end{aligned} ψ = k ( x ) ​ A ′ ​ exp ( i ∫ x k ( q ) d q ) + k ( x ) ​ B ′ ​ exp ( − i ∫ x k ( q ) d q ) ​
+
+이것은 식의 형태에서 알 수 있지만 진동하는 형태이다. 이것을 오일러 공식 을 사용하여 다음과 같이 쓸 수도 있다. ψ = A k ( x ) sin ⁡ ( ∫ x k ( q ) d q + δ ) + B k ( x ) cos ⁡ ( ∫ x k ( q ) d q + δ ) \begin{aligned} \psi =\frac{A}{\sqrt{k(x)}}\sin{\biggl( \int^{x} k(q)\,{\rm d}q+\delta \biggr)}+\frac{B}{\sqrt{k(x)}}\cos{\biggl( \int^{x} k(q)\,{\rm d}q+\delta \biggr)} \end{aligned} ψ = k ( x ) ​ A ​ sin ( ∫ x k ( q ) d q + δ ) + k ( x ) ​ B ​ cos ( ∫ x k ( q ) d q + δ ) ​
+
+이러한 영역은 고전적 운동을 허용하기에 고전적 영역이라고 부르기도 한다.
+
+[2] 터널링 영역
+입자가 E < V ( x ) E<V(x) E < V ( x ) 인 영역(위 그림에서 '영역Ⅱ')에 있다면 파동함수는 다음과 같은 형태로 쓸 수 있다. ψ = C ∣ k ( x ) ∣ exp ⁡ ( ∫ x ∣ k ( q ) ∣ d q ) + D ∣ k ( x ) ∣ exp ⁡ ( − ∫ x ∣ k ( q ) ∣ d q ) \begin{aligned} \psi =\frac{C}{\sqrt{|k(x)|}}\exp{\displaystyle \biggl( \int^{x} |k(q)|\,{\rm d}q \biggr)}+\frac{D}{\sqrt{|k(x)|}}\exp{\displaystyle \biggl( - \int^{x} |k(q)|\,{\rm d}q \biggr)} \end{aligned} ψ = ∣ k ( x ) ∣ ​ C ​ exp ( ∫ x ∣ k ( q ) ∣ d q ) + ∣ k ( x ) ∣ ​ D ​ exp ( − ∫ x ∣ k ( q ) ∣ d q ) ​
+
+이때는 k ( x ) ∈ C k(x) \in \mathbb{C} k ( x ) ∈ C 인 점에 유의하여 결과식을 얻으면 된다.
+
+[3] 전환점 근처
+E = V ( x ) E=V(x) E = V ( x ) 인 점(위 그림에서 x 1 x_1 x 1 ​ , x 2 x_2 x 2 ​ , x 3 x_3 x 3 ​ ) 근처에서는 k ( x ) → 0 k(x) \to 0 k ( x ) → 0 으로 파동함수의 진폭이 무한해진다. 따라서 해당 근방에서는 WKB 근사로 구한 파동함수를 사용할 수 없다. 따라서 전환점 근방에서 연결시키는 함수를 구해야하는데 이는 밑에서 다루기로 한다.
+
+3. 예시 [편집]
+아래는 어떠한 퍼텐셜 V ( x ) V(x) V ( x ) 에 대하여 WKB 근사를 통해 파동함수 ψ W K B ( x ) \psi_{\rm WKB}(x) ψ WKB ​ ( x ) 를 구해본 것이다. 본래의 파동함수는 φ ( x ) \varphi(x) φ ( x ) 이다. 다만 그림처럼 전환점 x = x t x=x_{t} x = x t ​ 근처에서는 파동함수를 발산하게 만들어 본래 함수와 잘 맞지 않는다.
+
+4. 제약 조건의 해석 [편집]
+WKB 근사법은 다음과 같은 영역에서 유효하다.
+
+∣ k ′ ∣ ≪ ∣ k ∣ 2 \begin{aligned} |k'| \ll |k|^{2} \end{aligned} ∣ k ′ ∣ ≪ ∣ k ∣ 2 ​
+ℏ k ( x ) = 2 m [ E − V ( x ) ] \hbar k(x)=\sqrt{2m[E-V(x) ]} ℏ k ( x ) = 2 m [ E − V ( x )] ​ 이므로 위 식은
+
+∣ − m V ′ ( x ) ℏ 2 m [ E − V ( x ) ] ∣ ≪ ∣ 2 m [ E − V ( x ) ] ℏ 2 ∣ \begin{aligned} \biggl| -\frac{mV'(x)}{\hbar \sqrt{2m[E-V(x) ]}} \biggr| \ll \biggl|\frac{2m[E-V(x) ]}{\hbar^{2}} \biggr| \end{aligned} ​ − ℏ 2 m [ E − V ( x )] ​ m V ′ ( x ) ​ ​ ≪ ​ ℏ 2 2 m [ E − V ( x )] ​ ​ ​
+인데, 이것을 정리하면 다음을 얻는다. p ( x ) p(x) p ( x ) 는 운동량이다.
+
+∣ V ′ ( x ) ∣ h ∣ p ( x ) ∣ ≪ 4 π ∣ E − V ( x ) ∣ \begin{aligned} |V'(x)| \frac{h}{|p(x)|} \ll 4\pi |E-V(x)| \end{aligned} ∣ V ′ ( x ) ∣ ∣ p ( x ) ∣ h ​ ≪ 4 π ∣ E − V ( x ) ∣ ​
+드브로이 파장 λ \lambda λ 을 도입하면
+
+1 2 π λ ≪ 2 ∣ E − V ( x ) ∣ ∣ V ′ ( x ) ∣ \begin{aligned} \frac{1}{2\pi}\lambda \ll \frac{ 2|E-V(x)|}{|V'(x)|} \end{aligned} 2 π 1 ​ λ ≪ ∣ V ′ ( x ) ∣ 2∣ E − V ( x ) ∣ ​ ​
+우선 파장은 항상 어떠한 수보다 매우 작음을 알 수 있다.
+
+위 식의 우변은 곧 퍼텐셜의 변화에 따른 입자의 에너지의 비, 즉, 퍼텐셜이 얼머나 변하는지 수차화한 것이라 볼 수 있다. 이것보다 파장이 매우 짧으므로 WKB 근사가 성립하는 것은 매우 짧은 파장을 갖는 영역임을 알 수 있다. 이러한 영역에선 파동의 성질이 많이 죽는데 [3] , 따라서 양자역학적 효과가 중간쯤 나타나는 반고전적(semi-classical) 영역을 다룸을 알 수 있다.
+
+파장이 짧은 영역을 다루므로 위 식을 다시 쓰면
+
+∣ V ′ ( x ) ∣ λ ≪ 4 π ∣ E − V ( x ) ∣ \begin{aligned} |V'(x)| \lambda\ll 4\pi |E-V(x)| \end{aligned} ∣ V ′ ( x ) ∣ λ ≪ 4 π ∣ E − V ( x ) ∣ ​
+좌변은 근사적으로 한 파장만큼 이동할 때, 퍼텐셜의 변화량이라 볼 수 있다. 이것이 입자가 갖는 에너지보다 매우 작다는 건 퍼텐셜의 변화 자체가 작다는 뜻을 의미한다.
+
+위의 논의는 다음과 같이 요약할 수 있다. - WKB 근사가 성립하는 곳은 파장이 매우 짧은 영역에 있으며, 이때 퍼텐셜은 매우 천천히 변화한다. 이러한 영역은 양자역학적 효과가 중간 쯤 나타나는 반고전적 영역이라 볼 수 있다.
+
+이것을 그림으로 나타내면 다음과 같다.
+
+파장이 짧은 영역이라는 것은 달리 말하면 에너지가 큰 영역을 다루는 것을 알 수 있다. WKB 근사는 바닥 상태보다는 들뜬 상태에 최적화되어 있음을 시사한다.
+
+5. 연결 공식 [편집]
+WKB 근사의 맹점은 바로 전환점 근처 해당 함수를 발산시키는 것이다. 따라서 전환점을 사이에 둔 두 함수는 독립적으로 존재할 뿐 관계를 찾을 수 없다. 쉽게 설명하면 사각 퍼텐셜 문제를 풀 때, 파동함수의 연속 조건을 사용하여 각 구간에서 구한 함수를 이을 수 있었는데, WKB 근사를 사용하면 그것이 안되는 것이다.
+
+이것을 해결하기 위해 둘을 이어줄 함수 를 구하고, 이 함수를 통해 전환점 밖의 두 함수의 관계를 찾아주는 방법을 사용한다. 그 방법은 아래와 같다. - 전환점 근처의 퍼텐셜을 선형근사한다.
+- 선형근사 함수에 대한 슈뢰딩거 방정식에 대한 해(이하 '접합 함수')를 구한다.
+- 전환점에서 충분히 떨어지면 접합 함수와 WKB 근사를 사용한 파동함수(이하 'WKB 함수')가 겹치게 되는데, 이 영역에서 WKB 함수와 접합 함수의 꼴을 잘 맞추어 계수를 맞춘다.
+
+이 방법을 사용하기 위해 V ′ ( x t ) V'(x_{t}) V ′ ( x t ​ ) 의 부호에 따라 경우를 나눈다. 양의 경우 고전적 영역에서 터널링 영역으로 가능 경우, 음의 경우 터널링 영역에서 고전적 영역으로 가는 경우이다.
+전환점 근처의 퍼텐셜은 다음과 같이 선형근사 할 수 있다.
+
+V ( x ) ≃ V ( x t ) + V ′ ( x t ) ( x − x t ) \begin{aligned} V(x) \simeq V(x_{t})+V'(x_{t})(x-x_{t}) \end{aligned} V ( x ) ≃ V ( x t ​ ) + V ′ ( x t ​ ) ( x − x t ​ ) ​
+이에 다음을 알 수 있다. k ( x ) = 2 m ℏ 2 [ E − V ( x ) ] = { 2 m ∣ V ′ ( x t ) ∣ ℏ 2 x t − x ( V ′ ( x t ) > 0 ) 2 m ∣ V ′ ( x t ) ∣ ℏ 2 x − x t ( V ′ ( x t ) < 0 ) ∣ k ( x ) ∣ = { 2 m ∣ V ′ ( x t ) ∣ ℏ 2 x − x t ( V ′ ( x t ) > 0 ) 2 m ∣ V ′ ( x t ) ∣ ℏ 2 x t − x ( V ′ ( x t ) < 0 ) \begin{aligned} k(x)&=\sqrt{\frac{2m}{\hbar^{2}}[E-V(x) ] } \\&=\begin{cases}\sqrt{\dfrac{2m |V'(x_{t})|}{\hbar^{2}} }\sqrt{x_{t}-x } & \quad (V'(x_{t})>0) \\ \sqrt{\dfrac{2m |V'(x_{t})|}{\hbar^{2}} }\sqrt{x-x_{t}} & \quad (V'(x_{t})<0) \end{cases} \\ \\ |k(x)|&=\begin{cases}\sqrt{\dfrac{2m |V'(x_{t})|}{\hbar^{2}} }\sqrt{x-x_{t} } & \quad (V'(x_{t})>0) \\ \sqrt{\dfrac{2m |V'(x_{t})|}{\hbar^{2}} }\sqrt{x_{t}-x} & \quad (V'(x_{t})<0) \end{cases} \end{aligned} k ( x ) ∣ k ( x ) ∣ ​ = ℏ 2 2 m ​ [ E − V ( x )] ​ = ⎩ ⎨ ⎧ ​ ℏ 2 2 m ∣ V ′ ( x t ​ ) ∣ ​ ​ x t ​ − x ​ ℏ 2 2 m ∣ V ′ ( x t ​ ) ∣ ​ ​ x − x t ​ ​ ​ ( V ′ ( x t ​ ) > 0 ) ( V ′ ( x t ​ ) < 0 ) ​ = ⎩ ⎨ ⎧ ​ ℏ 2 2 m ∣ V ′ ( x t ​ ) ∣ ​ ​ x − x t ​ ​ ℏ 2 2 m ∣ V ′ ( x t ​ ) ∣ ​ ​ x t ​ − x ​ ​ ( V ′ ( x t ​ ) > 0 ) ( V ′ ( x t ​ ) < 0 ) ​ ​
+
+이때, 다음을 미리 약속한다.
+
+α 3 ≡ 2 m ∣ V ′ ( x t ) ∣ ℏ 2 \begin{aligned} \alpha^{3} \equiv \dfrac{2m |V'(x_{t})|}{\hbar^{2}} \end{aligned} α 3 ≡ ℏ 2 2 m ∣ V ′ ( x t ​ ) ∣ ​ ​
+각 경우에 대해 슈뢰딩거 방정식은
+
+d 2 ψ ( x ) d x 2 + [ k ( x ) ] 2 ψ ( x ) = 0 \begin{aligned} \frac{{\rm d}^{2} \psi(x)}{{\rm d} x^{2}}+[k(x) ]^{2} \psi(x)=0 \end{aligned} d x 2 d 2 ψ ( x ) ​ + [ k ( x ) ] 2 ψ ( x ) = 0 ​
+이므로 다음과 같다. { d 2 ψ ( x ) d x 2 − α 3 ( x − x t ) ψ ( x ) = 0 ( V ′ ( x t ) > 0 ) d 2 ψ ( x ) d x 2 + α 3 ( x − x t ) ψ ( x ) = 0 ( V ′ ( x t ) < 0 ) \begin{aligned} \begin{cases}\dfrac{{\rm d}^{2} \psi(x)}{{\rm d} x^{2}}-\alpha^{3}(x-x_{t}) \psi(x)=0 & \quad (V'(x_{t})>0) \\ \dfrac{{\rm d}^{2} \psi(x)}{{\rm d} x^{2}}+\alpha^{3}(x-x_{t})\psi(x)=0 & \quad (V'(x_{t})<0) \end{cases} \end{aligned} ⎩ ⎨ ⎧ ​ d x 2 d 2 ψ ( x ) ​ − α 3 ( x − x t ​ ) ψ ( x ) = 0 d x 2 d 2 ψ ( x ) ​ + α 3 ( x − x t ​ ) ψ ( x ) = 0 ​ ( V ′ ( x t ​ ) > 0 ) ( V ′ ( x t ​ ) < 0 ) ​ ​
+
+변수 치환
+
+z ≡ { α ( x − x t ) ( V ′ ( x t ) > 0 ) α ( x t − x ) ( V ′ ( x t ) < 0 ) \begin{aligned} z \equiv \begin{cases} \alpha (x-x_{t}) & \quad (V'(x_{t})>0) \\ \alpha (x_{t}-x) & \quad (V'(x_{t})<0) \end{cases} \end{aligned} z ≡ { α ( x − x t ​ ) α ( x t ​ − x ) ​ ( V ′ ( x t ​ ) > 0 ) ( V ′ ( x t ​ ) < 0 ) ​ ​
+을 사용하면 두 방정식을 다음 꼴로 바꿀 수 있다.
+
+d 2 ψ ( z ) d z 2 − z ψ ( z ) = 0 \begin{aligned} \dfrac{{\rm d}^{2} \psi(z)}{{\rm d} z^{2}}-z\psi(z)=0 \end{aligned} d z 2 d 2 ψ ( z ) ​ − z ψ ( z ) = 0 ​
+이것은 에어리 함수 를 해로 갖는 미분방정식으로 그 해는 두 선형독립인 해의 선형결합
+
+ψ ( z ) = a A i ( z ) + b B i ( z ) \begin{aligned} \psi(z)=a {\rm Ai}(z)+b {\rm Bi}(z) \end{aligned} ψ ( z ) = a Ai ( z ) + b Bi ( z ) ​
+으로 쓸 수 있다. 이것이 위에서 밝힌 접합 함수이다. 다행히도 두 함수의 점근꼴은 알려져있는데, A i ( z ) ∼ { 1 2 π z 1 / 4 exp ⁡ ( − 3 2 z 3 / 2 ) ( z ≫ 1 ) 1 π ( − z ) 1 / 4 sin ⁡ ( 3 2 ( − z ) 3 / 2 + π 4 ) ( − z ≫ 1 ) B i ( z ) ∼ { 1 π z 1 / 4 exp ⁡ ( 3 2 z 3 / 2 ) ( z ≫ 1 ) 1 π ( − z ) 1 / 4 cos ⁡ ( 3 2 ( − z ) 3 / 2 + π 4 ) ( − z ≫ 1 ) \begin{aligned} \begin{aligned} \mathrm{Ai}(z) &\sim \begin{cases} \dfrac{1}{2\sqrt{\pi}z^{1/4}}\exp{\biggl( -\dfrac{3}{2}z^{3/2} \biggr)} & \quad (z \gg 1) \\ \dfrac{1}{\sqrt{\pi}(-z)^{1/4}}\sin{\biggl( \dfrac{3}{2}(-z)^{3/2}+\dfrac{\pi}{4} \biggr)} & \quad (-z \gg 1) \end{cases} \\\mathrm{Bi}(z) &\sim \begin{cases} \dfrac{1}{\sqrt{\pi}z^{1/4}}\exp{\biggl( \dfrac{3}{2}z^{3/2} \biggr)} & \quad (z \gg 1) \\ \dfrac{1}{\sqrt{\pi}(-z)^{1/4}}\cos{\biggl( \dfrac{3}{2}(-z)^{3/2}+\dfrac{\pi}{4} \biggr)} & \quad (-z \gg 1) \end{cases} \end{aligned} \end{aligned} Ai ( z ) Bi ( z ) ​ ∼ ⎩ ⎨ ⎧ ​ 2 π ​ z 1/4 1 ​ exp ( − 2 3 ​ z 3/2 ) π ​ ( − z ) 1/4 1 ​ sin ( 2 3 ​ ( − z ) 3/2 + 4 π ​ ) ​ ( z ≫ 1 ) ( − z ≫ 1 ) ​ ∼ ⎩ ⎨ ⎧ ​ π ​ z 1/4 1 ​ exp ( 2 3 ​ z 3/2 ) π ​ ( − z ) 1/4 1 ​ cos ( 2 3 ​ ( − z ) 3/2 + 4 π ​ ) ​ ( z ≫ 1 ) ( − z ≫ 1 ) ​ ​ ​
+
+치환한 변수를 되돌리면, V ′ ( x t ) > 0 \boldsymbol{V'(x_{t})>0} V ′ ( x t ​ ) > 0 | A i ( α ( x − x t ) ) ∼ { 1 2 π [ α ( x − x t ) ] 1 / 4 exp ⁡ ( − 3 2 [ α ( x − x t ) ] 3 / 2 ) ( x ≫ x t ) 1 π [ α ( x t − x ) ] 1 / 4 sin ⁡ ( 3 2 [ α ( x t − x ) ] 3 / 2 + π 4 ) ( x ≪ x t ) B i ( α ( x − x t ) ) ∼ { 1 π [ α ( x − x t ) ] 1 / 4 exp ⁡ ( 3 2 [ α ( x − x t ) ] 3 / 2 ) ( x ≫ x t ) 1 π [ α ( x t − x ) ] 1 / 4 cos ⁡ ( 3 2 [ α ( x t − x ) ] 3 / 2 + π 4 ) ( x ≪ x t ) \begin{aligned} \mathrm{Ai}(\alpha(x-x_{t})) &\sim \begin{cases} \dfrac{1}{2\sqrt{\pi}[\alpha(x-x_{t}) ]^{1/4}}\exp{\biggl( -\dfrac{3}{2}[\alpha(x-x_{t}) ]^{3/2} \biggr)} & \quad (x \gg x_{t}) \\ \dfrac{1}{\sqrt{\pi}[\alpha(x_{t}-x) ]^{1/4}}\sin{\biggl( \dfrac{3}{2}[\alpha(x_{t}-x) ]^{3/2}+\dfrac{\pi}{4} \biggr)} & \quad (x \ll x_{t}) \end{cases} \\\mathrm{Bi}(\alpha(x-x_{t})) &\sim \begin{cases} \dfrac{1}{\sqrt{\pi}[\alpha(x-x_{t}) ]^{1/4}}\exp{\biggl( \dfrac{3}{2}[\alpha(x-x_{t}) ]^{3/2} \biggr)} & \quad (x \gg x_{t}) \\ \dfrac{1}{\sqrt{\pi}[\alpha(x_{t}-x) ]^{1/4}}\cos{\biggl( \dfrac{3}{2}[\alpha(x_{t}-x) ]^{3/2}+\dfrac{\pi}{4} \biggr)} & \quad (x \ll x_{t}) \end{cases} \end{aligned} Ai ( α ( x − x t ​ )) Bi ( α ( x − x t ​ )) ​ ∼ ⎩ ⎨ ⎧ ​ 2 π ​ [ α ( x − x t ​ ) ] 1/4 1 ​ exp ( − 2 3 ​ [ α ( x − x t ​ ) ] 3/2 ) π ​ [ α ( x t ​ − x ) ] 1/4 1 ​ sin ( 2 3 ​ [ α ( x t ​ − x ) ] 3/2 + 4 π ​ ) ​ ( x ≫ x t ​ ) ( x ≪ x t ​ ) ​ ∼ ⎩ ⎨ ⎧ ​ π ​ [ α ( x − x t ​ ) ] 1/4 1 ​ exp ( 2 3 ​ [ α ( x − x t ​ ) ] 3/2 ) π ​ [ α ( x t ​ − x ) ] 1/4 1 ​ cos ( 2 3 ​ [ α ( x t ​ − x ) ] 3/2 + 4 π ​ ) ​ ( x ≫ x t ​ ) ( x ≪ x t ​ ) ​ ​
+V ′ ( x t ) < 0 \boldsymbol{V'(x_{t})<0} V ′ ( x t ​ ) < 0 | A i ( α ( x t − x ) ) ∼ { 1 2 π [ α ( x t − x ) ] 1 / 4 exp ⁡ ( − 3 2 [ α ( x t − x ) ] 3 / 2 ) ( x ≪ x t ) 1 π [ α ( x − x t ) ] 1 / 4 sin ⁡ ( 3 2 [ α ( x − x t ) ] 3 / 2 + π 4 ) ( x ≫ x t ) B i ( α ( x t − x ) ) ∼ { 1 π [ α ( x t − x ) ] 1 / 4 exp ⁡ ( 3 2 [ α ( x t − x ) ] 3 / 2 ) ( x ≪ x t ) 1 π [ α ( x − x t ) ] 1 / 4 cos ⁡ ( 3 2 [ α ( x − x t ) ] 3 / 2 + π 4 ) ( x ≫ x t ) \begin{aligned} \mathrm{Ai}(\alpha(x_{t}-x)) &\sim \begin{cases} \dfrac{1}{2\sqrt{\pi}[\alpha(x_{t}-x) ]^{1/4}}\exp{\biggl( -\dfrac{3}{2}[\alpha(x_{t}-x) ]^{3/2} \biggr)} & \quad (x \ll x_{t}) \\ \dfrac{1}{\sqrt{\pi}[\alpha(x-x_{t}) ]^{1/4}}\sin{\biggl( \dfrac{3}{2}[\alpha(x-x_{t}) ]^{3/2}+\dfrac{\pi}{4} \biggr)} & \quad (x \gg x_{t}) \end{cases} \\\mathrm{Bi}(\alpha(x_{t}-x)) &\sim \begin{cases} \dfrac{1}{\sqrt{\pi}[\alpha(x_{t}-x) ]^{1/4}}\exp{\biggl( \dfrac{3}{2}[\alpha(x_{t}-x) ]^{3/2} \biggr)} & \quad (x \ll x_{t}) \\ \dfrac{1}{\sqrt{\pi}[\alpha(x-x_{t}) ]^{1/4}}\cos{\biggl( \dfrac{3}{2}[\alpha(x-x_{t}) ]^{3/2}+\dfrac{\pi}{4} \biggr)} & \quad (x \gg x_{t}) \end{cases} \end{aligned} Ai ( α ( x t ​ − x )) Bi ( α ( x t ​ − x )) ​ ∼ ⎩ ⎨ ⎧ ​ 2 π ​ [ α ( x t ​ − x ) ] 1/4 1 ​ exp ( − 2 3 ​ [ α ( x t ​ − x ) ] 3/2 ) π ​ [ α ( x − x t ​ ) ] 1/4 1 ​ sin ( 2 3 ​ [ α ( x − x t ​ ) ] 3/2 + 4 π ​ ) ​ ( x ≪ x t ​ ) ( x ≫ x t ​ ) ​ ∼ ⎩ ⎨ ⎧ ​ π ​ [ α ( x t ​ − x ) ] 1/4 1 ​ exp ( 2 3 ​ [ α ( x t ​ − x ) ] 3/2 ) π ​ [ α ( x − x t ​ ) ] 1/4 1 ​ cos ( 2 3 ​ [ α ( x − x t ​ ) ] 3/2 + 4 π ​ ) ​ ( x ≪ x t ​ ) ( x ≫ x t ​ ) ​ ​
+
+이제부터 x t < x x_{t}<x x t ​ < x 이고 WKB 근사가 잘 작동하는 영역을 영역Ⅰ, 접합 함수를 사용하는 영역을 영역Ⅱ, x t > x x_{t}>x x t ​ > x 이고 WKB 근사가 잘 작동하는 영역을 영역을 영역Ⅲ라 하자. 각 영역의 파동함수를 각각 ψ 1 ( x ) \psi_{1}(x) ψ 1 ​ ( x ) , ψ 2 ( x ) \psi_{2}(x) ψ 2 ​ ( x ) , ψ 3 ( x ) \psi_{3}(x) ψ 3 ​ ( x ) 이라 놓자. 이때 다음을 안다. V ′ ( x t ) > 0 \boldsymbol{V'(x_{t})>0} V ′ ( x t ​ ) > 0 | ψ 1 ( x ) = A k ( x ) sin ⁡ ( ∫ x x t k ( q ) d q + δ ) + B k ( x ) cos ⁡ ( ∫ x x t k ( q ) d q + δ ) ψ 2 ( x ) = a A i ( α ( x − x t ) ) + b B i ( α ( x − x t ) ) ψ 3 ( x ) = C ∣ k ( x ) ∣ exp ⁡ ( ∫ x t x ∣ k ( q ) ∣ d q ) + D ∣ k ( x ) ∣ exp ⁡ ( − ∫ x t x ∣ k ( q ) ∣ d q ) \begin{aligned} \psi_{1}(x)&=\frac{A}{\sqrt{k(x)}}\sin{\biggl( \int_{x}^{x_{t}} k(q)\,{\rm d}q+\delta \biggr)}+\frac{B}{\sqrt{k(x)}}\cos{\biggl( \int_{x}^{x_{t}} k(q)\,{\rm d}q+\delta \biggr)} \\ \psi_{2}(x)&=a {\rm Ai}(\alpha(x-x_{t}))+b {\rm Bi}(\alpha(x-x_{t})) \\ \psi_{3}(x)&=\frac{C}{\sqrt{|k(x)|}}\exp{\displaystyle \biggl( \int_{x_{t}}^{x} |k(q)|\,{\rm d}q \biggr)}+\frac{D}{\sqrt{|k(x)|}}\exp{\displaystyle \biggl( - \int_{x_{t}}^{x} |k(q)|\,{\rm d}q \biggr)} \end{aligned} ψ 1 ​ ( x ) ψ 2 ​ ( x ) ψ 3 ​ ( x ) ​ = k ( x ) ​ A ​ sin ( ∫ x x t ​ ​ k ( q ) d q + δ ) + k ( x ) ​ B ​ cos ( ∫ x x t ​ ​ k ( q ) d q + δ ) = a Ai ( α ( x − x t ​ )) + b Bi ( α ( x − x t ​ )) = ∣ k ( x ) ∣ ​ C ​ exp ( ∫ x t ​ x ​ ∣ k ( q ) ∣ d q ) + ∣ k ( x ) ∣ ​ D ​ exp ( − ∫ x t ​ x ​ ∣ k ( q ) ∣ d q ) ​
+V ′ ( x t ) < 0 \boldsymbol{V'(x_{t})<0} V ′ ( x t ​ ) < 0 | ψ 1 ( x ) = C ∣ k ( x ) ∣ exp ⁡ ( ∫ x x t ∣ k ( q ) ∣ d q ) + D ∣ k ( x ) ∣ exp ⁡ ( − ∫ x x t ∣ k ( q ) ∣ d q ) ψ 2 ( x ) = a A i ( α ( x t − x ) ) + b B i ( α ( x t − x ) ) ψ 3 ( x ) = A k ( x ) sin ⁡ ( ∫ x t x k ( q ) d q + δ ) + B k ( x ) cos ⁡ ( ∫ x t x k ( q ) d q + δ ) \begin{aligned} \psi_{1}(x)&= \frac{C}{\sqrt{|k(x)|}}\exp{\displaystyle \biggl( \int_{x}^{x_{t}} |k(q)|\,{\rm d}q \biggr)}+\frac{D}{\sqrt{|k(x)|}}\exp{\displaystyle \biggl( - \int_{x}^{x_{t}} |k(q)|\,{\rm d}q \biggr)}\\ \psi_{2}(x)&=a {\rm Ai}(\alpha(x_{t}-x))+b {\rm Bi}(\alpha(x_{t}-x)) \\ \psi_{3}(x)&=\frac{A}{\sqrt{k(x)}}\sin{\biggl( \int_{x_{t}}^{x} k(q)\,{\rm d}q+\delta \biggr)}+\frac{B}{\sqrt{k(x)}}\cos{\biggl( \int_{x_{t}}^{x} k(q)\,{\rm d}q+\delta \biggr)} \end{aligned} ψ 1 ​ ( x ) ψ 2 ​ ( x ) ψ 3 ​ ( x ) ​ = ∣ k ( x ) ∣ ​ C ​ exp ( ∫ x x t ​ ​ ∣ k ( q ) ∣ d q ) + ∣ k ( x ) ∣ ​ D ​ exp ( − ∫ x x t ​ ​ ∣ k ( q ) ∣ d q ) = a Ai ( α ( x t ​ − x )) + b Bi ( α ( x t ​ − x )) = k ( x ) ​ A ​ sin ( ∫ x t ​ x ​ k ( q ) d q + δ ) + k ( x ) ​ B ​ cos ( ∫ x t ​ x ​ k ( q ) d q + δ ) ​
+
+퍼텐셜 근처에서는 다음과 같다. ∫ k ( q ) d q = { − 2 3 [ α ( x t − x ) 3 / 2 ] ( V ′ ( x t ) > 0 ) 2 3 [ α ( x − x t ) 3 / 2 ] ( V ′ ( x t ) < 0 ) ∫ ∣ k ( q ) ∣ d q = { 2 3 [ α ( x − x t ) 3 / 2 ] ( V ′ ( x t ) > 0 ) − 2 3 [ α ( x t − x ) 3 / 2 ] ( V ′ ( x t ) < 0 ) \begin{aligned} \int k(q)\,{\rm d}q &=\begin{cases} -\dfrac{2}{3}[\alpha (x_{t}-x)^{3/2}] & \quad (V'(x_{t})>0) \\ \dfrac{2}{3}[\alpha (x-x_{t})^{3/2}] & \quad (V'(x_{t})<0) \end{cases} \\ \\ \int |k(q)|\,{\rm d}q&=\begin{cases} \dfrac{2}{3}[\alpha (x-x_{t})^{3/2}] & \quad (V'(x_{t})>0) \\ -\dfrac{2}{3}[\alpha (x_{t}-x)^{3/2}] & \quad (V'(x_{t})<0) \end{cases} \end{aligned} ∫ k ( q ) d q ∫ ∣ k ( q ) ∣ d q ​ = ⎩ ⎨ ⎧ ​ − 3 2 ​ [ α ( x t ​ − x ) 3/2 ] 3 2 ​ [ α ( x − x t ​ ) 3/2 ] ​ ( V ′ ( x t ​ ) > 0 ) ( V ′ ( x t ​ ) < 0 ) ​ = ⎩ ⎨ ⎧ ​ 3 2 ​ [ α ( x − x t ​ ) 3/2 ] − 3 2 ​ [ α ( x t ​ − x ) 3/2 ] ​ ( V ′ ( x t ​ ) > 0 ) ( V ′ ( x t ​ ) < 0 ) ​ ​
+
+적분상수는 고려하지 않았다.
+
+접합 함수의 영역Ⅰ 쪽으로의 점근 함수를 ψ 2 < ( x ) \psi_{2}^{<}(x) ψ 2 < ​ ( x ) , 영역Ⅲ 쪽으로의 점근 함수를 ψ 2 > ( x ) \psi_{2}^{>}(x) ψ 2 > ​ ( x ) 라 놓으면 V ′ ( x t ) > 0 \boldsymbol{V'(x_{t})>0} V ′ ( x t ​ ) > 0 | ψ 1 ( x ) = A α 3 / 4 ( x t − x ) 1 / 4 sin ⁡ ( 2 3 [ α ( x t − x ) ] 3 / 2 + δ ) + B α 3 / 4 ( x t − x ) 1 / 4 cos ⁡ ( 2 3 [ α ( x t − x ) ] 3 / 2 + δ ) ψ 2 < ( x ) = a π [ α ( x t − x ) ] 1 / 4 sin ⁡ ( 3 2 [ α ( x t − x ) ] 3 / 2 + π 4 ) + b π [ α ( x t − x ) ] 1 / 4 cos ⁡ ( 3 2 [ α ( x t − x ) ] 3 / 2 + π 4 ) ψ 2 > ( x ) = a 2 π [ α ( x − x t ) ] 1 / 4 exp ⁡ ( − 3 2 [ α ( x − x t ) ] 3 / 2 ) + b π [ α ( x − x t ) ] 1 / 4 exp ⁡ ( 3 2 [ α ( x − x t ) ] 3 / 2 ) ψ 3 ( x ) = C α 3 / 4 ( x − x t ) 1 / 4 exp ⁡ ( 2 3 [ α ( x − x t ) ] 3 / 2 ) + D α 3 / 4 ( x − x t ) 1 / 4 exp ⁡ ( − 2 3 [ α ( x − x t ) ] 3 / 2 ) \begin{aligned} \psi_{1}(x)&=\frac{A}{\alpha^{3/4}(x_{t}-x)^{1/4}}\sin{\biggl( \frac{2}{3}[\alpha(x_{t}-x) ]^{3/2}+\delta \biggr)}+\frac{B}{\alpha^{3/4}(x_{t}-x)^{1/4}}\cos{\biggl( \frac{2}{3}[\alpha(x_{t}-x) ]^{3/2}+\delta \biggr)} \\ \psi_{2}^{<}(x)&= \dfrac{a}{\sqrt{\pi}[\alpha(x_{t}-x) ]^{1/4}}\sin{\biggl( \dfrac{3}{2}[\alpha(x_{t}-x) ]^{3/2}+\dfrac{\pi}{4} \biggr)}+ \dfrac{b}{\sqrt{\pi}[\alpha(x_{t}-x) ]^{1/4}}\cos{\biggl( \dfrac{3}{2}[\alpha(x_{t}-x) ]^{3/2}+\dfrac{\pi}{4} \biggr)} \\ \\ \psi_{2}^{>}(x)&=\dfrac{a}{2\sqrt{\pi}[\alpha(x-x_{t}) ]^{1/4}}\exp{\biggl( -\dfrac{3}{2}[\alpha(x-x_{t}) ]^{3/2} \biggr)}+ \dfrac{b}{\sqrt{\pi}[\alpha(x-x_{t}) ]^{1/4}}\exp{\biggl( \dfrac{3}{2}[\alpha(x-x_{t}) ]^{3/2} \biggr)} \\ \psi_{3}(x)&=\frac{C}{\alpha^{3/4}(x-x_{t})^{1/4}}\exp{\displaystyle \biggl( \frac{2}{3}[\alpha(x-x_{t}) ]^{3/2} \biggr)}+\frac{D}{\alpha^{3/4}(x-x_{t})^{1/4}}\exp{\displaystyle \biggl( - \frac{2}{3}[\alpha(x-x_{t}) ]^{3/2} \biggr)} \end{aligned} ψ 1 ​ ( x ) ψ 2 < ​ ( x ) ψ 2 > ​ ( x ) ψ 3 ​ ( x ) ​ = α 3/4 ( x t ​ − x ) 1/4 A ​ sin ( 3 2 ​ [ α ( x t ​ − x ) ] 3/2 + δ ) + α 3/4 ( x t ​ − x ) 1/4 B ​ cos ( 3 2 ​ [ α ( x t ​ − x ) ] 3/2 + δ ) = π ​ [ α ( x t ​ − x ) ] 1/4 a ​ sin ( 2 3 ​ [ α ( x t ​ − x ) ] 3/2 + 4 π ​ ) + π ​ [ α ( x t ​ − x ) ] 1/4 b ​ cos ( 2 3 ​ [ α ( x t ​ − x ) ] 3/2 + 4 π ​ ) = 2 π ​ [ α ( x − x t ​ ) ] 1/4 a ​ exp ( − 2 3 ​ [ α ( x − x t ​ ) ] 3/2 ) + π ​ [ α ( x − x t ​ ) ] 1/4 b ​ exp ( 2 3 ​ [ α ( x − x t ​ ) ] 3/2 ) = α 3/4 ( x − x t ​ ) 1/4 C ​ exp ( 3 2 ​ [ α ( x − x t ​ ) ] 3/2 ) + α 3/4 ( x − x t ​ ) 1/4 D ​ exp ( − 3 2 ​ [ α ( x − x t ​ ) ] 3/2 ) ​
+V ′ ( x t ) < 0 \boldsymbol{V'(x_{t})<0} V ′ ( x t ​ ) < 0 | ψ 1 ( x ) = C α 3 / 4 ( x t − x ) 1 / 4 exp ⁡ ( 2 3 [ α ( x t − x ) ] 3 / 2 ) + D α 3 / 4 ( x t − x ) 1 / 4 exp ⁡ ( − 2 3 [ α ( x t − x ) ] 3 / 2 ) ψ 2 < ( x ) = a 2 π [ α ( x t − x ) ] 1 / 4 exp ⁡ ( − 3 2 [ α ( x t − x ) ] 3 / 2 ) + b π [ α ( x t − x ) ] 1 / 4 exp ⁡ ( 3 2 [ α ( x t − x ) ] 3 / 2 ) ψ 2 > ( x ) = a π [ α ( x − x t ) ] 1 / 4 sin ⁡ ( 3 2 [ α ( x − x t ) ] 3 / 2 + π 4 ) + b π [ α ( x − x t ) ] 1 / 4 cos ⁡ ( 3 2 [ α ( x − x t ) ] 3 / 2 + π 4 ) ψ 3 ( x ) = A α 3 / 4 ( x − x t ) 1 / 4 sin ⁡ ( 2 3 [ α ( x − x t ) ] 3 / 2 + δ ) + B α 3 / 4 ( x − x t ) 1 / 4 cos ⁡ ( 2 3 [ α ( x − x t ) ] 3 / 2 + δ ) \begin{aligned}\psi_{1}(x)&=\frac{C}{\alpha^{3/4}(x_{t}-x)^{1/4}}\exp{\displaystyle \biggl( \frac{2}{3}[\alpha(x_{t}-x) ]^{3/2} \biggr)}+\frac{D}{\alpha^{3/4}(x_{t}-x)^{1/4}}\exp{\displaystyle \biggl( - \frac{2}{3}[\alpha(x_{t}-x) ]^{3/2} \biggr)} \\ \psi_{2}^{<}(x)&=\dfrac{a}{2\sqrt{\pi}[\alpha(x_{t}-x) ]^{1/4}}\exp{\biggl( -\dfrac{3}{2}[\alpha(x_{t}-x) ]^{3/2} \biggr)}+ \dfrac{b}{\sqrt{\pi}[\alpha(x_{t}-x) ]^{1/4}}\exp{\biggl( \dfrac{3}{2}[\alpha(x_{t}-x) ]^{3/2} \biggr)} \\ \\\psi_{2}^{>}(x)&= \dfrac{a}{\sqrt{\pi}[\alpha(x-x_{t}) ]^{1/4}}\sin{\biggl( \dfrac{3}{2}[\alpha(x-x_{t}) ]^{3/2}+\dfrac{\pi}{4} \biggr)}+ \dfrac{b}{\sqrt{\pi}[\alpha(x-x_{t}) ]^{1/4}}\cos{\biggl( \dfrac{3}{2}[\alpha(x-x_{t}) ]^{3/2}+\dfrac{\pi}{4} \biggr)} \\ \psi_{3}(x)&=\frac{A}{\alpha^{3/4}(x-x_{t})^{1/4}}\sin{\biggl( \frac{2}{3}[\alpha(x-x_{t}) ]^{3/2}+\delta \biggr)}+\frac{B}{\alpha^{3/4}(x-x_{t})^{1/4}}\cos{\biggl( \frac{2}{3}[\alpha(x-x_{t}) ]^{3/2}+\delta \biggr)} \end{aligned} ψ 1 ​ ( x ) ψ 2 < ​ ( x ) ψ 2 > ​ ( x ) ψ 3 ​ ( x ) ​ = α 3/4 ( x t ​ − x ) 1/4 C ​ exp ( 3 2 ​ [ α ( x t ​ − x ) ] 3/2 ) + α 3/4 ( x t ​ − x ) 1/4 D ​ exp ( − 3 2 ​ [ α ( x t ​ − x ) ] 3/2 ) = 2 π ​ [ α ( x t ​ − x ) ] 1/4 a ​ exp ( − 2 3 ​ [ α ( x t ​ − x ) ] 3/2 ) + π ​ [ α ( x t ​ − x ) ] 1/4 b ​ exp ( 2 3 ​ [ α ( x t ​ − x ) ] 3/2 ) = π ​ [ α ( x − x t ​ ) ] 1/4 a ​ sin ( 2 3 ​ [ α ( x − x t ​ ) ] 3/2 + 4 π ​ ) + π ​ [ α ( x − x t ​ ) ] 1/4 b ​ cos ( 2 3 ​ [ α ( x − x t ​ ) ] 3/2 + 4 π ​ ) = α 3/4 ( x − x t ​ ) 1/4 A ​ sin ( 3 2 ​ [ α ( x − x t ​ ) ] 3/2 + δ ) + α 3/4 ( x − x t ​ ) 1/4 B ​ cos ( 3 2 ​ [ α ( x − x t ​ ) ] 3/2 + δ ) ​
+
+ψ 1 ( x ) \psi_{1}(x) ψ 1 ​ ( x ) 는 ψ 2 < ( x ) \psi_{2}^{<}(x) ψ 2 < ​ ( x ) 와 ψ 3 ( x ) \psi_{3}(x) ψ 3 ​ ( x ) 는 ψ 2 > ( x ) \psi_{2}^{>}(x) ψ 2 > ​ ( x ) 와 매칭시켜 계수와 δ \delta δ 를 구하면, 다음과 같다.
+
+D = A 2 = 1 2 α π a C = B = α π b δ = π 4 \begin{aligned} D&=\frac{A}{2}=\frac{1}{2}\sqrt{\frac{\alpha}{\pi}}a \\ C&=B=\sqrt{\frac{\alpha}{\pi}}b \\ \delta&=\frac{\pi}{4} \end{aligned} D C δ ​ = 2 A ​ = 2 1 ​ π α ​ ​ a = B = π α ​ ​ b = 4 π ​ ​
+
+다음은 각 경우에 대하여 영역에 따른 연결되는 함수들이다. 경우 | x < x t \boldsymbol{x<x_{t}} x < x t ​ | x > x t \boldsymbol{x>x_{t}} x > x t ​
+2 D k ( x ) sin ⁡ ( ∫ x x t k ( q ) d q + π 4 ) \displaystyle\frac{2D}{\sqrt{k(x)}}\sin{\biggl(\int_{x}^{x_{t}} k(q)\,{\rm d} q+\frac{\pi}{4}\biggr)} k ( x ) ​ 2 D ​ sin ( ∫ x x t ​ ​ k ( q ) d q + 4 π ​ ) | ⇔ \Leftrightarrow ⇔ | D ∣ k ( x ) ∣ exp ⁡ ( − ∫ x t x ∣ k ( q ) ∣ d q ) \displaystyle\frac{D}{\sqrt{|k(x)|}}\exp{\biggl(-\int_{x_{t}}^{x} |k(q)|\,{\rm d} q\biggr)} ∣ k ( x ) ∣ ​ D ​ exp ( − ∫ x t ​ x ​ ∣ k ( q ) ∣ d q )
+( x → ∞ x \to \infty x → ∞ 일 때 감쇠)
+C k ( x ) cos ⁡ ( ∫ x x t k ( q ) d q + π 4 ) \displaystyle\frac{C}{\sqrt{k(x)}}\cos{\biggl(\int_{x}^{x_{t}} k(q)\,{\rm d} q+\frac{\pi}{4}\biggr)} k ( x ) ​ C ​ cos ( ∫ x x t ​ ​ k ( q ) d q + 4 π ​ ) | ⇔ \Leftrightarrow ⇔ | C ∣ k ( x ) ∣ exp ⁡ ( ∫ x t x ∣ k ( q ) ∣ d q ) \displaystyle\frac{C}{\sqrt{|k(x)|}}\exp{\biggl(\int_{x_{t}}^{x} |k(q)|\,{\rm d} q\biggr)} ∣ k ( x ) ∣ ​ C ​ exp ( ∫ x t ​ x ​ ∣ k ( q ) ∣ d q )
+( x → ∞ x \to \infty x → ∞ 일 때 발산)
+D ∣ k ( x ) ∣ exp ⁡ ( − ∫ x x t ∣ k ( q ) ∣ d q ) \displaystyle\frac{D}{\sqrt{|k(x)|}}\exp{\biggl(-\int_{x}^{x_{t}} |k(q)|\,{\rm d} q\biggr)} ∣ k ( x ) ∣ ​ D ​ exp ( − ∫ x x t ​ ​ ∣ k ( q ) ∣ d q )
+( x → − ∞ x \to -\infty x → − ∞ 일 때 감쇠) | ⇔ \Leftrightarrow ⇔ | 2 D k ( x ) sin ⁡ ( ∫ x t x k ( q ) d q + π 4 ) \displaystyle\frac{2D}{\sqrt{k(x)}}\sin{\biggl(\int_{x_{t}}^{x} k(q)\,{\rm d} q+\frac{\pi}{4}\biggr)} k ( x ) ​ 2 D ​ sin ( ∫ x t ​ x ​ k ( q ) d q + 4 π ​ )
+C ∣ k ( x ) ∣ exp ⁡ ( ∫ x x t ∣ k ( q ) ∣ d q ) \displaystyle\frac{C}{\sqrt{|k(x)|}}\exp{\biggl(\int_{x}^{x_{t}} |k(q)|\,{\rm d} q\biggr)} ∣ k ( x ) ∣ ​ C ​ exp ( ∫ x x t ​ ​ ∣ k ( q ) ∣ d q )
+( x → − ∞ x \to -\infty x → − ∞ 일 때 발산) | ⇔ \Leftrightarrow ⇔ | C k ( x ) cos ⁡ ( ∫ x t x k ( q ) d q + π 4 ) \displaystyle\frac{C}{\sqrt{k(x)}}\cos{\biggl(\int_{x_{t}}^{x} k(q)\,{\rm d} q+\frac{\pi}{4}\biggr)} k ( x ) ​ C ​ cos ( ∫ x t ​ x ​ k ( q ) d q + 4 π ​ )
+
+연결 공식을 사용할 때는 적분 구간과 파동함수의 형태에 유의하여 지수함수형 파동함수가 있는 영역을 먼저 적용하고, 진동하는 파동함수 영역과 매칭시킨다.
+
+6. 활용 [편집]
+
+6.1. 우물형 퍼텐셜 [편집]
+
+두 전환점 x 1 x_{1} x 1 ​ 과 x 2 x_{2} x 2 ​ (단, x 1 < x 2 x_{1}<x_{2} x 1 ​ < x 2 ​ )을 가지며, V ′ ( x 1 ) < 0 V'(x_{1})<0 V ′ ( x 1 ​ ) < 0 , V ′ ( x 2 ) > 0 V'(x_{2})>0 V ′ ( x 2 ​ ) > 0 를 만족하는 우물형 퍼텐셜을 고려하자. 이때, 터널링 영역 x < x 1 x<x_{1} x < x 1 ​ , x > x 2 x>x_{2} x > x 2 ​ 를 각각 영역Ⅰ, 영역Ⅲ이라 두고, 속박 영역 x 1 < x < x 2 x_{1}<x<x_{2} x 1 ​ < x < x 2 ​ 을 영역Ⅱ라 놓자. 각각의 영역에서의 파동함수는 ψ 1 ( x ) \psi_{1}(x) ψ 1 ​ ( x ) , ψ 2 ( x ) \psi_{2}(x) ψ 2 ​ ( x ) , ψ 3 ( x ) \psi_{3}(x) ψ 3 ​ ( x ) 이다.
+
+영역Ⅲ의 파동함수는 x → ∞ x \to \infty x → ∞ 일 때 감쇠하는 파만 가능할 것이므로 그 해를
+
+ψ 3 ( x ) = D ∣ k ( x ) ∣ exp ⁡ ( − ∫ x 2 x ∣ k ( q ) ∣ d q ) \begin{aligned} \psi_{3}(x)=\frac{D}{\sqrt{|k(x)|}}\exp{\biggl(- \int_{x_{2}}^{x}|k(q)|\,{\rm d}q \biggr)} \end{aligned} ψ 3 ​ ( x ) = ∣ k ( x ) ∣ ​ D ​ exp ( − ∫ x 2 ​ x ​ ∣ k ( q ) ∣ d q ) ​
+로 정할 수 있다. 영역Ⅱ의 파동함수는 x = x 2 x=x_{2} x = x 2 ​ 에서 연결 공식을 사용하여 다음을 구할 수 있다.
+
+ψ 2 ( x ) = 2 D k ( x ) sin ⁡ ( ∫ x x 2 k ( q ) d q + π 4 ) \begin{aligned} \psi_{2}(x)=\frac{2D}{\sqrt{k(x)}}\sin{\biggl( \int_{x}^{x_{2}}k(q)\,{\rm d}q+\frac{\pi}{4} \biggr)} \end{aligned} ψ 2 ​ ( x ) = k ( x ) ​ 2 D ​ sin ( ∫ x x 2 ​ ​ k ( q ) d q + 4 π ​ ) ​
+
+영역Ⅰ의 파동함수는 x → − ∞ x \to -\infty x → − ∞ 일 때 감쇠하는 파만이 가능할 것으로 그 해를
+
+ψ 1 ( x ) = D ~ ∣ k ( x ) ∣ exp ⁡ ( − ∫ x x 1 ∣ k ( q ) ∣ d q ) \begin{aligned} \psi_{1}(x)=\frac{\tilde{D}}{\sqrt{|k(x)|}}\exp{\biggl( -\int_{x}^{x_{1}}|k(q)|\,{\rm d}q \biggr)} \end{aligned} ψ 1 ​ ( x ) = ∣ k ( x ) ∣ ​ D ~ ​ exp ( − ∫ x x 1 ​ ​ ∣ k ( q ) ∣ d q ) ​
+로 정할 수 있다. 마찬가지로 x = x 1 x=x_{1} x = x 1 ​ 에서 연결 공식을 사용하면 영역Ⅱ의 파동함수를 구할 수 있는데, 다음과 같다.
+
+ψ 2 ( x ) = 2 D ~ k ( x ) sin ⁡ ( ∫ x 1 x k ( q ) d q + π 4 ) \begin{aligned} \psi_{2}(x)=\frac{2 \tilde{D}}{\sqrt{k(x)}}\sin{\biggl( \int_{x_{1}}^{x}k(q)\,{\rm d}q+\frac{\pi}{4} \biggr)} \end{aligned} ψ 2 ​ ( x ) = k ( x ) ​ 2 D ~ ​ sin ( ∫ x 1 ​ x ​ k ( q ) d q + 4 π ​ ) ​
+
+위 결과와 같이 영역Ⅱ에서는 두 함수가 나온 것을 확인할 수 있는데, 이는 같아야 한다. 즉,
+
+2 D k ( x ) sin ⁡ ( ∫ x x 2 k ( q ) d q + π 4 ) = 2 D ~ k ( x ) sin ⁡ ( ∫ x 1 x k ( q ) d q + π 4 ) ⋯ ( ∗ ) \begin{aligned} \frac{2D}{\sqrt{k(x)}}\sin{\biggl( \int_{x}^{x_{2}}k(q)\,{\rm d}q+\frac{\pi}{4} \biggr)}=\frac{2 \tilde{D}}{\sqrt{k(x)}}\sin{\biggl( \int_{x_{1}}^{x}k(q)\,{\rm d}q+\frac{\pi}{4} \biggr)} \quad \cdots \, (\ast) \end{aligned} k ( x ) ​ 2 D ​ sin ( ∫ x x 2 ​ ​ k ( q ) d q + 4 π ​ ) = k ( x ) ​ 2 D ~ ​ sin ( ∫ x 1 ​ x ​ k ( q ) d q + 4 π ​ ) ⋯ ( ∗ ) ​
+다음을 생각하면
+
+η ≡ ∫ x 1 x 2 k ( q ) d q a ≡ ∫ x x 2 k ( q ) d q + π 4 \begin{aligned} \eta& \equiv \int_{x_{1}}^{x_{2}} k(q)\,{\rm d}q \\ a & \equiv \int_{x}^{x_{2}} k(q)\,{\rm d}q+\frac{\pi}{4} \end{aligned} η a ​ ≡ ∫ x 1 ​ x 2 ​ ​ k ( q ) d q ≡ ∫ x x 2 ​ ​ k ( q ) d q + 4 π ​ ​
+식 ( ∗ ) (\ast) ( ∗ ) 를 다시 쓰면
+
+sin ⁡ ( η + π 2 − a ) = D D ~ sin ⁡ a \begin{aligned} \sin{\left( \eta+\dfrac{\pi}{2}-a \right)}=\frac{D}{\tilde{D}}\sin{a} \end{aligned} sin ( η + 2 π ​ − a ) = D ~ D ​ sin a ​
+이것을 만족시키려면 다음을 만족하면 된다.
+
+η + π 2 = ( n + 1 ) π D ~ = ( − 1 ) n D \begin{aligned} \eta+\frac{\pi}{2}&=(n+1)\pi \\ \tilde{D}&=(-1)^n D \end{aligned} η + 2 π ​ D ~ ​ = ( n + 1 ) π = ( − 1 ) n D ​
+n n n 은 0을 포함한 양의 정수이다. [4] [5]
+
+이상에서 다음을 얻는다.
+
+∫ x 1 x 2 k ( q ) d q = ( n + 1 2 ) π \begin{aligned} \int_{x_{1}}^{x_{2}} k(q)\,{\rm d}q =\left(n+\frac{1}{2} \right)\pi \end{aligned} ∫ x 1 ​ x 2 ​ ​ k ( q ) d q = ( n + 2 1 ​ ) π ​
+운동량 p = ℏ k p=\hbar k p = ℏ k , 디랙 상수와 플랑크 상수와의 관계 2 π ℏ = h 2\pi \hbar=h 2 π ℏ = h 를 사용하면
+
+∫ x 1 x 2 p ( x ) d x = ( n + 1 2 ) h 2 \begin{aligned} \int_{x_{1}}^{x_{2}} p(x)\,{\rm d}x =\left(n+\frac{1}{2} \right)\frac{h}{2} \end{aligned} ∫ x 1 ​ x 2 ​ ​ p ( x ) d x = ( n + 2 1 ​ ) 2 h ​ ​
+를 얻는데, 이는 보어-조머펠트 양자화 조건(Bohr-Sommerfeld quantization rules) 와 비슷하다. 이 조건을 사용하면 우물형 퍼텐셜에 갇힌 입자의 고유 에너지를 얻을 수 있다.
+
+6.2. 터널링 [편집]
+
+두 전환점 x 1 x_{1} x 1 ​ 과 x 2 x_{2} x 2 ​ (단, x 1 < x 2 x_{1}<x_{2} x 1 ​ < x 2 ​ )을 가지며, V ′ ( x 1 ) > 0 V'(x_{1})>0 V ′ ( x 1 ​ ) > 0 , V ′ ( x 2 ) < 0 V'(x_{2})<0 V ′ ( x 2 ​ ) < 0 를 만족하는 퍼텐셜을 고려하자. 이때, 속박 영역 x < x 1 x<x_{1} x < x 1 ​ , x > x 2 x>x_{2} x > x 2 ​ 를 각각 영역Ⅰ, 영역Ⅲ이라 두고, 터널링 영역 x 1 < x < x 2 x_{1}<x<x_{2} x 1 ​ < x < x 2 ​ 을 영역Ⅱ라 놓자. 각각의 영역에서의 파동함수는 ψ 1 ( x ) \psi_{1}(x) ψ 1 ​ ( x ) , ψ 2 ( x ) \psi_{2}(x) ψ 2 ​ ( x ) , ψ 3 ( x ) \psi_{3}(x) ψ 3 ​ ( x ) 이다.
+
+영역Ⅱ의 파동함수는 아래와 같이 주어진다. ψ 2 ( x ) = C ∣ k ( x ) ∣ exp ⁡ ( ∫ x x 2 ∣ k ( q ) ∣ d q ) + D ∣ k ( x ) ∣ exp ⁡ ( − ∫ x x 2 ∣ k ( q ) ∣ d q ) \begin{aligned} \psi_{2}(x)=\frac{C}{\sqrt{|k(x)|}}\exp{\displaystyle \biggl( \int_{x}^{x_{2}} |k(q)|\,{\rm d}q \biggr)}+\frac{D}{\sqrt{|k(x)|}}\exp{\displaystyle \biggl( - \int_{x}^{x_{2}} |k(q)|\,{\rm d}q \biggr)} \end{aligned} ψ 2 ​ ( x ) = ∣ k ( x ) ∣ ​ C ​ exp ( ∫ x x 2 ​ ​ ∣ k ( q ) ∣ d q ) + ∣ k ( x ) ∣ ​ D ​ exp ( − ∫ x x 2 ​ ​ ∣ k ( q ) ∣ d q ) ​
+
+x = x 2 x=x_{2} x = x 2 ​ 에서 연결 공식을 사용하면 ψ 3 ( x ) = 2 D k ( x ) sin ⁡ ( ∫ x 2 x k ( q ) d q + π 4 ) + C k ( x ) cos ⁡ ( ∫ x 2 x k ( q ) d q + π 4 ) \begin{aligned} \psi_{3}(x)=\frac{2D}{\sqrt{k(x)}}\sin{\biggl( \int_{x_{2}}^{x} k(q)\,{\rm d}q+\frac{\pi}{4} \biggr)}+\frac{C}{\sqrt{k(x)}}\cos{\biggl( \int_{x_{2}}^{x} k(q)\,{\rm d}q+\frac{\pi}{4} \biggr)} \end{aligned} ψ 3 ​ ( x ) = k ( x ) ​ 2 D ​ sin ( ∫ x 2 ​ x ​ k ( q ) d q + 4 π ​ ) + k ( x ) ​ C ​ cos ( ∫ x 2 ​ x ​ k ( q ) d q + 4 π ​ ) ​
+
+삼각함수의 괄호 안을 ξ \xi ξ 라 치환하고, 오일러 공식 을 사용하여 다음과 같이 쓰자. ψ 3 ( x ) = 1 k ( x ) [ 2 i D 2 ( e − i ξ − e i ξ ) + C 2 ( e i ξ + e − i ξ ) ] = 1 2 k ( x ) [ ( C − 2 i D ) e i ξ + ( C + 2 i D ) e − i ξ ] \begin{aligned} \psi_{3}(x)&=\frac{1}{\sqrt{k(x)}} \left[ \frac{2iD}{2} (e^{-i \xi}-e^{i \xi})+\frac{C}{2}(e^{i \xi}+e^{-i\xi}) \right] \\&=\frac{1}{2\sqrt{k(x)}} [ (C-2iD)e^{i \xi}+(C+2iD)e^{-i\xi} ] \end{aligned} ψ 3 ​ ( x ) ​ = k ( x ) ​ 1 ​ [ 2 2 i D ​ ( e − i ξ − e i ξ ) + 2 C ​ ( e i ξ + e − i ξ ) ] = 2 k ( x ) ​ 1 ​ [( C − 2 i D ) e i ξ + ( C + 2 i D ) e − i ξ ] ​
+
+이로써 + x +x + x 방향으로 진행하는 파와 − x -x − x 방향으로 진행하는 파로 분해되었다. 이때, 후자의 경우 물리적 상황과 거리가 먼 함수이므로
+
+C + 2 i D = 0 → D = i C 2 \begin{aligned} C+2iD=0 \quad \to \quad D=\frac{iC}{2} \end{aligned} C + 2 i D = 0 → D = 2 i C ​ ​
+을 택해야 사라진다. 이에
+
+ψ 3 ( x ) = 2 C k ( x ) e i ξ \begin{aligned} \psi_{3}(x)&=\frac{2C}{\sqrt{k(x)}} e^{i \xi} \end{aligned} ψ 3 ​ ( x ) ​ = k ( x ) ​ 2 C ​ e i ξ ​
+이 함수는 곧 터널링 영역을 통과한 투과파라 볼 수 있다.
+
+영역Ⅱ의 파동함수는 다음과 같이도 생각할 수 있다. ψ 2 ( x ) = C ~ ∣ k ( x ) ∣ exp ⁡ ( ∫ x 1 x ∣ k ( q ) ∣ d q ) + D ~ ∣ k ( x ) ∣ exp ⁡ ( − ∫ x 1 x ∣ k ( q ) ∣ d q ) \begin{aligned} \psi_{2}(x)=\frac{\tilde{C}}{\sqrt{|k(x)|}}\exp{\displaystyle \biggl( \int_{x_{1}}^{x} |k(q)|\,{\rm d}q \biggr)}+\frac{\tilde{D}}{\sqrt{|k(x)|}}\exp{\displaystyle \biggl( - \int_{x_{1}}^{x} |k(q)|\,{\rm d}q \biggr)} \end{aligned} ψ 2 ​ ( x ) = ∣ k ( x ) ∣ ​ C ~ ​ exp ( ∫ x 1 ​ x ​ ∣ k ( q ) ∣ d q ) + ∣ k ( x ) ∣ ​ D ~ ​ exp ( − ∫ x 1 ​ x ​ ∣ k ( q ) ∣ d q ) ​
+
+다음을 치환하자.
+
+exp ⁡ ( ∫ x 1 x 2 ∣ k ( q ) ∣ d q ) ≡ γ \begin{aligned}\exp{\biggl( \int_{x_{1}}^{x_{2}} |k(q)|\,{\rm d}q \biggr)} \equiv \gamma \end{aligned} exp ( ∫ x 1 ​ x 2 ​ ​ ∣ k ( q ) ∣ d q ) ≡ γ ​
+이것을 위 식에 대입하면, ψ 2 ( x ) = C ~ γ ∣ k ( x ) ∣ exp ⁡ ( − ∫ x x 2 ∣ k ( q ) ∣ d q ) + D ~ γ ∣ k ( x ) ∣ exp ⁡ ( ∫ x x 2 ∣ k ( q ) ∣ d q ) \begin{aligned} \psi_{2}(x)=\frac{\tilde{C} \gamma}{\sqrt{|k(x)|}}\exp{\displaystyle \biggl( -\int_{x}^{x_{2}} |k(q)|\,{\rm d}q \biggr)}+\frac{\tilde{D}}{\gamma \sqrt{|k(x)|}}\exp{\displaystyle \biggl( \int_{x}^{x_{2}} |k(q)|\,{\rm d}q \biggr)} \end{aligned} ψ 2 ​ ( x ) = ∣ k ( x ) ∣ ​ C ~ γ ​ exp ( − ∫ x x 2 ​ ​ ∣ k ( q ) ∣ d q ) + γ ∣ k ( x ) ∣ ​ D ~ ​ exp ( ∫ x x 2 ​ ​ ∣ k ( q ) ∣ d q ) ​
+
+맨 위에서 생각했던 영역Ⅱ의 파동함수와 매칭시켜 다음을 얻는다.
+
+C ~ = i γ − 1 C 2 D ~ = γ C \begin{aligned} \tilde{C}&=\frac{i\gamma^{-1}C}{2} \\ \tilde{D}&=\gamma C \end{aligned} C ~ D ~ ​ = 2 i γ − 1 C ​ = γ C ​
+x = x 1 x=x_{1} x = x 1 ​ 에서 연결 공식을 사용하면 ψ 1 ( x ) = 2 γ C k ( x ) sin ⁡ ( ∫ x x 1 k ( q ) d q + π 4 ) + i γ − 1 C 2 k ( x ) cos ⁡ ( ∫ x x 1 k ( q ) d q + π 4 ) \begin{aligned} \psi_{1}(x)=\frac{2\gamma C}{\sqrt{k(x)}}\sin{\biggl( \int_{x}^{x_{1}} k(q)\,{\rm d}q+\frac{\pi}{4} \biggr)}+\frac{ i\gamma^{-1} C}{2\sqrt{k(x)}}\cos{\biggl( \int_{x}^{x_{1}} k(q)\,{\rm d}q+\frac{\pi}{4} \biggr)} \end{aligned} ψ 1 ​ ( x ) = k ( x ) ​ 2 γ C ​ sin ( ∫ x x 1 ​ ​ k ( q ) d q + 4 π ​ ) + 2 k ( x ) ​ i γ − 1 C ​ cos ( ∫ x x 1 ​ ​ k ( q ) d q + 4 π ​ ) ​
+
+이 또한 오일러 공식을 사용함으로써 ψ 1 ( x ) = i C 2 k ( x ) [ ( 2 − 1 γ − 1 − 2 γ ) e i χ + ( 2 − 1 γ − 1 + 2 γ ) e − i χ ] ( χ = ∫ x x 1 k ( q ) d q + π 4 ) \begin{aligned} \psi_{1}(x)=\frac{iC}{2\sqrt{k(x)}} [ (2^{-1}\gamma^{-1}-2\gamma)e^{i \chi}+(2^{-1} \gamma^{-1}+2 \gamma)e^{-i\chi} ] \qquad \left(\chi=\int_{x}^{x_{1}} k(q)\,{\rm d}q+\frac{\pi}{4} \right) \end{aligned} ψ 1 ​ ( x ) = 2 k ( x ) ​ i C ​ [( 2 − 1 γ − 1 − 2 γ ) e i χ + ( 2 − 1 γ − 1 + 2 γ ) e − i χ ] ( χ = ∫ x x 1 ​ ​ k ( q ) d q + 4 π ​ ) ​
+
+사각 퍼텐셜 문제에서 다뤘던 것 처럼 투과 계수는 곧 투과파와 입사파의 진폭 제곱의 비라 볼 수 있으므로
+
+T ≃ ∣ 2 C ∣ 2 ∣ i C 2 ( 2 γ + 1 2 γ ) ∣ 2 = 1 γ 2 + 1 2 + 1 16 γ 2 \begin{aligned} T \simeq \frac{|2C|^{2}}{\biggl| \dfrac{iC}{2} \left( 2\gamma+\dfrac{1}{2\gamma} \right) \biggr|^{2}}=\frac{1}{\gamma^{2}+\dfrac{1}{2}+\dfrac{1}{16 \gamma^{2} }} \end{aligned} T ≃ ​ 2 i C ​ ( 2 γ + 2 γ 1 ​ ) ​ 2 ∣2 C ∣ 2 ​ = γ 2 + 2 1 ​ + 16 γ 2 1 ​ 1 ​ ​
+이때, 입사파는 e − i χ e^{-i\chi} e − i χ 임에 유의한다. γ ≫ 1 \gamma \gg 1 γ ≫ 1 이라 가정하면 투과 계수는 다음과 같아진다.
+
+T ≃ γ − 2 = exp ⁡ ( − 2 ∫ x 1 x 2 ∣ k ( q ) ∣ d q ) \begin{aligned} T \simeq \gamma^{-2}=\exp{\biggl( -2 \int_{x_{1}}^{x_{2}} |k(q)|\,{\rm d}q \biggr)} \end{aligned} T ≃ γ − 2 = exp ( − 2 ∫ x 1 ​ x 2 ​ ​ ∣ k ( q ) ∣ d q ) ​
+
+7. 관련 문서 [편집]
+- 양자역학
+- 슈뢰딩거 방정식
+- 파동함수
+- 섭동 이론
+- 변분 원리
+
+[ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 인천논현동 맛집 소문난껍데기
+map.naver.com/p/entry/place/1943388597 v-if
+여기 껍데기 안 먹어봤다는 건 인생의 반을 손해 본 거예요! 동네 맛집의 자부심!
+
+] | [ 남동구유선방송 쿠팡
+www.coupang.com v-if
+[ [ 로켓배송 ] [ 로켓직구 ] [ 골드박스 ] [ 로켓프레시 ] ]
+남동구유선방송, TV에 연결만 하면 즉시 작동! 와우회원 무료배송 받으세요.
+
+]
+
+[1] ' 브릴루앙 영역 '이라는 개념을 만든 사람이다. [2] 이 해를 택하면 파의 진폭은 x x x 에 의존하지 않는 것이 된다. 그러나 퍼텐셜이 공간적으로 변하기 때문에 진폭은 변해야 할 수밖에 없다. 그렇기에 근사해를 방정식에 재대입해 조금 더 정확한 해를 얻는 것이다. [3] 예를 들어 파동의 대표적 성질인 회절 또한 파장이 짧은 영역에선 잘 일어나지 않고, 입자와 같이 직진성이 강해지게 된다. [4] 음의 정수는 η < 0 \eta<0 η < 0 을 만들기 때문에 불가능하다. [5] 위상이 반전되는 경우도 허용한다. 이는 파동함수는 그 자체로는 의미가 없고, 크기의 제곱이 의미가 있는 것에서 기인한 것이다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

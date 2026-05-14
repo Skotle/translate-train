@@ -1,0 +1,483 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 라그랑주 역학
+최근 수정 시각: 2026-03-26 03:17:22 [ [ [ ] [ [ 28 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 역학
+]
+
+[ [ ] [ 고전역학
+Classical Mechanics
+[ 펼치기 · 접기 ] 기본 개념 | 텐서 ( 스칼라 · 벡터 ) · 모멘트 · 위치 · 거리 ( 변위 · 이동거리 ) · 시간 · 공간 · 질량 ( 질량중심 ) · 속력 ( 속도 · 가속도 ) · 운동 ( 운동량 ) · 힘 · 합력 · 뉴턴의 운동법칙 · 일 ( 일률 ) · 에너지 ( 퍼텐셜 에너지 · 운동 에너지 ) · 보존력 · 운동량 보존의 법칙 · 에너지 보존 법칙 · 질량 보존 법칙 · 운동 방정식
+동역학 | 관성 좌표계 · 비관성 좌표계 ( 관성력 ) · 항력 ( 수직항력 · 마찰력 ) · 등속직선운동 · 등가속도 운동 · 자유 낙하 · 포물선 운동 · 원운동 ( 구심력 · 원심력 · 등속 원운동 ) · 전향력 · 운동학 · 질점의 운동역학 · 입자계의 운동역학 · 운동 방정식
+정역학 및 강체 역학 | 정적 평형 · 블록 쌓기 문제 · 강체 · 응력 ( /응용 ) · 충돌 · 충격량 · 각속도 ( 각가속도 ) · 각운동량 ( 각운동량 보존 법칙 · 떨어지는 고양이 문제 ) · 토크 ( 비틀림 ) · 관성 모멘트 · 관성 텐서 · 우력 · 반력 · 탄성력 ( 후크 법칙 · 탄성의 한계 ) · 구성방정식 · 장동 · 소성 · 고체역학
+천체 역학 | 중심력 · 만유인력의 법칙 · 이체문제 ( 케플러의 법칙 ) · 기조력 · 삼체문제 ( 라그랑주점 ) · 궤도역학 · 수정 뉴턴 역학 · 비리얼 정리
+진동 및 파동 | 각진동수 · 진동수 · 주기 · 파장 · 파수 · 스넬의 법칙 · 전반사 · 하위헌스 원리 · 페르마의 원리 · 간섭 · 회절 · 조화 진동자 · 산란 · 진동학 · 파동방정식 · 막의 진동 · 정상파 · 결합된 진동 · 도플러 효과 · 음향학
+해석 역학 | 일반화 좌표계 ( 자유도 ) · 변분법 { 오일러 방정식 ( 벨트라미 항등식 )} · 라그랑주 역학 ( 해밀턴의 원리 · 라그랑지안 · 작용 ) · 해밀턴 역학 ( 해밀토니안 · 푸아송 괄호 · 정준 변환 · 해밀턴-야코비 방정식 · 위상 공간 ) · 뇌터 정리 · 르장드르 변환 · 고전장론
+응용 및 기타 문서 | 기계공학 ( 기계공학 둘러보기 ) · 건축학 ( 건축공학 · 구조역학 ) · 토목공학 · 매달린 줄 문제 · 치올코프스키 로켓 방정식 · 탄도학 ( 탄도 계수 ) · 자이로스코프 · 공명 · 운동 방정식 · 진자 ( 단진자 ) · 사이클로이드
+
+1 . 개요 2 . 뉴턴 역학과 라그랑주 역학의 비교 2.1 . 계산의 편리함 2.2 . 철학적 관점의 차이 2.3 . 현대물리학 으로의 확장 3 . 라그랑지안 4 . 해밀턴의 원리 5 . 오일러-라그랑주 방정식 5.1 . 일반화 좌표계 에서 5.2 . 구속력을 고려하는 경우 5.3 . 일반적인 오일러-라그랑주 방정식 5.3.1 . 속도에 비례하는 마찰력이 작용할 때 오일러-라그랑주 방정식 6 . 일반화 운동량 7 . 운동 에너지 정리 8 . 뉴턴 역학과의 등가성 8.1 . 뉴턴 역학에서 라그랑주 역학으로 환원하기 8.1.1 . 퍼텐셜이 일반화 속도에 의존하는 경우 8.2 . 라그랑주 역학에서 뉴턴 역학으로 환원하기 9 . 보존 정리 9.1 . 에너지 보존 9.2 . 일반화 운동량 보존 9.2.1 . 선운동량 보존 9.2.2 . 각운동량 보존 10 . 특수 상대성 이론 에서 라그랑지안 11 . 비고전역학적인 확장 11.1 . 비상대론적인 양자장론 11.2 . 스핀 0인 중성자유입자의 양자장론 11.3 . 스핀 1/2인 자유입자의 양자장론 11.4 . 스핀 1인 자유입자의 양자장론 11.5 . 양자 전기역학 12 . 예제
+
+1. 개요 [편집]
+라그랑주 역학 (라그랑주 力 學 , Lagrangian mechanics)은 라그랑주(J. L. Lagrange;1736~1813) 가 1788년에 논문 해석 역학(Mécanique Analytique) 에서 발표한 이론이며, 라그랑지안이라는 물리량을 통해서 물체의 운동을 설명하는 역학 체계이다. [1] "라그랑주 역학"이라는 거창한 이름만 보면 상대성 이론 이라든가 양자역학 처럼 뭔가 기존의 물리학으로는 설명할 수 없었던 새로운 패러다임 을 만든 것 같지만, 사실은 그렇지 않다. 라그랑주 역학은 고등학교에서도 배우는 기존의 뉴턴 역학 과 완전히 일치하는 결과를 준다. 다시 말하면, 라그랑주 역학으로 풀 수 있는 문제는 뉴턴 역학으로도 풀 수 있다. 에너지 장과 힘과의 관계를 통하여 뉴턴의 운동 방정식 으로부터 오일러-라그랑주 정리를 유도할 수 있으며 반대로 오일러-라그랑주 정리로부터 뉴턴의 운동 방정식을 유도할 수 있다.
+
+2. 뉴턴 역학과 라그랑주 역학의 비교 [편집]
+
+2.1. 계산의 편리함 [편집]
+라그랑주 역학은 계산이 편하다. 라그랑주 역학의 핵심 물리량은 라그랑지안으로, 에너지의 차원 M L 2 T − 2 \sf ML^{2}T^{-2} M L 2 T − 2 을 갖기 때문에 스칼라 이다. 기본적으로 공간을 기술하는 벡터는 성분이 3개이고, 스칼라는 하나이기 때문에 계산이 덜 복잡하다. 실제로 다양한 물리 문제에서 힘 , 속도 , 각운동량 , 토크 같은 개념들이 등장하는데, 이들은 벡터 이므로 방향을 고려해줘야 하지만, 라그랑지안은 스칼라이니 방향을 고려할 필요가 없다. 그래서 그림을 그려서 힘을 화살표로 표시하는 짓을 할 필요가 없고, 그냥 기계적으로 에너지 만 구한 다음 방정식에 대입만 하면 다 풀리게 된다. 특히 라그랑주 역학에서는 일반화 좌표계 라는 것을 도입하는데, 이렇게 좌표 변환을 해도 운동 방정식은 변하지 않는다. [2] 이것은 좌표 변환을 하면 복잡해지는 뉴턴 역학을 생각하면 엄청난 장점이라 할 수 있다.
+
+2.2. 철학적 관점의 차이 [편집]
+뉴턴 역학과 라그랑주 역학은 똑같은 자연현상을 기술하는 것처럼 보여도 둘은 물리 현상을 분석하는 시각이 근본적으로 다르다. 기본적으로, 뉴턴 역학에서 가장 중요하게 다루는 방정식은 누구나 들어본 적 있는 F = m a {\bf F}=m{\bf a} F = m a 이다. 이 식은 물체에 힘 F \bf F F 가 작용하면 가속도 a \bf a a 를 만든다는 세계관을 표현하고 있다. 즉, 원인 인 힘이 있으면 그 결과 로 가속도가 생기는 인과론적인 세계관인 것이다. 이에 따르면 현재 상태를 완벽하게 알고 있으면 머나먼 과거부터 시작해 머나먼 미래까지 한치의 오차 없이 정확하게 예측할 수 있다.
+
+하지만 라그랑주 역학의 세계관은 그렇지 않다. 라그랑주 역학을 한 마디로 요약하면 다음과 같다. 자연은 항상 작용(action)이 최소화되는 것을 좋아한다. 해밀턴의 원리
+
+위 원리에서 나온 작용 (作用, action)이 무엇인지는 나중에 소개할 것이다. 이는 다시 말해 "신은 항상 자연을 최적화시킨다" [3] 는 것이다. 이 놀라운 결과는 마치 자연이 항상 어떤 목적(작용의 최소화)을 가지고 굴러가는 것처럼 보인다는 것을 말해준다. 더 놀라운 것은 이 법칙 하나만 가지고 뉴턴 역학이랑 완전히 똑같은 체계를 만들어낼 수 있다는 것이다. 실제로 이것은 과학자들 사이에서 뉴턴 역학보다 더 근본적인 공리로 채택되고 있으며, 고전 역학을 넘어서 현대 물리학에까지 적용되는 아주 중요한 원리이다. 이는 최소작용의 원리 (least action principle)라고도 부른다.
+
+라그랑주 역학에서는 잘 규정된 최초의 시간 · 위치 좌표와 최후의 시간 · 위치 좌표, 그리고 해밀턴의 원리 를 잘 만족하는 라그랑지안, 이 두 가지를 필요로 한다. [4] 최소작용의 원리를 기술할 때 편미분 을 활용해서 라그랑지안을 구성하는 속도와 위치를 독립적으로 기술한다. 즉, 라그랑주 역학에서 특정 시간의 상황을 기술한다는 것은 단순히 속도가 얼마이고, 변위가 얼마인지는 기술하지만 이 둘이 어떻게 연결되어있는가는 보지 않는다는 것을 의미한다. [5] 바로 이 점이 뉴턴 역학과 라그랑주 역학을 나누는 관점의 차이다.
+
+매 순간마다 속도와 위치가 어떤 식으로 연결되어 있는 지를 확인하지 않는다는 것, 과정을 기술하지 않는다는 것이다. 최초의 시간-위치 좌표와 최후의 시간-위치 좌표만 지나가기만 하면 되며, 동시에 해밀턴의 원리를 적용하면 좌표변환에 대해서 구조적으로 항상 불변한 어떤 방정식을 얻게 되는데, 이 방정식이 바로 오일러-라그랑주 방정식 이다. 해밀턴의 원리가 적용된 라그랑지안이 나타내는 물리계의 운동현상을 궤적으로 나타내면, 최초의 좌표와 최후의 좌표 사이를 지나갈 때 항상 오일러-라그랑주 방정식을 만족하는 궤적을 따라 지나간다. 따라서 지정된 최초의 좌표와 최후의 좌표 내에서 해밀턴의 원리에 따라 일이 벌어진다는 것은 알 수 있어도 최초의 좌표와 최후의 좌표를 벗어난 머나먼 미래와 머나먼 과거에 대한 예측 및 추측에 대한 답을 라그랑지안이 직접적으로 주지 않는다. 다만 오일러-라그랑주 방정식을 활용하여 뉴턴 역학적 해석을 실시할 수 있을 뿐이다.
+
+2.3. 현대물리학 으로의 확장 [편집]
+바로 이러한 관점의 차이로 인하여 라그랑주 역학은 양자역학 의 대수론적 해석에 동원될 수 있었다. 양자역학에서 우리가 유의미하게 정할 수 있는 것은 바로 최초와 최후의 양자상태 [6] 두 개 뿐이다. 그리고 어떤 상호작용을 거치는지를 나타내는 슈뢰딩거 방정식 [7] 을 통해 일이 벌어지는 과정(궤적)을 '이 정도 일어날 수 있다'란 확률로 답을 얻는다. 이로 인해 양자역학 은 라그랑주 역학으로 해석할 수 있음을 알 수 있다. [8]
+
+이러한 이유 때문에, 라그랑주 역학은 현대물리학 의 꽃이라고 할 수 있는 양자역학 으로 넘어가는 데 아주 중요한 다리 역할을 하게 된다. 실제로, 미시 세계를 설명하는 양자역학에서는 힘 과 같은 물리량이나 인과관계와 같은 고전적인 개념은 의미를 상실한다. 대신 에너지를 의미하는 스칼라 함수 해밀토니안 이 기본적인 물리량으로 쓰이는데, 이 해밀토니안이 해밀턴 역학 에서 나온 것이고 해밀턴 역학은 라그랑주 역학에서 나온 것이다. 결국 스칼라를 다루는 라그랑주 역학은 현대물리학의 기초가 될 수 있었던 것이다.
+
+따라서 이러한 라그랑주 역학의 관점에서 물리학에 접근한다면 새로운 세계에 눈을 뜰 수 있을 것이다.
+
+3. 라그랑지안 [편집]
+경제학이나 응용수학에서 쓰이는 라그랑지안 함수에 대한 내용은 라그랑주 승수법 문서를 참고하십시오.
+고전역학에서 어떠한 계(system)의 라그랑지안 L L L [9] 은 그 계의 운동 에너지 T T T 에서 퍼텐셜 에너지 U U U 를 뺀 값으로 정의된다. [10] 따라서 라그랑지안은 차원 해석 적으로 에너지 의 차원 M L 2 T − 2 \sf ML^2T^{-2} M L 2 T − 2 을 갖는다. 즉, 다음과 같다. L ≡ T − U L \equiv T-U L ≡ T − U
+
+라그랑지안을 표기할 때는 일반화 좌표계 를 사용한다. 예를 들어 3차원에서 n n n 개의 점입자가 있는 상황을 생각해보자. 이 상황에서 입자 하나의 위치를 표기하려면 3개의 함수가 필요하므로, 모든 입자의 위치를 나타내려면 3 n 3n 3 n 개의 시간에 대한 함수가 필요하다. 이를 q i ( t ) ( i = 1 , 2 , 3 ) q_i(t) \,(i=1,\,2,\,3) q i ​ ( t ) ( i = 1 , 2 , 3 ) 로 표현하자.
+
+이때, 해당 시스템의 라그랑지안은 아래와 같이 3 n 3n 3 n 개의 변수와 그 미분값, 그리고 시간 t t t 의 함수로 나타낼 수 있다. L = L ( q i ( t ) , q ˙ i ( t ) , t ) L=L(q_i(t),\, \dot q_i(t),\,t) L = L ( q i ​ ( t ) , q ˙ ​ i ​ ( t ) , t )
+
+그리고 라그랑지안의 시간 적분은 3 n 3n 3 n 개의 함수를 입력으로 하는 범함수 가 되고, 이것을 작용 (action)이라고 하며 S S S 로 나타낸다. 차원 해석 적으로는 M L 2 T − 1 \sf ML^2T^{-1} M L 2 T − 1 의 차원 을 갖는다. S ≡ ∫ t 1 t 2 L ( q i ( t ) , q ˙ i ( t ) , t ) d t \displaystyle S \equiv \int_{t_1}^{t_2}L(q_i(t),\,\dot q_i(t),\,t){\rm\,d}t S ≡ ∫ t 1 ​ t 2 ​ ​ L ( q i ​ ( t ) , q ˙ ​ i ​ ( t ) , t ) d t
+
+보다 더 일반화된 작용으로 아래와 같이 쓰기도 하고, s = ∫ L d n x \displaystyle s=\int L{\rm\,d}^nx s = ∫ L d n x
+
+간혹 s = ∫ L d w n \displaystyle s=\int L{\rm\,d}w_n s = ∫ L d w n ​
+
+으로 표기되기도 한다.
+
+4. 해밀턴의 원리 [편집]
+자세한 내용은 해밀턴의 원리 문서를 참고하십시오. 해밀턴의 원리 (최소 작용의 원리, Hamilton's principle)는 자연이 선택하는 경로는 라그랑지안의 시간 적분인 작용 S S S 를 최소화한다는 것을 의미한다. 수식으로 쓰면 다음과 같다. δ S = δ ∫ t 1 t 2 L d t = 0 J ⋅ s \displaystyle \delta S=\delta \int_{t_1}^{t_2} L{\rm\,d}t=0{\rm\,J{\cdot}s} δ S = δ ∫ t 1 ​ t 2 ​ ​ L d t = 0 J ⋅ s
+
+이때 δ \delta δ 는 변분법에서의 표기법으로, δ S \delta S δ S 는 S S S 의 변분 이다. 자세한 내용은 해밀턴의 원리 참고.
+
+사실 역사적으로는 해밀턴의 원리 (1834)보다 라그랑주 역학(1788)이 먼저 나온 법칙이다. 실제로 라그랑주 는 처음에 해밀턴의 원리가 아닌 가상 일(virtual work)의 원리를 통해서 운동 방정식을 유도했다. 하지만 현재에는 해밀턴의 원리를 통해 라그랑주 역학을 설명하는 것이 더 명확하기 때문에 이 문서에서는 해밀턴의 원리를 먼저 소개한다.
+
+5. 오일러-라그랑주 방정식 [편집]
+변분법에서의 방정식 자체에 대한 내용은 오일러-라그랑주 방정식 문서를 참고하십시오.
+우선, 어떤 물리량 a a a 의 시간 미분을 다음과 같이 표기하기로 약속하자. d a d t ≡ a ˙ \dfrac{{\rm d}a}{{\rm d}t} \equiv \dot a d t d a ​ ≡ a ˙
+
+즉, 시간 미분 연산자 d / d t {\rm d}/{{\rm d}t} d / d t 를 점( □ ˙ \dot\square □ ˙ )으로 나타낸 것이다. 같은 논법으로, 시간에 대한 이계도함수는 다음과 같다. d 2 a d t 2 ≡ a ¨ \dfrac{{\rm d}^2a}{{\rm d}t^2} \equiv \ddot a d t 2 d 2 a ​ ≡ a ¨
+
+물체의 위치에 대해 x i x_i x i ​ 축의 좌표를 x i x_i x i ​ [11] 로 나타낼 것이며, 이것의 미분은 각 축에 대한 속도의 성분이 된다. 이때, 퍼텐셜 에너지는 위치에 대한 함수이므로 U ( x i ) U(x_i) U ( x i ​ ) 로 놓을 수 있고, 운동 에너지는 곧 이 위치의 시간 미분인 속도의 함수가 되므로 T ( x ˙ i ) T(\dot x_i) T ( x ˙ i ​ ) 가 된다. 따라서 라그랑지안은 이들의 선형 결합이므로 x i x_i x i ​ , x ˙ i \dot x_i x ˙ i ​ 의 함수이고, 라그랑지안이 속도와 위치의 함수라는 것을 명확히 해서 해밀턴의 원리를 다시 쓰면, δ ∫ t 1 t 2 L ( x i , x ˙ i ) d t = 0 J ⋅ s \displaystyle \delta \int_{t_1}^{t_2} L(x_i,\,\dot x_i){\rm\,d}t = 0{\rm\,J{\cdot}s} δ ∫ t 1 ​ t 2 ​ ​ L ( x i ​ , x ˙ i ​ ) d t = 0 J ⋅ s
+
+따라서 위의 해밀턴의 원리를 풀면 물체의 운동을 완벽히 설명할 수 있다. 고맙게도 위 방정식을 푸는 방법은 수학자들이 이미 다 연구해 놓았기 때문에 우리는 이걸 풀려고 노력할 필요가 없다. 놀랍게도 이 식은 다변수 함수의 오일러 방정식 과 완전히 똑같은 꼴이다. 이 식의 해는 다음 방정식의 해와 같음이 알려져 있다. ∂ L ∂ x i − d d t ∂ L ∂ x ˙ i = 0 N \dfrac{\partial L}{\partial x_i}-\dfrac{\rm d}{{\rm d}t}\dfrac{\partial L}{\partial \dot x_i} = 0{\rm\,N} ∂ x i ​ ∂ L ​ − d t d ​ ∂ x ˙ i ​ ∂ L ​ = 0 N
+
+위 식이 바로, 입자의 오일러-라그랑주 방정식이며, 도출 과정은 해당 문서나, 변분법 문서를 참조하자. 식에 차원 해석을 적용해보면, 에너지 차원을 갖는 L L L 을 변위 x i x_i x i ​ 로 나누거나 이와 동등한 차원을 갖는 d t ∂ x ˙ i {\rm d}t\,\partial\dot x_i d t ∂ x ˙ i ​ 으로 나눈 것의 차이므로 위 방정식은 힘 차원 M L T − 2 \sf MLT^{-2} ML T − 2 의 방정식임을 알 수 있다. [12]
+
+이 방정식은 라그랑주 역학의 핵심이라고 할 수 있으며, 뉴턴 역학으로 따지면 F = m a {\bf F} = m{\bf a} F = m a 의 역할을 하는 아주 중요한 식이다. 만약 계가 n n n 개의 입자로 이루어져 있다면, 3차원에서 각 입자마다 좌표 3개씩 총 3 n 3n 3 n 개의 좌표가 필요할 것이다. 입자 n n n 개 중 α \alpha α 번째 입자의 i i i 번째 좌표를 x α , i x_{\alpha,\,i} x α , i ​ 라고 하자. 예를 들어 3번째 입자의 y y y 좌표는 x 3 , 2 x_{3,\,2} x 3 , 2 ​ 이다. 그러면 계의 오일러-라그랑주 방정식은 다음과 같은 3 n 3n 3 n 개의 연립방정식이 된다. ∂ L ∂ x α , i − d d t ∂ L ∂ x ˙ α , i = 0 N ( α = 1 , 2 , 3 , ⋯ , n ; i = 1 , 2 , 3 ) \dfrac{\partial L}{\partial x_{\alpha,\,i}}-\dfrac{\rm d}{{\rm d}t}\dfrac{\partial L}{\partial \dot x_{\alpha,\,i}} = 0{\rm\,N} \quad (\alpha=1,\,2,\,3,\,\cdots,\,n;\, i=1,\,2,\,3) ∂ x α , i ​ ∂ L ​ − d t d ​ ∂ x ˙ α , i ​ ∂ L ​ = 0 N ( α = 1 , 2 , 3 , ⋯ , n ; i = 1 , 2 , 3 )
+
+이러한 패러다임에 따라 역학 문제를 해석하는 방법을 라그랑주 역학이라고 부른다. 실제로 이 식은 뉴턴 역학과 같은 결과를 준다. 예를 들어 용수철에 매달려서 1차원 운동하는 입자를 생각해 보자. 이 입자는 x x x 만을 이용하여, 위치를 기술할 수 있으므로, 입자의 퍼텐셜 에너지와 운동 에너지는 다음과 같다. U = 1 2 k x 2 T = 1 2 m x ˙ 2 \begin{aligned} U&=\frac12kx^2 \\ T&=\frac12m\dot x^2 \end{aligned} U T ​ = 2 1 ​ k x 2 = 2 1 ​ m x ˙ 2 ​
+
+따라서 이 계의 라그랑지안은 L = T − U = 1 2 m x ˙ 2 − 1 2 k x 2 \begin{aligned} L&=T-U \\ &=\frac12m\dot x^2-\frac12kx^2 \end{aligned} L ​ = T − U = 2 1 ​ m x ˙ 2 − 2 1 ​ k x 2 ​
+
+이고, 이 라그랑지안을 오일러-라그랑주 방정식 ∂ L ∂ x − d d t ∂ L ∂ x ˙ = 0 N \dfrac{\partial L}{\partial x}-\dfrac{\rm d}{{\rm d}t}\dfrac{\partial L}{\partial \dot x} =0{\rm\,N} ∂ x ∂ L ​ − d t d ​ ∂ x ˙ ∂ L ​ = 0 N
+
+에 대입하면, 운동 방정식은 다음과 같다. m x ¨ = − k x m\ddot x = -kx m x ¨ = − k x
+
+이것은 뉴턴 역학의 결과와 완전히 일치한다.
+
+오일러-라그랑주 방정식을 풀 때 유념할 점이 하나 있다. 기존 편미분에서는 x x x 를 x ˙ \dot x x ˙ 로 편미분할 때의 값은 자명하게 0 s 0{\rm\,s} 0 s 라고 할 수 없다. 그러나 특별히 라그랑지안을 적용하는 오일러-라그랑주 방정식에서는 이것이 0 s 0{\rm\,s} 0 s 이다. 즉, 시간에 대한 도함수 꼴로 관련이 있는 변수여도 모양이 다르면 아예 다른 변수로 가정하여 문제를 해결한다.
+
+5.1. 일반화 좌표계 에서 [편집]
+오일러-라그랑주 방정식을 풀 때의 핵심은 일반화 좌표계 (generalized coordinates)를 도입하는 것이다. 기본적으로 라그랑주 역학은 전부 일반화 좌표계에서 풀게 된다.
+
+자유도가 s s s 인 일반화 좌표계에서 운동 방정식을 풀려면 그냥 다음 절차에 따르기만 하면 쉽게 풀 수 있다. - 물체들의 위치 좌표들을 위에서 한 것처럼 일반화 좌표계인 q j q_j q j ​ 에 대한 식으로 쓴다.
+- 위 식들의 양변을 시간으로 미분해서 속도도 일반화 좌표계로 쓴다.
+- 라그랑지안에 있는 위치와 속도에 모두 일반화 좌표계의 식을 대입한다.
+- 오일러-라그랑주 방정식에서는 문자 x α , i x_{\alpha,\,i} x α , i ​ 대신 q j q_j q j ​ 로 바꾸고 s s s 개의 연립방정식을 쓴다.
+- 방정식을 푼다.
+
+여기서 2~5번 과정은 그냥 컴퓨터에 넣기만 하면 바로 계산이 된다. 따라서 우리가 고민해야 되는건 1번밖에 없는데, 이것조차 뉴턴 역학으로 푸는 것에 비하면 쉽다. 이런 방법으로 풀어도 되는 이유를 알아보자. 오일러-라그랑주 방정식을 처음 소개할 때, 자유도 가 s s s 인 계의 라그랑지안은 다음과 같이 물체들의 위치와 속도에 대한 함수로 나타낼 수 있었다. L = T ( x ˙ α , i ) − U ( x α , i ) = L ( x α , i , x ˙ α , i ) \begin{aligned} L&=T(\dot x_{\alpha,\,i}) - U(x_{\alpha,\,i}) \\ &= L(x_{\alpha,\,i},\,\dot x_{\alpha,\,i}) \end{aligned} L ​ = T ( x ˙ α , i ​ ) − U ( x α , i ​ ) = L ( x α , i ​ , x ˙ α , i ​ ) ​
+
+여기서 x α , i x_{\alpha,\,i} x α , i ​ , x ˙ α , i \dot x_{\alpha,\,i} x ˙ α , i ​ 는 s s s 개의 일반화 좌표계와 시간에 대한 함수로 나타낼 수 있다. x α , i = x α , i ( q j , t ) x α , i = x ˙ α , i ( q j , q ˙ j , t ) ( j = 1 , 2 , 3 , ⋯ , s ) \begin{aligned} x_{\alpha,\,i} &= x_{\alpha,\,i}(q_j,\,t) \\ x_{\alpha,\,i} &= \dot x_{\alpha,\,i}(q_j,\,\dot q_j,\,t) \quad (j=1,\,2,\,3,\,\cdots,\,s) \end{aligned} x α , i ​ x α , i ​ ​ = x α , i ​ ( q j ​ , t ) = x ˙ α , i ​ ( q j ​ , q ˙ ​ j ​ , t ) ( j = 1 , 2 , 3 , ⋯ , s ) ​
+
+이를 대입하면 결국 라그랑지안도 일반화 좌표계로 위치, 속도, 시간에 대한 함수가 된다. L = L ( q j , q ˙ j , t ) ( j = 1 , 2 , 3 , ⋯ , s ) L=L(q_j,\,\dot q_j,\,t) \quad (j=1,\,2,\,3,\,\cdots,\,s) L = L ( q j ​ , q ˙ ​ j ​ , t ) ( j = 1 , 2 , 3 , ⋯ , s )
+
+그러면 해밀턴의 원리 도 다음과 같이 일반화 좌표계로 쓸 수 있다. δ ∫ L ( q j , q ˙ j , t ) d t = 0 J ⋅ s ( j = 1 , 2 , 3 , ⋯ , s ) \displaystyle \delta \int L(q_j,\,\dot q_j,\,t){\rm\,d}t = 0{\rm\,J{\cdot}s} \quad (j=1,\,2,\,3,\,\cdots,\,s) δ ∫ L ( q j ​ , q ˙ ​ j ​ , t ) d t = 0 J ⋅ s ( j = 1 , 2 , 3 , ⋯ , s )
+
+그런데 이것은 좌표 변환을 하기 전과 완전히 똑같은 꼴이다. 즉, 이것도 다변수 함수의 오일러 방정식 으로 풀 수 있다. 그러면 다음과 같이 s s s 개의 연립 미분방정식을 얻는다. ∂ L ∂ q j − d d t ∂ L ∂ q ˙ j ( j = 1 , 2 , 3 , ⋯ , s ) \dfrac{\partial L}{\partial q_j}-\dfrac{\rm d}{{\rm d}t}\dfrac{\partial L}{\partial \dot q_j} \quad (j=1,\,2,\,3,\, \cdots,\,s) ∂ q j ​ ∂ L ​ − d t d ​ ∂ q ˙ ​ j ​ ∂ L ​ ( j = 1 , 2 , 3 , ⋯ , s )
+
+위 식은 그냥 오일러-라그랑주 방정식에 좌표 알파벳만 바꿔 넣은 꼴이다.
+
+5.2. 구속력을 고려하는 경우 [편집]
+지금까지 다뤘던 라그랑주 역학의 특징은 어려운 구속력을 그냥 무시해 버리고 풀 수 있다는 것이다. 하지만 가끔은 구속력을 무시하면 안 될 때가 있다. 예를 들어 엘리베이터를 설계할 때에는 엘리베이터를 매다는 줄이 어느 정도 장력까지 버틸 수 있는지를 고려해야 하고, 대교를 짓는다면 얼마나 많은 차가 다녀도 하중을 견딜 수 있는지를 계산해야 한다. 그런데 라그랑주 역학이 또 사기적인 것은 구속력도 뉴턴 역학보다 훨씬 쉽게 구할 수 있다는 것이다.
+
+지금까지는 자유도가 s s s 인 계는 s s s 개의 연립방정식을 풀어서 구했다. 예를 들어 평면 위에서 원운동하는 입자는 자유도가 1이므로 하나의 방정식만 있으면 된다. 하지만 이렇게 해서는 구속력을 구할 수 없다. 따라서 다른 방법을 시도해 봐야 한다. 이는 계를 자유도 2라고 간주하고, 구속 조건을 고려하는 것이다. 즉, "자유도 2개에 의한 오일러 방정식 2개 + 구속조건 식 1개" 이렇게 해서 총 3개의 방정식이 나온다. 그러면 식이 3개니까 미지수도 3개를 풀 수 있다. 구할 수 있는 것은 "일반화 좌표 2개 + 구속력"이다. 이렇게 하면 구속력까지 모두 구할 수 있게 된다.
+
+보통 구속 조건은 일반화 좌표로 f ( q j , t ) = 0 [ f ] f(q_j,\,t) = 0\,[f] f ( q j ​ , t ) = 0 [ f ] (단, 여기서 [ f ] [f] [ f ] 는 f f f 의 단위)의 꼴로 쓸 수 있다. [13] 그런데 이걸 어떻게 풀 수 있을까? 답은 구속 조건이 있는 오일러 방정식 에 그대로 나와 있다. 완전히 똑같은 꼴이기 때문이다. 따라서 구속 조건을 f ( q j , t ) = 0 [ f ] f(q_j,\,t) = 0\,[f] f ( q j ​ , t ) = 0 [ f ] 라고 하면 어떤 함수 λ ( t ) \lambda(t) λ ( t ) 에 대하여 다음 식이 성립한다. ∂ L ∂ q j − d d t ∂ L ∂ q ˙ j + λ ( t ) ∂ f ∂ q j = 0 N \dfrac{\partial L}{\partial q_j} - \dfrac{\rm d}{{\rm d}t}\dfrac{\partial L}{\partial\dot q_j} + \lambda(t)\dfrac{\partial f}{\partial q_j} = 0{\rm\,N} ∂ q j ​ ∂ L ​ − d t d ​ ∂ q ˙ ​ j ​ ∂ L ​ + λ ( t ) ∂ q j ​ ∂ f ​ = 0 N
+
+구속 조건이 여러 개일 경우 λ \lambda λ 를 여러 개 쓰면 된다. ∂ L ∂ q j − d d t ∂ L ∂ q ˙ j + λ 1 ∂ f ∂ q j + λ 2 ∂ g ∂ q j = 0 N \dfrac{\partial L}{\partial q_j} - \dfrac{\rm d}{{\rm d}t}\dfrac{\partial L}{\partial\dot q_j} + \lambda_1\dfrac{\partial f}{\partial q_j} + \lambda_2\dfrac{\partial g}{\partial q_j} = 0{\rm\,N} ∂ q j ​ ∂ L ​ − d t d ​ ∂ q ˙ ​ j ​ ∂ L ​ + λ 1 ​ ∂ q j ​ ∂ f ​ + λ 2 ​ ∂ q j ​ ∂ g ​ = 0 N
+
+마찬가지로 구속 조건이 더 많으면 λ \lambda λ 항을 계속 늘리면 된다.
+
+이는 오일러-라그랑주 방정식에 그냥 λ ∂ f / ∂ q j \lambda {\partial f}/{\partial q_j} λ ∂ f / ∂ q j ​ 같은 항들 여러 개만 더한 꼴이다. m m m 개의 구속 조건이 있을 때 이 항들을 보통 Q j Q_j Q j ​ 로 써서 Q j = ∑ k = 1 m λ k ∂ f k ∂ q j \displaystyle Q_j = \sum_{k=1}^m\lambda_k\frac{\partial f_k}{\partial q_j} Q j ​ = k = 1 ∑ m ​ λ k ​ ∂ q j ​ ∂ f k ​ ​
+
+로 정의하고, Q j Q_j Q j ​ 를 일반화 구속력 또는 일반화 힘 이라고 한다.
+
+신기하게도, Q j Q_j Q j ​ 를 비례 상수 λ k \lambda_k λ k ​ 로 나눈 편미분식 Q j λ k = ∂ f k ∂ q j \dfrac{Q_j}{\lambda_k} = \dfrac{\partial f_k}{\partial q_j} λ k ​ Q j ​ ​ = ∂ q j ​ ∂ f k ​ ​
+
+는 q j q_j q j ​ 가 어떤 차원을 갖는지에 따라 실제 구속력의 정체가 드러난다. [14] 예를 들어, 극좌표계에서 f f f 가 에너지 차원을 갖는 물리량이라고 할 때 Q λ r = ∂ f ∂ r \dfrac Q{\lambda_r} = \dfrac{\partial f}{\partial r} λ r ​ Q ​ = ∂ r ∂ f ​
+
+이면 ∂ f ∂ r \cfrac{\partial f}{\partial r} ∂ r ∂ f ​ 는 M L 2 T − 2 / L = M L T − 2 {\sf ML^2T^{-2}/L} = {\sf MLT^{-2}} M L 2 T − 2 /L = ML T − 2 으로 힘의 차원을 가지므로 Q λ r \cfrac Q{\lambda_r} λ r ​ Q ​ 는 r r r 방향의 구속 력 이 되고 λ r \lambda_r λ r ​ 는 무차원량의 비례상수가 된다. 그런데, Q λ θ = ∂ f ∂ θ \dfrac Q{\lambda_\theta} = \dfrac{\partial f}{\partial\theta} λ θ ​ Q ​ = ∂ θ ∂ f ​
+
+이면 ∂ f ∂ θ \cfrac{\partial f}{\partial\theta} ∂ θ ∂ f ​ 는 M L 2 T − 2 / A = M L 2 T − 2 A − 1 {\sf ML^2T^{-2}/A} = {\sf ML^2T^{-2}A^{-1}} M L 2 T − 2 /A = M L 2 T − 2 A − 1 으로 돌림힘 의 차원을 가지므로 [15] Q λ θ \cfrac Q{\lambda_\theta} λ θ ​ Q ​ 는 θ \theta θ 방향의 구속 토크 가 되며 λ θ \lambda_\theta λ θ ​ 는 r a d / m \rm rad/m rad/m 단위를 갖는 비례상수가 된다.
+
+즉, 구속력 항을 더한 오일러-라그랑주 방정식들과 구속 조건까지 다 연립해서 풀면 모든 일반화 좌표랑 구속력까지 빠짐없이 구할 수 있다.
+
+이때, 구속력의 부호는 일반화 좌표의 기저 벡터의 방향을 기준으로 정한다. 즉, 양의 값을 가지면 그 기저 벡터와 같은 방향, 음의 값을 가지면 반대 방향인 것이다.
+
+5.3. 일반적인 오일러-라그랑주 방정식 [편집]
+밑에서 뉴턴 역학과의 등가성을 확인하는 경우에서 다음을 다뤘다. d d t ∂ T ∂ q ˙ j − ∂ T ∂ q j = Q j \dfrac{\rm d}{{\rm d}t}\dfrac{\partial T}{\partial \dot q_j}-\dfrac{\partial T}{\partial q_j} = Q_j d t d ​ ∂ q ˙ ​ j ​ ∂ T ​ − ∂ q j ​ ∂ T ​ = Q j ​
+
+여기서 Q j Q_j Q j ​ 를 다음과 같이 분리하는데, Q j = C j + N j Q_j = C_j+N_j Q j ​ = C j ​ + N j ​
+
+C j C_j C j ​ 는 퍼텐셜의 음의 그레이디언트를 통해 얻을 수 있는 힘, 즉 보존력인 경우이다. N j N_j N j ​ 는 그러한 방식으로 얻을 수 없는 비보존력이다. 밑에서 다룬 것을 이용하면 다음과 같은 일반적인 오일러-라그랑주 방정식 을 얻는다. d d t ∂ L ∂ q ˙ j − ∂ L ∂ q j = N j \dfrac{\rm d}{{\rm d}t}\dfrac{\partial L}{\partial \dot q_j}-\dfrac{\partial L}{\partial q_j}=N_j d t d ​ ∂ q ˙ ​ j ​ ∂ L ​ − ∂ q j ​ ∂ L ​ = N j ​
+
+다만 N j N_j N j ​ 가 속도에 의존하는 경우 등은 매우 풀기 어려워진다. 특히 속도에 비례하는 마찰력같은 것이 작용할 경우 라그랑주 역학으로는 분석하기 까다로워진다.
+
+5.3.1. 속도에 비례하는 마찰력이 작용할 때 오일러-라그랑주 방정식 [편집]
+속도에 비례하는 마찰력이 작용할 때 라그랑주 방정식을 구해보자. 속도에 비례하므로 x x x 성분은 다음과 같이 쓸 수 있다. F f x = − k x v x F_{f_x}=-k_xv_x F f x ​ ​ = − k x ​ v x ​
+
+이러한 종류의 마찰력은 레일리 소산 함수 (Rayleigh’s dissipation function)로 불리는 함수 F \mathcal{F} F 를 사용해 다음과 같이 정의할 수 있다. F ≡ 1 2 ∑ i ( k x v i x 2 + k y v i y 2 + k z v i z 2 ) \displaystyle \mathcal{F}\equiv\frac12\sum_i {\left(k_x{{v_i}_x}^2+k_y{{v_i}_y}^2+k_z{{v_i}_z}^2\right)} F ≡ 2 1 ​ i ∑ ​ ( k x ​ v i ​ x ​ 2 + k y ​ v i ​ y ​ 2 + k z ​ v i ​ z ​ 2 )
+
+이 정의로부터 다음이 자명하다. F f x = − ∂ F ∂ v x F_{f_x}=-\dfrac{\partial\mathcal F}{\partial v_x} F f x ​ ​ = − ∂ v x ​ ∂ F ​
+
+혹은 다음과 같이 적을 수 있다. F f = − ∇ v F {\bf F}_f=-\bm\nabla_{\bf v}\mathcal F F f ​ = − ∇ v ​ F
+
+마찰력으로부터 나오는 일반화 힘의 성분은 다음과 같이 주어진다. Q j = ∑ i F f i = − ∑ ∇ v F ⋅ ∂ r i ∂ q i = − ∑ ∇ v F ⋅ ∂ r ˙ i ∂ q ˙ i = − ∂ F ∂ q ˙ j \begin{aligned} Q_j &= \sum_i \mathbf F_{f_i} \\ &= -\sum\bm\nabla_{\bf v}\mathcal F\bm\cdot\frac{\partial{\bf r}_i}{\partial q_i} \\ &= -\sum\bm\nabla_{\bf v}\mathcal F\bm\cdot\frac{\partial{\bf\dot r}_i}{\partial\dot q_i} \\ &= -\frac{\partial\mathcal F}{\partial\dot q_j} \end{aligned} Q j ​ ​ = i ∑ ​ F f i ​ ​ = − ∑ ∇ v ​ F ⋅ ∂ q i ​ ∂ r i ​ ​ = − ∑ ∇ v ​ F ⋅ ∂ q ˙ ​ i ​ ∂ r ˙ i ​ ​ = − ∂ q ˙ ​ j ​ ∂ F ​ ​
+
+따라서 라그랑주 방정식은 d d t ∂ L ∂ q ˙ j − ∂ L ∂ q j + ∂ F ∂ q ˙ j = 0 N \dfrac{\rm d}{{\rm d}t}\dfrac{\partial L}{\partial \dot q_j}-\dfrac{\partial L}{\partial q_j}+\dfrac{\partial\mathcal F}{\partial\dot q_j} =0{\rm\,N} d t d ​ ∂ q ˙ ​ j ​ ∂ L ​ − ∂ q j ​ ∂ L ​ + ∂ q ˙ ​ j ​ ∂ F ​ = 0 N
+
+6. 일반화 운동량 [편집]
+일반화 운동량은 아래와 같이 정의되는 물리량이다. p j = ∂ L ∂ q ˙ j p_j = \dfrac{\partial L}{\partial \dot q_j} p j ​ = ∂ q ˙ ​ j ​ ∂ L ​
+
+이 운동량은 뉴턴 역학에서 말하는 선운동량과 각운동량이 모두 포함되어 있으며, 서로 대응되는 관계에 있다.
+
+오일러-라그랑주 방정식에 의하면 d d t ∂ L ∂ q ˙ j = ∂ L ∂ q j \dfrac{\rm d}{{\rm d}t}\dfrac{\partial L}{\partial \dot q_j}=\dfrac{\partial L}{\partial q_j} d t d ​ ∂ q ˙ ​ j ​ ∂ L ​ = ∂ q j ​ ∂ L ​
+
+일반화 운동량의 정의에 의하여 p ˙ j = ∂ L ∂ q j \dot p_j = \dfrac{\partial L}{\partial q_j} p ˙ ​ j ​ = ∂ q j ​ ∂ L ​
+
+따라서 다음의 두 관계식을 얻는다. 이 두 관계는 해밀토니안을 얻을 때 다시 등장하므로 잘 살펴볼 필요가 있다. p j = ∂ L ∂ q ˙ j p ˙ j = ∂ L ∂ q j \begin{aligned} p_j &= \frac{\partial L}{\partial \dot q_j} \\ \dot p_j &= \frac{\partial L}{\partial q_j} \end{aligned} p j ​ p ˙ ​ j ​ ​ = ∂ q ˙ ​ j ​ ∂ L ​ = ∂ q j ​ ∂ L ​ ​
+
+7. 운동 에너지 정리 [편집]
+뉴턴 역학에서 운동 에너지는 T = ∑ α , i 1 2 m α x ˙ α , i 2 \displaystyle T=\sum_{\alpha,\,i}\frac12m_\alpha{\dot x_{\alpha,\,i}}^2 T = α , i ∑ ​ 2 1 ​ m α ​ x ˙ α , i ​ 2
+
+으로 나타낸다.
+
+한편, 일반화 좌표 x α , i = x α , i ( q j , t ) x_{\alpha,\,i}=x_{\alpha,\,i}(q_j,\,t) x α , i ​ = x α , i ​ ( q j ​ , t )
+
+를 도입한다면 x ˙ α , i = ∑ j ∂ x α , i ∂ q j q ˙ j + ∂ x α , i ∂ t x ˙ α , i 2 = ∑ j , k ∂ x α , i ∂ q j ∂ x α , i ∂ q k q ˙ j q ˙ k + 2 ∑ j ∂ x α , i ∂ q j ∂ x α , i ∂ t q ˙ j + ( ∂ x α , i ∂ t ) 2 \begin{aligned} \dot x_{\alpha,\,i} &=\sum_j \frac{\partial x_{\alpha,\,i}}{\partial q_j}\dot q_j+\frac{\partial x_{\alpha,\,i}}{\partial t} \\ {\dot x_{\alpha,\,i}}^2 &= \sum_{j,\,k} \frac{\partial x_{\alpha,\,i}}{\partial q_j}\frac{\partial x_{\alpha,\,i}}{\partial q_k}\dot q_j\dot q_k+2\sum_j \frac{\partial x_{\alpha,\,i}}{\partial q_j} \frac{\partial x_{\alpha,\,i}}{\partial t} \dot q_j+{\left(\frac{\partial x_{\alpha,\,i}}{\partial t} \right)}^2 \end{aligned} x ˙ α , i ​ x ˙ α , i ​ 2 ​ = j ∑ ​ ∂ q j ​ ∂ x α , i ​ ​ q ˙ ​ j ​ + ∂ t ∂ x α , i ​ ​ = j , k ∑ ​ ∂ q j ​ ∂ x α , i ​ ​ ∂ q k ​ ∂ x α , i ​ ​ q ˙ ​ j ​ q ˙ ​ k ​ + 2 j ∑ ​ ∂ q j ​ ∂ x α , i ​ ​ ∂ t ∂ x α , i ​ ​ q ˙ ​ j ​ + ( ∂ t ∂ x α , i ​ ​ ) 2 ​
+
+이상에서 T = ∑ α [ ∑ i , j , k 1 2 m α ∂ x α , i ∂ q j ∂ x α , i ∂ q k q ˙ j q ˙ k + ∑ i , j m α ∂ x α , i ∂ q j ∂ x α , i ∂ t q ˙ j + 1 2 m α ( ∂ x α , i ∂ t ) 2 ] \begin{aligned} T=\sum_\alpha {\left[\sum_{i,\,j,\,k} \frac12 m_\alpha\frac{\partial x_{\alpha,\,i}}{\partial q_j}\frac{\partial x_{\alpha,\,i}}{\partial q_k}\dot q_j\dot q_k + \sum_{i,\,j} m_\alpha \frac{\partial x_{\alpha,\,i}}{\partial q_j} \frac{\partial x_{\alpha,\,i}}{\partial t} \dot q_j + \frac12m_\alpha{\left(\frac{\partial x_{\alpha,\,i}}{\partial t} \right)}^2\right]} \end{aligned} T = α ∑ ​ ​ i , j , k ∑ ​ 2 1 ​ m α ​ ∂ q j ​ ∂ x α , i ​ ​ ∂ q k ​ ∂ x α , i ​ ​ q ˙ ​ j ​ q ˙ ​ k ​ + i , j ∑ ​ m α ​ ∂ q j ​ ∂ x α , i ​ ​ ∂ t ∂ x α , i ​ ​ q ˙ ​ j ​ + 2 1 ​ m α ​ ( ∂ t ∂ x α , i ​ ​ ) 2 ​ ​
+
+이것은 다음과 같은 꼴이다. T = ∑ j , k a j , k q ˙ j q ˙ k + ∑ j b j q ˙ j + c \displaystyle T=\sum_{j,\,k} a_{j,\,k}\dot q_j\dot q_k + \sum_j b_j\dot q_j + c T = j , k ∑ ​ a j , k ​ q ˙ ​ j ​ q ˙ ​ k ​ + j ∑ ​ b j ​ q ˙ ​ j ​ + c
+
+여기서 좌표와 일반화 좌표 사이의 변환 식이 시간에 의존하지 않을 때, 즉 스클로노믹(scleronomic)일 때 ∂ x α , i ∂ t = 0 m / s \dfrac{\partial x_{\alpha,\,i}}{\partial t} = 0{\rm\,m/s} ∂ t ∂ x α , i ​ ​ = 0 m/s
+
+이므로 b j = 0 k g ⋅ m / s b_j = 0{\rm\,kg{\cdot}m/s} b j ​ = 0 kg ⋅ m/s , c = 0 J c=0{\rm\,J} c = 0 J 이 된다.
+
+따라서 일반화 속도로 나타내어진 운동 에너지는 T = ∑ j , k a j , k q ˙ j q ˙ k \displaystyle T=\sum_{j,\,k} a_{j,\,k} \dot q_j\dot q_k T = j , k ∑ ​ a j , k ​ q ˙ ​ j ​ q ˙ ​ k ​
+
+이 된다.
+
+다음을 조사하자. ∂ T ∂ q ˙ l = ∑ j , k a j , k ∂ ∂ q ˙ l ( q ˙ j q ˙ k ) = ∑ j , k a j , k ( q ˙ k ∂ q ˙ j ∂ q ˙ l + q ˙ j ∂ q ˙ k ∂ q ˙ l ) = ∑ j , k a j , k ( q ˙ k δ j , l + q ˙ j δ k , l ) = ∑ k a k , l q ˙ k + ∑ j a j , l q ˙ j \begin{aligned} \frac{\partial T}{\partial \dot q_l} &= \sum_{j,\,k} a_{j,\,k} \frac\partial{\partial \dot q_l}(\dot q_j \dot q_k) \\ &=\sum_{j,\,k} a_{j,\,k}{\left( \dot q_k\frac{\partial \dot q_j}{\partial \dot q_l} + \dot q_j \frac{\partial \dot q_k}{\partial \dot q_l} \right)} \\ &=\sum_{j,\,k} a_{j,\,k}(\dot q_k\delta_{j,\,l} + \dot q_j \delta_{k,\,l}) \\ &=\sum_k a_{k,\,l} \dot q_k + \sum_j a_{j,\,l}\dot q_j \end{aligned} ∂ q ˙ ​ l ​ ∂ T ​ ​ = j , k ∑ ​ a j , k ​ ∂ q ˙ ​ l ​ ∂ ​ ( q ˙ ​ j ​ q ˙ ​ k ​ ) = j , k ∑ ​ a j , k ​ ( q ˙ ​ k ​ ∂ q ˙ ​ l ​ ∂ q ˙ ​ j ​ ​ + q ˙ ​ j ​ ∂ q ˙ ​ l ​ ∂ q ˙ ​ k ​ ​ ) = j , k ∑ ​ a j , k ​ ( q ˙ ​ k ​ δ j , l ​ + q ˙ ​ j ​ δ k , l ​ ) = k ∑ ​ a k , l ​ q ˙ ​ k ​ + j ∑ ​ a j , l ​ q ˙ ​ j ​ ​
+
+여기서 j j j , k k k 는 더미 변수이므로 다음과 같이 써도 무방하다. ∂ T ∂ q ˙ l = 2 ∑ k a k , l q ˙ k \displaystyle \frac{\partial T}{\partial \dot q_l} = 2\sum_k a_{k,\,l} \dot q_k ∂ q ˙ ​ l ​ ∂ T ​ = 2 k ∑ ​ a k , l ​ q ˙ ​ k ​
+
+다음을 고려하자. ∑ l q ˙ l ∂ T ∂ q ˙ l = 2 ∑ k , l a k , l q ˙ l q ˙ k \displaystyle \sum_l \dot q_l\frac{\partial T}{\partial \dot q_l} = 2\sum_{k,\,l} a_{k,\,l} \dot q_l\dot q_k l ∑ ​ q ˙ ​ l ​ ∂ q ˙ ​ l ​ ∂ T ​ = 2 k , l ∑ ​ a k , l ​ q ˙ ​ l ​ q ˙ ​ k ​
+
+그런데 우변은 2 T 2T 2 T 와 같으므로 다음을 얻는다. ∴ ∑ l q ˙ l ∂ T ∂ q ˙ l = 2 T \displaystyle\therefore \sum_l\dot q_l\frac{\partial T}{\partial \dot q_l} = 2T ∴ l ∑ ​ q ˙ ​ l ​ ∂ q ˙ ​ l ​ ∂ T ​ = 2 T
+
+8. 뉴턴 역학과의 등가성 [편집]
+라그랑주 역학이 뉴턴 역학과 등가성이 있는지 조사해보자.
+
+8.1. 뉴턴 역학에서 라그랑주 역학으로 환원하기 [편집]
+먼저해야 할 일은 달랑베르의 원리를 상기하는 것이다. δ W = ( F − p ˙ ) ⋅ δ r = 0 J \delta W =({\bf F - \dot p})\bm\cdot\delta{\bf r} =0{\rm\,J} δ W = ( F − p ˙ ​ ) ⋅ δ r = 0 J
+
+이 원리는 평형을 이루는 물체의 가상 변위에 대한 가상 일은 없음을 나타낸다.
+
+이 원리를 사용하여 우리의 목적을 이루어보자. 우선 위 것을 성분 별로 쓴다. ∑ i ( F i − p ˙ i ) δ x i = 0 J \displaystyle \sum_i (F_i-\dot p_i)\,\delta x_i = 0{\rm\,J} i ∑ ​ ( F i ​ − p ˙ ​ i ​ ) δ x i ​ = 0 J
+
+뉴턴 역학에서 p i = m x ˙ i p_i=m\dot x_i p i ​ = m x ˙ i ​ 이기에 p ˙ i = m x ¨ i \dot p_i=m\ddot x_i p ˙ ​ i ​ = m x ¨ i ​ 이다.
+
+라그랑주 역학에서는 일반화 좌표를 도입하기 때문에 x i ( q j , t ) x_i(q_j,\,t) x i ​ ( q j ​ , t ) 로 쓸 수 있다. 따라서 δ x i = ∑ j ∂ x i ∂ q j δ q j \displaystyle \delta x_i = \sum_j \frac{\partial x_i}{\partial q_j}\,\delta q_j δ x i ​ = j ∑ ​ ∂ q j ​ ∂ x i ​ ​ δ q j ​
+
+이다. 이는 가상 변위를 고려하기에 시간에 대한 고려를 할 필요가 없기 때문에 시간에 대한 미분 항은 나타나지 않은 것이다. 이것은 변분법 문서의 δ \delta δ 기호에 관한 부분을 보는 것을 권장한다.
+
+이상에서 위의 달랑베르 원리에서 운동량 항만 보게 되면, ∑ i p ˙ i δ x i = ∑ i , j m x ¨ i ∂ x i ∂ q j δ q j \displaystyle \sum_i \dot p_i\,\delta x_i = \sum_{i,\,j} m\ddot x_i \frac{\partial x_i}{\partial q_j}\,\delta q_j i ∑ ​ p ˙ ​ i ​ δ x i ​ = i , j ∑ ​ m x ¨ i ​ ∂ q j ​ ∂ x i ​ ​ δ q j ​
+
+그런데 d d t ( x ˙ ∂ x i ∂ q j ) = x ¨ ∂ x i ∂ q j + x ˙ d d t ∂ x i ∂ q j \dfrac{\rm d}{{\rm d}t}{\left( \dot x\dfrac{\partial x_i}{\partial q_j} \right)} = \ddot x\dfrac{\partial x_i}{\partial q_j}+\dot x\dfrac{\rm d}{{\rm d}t}\dfrac{\partial x_i}{\partial q_j} d t d ​ ( x ˙ ∂ q j ​ ∂ x i ​ ​ ) = x ¨ ∂ q j ​ ∂ x i ​ ​ + x ˙ d t d ​ ∂ q j ​ ∂ x i ​ ​
+
+인데, 여기서 우변의 제 2항의 미분 연산은 편미분 안으로 넣을 수 있어서, [증명] ∂ x ˙ i ∂ q j = ∑ k ∂ ∂ q j ( ∂ x ∂ q k q ˙ k + ∂ x i ∂ t ) = ∑ k ( ∂ 2 x i ∂ q j ∂ q k q ˙ k + ∂ x i ∂ q k ∂ q ˙ k ∂ q j ) + ∂ 2 x i ∂ q j ∂ t \begin{aligned} \frac{\partial \dot x_i}{\partial q_j} &= \sum_k \frac\partial{\partial q_j}{\left(\frac{\partial x}{\partial q_k}\dot q_k+\frac{\partial x_i}{\partial t} \right)} \\ &=\sum_k {\left(\frac{\partial^2 x_i}{\partial q_j \partial q_k}\dot q_k+\frac{\partial x_i}{\partial q_k}\frac{\partial \dot q_k}{\partial q_j}\right)} + \frac{\partial^2 x_i}{\partial q_j\partial t}\end{aligned} ∂ q j ​ ∂ x ˙ i ​ ​ ​ = k ∑ ​ ∂ q j ​ ∂ ​ ( ∂ q k ​ ∂ x ​ q ˙ ​ k ​ + ∂ t ∂ x i ​ ​ ) = k ∑ ​ ( ∂ q j ​ ∂ q k ​ ∂ 2 x i ​ ​ q ˙ ​ k ​ + ∂ q k ​ ∂ x i ​ ​ ∂ q j ​ ∂ q ˙ ​ k ​ ​ ) + ∂ q j ​ ∂ t ∂ 2 x i ​ ​ ​
+
+여기서 일반화 좌표와 일반화 속도는 서로 독립적인 양이므로 제2항은 사라진다. ∂ x ˙ i ∂ q j = ∑ k ∂ 2 x i ∂ q j ∂ q k q ˙ k + ∂ 2 x i ∂ q j ∂ t = ∑ k ∂ 2 x i ∂ q k ∂ q j q ˙ k + ∂ 2 x i ∂ t ∂ q j \begin{aligned} \frac{\partial \dot x_i}{\partial q_j} &= \sum_k \frac{\partial^2 x_i}{\partial q_j\partial q_k}\dot q_k +\frac{\partial^2 x_i}{\partial q_j\partial t}\\ &=\sum_k \frac{\partial^2 x_i}{\partial q_k\partial q_j}\dot q_k +\frac{\partial^2 x_i}{\partial t\partial q_j}\end{aligned} ∂ q j ​ ∂ x ˙ i ​ ​ ​ = k ∑ ​ ∂ q j ​ ∂ q k ​ ∂ 2 x i ​ ​ q ˙ ​ k ​ + ∂ q j ​ ∂ t ∂ 2 x i ​ ​ = k ∑ ​ ∂ q k ​ ∂ q j ​ ∂ 2 x i ​ ​ q ˙ ​ k ​ + ∂ t ∂ q j ​ ∂ 2 x i ​ ​ ​
+
+여기서 f ≡ ∂ x i ∂ q j f\equiv\cfrac{\partial x_i}{\partial q_j} f ≡ ∂ q j ​ ∂ x i ​ ​ 라 놓으면 그 꼴이 선명히 보이는데 ∂ x ˙ i ∂ q j = ∑ k ∂ f ∂ q k q ˙ k + ∂ f ∂ t = f ˙ = d d t ∂ x i ∂ q j \begin{aligned} \frac{\partial \dot x_i}{\partial q_j} &= \sum_k \frac{\partial f}{\partial q_k}\dot q_k +\frac{\partial f}{\partial t} \\ &=\dot f \\ &=\frac{\rm d}{{\rm d}t}\frac{\partial x_i}{\partial q_j} \end{aligned} ∂ q j ​ ∂ x ˙ i ​ ​ ​ = k ∑ ​ ∂ q k ​ ∂ f ​ q ˙ ​ k ​ + ∂ t ∂ f ​ = f ˙ ​ = d t d ​ ∂ q j ​ ∂ x i ​ ​ ​
+
+따라서 다음이 성립한다. d d t ∂ x i ∂ q j = ∂ x ˙ i ∂ q j \dfrac{\rm d}{{\rm d}t}\dfrac{\partial x_i}{\partial q_j}=\dfrac{\partial \dot x_i}{\partial q_j} d t d ​ ∂ q j ​ ∂ x i ​ ​ = ∂ q j ​ ∂ x ˙ i ​ ​
+
+d d t ( x ˙ ∂ x i ∂ q j ) = x ¨ ∂ x i ∂ q j + x ˙ ∂ x ˙ i ∂ q j \dfrac{\rm d}{{\rm d}t}{\left(\dot x\dfrac{\partial x_i}{\partial q_j} \right)} = \ddot x\dfrac{\partial x_i}{\partial q_j}+\dot x\dfrac{\partial \dot x_i}{\partial q_j} d t d ​ ( x ˙ ∂ q j ​ ∂ x i ​ ​ ) = x ¨ ∂ q j ​ ∂ x i ​ ​ + x ˙ ∂ q j ​ ∂ x ˙ i ​ ​
+
+따라서 ∑ i p ˙ i δ x i = ∑ i , j m { d d t ( x ˙ ∂ x i ∂ q j ) − x ˙ ∂ x ˙ i ∂ q j } δ q j \displaystyle \sum_i \dot p_i\,\delta x_i = \sum_{i,\,j} m{\left\{ \frac{\rm d}{{\rm d}t}{\left( \dot x\frac{\partial x_i}{\partial q_j} \right)} - \dot x\frac{\partial \dot x_i}{\partial q_j} \right\}}\,\delta q_j i ∑ ​ p ˙ ​ i ​ δ x i ​ = i , j ∑ ​ m { d t d ​ ( x ˙ ∂ q j ​ ∂ x i ​ ​ ) − x ˙ ∂ q j ​ ∂ x ˙ i ​ ​ } δ q j ​
+
+여기서 다음의 사실을 이용한다. ∂ x i ∂ q j = ∂ x ˙ i ∂ q ˙ j \dfrac{\partial x_i}{\partial q_j}=\dfrac{\partial \dot x_i}{\partial \dot q_j} ∂ q j ​ ∂ x i ​ ​ = ∂ q ˙ ​ j ​ ∂ x ˙ i ​ ​
+
+[증명] ∂ x ˙ i ∂ q ˙ j = ∑ k ∂ ∂ q ˙ j ( ∂ x i ∂ q k q ˙ k + ∂ x i ∂ t ) = ∑ k ( ∂ 2 x i ∂ q ˙ j ∂ q k q ˙ k + ∂ x i ∂ q k ∂ q ˙ k ∂ q ˙ j ) + ∂ 2 x i ∂ q ˙ j ∂ t \begin{aligned} \frac{\partial \dot x_i}{\partial \dot q_j} &= \sum_k \frac\partial{\partial \dot q_j} {\left(\frac{\partial x_i}{\partial q_k}\dot q_k+\frac{\partial x_i}{\partial t} \right)} \\ &=\sum_k {\left(\frac{\partial^2 x_i}{\partial\dot q_j\partial q_k}\dot q_k+\frac{\partial x_i}{\partial q_k}\frac{\partial \dot q_k}{\partial \dot q_j} \right)} +\frac{\partial^2 x_i}{\partial \dot q_j \partial t}\end{aligned} ∂ q ˙ ​ j ​ ∂ x ˙ i ​ ​ ​ = k ∑ ​ ∂ q ˙ ​ j ​ ∂ ​ ( ∂ q k ​ ∂ x i ​ ​ q ˙ ​ k ​ + ∂ t ∂ x i ​ ​ ) = k ∑ ​ ( ∂ q ˙ ​ j ​ ∂ q k ​ ∂ 2 x i ​ ​ q ˙ ​ k ​ + ∂ q k ​ ∂ x i ​ ​ ∂ q ˙ ​ j ​ ∂ q ˙ ​ k ​ ​ ) + ∂ q ˙ ​ j ​ ∂ t ∂ 2 x i ​ ​ ​
+
+한편, x i ( q j , t ) x_i(q_j,\,t) x i ​ ( q j ​ , t ) 이므로 제1항과 제3항은 사라진다. ∴ ∂ x ˙ i ∂ q ˙ j = ∑ k ∂ x i ∂ q k ∂ q ˙ k ∂ q ˙ j = ∑ k ∂ x i ∂ q k δ j , k = ∂ x i ∂ q j \begin{aligned} \therefore \frac{\partial \dot x_i}{\partial \dot q_j} &= \sum_k \frac{\partial x_i}{\partial q_k}\frac{\partial \dot q_k}{\partial \dot q_j} \\ &=\sum_k\frac{\partial x_i}{\partial q_k}\delta_{j,\,k} \\ &=\frac{\partial x_i}{\partial q_j} \end{aligned} ∴ ∂ q ˙ ​ j ​ ∂ x ˙ i ​ ​ ​ = k ∑ ​ ∂ q k ​ ∂ x i ​ ​ ∂ q ˙ ​ j ​ ∂ q ˙ ​ k ​ ​ = k ∑ ​ ∂ q k ​ ∂ x i ​ ​ δ j , k ​ = ∂ q j ​ ∂ x i ​ ​ ​
+
+δ j , k \delta_{j,\,k} δ j , k ​ 는 크로네커 델타 이다.
+
+이에 ∑ i p ˙ i δ x i = ∑ i , j m { d d t ( x ˙ ∂ x ˙ i ∂ q ˙ j ) − x ˙ ∂ x ˙ i ∂ q j } δ q j = ∑ i , j { d d t ∂ ∂ q ˙ j ( 1 2 m x ˙ i 2 ) − ∂ ∂ q j ( 1 2 m x ˙ i 2 ) } δ q j = ∑ j [ d d t ∂ ∂ q ˙ j { 1 2 m ( ∑ i x ˙ i 2 ) } − ∂ ∂ q j { 1 2 m ( ∑ i x ˙ i 2 ) } ] δ q j = ∑ j { d d t ∂ ∂ q ˙ j ( 1 2 m ∣ r ˙ ∣ 2 ) − ∂ ∂ q j ( 1 2 m ∣ r ˙ ∣ 2 ) } δ q j \begin{aligned} \sum_i \dot p_i\,\delta x_i &= \sum_{i,\,j} m{\left\{\frac{\rm d}{{\rm d}t}{\left( \dot x\frac{\partial \dot x_i}{\partial \dot q_j} \right)}-\dot x\frac{\partial \dot x_i}{\partial q_j} \right\}}\,\delta q_j \\ &=\sum_{i,\,j} {\left\{\frac{\rm d}{{\rm d}t} \frac\partial{\partial \dot q_j}{\left( \frac12m {\dot x_i}^2 \right)}-\frac\partial{\partial q_j}{\left( \frac12m {\dot x_i}^2 \right)} \right\}}\,\delta q_j \\ &=\sum_j {\left[\frac{\rm d}{{\rm d}t} \frac\partial{\partial \dot q_j}{\left\{ \frac12m {\left(\sum_i {\dot x_i}^2 \right)} \right\}}-\frac\partial{\partial q_j}{\left\{ \frac12m{\left(\sum_i {\dot x_i}^2 \right)} \right\}} \right]}\,\delta q_j \\ &=\sum_j {\left\{\frac{\rm d}{{\rm d}t} \frac\partial{\partial \dot q_j}{\left( \frac12m|{\bf\dot r}|^2\right)}-\frac\partial{\partial q_j}{\left( \frac12m|{\bf\dot r}|^2 \right)} \right\}}\,\delta q_j\end{aligned} i ∑ ​ p ˙ ​ i ​ δ x i ​ ​ = i , j ∑ ​ m { d t d ​ ( x ˙ ∂ q ˙ ​ j ​ ∂ x ˙ i ​ ​ ) − x ˙ ∂ q j ​ ∂ x ˙ i ​ ​ } δ q j ​ = i , j ∑ ​ { d t d ​ ∂ q ˙ ​ j ​ ∂ ​ ( 2 1 ​ m x ˙ i ​ 2 ) − ∂ q j ​ ∂ ​ ( 2 1 ​ m x ˙ i ​ 2 ) } δ q j ​ = j ∑ ​ [ d t d ​ ∂ q ˙ ​ j ​ ∂ ​ { 2 1 ​ m ( i ∑ ​ x ˙ i ​ 2 ) } − ∂ q j ​ ∂ ​ { 2 1 ​ m ( i ∑ ​ x ˙ i ​ 2 ) } ] δ q j ​ = j ∑ ​ { d t d ​ ∂ q ˙ ​ j ​ ∂ ​ ( 2 1 ​ m ∣ r ˙ ∣ 2 ) − ∂ q j ​ ∂ ​ ( 2 1 ​ m ∣ r ˙ ∣ 2 ) } δ q j ​ ​
+
+여기서 다음의 곱미분 을 이용했다. ∂ ∂ u ( x ˙ i 2 ) = 2 x ˙ i ∂ x ˙ i ∂ u \dfrac\partial{\partial u}({\dot x_i}^2)=2\dot x_i \dfrac{\partial \dot x_i}{\partial u} ∂ u ∂ ​ ( x ˙ i ​ 2 ) = 2 x ˙ i ​ ∂ u ∂ x ˙ i ​ ​
+
+이상에서 ∑ i p ˙ i δ x i = ∑ j ( d d t ∂ T ∂ q ˙ j − ∂ T ∂ q j ) \begin{aligned} \sum_i \dot p_i\,\delta x_i &= \sum_j {\left(\frac{\rm d}{{\rm d}t} \frac{\partial T}{\partial \dot q_j}-\frac{\partial T}{\partial q_j} \right)} \end{aligned} i ∑ ​ p ˙ ​ i ​ δ x i ​ ​ = j ∑ ​ ( d t d ​ ∂ q ˙ ​ j ​ ∂ T ​ − ∂ q j ​ ∂ T ​ ) ​
+
+여기서 나온 T T T 가 운동 에너지 이다.
+
+이번엔 힘과 관련된 항을 보자. ∑ i F i δ x i = ∑ i , j F i ∂ x i ∂ q j δ q j \displaystyle \sum_i F_i\,\delta x_i = \sum_{i,\,j} F_i\frac{\partial x_i}{\partial q_j}\,\delta q_j i ∑ ​ F i ​ δ x i ​ = i , j ∑ ​ F i ​ ∂ q j ​ ∂ x i ​ ​ δ q j ​
+
+여기서 나온 ∑ i F i ∂ x i ∂ q j ≡ Q j \displaystyle \sum_i F_i\frac{\partial x_i}{\partial q_j} \equiv Q_j i ∑ ​ F i ​ ∂ q j ​ ∂ x i ​ ​ ≡ Q j ​
+
+를 일반화 힘(generalized force) 라 정의한다.
+
+이상에서 ∑ j { Q j − ( d d t ∂ T ∂ q ˙ j − ∂ T ∂ q j ) } δ q j = 0 J \displaystyle \sum_j {\left\{Q_j-{\left(\frac{\rm d}{{\rm d}t} \frac{\partial T}{\partial \dot q_j}-\frac{\partial T}{\partial q_j} \right)} \right\}}\,\delta q_j = 0{\rm\,J} j ∑ ​ { Q j ​ − ( d t d ​ ∂ q ˙ ​ j ​ ∂ T ​ − ∂ q j ​ ∂ T ​ ) } δ q j ​ = 0 J
+
+인데, δ q j ≠ 0 m \delta q_j \ne 0{\rm\,m} δ q j ​  = 0 m 이므로 일반적으로 위 등식이 성립하려면 d d t ∂ T ∂ q ˙ j − ∂ T ∂ q j = Q j ⋯ ( ∗ ) \dfrac{\rm d}{{\rm d}t} \dfrac{\partial T}{\partial \dot q_j}-\dfrac{\partial T}{\partial q_j} = Q_j \qquad \cdots \, \small{(\ast)} d t d ​ ∂ q ˙ ​ j ​ ∂ T ​ − ∂ q j ​ ∂ T ​ = Q j ​ ⋯ ( ∗ )
+
+이것이 라그랑주 역학 버전의 달랑베르의 원리이다.
+
+가장 간단하게 힘을 퍼텐셜 에너지의 음의 그레이디언트로 얻을 수 있다 가정하면 F i = − ∂ U ∂ x i F_i=-\dfrac{\partial U}{\partial x_i} F i ​ = − ∂ x i ​ ∂ U ​
+
+이 때 주어지는 일반화 힘은 다음과 같다. − ∂ U ∂ q j = Q j -\dfrac{\partial U}{\partial q_j} = Q_j − ∂ q j ​ ∂ U ​ = Q j ​
+
+이것을 ( ∗ ) (\ast) ( ∗ ) 에 대입하면 d d t ∂ T ∂ q ˙ j − ∂ ( T − U ) ∂ q j = 0 N \dfrac{\rm d}{{\rm d}t} \dfrac{\partial T}{\partial \dot q_j}-\dfrac{\partial(T-U)}{\partial q_j}= 0{\rm\,N} d t d ​ ∂ q ˙ ​ j ​ ∂ T ​ − ∂ q j ​ ∂ ( T − U ) ​ = 0 N
+
+퍼텐셜 에너지가 일반화 속도에 무관하다면 이 식을 다음과 같이 써도 무방하다. d d t ∂ ( T − U ) ∂ q ˙ j − ∂ ( T − U ) ∂ q j = 0 N \dfrac{\rm d}{{\rm d}t}\dfrac{\partial(T-U)}{\partial \dot q_j}-\dfrac{\partial(T-U)}{\partial q_j}=0{\rm\,N} d t d ​ ∂ q ˙ ​ j ​ ∂ ( T − U ) ​ − ∂ q j ​ ∂ ( T − U ) ​ = 0 N
+
+여기서 나온 L ≡ T − U L \equiv T-U L ≡ T − U 가 바로 라그랑지안이고, ∂ L ∂ q j − d d t ∂ L ∂ q ˙ j = 0 N \dfrac{\partial L}{\partial q_j}-\dfrac{\rm d}{{\rm d}t} \dfrac{\partial L}{\partial \dot q_j}=0{\rm\,N} ∂ q j ​ ∂ L ​ − d t d ​ ∂ q ˙ ​ j ​ ∂ L ​ = 0 N
+
+위 식은 곧 오일러-라그랑주 방정식이다.
+
+위 논의는 라그랑주 역학이 뉴턴 역학과 전혀 다른 새로운 이론이 아닌 서로 등가성을 이룸 을 보여준다.
+
+8.1.1. 퍼텐셜이 일반화 속도에 의존하는 경우 [편집]
+일반화 속도에 의존하는 퍼텐셜 U ~ ( q j , q ˙ j ) \widetilde{U}(q_j,\,\dot q_j) U ( q j ​ , q ˙ ​ j ​ ) 을 고려하는데, 여기에 특수한 케이스로써 Q j = − ∂ U ~ ∂ q j + d d t ∂ U ~ ∂ q ˙ j Q_j=-\dfrac{\partial \widetilde U}{\partial q_j}+\dfrac{\rm d}{{\rm d}t}\dfrac{\partial \widetilde U}{\partial \dot q_j} Q j ​ = − ∂ q j ​ ∂ U ​ + d t d ​ ∂ q ˙ ​ j ​ ∂ U ​
+
+을 만족한다면 오일러-라그랑주 방정식은 ∂ ( T − U ~ ) ∂ q i − d d t ∂ ( T − U ~ ) ∂ q ˙ i = 0 N \dfrac{\partial (T-\widetilde U)}{\partial q_i}-\dfrac{\rm d}{{\rm d}t}\dfrac{\partial (T-\widetilde U)}{\partial \dot q_i}=0{\rm\,N} ∂ q i ​ ∂ ( T − U ) ​ − d t d ​ ∂ q ˙ ​ i ​ ∂ ( T − U ) ​ = 0 N
+
+형식이 되고, 라그랑지안을 마찬가지로 T − U ~ ≡ L T-\widetilde U \equiv L T − U ≡ L 로 정의하면 된다.
+
+대표적인 예로 로런츠 힘 하에 있는 입자의 라그랑지안이 있다.
+
+하지만 모든 퍼텐셜이 해당 조건을 만족하는 것이 아님에 유의해야 한다.
+
+8.2. 라그랑주 역학에서 뉴턴 역학으로 환원하기 [편집]
+윗 문단에서 뉴턴 역학으로 라그랑주 역학을 유도해봄으로써 두 이론 사이의 등가성을 확인했다.
+
+이번엔 라그랑주 역학에서 뉴턴 역학으로 환원을 해보자. 일반화 좌표로 직교 좌표를 쓰면, T = 1 2 m ∣ r ˙ ∣ 2 T=\dfrac12m|{\bf\dot r}|^2 T = 2 1 ​ m ∣ r ˙ ∣ 2
+
+이다. 오일러-라그랑주 방정식 ∂ ( T − U ) ∂ x i − d d t ∂ ( T − U ) ∂ x ˙ i = 0 N \dfrac{\partial(T-U)}{\partial x_i}-\dfrac{\rm d}{{\rm d}t}\dfrac{\partial(T-U)}{\partial \dot x_i}=0{\rm\,N} ∂ x i ​ ∂ ( T − U ) ​ − d t d ​ ∂ x ˙ i ​ ∂ ( T − U ) ​ = 0 N
+
+인데, 일반적인 상황에서 퍼텐셜 에너지는 속도에 의존하지 않고, 운동 에너지는 위에서 본 것 처럼 위치에 의존하지 않는다. 따라서 오일러 라그랑주 방정식을 − ∂ U ∂ x i − d d t ∂ T ∂ x ˙ i = 0 N -\dfrac{\partial U}{\partial x_i}-\dfrac{\rm d}{{\rm d}t}\dfrac{\partial T}{\partial \dot x_i}=0{\rm\,N} − ∂ x i ​ ∂ U ​ − d t d ​ ∂ x ˙ i ​ ∂ T ​ = 0 N
+
+형식으로 쓸 수 있고, − ∂ U ∂ x i = d d t ( m v i ) -\dfrac{\partial U}{\partial x_i}=\dfrac{\rm d}{{\rm d}t}(mv_i) − ∂ x i ​ ∂ U ​ = d t d ​ ( m v i ​ )
+
+이것은 − ∇ U = p ˙ -\bm\nabla U = {\bf\dot p} − ∇ U = p ˙ ​
+
+의 한 성분이고, 힘과 퍼텐셜 사이의 관계를 생각해볼 때 F = p ˙ {\bf F}={\bf\dot p} F = p ˙ ​
+
+로 뉴턴의 운동 법칙으로 환원됨을 알 수 있다.
+
+9. 보존 정리 [편집]
+요약하면 아래와 같다. 관성계의 성질 | 라그랑지안의 성질 | 보존되는 양
+시간의 균질성 | 시간 이동에 대한 불변
+(시간의 직접적인 함수가 아님) | 총 에너지
+공간의 균질성 | 병진에 대한 불변 | 선운동량
+공간의 등방성 | 회전에 대한 불변 | 각운동량
+
+아래는 학부 수준의 증명이다. 더욱 더 엄밀한 증명은 뇌터 정리 문서를 참조한다.
+
+9.1. 에너지 보존 [편집]
+라그랑지안의 시간 이동에 대한 불변은 에너지 보존을 이끌어낸다. δ t \delta t δ t 동안의 이동에 불변이라고 하면 다음이 성립한다. L ( q i , q ˙ i , t ) = L ( q i , q ˙ i , t + δ t ) = L ( q i , q ˙ i , t ) + ∂ L ∂ t δ t \begin{aligned} L(q_i,\,\dot q_i,\,t) &= L(q_i,\,\dot q_i,\,t+\delta t) \\ &= L(q_i,\,\dot q_i,\,t)+\frac{\partial L}{\partial t}\,\delta t \end{aligned} L ( q i ​ , q ˙ ​ i ​ , t ) ​ = L ( q i ​ , q ˙ ​ i ​ , t + δ t ) = L ( q i ​ , q ˙ ​ i ​ , t ) + ∂ t ∂ L ​ δ t ​
+
+따라서 다음을 얻는다. ∂ L ∂ t δ t = 0 J \dfrac{\partial L}{\partial t}\,\delta t=0{\rm\,J} ∂ t ∂ L ​ δ t = 0 J
+
+한편, δ t ≠ 0 s \delta t \ne 0{\rm\,s} δ t  = 0 s 이므로 위 등식을 만족하려면 ∂ L ∂ t = 0 J / s \dfrac{\partial L}{\partial t}=0{\rm\,J/s} ∂ t ∂ L ​ = 0 J/s
+
+이다.
+
+라그랑지안의 시간 미분을 생각해보자. d L d t = ∑ j ( ∂ L ∂ q j q ˙ j + ∂ L ∂ q ˙ j q ¨ j ) \displaystyle \frac{{\rm d}L}{{\rm d}t}=\sum_j {\left( \frac{\partial L}{\partial q_j} \dot q_j+\frac{\partial L}{\partial \dot q_j} \ddot q_j \right)} d t d L ​ = j ∑ ​ ( ∂ q j ​ ∂ L ​ q ˙ ​ j ​ + ∂ q ˙ ​ j ​ ∂ L ​ q ¨ ​ j ​ )
+
+오일러-라그랑주 방정식에 의해 ∂ L ∂ q j = d d t ∂ L ∂ q ˙ j \dfrac{\partial L}{\partial q_j}=\dfrac{\rm d}{{\rm d}t}\dfrac{\partial L}{\partial \dot q_j} ∂ q j ​ ∂ L ​ = d t d ​ ∂ q ˙ ​ j ​ ∂ L ​
+
+제1항을 교체 하면 d L d t = ∑ j ( d d t ∂ L ∂ q ˙ j q ˙ j + ∂ L ∂ q ˙ j q ¨ j ) = ∑ j d d t ( ∂ L ∂ q ˙ j q ˙ j ) \begin{aligned} \frac{{\rm d}L}{{\rm d}t} &= \sum_j {\left( \frac{\rm d}{{\rm d}t}\frac{\partial L}{\partial \dot q_j}\dot q_j+\frac{\partial L}{\partial \dot q_j} \ddot q_j \right)} \\ &=\sum_j \frac{\rm d}{{\rm d}t}{\left(\frac{\partial L}{\partial \dot q_j} \dot q_j \right)} \end{aligned} d t d L ​ ​ = j ∑ ​ ( d t d ​ ∂ q ˙ ​ j ​ ∂ L ​ q ˙ ​ j ​ + ∂ q ˙ ​ j ​ ∂ L ​ q ¨ ​ j ​ ) = j ∑ ​ d t d ​ ( ∂ q ˙ ​ j ​ ∂ L ​ q ˙ ​ j ​ ) ​
+
+이상에서 d d t ( L − ∑ j ∂ L ∂ q ˙ j q ˙ j ) = 0 J / s \displaystyle\frac{\rm d}{{\rm d}t}{\left(L-\sum_j\frac{\partial L}{\partial \dot q_j} \dot q_j \right)}=0{\rm\,J/s} d t d ​ ( L − j ∑ ​ ∂ q ˙ ​ j ​ ∂ L ​ q ˙ ​ j ​ ) = 0 J/s
+
+이에 각괄호 안의 양은 상수 임을 알 수 있는데, 그 상수를 − H -\mathcal H − H [16] 라 하자. L − ∑ j ∂ L ∂ q ˙ j q ˙ j = − H \displaystyle L-\sum_j\frac{\partial L}{\partial \dot q_j} \dot q_j=-\mathcal H L − j ∑ ​ ∂ q ˙ ​ j ​ ∂ L ​ q ˙ ​ j ​ = − H
+
+그런데 일반적으로 퍼텐셜 에너지는 일반화 속도에 의존하지 않기 때문에 L − ∑ j ∂ T ∂ q ˙ j q ˙ j = − H \displaystyle L-\sum_j\frac{\partial T}{\partial \dot q_j} \dot q_j=-\mathcal H L − j ∑ ​ ∂ q ˙ ​ j ​ ∂ T ​ q ˙ ​ j ​ = − H
+
+이고, 계가 스클로노믹하다면 ∑ j ∂ T ∂ q ˙ j q ˙ j = 2 T \displaystyle \sum_j\frac{\partial T}{\partial \dot q_j} \dot q_j=2T j ∑ ​ ∂ q ˙ ​ j ​ ∂ T ​ q ˙ ​ j ​ = 2 T
+
+임을 위에서 증명했다. L − 2 T = − H L-2T=-\mathcal H L − 2 T = − H
+
+라그랑지안의 정의 L = T − U L=T-U L = T − U 를 이용하면 다음을 얻는다. T + U = E = H T+U=E=\mathcal H T + U = E = H
+
+즉, 라그랑지안의 시간 이동에 대한 불변은 에너지의 보존을 이끌어낸다.
+
+그러나 해밀토니안 H \mathcal H H 가 다음의 조건을 만족할 때만 총 에너지와 같음에 유의해야 한다. - 직교 좌표와 일반화 좌표 간의 변환 공식에 시간이 포함되지 않아야 한다.
+- 퍼텐셜 에너지가 속도에 의존하지 않아야 한다.
+
+9.2. 일반화 운동량 보존 [편집]
+라그랑지안의 무한소 변위의 병진에 대한 불변은 일반화 운동량 보존을 이끌어낸다. δ q \delta \bf q δ q 의 병진에 불변이라고 하면 L ( q i , q ˙ i , t ) = L ( q i + δ q i , q ˙ i , t + δ t ) = L ( q i , q ˙ i , t ) + ∑ i ∂ L ∂ q i δ q i = L ( q i , q ˙ i , t ) + ∇ L ⋅ δ q \begin{aligned} L(q_i,\,\dot q_i,\,t) &= L(q_i+\delta q_i,\,\dot q_i,\,t+\delta t) \\ &=L(q_i,\,\dot q_i,\,t)+\sum_i \frac{\partial L}{\partial q_i}\,\delta q_i \\ &=L(q_i,\,\dot q_i,\,t)+\bm\nabla L \bm\cdot\delta{\bf q} \end{aligned} L ( q i ​ , q ˙ ​ i ​ , t ) ​ = L ( q i ​ + δ q i ​ , q ˙ ​ i ​ , t + δ t ) = L ( q i ​ , q ˙ ​ i ​ , t ) + i ∑ ​ ∂ q i ​ ∂ L ​ δ q i ​ = L ( q i ​ , q ˙ ​ i ​ , t ) + ∇ L ⋅ δ q ​
+
+시간 이동과 마찬가지로 위 등식이 만족하려면 ∇ L = 0 N ⟹ ∂ L ∂ q i = 0 N \displaystyle\bm\nabla L = {\bf0}{\rm\,N} \Longrightarrow \frac{\partial L}{\partial q_i}=0{\rm\,N} ∇ L = 0 N ⟹ ∂ q i ​ ∂ L ​ = 0 N
+
+오일러-라그랑주 방정식에 의하면 ∂ L ∂ q i = d d t ∂ L ∂ q ˙ i \dfrac{\partial L}{\partial q_i}=\dfrac{\rm d}{{\rm d}t}\dfrac{\partial L}{\partial \dot q_i} ∂ q i ​ ∂ L ​ = d t d ​ ∂ q ˙ ​ i ​ ∂ L ​
+
+이므로 d d t ∂ L ∂ q ˙ i = 0 N \dfrac{\rm d}{{\rm d}t}\dfrac{\partial L}{\partial \dot q_i}=0{\rm\,N} d t d ​ ∂ q ˙ ​ i ​ ∂ L ​ = 0 N
+
+일반화 운동량은 p i = ∂ L ∂ q ˙ i p_i=\cfrac{\partial L}{\partial \dot q_i} p i ​ = ∂ q ˙ ​ i ​ ∂ L ​
+
+로 정의되므로 p ˙ i = 0 N \dot p_i=0{\rm\,N} p ˙ ​ i ​ = 0 N
+
+무한소 변위의 병진은 일반화 운동량의 보존을 이끌어 낸다.
+
+일반화 운동량은 곧 뉴턴 역학에서 선운동량이나 각운동량을 나타내므로 이들의 보존과도 연관이 있다.
+
+덤으로 라그랑지안에 q j q_j q j ​ 가 직접적으로 표현되지 않을 때도 이 일반화 운동량은 보존되는데, 이때의 q j q_j q j ​ 를 순환 좌표 라 한다.
+
+9.2.1. 선운동량 보존 [편집]
+이는 일반화 좌표로 직교 좌표를 택한다면 d d t ∂ L ∂ x ˙ i = 0 N \dfrac{\rm d}{{\rm d}t}\dfrac{\partial L}{\partial \dot x_i}=0{\rm\,N} d t d ​ ∂ x ˙ i ​ ∂ L ​ = 0 N
+
+뉴턴 역학에서 퍼텐셜 에너지는 일반적으로 속도에 의존하지 않으므로 라그랑지안의 속도 미분은 운동 에너지와 관련이 된다. 운동 에너지 T = 1 2 m ∣ r ˙ ∣ 2 T=\dfrac12m|{\bf\dot r}|^2 T = 2 1 ​ m ∣ r ˙ ∣ 2
+
+임을 이용하면 d d t ( m x ˙ i ) = 0 N \dfrac{\rm d}{{\rm d}t}(m\dot x_i) = 0{\rm\,N} d t d ​ ( m x ˙ i ​ ) = 0 N
+
+로 선운동량 보존을 이끌어 낸다.
+
+9.2.2. 각운동량 보존 [편집]
+
+각운동량 보존은 살짝 증명하기 어렵다. 이때는 무한소 회전 을 고려하는데(단, ϕ ‾ = ϕ / r a d \bm{\underline\phi} = \bm\phi/{\rm rad} ϕ ​ = ϕ / rad ), δ r = δ ϕ ‾ × r \delta {\bf r}= \delta\bm{\underline\phi\times\bf r} δ r = δ ϕ ​ × r
+
+이 변환은 속도 벡터에 대해서도 동일하게 이루어진다. δ r ˙ = δ ϕ ‾ × r ˙ \delta{\bf\dot r}= \delta\bm{\underline\phi\times\bf\dot r} δ r ˙ = δ ϕ ​ × r ˙
+
+라그랑지안의 무한소 회전을 고려했을 때, 이것이 동등하다면 각운동량은 보존된다. 즉, L ( x i , x ˙ i , t ) = L ( x i + δ x i , x ˙ i + δ x ˙ i , t ) = L ( x i , x ˙ i , t ) + ∑ i ( ∂ L ∂ x i δ x i + ∂ L ∂ x ˙ i δ x ˙ i ) \begin{aligned} L(x_i,\,\dot x_i,\,t)&=L(x_i+\delta x_i,\,\dot x_i+\delta \dot x_i,\,t) \\ &=L(x_i,\,\dot x_i,\,t)+\sum_i {\left(\frac{\partial L}{\partial x_i}\,\delta x_i+\frac{\partial L}{\partial \dot x_i}\,\delta \dot x_i \right)} \end{aligned} L ( x i ​ , x ˙ i ​ , t ) ​ = L ( x i ​ + δ x i ​ , x ˙ i ​ + δ x ˙ i ​ , t ) = L ( x i ​ , x ˙ i ​ , t ) + i ∑ ​ ( ∂ x i ​ ∂ L ​ δ x i ​ + ∂ x ˙ i ​ ∂ L ​ δ x ˙ i ​ ) ​
+
+이상에서 ∑ i ( ∂ L ∂ x i δ x i + ∂ L ∂ x ˙ i δ x ˙ i ) = 0 J \displaystyle \sum_i {\left( \frac{\partial L}{\partial x_i}\,\delta x_i+\frac{\partial L}{\partial \dot x_i}\,\delta \dot x_i \right)}=0{\rm\,J} i ∑ ​ ( ∂ x i ​ ∂ L ​ δ x i ​ + ∂ x ˙ i ​ ∂ L ​ δ x ˙ i ​ ) = 0 J
+
+한편 다음의 관계를 기억한다면 ∂ L ∂ x ˙ i = p i ∂ L ∂ x i = p ˙ i \begin{aligned}\frac{\partial L}{\partial \dot x_i}&=p_i \\ \frac{\partial L}{\partial x_i} &= \dot p_i \end{aligned} ∂ x ˙ i ​ ∂ L ​ ∂ x i ​ ∂ L ​ ​ = p i ​ = p ˙ ​ i ​ ​
+
+이것을 대입하면 ∑ i ( p ˙ i δ x i + p i δ x ˙ i ) = p ˙ ⋅ ( δ ϕ ‾ × r ) + p ⋅ ( δ ϕ ‾ × r ˙ ) \displaystyle \sum_i (\dot p_i\,\delta x_i+p_i\,\delta \dot x_i) = {\bf\dot p}\bm\cdot{\left(\delta\bm{\underline\phi\times\bf r}\right)}+{\bf p}\bm\cdot{\left(\delta\bm{\underline\phi\times\bf\dot r}\right)} i ∑ ​ ( p ˙ ​ i ​ δ x i ​ + p i ​ δ x ˙ i ​ ) = p ˙ ​ ⋅ ( δ ϕ ​ × r ) + p ⋅ ( δ ϕ ​ × r ˙ )
+
+벡터의 삼중곱은 배열 순서를 유지한 채로 교환 가능하다. p ˙ ⋅ ( δ ϕ ‾ × r ) + p ⋅ ( δ ϕ ‾ × r ˙ ) = δ ϕ ‾ ⋅ ( r × p ˙ ) + δ ϕ ‾ ⋅ ( r ˙ × p ) = δ ϕ ‾ ⋅ d d t ( r × p ) = δ ϕ ⋅ d d t ( r × p ) / r a d = δ ϕ ⋅ L ˙ \begin{aligned} {\bf\dot p}\bm\cdot{\left(\delta \bm{\underline\phi\times\bf r}\right)}+{\bf p}\bm\cdot{\left(\delta \bm{\underline\phi\times\bf\dot r}\right)} &= \delta \bm{\underline\phi}\bm\cdot({\bf r\bm\times\dot p})+\delta \bm{\underline\phi}\bm\cdot({\bf\dot r\bm\times p}) \\ &= \delta \bm{\underline\phi}\bm\cdot\frac{\rm d}{{\rm d}t}({\bf r\bm\times p})\\ &= \delta \bm\phi\bm\cdot\frac{\rm d}{{\rm d}t}({\bf r\bm\times p})/{\rm rad}\\ &= \delta \bm\phi\bm\cdot{\bf\dot L} \end{aligned} p ˙ ​ ⋅ ( δ ϕ ​ × r ) + p ⋅ ( δ ϕ ​ × r ˙ ) ​ = δ ϕ ​ ⋅ ( r × p ˙ ​ ) + δ ϕ ​ ⋅ ( r ˙ × p ) = δ ϕ ​ ⋅ d t d ​ ( r × p ) = δ ϕ ⋅ d t d ​ ( r × p ) / rad = δ ϕ ⋅ L ˙ ​
+
+한편 이 양이 0 J 0{\rm\,J} 0 J 이 돼야하는데, δ ϕ ≠ 0 r a d \delta \bm\phi \ne {\bf 0}{\rm\,rad} δ ϕ  = 0 rad 이므로 L ˙ = 0 J / r a d {\bf\dot L}={\bf0}{\rm\,J/rad} L ˙ = 0 J/rad
+
+즉, 공간의 등방성은 각운동량 보존을 이끌어 낸다.
+
+10. 특수 상대성 이론 에서 라그랑지안 [편집]
+자세한 내용은 상대론적 역학 문서의 상대론적 라그랑지안 부분을 참고하십시오.
+
+11. 비고전역학적인 확장 [편집]
+원칙적으로 뉴턴 역학의 범위에서 벗어나는 어떠한 물리 현상도 라그랑주 역학이 예측해 주지는 않는다. [17] 그럼에도 불구하고 라그랑지안, 작용, 라그랑주 역학에 대한 공부로부터 물리학과의 커리큘럼을 시작하는 궁극적인 이유는 고전역학을 벗어나는 레벨의 물리에서 매우 다양하게 유사한 방법론을 도입하여 사용하게 되기 때문이다.
+
+상대성 이론 에서는 시간과 공간이 동일한 방식으로 다루어져야 하므로 작용을 라그랑지안의 시간 적분으로 표현하는 것이 적절하지 않다. 이를 위해서 라그랑지안 밀도 L \bm{\mathcal L} L 라는 개념이 흔히 사용되는데, 기본적으로 라그랑지안 밀도의 3차원적인 공간적분이 보통의 라그랑지안이 된다. L ( t ) = ∫ L ( r , t ) d r S = ∫ L ( x ) d x μ \begin{aligned} L(t) &= \int \mathcal L({\bf r},\,t){\rm\,d}{\bf r} \\ S &= \int \mathcal L(x){\rm\,d}x^\mu \end{aligned} L ( t ) S ​ = ∫ L ( r , t ) d r = ∫ L ( x ) d x μ ​
+
+위의 마지막 수식, 그리고 이 아래 수식들에서는 사차원 벡터 (4-vector)를 이탤릭체로 표기하는 방법을 사용한다. 혼동될 여지가 없는 경우엔 이 라그랑지안 밀도를 그냥 라그랑지안이라고 부르는 경우도 많다. 다음은 각 양자장론의 분야별로 출발점을 주는 라그랑지안 밀도와 그것에 오일러-라그랑주 방정식을 적용하여 유도한 운동방정식의 리스트이다. [18]
+
+11.1. 비상대론적인 양자장론 [편집]
+L ( ψ , ∇ ψ , ψ ˙ ) = i ℏ ψ ∗ ∂ ψ ∂ t − ℏ 2 2 m ∇ ψ ∗ ∇ ψ − V ( r , t ) ψ ∗ ψ i ℏ ∂ ∂ t ψ ( r , t ) = { − ℏ 2 2 m ∇ 2 + V ( r , t ) } ψ ( r , t ) \begin{aligned} L{(\psi,\,\bm\nabla\psi,\,\dot\psi)} &= i\hbar \psi^*\frac{\partial\psi}{\partial t} - \frac{\hbar^2}{2m}\bm\nabla\psi^* \bm\nabla\psi - V({\bf r},\,t)\psi^* \psi \\ i\hbar \frac\partial{\partial t} \psi({\bf r},\,t) &= {\left\{ -\frac{\hbar^2}{2m}\nabla^2 + V({\bf r},\,t) \right\}}\psi({\bf r},\,t) \end{aligned} L ( ψ , ∇ ψ , ψ ˙ ​ ) i ℏ ∂ t ∂ ​ ψ ( r , t ) ​ = i ℏ ψ ∗ ∂ t ∂ ψ ​ − 2 m ℏ 2 ​ ∇ ψ ∗ ∇ ψ − V ( r , t ) ψ ∗ ψ = { − 2 m ℏ 2 ​ ∇ 2 + V ( r , t ) } ψ ( r , t ) ​
+
+11.2. 스핀 0인 중성자유입자의 양자장론 [편집]
+(이 문단 아래로는 ε 0 → 1 \varepsilon_0\to1 ε 0 ​ → 1 , μ 0 → 1 \mu_0\to1 μ 0 ​ → 1 , c → 1 c\to1 c → 1 , ℏ → 1 \hbar\to1 ℏ → 1 로 놓는 자연 단위계 를 사용한다.) L = 1 2 ( ∂ μ ϕ ) ( ∂ μ ϕ ) − 1 2 m 2 ϕ 2 0 = ( ∂ μ ∂ μ + m 2 ) ϕ \begin{aligned} \mathcal L &= \frac12(\partial^\mu\phi)(\partial_\mu\phi) - \frac12m^2\phi^2 \\ 0 &= (\partial^\mu \partial_\mu + m^2)\phi \end{aligned} L 0 ​ = 2 1 ​ ( ∂ μ ϕ ) ( ∂ μ ​ ϕ ) − 2 1 ​ m 2 ϕ 2 = ( ∂ μ ∂ μ ​ + m 2 ) ϕ ​
+
+위의 방정식을 클라인-고든 방정식 이라고 부른다. [19]
+
+11.3. 스핀 1/2인 자유입자의 양자장론 [편집]
+L = ψ ‾ ( i γ μ ∂ μ − m ) ψ 0 = ( i γ μ ∂ μ − m ) ψ \begin{aligned} \mathcal L &= \overline\psi (i \gamma^\mu \partial_\mu - m) \psi \\ 0 &= (i \gamma^\mu \partial_\mu - m) \psi \end{aligned} L 0 ​ = ψ ​ ( i γ μ ∂ μ ​ − m ) ψ = ( i γ μ ∂ μ ​ − m ) ψ ​
+
+여기에서의 ψ \psi ψ 는 4 × 1 4\times1 4 × 1 크기의 행렬로 표현되는 스피너(spinor)이고, γ μ \gamma^\mu γ μ 는 디랙 행렬 이다. 위의 방정식을 디랙 방정식 이라고 부른다.
+
+11.4. 스핀 1인 자유입자의 양자장론 [편집]
+L = − 1 4 F μ ν F μ ν + 1 2 m 2 A μ A μ F μ ν = ∂ μ A ν − ∂ ν A μ 0 = ∂ ν ∂ ν A μ − ∂ μ ∂ ν A ν + m 2 A μ \begin{aligned} \mathcal L &= -\frac14 F^{\mu \nu} F_{\mu \nu}+ \frac12 m^2 A^\mu A_\mu F^{\mu \nu} \\ &= \partial^\mu A^\nu - \partial^\nu A^\mu \\ 0 &= \partial^\nu \partial_\nu A^\mu -\partial^\mu \partial_\nu A^\nu +m^2 A^\mu \end{aligned} L 0 ​ = − 4 1 ​ F μν F μν ​ + 2 1 ​ m 2 A μ A μ ​ F μν = ∂ μ A ν − ∂ ν A μ = ∂ ν ∂ ν ​ A μ − ∂ μ ∂ ν ​ A ν + m 2 A μ ​
+
+여기에서의 A μ A^\mu A μ 가 4차원 퍼텐셜, F μ ν F^{\mu \nu} F μν 는 전자기 텐서이다. 보통 아래의 운동방정식의 우변에 0 대신 4차원 전류항 j μ j^\mu j μ 를 넣은 것을 프로카 방정식이라고 부른다. 위의 방정식에서 로런츠 게이지(Lorenz gauge) ∂ μ A μ = 0 \partial^\mu A_\mu = 0 ∂ μ A μ ​ = 0 를 적용하여 게이지 고정(gauge fixing)을 하면 위에서 스칼라 장의 운동 방정식과 똑같은 모양이된다. 즉 운동 방정식은 로런츠 게이지에서 그 자체로도 맥스웰 방정식 이면서 클라인-고든 방정식 이기도 하다.
+
+참고로 질량 m m m 이 0이 아닐 때 프로카 방정식은 게이지 변환에 대해 불변이 아니다. 따라서 게이지 불변성을 만족시키려면 광자의 질량이 0이어야 하며 동시에 전류 밀도(current density) j μ j^\mu j μ 는 0이어야 한다.
+
+여기서 조금만 더 나아가자. 전하를 띤 페르미온 [20] 의 전자기적 상호작용을 기술하기 위해서는 최소한 자유롭게 움직이는 페르미온과 광자에 대한 라그랑지안이 필요하고, 전하를 띈 입자가 움직이고 있으므로 전류 밀도도 필요하다. 아무런 조건 없이 전류 밀도를 고려하여 라그랑지안의 게이지 변환을 가하면 라그랑지안이 게이지 불변을 만족시키지 않는 것으로 보여, 잘못된 이론을 구상한 것이 아닌가 생각해 볼 수 있다. 그러나 디랙장만을 사용해 전류밀도를 나타내고 전자기장의 게이지 변환이 전자기장만 바꾸는 것이 아닌 디랙장의 페이즈를 바꾸는 변환으로 작동한다면, 전류 밀도가 있어도 전체 라그랑지안의 꼴은 게이지 변환에 대해서 불변하다.
+
+즉, 라그랑지안을 구성하는 전류 밀도가 게이지 불변이기 위해서는 광자의 게이지 변환외에 전하를 띤 페르미온(디랙장)의 게이지 변환도 동시에 작동해야 한다는 것이다. 전류 밀도가 다른 장의 게이지 변환으로 보완되어 라그랑지안의 항으로 표현될 수 있다는 것을 통해, 전류 밀도를 허용하지 말아야 할 것으로 보였던 문제가 해결된다.
+
+그럼에도 질량이 있으면서 입자와 상호작용하는 벡터장 [21] 을 어떻게 기술할 것인가란 문제는 여전히 해결되지 않고 남는다. 그러나 전류 밀도가 존재하기 위해서 디랙장의 게이지 변환을 고려한 것과 마찬가지 방법을 활용해, 광자의 게이지 변환과 추가 장의 게이지 변환을 고려하여 적절하게 질량항이 존재할 수 있게 만들수 있지 않을까 생각해 볼수 있을 것이다. 이 추가 장이 바로 힉스 이다. [22]
+
+질량항은 광자와 디랙 장으로 구축된 양자 전자기학에서 사용하는 게이지(일명 U ( 1 ) U(1) U ( 1 ) 게이지) 변환보다 더 큰 개념의 게이지 변환으로 부터 얻을 수 있다. 대표적으로 표준모형의 S U ( 2 ) L × U Y ( 1 ) SU(2)_L \times U_Y(1) S U ( 2 ) L ​ × U Y ​ ( 1 ) [23] 게이지 불변을 예로 들수 있다. 물론 그냥 게이지 불변이기만 하면 질량항을 여전히 만들 수는 없으나, S U L ( 2 ) × U Y ( 1 ) SU_L(2) \times U_Y(1) S U L ​ ( 2 ) × U Y ​ ( 1 ) 게이지군이 자발적 대칭성 붕괴로 인해 전자기학의 게이지 군인 U e ( 1 ) U_e(1) U e ​ ( 1 ) 로 변화하면 [24] 줄어든 자유도만큼 게이지 장들의 질량항이 늘어난다. 이것이 그 유명한 힉스 메커니즘(Higgs mechanism)이다. [25]
+
+이를 통해서 (전자기장과 같이) 스핀이 1인 벡터장의 질량항은 게이지 장이 만족시키는 게이지 변환보다 더 큰 구조의 게이지 변환으로부터 불변성을 부여할 수 있으므로, 질량항이 존재하면 안 될 것 같다는 문제도 해결된다. [26]
+
+11.5. 양자 전기역학 [편집]
+L = ψ ‾ ( i γ μ ∂ μ − m ) ψ − 1 4 F μ ν F μ ν − q ψ ‾ γ μ ψ A μ \mathcal L = \overline\psi(i\gamma^\mu \partial_\mu - m)\psi - \dfrac14 F_{\mu \nu} F^{\mu \nu} - q \overline\psi \gamma^\mu \psi A_\mu L = ψ ​ ( i γ μ ∂ μ ​ − m ) ψ − 4 1 ​ F μν ​ F μν − q ψ ​ γ μ ψ A μ ​
+
+ψ \psi ψ 와 A μ A^\mu A μ 각 방향의 오일러-라그랑주 방정식으로부터 전하 q q q 를 가진 스핀 1/2입자(전자와 양전자)와 스핀 1입자(광자)의 운동 방정식이 튀어나오고, 자연스럽게 전류의 정체가 무엇인지, 그것을 통해 두 종류의 입자가 어떻게 서로 영향을 주고받는지까지 결정된다.
+
+양자 전기역학의 라그랑지안이 저런 꼴을 갖도록 하는 원인 중 하나로 게이지 불변성이 있다. 페르미온 장의 위상 변화 ψ → e i ϕ ψ \psi \to e^{i\phi}\psi ψ → e i ϕ ψ 에서 ϕ \phi ϕ 가 상수이면 자동으로 불변성을 만족시키던 것을 ϕ \phi ϕ 가 상수가 아닌 경우로 확장하는 과정에서 게이지 불변성을 만족시키는 스핀 1의 장이 튀어나오고 그 장이 다름 아닌 전자기장인 것을 볼 수 있다. 즉, 전자기장이 존재하는 이유가 게이지 불변성 때문이라는 것이다. 그리고 이 논리를 여러 페르미온들의 다중항에 대한 일반적인 위상 변화에 대한 것으로 확장할 수도 있다. 중력을 제외한 모든 상호작용을 다 설명하는 양-밀스 장이 바로 그것. 자세한 내용은 게이지 장 참고.
+
+12. 예제 [편집]
+자세한 내용은 라그랑주 역학/예제 문서를 참고하십시오. [1] Méchanique analitique , par M. de La Grange,(Lagrange, Joseph-Louis) Auteur du texte 1788 P512, # [2] 스칼라는 좌표 변환에 불변이기 때문이다. [3] 신의 지혜로 작용이 최소화된다는 것이 모페르튀이(Maupertuis)의 원리다. [4] 밑에 설명되어 있지만 먼저 이야기를 하자면 반드시 위치와 시간을 라그랑지안의 변수로 택할 필요는 없다. 다만 위치역할을 수행할수 있는 함수와 속도역할을 수행할 수 있는 함수라면 어떤 변수를 쓰든 관계없다. [5] 대수적으로 d v d x ≠ 0 s − 1 \cfrac{{\rm d}v}{{\rm d}x} \ne 0{\rm\,s^{-1}} d x d v ​  = 0 s − 1 이지만 ∂ v ∂ x \cfrac{\partial v}{\partial x} ∂ x ∂ v ​ 는 관점에 따라서 0 s − 1 0{\rm\,s^{-1}} 0 s − 1 으로 치부할 수 있다는 점을 떠올리면 편하다. [6] 라그랑주 역학으로 따지면 최초와 최후의 시간 · 위치 좌표 [7] 또는 맥스웰 방정식 , 클라인-고든 방정식 , 디랙 방정식 등: 오일러-라그랑주 방정식 과 같은 역할을 한다. [8] 양자역학은 라그랑주 역학으로 해석된다는 것을 밝힌 사람이 파인만이며, 이 방법은 경로적분 이라고 불린다. [9] 구별을 위해 흘려쓴 서체인 L \mathcal{L} L 이나 L \mathscr{L} L 로 쓰기도 한다. [10] 사실, 현대물리학에서 라그랑지안은 하술할 최소 작용의 원리 에 따라, 오일러-라그랑주 방정식을 통해 '계의 방정식'을 이끌어낼 수 있는 물리량으로 정해지는 경우가 많다. 즉, 어떤 물리 현상들의 물리량들의 결과로 정의되는 게 아니라, 라그랑지안이 더 근본적인 물리량이고 거기서 최소 작용의 원리 에 따라 각종 방정식들이 도출된다고 보는 편이 타당하다. [11] 이를테면, 3차원의 직교 좌표계를 고려하자. 이 경우엔 일반적으로 위치의 좌표를 ( x , y , z ) (x,\,y,\,z) ( x , y , z ) 로 나타낼 수 있다. 그러나 이것을 x 1 ≡ x x_1\equiv x x 1 ​ ≡ x , x 2 ≡ y x_2\equiv y x 2 ​ ≡ y , x 3 ≡ z x_3\equiv z x 3 ​ ≡ z 로 쓰자는 것이다. [12] 그리고 이 차원 해석은 오일러-라그랑주 방정식이 뉴턴 역학과 본질적으로 같다는 것을 시사한다. 자세한 내용은 후술. [13] 예를 들어, 반지름이 R R R 인 원운동하는 입자는 구속 조건이 x 2 + y 2 = R 2 x^2 + y^2 = R^2 x 2 + y 2 = R 2 이므로 f = x 2 + y 2 − R 2 = 0 m 2 f = x^2 + y^2 - R^2 = 0{\rm\,m^2} f = x 2 + y 2 − R 2 = 0 m 2 으로 쓸 수 있다. 또한, 두 물체가 연결된 작은 도르래는 양쪽 줄의 길이를 X , Y X,\,Y X , Y 라 하고 줄의 총 길이를 l l l 이라고 하면 X + Y = l X+Y = l X + Y = l 이므로 f = X + Y − l = 0 m f = X + Y - l = 0{\rm\,m} f = X + Y − l = 0 m 로 쓸 수 있다. [14] 즉, 실제로 따지고 보면 힘이 아닌데도 차원 동차성(dimensional homogeneity)의 원리를 위배하지 않고 힘의 차원으로 표기되는 오일러-라그랑주 방정식에 포함될 수 있는 것은 λ k \lambda_k λ k ​ 에 일반화 구속력을 힘으로 만들어주는 단위가 포함되어있기 때문이다. [15] 단, 현행 국제단위계에서는 각도를 무차원량, 즉 A = 1 \sf A = 1 A = 1 로 약속하고 있으므로 돌림힘의 차원이 일의 차원과 구분되지 않는다. 본 문장은 각도가 고유한 차원 A \sf A A 를 갖는다 는 것을 전제로 서술되어있다. [16] 사실 각괄호 안은 라그랑지안의 르장드르 변환 인 해밀토니안 이다. [17] 현실적으로는 각각의 해석법이 더 유리한 경우들이 있으므로, 그때 그때 필요한 만큼 라그랑주 역학을 사용하게 된다. 그래도 실제 물리학과 학부 2학년 정도로 들어서면 뉴턴 역학으로 풀기 전에 라그랑주 역학을 도입해보는 게 효율적이다. [18] 실제로 양자장을 만들기 위해서는 이차 양자화 과정을 거쳐야 한다. [19] 장의 라그랑지안 해는 유일하지 않다. 다만 사람들이 주로 많이 쓰는, 혹은 물리적 해석에 더욱 용이한 라그랑지안만을 쓸 뿐이며, 지면에 쓰인 라그랑지안은 여러책이나 논문에서 많이 사용하는 라그랑지안이다. [20] 스핀이 반정수배인 입자. 대표적으로 전자가 있다. [21] 전자기장도 벡터장의 일부이다. [22] 한가지 예제로 가환 힉스 메커니즘(Abelian Higgs mechanism)에서 계산을 진행할 경우, 광자는 질량을 갖는다. 표준모형은 비가환 힉스 모델(Non-abilan Higgs model)에 따른다. 이 첨삭에서 언급한 비가환 힉스 모델은 다음 문단에 개략적으로 설명되어 있다. [23] S U L ( 2 ) × U Y ( 1 ) SU_L(2) \times U_Y(1) S U L ​ ( 2 ) × U Y ​ ( 1 ) 게이지 불변이란 말에서 S U L ( 2 ) SU_L(2) S U L ​ ( 2 ) 는 표준모형상 짝이 되는 스핀 1/2 디랙장들(예를 들어, 중성미자와 전자, 또는 업쿼크와 다운쿼크)중에 왼손잡이(Left chiral, Left handed가 아님에 주의)만을 떼어내서 이중항(doublet)을 구성하였을 때, S U L ( 2 ) SU_L(2) S U L ​ ( 2 ) 군의 요소에 대한 변환에 불변하다는 의미의 게이지 군이다. U Y ( 1 ) U_Y(1) U Y ​ ( 1 ) 은 전자기학에서 사용하는 게이지 변환과 유사하게 초전하(Hypercharge) Y Y Y 라는 값에 따라 스핀 1/2 디랙장들의 페이즈를 바꾸는 변환이다. [24] S U L ( 2 ) × U Y ( 1 ) SU_L(2)\times U_Y(1) S U L ​ ( 2 ) × U Y ​ ( 1 ) 군의 부분군으로 U e ( 1 ) U_e(1) U e ​ ( 1 ) 을 구성할 수 있다. 그러나 U e ( 1 ) U_e(1) U e ​ ( 1 ) 의 요소에 따른 변환에 대해 라그랑지안이 불변하기를 요구하면 남은 세 요소의 게이지 변환에 대해서 더 이상 불변하지 않게 된다. [25] 자발적 대칭성 붕괴후에도 남은, 여전히 게이지 불변이 성립하는 게이지 장은 질량이 없는(Massless) 장이다. [26] 다만 앞선 전류 밀도의 문제와는 해결방법이 다른 것이, 자발적 대칭성 붕괴와 진공 기댓값을 요구한다는 점이다. 이를 통해서 자발적 대칭성 붕괴로 인해 줄어드는 게이지 변환의 갯수(또는 변환에 대한 자유도의 개수)가 질량이 있는 게이지장(massive gauge field) 종류의 개수를 결정하기 때문에, 힉스 메커니즘은 퍼텐셜이 어떤 함수인가에 따라 나타나는 결론이 다르다. 이 문서의 내용 중 전체 또는 일부는 라그랑지안 문서의 r30 판에서 가져왔습니다. 이전 역사 보러 가기 [ 하나로퀵남동구용달
+www.1577-3410.com
+[ [ 퀵서비스접수 ] [ 퀵서비스안내 ] [ 쉽고빠른배달 ] [ 하나로퀵배송 ] ]
+퀵배달 퀵배송은 오토바이 다마스 라보 등 이용 지정된 시간 내에 물품을 전달긴급퀵
+
+] | [ 한국로지스 !친절배송!
+www.18332442.co.kr v-if
+한국로지스, 포장이사, 리프트화물, 용달, 전국당일특송 365일 가능합니다.
+
+] | [ 남동구꽃배달 하나로퀵
+www.1577-3410.com
+[ [ 기사실명제퀵 ] [ 빠르게배송퀵 ] [ 퀵서비스전문 ] [ 배송배달조회 ] ]
+10분배차다마스 라보전문 즉시배차 저렴한비용 실시간배차 간단이사 긴급배송 소형이사
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

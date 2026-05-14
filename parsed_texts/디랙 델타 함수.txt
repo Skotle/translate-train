@@ -1,0 +1,437 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 디랙 델타 함수
+최근 수정 시각: 2026-03-29 12:14:29 [ [ [ ] [ [ 12 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 1927년 연구
+- 해석학(수학)
+- 양자역학
+- 전자기학
+- 물리학
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+전자기학
+Electromagnetism
+[ 펼치기 · 접기 ] 기초 개념
+관련 수학 이론 | ∇ · 디랙 델타 함수 · 연속 방정식 · 분리 벡터
+전기 · 자기 | 개념 | 전자기력 ( 자기력 ) · 전자기 유도 ( 패러데이 법칙 ) · 맥스웰 방정식 · 전자기파 · 포인팅 벡터 · 전자기학의 경계치 문제 · 전자기파 방사
+정전기학 | 전하 · 전기장 · 전기 변위장 · 전기 퍼텐셜 · 가우스 법칙 · 전기 쌍극자 모멘트 · 유전율 · 대전현상 · 전기용량 · 시정수 · 정전기 방전
+정자기학 | 자성 · 자기장 · 자기장 세기 · 자기 퍼텐셜 · 자기 쌍극자 모멘트 · 로런츠 힘 · 홀 효과 · 비오-사바르 법칙 · 앙페르 법칙 · 투자율
+구현체 | 자석 ( 전자석 · 영구 자석 ) · 발전기 · 전동기
+회로이론 · 전자회로 | 개념 | 회로 기호도 · 전류 · 전압 · 전기 저항 ( 비저항 · 도전율 ) · 전력 ( 전력량 ) · 직류 · 교류 · 키르히호프의 법칙 · 중첩의 원리 · 삼상
+소자 | 수동소자 : 직류회로 ( 휘트스톤 브리지 ) · RLC회로 ( 커패시터 · 인덕터 · 레지스터 ) · 변압기
+능동소자 : 전원 · 다이오드 · 진공관 · 트랜지스터 · 연산 증폭기
+응용 및 심화개념
+관련 학문 | 상대론적 전자기학 · 양자 전기역학 · 응집물질물리학 · 고체물리학 · 전자공학 · 전기공학 · 제어공학 · 물리화학 · 광학 · 컴퓨터 과학 ( 컴퓨터공학 ) · 신경과학 ( 뇌과학 )
+토픽 | 이론 | 광자 · 게이지 장 ( 역장 · 장이론 ) · 물질파 ( 광전효과 ) · 다중극 전개 · 맥스웰 변형력 텐서 · 비리얼 정리
+음향 | 앰프 ( 파워앰프 · 프리앰프 · 인티앰프 · 진공관 앰프 ) · 데시벨 · 네퍼 · 음압 · 잔향
+열 | 반 데르 발스 힘 ( 분산력 ) · 복사 · 전도 ( 전도체 · 열전 효과 ) · 초전도체 · 네른스트 식
+광학 | 광도 ( 루멘 · 휘도 · 조도 · 럭스 ) · 굴절( 굴절률 · 페르마의 원리 ) · 스넬의 법칙 · 산란 · 회절 ( 회절 격자 ) · 전반사 · 수차 ( 색수차 ) · 편광 · 뉴턴 원무늬 · 분광학 · 스펙트럼 · 렌즈 ( 얇은 렌즈 방정식 · 두꺼운 렌즈 ) · 프리즘 · 거울 ( 구면 거울 방정식 ) · 행렬광학 · 색 ( 색의 종류 · RGB · 무채색 · 유채색 ) · 비어-람베르트 법칙
+전산 | 논리 연산 · 논리 회로 · 오토마타 ( 프로그래밍 언어 ) · 임베디드 · 컴퓨터 그래픽스 ( 랜더링 ) · 폴리곤 · 헥스 코드
+생물 | 생체신호 ( 생체 전기 · 뇌-컴퓨터 인터페이스 ) · 신경계 ( 막전위 · 활동전위 · 능동수송 · 분극 · 흥분 전도 · 원추세포 · 간상세포 ) · 신호전달 · 자극(생리학) ( 베버의 법칙 · 역치 ) · 감각 ( 시각 · 청각 · 후각 · 미각 · 촉각 )
+기타 | 방사선 · 반도체 · 전기음성도 · 와전류 · 방전 · 자극 · 표피효과 · 동축 케이블 · 진폭 변조 · 주파수 변조 · 메타물질 · 극 ( 지구자기장 ) · 체렌코프 현상 · 음발광
+관련 문서
+물리학 관련 정보 · 틀:전기전자공학 · 전기·전자 관련 정보 · 틀:이론 컴퓨터 과학 · 틀:컴퓨터공학
+
+1 . 개요 2 . 분포 3 . 성질 3.1 . 미분 연산 3.2 . 적분 연산 3.3 . 푸리에 변환 3.4 . 라플라스 변환 4 . 2차원 · 3차원에서의 디랙 델타 함수 5 . 발산 정리와의 관계 6 . 학문에서의 사용 6.1 . 물리학 6.2 . 공학 7 . 해석학에서의 엄밀한 정의와 사용 7.1 . 분포 공간 7.2 . 분포 공간에서의 연산 7.3 . 측도로서의 해석 7.4 . 미분방정식에서의 쓰임새 8 . 둘러보기
+
+1. 개요 [편집]
+디랙 델타 함수 (Dirac delta function) 또는 임펄스 함수 (impulse function)는 0을 제외한 모든 x x x 축 점에서 값이 0이고, x x x 축의 실수 전체 구간에 대한 적분 값이 1인 함수 이다. 기호로는 δ ( x ) \delta(x) δ ( x ) 와 같이 나타낸다.
+
+영국의 물리학자 폴 디랙 이 고안하였다. [1] 구스타프 키르히호프와 올리버 헤비사이드 도 디랙 델타 함수를 정의한 적이 있지만, 1927년에 폴 디랙이 양자역학 을 수학화(더 정확히 말하면 불연속값을 표현하기 위해서)하면서 디랙 델타 함수를 응용한 게 유명해져서 그의 이름이 붙게 되었다.
+
+디랙 델타 함수는 다음과 같이 정의되어 있다.
+
+∫ − ∞ ∞ δ ( x ) f ( x ) d x = f ( 0 ) δ ( x ) = { ∞ ( x = 0 ) 0 ( x ≠ 0 ) \displaystyle \begin{aligned} \int_{-\infty}^{\infty} \delta(x) f(x)\,\mathrm{d}x &=f(0) \\ \delta(x)&= \begin{cases} \infty & (x=0) \\ 0 & (x \neq 0) \end{cases} \end{aligned} ∫ − ∞ ∞ ​ δ ( x ) f ( x ) d x δ ( x ) ​ = f ( 0 ) = { ∞ 0 ​ ( x = 0 ) ( x  = 0 ) ​ ​
+
+평행이동을 고려하여 다르게 표현하면
+
+∫ t 1 t 2 f ( t ) δ ( t − t 0 ) d t = { f ( t 0 ) ( t 1 < t 0 < t 2 ) 0 ( o t h e r w i s e ) δ ( t − t 0 ) = 0 ( t ≠ t 0 ) \displaystyle \begin{aligned} \int_{t_1}^{t_2} f(t) \delta(t - t_0) \,\mathrm{d}t &= \begin{cases} f(t_0) & (t_1 < t_0 < t_2) \\ 0 & (\sf{otherwise}) \end{cases} \\ \delta(t - t_0) &= 0 \quad (t \neq t_0) \end{aligned} ∫ t 1 ​ t 2 ​ ​ f ( t ) δ ( t − t 0 ​ ) d t δ ( t − t 0 ​ ) ​ = { f ( t 0 ​ ) 0 ​ ( t 1 ​ < t 0 ​ < t 2 ​ ) ( otherwise ) ​ = 0 ( t  = t 0 ​ ) ​
+
+위 정의에 의해 디랙 델타 함수를 다음과 같이 정의내리는 것도 가능하다.
+
+∫ − ∞ ∞ δ ( x ) d x = ∫ t 0 − ϵ t 0 + ϵ δ ( t − t 0 ) d t = 1 ( ϵ > 0 ) \displaystyle \int_{-\infty}^{\infty} \delta(x)\,\mathrm{d}x = \int_{{t_0}-\epsilon}^{{t_0}+\epsilon} \delta(t - t_0)\,\mathrm{d}t = 1 \quad (\epsilon > 0) ∫ − ∞ ∞ ​ δ ( x ) d x = ∫ t 0 ​ − ϵ t 0 ​ + ϵ ​ δ ( t − t 0 ​ ) d t = 1 ( ϵ > 0 )
+이 되는데, 이것은 f ( x ) = 1 f(x)=1 f ( x ) = 1 인 경우로 취급할 수 있기 때문이다.
+
+2. 분포 [편집]
+수학적으로 엄밀히 말하면 함수는 아니며, 이를 수학에서는 분포 (distribution)라는 개념으로 정의한다. 이 분포는 원 형태 단독으로는 정의될 수 없고, 확률변수의 정의역(support)이 콤팩트한 매끄러운 함수인 시험 함수(test function) [2] 와의 적분 연산에서만 정의될 수 있다. 그렇기 때문에 이 문서에서 밝힐 이 분포의 성질들도 시험 함수와의 적분 연산으로 얻을 수 있다.
+
+분포의 정확한 정의는 대학원 수준의 함수해석학 에서 다루기 때문에, 해석학 전공 이외의 분야에서 디랙 델타를 사용하는 대다수의 경우에는 본 문서처럼 정의를 생략하고 직관적으로 설명하는 것이 보통이다. 하단 설명은 수학적으로 완전히 엄밀하지는 않은 내용임을 감안하고, 이것을 정확하게 생각하고 싶으면 하단을 참고하자. 예로 아래의 적분 기호 대부분을 문자 그대로 평범한 이상적분으로 해석하면 어딘가에서 이상한 점이 생기는 것도, 분포 이론에서는 저 적분 기호가 약간 다른 의미로 쓰이기 때문이다. 이 개념을 고안한 디랙 및 당대의 사람들도 정의보다는 물리학자 특유의 뛰어난 직관을 이용해 이 개념을 사용하였고, 로랑 슈바르츠 가 디랙 델타 함수를 정의하기 위해 분포 이론을 창안한 것은 23년이 지난 1950년의 일이다.
+
+δ n ( x ) = n e − n 2 x 2 π \displaystyle \delta_{n}(x)=\frac{n e^{-n^{2}x^{2}} }{\sqrt{\pi}} δ n ​ ( x ) = π ​ n e − n 2 x 2 ​ [3]
+디랙 델타 함수를 기술하는 함수를 찾기 위해 위와 같은 함수를 고려한다. 이때
+
+∫ − ∞ ∞ δ n ( x ) d x = 1 \displaystyle \int_{-\infty}^{\infty} \delta_{n}(x)\,\mathrm{d}x=1 ∫ − ∞ ∞ ​ δ n ​ ( x ) d x = 1
+이므로 디랙 델타 함수의 성질을 만족시킨다. [4] 다만, 함숫값이 x = 0 x=0 x = 0 이외에는 존재하게 하기 위해 극한을 사용하면
+
+lim ⁡ n → ∞ δ n ( x ) → δ ( x ) \displaystyle \lim_{n\to \infty}\delta_{n}(x) \to \delta(x) n → ∞ lim ​ δ n ​ ( x ) → δ ( x )
+가 된다. [5] 이 때, δ n ( x ) \delta_{n}(x) δ n ​ ( x ) 를 디랙 델타 함수의 sequence라 한다. 그러나, 수학적으로 엄밀히 말하면
+
+lim ⁡ n → ∞ ∫ − ∞ ∞ δ n ( x ) f ( x ) d x = f ( 0 ) \displaystyle \lim_{n\to \infty} \int_{-\infty}^{\infty} \delta_{n}(x) f(x)\,\mathrm{d}x = f(0) n → ∞ lim ​ ∫ − ∞ ∞ ​ δ n ​ ( x ) f ( x ) d x = f ( 0 )
+이 명확한 디랙 델타 함수의 정의이다. 왜냐하면, 수학적인 관점에선 lim ⁡ n → ∞ δ n ( x ) \displaystyle \lim_{n\to \infty}\delta_{n}(x) n → ∞ lim ​ δ n ​ ( x ) 는 존재하지 않기 때문이다. [6]
+
+사실 디랙 델타 함수의 sequence는 위의 함수 말고도 여러 가지가 존재한다. 왜냐하면
+
+∫ − ∞ ∞ δ n ( x ) d x = 1 lim ⁡ n → ∞ δ n ( x ) → δ ( x ) \displaystyle \int_{-\infty}^{\infty} \delta_{n}(x)\,\mathrm{d}x=1 \qquad \qquad \lim_{n\to \infty}\delta_{n}(x) \to \delta(x) ∫ − ∞ ∞ ​ δ n ​ ( x ) d x = 1 n → ∞ lim ​ δ n ​ ( x ) → δ ( x )
+를 만족시키는 함수가 여럿이기 때문이다. 아래의 예는 그러한 sequence들의 몇 가지 예시를 나타낸 것이다.
+
+δ n ( x ) = { 0 , ∣ x ∣ > 1 2 n n , ∣ x ∣ ≤ 1 2 n δ n ( x ) = n π 1 1 + n 2 x 2 δ n ( x ) = sin ⁡ ( n x ) π x \displaystyle \begin{aligned} \delta_{n}(x) &= \begin{cases} 0, & |x|>\dfrac{1}{2n} \\ \\ n, & |x| \leq \dfrac{1}{2n} \end{cases} \\ \delta_{n}(x) &=\frac{n}{\pi} \frac{1}{1+n^2 x^2} \\ \delta_{n}(x) &=\frac{\sin{(nx)}}{\pi x} \end{aligned} δ n ​ ( x ) δ n ​ ( x ) δ n ​ ( x ) ​ = ⎩ ⎨ ⎧ ​ 0 , n , ​ ∣ x ∣ > 2 n 1 ​ ∣ x ∣ ≤ 2 n 1 ​ ​ = π n ​ 1 + n 2 x 2 1 ​ = π x sin ( n x ) ​ ​
+아래의 그림 [출처] 은 위에서 제시된 디랙 델타 함수의 sequence의 개형을 나타낸 것이다. sequence는 굳이 짝함수 일 필요는 없음에 주의해야 한다. [8]
+
+3. 성질 [편집]
+위에서 밝혔듯 디랙 델타 함수 특성 상 모든 성질의 증명에는 시험 함수와의 적분 연산이 쓰인다.
+- δ ( x ) = δ ( − x ) { \delta(x)=\delta(-x) } δ ( x ) = δ ( − x ) - 즉, 이 성질은 디랙 델타 함수가 짝함수(Even function, 우함수) 임을 나타낸다. 다만, 명확히 말하면 디랙 델타 함수는 분포 중 하나이므로 짝분포임이 엄밀한 설명이다.
+
+[증명]
+시험 함수 f ( x ) f(x) f ( x ) 에 대하여
+
+∫ − ∞ ∞ δ ( − x ) f ( x ) d x = ∫ − ∞ ∞ δ ( y ) f ( − y ) d y = f ( 0 ) \displaystyle \begin{aligned} \int_{-\infty}^{\infty} \delta(-x) f(x) \,\mathrm{d}x &=\int_{-\infty}^{\infty} \delta(y) f(-y) \,\mathrm{d}y \\ &=f(0) \end{aligned} ∫ − ∞ ∞ ​ δ ( − x ) f ( x ) d x ​ = ∫ − ∞ ∞ ​ δ ( y ) f ( − y ) d y = f ( 0 ) ​
+이다. 위에서 − x ≡ y -x \equiv y − x ≡ y 로 치환적분 했다.
+
+∫ − ∞ ∞ δ ( x ) f ( x ) d x = f ( 0 ) \displaystyle \int_{-\infty}^{\infty} \delta(x) f(x) \,\mathrm{d}x =f(0) ∫ − ∞ ∞ ​ δ ( x ) f ( x ) d x = f ( 0 )
+임을 상기하면, δ ( x ) = δ ( − x ) { \delta(x)=\delta(-x) } δ ( x ) = δ ( − x ) 임이 증명된다.
+- ∫ − ∞ ∞ δ ( x − x 0 ) f ( x ) d x = f ( x 0 ) \displaystyle \int_{-\infty}^{\infty} \delta(x-x_{0}) f(x)\,\mathrm{d}x=f(x_{0}) ∫ − ∞ ∞ ​ δ ( x − x 0 ​ ) f ( x ) d x = f ( x 0 ​ ) [9] [증명]
+x − x 0 ≡ y x-x_{0} \equiv y x − x 0 ​ ≡ y 로 치환적분 하면
+
+∫ − ∞ ∞ δ ( x − x 0 ) f ( x ) d x = ∫ − ∞ ∞ δ ( y ) f ( y + x 0 ) d y = f ( x 0 ) \displaystyle \begin{aligned} \int_{-\infty}^{\infty} \delta(x-x_{0}) f(x)\,\mathrm{d}x&=\int_{-\infty}^{\infty} \delta(y) f(y+x_{0})\,\mathrm{d}y \\ &=f(x_{0}) \end{aligned} ∫ − ∞ ∞ ​ δ ( x − x 0 ​ ) f ( x ) d x ​ = ∫ − ∞ ∞ ​ δ ( y ) f ( y + x 0 ​ ) d y = f ( x 0 ​ ) ​
+임이 증명된다.
+- δ ( a x ) = 1 ∣ a ∣ δ ( x ) \displaystyle \delta(ax)=\frac{1}{|a|}\delta(x) δ ( a x ) = ∣ a ∣ 1 ​ δ ( x ) [증명]
+[1] a > 0 a>0 a > 0 일 때
+이 때 a = ∣ a ∣ a=|a| a = ∣ a ∣ 로 쓸 수 있고, 시험 함수 f ( x ) f(x) f ( x ) 에 대하여
+
+∫ − ∞ ∞ δ ( ∣ a ∣ x ) f ( x ) d x \displaystyle \begin{aligned} \int_{-\infty}^{\infty} \delta(|a|x) f(x) \,\mathrm{d}x \end{aligned} ∫ − ∞ ∞ ​ δ ( ∣ a ∣ x ) f ( x ) d x ​
+로 쓸 수 있다. ∣ a ∣ x ≡ y|a|x \equiv y ∣ a ∣ x ≡ y 로 치환적분하면
+
+∫ − ∞ ∞ δ ( ∣ a ∣ x ) f ( x ) d x = 1 ∣ a ∣ ∫ − ∞ ∞ δ ( y ) f ( y ∣ a ∣ ) d y = f ( 0 ) ∣ a ∣ = ∫ − ∞ ∞ 1 ∣ a ∣ δ ( x ) f ( x ) d x \displaystyle \begin{aligned} \int_{-\infty}^{\infty} \delta(|a|x) f(x) \,\mathrm{d}x &=\frac{1}{|a|}\int_{-\infty}^{\infty} \delta(y) f \left( \frac{y}{|a|} \right) \mathrm{d}y \\ &=\frac{f(0)}{|a|} \\ &=\int_{-\infty}^{\infty}\frac{1}{|a|} \delta(x) f(x) \,\mathrm{d}x \end{aligned} ∫ − ∞ ∞ ​ δ ( ∣ a ∣ x ) f ( x ) d x ​ = ∣ a ∣ 1 ​ ∫ − ∞ ∞ ​ δ ( y ) f ( ∣ a ∣ y ​ ) d y = ∣ a ∣ f ( 0 ) ​ = ∫ − ∞ ∞ ​ ∣ a ∣ 1 ​ δ ( x ) f ( x ) d x ​
+에서 증명된다.
+
+[2] a < 0 a<0 a < 0 일 때
+이 때 a = − ∣ a ∣ a=-|a| a = − ∣ a ∣ 로 쓸 수 있고, 시험 함수 f ( x ) f(x) f ( x ) 에 대하여
+
+∫ − ∞ ∞ δ ( − ∣ a ∣ x ) f ( x ) d x \displaystyle \begin{aligned} \int_{-\infty}^{\infty} \delta(-|a|x) f(x) \,\mathrm{d}x \end{aligned} ∫ − ∞ ∞ ​ δ ( − ∣ a ∣ x ) f ( x ) d x ​
+으로 쓸 수 있다. − ∣ a ∣ x ≡ y -|a|x \equiv y − ∣ a ∣ x ≡ y 로 치환적분하면
+
+∫ − ∞ ∞ δ ( ∣ a ∣ x ) f ( x ) d x = 1 ∣ a ∣ ∫ − ∞ ∞ δ ( y ) f ( − y ∣ a ∣ ) d y = f ( 0 ) ∣ a ∣ = ∫ − ∞ ∞ 1 ∣ a ∣ δ ( x ) f ( x ) d x \displaystyle \begin{aligned} \int_{-\infty}^{\infty} \delta(|a|x) f(x) \,\mathrm{d}x &=\frac{1}{|a|}\int_{-\infty}^{\infty} \delta(y) f \left(- \frac{y}{|a|} \right) \mathrm{d}y \\ &=\frac{f(0)}{|a|} \\ &=\int_{-\infty}^{\infty}\frac{1}{|a|} \delta(x) f(x) \,\mathrm{d}x \end{aligned} ∫ − ∞ ∞ ​ δ ( ∣ a ∣ x ) f ( x ) d x ​ = ∣ a ∣ 1 ​ ∫ − ∞ ∞ ​ δ ( y ) f ( − ∣ a ∣ y ​ ) d y = ∣ a ∣ f ( 0 ) ​ = ∫ − ∞ ∞ ​ ∣ a ∣ 1 ​ δ ( x ) f ( x ) d x ​
+에서 증명된다.
+
+이상의 결과를 종합하면,
+
+δ ( a x ) = 1 ∣ a ∣ δ ( x ) \displaystyle \displaystyle \delta(ax)=\frac{1}{|a|}\delta(x) δ ( a x ) = ∣ a ∣ 1 ​ δ ( x )
+임을 얻는다.
+- δ ( g ( x ) ) = ∑ i δ ( x − x i ) ∣ g ′ ( x i ) ∣ ( g ( x i ) = 0 , g ′ ( x i ) ≠ 0 ) \displaystyle \delta(g(x))=\sum_{i} \frac{\delta(x-x_{i})}{|g'(x_{i})|} \ (g(x_{i})=0,\, g'(x_{i}) \neq 0) δ ( g ( x )) = i ∑ ​ ∣ g ′ ( x i ​ ) ∣ δ ( x − x i ​ ) ​ ( g ( x i ​ ) = 0 , g ′ ( x i ​ )  = 0 ) [10] - 이것을 이용하면 아래를 증명할 수 있다. - δ ( ( x − a ) ( x − b ) ) = δ ( x − a ) + δ ( x − b ) ∣ a − b ∣ \displaystyle \delta((x-a)(x-b))=\frac{\delta(x-a)+\delta(x-b)}{|a-b|} δ (( x − a ) ( x − b )) = ∣ a − b ∣ δ ( x − a ) + δ ( x − b ) ​
+- δ ( x 2 − a 2 ) = δ ( x + a ) + δ ( x − a ) 2 ∣ a ∣ \displaystyle \delta(x^2-a^2)=\frac{\delta(x+a)+\delta(x-a)}{2|a|} δ ( x 2 − a 2 ) = 2∣ a ∣ δ ( x + a ) + δ ( x − a ) ​
+
+[증명]
+함수 g ( x ) g(x) g ( x ) 의 영점 x i x_{i} x i ​ 에서만 디랙 델타 함수의 함숫값이 존재한다는 것을 이용하자. 영점 근처에서 함수 g ( x ) g(x) g ( x ) 를 일차항까지만 전개하면
+
+g ( x ) = g ′ ( x i ) ( x − x i ) \displaystyle g(x)=g'(x_{i})(x-x_{i}) g ( x ) = g ′ ( x i ​ ) ( x − x i ​ )
+가 되고, 한편, 시험 함수의 적분 연산을 위 결과를 이용하면
+
+∫ − ∞ ∞ δ ( g ( x ) ) f ( x ) d x = ∑ i ∫ x i − ϵ x i + ϵ δ ( g ′ ( x i ) ( x − x i ) ) f ( x ) d x = ∑ i 1 ∣ g ′ ( x i ) ∣ ∫ x i − ϵ x i + ϵ δ ( x − x i ) f ( x ) d x = ∑ i f ( x i ) ∣ g ′ ( x i ) ∣ = ∫ − ∞ ∞ [ ∑ i δ ( x − x i ) ∣ g ′ ( x i ) ∣ ] f ( x ) d x \displaystyle \begin{aligned} \int_{-\infty}^{\infty} \delta(g(x)) f(x)\,\mathrm{d}x&=\sum_{i} \int_{x_{i}-\epsilon}^{x_{i}+\epsilon} \delta(g'(x_{i})(x-x_{i}))f(x)\,\mathrm{d}x \\ &=\sum_{i} \frac{1}{|g'(x_{i})|}\int_{x_{i}-\epsilon}^{x_{i}+\epsilon} \delta(x-x_{i})f(x)\,\mathrm{d}x \\ &=\sum_{i} \frac{f(x_{i})}{|g'(x_{i})|} \\ &=\int_{-\infty}^{\infty} \left[ \sum_{i} \frac{\delta(x-x_{i})}{|g'(x_{i})|} \right] f(x)\,\mathrm{d}x \end{aligned} ∫ − ∞ ∞ ​ δ ( g ( x )) f ( x ) d x ​ = i ∑ ​ ∫ x i ​ − ϵ x i ​ + ϵ ​ δ ( g ′ ( x i ​ ) ( x − x i ​ )) f ( x ) d x = i ∑ ​ ∣ g ′ ( x i ​ ) ∣ 1 ​ ∫ x i ​ − ϵ x i ​ + ϵ ​ δ ( x − x i ​ ) f ( x ) d x = i ∑ ​ ∣ g ′ ( x i ​ ) ∣ f ( x i ​ ) ​ = ∫ − ∞ ∞ ​ [ i ∑ ​ ∣ g ′ ( x i ​ ) ∣ δ ( x − x i ​ ) ​ ] f ( x ) d x ​
+로 쓸 수 있으므로
+
+δ ( g ( x ) ) = ∑ i δ ( x − x i ) ∣ g ′ ( x i ) ∣ \displaystyle \delta(g(x))=\sum_{i} \frac{\delta(x-x_{i})}{|g'(x_{i})|} δ ( g ( x )) = i ∑ ​ ∣ g ′ ( x i ​ ) ∣ δ ( x − x i ​ ) ​
+가 성립한다.
+- ∑ n = − ∞ ∞ δ ( x − n ) = ∑ n = − ∞ ∞ e 2 i n π x \displaystyle \sum_{n=-\infty}^{\infty}\delta(x-n)=\sum_{n=-\infty}^{\infty}e^{2in \pi x} n = − ∞ ∑ ∞ ​ δ ( x − n ) = n = − ∞ ∑ ∞ ​ e 2 inπ x [증명]
+위 함수는 주기가 1인 주기함수 이므로 푸리에 해석 에 따라
+
+∑ n = − ∞ ∞ δ ( x − n ) = ∑ n = − ∞ ∞ a n e 2 i n π x \displaystyle \sum_{n=-\infty}^{\infty} \delta(x-n)=\sum_{n=-\infty}^{\infty}a_ne^{2in \pi x} n = − ∞ ∑ ∞ ​ δ ( x − n ) = n = − ∞ ∑ ∞ ​ a n ​ e 2 inπ x
+으로 적을수 있으며, a k a_{k} a k ​ 을 추려내기 위해 양변에 e − 2 i k π x e^{-2ik \pi x} e − 2 ik π x 를 곱한뒤 [ − 2 − 1 , 2 − 1 ] [-2^{-1},\,2^{-1}] [ − 2 − 1 , 2 − 1 ] 범위에서 적분을 하면 모든 k k k 에 대해 a k = 1 a_{k}=1 a k ​ = 1 임에 따라 위 식을 얻는다.
+
+- 이 식은 리만 제타 함수 항등식을 유도할 때에도 쓰인다.
+
+3.1. 미분 연산 [편집]
+- ∫ − ∞ ∞ δ ′ ( x ) f ( x ) d x = − f ′ ( 0 ) { \displaystyle \int_{-\infty}^{\infty} \delta'(x) f(x)\,\mathrm{d}x=-f'(0) } ∫ − ∞ ∞ ​ δ ′ ( x ) f ( x ) d x = − f ′ ( 0 ) [증명]
+부분적분 을 이용하면
+
+∫ − ∞ ∞ δ ′ ( x ) f ( x ) d x = δ ( x ) f ( x ) ∣ − ∞ ∞ − ∫ − ∞ ∞ δ ( x ) f ′ ( x ) d x = − ∫ − ∞ ∞ δ ( x ) f ′ ( x ) d x = − f ′ ( 0 ) \displaystyle \begin{aligned} \int_{-\infty}^{\infty} \delta'(x) f(x) \,\mathrm{d}x &= \biggl.\delta(x)f(x) \biggr|_{-\infty}^{\infty} -\int_{-\infty}^{\infty} \delta(x)f'(x)\,\mathrm{d}x \\ &=-\int_{-\infty}^{\infty} \delta(x)f'(x)\,\mathrm{d}x \\ &=-f'(0) \end{aligned} ∫ − ∞ ∞ ​ δ ′ ( x ) f ( x ) d x ​ = δ ( x ) f ( x ) ​ − ∞ ∞ ​ − ∫ − ∞ ∞ ​ δ ( x ) f ′ ( x ) d x = − ∫ − ∞ ∞ ​ δ ( x ) f ′ ( x ) d x = − f ′ ( 0 ) ​
+- x δ ′ ( x ) = − δ ( x ) { \displaystyle x\delta'(x)=-\delta(x) } x δ ′ ( x ) = − δ ( x ) [증명]
+부분적분 을 이용하면,
+
+∫ − ∞ ∞ x δ ′ ( x ) f ( x ) d x = x δ ( x ) f ( x ) ∣ − ∞ ∞ − ∫ − ∞ ∞ δ ( x ) ( x f ( x ) ) ′ d x = − ∫ − ∞ ∞ δ ( x ) ( x f ( x ) ) ′ d x = − ( x f ( x ) ) ′ ∣ x = 0 = − f ( 0 ) \displaystyle \begin{aligned} \int_{-\infty}^{\infty} x \delta'(x)f(x)\,\mathrm{d}x &=\biggl.x\delta(x)f(x) \biggr|_{-\infty}^{\infty}-\int_{-\infty}^{\infty} \delta(x)(x f(x))' \,\mathrm{d}x \\ &=-\int_{-\infty}^{\infty} \delta(x) (xf(x))'\,\mathrm{d}x \\ &=\biggl.-(x f(x))' \biggr|_{x=0} \\ &= -f(0) \end{aligned} ∫ − ∞ ∞ ​ x δ ′ ( x ) f ( x ) d x ​ = x δ ( x ) f ( x ) ​ − ∞ ∞ ​ − ∫ − ∞ ∞ ​ δ ( x ) ( x f ( x ) ) ′ d x = − ∫ − ∞ ∞ ​ δ ( x ) ( x f ( x ) ) ′ d x = − ( x f ( x ) ) ′ ​ x = 0 ​ = − f ( 0 ) ​
+이 되므로
+
+x δ ′ ( x ) = − δ ( x ) \displaystyle x\delta'(x)=-\delta(x) x δ ′ ( x ) = − δ ( x )
+임이 증명된다.
+
+3.2. 적분 연산 [편집]
+디랙 델타 함수를 적분하면 헤비사이드 계단 함수 (Heaviside step function) u ( x ) u(x) u ( x ) [11] 가 나온다.
+
+u ( x ) = ∫ − ∞ x δ ( t ) d t = 1 + sgn x 2 \displaystyle u(x) =\int_{-\infty}^{x} \delta(t)\,\mathrm{d}t =\frac{1+\text{sgn}~x}2 u ( x ) = ∫ − ∞ x ​ δ ( t ) d t = 2 1 + sgn x ​
+
+또한 절댓값 함수의 이계도함수에서 디랙 델타 함수가 등장한다. 즉, 디랙 델타 함수를 두 번 적분하면 절댓값이 나오게 된다.
+
+d 2 ∣ x ∣ d x 2 = d d x ( s g n x ) = 2 δ ( x ) \displaystyle \dfrac{\mathrm{d}^{2} |x|}{\mathrm{d}x^{2}} = \frac{\mathrm{d}}{\mathrm{d}x}(\mathrm{sgn} \,x )= 2 \delta ( x ) d x 2 d 2 ∣ x ∣ ​ = d x d ​ ( sgn x ) = 2 δ ( x )
+여기서 s g n x \mathrm{sgn}\,x sgn x 는 부호 함수 이다.
+
+3.3. 푸리에 변환 [편집]
+푸리에 변환과 그 역변환
+
+F ( k ) = 1 2 π ∫ − ∞ ∞ f ( x ) e − i k x d x f ( x ) = 1 2 π ∫ − ∞ ∞ F ( k ) e i k x d k \displaystyle \begin{aligned}F(k)&=\frac{1}{\sqrt{2 \pi}}\int_{-\infty}^{\infty} f(x)e^{-ikx}\,\mathrm{d}x \\ f(x)&=\frac{1}{\sqrt{2 \pi}}\int_{-\infty}^{\infty} F(k)e^{ikx}\,\mathrm{d}k \end{aligned} F ( k ) f ( x ) ​ = 2 π ​ 1 ​ ∫ − ∞ ∞ ​ f ( x ) e − ik x d x = 2 π ​ 1 ​ ∫ − ∞ ∞ ​ F ( k ) e ik x d k ​
+를 고려하자. f ( x ) = δ ( x ) f(x)=\delta(x) f ( x ) = δ ( x ) 로 설정하면
+
+F ( k ) = 1 2 π ∫ − ∞ ∞ δ ( x ) e − i k x d x δ ( x ) = 1 2 π ∫ − ∞ ∞ F ( k ) e i k x d k \displaystyle \begin{aligned}F(k)&=\frac{1}{\sqrt{2 \pi}}\int_{-\infty}^{\infty} \delta(x) e^{-ikx}\,\mathrm{d}x \\ \delta(x)&=\frac{1}{\sqrt{2 \pi}}\int_{-\infty}^{\infty} F(k)e^{ikx}\,\mathrm{d}k \end{aligned} F ( k ) δ ( x ) ​ = 2 π ​ 1 ​ ∫ − ∞ ∞ ​ δ ( x ) e − ik x d x = 2 π ​ 1 ​ ∫ − ∞ ∞ ​ F ( k ) e ik x d k ​
+로 쓸 수 있다. 이 때,
+
+F ( k ) = 1 2 π ∫ − ∞ ∞ δ ( x ) e − i k x d x = 1 2 π \displaystyle \begin{aligned}F(k)&=\frac{1}{\sqrt{2 \pi}}\int_{-\infty}^{\infty} \delta(x) e^{-ikx}\,\mathrm{d}x \\ &=\frac{1}{\sqrt{2\pi}} \end{aligned} F ( k ) ​ = 2 π ​ 1 ​ ∫ − ∞ ∞ ​ δ ( x ) e − ik x d x = 2 π ​ 1 ​ ​
+임을 이용하면
+
+δ ( x ) = 1 2 π ∫ − ∞ ∞ e i k x d k \displaystyle \delta(x)=\frac{1}{2\pi}\int_{-\infty}^{\infty} e^{ikx}\,\mathrm{d}k δ ( x ) = 2 π 1 ​ ∫ − ∞ ∞ ​ e ik x d k
+임을 쉽게 증명할 수 있다. 특별히, 디랙 델타 함수의 푸리에 변환은 1 / 2 π 1/\sqrt{2 \pi} 1/ 2 π ​ 가 된다.
+
+참고로, 푸리에 변환으로
+
+f ^ ( ξ ) = ∫ − ∞ ∞ f ( x ) e − 2 π i x ξ d x \displaystyle \hat{f}(\xi)=\int_{-\infty}^{\infty} f(x)e^{-2\pi ix \xi}\,\mathrm{d}x f ^ ​ ( ξ ) = ∫ − ∞ ∞ ​ f ( x ) e − 2 π i x ξ d x
+를 사용하는 관습에서는 앞의 상수가 없이
+
+δ ^ = 1 , 1 ^ = δ \displaystyle \hat{\delta} = 1, \qquad \qquad \hat{1} = \delta δ ^ = 1 , 1 ^ = δ
+가 성립한다. 이 관습을 사용하는 주된 이유이다.
+
+3.4. 라플라스 변환 [편집]
+푸리에 변환의 2 π i 2\pi i 2 π i 대신 s s s 를 쓴 다는 점 외에는 비슷하다. 역시 그 라플라스 변환은 1이다.
+
+4. 2차원 · 3차원에서의 디랙 델타 함수 [편집]
+2차원 이상에서의 디랙 델타 함수는 위치 벡터 r \mathbf{r} r 을 사용하여
+
+δ ( r ) \displaystyle \delta(\mathbf{r}) δ ( r )
+로 나타낸다. 이 때, 한 점을 나타내는 위치 벡터 r ′ \mathbf{r'} r ′ 만큼 평행이동했을 때는
+
+δ ( r − r ′ ) \displaystyle \delta(\mathbf{r-r'}) δ ( r − r ′ )
+으로 쓸 수 있고,
+
+∬ δ ( r − r ′ ) d 2 r = ∭ δ ( r − r ′ ) d 3 r = 1 \displaystyle \iint \delta{(\mathbf{r-r'})} \,\mathrm{d}^{2}r=\iiint \delta{(\mathbf{r-r'})} \,\mathrm{d}^{3}r=1 ∬ δ ( r − r ′ ) d 2 r = ∭ δ ( r − r ′ ) d 3 r = 1
+이라는 성질과
+
+∬ δ ( r − r ′ ) f ( r ) d 2 r = f ( r ′ ) ∭ δ ( r − r ′ ) f ( r ) d 3 r = f ( r ′ ) \displaystyle \begin{aligned} \iint \delta{(\mathbf{r-r'})} f(\mathbf{r}) \,\mathrm{d}^{2}r&= f(\mathbf{r'}) \\ \iiint \delta{(\mathbf{r-r'})} f(\mathbf{r}) \,\mathrm{d}^{3}r&=f(\mathbf{r'}) \end{aligned} ∬ δ ( r − r ′ ) f ( r ) d 2 r ∭ δ ( r − r ′ ) f ( r ) d 3 r ​ = f ( r ′ ) = f ( r ′ ) ​
+이라는 성질이 성립한다.
+
+아래는 3차원 직교 좌표계, 원통 좌표계, 구면 좌표계에서의 디랙 델타 함수를 나타낸 것이다.
+
+δ ( r − r ′ ) = { δ ( x ) δ ( y ) δ ( z ) ( c a r t e s i a n ) δ ( ρ ) δ ( ϕ ) δ ( z ) ρ ( c y l i n d r i c a l ) δ ( r ) δ ( θ ) δ ( ϕ ) r 2 sin ⁡ θ ( s p h e r i c a l ) \displaystyle \delta (\mathbf{r-r'})=\begin{cases} \delta(x) \delta(y) \delta(z) & (\mathsf{cartesian})\\ \\ \dfrac{\delta(\rho) \delta(\phi) \delta(z)}{\rho} & (\mathsf{cylindrical})\\ \\ \dfrac{\delta(r) \delta(\theta) \delta(\phi)}{r^{2}\sin{\theta}} & (\mathsf{spherical}) \end{cases} δ ( r − r ′ ) = ⎩ ⎨ ⎧ ​ δ ( x ) δ ( y ) δ ( z ) ρ δ ( ρ ) δ ( ϕ ) δ ( z ) ​ r 2 sin θ δ ( r ) δ ( θ ) δ ( ϕ ) ​ ​ ( cartesian ) ( cylindrical ) ( spherical ) ​
+원통 좌표계와 구면 좌표계에 인자가 붙어있는 이유는 해당 좌표계의 부피소에 해당 인자가 붙어있기 때문이다. 학부 미적분학 중적분 단원에서 좌표계를 변화시키면서 각각 좌표계에 해당되는 야코비안 의 행렬식을 추가로 곱해야 한다고 배웠을 것이다. 그게 여기서는 분모로 가 있는 것이다.
+
+5. 발산 정리와의 관계 [편집]
+구면 좌표계에서 벡터 함수
+
+V ( r ) = r ^ r 2 \displaystyle \mathbf{V(r)}=\frac{\mathbf{\hat{r} }}{r^{2}} V ( r ) = r 2 r ^ ​
+을 고려하자. 중심이 원점이고 반지름이 r r r 인 구 V V V 의 표면 S S S 를 고려할 때
+
+∯ S V ⋅ d a = 4 π \displaystyle \oiint_{S} \mathbf{V} \boldsymbol{\cdot} \mathrm{d} \mathbf{a}=4 \pi ∬ ​ S ​ V ⋅ d a = 4 π
+가 되는데, 발산 정리 에 의하면
+
+∯ S V ⋅ d a = ∭ V ( ∇ ⋅ V ) d V \displaystyle \oiint_{S} \mathbf{V} \boldsymbol{\cdot} \mathrm{d} \mathbf{a}=\iiint_{V} (\boldsymbol{\nabla} \boldsymbol{\cdot} \mathbf{V})\,\mathrm{d}V ∬ ​ S ​ V ⋅ d a = ∭ V ​ ( ∇ ⋅ V ) d V
+이고 구면 좌표계에서는
+
+∇ ⋅ V = 0 \displaystyle \boldsymbol{\nabla} \boldsymbol{\cdot} \mathbf{V}=0 ∇ ⋅ V = 0
+이기 때문에 결과적으로 0 = 4 π \displaystyle 0=4\pi 0 = 4 π 를 얻게 된다. 즉, 발산 정리에 구멍이 뚫린 것처럼 보일 수 있다. 하지만, 발산 정리는 완전히 타당하다. 애초에 발산 정리는 연속이고 미분 가능한(Continuously differentiable한) 벡터 함수와 콤팩트하고 조각적으로 매끄러운(Compact and Piecewisely smooth한) 경계를 가진 입체에 대한 정리다. (증명을 해본다면 왜 이런 조건 하에서만 보장하는지 알 수 있다.) 따라서, 원점에선 정의조차 되지 않는, 심지어 제거 가능하게 불연속적이지도 않은 문제의 벡터 함수에 대해서는 (적어도 발산 정리는) 원래부터 아무 얘기도 하지 못하는 것.
+
+그럼에도 불구하고, 우리는 이 함수에 대해서만 특별히
+
+∇ ⋅ r ^ r 2 = 4 π δ ( r ) \displaystyle \boldsymbol{\nabla} \boldsymbol{\cdot} \frac{\mathbf{\hat{r} }}{r^{2}}=4 \pi \delta(\mathbf{r}) ∇ ⋅ r 2 r ^ ​ = 4 π δ ( r )
+이라 둔다. 아마도 일부 사람들은 왜 발산 정리가 적용될 수 없는 이 함수에 대해서만 특별히 이렇게 설정해주는지에 대해 궁금할 수도 있다. 그것은 그것은 물리학과 관계가 있으며, 연속 분포에 대한 물리학 이론을 점에 대해서도 통용시킬 수 있도록 하기 위함이다. 아래의 '물리학에서의 이용' 문단 에서 명확히 알 수 있다.
+
+또한, 이런 성질 때문에 합성곱
+
+( f ∗ g ) ( t ) = ∫ − ∞ ∞ f ( t − u ) g ( u ) d u \displaystyle (f\ast g)(t)= \int_{-\infty}^{\infty}f(t-u)g(u)\,\mathrm{d}u ( f ∗ g ) ( t ) = ∫ − ∞ ∞ ​ f ( t − u ) g ( u ) d u
+의 항등원 으로 작용하며, 해석학 에서도 주어진 함수열을 디랙 델타 함수로 근사시켜 여러 정리를 증명하는 수단으로 사용한다. [12]
+
+또한,
+
+∇ ⋅ ( r − r ′ ∣ r − r ′ ∣ 3 ) = 4 π δ ( r − r ′ ) \displaystyle \boldsymbol{\nabla} \boldsymbol{\cdot} \biggl( \frac{\mathbf{r-r'} }{|\mathbf{r-r'}|^{3}} \biggr)=4 \pi \delta(\mathbf{r-r'}) ∇ ⋅ ( ∣ r − r ′ ∣ 3 r − r ′ ​ ) = 4 π δ ( r − r ′ )
+임을 쉽게 알 수 있다.
+
+6. 학문에서의 사용 [편집]
+
+6.1. 물리학 [편집]
+물리학에서는 점전하나 점질량 등 물리량은 갖고 있으나 크기가 없는 물체에 대해 해당 물리량 밀도의 공간 상 분포를 기술할 때 쓰인다.
+
+예를 들어 3차원 상의 r ′ \mathbf{r'} r ′ 에 전하량 q q q 을 갖는 점전하가 있다고 하자. 그렇다면 전하 밀도 분포를
+
+q δ ( r − r ′ ) \displaystyle q \delta(\mathbf{r-r'}) q δ ( r − r ′ )
+으로 쓸 수 있는 것이다. 왜냐하면, 점전하나 질점은 크기가 없는 대신 밀도가 해당 점에 무한히 모여있다고 볼 수 있고, 그러한 형태를 기술할 수 있는 함수는 디랙 델타 함수 밖에 없기 때문이다. 우리는 정전기학이나 고전역학으로부터 전기장 이나 중력장 에 대해 그 퍼텐셜 Φ \Phi Φ 는 푸아송 방정식
+
+∇ 2 Φ = ρ \displaystyle \nabla^{2} \Phi=\rho ∇ 2 Φ = ρ
+을 만족한다는 것을 알고 있다. 따라서, 이러한 점전하(혹은 질점)에 대해
+
+∇ 2 Φ = q δ ( r − r ′ ) \displaystyle \nabla^{2} \Phi=q \delta(\mathbf{r-r'}) ∇ 2 Φ = q δ ( r − r ′ )
+이라고 쓸 수 있고, 만약 식을
+
+∇ ⋅ ( ∇ Φ ) = ∇ ⋅ [ q 4 π r − r ′ ∣ r − r ′ ∣ 3 ] \displaystyle \boldsymbol{\nabla} \boldsymbol{\cdot} (\boldsymbol{\nabla} \Phi) = \boldsymbol{\nabla}\boldsymbol{\cdot} \left[ \frac{q}{4 \pi} \frac{\mathbf{r-r'}}{|\mathbf{r-r'}|^{3}} \right] ∇ ⋅ ( ∇ Φ ) = ∇ ⋅ [ 4 π q ​ ∣ r − r ′ ∣ 3 r − r ′ ​ ]
+의 형태로 쓴다면
+
+∇ Φ = q 4 π r − r ′ ∣ r − r ′ ∣ 3 \displaystyle \boldsymbol{\nabla} \Phi = \frac{q}{4 \pi} \frac{\mathbf{r-r'}}{|\mathbf{r-r'}|^{3}} ∇ Φ = 4 π q ​ ∣ r − r ′ ∣ 3 r − r ′ ​
+임을 얻을 수 있고, 전기장이나 중력장은 퍼텐셜의 그레이디언트 [13] 로 나타낼 수 있다는 점을 상기해보면, 얻어진 벡터 함수는 점전하에 의한 전기장 혹은 점질량에 의한 중력장의 형태임을 알 수 있다. [14] 더욱이
+
+∇ ( − 1 ∣ r − r ′ ∣ ) = r − r ′ ∣ r − r ′ ∣ 3 \displaystyle \boldsymbol{\nabla} \left( -\frac{1}{|\mathbf{r-r'}|} \right)=\frac{\mathbf{r-r'}}{|\mathbf{r-r'}|^{3}} ∇ ( − ∣ r − r ′ ∣ 1 ​ ) = ∣ r − r ′ ∣ 3 r − r ′ ​
+임을 이용하면, 퍼텐셜은 다음과 같이 나타낼 수 있다.
+
+Φ = − q 4 π 1 ∣ r − r ′ ∣ \displaystyle \Phi =- \frac{q}{4 \pi} \frac{1}{|\mathbf{r-r'}|} Φ = − 4 π q ​ ∣ r − r ′ ∣ 1 ​
+
+결과적으로 정리하면 푸아송 방정식
+
+∇ 2 Φ = k δ ( r − r ′ ) \displaystyle \nabla^{2} \Phi=k \delta(\mathbf{r-r'}) ∇ 2 Φ = k δ ( r − r ′ )
+의 해는 다음과 같다.
+
+Φ = − k 4 π 1 ∣ r − r ′ ∣ \displaystyle \Phi=-\frac{k}{4 \pi} \frac{1}{|\mathbf{r-r'}|} Φ = − 4 π k ​ ∣ r − r ′ ∣ 1 ​
+아마 이 결과를 곱씹어 보면 왜 ( r − r ′ ) / ∣ r − r ′ ∣ 3 (\mathbf{r-r'} )/{|\mathbf{r-r'}|^{3}} ( r − r ′ ) / ∣ r − r ′ ∣ 3 의 벡터 함수만 발산 값을 특별히 값을 정해주는지 알 수 있을 것이다.
+
+또한 물리학에서 쓰이는 분야는 충격이나 전기 응답에서 순간적인 변화에 대한 응답 방정식을 기술할 때 쓴다. 하지만 불행히도 해당 논의는 그린 함수에 대한 논의를 하면서 해야 하기 때문에 수준 상 생략한다.
+
+6.2. 공학 [편집]
+
+x ( t ) ⟶ LTI ⟶ y ( t ) x(t) \longrightarrow \begin{array}{|c|} \hline \textsf{LTI}\\ \hline \end{array} \longrightarrow y(t) x ( t ) ⟶ LTI ​ ​ ⟶ y ( t )
+정현파(sinusoidal wave, 가령 cosine 함수, sine 함수 등)를 푸리에 변환하면 디랙 델타 함수 두 개가 나오는 등 [15] 몇몇 함수들은 푸리에 변환 결과에 디랙 델타 함수가 포함되어 있다. 따라서 통신, 신호처리 등 신호의 분석 및 처리를 위해 푸리에 변환 을 자주 써먹는 분야에서 디랙 델타 함수를 볼 일이 많다.
+
+디랙 델타 함수는 선형 시스템 이론을 사용해 시스템을 분석 할 때 매우 중요하게 다뤄진다. 일단 LTI 시스템 [16] 에 디랙 델타 함수를 입력하면 [17] 어떤 출력이 나올 것이고 이를 임펄스 응답 [18] 이라고 정의한다. 자세한 증명은 생략하고 결론만 말하면, 임펄스 응답은 LTI 시스템에 대한 모든 정보를 다 담고있다. 따라서 임의의 LTI 시스템이 어떤 시스템인지 알고싶으면 디랙 델타 함수를 시스템에 입력으로 넣어서 얻은 출력인 임펄스 응답을 알아내면 된다. LTI 시스템은 임펄스 응답에 의해 유니크하게 특성지어지며, LTI 시스템의 Zero state 출력은 입력과 임펄스 응답과의 합성곱(Convolution)이기 때문에 그렇다. 즉 수학적으로 시스템에 디랙 델타 함수를 입력해서 출력을 관찰하면 다른 임의의 입력에 대한 출력을 모조리 알 수 있다. 참고로 현실에서는 몇몇 이유로 인해 시스템의 특성이 어떤지 알기 위해 아무 생각 없이 디랙 델타 함수를 입력하지는 않는다.
+
+임펄스 응답을 라플라스 변환 하면 전달 함수(Transfer function)가 되고, 푸리에 변환하면 주파수 응답(Frequency response)이 되는데, 둘 다 시스템의 해석에서 매우 중요하게 다뤄진다. 임펄스 응답을 사용해서 시스템을 분석하는 것 보다 임펄스 응답을 변환한 주파수 응답이나 전달 함수를 사용해서 시스템을 분석하는게 더 유용할 때가 많기 때문이다. 예를 들어 음향기기에 관심있는 사람이라면 주파수 응답 그래프(FR 그래프)를 보고 음향기기의 특성을 해석해본 경험이 아마도 있을 것이다. [19] 보통 시스템의 안정성(Stability)을 판정하는게 중요한 분야에서 전달 함수를 많이 사용하고, 그럴 필요가 없는 분야에서 주파수 응답을 많이 사용한다. 예를 들면 어떤 피드백 루프를 가진 전자회로를 만들었을 때 전달함수를 사용해서 나이퀴스트 선도를 그리면 회로가 타버릴 가능성이 있는지 판정할 수 있다. 추가로 디지털 시스템에서 디랙 델타 함수와 같은 역할을 하는게 크로네커 델타 함수이다.
+
+7. 해석학에서의 엄밀한 정의와 사용 [편집]
+본 문단에서는 해석학 의 분포 이론(Distribution theory)에서의 분포의 정의와, 이를 이용해서 상기한 디랙 델타 함수의 성질을 엄밀하게 정의하는 법을 살펴본다. 여기서의 모든 정의는 다변수 및 더욱 일반적인 공간에 대해 동일한 내용으로 일반화될 수 있지만, 편의를 위해 실수 위에서만 서술하기로 한다.
+
+7.1. 분포 공간 [편집]
+분포 공간을 정의하기 전에, 우선 시험 함수들의 공간을 정의할 필요가 있다. 시험 함수 (test function) φ ( x ) \varphi(x) φ ( x ) 는 C c ∞ ( R ) C_c^{\infty}(\mathbb{R}) C c ∞ ​ ( R ) 의 함수로, - 매끄러움: 모든 차수의 도함수가 존재하고 연속이다.
+- 컴팩트한 지지(compact support): 컴팩트 한 부분집합 K ⊂ R K \subset \mathbb{R} K ⊂ R 가 존재해, φ ∣ K c = 0 \varphi|_{K^c} = 0 φ ∣ K c ​ = 0 이다. 특별히 실수에서는 ∣ x ∣ > M|x|>M ∣ x ∣ > M 이면 φ ( x ) = 0 \varphi(x)=0 φ ( x ) = 0 인 실수 M M M 이 존재한다.
+
+의 두 조건을 만족시키는 함수로, 이들을 모은 시험 함수 공간은 다음과 같이 정의한다. 시험 함수 공간 (test function space) 시험 함수 공간 D ( R ) \mathcal{D}(\mathbb{R}) D ( R ) 은 시험 함수들의 벡터 공간 에 다음과 같은 위상을 주어 만드는 공간이다. - 함수열 ( { φ k } ) ⊂ D ( R ) (\{\varphi_k\}) \subset \mathcal{D}(\mathbb{R}) ({ φ k ​ }) ⊂ D ( R ) 이 D ( R ) \mathcal{D}(\mathbb{R}) D ( R ) 에서 φ \varphi φ 로 수렴할 필요충분조건은, 컴팩트 집합 K ⊂ R K \subset \mathbb{R} K ⊂ R 이 존재해, 모든 α \alpha α 에 대해 다음 조건을 만족시키는 것이다.
+
+φ k ∣ K c = 0 , φ k ( α ) ( x ) → φ ( α ) ( x ) \displaystyle \varphi_k|_{K^c} = 0, \qquad \varphi_k^{(\alpha)}(x) \rightarrow \varphi^{(\alpha)}(x) φ k ​ ∣ K c ​ = 0 , φ k ( α ) ​ ( x ) → φ ( α ) ( x )
+
+이 공간은 완비인 국소 볼록 공간(complete locally convex space)이 된다.
+
+분포 공간은 이 시험 함수 공간의 쌍대 공간으로 정의된다. 분포 공간 (distribution space) 분포 공간 D ′ ( R ) \mathcal{D}'(\mathbb{R}) D ′ ( R ) 은 약한 위상(weak topology)을 이용해 정의된 시험 함수 공간의 쌍대 공간(dual space), 즉 연속인 선형 범함수 (continuous linear functional)들의 공간이다. 즉, 범함수 T : D ( R ) → C T : \mathcal{D}(\mathbb{R})\rightarrow \mathbb{C} T : D ( R ) → C 가 분포공간에 속할 필요충분조건은 다음과 같다.
+* 선형성 : T ( c 1 φ 1 + c 2 φ 2 ) = c 1 T ( φ 1 ) + C 2 T ( φ 2 ) T(c_1 \varphi_1 + c_2 \varphi_2) = c_1 T(\varphi_1) + C_2 T(\varphi_2) T ( c 1 ​ φ 1 ​ + c 2 ​ φ 2 ​ ) = c 1 ​ T ( φ 1 ​ ) + C 2 ​ T ( φ 2 ​ )
+* 연속성 : D ( R ) \mathcal{D}(\mathbb{R}) D ( R ) 의 임의의 수렴하는 함수열 φ k → φ \varphi_k \rightarrow \varphi φ k ​ → φ 에 대해 T ( φ k ) → T ( φ ) T(\varphi_k) \rightarrow T(\varphi) T ( φ k ​ ) → T ( φ ) 가 성립한다.
+연속성과 동치인 조건으로 다음을 생각할 수 있다. 임의의 컴팩트한 부분 집합 K K K 에 대해 다음을 만족하는 n K , C k n_K,\,C_k n K ​ , C k ​ 가 존재한다.
+
+∣ T ( φ ) ∣ ≤ C k sup ⁡ { ∣ φ ( α ) ( x ) ∣ : x ∈ K , α ≤ n K } \displaystyle |T(\varphi)| \le C_k \sup \{ |\varphi^{(\alpha)}(x)| : x \in K, \alpha \le n_K \} ∣ T ( φ ) ∣ ≤ C k ​ sup { ∣ φ ( α ) ( x ) ∣ : x ∈ K , α ≤ n K ​ }
+
+분포 공간과 시험 함수의 결합(pairing)은 보통 브라켓 (= 내적 )을 사용하여 표기하고, 비공식적으로는 적분 기호를 사용한다. 즉, 다음과 같이 쓴다.
+
+⟨ − , − ⟩ : D ′ ( R ) × D ( R ) → C , ⟨ ψ , φ ⟩ = ∫ − ∞ ∞ φ ( x ) ψ ( x ) d x \displaystyle \langle - ,\, - \rangle : \mathcal{D}'(\mathbb{R}) \times \mathcal{D}(\mathbb{R}) \rightarrow \mathbb{C}, \qquad \langle \psi, \, \varphi \rangle = \int_{-\infty}^{\infty} \varphi(x) \psi(x)\,\mathrm{d}x ⟨ − , − ⟩ : D ′ ( R ) × D ( R ) → C , ⟨ ψ , φ ⟩ = ∫ − ∞ ∞ ​ φ ( x ) ψ ( x ) d x
+상기한 대부분의 적분 기호들은 실제로는 이 결합을 나타낸 것인데, 이렇게 표기하는 이유는 일반적인 연속함수 f ∈ C 0 ( R ) f \in C^0(\mathbb{R}) f ∈ C 0 ( R ) 를 다음처럼 분포로 생각할 수 있기 때문이다. 여기서야 ψ f \psi_f ψ f ​ 의 다른 표기를 썼지만, 별다른 혼동이 없는 한 그냥 f f f 로 쓰는 것이 일반적이다.
+
+f ∈ C 0 ( R ) ↦ ψ f ∈ D ′ ( R ) , ⟨ ψ f , φ ⟩ = ∫ − ∞ ∞ f ( x ) φ ( x ) d x \displaystyle f \in C^0(\mathbb{R}) \mapsto \psi_f \in \mathcal{D}'(\mathbb{R}), \qquad \langle \psi_f, \,\varphi \rangle = \int_{-\infty}^{\infty} f(x) \varphi(x)\,\mathrm{d}x f ∈ C 0 ( R ) ↦ ψ f ​ ∈ D ′ ( R ) , ⟨ ψ f ​ , φ ⟩ = ∫ − ∞ ∞ ​ f ( x ) φ ( x ) d x
+물론 모든 분포가 이런 함수 꼴은 아니고, 그 대표적인 예가 바로 이 디랙 델타 함수이다. 이쯤 왔으면 당연하겠지만 디랙 델타 함수의 정의는 다음과 같다.
+
+⟨ δ , φ ⟩ = φ ( 0 ) \displaystyle \langle \delta,\, \varphi \rangle = \varphi(0) ⟨ δ , φ ⟩ = φ ( 0 )
+이러한 맥락에서 상기한 디랙 델타 함수의 sequence는 D ′ ( R ) \mathcal{D}'(\mathbb{R}) D ′ ( R ) 에서 디랙 델타 함수에 수렴하는 함수열로 생각할 수 있다.
+
+7.2. 분포 공간에서의 연산 [편집]
+분포 공간의 연산은 분포공간 내의 연속 함수들의 연산을 확장하는 방식으로 이루어진다. 분포 ψ \psi ψ 와 매끄러운 함수 f f f 의 곱셈은 다른 분포가 되며, 그 정의는 단순히 ⟨ f ψ , φ ⟩ = ⟨ ψ , f φ ⟩ \langle f \psi, \, \varphi \rangle = \langle \psi, \, f \varphi \rangle ⟨ f ψ , φ ⟩ = ⟨ ψ , f φ ⟩ 로 이루어진다. 이 곱셈에 의해 D ′ \mathcal{D}' D ′ 는 C c ∞ ( R ) C_c^{\infty}(\mathbb{R}) C c ∞ ​ ( R ) - 가군 (module)이 된다. 위에 서술한 x n δ ( x ) = 0 x^n \delta(x) = 0 x n δ ( x ) = 0 등의 성질은 이런 맥락으로 볼 수 있는데, 일반적으로
+
+⟨ f δ , φ ⟩ = ⟨ δ , f φ ⟩ = f ( 0 ) φ ( 0 ) = ⟨ f ( 0 ) δ , φ ⟩ \displaystyle \langle f \delta,\, \varphi \rangle = \langle \delta,\, f \varphi \rangle = f(0) \varphi(0)= \langle f(0) \delta,\, \varphi \rangle ⟨ f δ , φ ⟩ = ⟨ δ , f φ ⟩ = f ( 0 ) φ ( 0 ) = ⟨ f ( 0 ) δ , φ ⟩
+등이 성립한다. 하지만 매끄러운 함수만 분포에 곱할 수 있지, 일반적인 함수나 두 분포를 곱하는 것은 정의되지 않는다. 특히, 디랙 델타 함수는 어떤 식으로든 자신과 곱해질 수 없으니 주의하자.
+
+분포의 미분은 다음과 같이 '정의'되는데,
+
+⟨ ψ ′ , φ ⟩ = − ⟨ ψ , φ ′ ⟩ \displaystyle \langle \psi', \, \varphi \rangle = - \langle \psi, \, \varphi' \rangle ⟨ ψ ′ , φ ⟩ = − ⟨ ψ , φ ′ ⟩
+이 정의는 다음의 적분 형태로 놓고 보면 그 이유가 명백해진다.
+
+∫ − ∞ ∞ ψ ′ ( x ) φ ( x ) d x = − ∫ − ∞ ∞ ψ ( x ) φ ′ ( x ) d x \displaystyle \int_{-\infty}^{\infty} \psi'(x) \varphi(x)\, \mathrm{d}x = - \int_{-\infty}^{\infty} \psi(x) \varphi'(x) \, \mathrm{d}x ∫ − ∞ ∞ ​ ψ ′ ( x ) φ ( x ) d x = − ∫ − ∞ ∞ ​ ψ ( x ) φ ′ ( x ) d x
+만약 ψ \psi ψ 가 연속함수라면 이 '부분적분'이 통상적인 이상적분 의미로도 성립하는데, 시험 함수 φ \varphi φ 가 컴팩트한 지지를 가지기 때문에 구간 바깥에서 ψ ( x ) φ ( x ) \psi(x) \varphi(x) ψ ( x ) φ ( x ) 의 끝값은 0 0 0 이 되기 때문이다. 상기한 디랙 델타 함수의 미분 증명에서 사용한 부분적분도 성질이 아니라 이러한 미분의 정의 맥락으로 보는 것이 정확하다. 이 미분에는 곱과 다르게 제한이 없고, 몇 번이고 미분해도 된다. 일반적으로 다음이 성립한다.
+
+⟨ δ ( k ) , φ ⟩ = ( − 1 ) k φ ( k ) ( 0 ) \displaystyle \langle \delta^{(k)},\, \varphi \rangle = (-1)^k \varphi^{(k)}(0) ⟨ δ ( k ) , φ ⟩ = ( − 1 ) k φ ( k ) ( 0 )
+디랙 델타 함수의 적분에 관한 내용도, 역으로 헤비사이드 함수의 분포 미분이 디랙 델타 함수라고 보는 것이 정확하다.
+
+푸리에 변환 에 대해서는 문서에도 간략히 나와 있지만, 슈바르츠 공간(Schwartz space)의 쌍대 공간으로 조절 분포 공간(Tempered distribution space) S ′ ( R ) ⊂ D ′ ( R ) \mathcal{S}'(\mathbb{R}) \subset \mathcal{D}'(\mathbb{R}) S ′ ( R ) ⊂ D ′ ( R ) 을 생각할 수 있고, 조절분포 위의 변환으로 다음처럼 정의된다.
+
+⟨ ψ ^ , φ ⟩ = ⟨ ψ , φ ^ ⟩ \displaystyle \langle \hat{\psi}, \, \varphi \rangle = \langle \psi, \, \hat{\varphi} \rangle ⟨ ψ ^ ​ , φ ⟩ = ⟨ ψ , φ ^ ​ ⟩
+
+7.3. 측도로서의 해석 [편집]
+실수 위에서의 일반적인 측도 μ \mu μ 도 다음처럼 자연스럽게 분포로 생각될 수 있는데,
+
+⟨ ψ μ , φ ⟩ = ∫ R φ ( x ) d μ ( x ) \displaystyle \langle \psi_{\mu},\, \varphi \rangle = \int_{\mathbb{R}} \varphi(x) \, \mathrm{d} \mu(x) ⟨ ψ μ ​ , φ ⟩ = ∫ R ​ φ ( x ) d μ ( x )
+이름만 비슷하고 전혀 다른 개념인 확률 분포 와도 이렇게 나름대로 이어질 수 있다. 이 관점에서 보면 디랙 델타 함수는 항상 0 0 0 의 값을 갖는 (즉, P ( X = 0 ) = 1 P(X=0)=1 P ( X = 0 ) = 1 인) 확률 변수 의 분포에 대응한다고 생각해 볼 수 있다.
+
+이건 디랙이 애초에 양자역학 에서 디랙 델타 함수를 사용한 이유와도 관련이 있는데, 양자역학의 에르미트 연산자 를 엄밀하게 서술한 일반화된 스펙트럼 정리 에서 이 측도론적 관점을 동원하면 디랙 델타 함수를 마치 일종의 '고유 벡터'처럼 볼 수 있기 때문이다. 자세한 것은 연산자 문서를 참고하자.
+
+7.4. 미분방정식에서의 쓰임새 [편집]
+상기 언급한 발산 정리와 물리학에서의 용례 등은 모두 분포 이론으로 엄밀하게 만들어질 수 있고, 편미분방정식 의 이론에서 이들은 단순한 예시 이상의 일종의 '큰 그림'의 일부로서의 의미가 있다. 위에서 이야기한
+
+∇ ⋅ r ^ r 2 = 4 π δ ( r ) \displaystyle \boldsymbol{\nabla} \boldsymbol{\cdot} \frac{\mathbf{\hat{r} }}{r^{2}}=4 \pi \delta(\mathbf{r}) ∇ ⋅ r 2 r ^ ​ = 4 π δ ( r )
+와
+∇ 2 Φ = k δ ( r − r ′ ) Φ = − k 4 π 1 ∣ r − r ′ ∣ \displaystyle \begin{aligned} \nabla^{2} \Phi &=k \delta(\mathbf{r-r'}) \\ \Phi&=-\frac{k}{4 \pi} \frac{1}{|\mathbf{r-r'}|} \end{aligned} ∇ 2 Φ Φ ​ = k δ ( r − r ′ ) = − 4 π k ​ ∣ r − r ′ ∣ 1 ​ ​
+등에서 좌변을 함수가 아니라 분포로 해석하고, 미분도 분포의 미분으로 해석한다면, 빈틈 하나 없이 엄밀하게 완성된다. 일반적으로 편미분방정식 의 이론에서 선형미분작용소 L L L 에 대해 L F = δ LF = \delta L F = δ 를 만족시키는 분포 F F F 를 기본해 (fundamental solution) 또는 그린 함수 (Green's function)라 부르는데, 즉 (3차원) 푸아송 커널 (Poisson kernel)이라 불리는 함수 Φ \Phi Φ 가 3차원에서의 푸아송 방정식의 기본해가 되는 것이다. 이 기본해를 찾았다면 일반적인 L f = g Lf = g L f = g 의 분포 해 하나를 합성곱을 이용해 f = F ∗ g f= F \ast g f = F ∗ g 로 찾을 수 있기 때문에 기본해는 상당한 중요성을 갖고 있다. 물론 기본해가 항상 존재하는 것도 아니고, 기본해를 찾았다고 해도 저 f = F ∗ g f= F \ast g f = F ∗ g 가 분포에서 더 나아가 일반 함수가 된다는 보장도 없기 때문에, 이것만 가지고 편미분방정식을 다 풀지는 못한다.
+
+8. 둘러보기 [편집]
+폴 디랙
+관련 문서
+[ 펼치기 · 접기 ] 연구 분야 및 업적 | 양자역학 ( 디랙 표기법 · 페르미-디랙 분포 · 디랙 델타 함수 )
+양자장론 ( 디랙 방정식 · 디랙 감마 행렬 · 적분 연속체 )
+전자기학 ( 자기 홀극 )
+프로젝트 | 튜브 앨로이스
+소속 | 케임브리지 대학교 ( 세인트 존스 컬리지 )
+플로리다 대학교
+관련 학자 | 베르너 하이젠베르크 · 닐스 보어 · 막스 보른 · 알베르트 아인슈타인 · 리처드 파인만
+기타 | 양자전기역학
+
+[ KCTV광주방송 가입,사은품
+cable-tv.co.kr v-if
+남동케이블방송 신규가입할인, 결합특가할인, 실시간스포츠, 당일설치.
+
+] | [ 남동케이블방송 가입센터
+www.tv-road.co.kr v-if
+이달특가상품 디지털파격할인.결합상품, 와이파이공유기 제공, 설치비무료
+
+] | [ 남동구렌트카 쿠팡
+www.coupang.com v-if
+[ [ 로켓프레시 ] [ 골드박스 ] [ 로켓직구 ] [ 로켓배송 ] ]
+남동구렌트카 교체로 흔들림 없는 주행감을, 와우회원 무료배송으로 경험하세요.
+
+]
+
+[1] P. A. M. Dirac, The Physical Interpretation of the Quantum Dynamics, Proc. Roy. Soc. A Vol. 113, p 621 (1927). [2] 혹 함수 (bump function)가 대표적인 예이다. [3] 식의 형태에서 알 수 있듯 확률 분포 중 하나인 정규 분포 의 확률밀도함수 를 변형한 것이다. 아래에서도 서술하지만, 이 식은 유일한 델타 함수식이 아니고, 델타 함수로 정의되는 여러 함수식중 하나이다. [4] 적분값에 대한 계산법은 가우스 적분 문서를 참조하라. [5] 등호로 표현하지 않은 것은 극한값을 갖는다는 것이 아닌 함수의 형태가 디랙 델타 함수의 정의에 맞게 감을 표현하기 위해서이다. [6] 이말인 즉슨, 이 정의가 수학적으로 엄밀한 함수가 아닌, 분포라는 것을 시사한다. [출처] Arfken, "Mathematical Methods for Physicists: A Comprehensive Guide 7th Edition" [8] 예시: 에어리 함수 를 이용 한 δ n ( x ) = n A i ( n x ) \displaystyle \delta_{n}(x)= n \mathrm{Ai}(nx) δ n ​ ( x ) = n Ai ( n x ) [9] x = x 0 x=x_{0} x = x 0 ​ 에서의 f f f 함숫값을 디랙 델타 함수로 촬영 했다고 생각하면 쉽다. [10] 분포이론 관점에서 엄밀하게 본다면 이는 성질보다는 δ ( g ( x ) ) \delta(g(x)) δ ( g ( x )) 의 '정의'라고 보는 것이 자연스럽다. [11] 헤비사이드 계단 함수는 θ ( x ) \theta(x) θ ( x ) , H ( x ) H(x) H ( x ) 등 다른 표기를 쓰기도 한다. [12] 이런 기법을 'Approximation to the identity' 라고 한다. [13] 정확히는 음의 그레이디언트이다. [14] 물리 상수 등은 현재 논의에서 제외한다. [15] 이러한 성질은 양측파대(double side band, DSB) 또는 단측파대(single side band, SSB) 변조 등에서 대역폭을 제어할 때 쓰이는 편이다. [16] 입출력의 관계가 선형적(가산성(additivity)과 비례성(homogeneity)을 동시에 만족하여 중첩의 원리(superposition principle)가 성립하는 경우를 말한다.)이고, 시간이 지나도 변하지 않는(이 말은 사실 출력 신호가 입력 신호에 동기화돼서 shift 된다는 의미로 해석하고 받아들여야 한다.) 선형 시불변(linear time invariant) 시스템을 줄여서 LTI 시스템이라 부른다. 시불변이 아닌 시스템을 선형 시변 시스템, 즉 LTV(linear time variant) 시스템이라고 부르는데, 임펄스 응답은 사용 가능하지만 전달 함수를 이용하기 어려워진다. [17] 일종의 충격이나 짧은 펄스를 가한다고 생각할 수도 있다. 그래서 impluse function이라고도 일컫는 것이다. [18] impulse response, h ( t ) h(t) h ( t ) [19] 다만 이 경우에는 임펄스 응답을 푸리에 변환해서 주파수 응답을 측정하지는 않는다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

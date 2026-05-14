@@ -1,0 +1,159 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 수열의 극한
+최근 수정 시각: 2025-11-22 07:34:32 [ [ [ ] [ [ 10 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 수학 용어
+- 해석학(수학)
+]
+
+[ [ ] [ 위상수학적 일반화에 대한 자세한 내용은 위상 공간 문서의 3.2.1.1 번 문단을 참고하십시오. 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 설명 2.1 . 수렴하는 경우 2.2 . 발산하는 경우 3 . 예시 4 . 코시열 5 . 기타
+
+1. 개요 [편집]
+Limit of a sequence
+
+무한 수열 { a n } \{a_n\} { a n ​ } 에 대하여, n n n 이 무한히 커지는 상황에서 일반항 a n a_n a n ​ 이 L L L 에 한없이 가까워지면 수열 { a n } \{a_n\} { a n ​ } 이 L L L 에 수렴한다고 하며, 다음과 같이 나타낸다. lim ⁡ n → ∞ a n = L \lim\limits_{n \to \infty}a_n= L n → ∞ lim ​ a n ​ = L
+
+이것을 수열의 극한이라 한다.
+
+2. 설명 [편집]
+
+2.1. 수렴하는 경우 [편집]
+함수의 극한을 엄밀하게 정의할 때 ε - δ \varepsilon\text-\delta ε - δ 논법 을 사용하여 나타냈듯, 수열의 극한 또한 ε - N \varepsilon\text-N ε - N 논법으로 정의된다.
+
+수열 { a n } \{a_n\} { a n ​ } 이 L L L 로 수렴함은 다음과 동치이다. 아래 표현에서 ∀ ⋅ \forall{\cdot} ∀ ⋅ 은 'for a ll [1] ⋅ \cdot ⋅ '(모든/임의의 ⋅ \cdot ⋅ 에 대하여), ∃ ⋅ \exist{\cdot} ∃ ⋅ 는 'there e xists [2] ⋅ \cdot ⋅ '( ⋅ \cdot ⋅ 이 존재한다)를 의미하는 기호이다. ∀ ε > 0 ( ∃ N ∈ N ( ∀ n ∈ N ( n ≥ N ⟹ ∣ a n − L ∣ < ε ) ) ) \forall \varepsilon>0\,(\exists N\in\N\,(\forall n\in\N\,(n \ge N \Longrightarrow |a_n - L| < \varepsilon)\,)\,) ∀ ε > 0 ( ∃ N ∈ N ( ∀ n ∈ N ( n ≥ N ⟹ ∣ a n ​ − L ∣ < ε ) ) ) [3]
+
+비형식적 언어로 다시 적으면 다음과 같다.
+임의의 양수 ε \varepsilon ε 과 자연수 n n n 에 대하여 ' n ≥ N n\ge N n ≥ N 이면, 항상 ∣ a n − L ∣ < ε|a_n-L|<\varepsilon ∣ a n ​ − L ∣ < ε '이 성립하게 되는 자연수 N N N 이 존재한다.
+
+위 논법으로 풀면 N N N 은 주어진 양수 ε \varepsilon ε 의 값에 따라 변하므로, N N N 이 ε \varepsilon ε 에 의존한다는 뜻에서 N ( ε ) N(\varepsilon) N ( ε ) 과 같이 함수처럼 표현하기도 한다.
+
+수열 { a n } \{a_n\} { a n ​ } 이 L L L 로 수렴한다는 것은, 아무리 ε \varepsilon ε 을 작게 잡아도 a n a_n a n ​ 이 구간 ( L − ε , L + ε ) (L-\varepsilon,\,L+\varepsilon) ( L − ε , L + ε ) 에 포함된다는 것을 의미한다. 아직 무슨 뜻인지 모르겠으면, ε - δ \varepsilon\text-\delta ε - δ 논법 문서를 참고하자.
+
+2.2. 발산하는 경우 [편집]
+수열 { a n } \{a_n\} { a n ​ } 이 n → ∞ n\to\infty n → ∞ 일 때 a n → ± ∞ a_n\to\pm\infty a n ​ → ± ∞ 로 발산함은 다음과 동치이다. lim ⁡ n → ∞ a n = ∞ ⟺ ∀ K ∈ R ( ∃ N ∈ N ( ∀ n ∈ N ( n ≥ N ⟹ a n > K ) ) ) lim ⁡ n → ∞ a n = − ∞ ⟺ ∀ K ∈ R ( ∃ N ∈ N ( ∀ n ∈ N ( n ≥ N ⟹ a n < K ) ) ) \begin{aligned} \lim_{n\to\infty}a_n &= \infty &&\Longleftrightarrow &\forall K\in \R\,(\exists N\in\N\,(\forall n\in\N\,(n \ge N \Longrightarrow a_n > K)\,)\,) \\ \lim_{n\to\infty}a_n &= -\infty &&\Longleftrightarrow &\forall K\in \R\,(\exists N\in\N\,(\forall n\in\N\,(n \ge N \Longrightarrow a_n < K)\,)\,) \end{aligned} n → ∞ lim ​ a n ​ n → ∞ lim ​ a n ​ ​ = ∞ = − ∞ ​ ​ ⟺ ⟺ ​ ∀ K ∈ R ( ∃ N ∈ N ( ∀ n ∈ N ( n ≥ N ⟹ a n ​ > K ) ) ) ∀ K ∈ R ( ∃ N ∈ N ( ∀ n ∈ N ( n ≥ N ⟹ a n ​ < K ) ) ) ​ [4]
+
+각각 풀어 쓰면 lim ⁡ n → ∞ a n = ∞ \lim\limits_{n\to\infty}a_n = \infty n → ∞ lim ​ a n ​ = ∞ : 임의의 실수 K K K 와 자연수 n n n 에 대하여 ' n ≥ N n\ge N n ≥ N 이면, 항상 a n > K a_n>K a n ​ > K '이 성립하게 되는 자연수 N N N 이 존재한다.
+
+lim ⁡ n → ∞ a n = − ∞ \lim\limits_{n\to\infty}a_n = -\infty n → ∞ lim ​ a n ​ = − ∞ : 임의의 실수 K K K 와 자연수 n n n 에 대하여 ' n ≥ N n\ge N n ≥ N 이면, 항상 a n < K a_n<K a n ​ < K '이 성립하게 되는 자연수 N N N 이 존재한다.
+
+이다.
+
+3. 예시 [편집]
+lim ⁡ n → ∞ n 2 n + 1 = 1 2 ⋯ ( ∗ ) \lim\limits_{n \to \infty} \dfrac n{2n+1} = \dfrac12 \quad \cdots \, {\small(\ast)} n → ∞ lim ​ 2 n + 1 n ​ = 2 1 ​ ⋯ ( ∗ )
+
+임을 ε - N \varepsilon\text-N ε - N 논법으로 증명해보자.
+
+임의의 양수 ε \varepsilon ε 에 대하여 n ≥ N ⟹ ∣ n 2 n + 1 − 1 2 ∣ < ε n\ge N \Longrightarrow \biggl|\dfrac n{2n+1}-\dfrac12\biggr|<\varepsilon n ≥ N ⟹ ​ 2 n + 1 n ​ − 2 1 ​ ​ < ε
+
+이 성립하는 자연수 N N N 이 존재함을 보이면 충분하다. 식을 변형하여 ∣ n 2 n + 1 − 1 2 ∣ = 1 2 1 2 n + 1 \biggl| \dfrac n{2n+1}-\dfrac12 \biggr| = \dfrac12\dfrac1{2n+1} ​ 2 n + 1 n ​ − 2 1 ​ ​ = 2 1 ​ 2 n + 1 1 ​
+
+이므로 필요 조건의 부등식은 1 2 1 2 n + 1 < ε \dfrac12\dfrac1{2n+1}<\varepsilon 2 1 ​ 2 n + 1 1 ​ < ε
+
+따라서 n n n 에 대하여 정리하면 n > 1 4 ε − 1 2 n>\dfrac1{4 \varepsilon}-\dfrac12 n > 4 ε 1 ​ − 2 1 ​
+
+따라서 자연수 N N N 은 가장 간단한 형태로서 이 식에 최소 정수 함수 를 씌운 N ( ε ) = ⌈ 1 4 ε − 1 2 ⌉ N(\varepsilon) = {\left\lceil\dfrac1{4\varepsilon} - \dfrac12\right\rceil} N ( ε ) = ⌈ 4 ε 1 ​ − 2 1 ​ ⌉
+
+으로 항상 존재함을 알 수 있다. [5]
+
+최소 정수 함수의 성질에 따라 n ≥ N ( ε ) ≥ 1 4 ε − 1 2 n\ge N(\varepsilon) \ge \dfrac1{4\varepsilon}-\dfrac12 n ≥ N ( ε ) ≥ 4 ε 1 ​ − 2 1 ​
+
+이며, 이 식을 변형하면, 2 ( 2 n + 1 ) ≥ 4 N ( ε ) + 2 ≥ 1 ε 2(2n+1) \ge 4N(\varepsilon)+2 \ge \dfrac1\varepsilon 2 ( 2 n + 1 ) ≥ 4 N ( ε ) + 2 ≥ ε 1 ​
+
+이고, 따라서 1 2 ( 2 n + 1 ) = ∣ n 2 n + 1 − 1 2 ∣ ≤ 1 4 N ( ε ) + 2 ≤ ε \dfrac1{2(2n+1)} = \biggl|\dfrac n{2n+1}-\dfrac12 \biggr| \le \dfrac1{4N(\varepsilon)+2} \le \varepsilon 2 ( 2 n + 1 ) 1 ​ = ​ 2 n + 1 n ​ − 2 1 ​ ​ ≤ 4 N ( ε ) + 2 1 ​ ≤ ε
+
+가 얻어진다. 위 부등식은 등호가 빠진 ∣ n 2 n + 1 − 1 2 ∣ < ε \biggl|\dfrac n{2n+1}-\dfrac12 \biggr| < \varepsilon ​ 2 n + 1 n ​ − 2 1 ​ ​ < ε
+
+을 포함하므로 필요 조건의 부등식이 항상 참이 됨을 알 수 있다. 이상에서 식 ( ∗ ) \small(\ast) ( ∗ ) 가 증명되었다.
+
+4. 코시열 [편집]
+대학 해석학 수준이 되면, 수열의 수렴성보다 엄밀한 조건으로 수열의 코시 수열 (Cauchy sequence) 성질을 배우게 되는데, 코시 수열은 아래와 같이 정의된다. 수열 { a n } \{a_n\} { a n ​ } 이 존재한다고 하자. 그렇다면, 이 수열이 코시 수열일 조건은 임의의 양의 실수 ε \varepsilon ε 에 대하여 이에 대응하는 적당한 자연수 N N N 이 존재하여 n n n , m > N m>N m > N 을 만족하는 자연수 m m m , n n n 에 대하여 다음 성질을 만족하는 수열이다. d ( a n , a m ) < ε d(a_n,\,a_m) < \varepsilon d ( a n ​ , a m ​ ) < ε
+
+여기서 d d d 는 거리 함수이며, 유클리드 공간에서는 두 수의 차의 절댓값 이 된다.
+
+수렴성은 특정한 하나의 점을 상정하고 수열이 그리로 가까워진다는 성질이지만, 코시 수열은 목표점이 상정되지 않은 상태에서 그저 수열의 항들이 서로 가까워진다는 성질이다.
+
+일반적인 유클리드 공간 내라면 코시 수열이 곧 수렴성이지만, 일반 거리 공간이 되면 코시 수열 성질이 반드시 수렴하지는 않는다. 예컨대 일반적인 거리를 거리함수로 갖는 유리수 집합에서는 수렴하지 않는 코시 수열을 잡을 수 있다. 3, 3.1, 3.14, 3.141, 3.1415, ... 은 유리수 집합에서의 코시 수열의 한 예지만, 이 수열의 극한인 원주율 은 유리수 집합의 원소가 아니다.
+
+어떤 공간에서 임의의 코시 수열이 수렴한다면 완비성 을 갖췄다고 한다. 유클리드 공간은 완비 거리 공간이다.
+
+5. 기타 [편집]
+- 이 부분은 2015 개정 교육과정 에서 미적분 과목으로 넘어가 자연계 지망자만 배우는 내용이 되었다.
+
+[1] All의 첫머리 글자를 기호화한 것. [2] Exists의 첫머리 글자를 기호화한 것. [3] 다른 버전으로는 쉼표와 s . t . \sf s.t. s.t. (such that … = …를 만족하는)을 조합한
+∀ ε > 0 , ∃ N ∈ N s.t. ∀ n ∈ N , n ≥ N ⟹ ∣ a n − L ∣ < ε \forall \varepsilon>0,\,\exists N\in\N\textsf{ s.t. }\forall n\in\N,\,n \ge N \Longrightarrow |a_n - L| < \varepsilon ∀ ε > 0 , ∃ N ∈ N s.t. ∀ n ∈ N , n ≥ N ⟹ ∣ a n ​ − L ∣ < ε
+이 있다. [4] 이 역시 쉼표와 s . t . \sf s.t. s.t. 을 조합한
+lim ⁡ n → ∞ a n = ∞ ⟺ ∀ K ∈ R , ∃ N ∈ N s.t. ∀ n ∈ N , n ≥ N ⟹ a n > K lim ⁡ n → ∞ a n = − ∞ ⟺ ∀ K ∈ R , ∃ N ∈ N s.t. ∀ n ∈ N , n ≥ N ⟹ a n < K \lim\limits_{n\to\infty}a_n = \infty \Longleftrightarrow \forall K\in\R,\,\exists N\in\N\textsf{ s.t. }\forall n\in\N,\,n \ge N \Longrightarrow a_n > K \\ \lim\limits_{n\to\infty}a_n = -\infty \Longleftrightarrow \forall K\in\R,\,\exists N\in\N\textsf{ s.t. }\forall n\in\N,\,n \ge N \Longrightarrow a_n < K n → ∞ lim ​ a n ​ = ∞ ⟺ ∀ K ∈ R , ∃ N ∈ N s.t. ∀ n ∈ N , n ≥ N ⟹ a n ​ > K n → ∞ lim ​ a n ​ = − ∞ ⟺ ∀ K ∈ R , ∃ N ∈ N s.t. ∀ n ∈ N , n ≥ N ⟹ a n ​ < K
+로 나타내기도 한다. [5] 여기서 N ( ε ) N(\varepsilon) N ( ε ) 은 부등식을 만족하기만 하면 되기 때문에 단 하나로 정해지는 게 아니다. 가령 N ( ε ) N(\varepsilon) N ( ε ) 의 ε \varepsilon ε 에 ε / 2 \varepsilon/2 ε /2 를 대입한 ⌈ 1 2 ε − 1 2 ⌉ {\biggl\lceil\cfrac1{2\varepsilon}-\cfrac12\biggr\rceil} ⌈ 2 ε 1 ​ − 2 1 ​ ⌉ 를 N ( ε ) N(\varepsilon) N ( ε ) 이라고 놓고 같은 방법으로 식을 전개하면 1 2 ( 2 n + 1 ) ≤ ε 2 \cfrac1{2(2n+1)}\le\cfrac\varepsilon2 2 ( 2 n + 1 ) 1 ​ ≤ 2 ε ​ 가 얻어지므로 주어진 명제는
+n ≥ N ( ε ) ⟹ ∣ n 2 n + 1 − 1 2 ∣ ≤ ε 2 < ε \qquad n \ge N(\varepsilon) \Longrightarrow \biggl|\cfrac n{2n+1}-\cfrac12\biggr|\le\cfrac\varepsilon2<\varepsilon n ≥ N ( ε ) ⟹ ​ 2 n + 1 n ​ − 2 1 ​ ​ ≤ 2 ε ​ < ε
+으로 여전히 참이다. 이 문서의 내용 중 전체 또는 일부는 극한 문서의 r362 판, 2번 문단 에서 가져왔습니다. 이전 역사 보러 가기
+[ 그루클린
+www.guruclean.co.kr v-if
+[ [ 입주청소 ] [ 줄눈시공 ] [ 나노코팅 ] [ 에어컨청소 ] ]
+프리미엄 홈케어 서비스 줄눈시공,나노코팅,입주청,상판코팅 믿고 맡길수있는 그루클린
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 남동구컴퓨터수리 쿠팡
+www.coupang.com v-if
+[ [ 로켓프레시 ] [ 골드박스 ] [ 로켓직구 ] [ 로켓배송 ] ]
+세련된 남동구컴퓨터수리, 감성 가득한 디자인으로 식탁 분위기를 바꿔보세요.
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

@@ -1,0 +1,156 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 중간값 정리
+최근 수정 시각: 2026-04-28 14:56:40 [ [ [ ] [ [ 5 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ [ 다르부 정리 에서 넘어옴 ] 분류 [ - 해석학(수학)
+]
+
+[ [ ] [ IVT 은(는) 여기로 연결됩니다. 현대자동차그룹에서 사용하는 무단변속기 IVT에 대한 내용은 CVT 문서를 참고하십시오.
+해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 1.1 . 명칭 개정 문제 2 . 증명 2.1 . 기본 증명 2.2 . 다른 증명 1 2.3 . 다른 증명 2 3 . 중간값 정리의 활용 3.1 . 중간값 정리로부터 완비성 공리의 유도 4 . 다르부의 중간값 정리 5 . 중등 교육 6 . 관련 문서
+
+1. 개요 [편집]
+中 間 値 定 理 ｜ Intermediate Value Theorem
+
+해석학 의 한 이론. 구간에서 연속인 함수에 대해서 구간에 대한 함수의 상도 구간으로 나온다는 정리이다.
+
+1.1. 명칭 개정 문제 [편집]
+- 대한수학회 - '정리(thm)' 관련 용어는 '중간값 정리' 또는 '중간값의 정리'로 쓴다. '사잇값(의) 정리', '사이값(의) 정리'는 미인정한다.
+- '중간값(intermediate value)' 관련 용어는 사잇값도 인정한다.
+- 중등 교육과정 - '중간값의 정리' - 2007 개정 교육과정 까지
+- '사이값 정리' - 2009 개정 교육과정
+- '사잇값 정리' - 2009 개정 교육과정 최종수정본 이후. 국어 문법이 개정되어 사이시옷 을 써야 하기 때문이다.
+
+2. 증명 [편집]
+
+2.1. 기본 증명 [편집]
+함수 f f f 가 [ a , b ] \left[a,b\right] [ a , b ] 에서 연속이고 k k k 가 f ( a ) f\left(a\right) f ( a ) 와 f ( b ) f\left(b\right) f ( b ) 사이의 임의의 값이라 하자. 당연히 f ( a ) ≠ f ( b ) f\left(a\right)\neq f\left(b\right) f ( a )  = f ( b ) 임을 가정한다. f ( a ) < k < f ( b ) f\left(a\right)<k<f\left(b\right) f ( a ) < k < f ( b ) 와 f ( b ) < k < f ( a ) f\left(b\right)<k<f\left(a\right) f ( b ) < k < f ( a ) 의 두 가지 경우가 있는데 전자를 가정하며, 후자의 경우에는 g = − f g=-f g = − f 로 정하고 g g g 에 대해 정리를 적용하여 증명할 수 있다.
+
+A = { x ∈ [ a , b ] ∣ f ( x ) < k } A=\left\{x\in\left[a,b\right]|f\left(x\right)<k\right\} A = { x ∈ [ a , b ] ∣ f ( x ) < k } 라고 하자. 이때 c = sup ⁡ A c=\sup A c = sup A 로 정의한다. [1] f f f 가 [ a , b ] \left[a,b\right] [ a , b ] 에서 연속이므로, 적당한 δ 1 > 0 \delta _1>0 δ 1 ​ > 0 가 존재하여 ∀ x ∈ [ a , a + δ 1 ) : f ( x ) < k \forall x\in\left[a,a+\delta _1\right) : f\left(x\right)<k ∀ x ∈ [ a , a + δ 1 ​ ) : f ( x ) < k 이고, 적당한 δ 2 > 0 \delta_2>0 δ 2 ​ > 0 가 존재하여 ∀ x ∈ ( b − δ 2 , b ] : f ( x ) > k \forall x\in\left(b-\delta _2,b\right]: f\left(x\right)>k ∀ x ∈ ( b − δ 2 ​ , b ] : f ( x ) > k 이다. [2] 따라서 a < c < b a<c<b a < c < b 이다. 또한 f ( c ) < k f\left(c\right)<k f ( c ) < k 이면 f의 연속성에 의해 f ( c + α ) < k f\left(c+\alpha\right)<k f ( c + α ) < k 인 α > 0 \alpha >0 α > 0 가 존재하게 되어 모순이므로, f ( c ) ≥ k f\left(c\right)\geq k f ( c ) ≥ k 이다.
+
+한편 상한(supremum)의 정의에 의해 임의의 ϵ > 0 \epsilon >0 ϵ > 0 에 대하여 c − ϵ < x ≤ c c-\epsilon<x\leq c c − ϵ < x ≤ c 인 x ∈ A x\in A x ∈ A 가 존재한다. 그러면 f의 연속성에 의해 임의의 δ > 0 \delta >0 δ > 0 에 대하여 f ( c ) < f ( x ) + δ f\left(c\right)<f\left(x\right)+\delta f ( c ) < f ( x ) + δ 인 x ∈ A x\in A x ∈ A 가 존재하게 된다. 여기서 f ( x ) < k f\left(x\right)<k f ( x ) < k 이므로 f ( c ) < k + δ f\left(c\right)<k+\delta f ( c ) < k + δ 가 성립한다. 이는 곧 f ( c ) ≤ k f\left(c\right)\leq k f ( c ) ≤ k 라는 뜻이다. 따라서 f ( c ) = k f\left(c\right)=k f ( c ) = k 이다.
+
+2.2. 다른 증명 1 [편집]
+축소구간정리 를 이용해서 증명을 할 수 있다.
+
+함수 f f f 가 [ a , b ] \left[a, b\right] [ a , b ] 에서 연속이고 k k k 가 f ( a ) f(a) f ( a ) 와 f ( b ) f(b) f ( b ) 사이의 값이라고 하자. 역시 축소구간정리와 마찬가지로 여기서는 f ( a ) < k < f ( b ) f(a)< k <f(b) f ( a ) < k < f ( b ) 라고 둔다.
+그러면 다음 조건을 만족하는 폐구간열 〈 I n = [ x n , y n ] I_{n}=\left[x_{n}, y_{n}\right] I n ​ = [ x n ​ , y n ​ ] 〉을 생각할 수 있다. 각 자연수 n n n 에 대하여, - f ⁣ ( x n + y n 2 ) ⁣ ≤ k \displaystyle f \! \left(\frac{x_n+y_n}{2} \right)\!\leq k f ( 2 x n ​ + y n ​ ​ ) ≤ k 라면 x n + 1 = x n + y n 2 , y n + 1 = y n \displaystyle x_{n+1}=\frac{x_{n}+y_{n}}{2}, y_{n+1}=y_{n} x n + 1 ​ = 2 x n ​ + y n ​ ​ , y n + 1 ​ = y n ​
+- f ⁣ ( x n + y n 2 ) ⁣ > k \displaystyle f \! \left(\frac{x_n+y_n}{2} \right)\!> k f ( 2 x n ​ + y n ​ ​ ) > k 라면 x n + 1 = x n , y n + 1 = x n + y n 2 \displaystyle x_{n+1}=x_{n}, y_{n+1}=\frac{x_{n}+y_{n}}{2} x n + 1 ​ = x n ​ , y n + 1 ​ = 2 x n ​ + y n ​ ​
+
+그렇다면 이 폐구간열은 축소 폐구간열이 되며, 따라서 축소구간정리에 따라 ⋂ n ∈ N I n ≠ ∅ \displaystyle \bigcap_{n \in \mathbb{N}}I_{n}\neq \emptyset n ∈ N ⋂ ​ I n ​  = ∅ 이며, 이 구간의 길이. 즉 측도는 계속해서 반으로 줄어드므로 그 극한은 0. 공집합 이 아닌데 측도가 0인 집합은 점집합이므로 즉 이 구간열의 무한교집합은 어느 한 점을 가지는 단원소집합이 된다. 그 값을 ⋂ n ∈ N I n = { c } \displaystyle \bigcap_{n \in \mathbb{N}}I_{n}=\{c\} n ∈ N ⋂ ​ I n ​ = { c } 라고 하자.
+
+또한, ∀ n ∈ N \forall n \in \mathbb{N} ∀ n ∈ N 에 대하여 f ( x n ) ≤ k < f ( y n ) f(x_n)\leq k < f(y_n) f ( x n ​ ) ≤ k < f ( y n ​ ) 에, a ≤ x n ≤ c < y n ≤ b a\leq x_n\leq c<y_n\leq b a ≤ x n ​ ≤ c < y n ​ ≤ b 이므로 f f f 는 [ a , b ] \left[a, b\right] [ a , b ] 에서 연속이라는 전제에 따라 x = c x=c x = c 에서 연속이다. 따라서 조임 정리를 사용하면 lim ⁡ n → ∞ f ( x n ) = f ( c ) ≤ k ≤ lim ⁡ n → ∞ f ( y n ) = f ( c ) \displaystyle \lim_{n\to\infty}f(x_n)=f(c)\leq k \leq \lim_{n\to\infty}f(y_n)=f(c) n → ∞ lim ​ f ( x n ​ ) = f ( c ) ≤ k ≤ n → ∞ lim ​ f ( y n ​ ) = f ( c ) 가 되므로, f ( c ) = k f(c)=k f ( c ) = k 를 만족하는 점 c c c 가 존재하게 되며, 또한 f ( a ) < k < f ( b ) f(a)<k<f(b) f ( a ) < k < f ( b ) 이므로 a ≠ c , b ≠ c a \neq c, b\neq c a  = c , b  = c 가 된다. 따라서 f ( c ) = k f(c)=k f ( c ) = k 를 만족하는 점 c c c 는 개구간 ( a , b ) \left(a, b\right) ( a , b ) 에 존재함을 보일 수 있다. 여담으로 위의 축소구간정리를 이용하면 실수의 비가산성을 증명할 수 있으며 [3] , 이것이 역사상 처음으로 실수가 비가산집합이라는 것 을 증명한 증명법에 속한다.
+
+2.3. 다른 증명 2 [편집]
+위상수학 의 관점에서 증명을 할 수도 있다. 연결집합을 이용하는 방법인데, 연결집합이란 공집합 이 아닌 두 열린 집합으로 쪼갤 수 없는, 즉 분할(separation)을 찾을 수 없는 집합이다. 여기서 열린 집합이란, 열린 구간처럼 경계를 포함하지 않는 집합이며 열린 집합 S와 이 집합의 경계점들의 집합인 경계 B d ( S ) Bd\left(S\right) B d ( S ) 의 합집합을 S S S 의 폐포(closure) 라 하고 [4] S ‾ \overline{S} S 로 나타낸다. 이제 중간값 정리를 다시 표현하면 다음과 같다. f f f 가 연결집합 D D D 에서 정의된 연속인 실함수일 때, a , b ∈ f ( D ) a,b\in f\left(D\right) a , b ∈ f ( D ) 이고 a < c < b a<c<b a < c < b 이면 f ( p ) = c f\left(p\right)=c f ( p ) = c 인 p ∈ D p\in D p ∈ D 가 존재한다.
+
+이에 대한 증명은 다음과 같다.
+모든 p ∈ D p\in D p ∈ D 에 대하여 f ( p ) ≠ c f\left(p\right)\neq c f ( p )  = c 이면 f ( p ) > c f\left(p\right)>c f ( p ) > c 또는 f ( p ) < c f\left(p\right)<c f ( p ) < c 이다. U = { p ∈ D : f ( p ) > c } , V = { p ∈ D : f ( p ) < c } U=\left\{p\in D:f\left(p\right)>c\right\},V=\left\{p\in D:f\left(p\right)<c\right\} U = { p ∈ D : f ( p ) > c } , V = { p ∈ D : f ( p ) < c } 라 하자. f f f 가 연속이므로 U U U 와 V V V 는 D D D 의 열린 집합이다. a , b ∈ f ( D ) a,b\in f\left(D\right) a , b ∈ f ( D ) 이므로 f ( p 1 ) = a , f ( p 2 ) = b f\left(p_{1}\right)=a,f\left(p_{2}\right)=b f ( p 1 ​ ) = a , f ( p 2 ​ ) = b 인 p 1 , p 2 ∈ D p_{1},p_{2}\in D p 1 ​ , p 2 ​ ∈ D 가 존재한다. 그런데 a = f ( p 1 ) < c < f ( p 2 ) = b a=f\left(p_{1}\right)<c<f\left(p_{2}\right)=b a = f ( p 1 ​ ) < c < f ( p 2 ​ ) = b 이므로 p 1 ∈ V , p 2 ∈ U p_{1}\in V,p_{2}\in U p 1 ​ ∈ V , p 2 ​ ∈ U 이다. 따라서 V ≠ ∅ , U ≠ ∅ V\neq\varnothing,U\neq\varnothing V  = ∅ , U  = ∅ 이다. 그리고 U ˉ ∩ V = U ∩ V ˉ = ∅ \bar{U}\cap V=U\cap\bar{V}=\varnothing U ˉ ∩ V = U ∩ V ˉ = ∅ 이고 D = U ∪ V D=U\cup V D = U ∪ V 이다. 따라서 D D D 는 연결집합이 아니고, 이는 가정에 모순된다. 따라서 어떤 p ∈ D p\in D p ∈ D 에 대하여 f ( p ) = c f\left(p\right)=c f ( p ) = c 이다.
+
+그런데 사실 위 증명은 다른 정리의 증명에서 찾을 수 있는 것인데, 다름 아닌 실수 집합의 어떤 부분집합이 연결집합일 필요충분조건은 이 부분집합이 구간(interval)이어야 한다는 것이다 는 것의 증명이다. 실수 집합의 구간 은 여기에 포함된 임의의 x , y x, y x , y 에 대하여 x < c < y x < c < y x < c < y 인 임의의 실수 c c c 역시 이 집합에 포함되는 실수 집합의 부분집합으로 정의된다. 여기서 [ a , b ] [a, b] [ a , b ] 가 이 조건을 만족한다는 것을 보일 수 있다. [6] 그러면 연결집합의 연속상(continuous image) 역시 연결집합이라는 성질 때문에 f ( [ a , b ] ) f([a, b]) f ([ a , b ]) [7] 역시 연결집합, 곧 구간임을 알 수 있다. 그러면 f ( a ) f(a) f ( a ) 와 f ( b ) f(b) f ( b ) 사이에 있는 임의의 y ∈ R y \in \mathbb{R} y ∈ R 은 f ( [ a , b ] ) f([a, b]) f ([ a , b ]) 에 포함될 것이고 따라서 y = f ( c ) y = f(c) y = f ( c ) 인 c ∈ [ a , b ] c \in [a, b] c ∈ [ a , b ] 를 항상 찾을 수 있는 것으로 또다른 방식의 증명을 마칠 수 있다. 즉, 중간값 정리는 본질적으로 연결집합이라는 위상적 성질로부터 비롯된 것이라고 간단하게 증명할 수 있는 것이다. 하지만 실수집합에서 구간 = 연결집합인 것을 보이는 것이 훨씬 어렵다는 게 함정이다
+
+3. 중간값 정리의 활용 [편집]
+고교과정에서 자주 쓰이는 활용으로는 방정식의 근의 위치를 추정하는 것이다. 만약 f ( a ) × f ( b ) < 0 f(a)\times f(b)<0 f ( a ) × f ( b ) < 0 이고 f f f 가 연속이면 ( a , b ) \left(a,b\right) ( a , b ) 사이에 근을 적어도 하나 가진다. 왜냐하면 0이 f ( a ) f\left(a\right) f ( a ) 와 f ( b ) f\left(b\right) f ( b ) 사이에 존재하기 때문. 하지만 이것만으로는 근의 개수를 알 수 없다.
+
+실생활에서 쓰일만한 또다른 활용은 테이블이 흔들리지 않게 하는 위치를 찾는 것이다. 테이블 다리가 바닥에 닿는점을 각각 A, B, C, D라 하자. 그리고 A, B, C에 의해 평면이 결정되어있다고 하자 [8] . 3변수 함수 f f f 를 점에서 평면 ABC까지의 수직 거리라 정의하면 f ( D ) > 0 f\left(D\right)>0 f ( D ) > 0 이고 나머지 점의 함수값은 0이 된다. 점 D와 마주보는 점을 B라 하면 f ( B ) − f ( D ) < 0 f\left(B\right)-f\left(D\right)<0 f ( B ) − f ( D ) < 0 이고 테이블을 180도 돌리면 A와 C, B와 D의 위치가 바뀌고 f ( B ) − f ( D ) > 0 f\left(B\right)-f\left(D\right)>0 f ( B ) − f ( D ) > 0 이 된다. 또한 f ( B ) − f ( D ) f\left(B\right)-f\left(D\right) f ( B ) − f ( D ) 의 값은 연속적인 값이므로 중간값의 정리에 의해 f ( B ) − f ( D ) = 0 f\left(B\right)-f\left(D\right)=0 f ( B ) − f ( D ) = 0 , 즉 테이블이 흔들리지 않게 되는 점이 180도 회전할 때 적어도 하나 존재하게 되는 것이다.
+
+같은 원리로 임의의 순간 지표면 어딘가에는 지구 반대편과 기온과 기압이 같은 위치가 존재한다는 걸 보일 수도 있다. 지구 반대편과의 온도차를 f f f 라 두면 f f f 는 연속이고 지구를 반바퀴 돌면 f f f 의 값이 -1이 곱해지므로 f = 0 f=0 f = 0 인 지점이 존재할 것이다. 그런데 지표면은 3차원 지구의 2차원 표면이므로 f > 0 f>0 f > 0 인 구간과 f < 0 f<0 f < 0 인 구간을 나누는 f = 0 f=0 f = 0 인 고리가 존재하거나 항상 f = 0 f=0 f = 0 이거나 할 것이다. 이 고리 위에 지구 반대편과의 기압차 g g g 를 정의하면 같은 방법으로 g = 0 g=0 g = 0 인 지점이 있음을 보일 수 있다.
+
+3.1. 중간값 정리로부터 완비성 공리의 유도 [편집]
+완비성 공리로부터 중간값 정리의 유도는 많은 책에 나와있지만 중간값 정리로부터 완비성 공리를 유도할 수도 있다. S S S 를 실수의 부분집합으로써 위로 유계이고 공집합 이 아닌 임의의 집합이라고 하고 상한이 존재하지 않는다고 가정하자. 실함수 f f f 를 x x x 가 S S S 의 상계인 경우에 f ( x ) = 1 f(x)=1 f ( x ) = 1 , x x x 가 S S S 의 상계가 아닌 경우에 f ( x ) = 0 f(x)=0 f ( x ) = 0 이라고 하자. x x x 가 S S S 의 상계가 아니라면 x x x 보다 큰 S S S 의 원소 y y y 가 존재하고 δ = y − x \delta=y-x δ = y − x 라고 하면 ( x − δ , x + δ ) (x-\delta,x+\delta) ( x − δ , x + δ ) 에서 f ( x ) = 0 f(x)=0 f ( x ) = 0 이므로 x x x 에서 연속이며 x x x 가 S S S 의 상계라면 x x x 는 최소상계가 아니므로 x x x 보다 작은 S S S 의 상계 y y y 가 존재한다. 이제 δ = x − y \delta=x-y δ = x − y 라고 하면 ( x − δ , x + δ ) (x-\delta,x+\delta) ( x − δ , x + δ ) 에서 f ( x ) = 1 f(x)=1 f ( x ) = 1 이므로 x x x 에서 연속이다. 또한 S S S 가 공집합이 아니고 유계인 실수의 부분집합이므로 f ( a ) = 1 f(a)=1 f ( a ) = 1 인 a a a 와 f ( b ) = 0 f(b)=0 f ( b ) = 0 인 b b b 가 존재한다. 따라서 중간값 정리에 의해 f ( x ) = 1 2 f(x)=\dfrac{1}2 f ( x ) = 2 1 ​ 인 x x x 가 존재하고 이는 모순이다. 따라서 S S S 는 상한을 가진다.
+
+4. 다르부의 중간값 정리 [편집]
+Darboux's theorem
+
+일반적으로 중간값 정리는 연속함수에 대해서 성립하지만, 연속함수가 아니면서 중간값 정리의 성질을 만족시킬 수 있다. 이러한 함수들을 다르부 함수(Darboux Function)라고 하며 대표적인 예로 도함수 f ′ ( x ) f'(x) f ′ ( x ) 가 있다. 다르부의 정리는 다음과 같다. 함수 f : [ a , b ] → R f:\left[a, b\right] \rightarrow \mathbb R f : [ a , b ] → R 이 열린구간 ( a , b ) \left(a, b\right) ( a , b ) 에서 미분가능하고, 극한값 lim ⁡ h → 0 + f ( a + h ) − f ( a ) h \displaystyle \lim_{h\to 0+} {f\left(a+h\right)-f\left(a\right)\over h} h → 0 + lim ​ h f ( a + h ) − f ( a ) ​ , lim ⁡ h → 0 − f ( b + h ) − f ( b ) h \displaystyle \lim_{h\to 0-} {f\left(b+h\right)-f\left(b\right)\over h} h → 0 − lim ​ h f ( b + h ) − f ( b ) ​ 이 모두 존재한다고 하자. 이때 각 극한값을 f ′ ( a ) f'\left(a\right) f ′ ( a ) , f ′ ( b ) f'\left(b\right) f ′ ( b ) 로 나타내자. 그러면 f ′ ( a ) ≠ f ′ ( b ) f'\left(a\right)\ne f'\left(b\right) f ′ ( a )  = f ′ ( b ) 일 때 f ′ ( a ) f'\left(a\right) f ′ ( a ) 와 f ′ ( b ) f'\left(b\right) f ′ ( b ) 사이에 있는 임의의 실수 k k k 에 대하여 f ′ ( c ) = k f'\left(c\right)=k f ′ ( c ) = k 를 만족하는 실수 c ∈ ( a , b ) c\in \left(a,b\right) c ∈ ( a , b ) 가 존재한다.
+
+증명
+WLOG f ′ ( a ) < k < f ′ ( b ) f'\left(a\right)<k<f'\left(b\right) f ′ ( a ) < k < f ′ ( b ) 라고 하자.
+
+함수 g ( x ) = f ( x ) − k x g\left(x\right)=f\left(x\right)-kx g ( x ) = f ( x ) − k x 를 정의하자. 이때, g ( x ) g\left(x\right) g ( x ) 는 구간 [ a , b ] [a,b] [ a , b ] 에서 연속이므로 최대 최소 정리에 의해 g g g 가 최댓값을 가지는 점 M ∈ [ a , b ] M\in \left[a, b\right] M ∈ [ a , b ] 이 존재한다. 한편 g ′ ( x ) = f ′ ( x ) − k g'\left(x\right)=f'\left(x\right)-k g ′ ( x ) = f ′ ( x ) − k 이므로 g ′ ( a ) < 0 g'\left(a\right)<0 g ′ ( a ) < 0 , g ′ ( b ) > 0 g'\left(b\right)>0 g ′ ( b ) > 0 이다. 따라서 M ∈ ( a , b ) M\in \left(a, b\right) M ∈ ( a , b ) 이다. 그러면 페르마의 임계점 정리 [9] 에 의해 g ′ ( M ) = f ′ ( M ) − k = 0 g'\left(M\right)=f'\left(M\right)-k=0 g ′ ( M ) = f ′ ( M ) − k = 0 이므로 f ′ ( M ) = k f'\left(M\right)=k f ′ ( M ) = k 이다.
+
+다르부 함수의 대표적인 예시로 f ( x ) = x 2 sin ⁡ 1 x ( x ≠ 0 ) , f ( 0 ) = 0 \displaystyle f\left(x\right)=x^2\sin{\frac{1}{x}}\left(x\ne 0\right), f\left(0\right)=0 f ( x ) = x 2 sin x 1 ​ ( x  = 0 ) , f ( 0 ) = 0 의 도함수가 있다. 이 함수의 도함수는 x=0에서 불연속이지만, 중간값정리의 성질을 만족한다.
+
+5. 중등 교육 [편집]
+고등학교 수학 미적분 파트, 정확하게는 미분의 바로 전 파트인 함수의 극한 마지막 부분에서 처음 보게되는 정리중 하나. 과거엔 중간값 정리라고 하였으나, 교육과정이 개편되면서 사잇값 정리로 바뀌었다. 중등 교육에서는 다소 소개하는 방법이 위와 다르다.
+함수 f ( x ) f\left(x\right) f ( x ) 가 닫힌 구간 [ a , b ] \left[a, b\right] [ a , b ] 에서 연속이고 f ( a ) ≠ f ( b ) f\left(a\right) \neq f\left(b\right) f ( a )  = f ( b ) 일 때, f ( a ) f\left(a\right) f ( a ) 와 f ( b ) f\left(b\right) f ( b ) 사이의 임의의 값 k k k 에 대하여 f ( c ) = k f\left(c\right)=k f ( c ) = k 인 c c c 가 열린 구간 ( a , b ) \left(a,b\right) ( a , b ) 내에 적어도 하나 존재한다.
+
+이 정리 바로 앞에 나올 최대·최소의 정리 와 마찬가지로 고교과정에선 증명을 하지 않고 그냥 사용한다. 사실 증명을 하려 해도 할 수 없는게, 대학 해석학 수준에서 배울 여러 가지 내용 [10] 을 이용해서 증명하기 때문이다.
+- 7차 교육과정 : 수학Ⅱ
+- 2007 개정 교육과정 : 미적분과 통계 기본 , 수학Ⅱ
+- 2009 개정 교육과정 : 미적분Ⅰ
+- 2015 개정 교육과정 : 수학Ⅱ
+
+6. 관련 문서 [편집]
+- 해석학(수학)
+- 연속함수
+
+[ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 남동구용달 하나로퀵
+www.1577-3410.com
+[ [ 퀵서비스접수 ] [ 퀵서비스안내 ] [ 쉽고빠른배달 ] [ 하나로퀵배송 ] ]
+10분배차다마스 라보전문 즉시배차 저렴한비용 실시간배차 간단이사 긴급배송 소형이사
+
+] | [ 한국로지스 !친절배송!
+www.18332442.co.kr v-if
+한국로지스, 포장이사, 리프트화물, 용달, 전국당일특송 365일 가능합니다.
+
+]
+
+[1] sup ⁡ \sup sup 는 supremum(상한)의 약자로, 어떤 집합 T의 부분집합 S의 모든 원소보다 같거나 큰 T의 원소이면서 그 원소 중 가장 작은 원소(최소 상계)를 sup ⁡ S \sup S sup S 라고 한다. [2] f가 연속임을 이용하여, ϵ = k − f ( a ) \epsilon=k-f(a) ϵ = k − f ( a ) 로 두면 된다. [3] 게오르크 칸토어 는 원래 대각선 논법 보다 먼저 이 방법으로 증명을 했었다. 이후 엄밀성이 조금 떨어지는 방식인 실수의 소수표현을 통해 직관적으로 증명을 보여준 것이 바로 대각선 논법. [4] 다른 해석으로는 열린 집합 S를 포함하는 모든 폐집합의 교집합으로 정의한다. 즉, 어떤 커다란 집합(보통은 전체집합을 의미한다)이 존재하여, C = { A ∣ ∀ A ⊂ U } C=\{A|\forall A \subset U\} C = { A ∣∀ A ⊂ U } (단 U U U 는 조건상, 혹은 정의상으로 주어진 최대집합, A A A 는 폐집합)일 때 [5] , ⋂ S ∩ A = S A \displaystyle \bigcap_{S \cap A=S} A S ∩ A = S ⋂ ​ A 혹은 ⋂ S ⊂ A A \displaystyle \bigcap_{S \subset A}A S ⊂ A ⋂ ​ A 라고 하기도 한다. [5] 즉, C C C 는 집합 U U U 에 포함되는 모든 폐집합을 원소로 갖는 집합이다. [6] 사실 우리가 아는 아홉 가지 종류의 구간( ( a , b ) , [ a , b ) , ( a , b ] , [ a , b ] , ( − ∞ , b ) , ( − ∞ , b ] , ( a , ∞ ) , [ a , ∞ ) , ( − ∞ , ∞ ) (a, b), \lbrack a, b), (a, b \rbrack, \lbrack a, b \rbrack, (-\infty, b), (-\infty, b \rbrack, (a, \infty), \lbrack a, \infty), (-\infty, \infty) ( a , b ) , [ a , b ) , ( a , b ] , [ a , b ] , ( − ∞ , b ) , ( − ∞ , b ] , ( a , ∞ ) , [ a , ∞ ) , ( − ∞ , ∞ ) )이 구간의 전부임을 보일 수 있다. [7] { f ( x ) : x ∈ [ a , b ] } \{f(x) : x \in \lbrack a, b \rbrack\} { f ( x ) : x ∈ [ a , b ]} [8] 평면의 결정조건 중 하나가 공선점이 아닌 세 점이다 [9] 미분가능한 함수의 극대/극소점에서의 미분계수는 항상 0이다. [10] 실수의 완비성에서 유도되는 상한정리, 혹은 집합론의 연결집합에 대한 정리등을 이용한다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

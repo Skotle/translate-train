@@ -1,0 +1,387 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 정적분
+최근 수정 시각: 2026-05-11 03:07:32 [ [ [ ] [ [ 18 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 미적분
+- 수학 용어
+- 한자어
+]
+
+[ [ ] [ 하위 문서: 정적분/예제 관련 문서: 이상적분 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 고등학교 수준에서의 정의 3 . 다르부 적분 4 . 기하학적 의미 5 . 계산 6 . 정적분 기호의 초등적 의미 7 . 연산의 성질 8 . 응용 8.1 . 정적분으로 정의된 함수 8.2 . 무한급수를 정적분으로 나타내기 8.3 . 역함수의 정적분 8.3.1 . 공식 1 8.3.2 . 공식 2 8.3.3 . 공식 3 8.3.4 . 무한급수로 나타내기 8.4 . 곡선 사이의 넓이 8.5 . 입체도형의 부피 8.6 . 곡선의 길이 8.7 . 회전체의 겉넓이 9 . 다른 표기 10 . 정적분의 역사 11 . 다항함수 관련 공식 12 . 예제 13 . 정적분의 여러 종류와 그 본질
+
+1. 개요 [편집]
+
+定 積 分 / definite integral
+
+닫힌 구간에서의 함수의 그래프 혹은 좌표축 따위로 둘러싸인 도형의 넓이를 구하는 계산이다. 정적분을 사용하면, 대부분의 모양의 넓이를 구할 수 있다. [1] 계산하면 적분상수 ( c o n s t . \sf const. const. )가 나와서 식이 완결되지 않는 부정적분 과 달리, 이런 적분 상수가 나타나지 않는다는 점에서 부정적분의 반의어로 간주된다.
+
+2. 고등학교 수준에서의 정의 [편집]
+닫힌 구간 [ a , b ] [a, b] [ a , b ] 에서 유계 [2] [3] 인 함수 f ( x ) f(x) f ( x ) 를 생각해보자. 이때, 구간 [ a , b ] [a, b] [ a , b ] 를 n n n 등분하여 a a a 부터 b b b 까지의 각 분할점을 a = x 0 a=x_0 a = x 0 ​ , x 1 x_1 x 1 ​ , x 2 x_2 x 2 ​ , ⋯ \cdots ⋯ , x n = b x_n = b x n ​ = b 라 하자. 여기서 1 ≤ k ≤ n 1 \le k \le n 1 ≤ k ≤ n 인 각각의 자연수 k k k 에 대하여 x k − 1 ≤ x k x_{k-1} \le x_k x k − 1 ​ ≤ x k ​ 가 성립한다고 하자.
+
+이때, 각 소구간 [ x k − 1 , x k ] [x_{k-1}, x_k] [ x k − 1 ​ , x k ​ ] 에서 해당 구간의 오른쪽 끝점 x k = a + k Δ x x_k = a +k\Delta x x k ​ = a + k Δ x 와 Δ x = b − a n \Delta x = \dfrac{b-a}n Δ x = n b − a ​ 에 대하여 다음의 합을 정의하자.
+
+R n = ∑ k = 1 n f ( x k ) Δ x = ∑ k = 1 n f ⁣ ( a + b − a n k ) b − a n \begin{aligned} R_n &= \sum_{k=1}^n f(x_k) \Delta x \\ &= \sum_{k=1}^n f\!\left(a +\frac{b-a}n k \right) \frac{b-a}n \end{aligned} R n ​ ​ = k = 1 ∑ n ​ f ( x k ​ ) Δ x = k = 1 ∑ n ​ f ( a + n b − a ​ k ) n b − a ​ ​
+이것을 리만 오른쪽 합 이라 한다. 비슷하게 각 소구간의 왼쪽 끝점 x k − 1 x_{k-1} x k − 1 ​ 에 대하여 다음과 같이 리만 왼쪽 합 을 정의할 수 있다.
+
+L n = ∑ k = 1 n f ( x k − 1 ) Δ x = ∑ k = 0 n − 1 f ( x k ) Δ x = ∑ k = 0 n − 1 f ⁣ ( a + b − a n k ) b − a n \begin{aligned} L_n &= \sum_{k=1}^n f(x_{k-1})\Delta x \\ &= \sum_{k=0}^{n-1} f(x_k)\Delta x \\ &= \sum_{k=0}^{n-1} f\!\left(a +\frac{b-a}n k \right) \frac{b-a}n \end{aligned} L n ​ ​ = k = 1 ∑ n ​ f ( x k − 1 ​ ) Δ x = k = 0 ∑ n − 1 ​ f ( x k ​ ) Δ x = k = 0 ∑ n − 1 ​ f ( a + n b − a ​ k ) n b − a ​ ​
+n → ∞ n\to\infty n → ∞ 의 극한을 취하면
+
+lim ⁡ n → ∞ L n = lim ⁡ n → ∞ R n = S \begin{aligned} \lim_{n\to\infty} L_n = \lim_{n\to\infty} R_n = S \end{aligned} n → ∞ lim ​ L n ​ = n → ∞ lim ​ R n ​ = S ​
+가 성립한다. 곧, 리만 왼쪽 합과 리만 오른쪽 합의 극한은 일치한다. 이를
+
+S = ∫ a b f ( x ) d x \begin{aligned} S = \int_a^b f(x) \,{\rm d}x \end{aligned} S = ∫ a b ​ f ( x ) d x ​
+로 쓰고 구간 [ a , b ] \boldsymbol{[a, b]} [ a , b ] 에서의 함수 f ( x ) \boldsymbol{f(x)} f ( x ) 의 정적분 이라 정의하며, 기호 ∫ \displaystyle\int ∫ 은 인티그럴 또는 인테그랄이라 읽는다. 또한 a a a , b b b 를 각각 하한(아래끝) , 상한(위끝) 이라 한다.
+
+일반적 [4] 으로 무한히 분할했을 때 리만 왼쪽 합과 리만 오른쪽 합은 같게 되는데 이를 초등적으로 증명하여 보자. 두 합의 차는
+
+R n − L n = ∑ k = 1 n { f ( x k ) − f ( x k − 1 ) } Δ x = { f ( x n ) − f ( x 0 ) } Δ x = ( b − a ) { f ( b ) − f ( a ) } n \begin{aligned} R_n - L_n &= \sum_{k=1}^n \{ f(x_k)-f(x_{k-1}) \} \Delta x \\ &= \{ f(x_n)-f(x_0) \} \Delta x \\ & = \dfrac{(b-a)\{ f(b)-f(a) \}}n \end{aligned} R n ​ − L n ​ ​ = k = 1 ∑ n ​ { f ( x k ​ ) − f ( x k − 1 ​ )} Δ x = { f ( x n ​ ) − f ( x 0 ​ )} Δ x = n ( b − a ) { f ( b ) − f ( a )} ​ ​
+이고, n → ∞ n\to\infty n → ∞ 일 때 분자는 결국 상수여서 R n − L n → 0 R_n - L_n \to 0 R n ​ − L n ​ → 0 이므로 L n L_n L n ​ , R n R_n R n ​ 은 같은 값으로 수렴한다. 이것을 구간 내 함숫값이 양인 경우에 한하여 시각화하면 아래 와 같다. 적색 영역은 리만 오른쪽 합과 리만 왼쪽 합의 오차를 나타낸 것이다.
+
+더 자세하게 파고들면 사실 증분이 일정할 필요도 없고, 구간 내에서 함숫값을 왼쪽 경계나 오른쪽 경계로 택할 필요도 없으나 [5] 고등학교 과정에선 너무 번잡하기 때문에 가장 간단한 형태로 교육하는 것이다. 이런 복잡한 정의는 유리함수 의 정적분이 로그함수 임을 증명하는 데 중요하게 쓰인다.
+
+3. 다르부 적분 [편집]
+다르부 積 分 / Darboux integral / 프랑스어 Intégrale de Darboux
+
+위에서는 리만 왼쪽 합 또는 오른쪽 합을 통해 정적분을 계산했는데, 학부수준에서는 상합과 하합을 통해서 정적분을 정의한다. 가장 큰 이유는 왼쪽 합이나 오른쪽 합을 사용시 분할 방법에 따라 값이 달라지는 경우가 생겨서 적분이 잘 정의 되지 않기 때문이다. [6] 물론 상술한 바와 같이 분할에 무관한 경우나 함수값 선택에 무관한 경우만 적분가능하다고 엄밀하게 정의할 수도 있으나 [7] 실제 계산시 이를 확인하기는 엄청나게 귀찮은데, 프랑스의 수학자 가스통 다르부 가 정의한 다르부 적분 을 쓰면 이런 골칫거리가 한번에 해결된다.
+
+우선, 유계 인 함수 [8] f ⁣ : [ a , b ] → R f\!: [a, b] \to \R f : [ a , b ] → R 에 대하여 구간 [ a , b ] [a, b] [ a , b ] 를 n n n 개로 쪼개어 [9] a a a 부터 b b b 까지의 각 분할점을 잡아 a = x 0 a = x_0 a = x 0 ​ , x 1 x_1 x 1 ​ , x 2 x_2 x 2 ​ , ⋯ \cdots ⋯ , x n = b x_n = b x n ​ = b 라 하자. 여기서 1 ≤ k ≤ n 1 \le k \le n 1 ≤ k ≤ n 인 각각의 자연수 k k k 에 대하여 x k − 1 ≤ x k x_{k-1} \le x_k x k − 1 ​ ≤ x k ​ 가 성립한다고 하자. 한편, 구간 [ a , b ] [a, b] [ a , b ] 의 분할 P P P 를 P = { x 0 , x 1 , x 2 , ⋯ , x n } P = \{x_0, x_1, x_2, \cdots, x_n\} P = { x 0 ​ , x 1 ​ , x 2 ​ , ⋯ , x n ​ } 이라 하자. 이때, 유계인 함수 f ( x ) f(x) f ( x ) 는 실수의 완비성 공리에 의하여 각 소구간 [ x k − 1 , x k ] [x_{k-1}, x_k] [ x k − 1 ​ , x k ​ ] 에서 상한(최소상계) M k M_k M k ​ 와 하한(최대하계) m k m_k m k ​ 가 각각 존재한다. [10] 분할 P P P 에 대한 f f f 의 상합, 하합을 아래와 같이 정의하며, 기호로 U ( P , f ) U(P, f) U ( P , f ) , L ( P , f ) L(P, f) L ( P , f ) 로 각각 나타낸다. [11] [12]
+
+U ( P , f ) = ∑ k = 1 n M k ( x k − x k − 1 ) L ( P , f ) = ∑ k = 1 n m k ( x k − x k − 1 ) \begin{aligned} \displaystyle U(P, f) &= \sum_{k=1}^n M_k (x_k - x_{k-1}) \\ L(P, f)&= \sum_{k=1}^n m_k (x_k - x_{k-1}) \end{aligned} U ( P , f ) L ( P , f ) ​ = k = 1 ∑ n ​ M k ​ ( x k ​ − x k − 1 ​ ) = k = 1 ∑ n ​ m k ​ ( x k ​ − x k − 1 ​ ) ​
+
+언뜻 보기에는 상합을 계산하는 방식이 리만 오른쪽 합으로 정적분을 계산하는 것과 같아 보일 수 있다. 그러나 상합을 계산하는 함수의 그림에서 함수가 감소하는 부분을 살펴보자. 리만 오른쪽 합으로 계산하고자 하였을 때 감소하는 부분의 각 소구간에서 택하게 될 x k x_k x k ​ 에서의 함숫값 f ( x k ) f(x_k) f ( x k ​ ) 는 상합을 계산하기 위해서 선택되지 않았고, 그 대신 상합의 정의에 따라 각 구간의 함숫값의 상한이 선택되었음을 확인할 수 있다. 하합을 계산하는 것도 마찬가지로 생각해보면 된다.
+
+한편 구간 [ a , b ] [a, b] [ a , b ] 의 분할 전체의 집합 P [ a , b ] \mathcal P [a, b] P [ a , b ] [13] 에 대하여 상합의 하한을 상적분, 하합의 상한을 하적분이라 정의하고 상적분, 하적분을 각각 다음과 같이 쓴다.
+
+∫ a b ‾ f ( x ) d x = inf ⁡ { U ( P , f ) ∣ P ∈ ( P [ a , b ] ) } ∫ a b ‾ f ( x ) d x = sup ⁡ { L ( P , f ) ∣ P ∈ ( P [ a , b ] ) } \begin{aligned} \overline{\int_a^b} f(x) \,{\rm d}x &= \inf{\{U(P, f)\mid P\in (\mathcal P[a, b])\}} \\ \underline{\int_a^b} f(x) \,{\rm d}x &= \sup{\{L(P, f)\mid P\in (\mathcal P[a, b])\}} \end{aligned} ∫ a b ​ ​ f ( x ) d x ∫ a b ​ ​ f ( x ) d x ​ = in f { U ( P , f ) ∣ P ∈ ( P [ a , b ])} = sup { L ( P , f ) ∣ P ∈ ( P [ a , b ])} ​
+다음과 같이 상적분과 하적분 값이 같을 때, f f f 는 구간 [ a , b ] [a, b] [ a , b ] 에서 다르부 적분 가능 이라 하고, 그 값을 정적분이라 정의하면 수학적으로 잘 정의된다.
+
+∫ a b ‾ f ( x ) d x = ∫ a b ‾ f ( x ) d x = ∫ a b f ( x ) d x \begin{aligned} \overline{\int_a^b} f(x) \,{\rm d}x = \underline{\int_a^b} f(x) \,{\rm d}x = \int_a^b f(x) \,{\rm d}x \end{aligned} ∫ a b ​ ​ f ( x ) d x = ∫ a b ​ ​ f ( x ) d x = ∫ a b ​ f ( x ) d x ​
+
+4. 기하학적 의미 [편집]
+닫힌 구간 [ a , b ] [a, b] [ a , b ] 에서 유계이고 음이 아닌 함수 f ( x ) f(x) f ( x ) 를 생각해보자.
+
+위에서 정의했던 리만 오른쪽 합
+
+R n = ∑ k = 1 n f ( x k ) Δ x = ∑ k = 1 n f ⁣ ( a + b − a n k ) b − a n \begin{aligned} R_n &= \sum_{k=1}^n f(x_k) \Delta x \\ &= \sum_{k=1}^n f\!\left(a +\frac{b-a}n k \right) \frac{b-a}n \end{aligned} R n ​ ​ = k = 1 ∑ n ​ f ( x k ​ ) Δ x = k = 1 ∑ n ​ f ( a + n b − a ​ k ) n b − a ​ ​
+의 각 항의 의미를 해석하면 너비가 Δ x \Delta x Δ x 이고, 높이가 f ( x k ) f(x_k) f ( x k ​ ) 인 직사각형들의 넓이를 더해나가는 연산임을 알 수 있다. 이에 무수히 많은 직사각형들로 분할한다면, 리만 오른쪽 합은 곧 y = f ( x ) y=f(x) y = f ( x ) 와 x = a x=a x = a , x = b x=b x = b , x x x 축으로 둘러싸인 영역의 넓이에 수렴하게 된다. 이것은 리만 왼쪽 합
+
+L n = ∑ k = 0 n − 1 f ( x k ) Δ x = ∑ k = 0 n − 1 f ⁣ ( a + b − a n k ) b − a n \begin{aligned} L_n &= \sum_{k=0}^{n-1} f(x_k) \Delta x \\ &= \sum_{k=0}^{n-1} f\!\left(a +\frac{b-a}n k \right) \frac{b-a}n \end{aligned} L n ​ ​ = k = 0 ∑ n − 1 ​ f ( x k ​ ) Δ x = k = 0 ∑ n − 1 ​ f ( a + n b − a ​ k ) n b − a ​ ​
+의 경우에도 같은 방법으로 해석할 수 있다.
+
+만약 함수가 음의 값을 가진다면 f ( x k ) = − ∣ f ( x k ) ∣ f(x_k) = -|f(x_k)| f ( x k ​ ) = − ∣ f ( x k ​ ) ∣ 로 취급하여 각 항은 너비가 Δ x \Delta x Δ x 이고, 높이가 ∣ f ( x k ) ∣|f(x_k)| ∣ f ( x k ​ ) ∣ 인 직사각형 높이에 음을 붙인 값이라 해석할 수 있다. 따라서 함숫값이 음인 구간 [ a ∗ , b ∗ ] [a^\ast, b^\ast] [ a ∗ , b ∗ ] 에 대해서는 리만 왼쪽 합과 리만 오른쪽 합은 무수히 많은 직사각형으로 분할했을 때 y = f ( x ) y=f(x) y = f ( x ) 의 그래프와 x = a ∗ x=a^\ast x = a ∗ , x = b ∗ x=b^\ast x = b ∗ , x x x 축으로 둘러싸인 영역의 넓이에 음을 붙인 값으로 수렴하게 될 것이다.
+
+아래는 위의 내용을 시각화한 것이다.
+
+즉, 함숫값이 양인 구간 [ a , b ] [a, b] [ a , b ] 에서는 y = f ( x ) y=f(x) y = f ( x ) 와 x = a x=a x = a , x = b x=b x = b , x x x 축으로 둘러싸인 영역의 넓이와 그 구간에 대한 정적분 값은 같으며, 음인 구간 [ a ∗ , b ∗ ] [a^\ast, b^\ast] [ a ∗ , b ∗ ] 에서는 y = f ( x ) y=f(x) y = f ( x ) 와 x = a ∗ x=a^\ast x = a ∗ , x = b ∗ x=b^\ast x = b ∗ , x x x 축으로 둘러싸인 영역의 넓이와 그 구간에 대한 정적분 값은 반수(opposite number) 관계가 된다.
+
+당연히 일반적으로는 한 함수에서 함숫값이 양이 되는 구간과 음이 되는 구간 둘 다 존재할 수 있다. 이때 전체 구간에 대한 정적분은 양인 구간들에 대한 넓이의 합에서 음인 구간들에 대한 넓이를 뺀 값과 같다.
+
+이 사항들을 수학적으로 정리하면 다음과 같다. - ∫ a b f ( x ) d x = ∫ a b ∣ f ( x ) ∣ d x ⇔ f ( x ) ≥ 0 ( a ≤ x ≤ b ) \displaystyle \int_a^b f(x) \,{\rm d}x = \int_a^b |f(x)| \,{\rm d}x \quad\Leftrightarrow\quad f(x) \ge 0\;(a\le x\le b) ∫ a b ​ f ( x ) d x = ∫ a b ​ ∣ f ( x ) ∣ d x ⇔ f ( x ) ≥ 0 ( a ≤ x ≤ b )
+- ∫ a b f ( x ) d x = − ∫ a b ∣ f ( x ) ∣ d x ⇔ f ( x ) ≤ 0 ( a ≤ x ≤ b ) \displaystyle \int_a^b f(x) \,{\rm d}x = -\int_a^b |f(x)| \,{\rm d}x \quad\Leftrightarrow\quad f(x) \le 0\;(a\le x\le b) ∫ a b ​ f ( x ) d x = − ∫ a b ​ ∣ f ( x ) ∣ d x ⇔ f ( x ) ≤ 0 ( a ≤ x ≤ b )
+- ∫ a b ∣ f ( x ) ∣ d x ≥ ∣ ∫ a b f ( x ) d x ∣ \displaystyle \int_a^b |f(x)| \,{\rm d}x ≥ \left| \displaystyle \int_a^b f(x) \,{\rm d}x \right| ∫ a b ​ ∣ f ( x ) ∣ d x ≥ ​ ∫ a b ​ f ( x ) d x ​
+
+5. 계산 [편집]
+미적분의 제2 기본정리 에 따라 함수 f ( x ) f(x) f ( x ) 의 역도함수를 F ( x ) F(x) F ( x ) 라고 하면 다음과 같이 계산하는 것이 편리하다. (단, 이 계산법을 이용하려면 이 함수 f ( x ) f(x) f ( x ) 는 계산하는 범위 [ a , b ] [a,~b] [ a , b ] 에서 연속이어야 한다. [14] )
+
+∫ a b f ( x ) d x = F ( b ) − F ( a ) \displaystyle \int_a^b f(x) \,{\rm d}x = F(b)-F(a) ∫ a b ​ f ( x ) d x = F ( b ) − F ( a )
+또한, 정적분에서
+
+F ( b ) − F ( a ) = [ F ( x ) ] a b = F ( x ) ∣ a b \displaystyle F(b)-F(a) = \biggl[ F(x) \biggr]_a^b = F(x) \biggr|_a^b \\ F ( b ) − F ( a ) = [ F ( x ) ] a b ​ = F ( x ) ​ a b ​
+등으로 표기하는데 위 두 표기법이 가장 널리 쓰인다. 한편, 정적분에서는 부정적분 과 달리 적분 상수를 쓰지 않는다. 어떠한 역도함수의 함숫값의 차로 계산되어 해당 상수가 소거되기 때문이다.
+
+만약 피적분함수와 역도함수가 모두 초등함수 인 경우, 리시 방법 을 이용해서 정적분을 표현할 수 있다.
+
+6. 정적분 기호의 초등적 의미 [편집]
+이 문단의 설명은 상당히 초등적 이어서 고등학교 과정 내에서만 적용되고, 학부 과정 이후는 모두 포괄하지 못함에 유의하자.
+
+∫ a b f ( x ) \displaystyle \int_a^b f(x) ∫ a b ​ f ( x ) 의 의미를 제대로 이해해야 한다. 흔히, ∫ a b ⋯ d x \displaystyle \int_a^b \cdots \,{\rm d}x ∫ a b ​ ⋯ d x 를 하나의 덩어리로 삼고 이것을 '이 사이에 들어간 함수를 a \boldsymbol a a 부터 b \boldsymbol b b 까지 정적분 '하라는 단순한 기호로 알고 넘어가곤 한다.
+
+∫ a b f ( x ) d x = lim ⁡ n → ∞ ∑ k = 1 n f ( x k ) Δ x \begin{aligned} \displaystyle \int_a^b f(x) \,{\rm d}x &= \lim_{n\to\infty} \sum_{k=1}^n f(x_k) \Delta x \end{aligned} ∫ a b ​ f ( x ) d x ​ = n → ∞ lim ​ k = 1 ∑ n ​ f ( x k ​ ) Δ x ​
+대체 왜 좌변의 식이 우변과 같이 표현될까? 우선, ∫ \displaystyle \int ∫ 의 진정한 속뜻부터 이해하자. 적분하라는 뜻으로만 받아들여서는 안 된다. 먼저, 단어에도 어원이 있듯이, 기호 ∫ \displaystyle \int ∫ 은 근원 자체가 알파벳 S를 길게 늘어뜨린 것이고, 이 S는 영어 sum의 머리글자이며, sum은 합 ( 合 )이라는 뜻이다. 왜 갑자기 합이 나올까? 적분의 '적'은 積 (쌓을 적)이다. 적분이란 그냥 미분의 역연산인 게 아니라 본디는 도형을 잘게 잘라서 그 조각들을 쌓아올려 모두 합 하는 계산이다. 미적분의 기본정리 때문에 미분과 적분이 서로 역연산이라는 사실 [15] 이 추후 밝혀진 것이지, 처음부터 "미분이라는 연산이 있다. 이제 미분의 반대를 적분이라고 하자." 해서 적분이 나온 게 아니다. [16] 그런 만큼 적분을 단순히 미분의 역연산으로만 생각하면 안 된다. 정적분의 정의에 등장하는 ∑ k = 1 n \sum_{k=1}^n ∑ k = 1 n ​ 역시 합 하는 계산이다. 요컨대 ∫ \displaystyle \int ∫ 이라는 기호는, 정적분의 정의에서 lim ⁡ n → ∞ ∑ k = 1 n \displaystyle \lim\limits_{n\to\infty} \sum_{k=1}^n n → ∞ lim ​ k = 1 ∑ n ​ 이 부분이 너무 복잡하니까 줄인 것이다.
+
+다음으로 f ( x k ) f(x_k) f ( x k ​ ) 와 f ( x ) f(x) f ( x ) 를 보자. k k k 는 갑자기 어디로 갔을까? 앞서 말했듯이 x k x_k x k ​ 는 공차가 ( b − a ) n \dfrac{(b-a)}n n ( b − a ) ​ 인 등차수열이다. 그런데 n n n 이 무한히 커지면 공차는 0에 수렴한다. 그 말은, 등차수열 x k x_k x k ​ 의 항들이 닫힌 구간 [ a , b ] [a, b] [ a , b ] 에서 더 이상 이산적이지 않고 연속적으로 늘어서게 된다는 것이다. 이산적으로 늘어서 있다면 닫힌 구간 [ a , b ] [a, b] [ a , b ] 에 있는 수열 x k x_k x k ​ 의 특정한 항이 몇 번째 항인지 말할 수 있으나 공차가 0에 수렴해 버리면 몇 번째라고 말할 수 없다. 0과 1 사이의 실수 중에서 0.5가 몇 번째로 큰지 말할 수 없는 것과 같다. 그러니 f ( x k ) f(x_k) f ( x k ​ ) 에서, 몇 번째인지를 말하는 k k k 가 빠져 버리고 f ( x ) f(x) f ( x ) 만 쓰는 것이다.
+
+마지막으로 Δ x \Delta x Δ x 와 d x {\rm d}x d x 를 보도록 하자. 분할의 개수가 매우 증가하여 Δ x \Delta x Δ x 가 극히 작아짐에 따라 해당 수는 무한소 로 취급할 수 있게 되고, Δ x → d x \Delta x\to{\rm d}x Δ x → d x 로 취급하는 것이다.
+
+정적분이 합의 계산이라는 점은 다음 식에서 극명하게 드러나는데, 적분식의 d x {\rm d}x d x 를 d \rm d d ⌊ x ⌋ \lfloor x \rfloor ⌊ x ⌋ 로 바꾸면 극한 기호와 Δ x \Delta x Δ x 가 없어져서 완전히 합으로만 표현된다.
+
+∑ k = a b f ( k ) = ∫ a b f ( x ) d ⌊ x ⌋ \displaystyle \sum_{k=a}^b f(k) = \int_a^b f(x) \,{\rm d}\lfloor x \rfloor k = a ∑ b ​ f ( k ) = ∫ a b ​ f ( x ) d ⌊ x ⌋
+이제 ∫ a b f ( x ) d x \int_a^b f(x) \,{\rm d}x ∫ a b ​ f ( x ) d x 의 뜻을 한꺼번에 해석해 보자. 어떤 도형을 무한히 많은 직사각형들로 분할하면 한 직사각형의 높이 f ( x ) f(x) f ( x ) 와 밑변의 길이 d x {\rm d}x d x 를 곱해서 나오는 한 직사각형의 넓이 f ( x ) d x f(x) \,{\rm d}x f ( x ) d x 가 나오는데, 이 수많은 f ( x ) d x f(x) \,{\rm d}x f ( x ) d x 들을 모두 더하라( ∫ \displaystyle\int ∫ )는 뜻이다. 이 일련의 과정에, 정적분 이라는 이름을 붙인 것이다. 이런 딱지를 붙였기에 결과적으로는 ∫ a b f ( x ) d x \displaystyle \int_a^b f(x) \,{\rm d}x ∫ a b ​ f ( x ) d x 가 f ( x ) f(x) f ( x ) 를 a a a 부터 b b b 까지 정적분하라는 뜻이 되는 셈이다.
+
+7. 연산의 성질 [편집]
+정적분에 대하여 다음의 연산이 성립한다. - ∫ a b [ f ( x ) ± g ( x ) ] d x = ∫ a b f ( x ) d x ± ∫ a b g ( x ) d x \displaystyle \int_a^b [ f(x) \pm g(x) ] \,{\rm d}x = \int_a^b f(x) \,{\rm d}x \pm \int_a^b g(x) \,{\rm d}x ∫ a b ​ [ f ( x ) ± g ( x )] d x = ∫ a b ​ f ( x ) d x ± ∫ a b ​ g ( x ) d x
+- ∫ a b f ( x ) d x = ∫ a c f ( x ) d x + ∫ c b f ( x ) d x \displaystyle \int_a^b f(x) \,{\rm d}x = \int_a^c f(x) \,{\rm d}x +\int_c^b f(x) \,{\rm d}x ∫ a b ​ f ( x ) d x = ∫ a c ​ f ( x ) d x + ∫ c b ​ f ( x ) d x [17]
+- ∫ a b f ( x ) d x = − ∫ b a f ( x ) d x \displaystyle \int_a^b f(x) \,{\rm d}x = -\int_b^a f(x) \,{\rm d}x ∫ a b ​ f ( x ) d x = − ∫ b a ​ f ( x ) d x
+- ∫ a a f ( x ) d x = 0 \displaystyle \int_a^a f(x) \,{\rm d}x = 0 ∫ a a ​ f ( x ) d x = 0 [18]
+- ∫ a b k f ( x ) d x = k ∫ a b f ( x ) d x \displaystyle \int_a^b kf(x) \,{\rm d}x = k\int_a^b f(x) \,{\rm d}x ∫ a b ​ k f ( x ) d x = k ∫ a b ​ f ( x ) d x (단, k k k 는 상수)
+- ∫ a b ∣ f ( x ) ∣ d x ≥ ∣ ∫ a b f ( x ) d x ∣ ∀ a , b \displaystyle \int_a^b |f(x)| \,{\rm d}x \ge \left| \int_a^b f(x) \,{\rm d}x \right| \quad \forall a, b ∫ a b ​ ∣ f ( x ) ∣ d x ≥ ​ ∫ a b ​ f ( x ) d x ​ ∀ a , b (단, a , b a, b a , b 는 a ≤ b a\le b a ≤ b 인 상수) - 등호는 구간 [ a , b ] [a, b] [ a , b ] 에서 모든 x x x 에 대하여 f ( x ) ≥ 0 f(x) \ge 0 f ( x ) ≥ 0 이거나 모든 x x x 에 대하여 f ( x ) ≤ 0 f(x) \le 0 f ( x ) ≤ 0 일 때 성립
+- f ( x ) ≥ g ( x ) ⟺ ∫ a b f ( x ) d x ≥ ∫ a b g ( x ) d x ∀ a , b \displaystyle f(x) \ge g(x) \iff \int_a^b f(x) \,{\rm d}x \ge \int_a^b g(x) \,{\rm d}x \quad \forall a, b f ( x ) ≥ g ( x ) ⟺ ∫ a b ​ f ( x ) d x ≥ ∫ a b ​ g ( x ) d x ∀ a , b (단, a , b a, b a , b 는 a ≤ b a\le b a ≤ b 인 상수)
+증명 [펼치기·접기]
+먼저 if 명제( ⟹ \implies ⟹ )를 증명하자.
+
+정적분의 정의에 의하여
+
+∫ a b f ( x ) d x = lim ⁡ n → ∞ ∑ k = 1 n f ( a + b − a n k ) b − a n ∫ a b g ( x ) d x = lim ⁡ n → ∞ ∑ k = 1 n g ( a + b − a n k ) b − a n \begin{aligned} \displaystyle \int_a^b f(x) \,{\rm d}x &= \lim_{n\to\infty} \sum_{k=1}^n f\left(a +\dfrac{b-a}n k\right) \dfrac{b-a}n \\ \int_a^b g(x) \,{\rm d}x &= \lim_{n\to\infty} \sum_{k=1}^n g\left(a +\dfrac{b-a}n k\right) \dfrac{b-a}n \end{aligned} ∫ a b ​ f ( x ) d x ∫ a b ​ g ( x ) d x ​ = n → ∞ lim ​ k = 1 ∑ n ​ f ( a + n b − a ​ k ) n b − a ​ = n → ∞ lim ​ k = 1 ∑ n ​ g ( a + n b − a ​ k ) n b − a ​ ​
+인데 f ( x ) ≥ g ( x ) f(x) \ge g(x) f ( x ) ≥ g ( x ) 인 이상 모든 a a a , b b b , k k k 에 대하여
+
+f ( a + b − a n k ) ≥ g ( a + b − a n k ) f\left(a +\dfrac{b-a}n k\right) \ge g\left(a +\dfrac{b-a}n k\right) f ( a + n b − a ​ k ) ≥ g ( a + n b − a ​ k )
+이므로 증명하고자 하는 부등식이 성립한다.
+
+이제 그 역을 증명하자. 모든 a a a , b b b , k k k 에 대하여
+
+f ( a + b − a n k ) ≥ g ( a + b − a n k ) f\left(a +\dfrac{b-a}n k\right) \ge g\left(a +\dfrac{b-a}n k\right) f ( a + n b − a ​ k ) ≥ g ( a + n b − a ​ k )
+이 성립한다는 것은 곧 모든 실수 x x x 에 대하여 f ( x ) ≥ g ( x ) f(x) \ge g(x) f ( x ) ≥ g ( x ) 임을 함의함이 자명하다.
+기하학적 해석 [펼치기·접기]
+예제 [펼치기·접기] 2025학년도 3월 고3 14번
+
+이곳 에서 a a a 의 값을 − 2 ≤ a ≤ 4 -2 \le a \le 4 − 2 ≤ a ≤ 4 의 범위에서 조절해 가며 곡선 y = f ( x ) y=f(x) y = f ( x ) 와 그 접선의 위치 관계를 파악할 수 있다. 단, 그래프가 한눈에 들어오도록 하기 위하여 문제와는 달리 f ( x ) = 0.2 ( x + 1 ) 2 ( x − 3 ) 2 + x − 2 f(x) = 0.2(x+1)^2(x-3)^2 +x -2 f ( x ) = 0.2 ( x + 1 ) 2 ( x − 3 ) 2 + x − 2 로 지정되어 있으나, 전체적인 개형은 동일하다.
+
+문제에서 조건으로 주어진 부등식의 양변에 ∫ x 1 x 2 f ( a ) d t \displaystyle \int_{x_1}^{x_2} f(a) \,{\rm d}t ∫ x 1 ​ x 2 ​ ​ f ( a ) d t 를 더하면
+
+∫ x 1 x 2 f ( t ) d t ≥ ∫ x 1 x 2 { f ′ ( a ) ( t − a ) + f ( a ) } d t \displaystyle \int_{x_1}^{x_2} f(t) \,{\rm d}t \ge \int_{x_1}^{x_2} \{f'(a)(t-a)+f(a)\} \,{\rm d}t ∫ x 1 ​ x 2 ​ ​ f ( t ) d t ≥ ∫ x 1 ​ x 2 ​ ​ { f ′ ( a ) ( t − a ) + f ( a )} d t
+이며, 앞서 밝힌 정적분의 성질에 따라 위 부등식은 다음 부등식과 동치이다.
+
+f ( t ) ≥ f ′ ( a ) ( t − a ) + f ( a ) f(t) \ge f'(a)(t-a) +f(a) f ( t ) ≥ f ′ ( a ) ( t − a ) + f ( a )
+즉, 이 부등식 역시 a ≤ − 1 a \le -1 a ≤ − 1 또는 a ≥ 3 a \ge 3 a ≥ 3 일 때 성립한다. 말을 바꾸면, − 1 < a < 3 -1 < a < 3 − 1 < a < 3 일 경우
+
+f ( t ) < f ′ ( a ) ( t − a ) + f ( a ) f(t) < f'(a)(t-a) +f(a) f ( t ) < f ′ ( a ) ( t − a ) + f ( a )
+인 t t t 의 값이 존재한다고도 할 수 있다. 이때, y = f ′ ( a ) ( t − a ) + f ( a ) y = f'(a)(t-a) +f(a) y = f ′ ( a ) ( t − a ) + f ( a ) 는 곡선 y = f ( t ) y=f(t) y = f ( t ) 위의 점 ( a , f ( a ) ) (a, f(a)) ( a , f ( a )) 에서의 접선의 방정식이다. 따라서 문제의 조건은 곡선 y = f ( x ) y=f(x) y = f ( x ) 에 대하여 x = a x=a x = a 에서 접하는 직선을 그을 때, − 1 ≤ a ≤ 3 -1\le a\le3 − 1 ≤ a ≤ 3 일 경우에 한하여 그 접선이 곡선 y = f ( x ) y=f(x) y = f ( x ) 보다 위로 '삐져나온다'는 뜻이 된다. 이러한 기하학적 조건을 만족시키는 사차함수 f ( x ) f(x) f ( x ) 의 그래프는 다음과 같다.
+
+곧, 곡선 y = f ( x ) y=f(x) y = f ( x ) 는 x = − 1 x=-1 x = − 1 및 x = 3 x=3 x = 3 에서 접하는 이중접선 y = p x + q y=px+q y = p x + q 를 가져야 한다. 따라서
+
+f ( x ) = ( x + 1 ) 2 ( x − 3 ) 2 + p x + q f(x) = (x+1)^2(x-3)^2 +px +q f ( x ) = ( x + 1 ) 2 ( x − 3 ) 2 + p x + q
+이며, f ( 1 ) = 15 f(1)=15 f ( 1 ) = 15 , f ′ ( 1 ) = 1 f'(1)=1 f ′ ( 1 ) = 1 에서 p = 1 p=1 p = 1 , q = − 2 q=-2 q = − 2 가 도출되며, 이에 따라 정답은 f ( 4 ) = 27 f(4)=27 f ( 4 ) = 27 이다.
+
+여기에서, − 1 < a < 3 -1<a<3 − 1 < a < 3 인 경우를 조금 더 자세히 논해 보자.
+
+위 그림과 같이 − 1 < a < 3 -1<a<3 − 1 < a < 3 인 경우에는 접선이 곡선보다 위에 위치하는 구간이 발생한다. 그 구간 중 하나를 ( m , n ) (m, n) ( m , n ) 이라 하자. 그러면 충분히 작은 음이 아닌 실수 ε \varepsilon ε [19] 에 대하여 다음이 성립한다.
+
+∫ m + ε n − ε f ( x ) d x < ∫ m + ε n − ε { f ′ ( a ) ( x − a ) + f ( a ) } d x \displaystyle \int_{m+\varepsilon}^{n-\varepsilon} f(x) \,{\rm d}x < \int_{m+\varepsilon}^{n-\varepsilon} \{ f'(a)(x-a) +f(a) \} \,{\rm d}x ∫ m + ε n − ε ​ f ( x ) d x < ∫ m + ε n − ε ​ { f ′ ( a ) ( x − a ) + f ( a )} d x
+위 그림에서는 ε = 0 \varepsilon=0 ε = 0 인 경우를 나타내고 있다. 이때 다음이 성립하는 것이다.
+
+∫ m n f ( x ) d x = S 1 < S 1 + S 2 = ∫ m n { f ′ ( a ) ( x − a ) + f ( a ) } d x \begin{aligned} \displaystyle \int_m^n f(x) \,{\rm d}x &= S_1 < S_1 + S_2 \\ &= \int_m^n \{ f'(a)(x-a) +f(a) \} \,{\rm d}x \end{aligned} ∫ m n ​ f ( x ) d x ​ = S 1 ​ < S 1 ​ + S 2 ​ = ∫ m n ​ { f ′ ( a ) ( x − a ) + f ( a )} d x ​
+이는 문제에서 주어진 부등식을 위배하는 x 1 x_1 x 1 ​ 및 x 2 x_2 x 2 ​ 의 값을 찾아낸 결과가 된다. 꼭 정적분의 구간이 [ m + ε , n − ε ] [m+\varepsilon, n-\varepsilon] [ m + ε , n − ε ] 의 꼴이 아니더라도, 정적분의 구간 [ m 0 , n 0 ] [m_0, n_0] [ m 0 ​ , n 0 ​ ] 에 대하여 m ≤ m 0 < n 0 ≤ n m \le m_0 < n_0 \le n m ≤ m 0 ​ < n 0 ​ ≤ n 이기만 하면 그 m 0 m_0 m 0 ​ 와 n 0 n_0 n 0 ​ 의 값은 문제에서 주어진 부등식을 위배하는 x 1 x_1 x 1 ​ 및 x 2 x_2 x 2 ​ 의 값의 훌륭한 예시가 된다고 할 수 있다.
+
+반면, 아래의 네 식들 중 어떤 두 식을 고르더라도 값이 같다는 보장이 없다. - ∫ a b f ( x ) g ( x ) d x \displaystyle \int_a^b f(x)g(x) \,{\rm d}x ∫ a b ​ f ( x ) g ( x ) d x
+- g ( x ) ∫ a b f ( x ) d x \displaystyle g(x) \int_a^b f(x) \,{\rm d}x g ( x ) ∫ a b ​ f ( x ) d x
+- f ( x ) ∫ a b g ( x ) d x \displaystyle f(x) \int_a^b g(x) \,{\rm d}x f ( x ) ∫ a b ​ g ( x ) d x
+- ∫ a b f ( x ) d x ∫ a b g ( x ) d x \displaystyle \int_a^b f(x) \,{\rm d}x \int_a^b g(x) \,{\rm d}x ∫ a b ​ f ( x ) d x ∫ a b ​ g ( x ) d x
+
+8. 응용 [편집]
+
+8.1. 정적분으로 정의된 함수 [편집]
+정적분으로 나오는 값도 상한 혹은 하한에 따라 달라지므로 상한 혹은 하한에 변수를 삽입하여 해당 변수에 대한 함수로 취급할 수 있다. 그러한 함수
+
+f ( x ) = ∫ a x g ( t ) d t \displaystyle f(x) = \int_a^x g(t) \,{\rm d}t f ( x ) = ∫ a x ​ g ( t ) d t
+를 정적분으로 정의된 함수 라 한다. [20]
+
+이 함수를 해석할 때는 함수에서의 변수와 정적분에서의 변수가 다르다는 사실에 유의하여야 한다. 우선 위에서 예를 든 함수에서 정적분은 t t t 에 대해서 하는 것이므로 t t t 에만 적용되어 적분이 끝나면 t t t 는 사라지고 상한에 포함된 새로운 변수 x x x 에 대한 함수로만 남는다. 적분 안에 함수의 변수가 포함된다면 그 변수는 정적분에서 취급하는 변수가 아님에 따라 정적분 안에서는 상수로 취급된다.
+
+미적분의 기본정리 의 첫째 내용에 따르면, 다음이 성립한다. 증명은 미적분의 기본정리 참고. 적분의 위끝과 아래끝이 단순히 x x x 가 아니라 x x x 에 관한 어떤 식일 경우에 대한 미분법은 정적분으로 정의된 함수의 미분 참고.
+
+d d x ∫ a x f ( t ) d t = f ( x ) \displaystyle \frac{\rm d}{{\rm d}x} \int_a^x f(t) \,{\rm d}t = f(x) d x d ​ ∫ a x ​ f ( t ) d t = f ( x )
+특수함수 중 상당수가 이 정적분으로 정의된 함수들이다. 대표적으로 정수론 에서 심심하면 튀어나오는 로그 적분 함수 가 있는데, 자연로그 의 역수를 정적분한 것이다.
+
+8.2. 무한급수를 정적분으로 나타내기 [편집]
+정적분이 무한급수를 통하여 정의되었듯, 특수한 꼴의 무한급수
+
+lim ⁡ n → ∞ ∑ k = 1 n f ( a + b − a n k ) b − a n = lim ⁡ n → ∞ ∑ k = 1 n f ( a + p n k ) p n \displaystyle \lim_{n\to\infty} \sum_{k=1}^n f \left( a +\frac{b-a}n k \right) \frac{b-a}n = \lim_{n\to\infty} \sum_{k=1}^n f \left( a+\frac pn k \right) \frac pn n → ∞ lim ​ k = 1 ∑ n ​ f ( a + n b − a ​ k ) n b − a ​ = n → ∞ lim ​ k = 1 ∑ n ​ f ( a + n p ​ k ) n p ​
+는 다음과 같이 정적분으로 나타낼 수 있다. - x k = a + p n k x_k = a +\dfrac pn k x k ​ = a + n p ​ k , Δ x = p n \Delta x = \dfrac pn Δ x = n p ​ 인 경우 - x 0 = a x_0 = a x 0 ​ = a , x n = a + p x_n = a+p x n ​ = a + p 이므로 정적분의 구간은 [ a , a + p ] [a, a+p] [ a , a + p ] 이다.
+- x k → x x_k \to x x k ​ → x , Δ x → d x \Delta x \to {\rm d}x Δ x → d x 라 놓으면
+
+lim ⁡ n → ∞ ∑ k = 1 n f ( x k ) Δ x = ∫ a a + p f ( x ) d x \displaystyle \lim_{n\to\infty} \sum_{k=1}^n f(x_k) \Delta x = \int_a^{a+p} f(x) \,{\rm d}x n → ∞ lim ​ k = 1 ∑ n ​ f ( x k ​ ) Δ x = ∫ a a + p ​ f ( x ) d x
+
+- x k = p n k x_k = \dfrac pn k x k ​ = n p ​ k , Δ x = p n \Delta x = \dfrac pn Δ x = n p ​ 인 경우 - x 0 = 0 x_0 = 0 x 0 ​ = 0 , x n = p x_n = p x n ​ = p 이므로 정적분의 구간은 [ 0 , p ] [0, p] [ 0 , p ] 이다.
+- x k → x x_k \to x x k ​ → x , Δ x → d x \Delta x \to {\rm d}x Δ x → d x 라 놓으면
+
+lim ⁡ n → ∞ ∑ k = 1 n f ( x k + a ) Δ x = ∫ 0 p f ( x + a ) d x \displaystyle \lim_{n\to\infty} \sum_{k=1}^n f(x_k+a) \Delta x = \int_0^p f(x+a) \,{\rm d}x n → ∞ lim ​ k = 1 ∑ n ​ f ( x k ​ + a ) Δ x = ∫ 0 p ​ f ( x + a ) d x
+
+- x k = k n x_k = \dfrac kn x k ​ = n k ​ , Δ x = 1 n \Delta x = \frac1n Δ x = n 1 ​ 인 경우 - x 0 = 0 x_0 = 0 x 0 ​ = 0 , x n = 1 x_n = 1 x n ​ = 1 이므로 정적분의 구간은 [ 0 , 1 ] [0, 1] [ 0 , 1 ] 이다.
+- x k → x x_k \to x x k ​ → x , Δ x → d x \Delta x \to {\rm d}x Δ x → d x 라 놓으면
+
+lim ⁡ n → ∞ ∑ k = 1 n p f ( ( b − a ) x k + a ) Δ x = ∫ 0 1 p f ( p x + a ) d x \displaystyle \lim_{n\to\infty} \sum_{k=1}^n pf((b-a)x_k +a) \Delta x = \int_0^1 pf(px+a) \,{\rm d}x n → ∞ lim ​ k = 1 ∑ n ​ p f (( b − a ) x k ​ + a ) Δ x = ∫ 0 1 ​ p f ( p x + a ) d x
+
+8.3. 역함수의 정적분 [편집]
+고등학교 수준에서는 역함수를 구하여 직접 정적분할 수 없는 경우가 많다. [21] 역함수의 정적분 문제가 나오면 역함수를 직접 구하는 것이 아니라, 원래 함수의 정적분을 통해서 구하거나, 도형을 뒤집어도 넓이는 같다는 점을 이용하여 퍼즐을 맞추듯 문제를 푸는데, 자세한 문제 유형은 정적분/예제 참고.
+
+8.3.1. 공식 1 [편집]
+구간 [ a , b ] [a, b] [ a , b ] 에서 연속인 함수 y = f ( x ) y=f(x) y = f ( x ) 와 그 역함수 y = f − 1 ( x ) y = f^{-1}(x) y = f − 1 ( x ) 에 대하여 다음이 성립한다.
+
+∫ a b f ( x ) d x = ∫ a b f − 1 ( y ) d y \displaystyle \int_a^b f(x) \,{\rm d}x = \int_a^b f^{-1}(y) \,{\rm d}y ∫ a b ​ f ( x ) d x = ∫ a b ​ f − 1 ( y ) d y
+이를 좌표평면상에 시각화하면 다음과 같다.
+
+8.3.2. 공식 2 [편집]
+구간 [ a , b ] [a, b] [ a , b ] 에서 연속인 함수 y = f ( x ) y=f(x) y = f ( x ) 와 그 역함수 y = f − 1 ( x ) y = f^{-1}(x) y = f − 1 ( x ) 에 대하여 다음이 성립한다. ∫ a b ∣ f ( x ) − f − 1 ( x ) ∣ d x = ∫ a b ∣ f ( x ) − x ∣ d x + ∫ a b ∣ f − 1 ( x ) − x ∣ d x = 2 ∫ a b ∣ f ( x ) − x ∣ d x = 2 ∫ a b ∣ f − 1 ( x ) − x ∣ d x \begin{aligned} \displaystyle \int_a^b |f(x)-f^{-1}(x)| \,{\rm d}x &= \int_a^b |f(x)-x| \,{\rm d}x +\int_a^b |f^{-1}(x)-x| \,{\rm d}x \\ &= 2\int_a^b |f(x)-x| \,{\rm d}x \\ &= 2\int_a^b |f^{-1}(x)-x| \,{\rm d}x \end{aligned} ∫ a b ​ ∣ f ( x ) − f − 1 ( x ) ∣ d x ​ = ∫ a b ​ ∣ f ( x ) − x ∣ d x + ∫ a b ​ ∣ f − 1 ( x ) − x ∣ d x = 2 ∫ a b ​ ∣ f ( x ) − x ∣ d x = 2 ∫ a b ​ ∣ f − 1 ( x ) − x ∣ d x ​
+
+이를 좌표평면상에서 시각화하면 다음과 같다.
+
+8.3.3. 공식 3 [편집]
+구간 [ a , b ] [a, b] [ a , b ] 에서 연속인 함수 y = f ( x ) y=f(x) y = f ( x ) 와 그 역함수 y = f − 1 ( x ) y = f^{-1}(x) y = f − 1 ( x ) 에 대하여 다음이 성립한다.
+
+∫ f ( a ) f ( b ) f − 1 ( x ) d x = b f ( b ) − a f ( a ) − ∫ a b f ( x ) d x \displaystyle \int_{f(a)}^{f(b)} f^{-1}(x) \,{\rm d}x = bf(b) -af(a) -\int_a^b f(x) \,{\rm d}x ∫ f ( a ) f ( b ) ​ f − 1 ( x ) d x = b f ( b ) − a f ( a ) − ∫ a b ​ f ( x ) d x
+이를 증명하여 보자. f − 1 ( x ) = t f^{-1}(x) = t f − 1 ( x ) = t 로 치환하면 f ( t ) = x f(t)=x f ( t ) = x 인데, 이 식의 양변을 t t t 에 대하여 미분하면 f ′ ( t ) = d x d t f'(t) = \dfrac{{\rm d}x}{{\rm d}t} f ′ ( t ) = d t d x ​ 이므로
+
+∫ f ( a ) f ( b ) f − 1 ( x ) d x = ∫ a b t f ′ ( t ) d t = ∫ a b { f ( t ) + t f ′ ( t ) } d t − ∫ a b f ( t ) d t = [ t f ( t ) ] a b − ∫ a b f ( t ) d t = b f ( b ) − a f ( a ) − ∫ a b f ( x ) d x \begin{aligned} \displaystyle \int_{f(a)}^{f(b)} f^{-1}(x) \,{\rm d}x &= \int_a^b tf'(t) \,{\rm d}t \\ &= \int_a^b \{f(t)+tf'(t)\} \,{\rm d}t -\int_a^b f(t) \,{\rm d}t \\ &= \biggl[tf(t) \biggr]^b_a -\int_a^b f(t) \,{\rm d}t \\ &= bf(b) -af(a) -\int_a^b f(x) \,{\rm d}x \end{aligned} ∫ f ( a ) f ( b ) ​ f − 1 ( x ) d x ​ = ∫ a b ​ t f ′ ( t ) d t = ∫ a b ​ { f ( t ) + t f ′ ( t )} d t − ∫ a b ​ f ( t ) d t = [ t f ( t ) ] a b ​ − ∫ a b ​ f ( t ) d t = b f ( b ) − a f ( a ) − ∫ a b ​ f ( x ) d x ​
+이를 좌표평면상에서 시각화하면 다음과 같은데, 아래 그림은 정적분의 구간에서 f ( x ) f(x) f ( x ) 의 함숫값이 항상 0 이상이며 증가하는 경우만을 나타낸다. 그 밖의 경우는 아래의 그림과 같이 나타낼 수는 없지만 위 식은 그에 상관없이 항상 성립함 을 알아야 한다.
+
+∫ f ( a ) f ( b ) f − 1 ( x ) d x = b f ( b ) − a f ( a ) − ∫ a b f ( x ) d x \displaystyle {\color{blueviolet} \int_{f(a)}^{f(b)} f^{-1}(x) \,{\rm d}x} = {\color{turquoise} bf(b)} - {\color{goldenrod} af(a)} - {\color{red} \int_a^b f(x) \,{\rm d}x} ∫ f ( a ) f ( b ) ​ f − 1 ( x ) d x = b f ( b ) − a f ( a ) − ∫ a b ​ f ( x ) d x
+
+8.3.4. 무한급수로 나타내기 [편집]
+
+정적분을 정의했던 방식과 비슷하게 정적분 ∫ f ( a ) f ( b ) f − 1 ( x ) d x \displaystyle \int_{f(a)}^{f(b)} f^{-1}(x) \,{\rm d}x \quad ∫ f ( a ) f ( b ) ​ f − 1 ( x ) d x (회색 영역의 넓이 [22] )
+
+를 무한급수로 나타낼 수 있다. 구간 [ a , b ] [a, b] [ a , b ] 를 n n n 등분하고, k , ( 0 ≤ k ≤ n ) k, (0 \le k \le n) k , ( 0 ≤ k ≤ n ) 번째 x x x 값을 x k = a + b − a n k \displaystyle x_k = a +\frac{b-a}n k x k ​ = a + n b − a ​ k
+
+라 하자. 위 그림과 같이 회색 영역의 면적소는 구간 [ x k − 1 , x k ] , ( 1 ≤ k ≤ n ) [x_{k-1}, x_k], (1 \le k \le n) [ x k − 1 ​ , x k ​ ] , ( 1 ≤ k ≤ n ) 에 대하여, 세로의 길이가 f ( x k ) − f ( x k − 1 ) f(x_k) -f(x_{k-1}) f ( x k ​ ) − f ( x k − 1 ​ ) 이고, 가로의 길이가 x k x_k x k ​ 혹은 x k − 1 x_{k-1} x k − 1 ​ 인 직사각형 으로 둘 수 있다. [23] 따라서 영역의 넓이는 전자의 경우 ∫ f ( a ) f ( b ) f − 1 ( x ) d x = lim ⁡ n → ∞ ∑ k = 1 n { f ( x k ) − f ( x k − 1 ) } x k \displaystyle \int_{f(a)}^{f(b)} f^{-1}(x) \,{\rm d}x = \lim_{n\to\infty} \sum_{k=1}^n \{f(x_k)-f(x_{k-1}) \} x_k ∫ f ( a ) f ( b ) ​ f − 1 ( x ) d x = n → ∞ lim ​ k = 1 ∑ n ​ { f ( x k ​ ) − f ( x k − 1 ​ )} x k ​
+
+후자의 경우 ∫ f ( a ) f ( b ) f − 1 ( x ) d x = lim ⁡ n → ∞ ∑ k = 1 n { f ( x k ) − f ( x k − 1 ) } x k − 1 = lim ⁡ n → ∞ ∑ k = 0 n − 1 { f ( x k + 1 ) − f ( x k ) } x k \begin{aligned} \displaystyle \int_{f(a)}^{f(b)} f^{-1}(x) \,{\rm d}x &= \lim_{n\to\infty} \sum_{k=1}^n \{f(x_k)-f(x_{k-1}) \}x_{k-1} \\ &= \lim_{n\to\infty} \sum_{k=0}^{n-1} \{f(x_{k+1})-f(x_k) \}x_k \end{aligned} ∫ f ( a ) f ( b ) ​ f − 1 ( x ) d x ​ = n → ∞ lim ​ k = 1 ∑ n ​ { f ( x k ​ ) − f ( x k − 1 ​ )} x k − 1 ​ = n → ∞ lim ​ k = 0 ∑ n − 1 ​ { f ( x k + 1 ​ ) − f ( x k ​ )} x k ​ ​
+
+와 같이 무한급수로 나타낼 수 있다.
+
+다른 방법으로는 바로 위 문단의 결과
+
+∫ f ( a ) f ( b ) f − 1 ( x ) d x = b f ( b ) − a f ( a ) − ∫ a b f ( x ) d x \displaystyle \int_{f(a)}^{f(b)} f^{-1}(x) \,{\rm d}x = bf(b) -af(a) -\int_a^b f(x) \,{\rm d}x ∫ f ( a ) f ( b ) ​ f − 1 ( x ) d x = b f ( b ) − a f ( a ) − ∫ a b ​ f ( x ) d x
+를 이용할 수도 있다. 정적분의 정의를 사용하면,
+
+∫ f ( a ) f ( b ) f − 1 ( x ) d x = b f ( b ) − a f ( a ) − lim ⁡ n → ∞ ∑ k = 1 n f ( x k ) Δ x = b f ( b ) − a f ( a ) − lim ⁡ n → ∞ ∑ k = 0 n − 1 f ( x k ) Δ x \displaystyle \begin{aligned} \int_{f(a)}^{f(b)} f^{-1}(x) \,{\rm d}x &= bf(b)- af(a)- \lim_{n\to\infty} \sum_{k=1}^n f(x_k)\Delta x \\ &= bf(b) -af(a)- \lim_{n\to\infty} \sum_{k=0}^{n-1} f(x_k) \Delta x \end{aligned} ∫ f ( a ) f ( b ) ​ f − 1 ( x ) d x ​ = b f ( b ) − a f ( a ) − n → ∞ lim ​ k = 1 ∑ n ​ f ( x k ​ ) Δ x = b f ( b ) − a f ( a ) − n → ∞ lim ​ k = 0 ∑ n − 1 ​ f ( x k ​ ) Δ x ​
+위에서 Δ x = b − a n \Delta x = \dfrac{b-a}n Δ x = n b − a ​ 이다.
+
+8.4. 곡선 사이의 넓이 [편집]
+
+그림과 같이 닫힌 구간 [ a , b ] [a, b] [ a , b ] 에서 두 곡선 y = f ( x ) y=f(x) y = f ( x ) , y = g ( x ) y=g(x) y = g ( x ) 사이의 넓이를 구하려면 다음 정적분을 이용하면 된다. [24] x x x 축 아래의 도형은 정적분의 값이 음이 되므로, 절댓값 기호를 붙이지 않으면 양의 값을 가지는 넓이를 제대로 구하지 못할 수 있다.
+
+∫ a b ∣ f ( x ) − g ( x ) ∣ d x = ( s g n ∘ ( f − g ) ) ( x ) ( ∫ a b f ( x ) d x − ∫ a b g ( x ) d x ) \displaystyle \int_a^b |f(x)-g(x)| \,{\rm d}x = ({\rm sgn} \circ (f-g))(x) \left(\int_a^b f(x) \,{\rm d}x -\int_a^b g(x) \,{\rm d}x \right) ∫ a b ​ ∣ f ( x ) − g ( x ) ∣ d x = ( sgn ∘ ( f − g )) ( x ) ( ∫ a b ​ f ( x ) d x − ∫ a b ​ g ( x ) d x )
+
+한편 닫힌 구간 [ a , b ] [a, b] [ a , b ] 에서 곡선 y = f ( x ) y=f(x) y = f ( x ) 와 x = a x=a x = a , x = b x=b x = b , x x x 축과 이루는 넓이를 구하려면 다음 정적분을 이용하면 된다.
+
+∫ a b ∣ f ( x ) ∣ d x = ( s g n ∘ f ) ( x ) ∫ a b f ( x ) d x \displaystyle \int_a^b |f(x)| \,{\rm d}x = ({\rm sgn} \circ f)(x) \int_a^b f(x) \,{\rm d}x ∫ a b ​ ∣ f ( x ) ∣ d x = ( sgn ∘ f ) ( x ) ∫ a b ​ f ( x ) d x
+이는 x x x 축이 g ( x ) = 0 g(x)=0 g ( x ) = 0 이라는 상수함수 로 표현되기 때문에, 첫째 식에서 g ( x ) g(x) g ( x ) 가 생략된 것으로 보면 된다.
+
+수능이나 모의고사에서는 주기함수 와 엮어서 출제하기도 하는데, 2022학년도 6월 11번 (쉬운 문제), 2024년 7월 교육청 모의고사 12번 (어려운 문제) 등 2020년대에도 단골로 출제되고 있다.
+
+8.5. 입체도형의 부피 [편집]
+어떤 입체도형을 x x x 축과 평행한 단면으로 잘랐을 때의 단면의 넓이를 S ( x ) S(x) S ( x ) 라 하자. 또, 닫힌 구간 [ a , b ] [a, b] [ a , b ] 사이의 입체도형에 대하여 부피를 구하려고 한다면, 다음의 정적분을 이용한다.
+
+∫ a b S ( x ) d x \displaystyle \int_a^b S(x) \,{\rm d}x ∫ a b ​ S ( x ) d x
+
+한편, x x x 축을 회전축으로 하여 곡선 y = f ( x ) y=f(x) y = f ( x ) 를 1회전하여 얻은 회전체에 대하여 닫힌 구간 [ a , b ] [a, b] [ a , b ] 사이의 부피는 다음의 정적분을 이용한다. [25]
+
+∫ a b π { f ( x ) } 2 d x \displaystyle \int_a^b \pi \{f(x)\}^2 \,{\rm d}x ∫ a b ​ π { f ( x ) } 2 d x
+
+8.6. 곡선의 길이 [편집]
+자세한 내용은 곡선 문서의 길이 부분을 참고하십시오.
+
+8.7. 회전체의 겉넓이 [편집]
+x x x 축을 회전축으로 하여 곡선 y = f ( x ) y=f(x) y = f ( x ) 를 1회전하여 얻은 회전체에 대하여 닫힌 구간 [ a , b ] [a, b] [ a , b ] 사이의 겉넓이 는 다음의 정적분을 이용한다.
+
+∫ a b 2 π f ( x ) 1 + { f ′ ( x ) } 2 d x \displaystyle \int_a^b 2\pi f(x) \sqrt{1+\{f'(x)\}^2} \,{\rm d}x ∫ a b ​ 2 π f ( x ) 1 + { f ′ ( x ) } 2 ​ d x
+
+9. 다른 표기 [편집]
+정적분은 다음과 같이 표기하기도 한다.
+
+∫ a b f ( x ) d x = ∫ [ a , b ] f ( x ) d x = < f > \begin{aligned} \displaystyle \int_a^b f(x) \,{\rm d}x = \int_{[a, b]} f(x) \,{\rm d}x = \left< f \right> \end{aligned} ∫ a b ​ f ( x ) d x = ∫ [ a , b ] ​ f ( x ) d x = ⟨ f ⟩ ​
+특히 두 번째의 방식은 집합 째로 정적분을 하는 방식인데, 주로 복소해석학 이나 벡터 미적분학 에서 지겹게 볼 수 있다. 대표적인 예로는 전자기학 에서 자기장 을 기술하는 식
+
+∯ ∂ V B ⋅ d a = 0 \displaystyle \oiint_{\partial V} \mathbf{B} \boldsymbol{\cdot} {\rm d}\mathbf{a} = 0 ∬ ​ ∂ V ​ B ⋅ d a = 0 [26]
+이 있다. 세 번째의 홑화살괄호 < > \left< \, \right> ⟨ ⟩ 로 표기한 식은 함수를 벡터 로 취급하고 내적 한다는 의미로 쓰인 것이다. [27]
+
+10. 정적분의 역사 [편집]
+정적분은 미분의 역연산으로 다뤄지는 부정적분(역도함수)과 다르게 '구분구적법'이라는 역사가 오래된 방법에서 유래되었다.
+
+고대 이집트 시절, 나일강 이 주기적으로 범람해 인근의 농지를 엉망으로 만들곤 해서 지주 들의 불만이 컸고, 크기는 둘째치고 농지의 모양이 곧바르지 않고 구불구불한 모양이라 이를 감안하면서도 최대한 농지의 크기를 나일 강 범람 전과 비슷하게 맞출 필요가 있었는데 이때 사용된 것이 간단한 도형 [28] 으로 잘게 나누어 그 합으로써 넓이를 구하는 방법인데 이를 구분구적법 (mensuration by parts, 區 分 求 積 法 )이라고 한다. 다각형 , 원 등에 포함되지 않는 불규칙한 모양의 넓이를 구할 때 쓰는 방법이다. 이 방법은 고대 그리스 에서 배워서 써먹기도 했으며, 이를 체계화 한 것은 아르키메데스 (Ἀρχιμήδης, B.C. 287 ~ B.C. 212)였다.
+
+그러다가 고트프리트 빌헬름 라이프니츠 (Gottfried Wilhelm Leibniz, 1646~1716)가 넓이를 구하고자 하는 도형을 무수히 많은 직사각형으로 분할하여 그 직사각형들의 넓이를 모두 더하는 것으로, 곡선으로 둘러싸인 도형은 아무리 많은 직사각형으로 분할하더라도 오차가 생길 수밖에 없는데, 직사각형의 개수를 무한히 [29] 늘리면 실제 넓이와 같아진다 는 아이디어로 정리했고, 이후 베른하르트 리만 (Bernhard Riemann, 1826~1866)이 본문에서 말하는 형태로 완성했다.
+
+이후 디리클레 함수 [30] 처럼 리만 적분만으로 그 성질을 충분히 규명할 수 없는 함수 가 등장하였으며, 미분방정식 , 양자역학 , 푸리에 해석 등의 발전으로 함수 공간에 대한 연구의 필요성이 대두되었다. 리만 적분의 이론만으로는 그 적분 가능성의 동치 조건을 제시하지 못했고, 리만 적분가능 함수 공간은 완비성을 갖지 않아 함수 공간의 연구에 불충분했다. 이에 따라 앙리 르베그(Henri Lebesgue, 1875~1941)와 로랑 슈바르츠 (Laurent Schwartz, 1915~2002)를 필두로 측도론 , 르베그 적분 과 같은 추상 적분론이 정립되었고 그 결과 함수해석, 조화해석, 확률론 등 다양한 분야의 이론이 발전하여 오늘날에 이른다.
+
+11. 다항함수 관련 공식 [편집]
+자세한 내용은 다항함수/공식/넓이 문서를 참고하십시오.
+다항함수의 정적분을 편리하게 계산할 수 있는 공식들을 다루는 문서이다.
+
+12. 예제 [편집]
+자세한 내용은 정적분/예제 문서를 참고하십시오.
+
+13. 정적분의 여러 종류와 그 본질 [편집]
+일반적으로 말하는 적분이란 위의 리만 적분이지만, 고등학교에서 배우는 모든 적분 방법은 사실상 부정적분의 계산법을 기반으로 한다. 리만적분의 정의만 보면 저 리만합 극한을 어떻게 구하냐는 볼멘소리가 나올 수 있지만, 미적분의 기본정리 덕에 정말 다행히도 부정적분만 계산해도 정적분을 구할 수 있다. 일상생활에서는 여기까지만 적분을 생각해도 큰 문제는 없다.
+
+해석학 을 깊게 공부하다 보면 리만 적분의 빈틈을 해결하기 위해 르베그 적분 (Lebesgue integral)과 측도 론(measure theory) 등이 나오기도 한다. 이러한 개념은 학부 말 혹은 석사 초반에 배우는 실해석학 의 근간을 이루는데, 해석학 개론의 공통적인 내용을 갓 배운 학부생 입장에서 스스로 깊게 공부하지 않은 경우 이를 이해하기 어려울 수 있다. 르베그 적분은 리만적분을 연속함수 가 아닌 더 넓은 범위에 대해 일반화했다고 볼 수 있는데(즉 연속함수인 경우에는 리만 적분과 동일하다), 이를 이용하면 리만 적분이 불가능한 함수에 대해서도 적분을 정의할 수 있게 된다. 조금 더 자세히 설명하면, 함숫값에 대응시키는 정의역 내 구간(엄밀히 말하면 역상)의 크기를 정할 수 있다면 그 함수는 가측함수 가 되며, 가측함수의 치역을 분할하고 그 분할 값에 역상의 측도를 곱한 것을 계산하고 이 부분합의 극한을 취할 수 있게 된다. 이것이 바로 르베그 적분이며, 리만 적분이 가능하든 불가능하든 피적분함수가 가측함수이면 르베그 적분이 가능하게 된다. 예를 들어 x x x 가 유리수이면 f ( x ) = 1 f(x) = 1 f ( x ) = 1 이고 x x x 가 무리수이면 f ( x ) = 0 f(x) = 0 f ( x ) = 0 인 디리클레 함수 (Dirichlet function)를 0 0 0 에서 1 1 1 까지 리만 적분은 불가능하지만, 르베그 적분을 생각하면 적분값은 0 0 0 이 된다. [ 0 , 1 ] [0, 1] [ 0 , 1 ] 에서 유리수는 가산집합이므로 측도는 0이고 무리수의 측도는 1이므로
+
+∫ [ 0 , 1 ] f d μ = 1 × μ ( [ 0 , 1 ] ∩ Q ) + 0 × μ ( [ 0 , 1 ] ∩ Q c ) = 1 × 0 + 0 × 1 = 0 \begin{aligned} \displaystyle \int_{[0, 1]} f \,{\rm d}\mu &= 1 \times \mu([0, 1] \cap \mathbb{Q}) + 0 \times \mu([0, 1] \cap \mathbb{Q}^c) \\ &= 1 \times 0 + 0 \times 1 \\ &= 0 \end{aligned} ∫ [ 0 , 1 ] ​ f d μ ​ = 1 × μ ([ 0 , 1 ] ∩ Q ) + 0 × μ ([ 0 , 1 ] ∩ Q c ) = 1 × 0 + 0 × 1 = 0 ​
+이다. 다만 이렇게 르베그 적분을 실제 계산할 수 있는 경우는 드물고, 실전에서는 아무리 이상한 함수라도 적분을 정의할 수 있다는 일종의 개념적인 상징으로 취급된다. 덕분에 해석학 에서는 실수(혹은 복소수) 유클리드 공간을 넘어 일반적인 함수공간에서 극한을 생각하기 위해 사용되고, 한편으로는 확률 공간이라는 추상적인 측도 공간에서 전개되는 확률론 에서도 중요하게 등장한다.
+
+더 나아가 미분계수가 함수인 경우도 생각해볼 수 있는데 스틸체스 적분 이라고 한다. 이 중 미분계수 자리에 최대 정수 함수 ⌊ x ⌋ \lfloor x \rfloor ⌊ x ⌋ 를 넣는 경우
+
+∫ a b f ( x ) d ⌊ x ⌋ = ∑ x = a b f ( x ) \displaystyle \int_a^b f(x) \,{\rm d}\lfloor x \rfloor = \sum_{x=a}^b f(x) ∫ a b ​ f ( x ) d ⌊ x ⌋ = x = a ∑ b ​ f ( x )
+가 성립하는데 이는 f ( x ) f(x) f ( x ) 를 생성함수 로 하는 수열 의 합과 동치이다.
+
+이것보다 더욱 활용 빈도가 높은 것은 공간에서 적분을 하는 선적분 이나 중적분 등의 개념이다. 직선 위에서 함수의 총합을 구했던 것이 넓이가 된다면, 평면 위에서 함수의 총합을 구하면 부피를 계산할 수 있을 것이다. 단순히 직선 뿐만이 아니라 곡선 또는 곡면에서, 나아가 임의의 공간의 면적, 부피, 그 위에서의 함수의 평균값 등을 계산하는 데에 이러한 다중적분이 쓰일 수 있다. 복소해석학 에서는 특수한 형태의 복소 선적분 을 생각하기도 하며, 예상치도 못한 성질을 가져다 주기도 한다.
+
+수학 전공자들의 관점에서 바라보았을 때 수없이 많은 세분화된 종류의 적분이 존재하지만, 어찌 보면 다 리만적분 혹은 부정적분의 일반화이고 그 의미는 함수를 계량하는 것에 있다고 보아도 충분하다.
+
+정적분의 본질이 부정적분의 본질과 반대라고 하기는 어렵다. 부정적분은 미분의 역연산이며, 정적분은 도형의 측도 [31] 를 구하는 계산이므로 사실 둘은 전혀 다른 개념이다. 단지 스토크스 정리 [32] 로 둘이 절묘하게 결부되어 있을 뿐이지, 둘의 실체는 전혀 동떨어진, 다른 것이다. '정적분'과 '부정적분'이라는 용어는 앞서 말했듯이 계산의 결과로서의 식이 완결되는지의 여부가 둘의 상반되는 속성이라는 점에 착안하여 명명되었을 뿐인데, 이 차이점이라는 것은 정적분과 부정적분의 본질과는 거리가 멀다.
+
+정적분도 종류가 다양하다. 다차원으로 확장된 중적분 , 미분계수에 조작을 가하는 스틸체스 적분 , 고등학교에서 배우는 세로 방향으로 쪼개서 직사각형을 만드는 아이디어와 달리 가로로 쪼개서 적분하는 르베그 적분 등이 있다. 여기서 주로 설명하는 내용은 일변수 실함수를 다루는 리만 적분 (Riemann integral)이며, 정적분을 고2 때 처음 배우는 점을 고려하여 상당히 초등적으로 설명했음 [33] 을 일러둔다.
+
+[1] '모든 도형'이라는 표현 대신, '대부분의 도형'이라 밝힌 것은 부정적분을 초등함수 로 표현 불가능한 함수 sinc ⁡ x \operatorname{sinc}x sinc x , e − x 2 e^{-x^2} e − x 2 , x x x^x x x 등이 존재하기 때문이다. 이런 경우에는 피적분함수를 테일러 급수로 전개한 후에 미적분학의 기본정리를 적용하는 등의 기교가 필요하다. 게다가, 디리클레 함수 처럼 리만 적분 불가능한 함수도 있고, 심지어는 볼테라 함수 의 도함수는 부정적분이 존재하는데도 리만 적분이 불가능하다. 또한, e − x 2 e^{-x^2} e − x 2 의 경우 극좌표를 취한 뒤 야코비안 변환을 통하여 어찌저찌 넓이를 구할 수는 있다. [2] 고등학교 2학년에 처음 정적분을 배울 때는 유계의 개념을 모르고 다루는 함수도 지극히 한정되어 있으므로 그냥 '연속 일 때'로 배운다. [3] 단, 닫힌구간에서 정의된 유계함수라고 해서 모두 리만적분 가능한 것은 아니다. 고등학교 수준에서는 성질이 매우 좋은 함수만 다루지만, 리만 적분이 안 되는 함수들도 있다. 닫힌구간에서 정의된 유계 함수가 리만 적분 가능할 필요충분조건은 거의 모든 점에서 연속인 것이다. '거의'인 이유는 적분구간 내에 불연속점이 있어도 ' 코시 주욧값 '을 취하는 방법으로 리만 적분할 수 있기 때문이다. 리만 적분이 안 되는 경우, 르베그 적분 을 할 수 있다. 이러한 예로 디리클레 함수 1 Q ( x ) {\bold 1}_{\mathbb Q}(x) 1 Q ​ ( x ) 가 있다. [4] 다만 모든 함수가 적분 가능한 것은 아님에 유의해야 한다. [5] 정확히는 이런 선택에 무관한 함수들만 리만적분 가능하다. 당장 디리클레 함수의 경우 균등 증분에 왼쪽 경계 혹은 오른쪽 경계로 적분 가능하다. [6] 치환적분을 사용하기 위해서는 균등분할이 아닌 분할에서도 적분이 잘 정의될 필요가 있다. [7] 베른하르트 리만 이 괴팅겐 대학교 에 있을 때 정의한 리만적분 의 정의가 이런 식이었다. [8] 즉, 모든 x ∈ [ a , b ] x \in [a, b] x ∈ [ a , b ] 에 대해서 ∣ f ( x ) ∣ ≤ M|f(x)| \le M ∣ f ( x ) ∣ ≤ M 을 만족하는 실수 M M M 이 존재. 여기서 f ( x ) f(x) f ( x ) 에 절댓값이 씌워짐에 유의하자. [9] 위에서 설명한 리만 합과는 달리 n n n 등분하지 않아도 된다 ! 위에서 언급한 문제점이 해결되는 순간이다. [10] 쉽게 말해 해당 소구간에서 함수 f ( x ) f(x) f ( x ) 는 최댓값과 최솟값을 각각 갖는다는 의미이다. 사실 이것은 쉽게 설명하기 위해 이렇게 덧붙인 것이고 엄밀하게는 단순히 최소상계라 하여 최댓값이라 할 수는 없다. 최대하계의 경우도 마찬가지. [11] 서술자에 따라 U ( f , P ) U(f, P) U ( f , P ) , L ( f , P ) L(f, P) L ( f , P ) 또는 구간을 병기하여 U ( f , P , [ a , b ] ) U(f, P, [a, b]) U ( f , P , [ a , b ]) , L ( f , P , [ a , b ] ) L(f, P, [a, b]) L ( f , P , [ a , b ]) 등과 같이 쓰기도 한다. [12] 여기서 상합과 하합이 각각 U U U , L L L 로 나타내어지는 이유는 상합이 u pper sum, 하합이 l ower sum이기 때문이다. [13] P \mathcal P P 는 해당하는 집합의 멱집합 을 취한다는 의미다. 기호가 같은 코시 주욧값 과 헷갈리지 말 것. 그래서 멱집합을 2의 지수에 집합을 표기하는 방식으로 나타내기도 한다. [14] 만약 불연속한 점이 유한 개 있을 경우 (또한 [ a , b ] [a,~b] [ a , b ] 에서의 적분이 존재한다면) 불연속점마다 끊어서 모든 범위가 연속이도록 만들면 되긴 한다. [15] 더욱 더 정확히는, '정적분'의 계산 과정에서 미분의 역연산을 사용할 수 있다는 사실. 그것이 바로 미적분의 기본정리 이다. [16] 실제로 미분은 뉴턴 과 라이프니츠 가 자기가 원조라고 주장하였을 정도로 언제 나왔는지 확실하게 밝혀진 반면, 적분은 위의 역사 문단 에서 보듯 고대 이집트 에서부터 시작되었고, 아르키메데스 가 구 의 부피가 지름과 높이가 같은 원기둥 의 2 / 3 2/3 2/3 임을 밝히는 데 구분구적법을 써먹었다는 기록이 있을 정도로 오래됐다. [17] 이 성질을 이용한 것이 코시 주욧값 이다. [18] 둘째, 셋째 성질에 의하여 도출된다. [19] 정확하게는 0 ≤ ε < ( n − m ) / 2 0 \le \varepsilon < (n-m)/2 0 ≤ ε < ( n − m ) /2 이어야 하며, ( n − m ) / 2 (n-m)/2 ( n − m ) /2 이라는 값은 다름 아닌 구간 ( m , n ) (m, n) ( m , n ) 의 길이의 절반이다. [20] 다변수함수 버전인 f ( x , y ) = ∫ x y g ( t ) d t \displaystyle f(x,y) = \int_x^y g(t) \,{\rm d}t f ( x , y ) = ∫ x y ​ g ( t ) d t , f ( x ) = ∫ ⋯ ∫ x g ( t ) d t \displaystyle f({\bold x}) = \int \cdots \int_{\bold x} g({\bold t}) \,{\rm d}{\bold t} f ( x ) = ∫ ⋯ ∫ x ​ g ( t ) d t 같은 것들도 있다. 후자의 경우 벡터 의 차원 에 따라 적분기호의 개수가 달라진다. [21] 당장 f ( x ) f(x) f ( x ) 에 x e x xe^x x e x 를 대입해 보자 . 사실 이런 경우가 아니더라도, f ( x ) f(x) f ( x ) 자리에 삼각함수가 들어가기만 해도 난감해지기 시작한다. [22] 위 그림에 표기된 적분식은 오류이다. 해당 넓이를 함수 f − 1 ( x ) f^{-1}(x) f − 1 ( x ) 의 정적분으로 나타낼 때 하한과 상한은 a a a , b b b 가 아니고 f ( a ) f(a) f ( a ) , f ( b ) f(b) f ( b ) 가 되는 것이 맞다. [23] 리만 왼쪽 합 혹은 오른쪽 합에서도 세로 길이에 대한 선택권이 있었음을 상기해보라. [24] s g n \rm sgn sgn 은 부호 함수 이다. [25] 이를 '원판법'이라 한다. [26] ∂ V \partial V ∂ V 는 어떤 입체의 겉면 위의 모든 점의 집합을 뜻하고, ∯ \displaystyle \oiint ∬ ​ 는 저 겉면을 구멍이 나지 않게 양의 방향으로 적분하라는 의미이다. 자세한 내용은 중적분 문서 참조. [27] 물론 저렇게 함수 하나만 쓰는 경우는 흔치 않고 켤레 를 취한 다른 함수를 곱하는 것이 일반적이다. [28] 넓이를 쉽게 구할 수 있는 직사각형 , 직각삼각형 같은 것들 [29] ' 적절하게 많이 '가 정확한 설명이다. 라이프니츠가 살던 시절에는 말 그대로 무한히가 맞는 말이었지만, 오귀스탱루이 코시 (Augustin Louis Cauchy, 1789~1857)가 엄밀한 기준을 정립했다. [30] 유리수에서 1, 무리수에서 0으로 정의되어 모든 점에서 불연속이고 리만 적분 불가능하다. [31] 길이 , 넓이 , 부피 , 초부피 등 [32] 미적분학의 기본정리 , 켈빈-스토크스 정리 , 그린 정리 , ... [33] 고교 수학II/미적분 수준을 크게 벗어나지 않는다. 이 문서의 내용 중 전체 또는 일부는 다른 문서에서 가져왔습니다.
+[ 펼치기 · 접기 ] 넓이 문서의 r141 판 ( 이전 역사 )
+적분 문서의 r370 판 ( 이전 역사 ) [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

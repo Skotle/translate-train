@@ -1,0 +1,336 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 운동량 연산자
+최근 수정 시각: 2026-05-01 00:27:42 [ [ [ ] [ [ 2 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 물리학
+]
+
+[ [ ] [ 양자역학 Quantum Mechanics
+[ 펼치기 · 접기 ] 배경 | 흑체복사 · 이중슬릿 실험 · 광전효과 · 콤프턴 산란 · 보어의 원자 모형 · 물질파 · 데이비슨-저머 실험 · 불확정성 원리 · 슈테른-게를라흐 실험 · 프랑크-헤르츠 실험
+이론 체계 | 체계 플랑크 상수 ( 플랑크 단위계 ) · 공리 · 슈뢰딩거 방정식 · 파동함수 · 연산자 ( 해밀토니언 · 선운동량 · 각운동량 ) · 스핀 ( 스피너 ) · 파울리 배타 원리 해석 코펜하겐 해석 ( 보어-아인슈타인 논쟁 ) · 숨은 변수 이론 ( EPR 역설 · 벨의 부등식 · 광자 상자 ) · 다세계 해석 · 앙상블 해석 · 서울 해석 묘사 묘사 ( 슈뢰딩거 묘사 · 하이젠베르크 묘사 · 디랙 묘사) · 행렬역학
+연관 학문 | 천체물리학 ( 천문학 틀 · 우주론 · 양자블랙홀 · 중력 특이점 ) · 핵물리학 틀 ( 원자력 공학 틀 ) · 응집물질물리학 틀 · 컴퓨터 과학 틀 ( 양자컴퓨터 · 양자정보과학 ) · 통계역학 틀 · 양자화학 ( 물리화학 틀 ) · 입자물리학 ( 입자물리학 틀 )
+현상 · 응용 | 양자요동 · 양자 얽힘 · 양자 터널링 · 퍼텐셜 우물 · 양자 조화 진동자 · 오비탈 · 수소 원자 모형 · 쌓음 원리 · 훈트 규칙 · 섭동 ( 스핀 - 궤도 결합 · 제이만 효과 · 슈타르크 효과 · 헬만-파인만 정리 ) · 선택 규칙 · 변분 원리 · WKB 근사법 · 시간 결정 · 보스-아인슈타인 응집 · 솔리톤 · 카시미르 효과 · 아하로노프-봄 효과 · 블랙홀 정보 역설 · 양자점 · 하트리-포크 방법 · 밀도범함수 이론 · 준위 · 양자장론 ( 양자전기역학 · 양자색역학 ) · 뤼드베리 방정식 · 체렌코프 현상
+기타 | 군론 · 기본 입자 · 대칭성 · 비리얼 정리 · 리만 가설 · 매듭이론 · 밀도행렬 · 물질 · 방사선 ( 반감기 ) · 라플라스의 악마 · 슈뢰딩거의 고양이 ( 위그너의 친구 )
+문헌 | 교재 · 분류:물리학술지
+
+1 . 개요 2 . 정의 3 . 고유함수 4 . 상태의 중첩 5 . 기댓값 5.1 . 기댓값의 시간 변화 6 . 자기 수반성 7 . 기저의 변환 8 . 교환자 관계 9 . 불확정성 원리 10 . 변위 연산자 10.1 . 다시 찾아본 운동량 보존 11 . 지름방향 운동량 연산자
+
+1. 개요 [편집]
+momentum operator
+
+양자역학 에서 파동함수에 작용하여 선운동량 에 대한 정보를 주는 연산자를 의미한다.
+
+2. 정의 [편집]
+1차원 상, 위치 표현(위치 기저)에서 정의되는 운동량 연산자는 다음과 같다.
+
+p ^ = − i ℏ ∂ ∂ x \displaystyle \hat{p} = -i \hbar \frac{\partial}{\partial x} p ^ ​ = − i ℏ ∂ x ∂ ​
+3차원 상, 위치 표현에서 정의되는 운동량 연산자는 다음과 같다.
+
+p ^ = − i ℏ ∇ \displaystyle \mathbf{\hat{p}} = -i \hbar \boldsymbol{\nabla} p ^ ​ = − i ℏ ∇
+
+운동량 표현(운동량 기저)에서는 다음과 같이 정의된다.
+
+p ^ = p \displaystyle \mathbf{\hat{p}} = \mathbf{p} p ^ ​ = p
+
+3. 고유함수 [편집]
+우선 가장 쉬운 1차원의 경우부터 살펴보자. 구하는 고유함수를 φ ( x ) \varphi(x) φ ( x ) [1] 라 놓으면 고유치 방정식은
+
+p ^ φ ( x ) = − i ℏ ∂ φ ( x ) ∂ x = p φ ( x ) \displaystyle \hat{p}\varphi(x) = -i\hbar\frac{\partial \varphi(x)}{\partial x} = p\varphi(x) p ^ ​ φ ( x ) = − i ℏ ∂ x ∂ φ ( x ) ​ = pφ ( x )
+위 식을 정리하면
+
+∂ φ ( x ) ∂ x = i p ℏ φ ( x ) \displaystyle \frac{\partial \varphi(x)}{\partial x} = i \frac{p}{\hbar}\varphi(x) ∂ x ∂ φ ( x ) ​ = i ℏ p ​ φ ( x )
+k = p / ℏ k=p/\hbar k = p /ℏ 로 치환하면
+
+∂ φ ( x ) ∂ x = i k φ ( x ) \displaystyle \frac{\partial \varphi(x)}{\partial x} = ik \varphi(x) ∂ x ∂ φ ( x ) ​ = ik φ ( x )
+이것은 변수분리를 통해 쉽게 풀리는 방정식으로 그 해는
+
+φ ( x ) = 1 2 π e i k x \displaystyle \varphi(x) =\frac{1}{\sqrt{2 \pi}} e^{ikx} φ ( x ) = 2 π ​ 1 ​ e ik x
+이다. 앞에 붙는 상수에 아래와 같이 다른 고유 상태와의 내적이 디랙 델타 함수 로만 남을 수 있게 붙은 것이다.
+
+이제부터 φ ( x ) = ∣ k ⟩ \varphi(x)=| k \rangle φ ( x ) = ∣ k ⟩ 로 쓰자. 다음을 유도할 수 있다.
+
+⟨ k ′ ∣ k ⟩ = 1 2 π ∫ − ∞ ∞ ( e i k ′ x ) ∗ e i k x d x = 1 2 π ∫ − ∞ ∞ e i ( k − k ′ ) x d x = δ ( k − k ′ ) \displaystyle \begin{aligned} \langle k'|k \rangle &=\frac{1}{2\pi} \int_{-\infty}^{\infty} (e^{ik'x})^{\ast}e^{ikx}\,{\rm d}x \\&=\frac{1}{2\pi} \int_{-\infty}^{\infty} e^{i(k-k')x}\,{\rm d}x \\&=\delta(k-k') \end{aligned} ⟨ k ′ ∣ k ⟩ ​ = 2 π 1 ​ ∫ − ∞ ∞ ​ ( e i k ′ x ) ∗ e ik x d x = 2 π 1 ​ ∫ − ∞ ∞ ​ e i ( k − k ′ ) x d x = δ ( k − k ′ ) ​
+여기서 δ ( x ) \delta(x) δ ( x ) 는 디랙 델타 함수이다. 적분 값이 왜 디랙 델타 함수가 되는 지에 대한 정보는 이곳 을 참고한다.
+
+위와 같이 운동량 연산자에 대한 고유함수는 보통의 파동함수처럼 규격화되지 않는데, 이를 통해 해당 고유함수는 힐베르트 공간 의 원소가 아님을 알 수 있다.
+
+3차원의 경우 각 성분에 대하여 위와 같은 방정식으로 환원되고, 세 독립한 변수의 함수의 곱 φ ( r ) = X ( x ) Y ( y ) Z ( z ) \varphi(\mathbf{r})=X(x)Y(y)Z(z) φ ( r ) = X ( x ) Y ( y ) Z ( z ) 로 이루어져있다고 가정한 후 풀면,
+
+∣ k ⟩ = 1 ( 2 π ) 3 / 2 e i ( k x x + k y y + k z z ) = 1 ( 2 π ) 3 / 2 e i k ⋅ r ( k = k x 2 + k y 2 + k z 2 ) \displaystyle \begin{aligned} | \mathbf{k} \rangle &=\frac{1}{(2 \pi)^{3/2}} e^{i(k_{x}x+k_{y}y+k_{z}z)} \\&=\frac{1}{(2 \pi)^{3/2}} e^{i\mathbf{k} \boldsymbol{\cdot} \mathbf{r}} \qquad (k=\sqrt{k_{x}^{2}+k_{y}^{2}+k_{z}^{2}}) \end{aligned} ∣ k ⟩ ​ = ( 2 π ) 3/2 1 ​ e i ( k x ​ x + k y ​ y + k z ​ z ) = ( 2 π ) 3/2 1 ​ e i k ⋅ r ( k = k x 2 ​ + k y 2 ​ + k z 2 ​ ​ ) ​
+이 나온다.
+
+만약 운동량을 측정하여 ℏ k \hbar k ℏ k 를 얻었다면 그 상태는 ∣ k ⟩| k \rangle ∣ k ⟩ 로 고정될 것이다. 이 상태의 확률 밀도 함수는 전 구간에 걸쳐 상수 꼴로 나타나는데, 이는 모든 구간에 대하여 입자가 위치할 확률이 동일함을 나타낸다. 이것은 곧 입자의 위치를 명확히 특정짓지 못함을 내포하고 있다. 즉, 위치와 운동량은 동시 가측량이 아니라는 것인데, 이것은 논의를 거치면서 더 명확해진다.
+
+4. 상태의 중첩 [편집]
+어떤 입자의 상태 ψ ( x ) \psi(x) ψ ( x ) 가 주어졌다고 생각해보자. 양자역학적으로 이것은 수많은 운동량 고유 상태의 중첩
+
+ψ ( x ) = ∫ − ∞ ∞ ϕ ( k ) ∣ k ⟩ d k = 1 2 π ∫ − ∞ ∞ ϕ ( k ) e i k x d k \displaystyle \begin{aligned} \psi(x) &=\int_{-\infty}^{\infty} \phi(k) | k \rangle \,{\rm d}k \\&=\frac{1}{\sqrt{2 \pi}}\int_{-\infty}^{\infty} \phi(k) e^{ikx}\,{\rm d}k \end{aligned} ψ ( x ) ​ = ∫ − ∞ ∞ ​ ϕ ( k ) ∣ k ⟩ d k = 2 π ​ 1 ​ ∫ − ∞ ∞ ​ ϕ ( k ) e ik x d k ​
+으로 생각할 수 있다. k k k 값에 대한 제한이 일단은 없는 상태 즉, 연속적인 스펙트럼을 갖기 때문에 합의 기호가 아닌 적분으로 나타냈다.
+
+따라서 ψ ( x ) \psi(x) ψ ( x ) 의 상태에 있는 입자에 대하여 운동량을 측정하여 ℏ k \hbar k ℏ k 를 얻었다면, 상태는 ∣ k ⟩| k \rangle ∣ k ⟩ 로 고정될 것이다. 이 상태에서 다시 운동량을 측정한다면 고정된 상태에 따라 ℏ k \hbar k ℏ k 를 얻지만, 위치 등을 측정할 경우 해당 상태는 해당 가측량에 대한 고유상태가 아니기 때문에 계의 정보가 파괴되게 된다.
+
+계수 ϕ ( k ) \phi(k) ϕ ( k ) 를 구해보자.
+
+⟨ k ′ ∣ ψ ( x ) ⟩ = ∫ − ∞ ∞ ϕ ( k ) ⟨ k ′ ∣ k ⟩ d k = ∫ − ∞ ∞ ϕ ( k ) δ ( k − k ′ ) d k = ϕ ( k ′ ) \displaystyle \begin{aligned} \langle k'| \psi(x) \rangle &=\int_{-\infty}^{\infty} \phi(k) \langle k' | k \rangle \,{\rm d}k \\&=\int_{-\infty}^{\infty} \phi(k) \delta(k-k') \,{\rm d}k \\&=\phi(k') \end{aligned} ⟨ k ′ ∣ ψ ( x )⟩ ​ = ∫ − ∞ ∞ ​ ϕ ( k ) ⟨ k ′ ∣ k ⟩ d k = ∫ − ∞ ∞ ​ ϕ ( k ) δ ( k − k ′ ) d k = ϕ ( k ′ ) ​
+따라서
+
+ϕ ( k ) = 1 2 π ∫ − ∞ ∞ ψ ( x ) e − i k x d x \displaystyle \begin{aligned} \phi(k)=\frac{1}{\sqrt{2 \pi}}\int_{-\infty}^{\infty} \psi(x) e^{-ikx}\,{\rm d}x \end{aligned} ϕ ( k ) = 2 π ​ 1 ​ ∫ − ∞ ∞ ​ ψ ( x ) e − ik x d x ​
+
+이 계수 ϕ ( k ) \phi(k) ϕ ( k ) 에 대하여 ∣ ϕ ( k ) ∣ 2 d k|\phi(k)|^{2}\,{\rm d}k ∣ ϕ ( k ) ∣ 2 d k 은 구간 [ k , k + d k ] [k,\,k+{\rm d}k] [ k , k + d k ] 에서 입자가 p = ℏ k p=\hbar k p = ℏ k 의 운동량을 가질 확률을 나타내는 것이다.
+
+5. 기댓값 [편집]
+기댓값을 구하는 것은 다른 연산자와 동일하게
+
+⟨ p ⟩ = ⟨ ψ ∣ p ^ ∣ ψ ⟩ = ∫ − ∞ ∞ ψ ∗ p ^ ψ d x \displaystyle \begin{aligned} \langle p \rangle &=\langle \psi | \hat{p} |\psi \rangle \\&= \int_{-\infty}^{\infty} \psi^{\ast} \hat{p} \psi\,{\rm d}x \end{aligned} ⟨ p ⟩ ​ = ⟨ ψ ∣ p ^ ​ ∣ ψ ⟩ = ∫ − ∞ ∞ ​ ψ ∗ p ^ ​ ψ d x ​
+을 이용하면 된다.
+
+5.1. 기댓값의 시간 변화 [편집]
+양자역학에서 기댓값의 시간 전개는 다음과 같이 주어진다.
+
+d ⟨ A ⟩ d t = i ℏ ⟨ [ H ^ , A ^ ] ⟩ + ⟨ ∂ A ^ ∂ t ⟩ \displaystyle \begin{aligned} \frac{{\rm d}\langle A \rangle}{{\rm d}t}=\frac{i}{\hbar}\langle [\hat{\mathcal H},\,\hat{A}] \rangle +\biggl\langle \frac{\partial \hat{A}}{\partial t} \biggr\rangle \end{aligned} d t d ⟨ A ⟩ ​ = ℏ i ​ ⟨[ H ^ , A ^ ]⟩ + ⟨ ∂ t ∂ A ^ ​ ⟩ ​
+운동량 연산자는 시간에 의존하지 않으므로 우변의 제2항은 0이 되고, 뒷 문단에서 증명하겠지만 [ H ^ , p ^ ] = i ℏ ∇ V [\hat{\mathcal{H}},\,\mathbf{\hat{p}}]=i\hbar \boldsymbol{\nabla} V [ H ^ , p ^ ​ ] = i ℏ ∇ V 이므로
+
+d ⟨ p ⟩ d t = − ⟨ ∇ V ⟩ \displaystyle \begin{aligned} \frac{{\rm d}\langle \mathbf{p} \rangle}{{\rm d}t}=-\langle \boldsymbol{\nabla} V \rangle \end{aligned} d t d ⟨ p ⟩ ​ = − ⟨ ∇ V ⟩ ​
+고전역학에서
+
+d p d t = − ∇ V \displaystyle \frac{{\rm d} \mathbf{p}}{{\rm d}t}=-\boldsymbol{\nabla}V d t d p ​ = − ∇ V
+와 비슷한 결과를 얻었음을 알 수 있다. 추가적으로 증명은 하지 않겠지만 다음이 성립함을 일러둔다.
+
+d ⟨ r ⟩ d t = ⟨ p ⟩ m \displaystyle \begin{aligned} \frac{{\rm d}\langle \mathbf{r} \rangle}{{\rm d}t}=\frac{\langle \mathbf{p} \rangle}{m} \end{aligned} d t d ⟨ r ⟩ ​ = m ⟨ p ⟩ ​ ​
+이 또한 고전역학에서 m r ˙ = p m \mathbf{\dot{r}}=\mathbf{p} m r ˙ = p 임과 비슷한 결과를 얻은 것이다.
+
+만일 퍼텐셜이 없는 자유입자의 상황이라면
+
+d ⟨ p ⟩ d t = 0 \displaystyle \begin{aligned} \frac{{\rm d}\langle \mathbf{p} \rangle}{{\rm d}t}=\mathbf{0} \end{aligned} d t d ⟨ p ⟩ ​ = 0 ​
+으로 고전역학에서 외력이 가해지지 않는 입자의 운동량이 보존된다는 결과와 유사한 결과를 얻을 수 있다.
+
+6. 자기 수반성 [편집]
+운동량 연산자가 자기 수반성(hermiticity) 을 갖는지 알아보자. 그것을 검증하려면
+
+⟨ p ^ f 1 ∣ f 2 ⟩ = ⟨ f 1 ∣ p ^ f 2 ⟩ \displaystyle \begin{aligned} \langle \hat{p} f_{1} | f_{2} \rangle=\langle f_{1} | \hat{p} f_2 \rangle \end{aligned} ⟨ p ^ ​ f 1 ​ ∣ f 2 ​ ⟩ = ⟨ f 1 ​ ∣ p ^ ​ f 2 ​ ⟩ ​
+임을 증명하면 된다. 우변은
+
+ℏ i ∫ − ∞ ∞ f 1 ∗ ∂ f 2 ∂ x d x \displaystyle \begin{aligned} \frac{\hbar}{i} \int_{-\infty}^{\infty} f_{1}^{\ast} \frac{\partial f_{2}}{\partial x}\,{\rm d}x \end{aligned} i ℏ ​ ∫ − ∞ ∞ ​ f 1 ∗ ​ ∂ x ∂ f 2 ​ ​ d x ​
+이고, 좌변은
+
+− ℏ i ∫ − ∞ ∞ ∂ ∂ x f 1 ∗ f 2 d x = − ℏ i ( [ f 1 ∗ f 2 ] − ∞ ∞ − ∫ − ∞ ∞ f 1 ∗ ∂ f 2 ∂ x d x ) \displaystyle \begin{aligned} -\frac{\hbar}{i} \int_{-\infty}^{\infty} \frac{\partial }{\partial x} f_{1}^{\ast}f_{2}\,{\rm d}x &=-\frac{\hbar}{i} \left( \biggl[f_{1}^{\ast}f_{2} \biggr]_{-\infty}^{\infty} -\int_{-\infty}^{\infty} f_{1}^{\ast}\frac{\partial f_{2}}{\partial x}\,{\rm d}x \right) \end{aligned} − i ℏ ​ ∫ − ∞ ∞ ​ ∂ x ∂ ​ f 1 ∗ ​ f 2 ​ d x ​ = − i ℏ ​ ( [ f 1 ∗ ​ f 2 ​ ] − ∞ ∞ ​ − ∫ − ∞ ∞ ​ f 1 ∗ ​ ∂ x ∂ f 2 ​ ​ d x ) ​
+이 된다. 이것을 전개할 때는 부분적분 을 사용했다. 만약 f 1 f_{1} f 1 ​ , f 2 f_{2} f 2 ​ 가 힐베르트 공간의 원소라면 우변의 제 1항은 0이 된다. 즉,
+
+− ℏ i ∫ − ∞ ∞ ∂ ∂ x f 1 ∗ f 2 d x = ℏ i ∫ − ∞ ∞ f 1 ∗ ∂ ∂ x f 2 d x = ⟨ f 1 ∣ p ^ f ⟩ \displaystyle \begin{aligned} -\frac{\hbar}{i} \int_{-\infty}^{\infty} \frac{\partial }{\partial x} f_{1}^{\ast}f_{2}\,{\rm d}x &=\frac{\hbar}{i} \int_{-\infty}^{\infty} f_{1}^{\ast}\frac{\partial }{\partial x}f_{2}\,{\rm d}x \\&=\langle f_{1} | \hat{p} f \rangle \end{aligned} − i ℏ ​ ∫ − ∞ ∞ ​ ∂ x ∂ ​ f 1 ∗ ​ f 2 ​ d x ​ = i ℏ ​ ∫ − ∞ ∞ ​ f 1 ∗ ​ ∂ x ∂ ​ f 2 ​ d x = ⟨ f 1 ​ ∣ p ^ ​ f ⟩ ​
+이상에서 p ^ = p ^ † \hat{p}=\hat{p}^{\dagger} p ^ ​ = p ^ ​ † , 즉 자기 수반성을 가진다.
+
+7. 기저의 변환 [편집]
+위의 결과
+
+ψ ( x ) = 1 2 π ∫ − ∞ ∞ ϕ ( k ) e i k x d k ϕ ( k ) = 1 2 π ∫ − ∞ ∞ ψ ( x ) e − i k x d x \displaystyle \begin{aligned} \psi(x) &=\frac{1}{\sqrt{2 \pi}}\int_{-\infty}^{\infty} \phi(k) e^{ikx}\,{\rm d}k \\ \phi(k)&=\frac{1}{\sqrt{2 \pi}}\int_{-\infty}^{\infty} \psi(x) e^{-ikx}\,{\rm d}x \end{aligned} ψ ( x ) ϕ ( k ) ​ = 2 π ​ 1 ​ ∫ − ∞ ∞ ​ ϕ ( k ) e ik x d k = 2 π ​ 1 ​ ∫ − ∞ ∞ ​ ψ ( x ) e − ik x d x ​
+는 사실 푸리에 변환 이다. 이 두 식은 곧 파동함수에 대하여 위치 표현(위치를 기저로 함)과 운동량 표현(운동량을 기저로 함)의 관계를 나타낸다고 할 수 있다.
+
+또한 알고 있듯, - ∣ ψ ( x ) ∣ 2 d x|\psi(x)|^{2}\,{\rm d}x ∣ ψ ( x ) ∣ 2 d x 는 구간 [ x , x + d x ] [x,\,x+{\rm d}x] [ x , x + d x ] 사이에 입자가 위치할 확률
+- ∣ ϕ ( k ) ∣ 2 d k|\phi(k)|^{2}\,{\rm d}k ∣ ϕ ( k ) ∣ 2 d k 는 구간 [ k , k + d k ] [k,\,k+{\rm d}k] [ k , k + d k ] 사이에 입자가 운동량 p = ℏ k p=\hbar k p = ℏ k 를 가질 확률
+
+을 나타낸다.
+
+한 예로 초기의 사각파를 보고자 한다. 초기의 파동함수가
+
+ψ ( x ) = { A ( − a 2 ≤ x ≤ a 2 ) 0 ( otherwise ) \displaystyle \psi(x)=\begin{cases} A& \quad \left(-\dfrac{a}{2} \leq x \leq \dfrac{a}{2} \right ) \\ 0 & \quad (\textsf{otherwise}) \end{cases} ψ ( x ) = { A 0 ​ ( − 2 a ​ ≤ x ≤ 2 a ​ ) ( otherwise ) ​
+의 형태로 주어진다고 생각해보자. 파동함수는 규격화가 가능해야 하므로
+
+∫ − a / 2 a / 2 ∣ A ∣ 2 d x = 1 \displaystyle \int_{-a/2}^{a/2}|A|^{2}\,{\rm d}x=1 ∫ − a /2 a /2 ​ ∣ A ∣ 2 d x = 1
+을 만족해야 하므로 규격화 상수는 A = ( a ) − 1 A=(\sqrt{a})^{-1} A = ( a ​ ) − 1 이다. 따라서 규격화된 파동함수는 아래와 같다.
+
+ψ ( x ) = { 1 a ( − a 2 ≤ x ≤ a 2 ) 0 ( otherwise ) \displaystyle \psi(x)=\begin{cases} \dfrac{1}{\sqrt{a}}& \quad \left(-\dfrac{a}{2} \leq x \leq \dfrac{a}{2} \right ) \\ 0 & \quad (\textsf{otherwise}) \end{cases} ψ ( x ) = ⎩ ⎨ ⎧ ​ a ​ 1 ​ 0 ​ ( − 2 a ​ ≤ x ≤ 2 a ​ ) ( otherwise ) ​
+이때, k k k 공간으로 변환하면
+
+ϕ ( k ) = 1 2 π ∫ − ∞ ∞ ψ ( x ) e − i k x d x = 1 2 π a ∫ − a / 2 a / 2 e − i k x d x = a 2 π sin ⁡ ( k a 2 ) k a 2 \displaystyle \begin{aligned} \phi(k)&=\frac{1}{\sqrt{2 \pi}}\int_{-\infty}^{\infty} \psi(x) e^{-ikx}\,{\rm d}x \\&=\frac{1}{\sqrt{2 \pi a}}\int_{-a/2}^{a/2} e^{-ikx}\,{\rm d}x \\&=\sqrt{\frac{a}{2\pi }}\frac{\sin{\biggl( \dfrac{ka}{2} \biggr)}}{\dfrac{ka}{2}} \end{aligned} ϕ ( k ) ​ = 2 π ​ 1 ​ ∫ − ∞ ∞ ​ ψ ( x ) e − ik x d x = 2 π a ​ 1 ​ ∫ − a /2 a /2 ​ e − ik x d x = 2 π a ​ ​ 2 k a ​ sin ( 2 k a ​ ) ​ ​
+즉, k k k 공간의 파동함수는 sinc 함수 형태이다. 따라서 [ k , k + d k ] [k,\,k+{\rm d}k] [ k , k + d k ] 에서 운동량 p = ℏ k p=\hbar k p = ℏ k 를 가질 확률 밀도 함수는
+
+∣ ϕ ( k ) ∣ 2 = a 2 π sin ⁡ 2 ( k a 2 ) ( k a 2 ) 2 \displaystyle \begin{aligned} |\phi(k)|^{2}&=\frac{a}{2\pi}\frac{\sin^{2}{\biggl( \dfrac{ka}{2} \biggr)}}{\biggl( \dfrac{ka}{2} \biggr)^{2}} \end{aligned} ∣ ϕ ( k ) ∣ 2 ​ = 2 π a ​ ( 2 k a ​ ) 2 sin 2 ( 2 k a ​ ) ​ ​
+실제로 적분해보면 이 함수의 전구간의 적분값은
+
+∫ ∞ ∞ ∣ ϕ ( k ) ∣ 2 d k = 1 \displaystyle \begin{aligned} \int_{\infty}^{\infty}|\phi(k)|^{2}\,{\rm d}k=1 \end{aligned} ∫ ∞ ∞ ​ ∣ ϕ ( k ) ∣ 2 d k = 1 ​
+이다. 초기의 사각파를 파동함수로 갖는 입자의 운동은 아래와 같이 요약할 수 있다. - ∣ ϕ ( k ) ∣ 2|\phi(k)|^{2} ∣ ϕ ( k ) ∣ 2 은 k = 0 k=0 k = 0 에서 최댓값을 갖는다. 따라서 운동량을 측정됐을 때, 빈번하게 측정되는 값은 p = 0 p=0 p = 0 이다.
+- ∣ ϕ ( k ) ∣ 2|\phi(k)|^{2} ∣ ϕ ( k ) ∣ 2 은
+
+k a 2 = n π → k = 2 n π a \displaystyle \begin{aligned} \frac{ka}{2}=n \pi \quad \to \quad k=\frac{2n \pi}{a} \quad \end{aligned} 2 k a ​ = nπ → k = a 2 nπ ​ ​ (단, n ≠ 0 n \neq 0 n  = 0 인 정수)
+에서 영점을 갖는다. 운동량을 측정했을 때, p = 2 n π ℏ / a p=2n \pi \hbar/{a} p = 2 nπ ℏ/ a 의 값은 측정되지 않는다.
+
+이처럼 입자의 운동을 통계적으로 분석할 수 있기에 고체물리학 과 관련된 학문에서는 이 운동량 공간의 파동함수를 주로 사용한다.
+
+8. 교환자 관계 [편집]
+양자역학에서 다른 연산자와 교환자 관계를 알아보는 것은 매우 중요한 것으로, 동시 가측량인지, 파동함수를 공유하는지 알게해준다.
+
+가장 중요한 관계는 위치 연산자와 운동량 연산자의 교환자 관계이다.
+
+[ x ^ , p ^ ] = x ^ p ^ − p ^ x ^ \displaystyle \begin{aligned}[\hat{x},\,\hat{p}]=\hat{x}\hat{p}-\hat{p}\hat{x} \end{aligned} [ x ^ , p ^ ​ ] = x ^ p ^ ​ − p ^ ​ x ^ ​
+우선 제 1항부터 조사해보자.
+
+x ^ p ^ = − i ℏ x ∂ ∂ x \displaystyle \begin{aligned} \hat{x}\hat{p}&=-i\hbar x \frac{\partial}{\partial x} \end{aligned} x ^ p ^ ​ ​ = − i ℏ x ∂ x ∂ ​ ​
+제 2항을 조사할 땐 미분 연산자가 있다는 것에 유의해야 한다. 시험 함수를 넣어 조사한다.
+
+p ^ x ^ f = − i ℏ ∂ ∂ x ( x f ) = − i ℏ f − i ℏ x ∂ ∂ x f ∴ p ^ x ^ = − i ℏ ( 1 + x ∂ ∂ x ) \displaystyle \begin{aligned} \hat{p}\hat{x}f&=-i\hbar \frac{\partial}{\partial x} (xf) \\&=-i\hbar f- i\hbar x\frac{\partial}{\partial x}f \\ \\ \therefore \hat{p}\hat{x}&=-i\hbar \left( 1+x\frac{\partial}{\partial x} \right) \end{aligned} p ^ ​ x ^ f ∴ p ^ ​ x ^ ​ = − i ℏ ∂ x ∂ ​ ( x f ) = − i ℏ f − i ℏ x ∂ x ∂ ​ f = − i ℏ ( 1 + x ∂ x ∂ ​ ) ​
+이상에서
+
+[ x ^ , p ^ ] = i ℏ \displaystyle \begin{aligned}[\hat{x},\,\hat{p}]=i\hbar \end{aligned} [ x ^ , p ^ ​ ] = i ℏ ​
+임을 얻는데, 이를 정준 교환 관계(canonical commutation relation) 라 한다. 즉, 위치와 운동량은 동시 가측량이 아님 을 내포하고 있다. 또한 위치 연산자에 대한 고유함수와 운동량 연산자에 대한 고유함수는 공유하지 않는다.
+
+3차원 상에서는 다음이 성립한다.
+
+[ x ^ j , p ^ k ] = δ j k i ℏ \displaystyle \begin{aligned} [\hat{x}_{j},\,\hat{p}_{k}]=\delta_{jk} i\hbar \end{aligned} [ x ^ j ​ , p ^ ​ k ​ ] = δ j k ​ i ℏ ​
+δ j k \delta_{jk} δ j k ​ 는 크로네커 델타 이다.
+
+다음으로 알아볼 것은 운동량 연산자와 해밀토니언 연산자이다. 먼저 자유입자인 경우를 알아보자. 이 경우 V ^ = 0 \hat{V}=0 V ^ = 0 이고, H ^ = p ^ 2 / 2 m \hat{\mathcal{H}}=\hat{p}^{2}/2m H ^ = p ^ ​ 2 /2 m 이다. 해밀토니언 연산자에서 앞에 붙은 상수는 무시하면 곧
+
+[ H ^ , p ^ ] = [ p ^ 2 , p ^ ] = 0 \displaystyle \begin{aligned} [\hat{\mathcal{H}},\,\hat{p}]&=[\hat{p}^{2},\,\hat{p}] \\&=0 \end{aligned} [ H ^ , p ^ ​ ] ​ = [ p ^ ​ 2 , p ^ ​ ] = 0 ​
+즉, 자유입자의 경우 해밀토니언 연산자와 운동량 연산자는 교환한다. 입자의 해밀토니언과 운동량은 동시 가측량이며, 두 연산자는 고유함수를 공유한다. 이는 3차원의 경우도 동일하게 성립한다. 하지만 자유입자가 아닌 경우에는 H ^ = T ^ + V ^ ( T ^ = p ^ 2 / 2 m ) \hat{\mathcal{H}}=\hat{T}+\hat{V}\,(\hat{T}=\hat{p}^{2}/2m) H ^ = T ^ + V ^ ( T ^ = p ^ ​ 2 /2 m ) 라는 점에서 [ V ^ , p ^ ] [\hat{V},\,\hat{p}] [ V ^ , p ^ ​ ] 를 조사하여야 한다. 시험함수 f f f 를 사용하면
+
+[ V ^ , p ^ ] f = ℏ i [ V ( x ) ∂ f ∂ x − ∂ ∂ x ( V f ) ] = ℏ i [ V ( x ) ∂ f ∂ x − V ( x ) ∂ f ∂ x − ∂ V ∂ x f ] = i ℏ ∂ V ∂ x f ∴ [ V ^ , p ^ ] = i ℏ ∂ V ∂ x \displaystyle \begin{aligned} [\hat{V},\,\hat{p}]f &=\frac{\hbar}{i}\left[ V(x) \frac{\partial f}{\partial x}- \frac{\partial }{\partial x} (Vf) \right] \\ &=\frac{\hbar}{i}\left[ V(x) \frac{\partial f}{\partial x}- V(x)\frac{\partial f}{\partial x}-\frac{\partial V}{\partial x} f \right] \\ &=i\hbar \frac{\partial V}{\partial x} f \\ \\ \therefore [\hat{V},\,\hat{p}]&=i\hbar \frac{\partial V}{\partial x} \end{aligned} [ V ^ , p ^ ​ ] f ∴ [ V ^ , p ^ ​ ] ​ = i ℏ ​ [ V ( x ) ∂ x ∂ f ​ − ∂ x ∂ ​ ( V f ) ] = i ℏ ​ [ V ( x ) ∂ x ∂ f ​ − V ( x ) ∂ x ∂ f ​ − ∂ x ∂ V ​ f ] = i ℏ ∂ x ∂ V ​ f = i ℏ ∂ x ∂ V ​ ​
+임의의 퍼텐셜 함수에 대하여 위 식의 값은 0이 아니다. 즉, 퍼텐셜이 0이거나 상수이지 않은 경우에는 교환하지 않는다. 일반적으로는 해밀토니언 연산자와 운동량 연산자는 동일한 고유함수를 가지지 않는다는 것을 알 수 있고, 두 물리량은 동시 가측량이 아니다. 정리하면
+
+[ H ^ , p ^ ] = i ℏ ∂ V ∂ x \displaystyle \begin{aligned} [\hat{\mathcal{H}},\,\hat{p}]=i\hbar \frac{\partial V}{\partial x} \end{aligned} [ H ^ , p ^ ​ ] = i ℏ ∂ x ∂ V ​ ​
+3차원의 경우 다음이 성립한다.
+
+[ H ^ , p ^ ] = i ℏ ∇ V \displaystyle \begin{aligned} [\hat{\mathcal{H}},\,\mathbf{\hat{p}}]=i\hbar \boldsymbol{\nabla}V \end{aligned} [ H ^ , p ^ ​ ] = i ℏ ∇ V ​
+
+9. 불확정성 원리 [편집]
+일반적으로 자기 수반인 두 연산자 A ^ \hat{A} A ^ , B ^ \hat{B} B ^ 에 대한 각각의 불확정성 Δ A \Delta A Δ A , Δ B \Delta B Δ B 는 다음과 같이 주어진다. (증명은 불확정성 원리 문서를 참조하자.)
+
+Δ A Δ B ≥ ∣ 1 2 i ⟨ ψ ∣ [ A ^ , B ^ ] ∣ ψ ⟩ ∣ \displaystyle \Delta A \Delta B \geq \left| \frac{1}{2i} \langle \psi | [\hat{A},\,\hat{B}] | \psi \rangle \right| Δ A Δ B ≥ ​ 2 i 1 ​ ⟨ ψ ∣ [ A ^ , B ^ ] ∣ ψ ⟩ ​
+ψ \psi ψ 가 힐베르트 공간의 원소라면 [ x ^ , p ^ ] = i ℏ [\hat{x},\,\hat{p}]=i\hbar [ x ^ , p ^ ​ ] = i ℏ 이므로
+
+Δ x Δ p ≥ ℏ 2 \displaystyle \Delta x \Delta p \geq \frac{\hbar}{2} Δ x Δ p ≥ 2 ℏ ​
+이 성립한다. 즉, 위치와 운동량은 동시가측량이 아님을 내포하고 있다. 자세한 해석은 불확정성 원리 문서를 참조한다.
+
+10. 변위 연산자 [편집]
+양자역학적으로 계에 미소 변위 δ r ≪ 1 \delta \mathbf{r} \ll 1 δ r ≪ 1 을 가하는 연산자를 조사해보자. 상태 f f f 에 대하여 변위를 적용한 결과는
+
+f ( r − δ r ) = f ( r ) − ∇ f ⋅ δ r \displaystyle f(\mathbf{r}-\delta \mathbf{r})=f(\mathbf{r})-\boldsymbol{\nabla}f \boldsymbol{\cdot} \delta \mathbf{r} f ( r − δ r ) = f ( r ) − ∇ f ⋅ δ r
+δ r ≪ 1 \delta r \ll 1 δ r ≪ 1 을 만족하므로 1차항까지만 전개하였다. 한편, 운동량 연산자의 정의
+
+ℏ i ∇ = p ^ \displaystyle \frac{\hbar}{i}\boldsymbol{\nabla}=\mathbf{\hat{p}} i ℏ ​ ∇ = p ^ ​
+를 사용하면
+
+f ( r − δ r ) = f ( r ) − i ℏ p ^ f ⋅ δ r = ( I ^ − i ℏ δ r ⋅ p ^ ) f ( r ) \displaystyle \begin{aligned} f(\mathbf{r}-\delta \mathbf{r})&=f(\mathbf{r})-\frac{i}{\hbar}\mathbf{\hat{p}}f \boldsymbol{\cdot} \delta \mathbf{r} \\&=\left( \hat{I}-\frac{i}{\hbar}\delta \mathbf{r} \boldsymbol{\cdot}\mathbf{\hat{p}} \right) f(\mathbf{r}) \end{aligned} f ( r − δ r ) ​ = f ( r ) − ℏ i ​ p ^ ​ f ⋅ δ r = ( I ^ − ℏ i ​ δ r ⋅ p ^ ​ ) f ( r ) ​
+여기서 나온 연산자항을 미소 변위만큼 평행이동시키는 변위 연산자(translation operator) 라 볼 수 있다. I ^ \hat{I} I ^ 는 자기자신을 내놓는 항등 연산자이다.
+
+무한소 변위가 아닌 변위 a ( a ≫ 1 ) \mathbf{a}\,(a\gg 1) a ( a ≫ 1 ) 에 대하여 다음과 같이 쓰자
+
+δ r = lim ⁡ N → ∞ a N \displaystyle \delta \mathbf{r}=\lim_{N \to \infty} \frac{\mathbf{a}}{N} δ r = N → ∞ lim ​ N a ​
+변위에 대한 변위 연산자는 무한소 변위 연산자를 무한번 적용하여 얻는다.
+
+D ^ = lim ⁡ N → ∞ ( I ^ − i ℏ a N ⋅ p ^ ) N = exp ⁡ ( − i ℏ a ⋅ p ^ ) \displaystyle \begin{aligned} \hat{D}&=\lim_{N \to \infty} \left( \hat{I}-\frac{i}{\hbar}\frac{\mathbf{a}}{N} \boldsymbol{\cdot}\mathbf{\hat{p}} \right)^{N} \\&=\exp{\biggl(-\frac{i}{\hbar} \mathbf{a} \boldsymbol{\cdot}\mathbf{\hat{p}} \biggr)} \end{aligned} D ^ ​ = N → ∞ lim ​ ( I ^ − ℏ i ​ N a ​ ⋅ p ^ ​ ) N = exp ( − ℏ i ​ a ⋅ p ^ ​ ) ​
+여기서 자연로그의 밑 의 정의
+
+e a = lim ⁡ x → ∞ ( 1 + a x ) x \displaystyle \begin{aligned} e^{a}=\lim_{x \to \infty} \left( 1+\frac{a}{x} \right)^{x} \end{aligned} e a = x → ∞ lim ​ ( 1 + x a ​ ) x ​
+를 사용하였다.
+
+간단하게 1차원을 고려하면
+
+D ^ = exp ⁡ ( − i ℏ a p ^ ) \displaystyle \begin{aligned} \hat{D}&=\exp{\biggl(-\frac{i}{\hbar} a \hat{p} \biggr)} \end{aligned} D ^ ​ = exp ( − ℏ i ​ a p ^ ​ ) ​
+이에 대한 역연산자는 − a -a − a 만큼의 변위를 가하는 연산자일 것이므로
+
+D ^ − 1 = exp ⁡ ( i ℏ a p ^ ) \displaystyle \begin{aligned} \hat{D}^{-1}&=\exp{\biggl(\frac{i}{\hbar} a \hat{p} \biggr)} \end{aligned} D ^ − 1 ​ = exp ( ℏ i ​ a p ^ ​ ) ​
+그런데 이 역연산자와 본래의 연산자의 가중 적용은 결국 항등 연산자와 같을 것이다.
+
+D ^ D ^ − 1 = D ^ − 1 D ^ = I ^ \displaystyle \begin{aligned} \hat{D}\hat{D}^{-1}=\hat{D}^{-1}\hat{D}=\hat{I} \end{aligned} D ^ D ^ − 1 = D ^ − 1 D ^ = I ^ ​
+한편,
+
+D ^ † = [ exp ⁡ ( − i ℏ a p ^ ) ] † = [ ∑ n 1 n ! ( − i ℏ a p ^ ) n ] † = ∑ n 1 n ! ( i ℏ a p ^ † ) n = ∑ n 1 n ! ( i ℏ a p ^ ) n ( ∵ p ^ † = p ^ ) = exp ⁡ ( i ℏ a p ^ ) = D ^ − 1 \displaystyle \begin{aligned} \hat{D}^{\dagger}&=\left[ \exp{\biggl(-\frac{i}{\hbar} a \hat{p} \biggr)} \right]^{\dagger} \\&=\left[ \sum_{n} \frac{1}{n!}\left(-\frac{i}{\hbar} a \hat{p} \right)^{n} \right]^{\dagger} \\&=\sum_{n} \frac{1}{n!}\left(\frac{i}{\hbar} a \hat{p}^{\dagger} \right)^{n} \\&=\sum_{n} \frac{1}{n!}\left(\frac{i}{\hbar} a \hat{p} \right)^{n} \qquad (\because \hat{p}^{\dagger}=\hat{p}) \\&=\exp{\biggl(\frac{i}{\hbar} a \hat{p} \biggr)} \\&=\hat{D}^{-1} \end{aligned} D ^ † ​ = [ exp ( − ℏ i ​ a p ^ ​ ) ] † = [ n ∑ ​ n ! 1 ​ ( − ℏ i ​ a p ^ ​ ) n ] † = n ∑ ​ n ! 1 ​ ( ℏ i ​ a p ^ ​ † ) n = n ∑ ​ n ! 1 ​ ( ℏ i ​ a p ^ ​ ) n ( ∵ p ^ ​ † = p ^ ​ ) = exp ( ℏ i ​ a p ^ ​ ) = D ^ − 1 ​
+즉,
+
+D ^ D ^ † = D ^ † D ^ = I ^ \displaystyle \begin{aligned} \hat{D}\hat{D}^{\dagger}=\hat{D}^{\dagger}\hat{D}=\hat{I} \end{aligned} D ^ D ^ † = D ^ † D ^ = I ^ ​
+인데 이러한 연산자를 유니터리 연산자(unitary operator) 라 한다.
+
+10.1. 다시 찾아본 운동량 보존 [편집]
+변위 연산자를 적용하기 전의 상태를 ∣ r ⟩| \mathbf{r} \rangle ∣ r ⟩ 이라 쓰자. 다음이 성립한다.
+
+∣ r + δ r ⟩ = D ^ ∣ r ⟩ \displaystyle \begin{aligned} | \mathbf{r}+\delta \mathbf{r} \rangle =\hat{D} | \mathbf{r} \rangle \end{aligned} ∣ r + δ r ⟩ = D ^ ∣ r ⟩ ​
+만약 공간이 균질하다면, 입자의 해밀토니언은 이러한 변환에 불변이다. 변화 후 해밀토니언을 측정한다는 것은 곧
+
+⟨ H ⟩ = ⟨ r + δ r ∣ H ^ ∣ r + δ r ⟩ \displaystyle \begin{aligned} \langle \mathcal{H}\rangle=\langle \mathbf{r}+\delta \mathbf{r} | \hat{\mathcal{H}}| \mathbf{r}+\delta \mathbf{r} \rangle \end{aligned} ⟨ H ⟩ = ⟨ r + δ r ∣ H ^ ∣ r + δ r ⟩ ​
+일것이다. 한편, 맨 위의 식에 복소공액을 취하면
+
+⟨ r + δ r ∣ = ⟨ r ∣ D ^ † \displaystyle \begin{aligned} \langle \mathbf{r}+\delta \mathbf{r} | = \langle \mathbf{r} | \hat{D}^{\dagger} \end{aligned} ⟨ r + δ r ∣ = ⟨ r ∣ D ^ † ​
+따라서
+
+⟨ r + δ r ∣ H ^ ∣ r + δ r ⟩ = ⟨ r ∣ D ^ † H ^ D ^ ∣ r ⟩ \displaystyle \begin{aligned} \langle \mathbf{r}+\delta \mathbf{r} | \hat{\mathcal{H}}| \mathbf{r}+\delta \mathbf{r} \rangle=\langle \mathbf{r} |\hat{D}^{\dagger} \hat{\mathcal{H}}\hat{D}| \mathbf{r} \rangle \end{aligned} ⟨ r + δ r ∣ H ^ ∣ r + δ r ⟩ = ⟨ r ∣ D ^ † H ^ D ^ ∣ r ⟩ ​
+우리가 고려하는 것은 매우 짧은 시간에 미소 변위만큼 계를 평행이동하는 상황을 고려하고 있다. 변위 전과 변위 후의 해밀토니언은 같게 측정돼야 하므로
+
+⟨ H ⟩ = ⟨ r + δ r ∣ H ^ ∣ r + δ r ⟩ = ⟨ r ∣ H ^ ∣ r ⟩ \displaystyle \begin{aligned} \langle \mathcal{H}\rangle=\langle \mathbf{r}+\delta \mathbf{r} | \hat{\mathcal{H}}| \mathbf{r}+\delta \mathbf{r} \rangle=\langle \mathbf{r} | \hat{\mathcal{H}}| \mathbf{r} \rangle \end{aligned} ⟨ H ⟩ = ⟨ r + δ r ∣ H ^ ∣ r + δ r ⟩ = ⟨ r ∣ H ^ ∣ r ⟩ ​
+이는 균질한 공간을 고려하고 있고, 해밀토니언은 이러한 변환에 불변하기 때문이다.
+
+이상에서
+
+H ^ = D ^ † H ^ D ^ \displaystyle \begin{aligned} \hat{\mathcal{H}}=\hat{D}^{\dagger} \hat{\mathcal{H}}\hat{D} \end{aligned} H ^ = D ^ † H ^ D ^ ​
+양변의 왼쪽에 변위 연산자를 가하고 정리하면 변위 연산자가 유니터리 연산자라는 특성에서 다음이 얻어진다.
+
+H ^ D ^ − D ^ H ^ = [ H ^ , D ^ ] = 0 \displaystyle \begin{aligned} \hat{\mathcal{H}}\hat{D}-\hat{D}\hat{\mathcal{H}} =[\hat{\mathcal{H}},\,\hat{D}]=0 \end{aligned} H ^ D ^ − D ^ H ^ = [ H ^ , D ^ ] = 0 ​
+위 교환자 관계를 조사하면
+
+[ H ^ , D ^ ] = [ H ^ , I ^ − i ℏ δ r ⋅ p ^ ] = [ H ^ , I ^ ] − i ℏ [ H ^ , δ r ⋅ p ^ ] = − i ℏ δ r ⋅ [ H ^ , p ^ ] \displaystyle \begin{aligned} [\hat{\mathcal{H}},\,\hat{D}]&=\left[\hat{\mathcal{H}},\, \hat{I}-\frac{i}{\hbar} \delta \mathbf{r} \boldsymbol{\cdot} \mathbf{\hat{p}} \right] \\&=[\hat{\mathcal{H}},\,\hat{I}]-\frac{i}{\hbar}[\hat{\mathcal{H}},\, \delta \mathbf{r} \boldsymbol{\cdot} \mathbf{\hat{p}} ] \\&=-\frac{i}{\hbar}\delta \mathbf{r} \boldsymbol{\cdot} [\hat{\mathcal{H}},\, \mathbf{\hat{p}} ] \end{aligned} [ H ^ , D ^ ] ​ = [ H ^ , I ^ − ℏ i ​ δ r ⋅ p ^ ​ ] = [ H ^ , I ^ ] − ℏ i ​ [ H ^ , δ r ⋅ p ^ ​ ] = − ℏ i ​ δ r ⋅ [ H ^ , p ^ ​ ] ​
+임의의 변위에 대해서 생각하므로
+
+[ H ^ , p ^ ] = 0 \displaystyle \begin{aligned} [\hat{\mathcal{H}},\, \mathbf{\hat{p}} ]=\mathbf{0} \end{aligned} [ H ^ , p ^ ​ ] = 0 ​
+이것은 곧 위에서 증명했던 운동량 기대치의 보존
+
+d ⟨ p ⟩ d t = 0 \displaystyle \begin{aligned} \frac{{\rm d}\langle \mathbf{{p}} \rangle}{{\rm d}t} =\mathbf{0} \end{aligned} d t d ⟨ p ⟩ ​ = 0 ​
+을 나타낸다. 즉, 공간의 균질성이 선운동량 보존을 이끌어낸다는 것이 양자역학에서도 확인된 것이다.
+
+11. 지름방향 운동량 연산자 [편집]
+이곳 에서 지름방향의 운동을 기술하는, 즉 지름방향의 운동량을 측정하는 연산자는 위치 표현에서 다음과 같음을 밝혀냈다.
+
+P ^ r = ℏ i 1 r ∂ ∂ r r \displaystyle \begin{aligned} \hat{\mathcal{P}}_{r}= \frac{\hbar}{i}\frac{1}{r} \frac{\partial}{\partial r} r \end{aligned} P ^ r ​ = i ℏ ​ r 1 ​ ∂ r ∂ ​ r ​
+지름방향의 운동을 측정하는 것 또한 한 축에 대한 운동량을 측정한다고 볼 수 있을 것이다. 우리가 잡은 좌표계는 절대적인 것이 아닌, 우리가 임의적으로 잡은 것이다. 따라서 지름 방향 또한 한 축에 대한 운동량이라고도 볼 수 있을 것이다. 그렇다면 지름방향의 운동량을 측정해도 그 값은 ℏ k \hbar k ℏ k 형태로 나와야 할 것이다.
+
+시험함수로 한 축에 대한 운동량 연산자에 대한 고유함수인 φ k ( r ) = e i k r \varphi_{k}(r)=e^{ikr} φ k ​ ( r ) = e ik r 을 대입해보자.
+
+P ^ r e i k r = ℏ i 1 r ∂ ∂ r r e i k r = ℏ ( k r − i ) r e i k r \displaystyle \begin{aligned} \hat{\mathcal{P}}_{r}e^{ikr}&=\frac{\hbar}{i}\frac{1}{r} \frac{\partial}{\partial r} re^{ikr} \\&=\frac{\hbar(kr-i)}{r}e^{ikr} \end{aligned} P ^ r ​ e ik r ​ = i ℏ ​ r 1 ​ ∂ r ∂ ​ r e ik r = r ℏ ( k r − i ) ​ e ik r ​
+로 고유치 방정식을 만족시키지 않는다. 다음의 시험함수 φ k ( r ) = r − 1 e i k r \varphi_{k}(r)=r^{-1}e^{ikr} φ k ​ ( r ) = r − 1 e ik r 를 대입해보자.
+
+P ^ r e i k r r = ℏ i 1 r ∂ ∂ r r r − 1 e i k r = ℏ k e i k r r \displaystyle \begin{aligned} \hat{\mathcal{P}}_{r}\frac{e^{ikr}}{r}&=\frac{\hbar}{i}\frac{1}{r} \frac{\partial}{\partial r} rr^{-1}e^{ikr} \\&=\hbar k \frac{e^{ikr}}{r} \end{aligned} P ^ r ​ r e ik r ​ ​ = i ℏ ​ r 1 ​ ∂ r ∂ ​ r r − 1 e ik r = ℏ k r e ik r ​ ​
+따라서 지름방향의 운동량 연산자에 대한 고유함수는
+
+∣ k ⟩ = e i k r r \displaystyle \begin{aligned} | k \rangle=\frac{e^{ikr}}{r} \end{aligned} ∣ k ⟩ = r e ik r ​ ​
+의 형태로 주어진다.
+
+따로 증명하지는 않으나 이 연산자 또한 교환자 관계
+
+[ P ^ r , r ^ ] = i ℏ \displaystyle \begin{aligned} [\hat{\mathcal{P}}_{r},\,\hat{r}]=i\hbar \end{aligned} [ P ^ r ​ , r ^ ] = i ℏ ​
+가 성립한다.
+[ 1미리치과의원
+치아미백이벤트-앞니레진.com v-if
+신중동역 6번 출구, 치과보철과 전문의
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 남동구가구 전문 썸앤데코
+m.place.naver.com/place/1778971598 v-if
+자체제작 가구 및 타브랜드제품을 가성비있게 제공하는 가구전문 브랜드 썸앤데코
+
+]
+
+[1] 표기가 같은 오일러 피 함수 와는 무관하다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

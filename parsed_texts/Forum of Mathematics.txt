@@ -1,0 +1,110 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if Forum of Mathematics
+최근 수정 시각: 2025-07-11 13:24:22 [ [ [ ] [ [ 1 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 나무위키 학술지 프로젝트
+- 수학학술지
+- 케임브리지 대학교 출판부
+]
+
+[ [ ] [ [ 펼치기 · 접기 ] 대학 정보
+학과 및 연구소 | 학위과정 및 전공 | 컬리지 | 장학금 | 입시 | 한국과의 관계
+도시 정보
+도시 전반 | 교통 | 관광
+졸업생 / 기타
+출신 인물
+( 컬리지별 ) | 재직 인물
+( 루커스 수학 석좌 교수 ) | 옥스브리지 | 케임브리지 5인조 | 케임브리지학파 | 케임브리지 자본 논쟁
+산하 기관 및 제공 서비스
+케임브리지 저지 비즈니스 스쿨 | 출판부
+( Forum of Mathematics , English Pronunciation in Use , English Vocabulary in Use , Grammar in Use ) | 시험개발원
+( IELTS , 케임브리지 영어 시험 , IGCSE , A-Level , STEP )
+
+1 . 개요 2 . Forum of Mathematics, Pi 3 . Forum of Mathematics, Sigma
+
+1. 개요 [편집]
+케임브리지 대학교 출판부 에서 간행 중인 수학 분야의 오픈 액세스 저널. #
+
+출판되지 않는 전자식(electronic) 학술지 로, 구독비가 완전히 무료인 대신 저자가 비용을 내는 gold OA 방식이다. [1] 창간 후 3년동안은 전면 무료로 게재를 받아오다가, [2] 현재는 £1850 가량의 APC(Article processing charge)를 받고 있다. [3] 케임브리지 대학교와 오픈액세스 출판 협약(open access publishing agreement)을 맺은 대학 소속이라면 논문 출판료가 전액 면제되며, [4] 국내의 경우 한국교육학술정보원 과의 협약을 통해 KAIST , 포항공대 , 연세대 등 30개가 넘는 대학이 면제 혜택을 받는다. [5] eligibility checker 를 통해 자신의 대학이 포함되는지 직접 확인해 볼 수도 있다.
+
+성격에 따라 나뉜 Pi와 Sigma 두 개의 저널이 있다. 전자는 수학 종합 학술지 [6] , 후자는 수학의 심화 분야별 학술지 성격이 강하다. [7] Sigma의 경우 수학기초론 , 이산수학 , 대수학 , 정수론 , 대수기하학 , 미분 / 해석기하학 , 위상수학 , 해석학 , 수리물리학 , 이론 컴퓨터 과학 등을 포함한 14개의 개별 수학 분야들로 나누어져 있으며, 각 분야를 클러스터(cluster)라고 부른다. [8] [9]
+
+개별 논문이 심사 후 즉시 출간되는 전자식 저널이라 호(issue)의 개념이 없다. [10] 대신 색인을 위해 1년을 주기로 묶은 권(volume)의 개념이 존재하며, [11] pi와 sigma 모두 현재 Vol 13까지 나온 상황이다. #P #S
+
+공개되는 논문은 크리에이티브 커먼즈 라이선스로 배포된다.
+
+2. Forum of Mathematics, Pi [편집]
+Forum of Mathematics, Pi
+FMP
+
+창간일 | 2012년 10월 [ey]
+간행 주기 | 개별
+분야 | 수학 전반
+편집장 | Robert Guralnick [e]
+출판사 | 케임브리지 대학교 출판부
+ISO-4 | Forum Math. Pi #
+지표 | h-i | 20 [sp]
+IF | 2.8 [15]
+SJR | Q1 [sp]
+링크
+
+창간된 지 15년도 지나지 않은 비교적 최근 저널이라 교재나 나무위키에 언급될 만큼 중요한 연구 성과는 역사가 오래된 타 저널에 비애 상대적으로 많지 않은 편. - Vol 1 - 2013년 - p진 드 람 정리(p-adic de Rham theorem) 증명 (5월 17일) - 페터 숄체 [17]
+- Vol 4 - 2016년 - 톰슨 추측 증명 (7월 8일) - 팜 H. 티에프 [18]
+- Vol 5 - 2017년 - 케플러의 추측 의 형식적 증명 (5월 29일) - 토마스 헤일스, 마크 애덤스, et al. [19]
+- Vol 7 - 2019년 - 콜라츠 추측 이 거의 모든 자연수에 대해 참임을 증명 ( 5월 20일 ) - 테렌스 타오 [20]
+- Vol 8 - 2020년 - 드 브루인 뉴먼 상수 가 음수가 아님을 증명 ( 4월 6일 ) - 브랫 로저스, 테렌스 타오 [21]
+
+3. Forum of Mathematics, Sigma [편집]
+Forum of Mathematics, Sigma
+FMS
+
+창간일 | 2012년 10월 [ey]
+간행 주기 | 개별
+분야 | 개별 수학 분야
+편집장 | Robert Guralnick [e]
+출판사 | 케임브리지 대학교 출판부
+ISO-4 | Forum Math. Sigma #
+지표 | h-i | 23 [ss]
+IF | 1.2 [25]
+SJR | Q1 [ss]
+링크
+
+[ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 인천논현동 맛집 소문난껍데기
+map.naver.com/p/entry/place/1943388597 v-if
+여기 껍데기 안 먹어봤다는 건 인생의 반을 손해 본 거예요! 동네 맛집의 자부심!
+
+] | [ 남동구유선방송 쿠팡
+www.coupang.com v-if
+[ [ 로켓배송 ] [ 로켓직구 ] [ 골드박스 ] [ 로켓프레시 ] ]
+남동구유선방송, TV에 연결만 하면 즉시 작동! 와우회원 무료배송 받으세요.
+
+]
+
+[1] This journal is a fully open access journal, which means all articles are published as Gold Open Access under a Creative Commons licence. This enables anyone to access and redistribute the content and, depending upon the licence, re-use the content in new or derivative works with attribution. #P #S [2] For the first three years of the journal, Cambridge University Press will waive the publication charges. So for three years the journal will be what Marie Farge (who has worked very hard for a more rational publication system) likes to call diamond open access, a quasi-miraculous model where neither author nor reader pays anything. # @ [3] If you are not covered by such an agreement, another option is for an article processing charge (APC) to be paid, typically by your funding body or institution. # @ [4] If your institution has an open access publishing agreement with Cambridge, you may publish your article OA at no cost to you. # [5] The Korea Education and Research Information Service (KERIS) has made an agreement with Cambridge University Press to support Open Access publishing. If you are affiliated with a participating institution, you can publish your article Open Access (OA) - at no cost to you - in gold and hybrid journals. # [6] Forum of Mathematics, Pi is the open access alternative to the leading generalist mathematics journals and are of real interest to a broad cross-section of all mathematicians. # [7] Forum of Mathematics, Sigma is the open access alternative to the leading specialist mathematics journals. # [8] Editorial decisions are made by dedicated clusters of editors concentrated in the following areas: foundations of mathematics, discrete mathematics, algebra, number theory, algebraic and complex geometry, differential geometry and geometric analysis, topology, analysis, probability, differential equations, computational mathematics, applied analysis, mathematical physics, and theoretical computer science. This classification exists to aid the peer review process. # [9] The editorial board of the Forum of Mathematics will be divided into “clusters” of people, with each cluster representing a different area of mathematics. When you submit a paper, you will decide which is the appropriate cluster to submit it to, and the editors in that cluster will handle the paper. # [10] There are no issues, and accepted papers will be published online as soon as copyedited and typeset. # [11] 1 volume per year #P #S [ey] 12.1 12.2 barring last-minute hitches, we should be open for submissions on 1 October 2012 # [e] 13.1 13.2 Managing Editor: Robert Guralnick, Department of Mathematics, University of Southern California, Los Angeles, CA 90089-2532, USA guralnic@usc.edu #P #S [sp] 14.1 14.2 Scimago기준, 2023년, Scimago @ [15] 2023년, # @ [17] SCHOLZE, PETER. “$p$-ADIC HODGE THEORY FOR RIGID-ANALYTIC VARIETIES.” Forum of Mathematics, Pi 1 (2013): e1. https://doi.org/10.1017/fmp.2013.1 . # [18] TIEP, PHAM HUU. “THE ${italpha}$ -INVARIANT AND THOMPSON’S CONJECTURE.” Forum of Mathematics, Pi 4 (2016): e5. https://doi.org/10.1017/fmp.2016.3 . # [19] HALES, THOMAS, MARK ADAMS, GERTRUD BAUER, TAT DAT DANG, JOHN HARRISON, LE TRUONG HOANG, CEZARY KALISZYK, et al. “A FORMAL PROOF OF THE KEPLER CONJECTURE.” Forum of Mathematics, Pi 5 (2017): e2. https://doi.org/10.1017/fmp.2017.1 . # [20] Tao, Terence. “Almost All Orbits of the Collatz Map Attain Almost Bounded Values.” Forum of Mathematics, Pi 10 (2022): e12. https://doi.org/10.1017/fmp.2022.8 . # [21] RODGERS, BRAD, and TERENCE TAO. “THE DE BRUIJN–NEWMAN CONSTANT IS NON-NEGATIVE.” Forum of Mathematics, Pi 8 (2020): e6. https://doi.org/10.1017/fmp.2020.6 . # [ss] 24.1 24.2 Scimago기준, 2023년, # [25] 2023년, # ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

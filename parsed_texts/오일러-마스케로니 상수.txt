@@ -1,0 +1,208 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 오일러-마스케로니 상수
+최근 수정 시각: 2026-01-09 07:40:58 [ [ [ ] [ [ 11 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 0과 1 사이의 수
+- 수학상수
+- 수학 용어
+- 레온하르트 오일러
+- 미해결 추론
+]
+
+[ [ ] [ 수학 상수
+Mathematical Constants
+[ 펼치기 · 접기 ] 0 0 0
+덧셈의 항등원 | 1 1 1
+곱셈의 항등원 | 2 \sqrt{2} 2 ​
+제곱근 2 ∗ ^\ast ∗ | 495 495 495 , 6174 6174 6174
+카프리카 수 | 0 0 0 , 1 1 1 , 3435 3435 3435 , 438579088 438579088 438579088
+뮌하우젠 수
+π \pi π
+원주율 ∗ ∗ ^{\ast\ast} ∗∗ | τ \tau τ
+새 원주율 ∗ ∗ ^{\ast\ast} ∗∗ | e e e
+자연로그의 밑 ∗ ∗ ^{\ast\ast} ∗∗ | φ \varphi φ
+황금비 ∗ ^\ast ∗ | i i i
+허수단위
+G G G
+카탈랑 상수 ∗ ? ^{\ast?} ∗ ? | ζ ( 3 ) \zeta(3) ζ ( 3 )
+아페리 상수 ∗ ? ^{\ast?} ∗ ? | S i ( π ) {\rm Si}(\pi) Si ( π )
+윌브레이엄-기브스 상수 ? ^{?} ? | γ \gamma γ
+오일러-마스케로니 상수 ? ^{?} ? | γ n \gamma_n γ n ​
+스틸체스 상수 ? ^{?} ?
+Ω \Omega Ω
+오메가 상수 ∗ ∗ ^{\ast\ast} ∗∗ | 2 2 2^{\sqrt{2}} 2 2 ​
+겔폰트-슈나이더 상수 ∗ ∗ ^{\ast\ast} ∗∗ | C n C_n\, C n ​
+챔퍼나운 상수 ∗ ∗ ^{\ast\ast} ∗∗ | A A\, A
+글레이셔-킨켈린 상수 ? ^{?} ? | A k A_k\, A k ​
+벤더스키-아담칙 상수 ? ^{?} ?
+δ \delta δ
+곰페르츠 상수 ? ^{?} ? | μ \mu μ
+라마누잔-졸트너 상수 ? ^{?} ? | B 2 B_{2} B 2 ​ , B 4 B_{4} B 4 ​
+브룬 상수 ? ^{?} ? | ρ \rho ρ
+플라스틱 상수 ∗ ^\ast ∗ | δ \delta δ , α \alpha α
+파이겐바움 상수 ? ^{?} ?
+G G G
+란다우 상수 ? ^{?} ? | C A C_A C A ​
+아르틴 상수 ? ^{?} ? | ζ n \zeta_n ζ n ​
+1 1 1 의 n n n 제곱근 [1] | lb ⁡ 3 \operatorname{lb}3 lb 3
+3의 이진로그 ∗ ∗ ^{\ast\ast} ∗∗
+? ^{?} ? 유리수인지 무리수인지 밝혀지지 않음
+∗ ^\ast ∗ 초월수가 아닌 무리수 임이 증명됨
+∗ ? ^{\ast?} ∗ ? 무리수임이 증명됨, 초월수인지 아닌지 밝혀지지 않음
+∗ ∗ ^{\ast\ast} ∗∗ 초월수 임이 증명됨
+[1] 정의에 따라 초월수가 아닌 대수적 수 이다. 1 1 1 의 거듭제곱근 중 1 1 1 , − 1 -1 − 1 , i i i , − i -i − i 를 제외한 값들은 모두 무리수 실수부 또는 허수부를 가진다. 일반적으로 무리수는 실수의 부분집합으로서만 정의되므로 1 1 1 , − 1 -1 − 1 을 제외한 1 1 1 의 거듭제곱근은 유리수나 무리수로 구분하지는 않는다.
+
+1 . 개요 2 . 역사 3 . 정의 4 . 감마 함수 와의 관계 5 . 이 수는 유리수인가 무리수인가 6 . 사용 6.1 . 관련 공식 7 . 값 8 . 관련 문서
+
+1. 개요 [편집]
+Euler-Mascheroni constant
+
+오일러-마스케로니 상수는 레온하르트 오일러 가 발견하고 이탈리아의 수학자 로렌초 마스케로니 가 더 자세한 값을 밝힌 수로, 조화급수 와 그 근사 함수인 자연로그 의 차의 극한에 해당하며 그 값은 약 0.57721566490이다. 최초 발견자인 오일러의 이름을 따 오일러 상수(Euler's constant)라 부르기도 하지만, 자연로그의 밑 , 오일러 수열 등 비슷한 이름의 다른 수가 워낙 많아 헷갈릴 여지가 크므로 마스케로니의 이름까지 같이 붙여주는 경우가 많다. 수학자들은 대부분 무리수 이자 초월수 로 보지만, 정작 초월수인지는커녕 무리수인지에 대한 증명조차 이루어지지 않았다. 일반적으로 γ \gamma γ 로 표기된다.
+
+반면 마스케로니가 수학적으로 그다지 큰 의미는 없는 값의 계산 정도에만 기여했기 때문에 그의 이름까지 붙여줄 정도의 업적은 아니라고 보는 수학자들도 많다. 그래서 일부 수학자들은 이 수를 오일러 상수로만 부르고 자연로그의 밑은 오일러 수(Euler's number)라고 불러 구분하기도 한다.
+
+초월수 및 초월수라고 강하게 추측되는 수 중에서는 정의가 상당히 단순한 편이며, 스티븐 R. 핀치는 그의 저서 '수학 상수(Mathematical Constants)'에서 이 상수를 원주율 , 자연로그의 밑 다음으로 중요한 상수라고 말했다. γ \gamma γ 의 자연지수값인 e γ e^\gamma e γ 또한 정수론 분야, 특히 해석적 정수론 분야에서 자주 나온다.
+
+파인만 포인트 와 비슷한 지점이 꽤 있다.
+
+2. 역사 [편집]
+오일러는 《조화급수에 대한 관찰》( De Progressionibus harmonicis observationes , 1734)이라는 논문에서 조화급수의 발산 양상이 자연로그의 발산 양상과 유사함을 증명하고 그 차를 C C C 로 나타냈으며 값은 0.57721 8 0.57721{\color{red}8} 0.57721 8 [1] 정도임을 보였다. 뒤이어 이탈리아의 수학자 로렌초 마스케로니는 《오일러의 적분 계산에 대한 주석》( Adnotationes ad calculum integralem Euleri , 1790)이라는 논문에서 A A A 라는 기호로 나타냈고 그 값이 0.5772156649015328606 181 12090082 39 0.5772156649015328606{\color{red}181}12090082{\color{red}39} 0.5772156649015328606 181 12090082 39 라 계산 [2] 하였다. 여기까지 보면 알겠지만 둘 다 γ \gamma γ 라는 기호를 쓴 적이 없음 을 알 수 있다. 1835년이 되어서야 독일의 수학자 카를 안톤 브레치나이더(Carl Anton Bretschneider)에 의해 감마 함수 와의 밀접한 관계가 밝혀지면서 γ \gamma γ 라는 기호가 부여되었다.
+
+3. 정의 [편집]
+오일러-마스케로니 상수는 다음과 같이 정의된다. γ = lim ⁡ n → ∞ ( ∑ k = 1 n 1 k − ln ⁡ n ) ≈ 0.5772156649 \displaystyle \begin{aligned} \gamma &= \lim_{n\to\infty} \Biggl( \sum_{k=1}^n \frac1k - \ln n \Biggr) \\ &\approx 0.5772156649 \end{aligned} γ ​ = n → ∞ lim ​ ( k = 1 ∑ n ​ k 1 ​ − ln n ) ≈ 0.5772156649 ​
+
+위 극한이 특정 값으로 수렴한다는 증명은 여기 를 참고. 위 식을 좀 변형해서 다음과 같이 나타낼 수 있다. ( ⌊ x ⌋ \lfloor x \rfloor ⌊ x ⌋ 는 바닥함수 이다.) γ = lim ⁡ n → ∞ ( ∑ k = 1 n 1 k − ∫ 1 n d x x ) = ∑ n = 1 ∞ { 1 n − ln ⁡ ( 1 + 1 n ) ⁣ } = ∫ 1 ∞ ( 1 ⌊ x ⌋ − 1 x ) d x \displaystyle \begin{aligned} \gamma &= \lim_{n\to\infty} \Biggl( \sum_{k=1}^n \frac1k - \int_1^n \frac{{\rm d}x}x \Biggr) \\ &= \sum_{n=1}^\infty \biggl\{ \frac1n - \ln \biggl( 1+\frac1n \biggr) \!\biggr\} \\ &= \int_1^\infty \biggl( \frac1{\lfloor x \rfloor} -\frac1x \biggr) {\rm d}x \\ \end{aligned} γ ​ = n → ∞ lim ​ ( k = 1 ∑ n ​ k 1 ​ − ∫ 1 n ​ x d x ​ ) = n = 1 ∑ ∞ ​ { n 1 ​ − ln ( 1 + n 1 ​ ) } = ∫ 1 ∞ ​ ( ⌊ x ⌋ 1 ​ − x 1 ​ ) d x ​
+
+[유도 과정]
+γ = lim ⁡ n → ∞ ( ∑ k = 1 n 1 k − ∫ 1 n d x x ) = lim ⁡ n → ∞ ( ∑ k = 1 n 1 k − ∑ k = 1 n ∫ k k + 1 d x x + ∫ n n + 1 d x x ) = lim ⁡ n → ∞ ( ∑ k = 1 n 1 k − ∑ k = 1 n ln ⁡ k + 1 k + ln ⁡ n + 1 n ) = lim ⁡ n → ∞ ∑ k = 1 n ( 1 k − ln ⁡ ( 1 + 1 k ) ⁣ ) ⁣ + lim ⁡ n → ∞ ln ⁡ ( 1 + 1 n ) = ∑ k = 1 ∞ { 1 k − ln ⁡ ( 1 + 1 k ) ⁣ } ■ γ = lim ⁡ n → ∞ ( ∑ k = 1 n 1 k − ∑ k = 1 n ∫ k k + 1 d x x + ∫ n n + 1 d x x ) = lim ⁡ n → ∞ ( ∑ k = 1 n 1 k ∫ k k + 1 ⁣ d x − ∑ k = 1 n ∫ k k + 1 d x x + ln ⁡ n + 1 n ) = lim ⁡ n → ∞ ( ∑ k = 1 n ∫ k k + 1 d x ⌊ x ⌋ − ∑ k = 1 n ∫ k k + 1 d x x ) ⁣ + lim ⁡ n → ∞ ln ⁡ ( 1 + 1 n ) = lim ⁡ n → ∞ ∑ k = 1 n ∫ k k + 1 ( 1 ⌊ x ⌋ − 1 x ) d x = ∫ 1 ∞ ( 1 ⌊ x ⌋ − 1 x ) d x ■ \displaystyle \begin{aligned} \gamma &= \lim_{n\to\infty} \Biggl( \sum_{k=1}^n \frac1k -\int_1^n \frac{{\rm d}x}x \Biggr) \\ &= \lim_{n\to\infty} \Biggl( \sum_{k=1}^n \frac1k -\sum_{k=1}^n \int_k^{k+1} \frac{{\rm d}x}x +\int_n^{n+1} \frac{{\rm d}x}x \Biggr) \\ &= \lim_{n\to\infty} \Biggl( \sum_{k=1}^n \frac1k -\sum_{k=1}^n \ln\frac{k+1}k +\ln\frac{n+1}n \Biggr) \\ &= \lim_{n\to\infty} \sum_{k=1}^n \biggl( \frac1k -\ln \biggl( 1+\frac1k \biggr) \!\biggr) \!+\lim_{n\to\infty} \ln \biggl( 1+\frac1n \biggr) \\ &= \sum_{k=1}^\infty \biggl\{ \frac1k -\ln\biggl(1+\frac1k\biggr) \!\biggr\} \qquad \blacksquare \\ \gamma &= \lim_{n\to\infty} \Biggl( \sum_{k=1}^n \frac1k -\sum_{k=1}^n \int_k^{k+1} \frac{{\rm d}x}x +\int_n^{n+1} \frac{{\rm d}x}x \Biggr) \\ &= \lim_{n\to\infty} \Biggl( \sum_{k=1}^n \frac1k \int_k^{k+1} \!{\rm d}x -\sum_{k=1}^n \int_k^{k+1} \frac{{\rm d}x}x +\ln\frac{n+1}n \Biggr) \\ &= \lim_{n\to\infty} \Biggl( \sum_{k=1}^n \int_k^{k+1} \frac{{\rm d}x}{\lfloor x \rfloor} -\sum_{k=1}^n \int_k^{k+1} \frac{{\rm d}x}x \Biggr) \!+\lim_{n\to\infty} \ln \biggl( 1+\frac1n \biggr) \\ &= \lim_{n\to\infty} \sum_{k=1}^n \int_k^{k+1} \biggl( \frac1{\lfloor x \rfloor} -\frac1x \biggr) {\rm d}x \\ &= \int_1^\infty \biggl( \frac1{\lfloor x \rfloor} -\frac1x \biggr) {\rm d}x \qquad \blacksquare \end{aligned} γ γ ​ = n → ∞ lim ​ ( k = 1 ∑ n ​ k 1 ​ − ∫ 1 n ​ x d x ​ ) = n → ∞ lim ​ ( k = 1 ∑ n ​ k 1 ​ − k = 1 ∑ n ​ ∫ k k + 1 ​ x d x ​ + ∫ n n + 1 ​ x d x ​ ) = n → ∞ lim ​ ( k = 1 ∑ n ​ k 1 ​ − k = 1 ∑ n ​ ln k k + 1 ​ + ln n n + 1 ​ ) = n → ∞ lim ​ k = 1 ∑ n ​ ( k 1 ​ − ln ( 1 + k 1 ​ ) ) + n → ∞ lim ​ ln ( 1 + n 1 ​ ) = k = 1 ∑ ∞ ​ { k 1 ​ − ln ( 1 + k 1 ​ ) } ■ = n → ∞ lim ​ ( k = 1 ∑ n ​ k 1 ​ − k = 1 ∑ n ​ ∫ k k + 1 ​ x d x ​ + ∫ n n + 1 ​ x d x ​ ) = n → ∞ lim ​ ( k = 1 ∑ n ​ k 1 ​ ∫ k k + 1 ​ d x − k = 1 ∑ n ​ ∫ k k + 1 ​ x d x ​ + ln n n + 1 ​ ) = n → ∞ lim ​ ( k = 1 ∑ n ​ ∫ k k + 1 ​ ⌊ x ⌋ d x ​ − k = 1 ∑ n ​ ∫ k k + 1 ​ x d x ​ ) + n → ∞ lim ​ ln ( 1 + n 1 ​ ) = n → ∞ lim ​ k = 1 ∑ n ​ ∫ k k + 1 ​ ( ⌊ x ⌋ 1 ​ − x 1 ​ ) d x = ∫ 1 ∞ ​ ( ⌊ x ⌋ 1 ​ − x 1 ​ ) d x ■ ​
+
+첫 번째 식은 자연로그를 정적분 꼴로 바꿔준 것인데, 이 식을 통해 본 상수가 1 x \dfrac 1x x 1 ​ 의 이산적 합과 연속적 합의 차임을 알 수 있다. 두 번째, 세 번째 식은 극한을 생략한 표기로, 첫 번째 식을 다르게 표현한 것에 불과하다.
+
+4. 감마 함수 와의 관계 [편집]
+전술한대로 이 상수는 감마 함수 와 밀접한 관련이 있다. 감마 함수의 단순항꼴의 양변에 자연로그를 씌우고 미분해주면 다음과 같은 식을 얻는다. Γ ( z ) = lim ⁡ n → ∞ n ! ⋅ n z ∏ k = 0 n ( z + k ) ln ⁡ Γ ( z ) = ln ⁡ lim ⁡ n → ∞ n ! ⋅ n z ∏ k = 0 n ( z + k ) = lim ⁡ n → ∞ ln ⁡ n ! ⋅ n z ∏ k = 0 n ( z + k ) = lim ⁡ n → ∞ ⁣ { ln ⁡ ( n ! ) + z ln ⁡ n − ∑ k = 0 n ln ⁡ ( z + k ) } ∴ d d z ln ⁡ Γ ( z ) = Γ ′ ( z ) Γ ( z ) = lim ⁡ n → ∞ ⁣ { ln ⁡ n − ∑ k = 0 n 1 z + k } \displaystyle \begin{aligned} \Gamma(z) &= \lim_{n\to\infty} \frac{n! \cdot n^z}{\displaystyle \prod_{k=0}^n (z+k)} \\ \ln \Gamma(z) &= \ln \lim_{n\to\infty} \frac{n! \cdot n^z}{\displaystyle \prod_{k=0}^n (z+k)} = \lim_{n\to\infty} \ln \frac{n! \cdot n^z}{\displaystyle \prod_{k=0}^n (z+k)} \\ &= \lim_{n\to\infty} \!\left\{ \ln(n!) +z\ln n -\sum_{k=0}^n \ln(z+k) \right\} \\ \therefore \frac{\rm d}{{\rm d}z} \ln \Gamma(z) &= \frac{\Gamma'(z)}{\Gamma(z)} = \lim_{n\to\infty} \!\left\{ \ln n -\sum_{k=0}^n \frac1{z+k} \right\} \end{aligned} Γ ( z ) ln Γ ( z ) ∴ d z d ​ ln Γ ( z ) ​ = n → ∞ lim ​ k = 0 ∏ n ​ ( z + k ) n ! ⋅ n z ​ = ln n → ∞ lim ​ k = 0 ∏ n ​ ( z + k ) n ! ⋅ n z ​ = n → ∞ lim ​ ln k = 0 ∏ n ​ ( z + k ) n ! ⋅ n z ​ = n → ∞ lim ​ { ln ( n !) + z ln n − k = 0 ∑ n ​ ln ( z + k ) } = Γ ( z ) Γ ′ ( z ) ​ = n → ∞ lim ​ { ln n − k = 0 ∑ n ​ z + k 1 ​ } ​
+
+여기서 z = 1 z=1 z = 1 을 대입하면 Γ ( 1 ) = ( 1 − 1 ) ! = 0 ! = 1 \Gamma(1) = (1-1)! = 0! = 1 Γ ( 1 ) = ( 1 − 1 )! = 0 ! = 1 이므로 다음의 결과를 얻는다. Γ ′ ( 1 ) = lim ⁡ n → ∞ ⁣ { ln ⁡ n − ∑ k = 0 n 1 1 + k } ⁣ = lim ⁡ n → ∞ ⁣ { ln ⁡ n − ∑ k = 1 n + 1 1 k } = lim ⁡ n → ∞ ⁣ { ln ⁡ n − ∑ k = 1 n 1 k − 1 n + 1 } = lim ⁡ n → ∞ ⁣ { − ( ∑ k = 1 n 1 k − ln ⁡ n ) ⁣ − 1 n + 1 } = − γ \displaystyle \begin{aligned} \Gamma'(1) &= \lim_{n\to\infty} \!\left\{ \ln n -\sum_{k=0}^n \frac1{1+k} \right\}\! = \lim_{n\to\infty} \!\left\{ \ln n -\sum_{k=1}^{n+1} \frac1k \right\} \\ &= \lim_{n\to\infty} \!\left\{ \ln n -\sum_{k=1}^n \frac1k -\frac1{n+1} \right\} \\ &= \lim_{n\to\infty} \!\left\{ -\Biggl( \sum_{k=1}^n \frac1k -\ln n \Biggr)\! -\frac1{n+1} \right\} \\ &= -\gamma \end{aligned} Γ ′ ( 1 ) ​ = n → ∞ lim ​ { ln n − k = 0 ∑ n ​ 1 + k 1 ​ } = n → ∞ lim ​ { ln n − k = 1 ∑ n + 1 ​ k 1 ​ } = n → ∞ lim ​ { ln n − k = 1 ∑ n ​ k 1 ​ − n + 1 1 ​ } = n → ∞ lim ​ { − ( k = 1 ∑ n ​ k 1 ​ − ln n ) − n + 1 1 ​ } = − γ ​
+
+즉, γ = − Γ ′ ( 1 ) \gamma = -\Gamma'(1) γ = − Γ ′ ( 1 ) 이 된다. 한편, 감마 함수 의 적분꼴은 다음과 같으며 − Γ ′ ( 1 ) -\Gamma'(1) − Γ ′ ( 1 ) 을 계산해주면 다음과 같은 형태의 적분꼴을 얻는다. [3] Γ ( z ) = ∫ 0 ∞ e − t t z − 1 d t = ∫ 0 ∞ e − t e ln ⁡ t z − 1 d t = ∫ 0 ∞ e − t e ( z − 1 ) ln ⁡ t d t Γ ′ ( z ) = d d z Γ ( z ) = ∫ 0 ∞ ∂ ∂ z e − t e ( z − 1 ) ln ⁡ t d t = ∫ 0 ∞ e − t e ( z − 1 ) ln ⁡ t ln ⁡ t d t = ∫ 0 ∞ e − t t z − 1 ln ⁡ t d t ∴ γ = − Γ ′ ( 1 ) = − ∫ 0 ∞ e − t ln ⁡ t d t \displaystyle \begin{aligned} \Gamma(z) &= \int_0^\infty e^{-t} t^{z-1} \,{\rm d}t = \int_0^\infty e^{-t} e^{\ln t^{z-1}} \,{\rm d}t = \int_0^\infty e^{-t} e^{(z-1) \ln t} \,{\rm d}t \\ \Gamma'(z) &= \frac{\rm d}{{\rm d}z} \,\Gamma(z) = \int_0^\infty \frac{\partial}{\partial z} e^{-t} e^{(z-1) \ln t} \,{\rm d}t \\ &= \int_0^\infty e^{-t} e^{(z-1) \ln t} \ln t \,{\rm d}t = \int_0^\infty e^{-t} \,t^{z-1} \ln t \,{\rm d}t \\ \therefore \gamma &= -\Gamma'(1) = -\int_0^\infty e^{-t} \ln t \,{\rm d}t \end{aligned} Γ ( z ) Γ ′ ( z ) ∴ γ ​ = ∫ 0 ∞ ​ e − t t z − 1 d t = ∫ 0 ∞ ​ e − t e l n t z − 1 d t = ∫ 0 ∞ ​ e − t e ( z − 1 ) l n t d t = d z d ​ Γ ( z ) = ∫ 0 ∞ ​ ∂ z ∂ ​ e − t e ( z − 1 ) l n t d t = ∫ 0 ∞ ​ e − t e ( z − 1 ) l n t ln t d t = ∫ 0 ∞ ​ e − t t z − 1 ln t d t = − Γ ′ ( 1 ) = − ∫ 0 ∞ ​ e − t ln t d t ​
+
+치환 적분을 이용하면 다음과 같은 다른 형태의 적분꼴들도 유도할 수 있다. - x = e − t x=e^{-t} x = e − t 로 두면 d x = − e − t d t {\rm d}x = -e^{-t} \,{\rm d}t d x = − e − t d t 이고, t → 0 t\to0 t → 0 , t → ∞ t\to\infty t → ∞ 일 때 각각 x → 1 x\to1 x → 1 , x → 0 x\to0 x → 0 이므로 γ = − ∫ 0 ∞ e − t ln ⁡ t d t = ∫ 1 0 ln ⁡ ( − ln ⁡ x ) d x = − ∫ 0 1 ln ⁡ ln ⁡ 1 x d x \displaystyle \begin{aligned} \gamma = -\int_0^\infty e^{-t} \ln t \,{\rm d}t = \int_1^0 \ln(-\ln x) \,{\rm d}x = -\int_0^1 \ln \ln \frac 1x \,{\rm d}x \end{aligned} γ = − ∫ 0 ∞ ​ e − t ln t d t = ∫ 1 0 ​ ln ( − ln x ) d x = − ∫ 0 1 ​ ln ln x 1 ​ d x ​
+- x = ln ⁡ t x=\ln t x = ln t 로 두면 e x = t e^x=t e x = t 에서 e x d x = d t e^x \,{\rm d}x = {\rm d}t e x d x = d t 이고, t → 0 t\to0 t → 0 , t → ∞ t\to\infty t → ∞ 일 때 각각 x → − ∞ x\to-\infty x → − ∞ , x → ∞ x\to\infty x → ∞ 이므로 γ = − ∫ 0 ∞ e − t ln ⁡ t d t = − ∫ − ∞ ∞ x e x − e x d x \displaystyle \begin{aligned} \gamma = -\int_0^\infty e^{-t} \ln t \,{\rm d}t = -\int_{-\infty}^\infty xe^{x-e^x} \,{\rm d}x \end{aligned} γ = − ∫ 0 ∞ ​ e − t ln t d t = − ∫ − ∞ ∞ ​ x e x − e x d x ​
+
+5. 이 수는 유리수인가 무리수인가 [편집]
+1986년 에 이 수가 유리수 인지 무리수 인지에 대한 질문이 제기되었고, 이는 현재까지 풀리지 않은 난제이다. 다만, 수학자들은 이 상수가 초월수 [4] 일 것으로 예상하고 있다. 1997년 에 연분수 분석법을 이용하여, 오일러-마스케로니 상수가 유리수일 경우, 그것을 기약분수로 나타내었을 때의 분모는 10 244663 10^{244663} 1 0 244663 이 넘는다는 것을 밝혔다 출처 . 그리고 나서 감감 무소식.
+
+그러나 아무런 진전이 없었던 것은 아니다. 무리수인지 여부에 대한 질문이 제기되기 전에 이미 1968년에 베셀 함수 가 포함된 수 π 2 Y 0 ( 2 ) J 0 ( 2 ) − γ \dfrac\pi2 \dfrac{Y_0(2)}{J_0(2)} -\gamma 2 π ​ J 0 ​ ( 2 ) Y 0 ​ ( 2 ) ​ − γ 가 초월수라는 사실이 밝혀졌으며 출처 , 21세기에 들어서는 2009년에 γ \gamma γ 와 곰페르츠 상수 δ \delta δ 중 적어도 하나는 무리수라는 사실이 밝혀졌고 출처 , 2012년에는 그 둘 중 적어도 하나가 초월수임이 밝혀졌다 출처 .
+
+여튼 이런지라, 현 시점에서는 디리클레 함수 [5] 를 취한 1 Q ( γ ) \bold1_{\mathbb Q}(\gamma) 1 Q ​ ( γ ) 의 값은 부정 이다.
+
+6. 사용 [편집]
+특수함수 중 하나인 지수 적분 함수 E i ( x ) \mathrm{Ei}(x) Ei ( x ) 의 무한급수 표기 , 로그 적분 함수 Li ⁡ ( x ) \operatorname{Li}(x) Li ( x ) 의 무한급수 표기, 코사인 적분 함수 Ci ⁡ ( x ) \operatorname{Ci}(x) Ci ( x ) 의 무한급수 표기, 쌍곡선 코사인 적분 함수 Chi ⁡ ( x ) \operatorname{Chi}(x) Chi ( x ) 의 정의식, 로그함수 의 라플라스 변환 ( # ), 감마 함수 , 제타 함수 , 스틸체스 상수 등에서 접할 수 있다. 그 외에도 다양한 부분에서 이 상수가 튀어나온다.
+
+6.1. 관련 공식 [편집]
+이 문단에서는 오일러-마스케로니 상수가 등장하는 여러 식들을 소개한다. - 조화수 H x H_x H x ​ 를 적분하면 다음 식을 얻을 수 있다. [6] ∫ 0 1 H x d x = ∬ ( 0 , 1 ) 2 1 − t x 1 − t d t d x = γ \displaystyle \int_0^1 H_x \,{\rm d}x = \iint_{(0,1)^2} \frac{1-t^x}{1-t} \,{\rm d}t \,{\rm d}x = \gamma ∫ 0 1 ​ H x ​ d x = ∬ ( 0 , 1 ) 2 ​ 1 − t 1 − t x ​ d t d x = γ
+
+적분 구간을 좀 더 일반화하면 다음과 같은 결과를 얻는다. ∫ 0 n H x d x = n γ + ln ⁡ ( n ! ) \displaystyle \int_0^n H_x \,{\rm d}x = n\gamma + \ln(n!) ∫ 0 n ​ H x ​ d x = nγ + ln ( n !)
+- 하지코스타스 정리 ∬ ( 0 , 1 ) 2 − ( 1 − t ) ( 1 − t x ) ln ⁡ ( t x ) d t d x = γ \displaystyle \iint_{(0,1)^2} \frac{-(1-t)}{(1-tx)\ln(tx)} \,{\rm d}t \,{\rm d}x = \gamma ∬ ( 0 , 1 ) 2 ​ ( 1 − t x ) ln ( t x ) − ( 1 − t ) ​ d t d x = γ
+- ∫ 0 1 ( 1 ln ⁡ x + 1 1 − x ) d x = γ \displaystyle \int_0^1 \biggl( \frac1{\ln x} +\frac1{1-x} \biggr) {\rm d}x = \gamma ∫ 0 1 ​ ( ln x 1 ​ + 1 − x 1 ​ ) d x = γ
+- 로그 함수의 거듭제곱과 지수꼴 함수의 곱에 대해 다음 식이 성립한다. (단, m m m 과 n n n 은 자연수이고 Γ ( n ) ( z ) = d n Γ ( z ) d z n \Gamma^{(n)}(z) = \dfrac{{\rm d}^n \Gamma(z)}{{\rm d}z^n} Γ ( n ) ( z ) = d z n d n Γ ( z ) ​ 이다.) ∫ 0 ∞ e − x m ln ⁡ n x d x = 1 m n + 1 Γ ( n ) ( 1 m ) \displaystyle \begin{aligned} \int_0^\infty e^{-x^m} \ln^n x \,{\rm d}x = \frac1{m^{n+1}} \Gamma^{(n)} \biggl( \frac1m \biggr) \end{aligned} ∫ 0 ∞ ​ e − x m ln n x d x = m n + 1 1 ​ Γ ( n ) ( m 1 ​ ) ​
+
+[증명]
+Γ ( z ) = ∫ 0 ∞ e − t t z − 1 d t ⇒ Γ ( n ) ( z ) = ∫ 0 ∞ ∂ n ∂ z n e − t t z − 1 d t = ∫ 0 ∞ e − t t z − 1 ( ln ⁡ t ) n d t \displaystyle \begin{aligned} \Gamma(z) &= \int_0^\infty e^{-t} t^{z-1} \,{\rm d}t \\ \Rightarrow \quad \Gamma^{(n)}(z) &= \int_0^\infty \frac{\partial^n}{\partial z^n} \,e^{-t} t^{z-1} \,{\rm d}t \\ &= \int_0^\infty e^{-t} t^{z-1} (\ln t)^n \,{\rm d}t \end{aligned} Γ ( z ) ⇒ Γ ( n ) ( z ) ​ = ∫ 0 ∞ ​ e − t t z − 1 d t = ∫ 0 ∞ ​ ∂ z n ∂ n ​ e − t t z − 1 d t = ∫ 0 ∞ ​ e − t t z − 1 ( ln t ) n d t ​
+t = x m t=x^m t = x m 으로 치환하면
+
+Γ ( n ) ( z ) = ∫ 0 ∞ e − t t z − 1 ( ln ⁡ t ) n d t = ∫ 0 ∞ e − x m x m ( z − 1 ) ( m ln ⁡ x ) n ⋅ m x m − 1 d x = m n + 1 ∫ 0 ∞ e − x m x m z − 1 ln ⁡ n x d x ∴ 1 m n + 1 Γ ( n ) ( z ) = ∫ 0 ∞ e − x m x m z − 1 ln ⁡ n x d x ∴ 1 m n + 1 Γ ( n ) ( 1 m ) ⁣ = ∫ 0 ∞ e − x m ln ⁡ n x d x \displaystyle \begin{aligned} \Gamma^{(n)}(z) &= \int_0^\infty e^{-t} t^{z-1} (\ln t)^n \,{\rm d}t \\ &= \int_0^\infty e^{-x^m} x^{m(z-1)} (m\ln x)^n \cdot mx^{m-1} \,{\rm d}x \\ &= m^{n+1} \int_0^\infty e^{-x^m} x^{mz-1} \ln^nx \,{\rm d}x \\ \therefore \frac1{m^{n+1}} \Gamma^{(n)}(z) &= \int_0^\infty e^{-x^m} x^{mz-1} \ln^nx \,{\rm d}x \\ \therefore \frac1{m^{n+1}} \Gamma^{(n)} \biggl( \frac1m \biggr) \!&= \int_0^\infty e^{-x^m} \ln^n x \,{\rm d}x \end{aligned} Γ ( n ) ( z ) ∴ m n + 1 1 ​ Γ ( n ) ( z ) ∴ m n + 1 1 ​ Γ ( n ) ( m 1 ​ ) ​ = ∫ 0 ∞ ​ e − t t z − 1 ( ln t ) n d t = ∫ 0 ∞ ​ e − x m x m ( z − 1 ) ( m ln x ) n ⋅ m x m − 1 d x = m n + 1 ∫ 0 ∞ ​ e − x m x m z − 1 ln n x d x = ∫ 0 ∞ ​ e − x m x m z − 1 ln n x d x = ∫ 0 ∞ ​ e − x m ln n x d x ​
+
+특히, 작은 m m m , n n n 값에 대한 일부 구체적 예시는 다음과 같다. ∫ 0 ∞ e − x ln ⁡ x d x = − γ ≈ − 0.5772156649 ∫ 0 ∞ e − x ln ⁡ 2 x d x = γ 2 + π 2 6 ≈ 1.9781119906 ∫ 0 ∞ e − x ln ⁡ 3 x d x = − γ 3 − π 2 γ 2 − 2 ζ ( 3 ) ≈ − 5.4448744565 ∫ 0 ∞ e − x 2 ln ⁡ x d x = − π 4 ( γ + 2 ln ⁡ 2 ) ≈ − 0.8700577267 ∫ 0 ∞ e − x 2 ln ⁡ 2 x d x = π 8 ( ( γ + 2 ln ⁡ 2 ) 2 + π 2 2 ) ≈ 1.9475221803 \displaystyle \begin{aligned} \int_0^\infty e^{-x} \ln x \,{\rm d}x &= -\gamma \\ &\approx -0.5772156649 \\ \int_0^\infty e^{-x} \ln^2x \,{\rm d}x &= \gamma^2 +\frac{\pi^2}6 \\ &\approx 1.9781119906 \\ \int_0^\infty e^{-x} \ln^3x \,{\rm d}x &= -\gamma^3 -\frac{\pi^2\gamma}{2} -2\zeta(3) \\ &\approx -5.4448744565 \\ \int_0^\infty e^{-x^2} \ln x \,{\rm d}x &= -\frac{\sqrt\pi}4 (\gamma+2\ln2) \\ &\approx -0.8700577267 \\ \int_0^\infty e^{-x^2} \ln^2x \,{\rm d}x &= \frac{\sqrt\pi}8 \biggl( (\gamma+2\ln2)^2 +\frac{\pi^2}2 \biggr) \\ &\approx 1.9475221803 \end{aligned} ∫ 0 ∞ ​ e − x ln x d x ∫ 0 ∞ ​ e − x ln 2 x d x ∫ 0 ∞ ​ e − x ln 3 x d x ∫ 0 ∞ ​ e − x 2 ln x d x ∫ 0 ∞ ​ e − x 2 ln 2 x d x ​ = − γ ≈ − 0.5772156649 = γ 2 + 6 π 2 ​ ≈ 1.9781119906 = − γ 3 − 2 π 2 γ ​ − 2 ζ ( 3 ) ≈ − 5.4448744565 = − 4 π ​ ​ ( γ + 2 ln 2 ) ≈ − 0.8700577267 = 8 π ​ ​ ( ( γ + 2 ln 2 ) 2 + 2 π 2 ​ ) ≈ 1.9475221803 ​
+
+[증명]
+다음에서 사용하는 감마 함수의 n n n 계도함수에 대한 표현식은 감마 함수 문서의 도함수 표현 문단을, 폴리감마 함수의 함숫값은 감마 함수 문서의 함숫값 문단을 참고하라.
+
+∫ 0 ∞ e − x ln ⁡ x d x = Γ ′ ( 1 ) = − γ ∫ 0 ∞ e − x ln ⁡ 2 x d x = Γ ′ ′ ( 1 ) = Γ ′ ( 1 ) ψ ( 1 ) + Γ ( 1 ) ψ 1 ( 1 ) = ( − γ ) ⋅ ( − γ ) + 1 ⋅ ζ ( 2 ) = γ 2 + ζ ( 2 ) = γ 2 + π 2 6 ∫ 0 ∞ e − x ln ⁡ 3 x d x = Γ ′ ′ ′ ( 1 ) = Γ ′ ′ ( 1 ) ψ ( 1 ) + 2 Γ ′ ( 1 ) ψ 1 ( 1 ) + Γ ( 1 ) ψ 2 ( 1 ) = ( γ 2 + ζ ( 2 ) ) ( − γ ) + 2 ( − γ ) ζ ( 2 ) + 1 ⋅ ( − 2 ζ ( 3 ) ) = − γ 3 − 3 ζ ( 2 ) γ − 2 ζ ( 3 ) = − γ 3 − π 2 γ 2 − 2 ζ ( 3 ) ∫ 0 ∞ e − x 2 ln ⁡ x d x = 1 4 Γ ′ ( 1 2 ) ⁣ = 1 4 Γ ( 1 2 ) ψ ( 1 2 ) = 1 4 π ⋅ ( − γ − 2 ln ⁡ 2 ) = − π 4 ( γ + 2 ln ⁡ 2 ) ∫ 0 ∞ e − x 2 ln ⁡ 2 x d x = 1 8 Γ ′ ′ ( 1 2 ) ⁣ = 1 8 ( Γ ′ ( 1 2 ) ψ ( 1 2 ) ⁣ + Γ ( 1 2 ) ψ 1 ( 1 2 ) ⁣ ) = 1 8 ( − π ( γ + 2 ln ⁡ 2 ) ⋅ ( − γ − 2 ln ⁡ 2 ) + π ⋅ π 2 2 ) = π 8 ( ( γ + 2 ln ⁡ 2 ) 2 + π 2 2 ) \displaystyle \begin{aligned} \int_0^\infty e^{-x} \ln x \,{\rm d}x &= \Gamma'(1) \\ &= -\gamma \\ \int_0^\infty e^{-x} \ln^2x \,{\rm d}x &= \Gamma''(1) = \Gamma'(1)\psi(1) +\Gamma(1)\psi_1(1) \\ &= (-\gamma)\cdot(-\gamma) +1\cdot\zeta(2) \\ &= \gamma^2 +\zeta(2) \\ &= \gamma^2 +\frac{\pi^2}6 \\ \int_0^\infty e^{-x} \ln^3x \,{\rm d}x &= \Gamma'''(1) = \Gamma''(1)\psi(1) +2\,\Gamma'(1)\psi_1(1) +\Gamma(1)\psi_2(1) \\ &= (\gamma^2 +\zeta(2))(-\gamma) +2(-\gamma)\zeta(2) +1\cdot(-2\zeta(3)) \\ &= -\gamma^3 -3\zeta(2)\gamma -2\zeta(3) \\ &= -\gamma^3 -\frac{\pi^2\gamma}{2} -2\zeta(3) \\ \int_0^\infty e^{-x^2} \ln x \,{\rm d}x &= \frac14 \,\Gamma'\biggl(\frac12\biggr) \!= \frac14 \,\Gamma\biggl(\frac12\biggr) \psi\biggl(\frac12\biggr) \\ &= \frac14 \sqrt\pi \cdot (-\gamma-2\ln2) \\ &= -\frac{\sqrt\pi}4 (\gamma+2\ln2) \\ \int_0^\infty e^{-x^2} \ln^2x \,{\rm d}x &= \frac18 \,\Gamma''\biggl(\frac12\biggr) \!= \frac18 \biggl( \Gamma'\biggl(\frac12\biggr) \psi\biggl(\frac12\biggr) \!+\Gamma\biggl(\frac12\biggr) \psi_1\biggl(\frac12\biggr) \!\biggr) \\ &= \frac18 \biggl( -\sqrt\pi(\gamma+2\ln2) \cdot (-\gamma-2\ln2) +\sqrt\pi \cdot \frac{\pi^2}2 \biggr) \\ &= \frac{\sqrt\pi}8 \biggl( (\gamma+2\ln2)^2 +\frac{\pi^2}2 \biggr) \\ \end{aligned} ∫ 0 ∞ ​ e − x ln x d x ∫ 0 ∞ ​ e − x ln 2 x d x ∫ 0 ∞ ​ e − x ln 3 x d x ∫ 0 ∞ ​ e − x 2 ln x d x ∫ 0 ∞ ​ e − x 2 ln 2 x d x ​ = Γ ′ ( 1 ) = − γ = Γ ′′ ( 1 ) = Γ ′ ( 1 ) ψ ( 1 ) + Γ ( 1 ) ψ 1 ​ ( 1 ) = ( − γ ) ⋅ ( − γ ) + 1 ⋅ ζ ( 2 ) = γ 2 + ζ ( 2 ) = γ 2 + 6 π 2 ​ = Γ ′′′ ( 1 ) = Γ ′′ ( 1 ) ψ ( 1 ) + 2 Γ ′ ( 1 ) ψ 1 ​ ( 1 ) + Γ ( 1 ) ψ 2 ​ ( 1 ) = ( γ 2 + ζ ( 2 )) ( − γ ) + 2 ( − γ ) ζ ( 2 ) + 1 ⋅ ( − 2 ζ ( 3 )) = − γ 3 − 3 ζ ( 2 ) γ − 2 ζ ( 3 ) = − γ 3 − 2 π 2 γ ​ − 2 ζ ( 3 ) = 4 1 ​ Γ ′ ( 2 1 ​ ) = 4 1 ​ Γ ( 2 1 ​ ) ψ ( 2 1 ​ ) = 4 1 ​ π ​ ⋅ ( − γ − 2 ln 2 ) = − 4 π ​ ​ ( γ + 2 ln 2 ) = 8 1 ​ Γ ′′ ( 2 1 ​ ) = 8 1 ​ ( Γ ′ ( 2 1 ​ ) ψ ( 2 1 ​ ) + Γ ( 2 1 ​ ) ψ 1 ​ ( 2 1 ​ ) ) = 8 1 ​ ( − π ​ ( γ + 2 ln 2 ) ⋅ ( − γ − 2 ln 2 ) + π ​ ⋅ 2 π 2 ​ ) = 8 π ​ ​ ( ( γ + 2 ln 2 ) 2 + 2 π 2 ​ ) ​
+- 소수 p p p 에 대해 다음 두 식이 성립한다. lim ⁡ n → ∞ 1 ln ⁡ n ∏ p ≤ n ( 1 − 1 p ) ⁣ − 1 = lim ⁡ n → ∞ 1 ln ⁡ n ∏ p ≤ n ( p p − 1 ) = e γ ≈ 1.781072418 lim ⁡ n → ∞ 1 ln ⁡ n ∏ p ≤ n ( 1 + 1 p ) = lim ⁡ n → ∞ 1 ln ⁡ n ∏ p ≤ n ( p + 1 p ) = 6 e γ π 2 = e γ ζ ( 2 ) ≈ 1.0827621933 \displaystyle \begin{aligned} \lim_{n\to\infty} \frac1{\ln n} \prod_{p\le n} \biggl( 1-\frac1p \biggr)^{\!-1} &= \lim_{n\to\infty} \frac1{\ln n} \prod_{p\le n} \biggl( \frac p{p-1} \biggr) \\ &= e^\gamma \\ &\approx 1.781072418 \\ \lim_{n\to\infty} \frac1{\ln n} \prod_{p\le n} \biggl( 1+\frac1p \biggr) &= \lim_{n\to\infty} \frac1{\ln n} \prod_{p\le n} \biggl( \frac{p+1}p \biggr) \\ &= \frac{6e^\gamma}{\pi^2} = \frac{e^\gamma}{\zeta(2)} \\ &\approx 1.0827621933 \end{aligned} n → ∞ lim ​ ln n 1 ​ p ≤ n ∏ ​ ( 1 − p 1 ​ ) − 1 n → ∞ lim ​ ln n 1 ​ p ≤ n ∏ ​ ( 1 + p 1 ​ ) ​ = n → ∞ lim ​ ln n 1 ​ p ≤ n ∏ ​ ( p − 1 p ​ ) = e γ ≈ 1.781072418 = n → ∞ lim ​ ln n 1 ​ p ≤ n ∏ ​ ( p p + 1 ​ ) = π 2 6 e γ ​ = ζ ( 2 ) e γ ​ ≈ 1.0827621933 ​
+- 소수 부분을 나타내는 함수 { x } \left\{x\right\} { x } 를 정의하자. 즉, { x } = x − ⌊ x ⌋ \left\{x\right\} = x - \left\lfloor x \right\rfloor { x } = x − ⌊ x ⌋ 라고 하자. 여기서 ⌊ x ⌋ \left\lfloor x \right\rfloor ⌊ x ⌋ 는 최대 정수 함수 이다. 그러면 다음이 성립한다. ∫ 0 1 ⁣ { 1 x } d x = 1 − γ ≈ 0.4227843351 \displaystyle \begin{aligned} \int_0^1 \!\left\{ \frac1x \right\} {\rm d}x &= 1-\gamma \\ &\approx 0.4227843351 \end{aligned} ∫ 0 1 ​ { x 1 ​ } d x ​ = 1 − γ ≈ 0.4227843351 ​
+
+[증명]
+우선 1 / x = u 1/x=u 1/ x = u 로 치환함으로써 시작한다.
+
+∫ 0 1 ⁣ { 1 x } d x = ∫ ∞ 1 { u } ( − d u u 2 ) = ∫ 1 ∞ u − ⌊ u ⌋ u 2 d u = ∑ k = 1 ∞ ∫ k k + 1 ( 1 u − ⌊ u ⌋ u 2 ) d u = ∑ k = 1 ∞ ∫ k k + 1 ( 1 u − k u 2 ) d u = ∑ k = 1 ∞ [ ln ⁡ ⁣ ∣ u ∣ + k u ] k k + 1 = ∑ k = 1 ∞ ( ln ⁡ ( k + 1 ) − ln ⁡ k + k k + 1 − 1 ) = lim ⁡ n → ∞ ∑ k = 1 n ( ln ⁡ ( k + 1 ) − ln ⁡ k − 1 k + 1 ) = lim ⁡ n → ∞ ( ln ⁡ ( n + 1 ) − ln ⁡ 1 − ∑ k = 1 n 1 k + 1 ) = lim ⁡ n → ∞ ( ln ⁡ ( n + 1 ) − ( ∑ k = 1 n + 1 1 k − 1 ) ⁣ ) = lim ⁡ n → ∞ ( 1 − ( ∑ k = 1 n + 1 1 k − ln ⁡ ( n + 1 ) ) ⁣ ) = 1 − γ \displaystyle \begin{aligned} \int_0^1 \!\left\{ \frac1x \right\} {\rm d}x &= \int_\infty^1 \{u\} \biggl( -\frac{{\rm d}u}{u^2} \biggr) = \int_1^\infty \cfrac{u - \left\lfloor u \right\rfloor}{u^2} \,\,{\rm d}u = \sum_{k=1}^\infty \int_k^{k+1} \biggl( \frac1u - \cfrac{\left\lfloor u \right\rfloor}{u^2} \biggr) {\rm d}u \\ &= \sum_{k=1}^\infty \int_k^{k+1} \biggl( \frac1u - \frac k{u^2} \biggr) {\rm d}u = \sum_{k=1}^\infty \biggl[ \ln\!|u| + \frac ku \biggr]_k^{k+1} \\ &= \sum_{k=1}^\infty \biggl( \ln(k+1) -\ln k +\frac k{k+1} -1 \biggr) \\ &= \lim_{n\to\infty} \sum_{k=1}^n \biggl( \ln(k+1) -\ln k -\frac1{k+1} \biggr) \\ &= \lim_{n\to\infty} \Biggl( \ln(n+1) -\ln1 -\sum_{k=1}^n \frac1{k+1} \Biggr) \\ &= \lim_{n\to\infty} \Biggl( \ln(n+1) - \Biggl( \sum_{k=1}^{n+1} \frac1k -1 \Biggr)\! \Biggr) \\ &= \lim_{n\to\infty} \Biggl( 1- \Biggl( \sum_{k=1}^{n+1} \frac1k -\ln(n+1) \Biggr)\! \Biggr) \\ &= 1-\gamma \end{aligned} ∫ 0 1 ​ { x 1 ​ } d x ​ = ∫ ∞ 1 ​ { u } ( − u 2 d u ​ ) = ∫ 1 ∞ ​ u 2 u − ⌊ u ⌋ ​ d u = k = 1 ∑ ∞ ​ ∫ k k + 1 ​ ( u 1 ​ − u 2 ⌊ u ⌋ ​ ) d u = k = 1 ∑ ∞ ​ ∫ k k + 1 ​ ( u 1 ​ − u 2 k ​ ) d u = k = 1 ∑ ∞ ​ [ ln ∣ u ∣ + u k ​ ] k k + 1 ​ = k = 1 ∑ ∞ ​ ( ln ( k + 1 ) − ln k + k + 1 k ​ − 1 ) = n → ∞ lim ​ k = 1 ∑ n ​ ( ln ( k + 1 ) − ln k − k + 1 1 ​ ) = n → ∞ lim ​ ( ln ( n + 1 ) − ln 1 − k = 1 ∑ n ​ k + 1 1 ​ ) = n → ∞ lim ​ ( ln ( n + 1 ) − ( k = 1 ∑ n + 1 ​ k 1 ​ − 1 ) ) = n → ∞ lim ​ ( 1 − ( k = 1 ∑ n + 1 ​ k 1 ​ − ln ( n + 1 ) ) ) = 1 − γ ​
+
+위 식의 일반화는 스틸체스 상수 문서의 관련 공식 문단에서 볼 수 있다.
+
+- 제타 함수 ζ ( s ) \zeta(s) ζ ( s ) 에 대해 다음 식이 성립한다. ∑ n = 2 ∞ ζ ( n ) − 1 n = 1 − γ \displaystyle \begin{aligned} \sum_{n=2}^\infty \frac{\zeta(n)-1}n = 1-\gamma \end{aligned} n = 2 ∑ ∞ ​ n ζ ( n ) − 1 ​ = 1 − γ ​
+
+[증명]
+로그함수 의 테일러 급수 로부터 다음 등식이 성립한다.
+
+ln ⁡ ( 1 + x ) = ∑ n = 1 ∞ ( − 1 ) n + 1 n x n ⇒ − ln ⁡ ( k k − 1 ) ⁣ = ln ⁡ ( 1 − 1 k ) ⁣ = ∑ n = 1 ∞ ( − 1 ) n + 1 n ( − 1 k ) ⁣ n = − ∑ n = 1 ∞ 1 n k n \displaystyle \begin{aligned} \ln(1+x) &= \sum_{n=1}^\infty \frac{(-1)^{n+1}}n x^n \\ \Rightarrow -\ln \biggl( \frac k{k-1} \biggr) \!= \ln \biggl( 1-\frac1k \biggr) \!&= \sum_{n=1}^\infty \frac{(-1)^{n+1}}n \biggl( -\frac1k \biggr)^{\!n} = -\sum_{n=1}^\infty \frac1{nk^n} \end{aligned} ln ( 1 + x ) ⇒ − ln ( k − 1 k ​ ) = ln ( 1 − k 1 ​ ) ​ = n = 1 ∑ ∞ ​ n ( − 1 ) n + 1 ​ x n = n = 1 ∑ ∞ ​ n ( − 1 ) n + 1 ​ ( − k 1 ​ ) n = − n = 1 ∑ ∞ ​ n k n 1 ​ ​
+위 등식을 이용하면 주어진 식을 증명할 수 있다.
+
+∑ n = 2 ∞ ζ ( n ) − 1 n = ∑ n = 2 ∞ 1 n ∑ k = 2 ∞ 1 k n = ∑ n = 2 ∞ ∑ k = 2 ∞ 1 n k n = ∑ k = 2 ∞ ∑ n = 2 ∞ 1 n k n = ∑ k = 2 ∞ ( ∑ n = 1 ∞ 1 n k n − 1 k ) ⁣ = − ∑ k = 2 ∞ ( 1 k − ∑ n = 1 ∞ 1 n k n ) = − ∑ k = 2 ∞ ( 1 k − ln ⁡ ( k k − 1 ) ⁣ ) ⁣ = − lim ⁡ n → ∞ ∑ k = 2 n ( 1 k − ln ⁡ ( k k − 1 ) ⁣ ) = − lim ⁡ n → ∞ ( ∑ k = 2 n 1 k − ∑ k = 2 n ln ⁡ ( k k − 1 ) ⁣ ) = − lim ⁡ n → ∞ ( ∑ k = 1 n 1 k − 1 − ln ⁡ n ) = 1 − lim ⁡ n → ∞ ( ∑ k = 1 n 1 k − ln ⁡ n ) = 1 − γ \displaystyle \begin{aligned} \sum_{n=2}^\infty \frac{\zeta(n)-1}n &= \sum_{n=2}^\infty \frac1n \sum_{k=2}^\infty \frac1{k^n} = \sum_{n=2}^\infty \sum_{k=2}^\infty \frac1{nk^n} = \sum_{k=2}^\infty \sum_{n=2}^\infty \frac1{nk^n} \\ &= \sum_{k=2}^\infty \Biggl( \sum_{n=1}^\infty \frac1{nk^n} -\frac1k \Biggr) \!= -\sum_{k=2}^\infty \Biggl( \frac1k -\sum_{n=1}^\infty \frac1{nk^n} \Biggr) \\ &= -\sum_{k=2}^\infty \biggl( \frac1k -\ln \biggl( \frac k{k-1} \biggr) \!\biggr) \!= -\lim_{n\to\infty} \sum_{k=2}^n \biggl( \frac1k -\ln \biggl( \frac k{k-1} \biggr) \!\biggr) \\ &= -\lim_{n\to\infty} \Biggl( \sum_{k=2}^n \frac1k -\sum_{k=2}^n \ln \biggl( \frac k{k-1} \biggr) \!\Biggr) \\ &= -\lim_{n\to\infty} \Biggl( \sum_{k=1}^n \frac1k -1 -\ln n \Biggr) = 1 -\lim_{n\to\infty} \Biggl( \sum_{k=1}^n \frac1k -\ln n \Biggr) \\ &= 1-\gamma \end{aligned} n = 2 ∑ ∞ ​ n ζ ( n ) − 1 ​ ​ = n = 2 ∑ ∞ ​ n 1 ​ k = 2 ∑ ∞ ​ k n 1 ​ = n = 2 ∑ ∞ ​ k = 2 ∑ ∞ ​ n k n 1 ​ = k = 2 ∑ ∞ ​ n = 2 ∑ ∞ ​ n k n 1 ​ = k = 2 ∑ ∞ ​ ( n = 1 ∑ ∞ ​ n k n 1 ​ − k 1 ​ ) = − k = 2 ∑ ∞ ​ ( k 1 ​ − n = 1 ∑ ∞ ​ n k n 1 ​ ) = − k = 2 ∑ ∞ ​ ( k 1 ​ − ln ( k − 1 k ​ ) ) = − n → ∞ lim ​ k = 2 ∑ n ​ ( k 1 ​ − ln ( k − 1 k ​ ) ) = − n → ∞ lim ​ ( k = 2 ∑ n ​ k 1 ​ − k = 2 ∑ n ​ ln ( k − 1 k ​ ) ) = − n → ∞ lim ​ ( k = 1 ∑ n ​ k 1 ​ − 1 − ln n ) = 1 − n → ∞ lim ​ ( k = 1 ∑ n ​ k 1 ​ − ln n ) = 1 − γ ​
+
+위 식은 오일러-마스케로니 상수의 근삿값을 구하는 데 자주 사용된다.
+- 폰 망골트 함수 Λ ( n ) \Lambda(n) Λ ( n ) 에 대해 다음이 성립한다. 증명 ∑ n = 2 ∞ Λ ( n ) − 1 n = − 2 γ ≈ − 1.1544313298 \displaystyle \begin{aligned} \sum_{n=2}^\infty \frac{\Lambda(n)-1}n &= -2\gamma \\ &\approx -1.1544313298 \end{aligned} n = 2 ∑ ∞ ​ n Λ ( n ) − 1 ​ ​ = − 2 γ ≈ − 1.1544313298 ​
+- 감마 함수 Γ ( z ) \Gamma(z) Γ ( z ) 와 디감마 함수 ψ ( z ) \psi(z) ψ ( z ) 에 대해 다음이 성립한다. (단, z ∈ C z\in\mathbb{C} z ∈ C ) lim ⁡ z → 0 + ( Γ ( z ) − 1 z ) ⁣ = − γ lim ⁡ z → 0 + ( ψ ( z ) + 1 z ) ⁣ = − γ \displaystyle \begin{aligned} \lim_{z\to0+} \biggl( \Gamma(z)-\frac1z \biggr) \!&= -\gamma \\ \lim_{z\to0+} \biggl( \psi(z)+\frac1z \biggr) \!&= -\gamma \end{aligned} z → 0 + lim ​ ( Γ ( z ) − z 1 ​ ) z → 0 + lim ​ ( ψ ( z ) + z 1 ​ ) ​ = − γ = − γ ​
+
+[증명]
+lim ⁡ z → 0 + ( Γ ( z ) − 1 z ) ⁣ = lim ⁡ z → 0 + z Γ ( z ) − 1 z = lim ⁡ z → 0 + Γ ( 1 + z ) − Γ ( 1 ) z = Γ ′ ( 1 ) = − γ ■ lim ⁡ z → 0 + ( ψ ( z ) + 1 z ) ⁣ = lim ⁡ z → 0 + ψ ( z + 1 ) = ψ ( 1 ) = − γ ■ \displaystyle \begin{aligned} \lim_{z\to0+} \biggl( \Gamma(z)-\frac1z \biggr) \!&= \lim_{z\to0+} \frac{z\Gamma(z)-1}z \\ &= \lim_{z\to0+} \frac{\Gamma(1+z)-\Gamma(1)}z \\ &= \Gamma'(1) \\ &= -\gamma \qquad \blacksquare \\ \lim_{z\to0+} \biggl( \psi(z)+\frac1z \biggr) \!&= \lim_{z\to0+} \psi(z+1) \\ &= \psi(1) \\ &= -\gamma \qquad \blacksquare \end{aligned} z → 0 + lim ​ ( Γ ( z ) − z 1 ​ ) z → 0 + lim ​ ( ψ ( z ) + z 1 ​ ) ​ = z → 0 + lim ​ z z Γ ( z ) − 1 ​ = z → 0 + lim ​ z Γ ( 1 + z ) − Γ ( 1 ) ​ = Γ ′ ( 1 ) = − γ ■ = z → 0 + lim ​ ψ ( z + 1 ) = ψ ( 1 ) = − γ ■ ​
+
+7. 값 [편집]
+소수점 이하 1000자리 [펼치기 · 접기] 0.5772156649 0153286060 6512090082 4024310421 5933593992 3598805767 2348848677 2677766467 0936947063 2917467495
+1463144724 9807082480 9605040144 8654283622 4173997644 9235362535 0033374293 7337737673 9427925952 5824709491
+6008735203 9481656708 5323315177 6611528621 1995015079 8479374508 5705740029 9213547861 4669402960 4325421519
+0587755352 6733139925 4012967420 5137541395 4911168510 2807984234 8775872050 3843109399 7361372553 0608893312
+6760017247 9537836759 2713515772 2610273492 9139407984 3010341777 1778088154 9570661075 0101619166 3340152278
+9358679654 9725203621 2879226555 9536696281 7638879272 6801324310 1047650596 3703947394 9576389065 7296792960
+1009015125 1959509222 4350140934 9871228247 9497471956 4697631850 6676129063 8110518241 9744486783 6380861749
+4551698927 9230187739 1072945781 5543160050 0218284409 6053772434 2032854783 6701517739 4398700302 3703395183
+2869000155 8193988042 7074115422 2781971652 3011073565 8339673487 1765049194 1812300040 6546931429 9929777956
+9303100503 0863034185 6980323108 3691640025 8929708909 8548682577 7364288253 9549258736 2959613329 8574739302
+
+소수점 이하 자릿수 중 10,000자리 이내에서 파인만 포인트 와 비슷한 부분들은 다음이 있다. - 5번 반복되는 0: 3423~3427번째 자리
+- 6번 반복되는 3: 3893~3898번째 자리
+
+8. 관련 문서 [편집]
+- 스틸체스 상수
+- 감마 함수 - 로그 감마 함수
+- 리만 제타 함수
+- 0과 1 사이의 수
+
+[ 남동구컴퓨터수리 쿠팡
+www.coupang.com v-if
+[ [ 로켓프레시 ] [ 골드박스 ] [ 로켓직구 ] [ 로켓배송 ] ]
+세련된 남동구컴퓨터수리, 감성 가득한 디자인으로 식탁 분위기를 바꿔보세요.
+
+] | [ 전국24시 출장비0원 컴닥터
+www.컴닥터본사.kr v-if
+[ [ 홈페이지접수 ] [ 온라인문의 ] [ 체인점찾기 ] [ 서비스요금 ] ]
+전국 대표 컴닥터 컴퓨터수리 데이터복구 20분 무료 출장 서비스, A/S안심서비스
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+]
+
+[1] 마지막 자릿수(붉은 숫자)는 틀렸다. 반올림을 고려하더라도 마찬가지이다. [2] 붉은 숫자인 20~22번째, 31~32번째 자리는 틀린 값이다. [3] 둘째 줄에서 전미분이 편미분으로 바뀌는 이유에 대해선 정적분으로 정의된 함수의 미분 공식을 참고하라. [4] 정수계수 대수다항식의 해가 될 수 없는 수. 초월수 이면 절대 유리수 가 될 수 없다. 즉, 오일러-마스케로니 상수가 초월수이면 절대 유리수가 될 수 없으므로 해당 상수는 무리수가 된다. 그러나 아직까지는 이 상수가 초월수라는 증명이 나오지 않은 상태. [5] 유리수인지 아닌지를 판별하는 함수. [6] ∬ ( 0 , 1 ) 2 ⇔ ∫ 0 1 ⁣ ∫ 0 1 \displaystyle \iint_{(0,1)^2} \Leftrightarrow \int_0^1 \! \int_0^1 ∬ ( 0 , 1 ) 2 ​ ⇔ ∫ 0 1 ​ ∫ 0 1 ​ 이다. 자세한 내용은 중적분 문서 참고. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

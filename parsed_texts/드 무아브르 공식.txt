@@ -1,0 +1,193 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 드 무아브르 공식
+최근 수정 시각: 2025-11-02 17:54:21 [ [ [ ] [ [ 4 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 해석학(수학)
+- 기하학
+- 대수학
+- 공식
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 지수의 확장에 따른 드 무아브르 공식의 증명 2.1 . 정수 2.1.1 . 자연수(양의 정수) 2.1.2 . 0 2.1.3 . 음의 정수 2.2 . 실수 2.2.1 . 유리수 2.2.2 . 무리수 3 . 1의 n제곱근 조사 3.1 . 예시: 1의 3제곱근 3.2 . 일반화 4 . 관련 문서
+
+1. 개요 [편집]
+Formule de Moivre / de Moivre’s formula / de Moivre 公 式
+
+( cos ⁡ θ + i sin ⁡ θ ) n = cos ⁡ n θ + i sin ⁡ n θ (\cos\theta+i\sin\theta)^n=\cos n\theta+i\sin n\theta ( cos θ + i sin θ ) n = cos n θ + i sin n θ [1] 또는 ( cis ⁡ θ ) n = cis ⁡ n θ (\operatorname{cis}\theta)^n=\operatorname{cis}n\theta ( cis θ ) n = cis n θ [2]
+오일러 공식 에서 유도되는, 절댓값이 1 1 1 인 복소수의 실수지수 거듭제곱 을 단순화시켜주는 공식이다. [3]
+e i θ = cos ⁡ θ + i sin ⁡ θ e^{i\theta}=\cos\theta+i\sin\theta e i θ = cos θ + i sin θ 임에 따라 양쪽 항에 각각 n n n 거듭제곱을 취하면
+
+( e i θ ) n = ( cos ⁡ θ + i sin ⁡ θ ) n ⟹ e i n θ = cos ⁡ ( n θ ) + i sin ⁡ ( n θ ) \bigl(e^{i\theta}\bigr)^n=(\cos\theta+i\sin\theta)^n\implies e^{in\theta}=\cos(n\theta)+i\sin(n\theta) ( e i θ ) n = ( cos θ + i sin θ ) n ⟹ e in θ = cos ( n θ ) + i sin ( n θ )
+임이 됨을 확인할 수 있다.
+
+2. 지수의 확장에 따른 드 무아브르 공식의 증명 [편집]
+증명 과정은 먼저 수학적 귀납법으로 자연수 지수에 대해서 증명한 뒤, 이를 바탕으로 정수 지수, 유리수 지수에 대해서 증명하고 마지막으로 실수의 완비성을 이용해 실수 지수에 대해서 증명한다.
+
+2.1. 정수 [편집]
+
+2.1.1. 자연수(양의 정수) [편집]
+
+①. n = 1 n=1 n = 1 일 때는 ( cos ⁡ θ + i sin ⁡ θ ) 1 = cos ⁡ θ + i sin ⁡ θ (\cos\theta+i\sin\theta)^1=\cos\theta+i\sin\theta ( cos θ + i sin θ ) 1 = cos θ + i sin θ 에 따라 자명하다.
+
+②. ( cos ⁡ θ + i sin ⁡ θ ) n = cos ⁡ ( n θ ) + i sin ⁡ ( n θ ) \left(\cos\theta+i\sin\theta\right)^{n}=\cos \left(n\theta\right)+i\sin \left(n\theta\right) ( cos θ + i sin θ ) n = cos ( n θ ) + i sin ( n θ ) 가 임의의 양의 정수 k k k 에서 성립한다고 가정하자.
+
+③. n = k + 1 n=k+1 n = k + 1 일 때 드 무아브르 공식이 성립하는지 확인한다.
+n = k n=k n = k 를 대입한 식의 양변에 ( cos ⁡ θ + i sin ⁡ θ ) \left(\cos\theta+i\sin\theta\right) ( cos θ + i sin θ ) 를 곱하면
+
+( cos ⁡ θ + i sin ⁡ θ ) k ⋅ ( cos ⁡ θ + i sin ⁡ θ ) = ( cos ⁡ k θ + i sin ⁡ k θ ) × ( cos ⁡ θ + i sin ⁡ θ ) \left(\cos\theta+i\sin\theta\right)^k\cdot\left(\cos\theta+i\sin\theta\right)=(\cos k\theta + i\sin k\theta)\times\left ( \cos \theta+i\sin \theta \right ) ( cos θ + i sin θ ) k ⋅ ( cos θ + i sin θ ) = ( cos k θ + i sin k θ ) × ( cos θ + i sin θ )
+좌변을 정리, 우변을 전개하면
+
+( cos ⁡ θ + i sin ⁡ θ ) k + 1 = cos ⁡ k θ cos ⁡ θ − sin ⁡ k θ sin ⁡ θ + i ( sin ⁡ k θ cos ⁡ θ + cos ⁡ k θ sin ⁡ θ ) \left(\cos\theta+i\sin\theta\right)^{k+1}=\cos k\theta\cos\theta-\sin k\theta\sin\theta+i(\sin k\theta\cos\theta+\cos k\theta\sin\theta) ( cos θ + i sin θ ) k + 1 = cos k θ cos θ − sin k θ sin θ + i ( sin k θ cos θ + cos k θ sin θ )
+이 되는데, 삼각함수의 덧셈정리 를 이용하여 우변을 정리해주면
+
+( cos ⁡ θ + i sin ⁡ θ ) k + 1 = cos ⁡ { ( k + 1 ) θ } + i sin ⁡ { ( k + 1 ) θ } \left(\cos\theta+i\sin\theta\right)^{k+1}=\cos{}\{(k+1)\theta\}+i\sin{}\{(k+1)\theta\} ( cos θ + i sin θ ) k + 1 = cos {( k + 1 ) θ } + i sin {( k + 1 ) θ }
+이 된다. 이는 n = k + 1 n=k+1 n = k + 1 일 때의 드 무아브르 공식이다.
+
+①-③에 따라 드 무아브르 공식이 모든 자연수 n n n 에 대해서 항상 성립한다.
+
+2.1.2. 0 [편집]
+( cos ⁡ θ + i sin ⁡ θ ) n = cos ⁡ ( n θ ) + i sin ⁡ ( n θ ) \left(\cos\theta+i\sin\theta\right)^{n}=\cos \left (n\theta \right)+i\sin \left(n\theta\right) ( cos θ + i sin θ ) n = cos ( n θ ) + i sin ( n θ ) 에 n = 0 n=0 n = 0 을 대입하면
+좌변은 ( cos ⁡ θ + i sin ⁡ θ ) 0 = 1 (\cos\theta+i\sin\theta)^0=1 ( cos θ + i sin θ ) 0 = 1 , 우변은 cos ⁡ 0 θ + i sin ⁡ 0 θ = 1 + 0 i = 1 \cos0\theta+i\sin0\theta=1+0i=1 cos 0 θ + i sin 0 θ = 1 + 0 i = 1 이므로 n = 0 n=0 n = 0 일 때 드 무아브르 공식이 성립한다.
+
+2.1.3. 음의 정수 [편집]
+a − b = 1 a b a^{-b}=\dfrac1{a^b} a − b = a b 1 ​ 와 cos ⁡ ( − θ ) = cos ⁡ θ \cos{}(-\theta)=\cos\theta cos ( − θ ) = cos θ , sin ⁡ ( − θ ) = − sin ⁡ θ \sin{}(-\theta)=-\sin \theta sin ( − θ ) = − sin θ 를 이용한다.
+
+음의 정수 k k k 에 대해서 t = − k t=-k t = − k 라 하면 t t t 는 양의 정수이므로, 자연수 지수에서의 드 무아브르 공식에 의해
+
+( cos ⁡ θ + i sin ⁡ θ ) k = ( cos ⁡ θ + i sin ⁡ θ ) − t = 1 ( cos ⁡ θ + i sin ⁡ θ ) t = 1 cos ⁡ t θ + i sin ⁡ t θ (\cos\theta+i\sin\theta)^k=(\cos\theta+i\sin\theta)^{-t}=\dfrac1{(\cos\theta+i\sin\theta)^t}=\dfrac1{\cos t\theta+i\sin t\theta} ( cos θ + i sin θ ) k = ( cos θ + i sin θ ) − t = ( cos θ + i sin θ ) t 1 ​ = cos tθ + i sin tθ 1 ​
+이 성립한다.
+
+분모를 실수화하기 위해 분자와 분모에 cos ⁡ t θ + i sin ⁡ t θ ‾ = cos ⁡ t θ − i sin ⁡ t θ \overline{\cos t\theta+i\sin t\theta}=\cos t\theta-i\sin t\theta cos tθ + i sin tθ ​ = cos tθ − i sin tθ 를 곱하면
+
+cos ⁡ t θ − i sin ⁡ t θ ( cos ⁡ t θ + i sin ⁡ t θ ) ( cos ⁡ t θ − i sin ⁡ t θ ) = cos ⁡ t θ − i sin ⁡ t θ cos ⁡ 2 t θ + sin ⁡ 2 t θ = cos ⁡ t θ − i sin ⁡ t θ = cos ⁡ ( − t θ ) + i sin ⁡ ( − t θ ) = cos ⁡ k θ + i sin ⁡ k θ \begin{aligned}\dfrac{\cos t\theta-i\sin t\theta}{(\cos t\theta+i\sin t\theta)(\cos t\theta-i\sin t\theta)}=\dfrac{\cos t\theta-i\sin t\theta}{\cos^2 t\theta+\sin^2 t\theta}&=\cos t\theta-i\sin t\theta\\&=\cos{}(-t\theta)+i\sin{}(-t\theta)\\&=\cos k\theta+i\sin k\theta\end{aligned} ( cos tθ + i sin tθ ) ( cos tθ − i sin tθ ) cos tθ − i sin tθ ​ = cos 2 tθ + sin 2 tθ cos tθ − i sin tθ ​ ​ = cos tθ − i sin tθ = cos ( − tθ ) + i sin ( − tθ ) = cos k θ + i sin k θ ​
+임에 따라 음의 정수 k k k 에 대해 드 무아브르 공식이 성립한다.
+
+2.2. 실수 [편집]
+
+2.2.1. 유리수 [편집]
+임의의 정수 a a a , b b b 를 설정한다. ( a ≠ 0 a\neq0 a  = 0 )
+
+위의 증명에 따라 ( cos ⁡ θ + i sin ⁡ θ ) b = cos ⁡ b θ + i sin ⁡ b θ (\cos\theta+i\sin\theta)^b=\cos b\theta+i\sin b\theta ( cos θ + i sin θ ) b = cos b θ + i sin b θ 이다.
+
+b = b a ⋅ a b=\dfrac ba\cdot a b = a b ​ ⋅ a 와 자연수에서의 드 무아브르 공식을 이용해 다음과 같이 식을 변형한다.
+
+( cos ⁡ θ + i sin ⁡ θ ) ( b / a ) ⋅ a = cos ⁡ [ ( b a ⋅ a ) θ ] + i sin ⁡ [ ( b a ⋅ a ) θ ] = [ cos ⁡ ( b a θ ) + i sin ⁡ ( b a θ ) ] a \begin{aligned}(\cos\theta+i\sin\theta)^{(b/a)\cdot a}&=\cos\left[\left(\dfrac ba\cdot a\right)\theta\right]+i\sin\left[\left(\dfrac ba\cdot a\right)\theta\right]\\&=\left[\cos\left(\dfrac ba\theta\right)+i\sin\left(\dfrac ba\theta\right)\right]^a\end{aligned} ( cos θ + i sin θ ) ( b / a ) ⋅ a ​ = cos [ ( a b ​ ⋅ a ) θ ] + i sin [ ( a b ​ ⋅ a ) θ ] = [ cos ( a b ​ θ ) + i sin ( a b ​ θ ) ] a ​
+양변에 a a a 제곱근을 취하면
+
+( cos ⁡ θ + i sin ⁡ θ ) b / a = cos ⁡ ( b a θ ) + i sin ⁡ ( b a θ ) (\cos\theta+i\sin\theta)^{b/a}=\cos\left(\dfrac ba\theta\right)+i\sin\left(\dfrac ba\theta\right) ( cos θ + i sin θ ) b / a = cos ( a b ​ θ ) + i sin ( a b ​ θ )
+인데 a a a 와 b b b 는 a = 0 a=0 a = 0 인 경우를 제외한 임의의 정수이므로 임의의 유리수 q q q 에 대해 q = b / a q=b/a q = b / a 를 만족하는 정수 a a a , b b b 를 제시할 수 있으니, 임의의 유리수 q q q 에 대해 드 무아브르 공식이 성립한다.
+
+2.2.2. 무리수 [편집]
+실수의 완비성 [4] 과 유리수의 조밀성 [5] 에 따라 임의의 무리수 x x x 로 수렴하는 유리수로 구성된 수열 ( x n ) (x_n) ( x n ​ ) 이 존재한다.
+이때 임의의 복소수 z z z 에 대해 z x = lim ⁡ n → ∞ z x n z^x=\displaystyle\lim_{n\to\infty} z^{x_n} z x = n → ∞ lim ​ z x n ​ 으로 정의됨에 유의하라.
+
+유리수에서의 드 무아브르 공식을 이용하면 임의의 자연수 n n n 에 대하여
+
+( cos ⁡ θ + i sin ⁡ θ ) x n = cos ⁡ x n θ + i sin ⁡ x n θ (\cos\theta+i\sin\theta)^{x_n}=\cos x_n\theta+i\sin x_n\theta ( cos θ + i sin θ ) x n ​ = cos x n ​ θ + i sin x n ​ θ
+
+이 성립한다. sin ⁡ \sin sin 과 cos ⁡ \cos cos 는 실수에서 연속이므로 lim ⁡ n → ∞ cos ⁡ x n θ = cos ⁡ x θ \displaystyle\lim_{n\to\infty}\cos x_n\theta=\cos x\theta n → ∞ lim ​ cos x n ​ θ = cos x θ , lim ⁡ n → ∞ sin ⁡ x n θ = sin ⁡ x θ \displaystyle\lim_{n\to\infty}\sin x_n\theta=\sin x\theta n → ∞ lim ​ sin x n ​ θ = sin x θ 이 성립함에 따라
+
+lim ⁡ n → ∞ ( cos ⁡ θ + i sin ⁡ θ ) x n = lim ⁡ n → ∞ ( cos ⁡ x n θ + i sin ⁡ x n θ ) ⟹ ( cos ⁡ θ + i sin ⁡ θ ) x = cos ⁡ x θ + sin ⁡ x θ \begin{aligned} &\displaystyle\lim_{n\to\infty}(\cos\theta+i\sin\theta)^{x_n}=\lim_{n\to\infty}(\cos x_n\theta+i\sin x_n\theta)\\ \Longrightarrow\quad&(\cos\theta+i\sin\theta)^x=\cos x\theta+\sin x\theta \end{aligned} ⟹ ​ n → ∞ lim ​ ( cos θ + i sin θ ) x n ​ = n → ∞ lim ​ ( cos x n ​ θ + i sin x n ​ θ ) ( cos θ + i sin θ ) x = cos x θ + sin x θ ​
+이 성립한다. 즉, 임의의 무리수 x x x 에 대해 드 무아브르 공식이 성립한다.
+
+3. 1의 n제곱근 조사 [편집]
+ω = ∣ ω ∣ ( cos ⁡ θ + i sin ⁡ θ ) \omega=|\omega|(\cos\theta+i\sin\theta) ω = ∣ ω ∣ ( cos θ + i sin θ ) ( ω n = 1 \omega^n=1 ω n = 1 )에 대해 ∣ ω n ∣ = 1 ⇒ ∣ ω ∣ = 1|\omega^n|=1\Rightarrow |\omega|=1 ∣ ω n ∣ = 1 ⇒ ∣ ω ∣ = 1 와 드 무아브르 공식을 통해 ω \omega ω , 즉 1 1 1 의 n n n 제곱근의 값을 찾아낼 수 있다.
+
+3.1. 예시: 1의 3제곱근 [편집]
+1 1 1 의 세제곱근을 x ∈ C x\in\mathbb C x ∈ C 라 하자. 즉 x 3 = 1 x^3=1 x 3 = 1 이다. ∣ x 3 ∣ = ∣ x ∣ 3 = 1|x^3|=|x|^3=1 ∣ x 3 ∣ = ∣ x ∣ 3 = 1 임에 따라 ∣ x ∣ = 1|x|=1 ∣ x ∣ = 1 임에 주목하라.
+
+x x x 를 0 ≤ θ < 2 π 0\leq\theta<2\pi 0 ≤ θ < 2 π 로 한정된 극형식으로 나타낸 후 x 3 x^3 x 3 에 드 무아브르 공식을 적용시켜보자.
+
+x 3 = { ∣ x ∣ ( cos ⁡ θ + i sin ⁡ θ ) } 3 = ∣ x ∣ 3 ( cos ⁡ 3 θ + i sin ⁡ 3 θ ) = ∣ x 3 ∣ ( cos ⁡ 3 θ + i sin ⁡ 3 θ ) = cos ⁡ 3 θ + i sin ⁡ 3 θ = 1 \begin{aligned} x^3=\{|x|(\cos\theta+i\sin\theta)\}^3&=|x|^3(\cos 3\theta+i\sin3\theta)\\ &=|x^3|(\cos 3\theta+i\sin 3\theta)=\cos 3\theta+i\sin 3\theta=1 \end{aligned} x 3 = { ∣ x ∣ ( cos θ + i sin θ ) } 3 ​ = ∣ x ∣ 3 ( cos 3 θ + i sin 3 θ ) = ∣ x 3 ∣ ( cos 3 θ + i sin 3 θ ) = cos 3 θ + i sin 3 θ = 1 ​
+따라서 θ \theta θ 는 cos ⁡ 3 θ = 1 \cos 3\theta=1 cos 3 θ = 1 와 sin ⁡ 3 θ = 0 \sin 3\theta=0 sin 3 θ = 0 을 만족시켜야 한다.
+
+cos ⁡ 3 θ = 1 \cos3\theta=1 cos 3 θ = 1 의 해집합 A A A 는 3 θ = 2 n π 3\theta=2n\pi 3 θ = 2 nπ ( n ∈ Z n\in\Z n ∈ Z )임에 따라 { 0 , 2 3 π , 4 3 π } = : A \left\{0,\,\dfrac23\pi,\,\dfrac43\pi\right\}=:A { 0 , 3 2 ​ π , 3 4 ​ π } =: A ,
+sin ⁡ 3 θ = 0 \sin3\theta=0 sin 3 θ = 0 의 해집합 B B B 는 3 θ = n π 3\theta=n\pi 3 θ = nπ ( n ∈ Z n\in\Z n ∈ Z )임에 따라 A ⊆ B A\subseteq B A ⊆ B 이다.
+
+x = ∣ x ∣ ( cos ⁡ θ + i sin ⁡ θ ) = cos ⁡ θ + i sin ⁡ θ x=|x|(\cos\theta+i\sin\theta)=\cos\theta+i\sin\theta x = ∣ x ∣ ( cos θ + i sin θ ) = cos θ + i sin θ 이니
+
+x = cos ⁡ 0 + i sin ⁡ 0 = 1 x=\cos 0+i\sin 0=1 x = cos 0 + i sin 0 = 1 또는 cos ⁡ 2 3 π + i sin ⁡ 2 3 π = − 1 + 3 i 2 \cos\dfrac23\pi+i\sin\dfrac23\pi=\dfrac{-1+\sqrt3i}2 cos 3 2 ​ π + i sin 3 2 ​ π = 2 − 1 + 3 ​ i ​ 또는 cos ⁡ 4 3 π + i sin ⁡ 4 3 π = − 1 − 3 i 2 \cos\dfrac43\pi+i\sin\dfrac43\pi=\dfrac{-1-\sqrt3i}2 cos 3 4 ​ π + i sin 3 4 ​ π = 2 − 1 − 3 ​ i ​ 이다.
+
+3.2. 일반화 [편집]
+
+자연수 n n n 에 대하여 ω \omega ω 를 1 1 1 의 n n n 제곱근이라 하자. 위의 세제곱근의 방법과 비슷하게 드 무아브르 공식을 적용하면
+
+x n = { ∣ x ∣ ( cos ⁡ θ + i sin ⁡ θ ) } n = cos ⁡ n θ + i sin ⁡ n θ = 1 x^n=\{|x|(\cos\theta+i\sin\theta)\}^n=\cos n\theta+i\sin n\theta=1 x n = { ∣ x ∣ ( cos θ + i sin θ ) } n = cos n θ + i sin n θ = 1
+이다.
+
+따라서 n θ = 2 k π n\theta=2k\pi n θ = 2 k π ( k ∈ Z ∩ [ 0 , n ) k\in\Z\cap[0,\,n) k ∈ Z ∩ [ 0 , n ) ), 즉 ω ∈ { cos ⁡ 2 k π n + i sin ⁡ 2 k π n : k ∈ Z ∩ [ 0 , n ) } = { c i s ( 2 k π n ) : k ∈ Z ∩ [ 0 , n ) } \omega\in\left\{\cos\dfrac{2k\pi}n+i\sin\dfrac{2k\pi}n:k\in\Z\cap[0,\,n)\right\}=\left\{{\rm cis}\left(\dfrac{2k\pi}n\right):k\in\Z\cap[0,\,n)\right\} ω ∈ { cos n 2 k π ​ + i sin n 2 k π ​ : k ∈ Z ∩ [ 0 , n ) } = { cis ( n 2 k π ​ ) : k ∈ Z ∩ [ 0 , n ) } 이다.
+
+4. 관련 문서 [편집]
+- 힙 알고리즘
+
+[ 남동구퀵서비스 하나로퀵물류
+1577-3410.com
+[ [ 하나로퀵업체 ] [ 화물퀵서비스 ] [ 법인신청접수 ] [ 하나로퀵후기 ] ]
+기사실명제 퀵, 안전퀵 배송, 실시간배송조회, 24시간 안전퀵, 믿을수있는퀵서비스
+
+] | [ 남동구퀵배송 퀵브라더스
+www.1599-8330.com v-if
+[ [ 착한요금 ] [ 전국배송 ] [ ktx특송퀵 ] [ 버스.항공퀵 ] ]
+전국 어디든지 구석구석 당일배송, 저렴한요금, 카드결제OK, 친절상담, 비밀엄수
+
+] | [ 한국로지스 !친절배송!
+www.18332442.co.kr v-if
+한국로지스, 포장이사, 리프트화물, 용달, 전국당일특송 365일 가능합니다.
+
+]
+
+[1] Miscellanea analytica de seriebus et quadraturis. Accessere variae considerationes de methodis comparationum, combinationum & differentiarum, solutiones difficiliorum aliquot problematum ad sortem spectantium, itemque constructiones faciles orbium planetarum, una cum determinatione maximarum & minimarum mutationum quae in motibus corporum coelestium occurrunt - Abraham de Moivre, 1730. ( Google Books , 아카이브 ) [2] 오일러 공식을 함수꼴로 쓸 때의 형태. [3] 지수함수의 복소수지수 거듭제곱은 다가함수가 되기 때문에, 드 무아브르 공식으로 유도되는 값은 대표값이 된다. [4] 모든 코시 실수열이 수렴한다는 성질. [5] 임의의 다른 두 실수 사이에 유리수가 존재한다는 성질. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

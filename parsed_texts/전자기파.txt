@@ -1,0 +1,485 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 전자기파
+최근 수정 시각: 2026-03-31 04:28:30 [ [ [ ] [ [ 59 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 전자기파
+]
+
+[ [ ] [ 포켓몬스터에 등장하는 기술에 대한 내용은 전기자석파 문서를 참고하십시오.
+전자기학
+Electromagnetism
+[ 펼치기 · 접기 ] 기초 개념
+관련 수학 이론 | ∇ · 디랙 델타 함수 · 연속 방정식 · 분리 벡터
+전기 · 자기 | 개념 | 전자기력 ( 자기력 ) · 전자기 유도 ( 패러데이 법칙 ) · 맥스웰 방정식 · 전자기파 · 포인팅 벡터 · 전자기학의 경계치 문제 · 전자기파 방사
+정전기학 | 전하 · 전기장 · 전기 변위장 · 전기 퍼텐셜 · 가우스 법칙 · 전기 쌍극자 모멘트 · 유전율 · 대전현상 · 전기용량 · 시정수 · 정전기 방전
+정자기학 | 자성 · 자기장 · 자기장 세기 · 자기 퍼텐셜 · 자기 쌍극자 모멘트 · 로런츠 힘 · 홀 효과 · 비오-사바르 법칙 · 앙페르 법칙 · 투자율
+구현체 | 자석 ( 전자석 · 영구 자석 ) · 발전기 · 전동기
+회로이론 · 전자회로 | 개념 | 회로 기호도 · 전류 · 전압 · 전기 저항 ( 비저항 · 도전율 ) · 전력 ( 전력량 ) · 직류 · 교류 · 키르히호프의 법칙 · 중첩의 원리 · 삼상
+소자 | 수동소자 : 직류회로 ( 휘트스톤 브리지 ) · RLC회로 ( 커패시터 · 인덕터 · 레지스터 ) · 변압기
+능동소자 : 전원 · 다이오드 · 진공관 · 트랜지스터 · 연산 증폭기
+응용 및 심화개념
+관련 학문 | 상대론적 전자기학 · 양자 전기역학 · 응집물질물리학 · 고체물리학 · 전자공학 · 전기공학 · 제어공학 · 물리화학 · 광학 · 컴퓨터 과학 ( 컴퓨터공학 ) · 신경과학 ( 뇌과학 )
+토픽 | 이론 | 광자 · 게이지 장 ( 역장 · 장이론 ) · 물질파 ( 광전효과 ) · 다중극 전개 · 맥스웰 변형력 텐서 · 비리얼 정리
+음향 | 앰프 ( 파워앰프 · 프리앰프 · 인티앰프 · 진공관 앰프 ) · 데시벨 · 네퍼 · 음압 · 잔향
+열 | 반 데르 발스 힘 ( 분산력 ) · 복사 · 전도 ( 전도체 · 열전 효과 ) · 초전도체 · 네른스트 식
+광학 | 광도 ( 루멘 · 휘도 · 조도 · 럭스 ) · 굴절( 굴절률 · 페르마의 원리 ) · 스넬의 법칙 · 산란 · 회절 ( 회절 격자 ) · 전반사 · 수차 ( 색수차 ) · 편광 · 뉴턴 원무늬 · 분광학 · 스펙트럼 · 렌즈 ( 얇은 렌즈 방정식 · 두꺼운 렌즈 ) · 프리즘 · 거울 ( 구면 거울 방정식 ) · 행렬광학 · 색 ( 색의 종류 · RGB · 무채색 · 유채색 ) · 비어-람베르트 법칙
+전산 | 논리 연산 · 논리 회로 · 오토마타 ( 프로그래밍 언어 ) · 임베디드 · 컴퓨터 그래픽스 ( 랜더링 ) · 폴리곤 · 헥스 코드
+생물 | 생체신호 ( 생체 전기 · 뇌-컴퓨터 인터페이스 ) · 신경계 ( 막전위 · 활동전위 · 능동수송 · 분극 · 흥분 전도 · 원추세포 · 간상세포 ) · 신호전달 · 자극(생리학) ( 베버의 법칙 · 역치 ) · 감각 ( 시각 · 청각 · 후각 · 미각 · 촉각 )
+기타 | 방사선 · 반도체 · 전기음성도 · 와전류 · 방전 · 자극 · 표피효과 · 동축 케이블 · 진폭 변조 · 주파수 변조 · 메타물질 · 극 ( 지구자기장 ) · 체렌코프 현상 · 음발광
+관련 문서
+물리학 관련 정보 · 틀:전기전자공학 · 전기·전자 관련 정보 · 틀:이론 컴퓨터 과학 · 틀:컴퓨터공학
+
+천문학
+Astronomy
+[ 펼치기 · 접기 ] 배경
+기본 정보 | 우주 · 천체
+천문사 | 고천문학 · 천동설 · 지동설 · 첨성대 · 혼천의 · 간의 · 천상열차분야지도 · 성변측후단자 · 아스트롤라베 · 올베르스의 역설 · 대논쟁 · 정적 우주론 · 정상우주론
+천문학 연구 | 천문학과 · 천문학자 · 우주덕 · 천문법 · 국제천문연맹 · 국제천문연맹총회 · 한국천문학회 · 한국우주과학회 · 한국아마추어천문학회 ( 천문지도사 ) · 우주항공청 ( 한국천문연구원 · 한국항공우주연구원 ) · 한국과학우주청소년단 · 국제천문올림피아드 · 국제 천문 및 천체물리 올림피아드 · 아시아-태평양 천문올림피아드 · 한국천문올림피아드 · 전국학생천체관측대회 · 전국청소년천체관측대회
+천체물리학
+천체역학 | 궤도 · 근일점 · 원일점 · 자전 ( 자전 주기 ) · 공전 ( 공전 주기 ) · 중력 ( 무중력 ) · 질량중심 · 이체 문제 ( 케플러의 법칙 · 활력방정식 · 탈출 속도 ) · 삼체문제 ( 라그랑주점 · 리사주 궤도 · 헤일로 궤도 · 힐 권 ) · 중력섭동 ( 궤도 공명 · 세차운동 · 장동 · 칭동 ) · 기조력 ( 조석 · 평형조석론 · 균형조석론 · 동주기 자전 · 로슈 한계 ) · 비리얼 정리
+궤도역학 | 치올코프스키 로켓 방정식 · 정지궤도 · 호만전이궤도 · 스윙바이 · 오베르트 효과
+전자기파 | 흑체복사 · 제동복사 · 싱크로트론복사 · 스펙트럼 · 산란 · 도플러 효과 ( 적색편이 · 상대론적 도플러 효과 ) · 선폭 증가 · 제이만 효과 · 편광 · 수소선 · H-α 선
+기타 개념 | 핵합성 ( 핵융합 ) · 중력파 · 중력 렌즈 효과 · 레인-엠든 방정식 · 엠든-찬드라세카르 방정식 · 톨만-오펜하이머-볼코프 방정식 · 타임 패러독스
+위치천문학
+구면천문학 | 천구 좌표계 · 구면삼각형 · 천구적도 · 자오선 · 남중 고도 · 일출 · 일몰 · 북극성 · 남극성 · 별의 가시적 분류 · 24절기 ( 춘분 · 하지 · 추분 · 동지 ) · 극야 · 백야 · 박명
+시간 체계 | 태양일 · 항성일 · 회합 주기 · 태양 중심 율리우스일 · 시간대 · 시차 · 균시차 · 역법
+측성학 | 연주운동 · 거리의 사다리 ( 연주시차 · 천문단위 · 광년 · 파섹 )
+천체관측
+관측기기 및 시설 | 천문대 · 플라네타리움 · 망원경 ( 쌍안경 · 전파 망원경 · 간섭계 · 공중 망원경 · 우주 망원경 ) · CCD ( 냉각 CCD ) · 육분의 · 탐사선
+관측 대상 | 별자리 ( 황도 12궁 · 3원 28수 · 계절별 별자리 ) · 성도 · 알파성 · 심원 천체 · 천체 목록 ( 메시에 천체 목록 · 콜드웰 천체 목록 · 허셜 400 천체 목록 · NGC 목록 · 콜린더 목록 · 샤플리스 목록 · 특이은하 목록 · 헤나이즈 목록 · LGG 목록 · 글리제의 근접 항성 목록 · 밝은 별 목록 · 헨리 드레이퍼 목록 · 웨스터하우트 목록 ) · 스타호핑법 · 엄폐
+틀:태양계천문학·행성과학 · 틀:항성 및 은하천문학·우주론 · 천문학 관련 정보
+
+z z z 축 방향으로 진행하는 직선 편광 전자기파 평면파의 그래프. x x x 축 방향의 E ⃗ \vec E E 는 전기장 을, y y y 축 방향의 B ⃗ \vec B B 는 자기장 을 나타내며, 둘이 서로 수직임을 보여준다.
+
+반파 정류 안테나 가 방출하는 구면파 전파 의 전기장
+
+1 . 개요 2 . 전자기파의 여러 형태 3 . 전자기파 존재의 도출 3.1 . 변위 전류의 도입 3.1.1 . 예제 3.2 . 수학적 도출 3.3 . 평면 전자기파의 방사 형태 3.4 . 평면 전자기파의 수학적 형태 4 . 전자기파의 발견 5 . 평면 전자기파의 편광 6 . 전도성 물질 내에서 전자기파 6.1 . 좋은 도체 7 . 포인팅 벡터 8 . 전자기학의 경계치 문제 9 . 전자기파 방사 10 . 전자기파의 에너지 양자화 11 . 건강 12 . 여담
+
+1. 개요 [편집]
+전자기파 ( 電 磁 氣 波 , electromagnetic wave)는 전기장 과 자기장 이 공간상으로 방사되는 파동을 이른다. 전기장 혹은 자기장이 시간적으로 변하거나, 전하가 가속 운동을 하는 등의 이유로 발생되며, 특히나 후자의 경우를 전자기파 방사 (electromagnetic radiation)라 한다. 일상적인 의미의 ' 빛 ' 역시 가시광선 영역의 전자기파에 대한 통칭이다.
+
+전자기파는 영국의 물리학자 제임스 클러크 맥스웰 이 맥스웰 방정식 을 유도하면서 그 존재를 예측하였고, 그 후 1887년 독일의 물리학자 하인리히 루돌프 헤르츠 가 실험으로 그 존재를 입증하였다.
+
+2. 전자기파의 여러 형태 [편집]
+전자기파·빛의 종류
+이온화 전자기방사선 | 비이온화 전자기방사선
+감마선 | X선 | 자외선 | 가시광선 | 적외선 | 전파
+⟵ 짧은 파장, 높은 진동수 긴 파장, 낮은 진동수 ⟶
+[ 세부분류 펼치기 · 접기 ] 틀:전파| 틀:적외선| 틀:자외선
+
+기본적으로 전자기파 모두가 빛이지만, 전자기파 중에서 인간의 눈으로도 감지할 수 있는 영역인 가시광선(可視光線, 눈으로 보는 게 가능한 빛)을 흔히 빛이라고 부른다. 범위는 대략 400nm에서 700nm이다. 우리 시각기관이 전파를 감지할 수 있었다면 전파도 가시광선이라고 불렸을 것이다. 일반적으로 빛 이라고 불리는 가시광선은, 전체 전자기파를 통틀어 보면 그 비중은 매우 작다. 가시광선 영역을 주로 빨주노초파남보로 나누는 경향이 있으며, 빨간색에 가까울수록 파장이 길고(에너지가 낮고), 보라색에 가까울수록 파장이 짧다(에너지가 높다). 당연히 인간을 기준으로 하기 때문에 자외선이나 적외선 영역을 볼 수 있는 다른 동물들 입장에서는 시각의 영역이 자외선이나 적외선에 걸쳐있는 경우도 많지만 가시광선은 인간이 정의했기 때문에 400nm에서 700nm 으로 고정되어 있다.
+
+보라색 보다 파장이 짧으면 자외선 이 된다. 파장이 더 짧아지면 X선 [1] , 파장이 훨씬 더 짧아지면 일반적으로 감마선 이라 부른다. 핵 폭발과 연관되는 방사선 이 바로 감마선 이다. 전자기파의 파장이 짧아질수록 에너지와 투과력이 높아지고 몸에 해로워진다. 빨간색 보다 파장이 길면 적외선 이 된다. 조금 길면 근적외선, 많이 길면 원적외선. 그보다 더 길면 마이크로파부터 시작해서 오만가지 종류의 전파 가 된다. 바로 위에서 나오는 전자파도 이쪽 분류 중 하나. 파장이 길어질수록 에너지와 투과력이 약해지는 대신 회절성이 높아지고 멀리 퍼진다.
+
+인간의 망막은 자외선 중 가시광선에 가까운 영역을 인지할 수도 있다고 한다. 다만 이 영역이 수정체 에 흡수되기 때문에 못 보는 것인데, 백내장 수술 도중 수정체를 적출했을 때에는 이 영역의 자외선 이 보인다고 한다. 푸르스름한 흰색으로 보인다고. 거기에다 파장별로 색깔이 다르게 보이니 미세한 파장 차이까지도 감지할 수 있다!
+
+지구의 대기는 여러 성분으로 되어 있어 우주로부터 오는 우주선 중 전자기파를 흡수하는데, 파장 별로 차단하는 정도가 다르다. 파장에 따른 대기의 영향은 아래 그림과 같다.
+
+위 그림을 보면 우주에서 날아온 전자기파는 가시광선 , 적외선 및 초단파 ~ 극초단파 대역의 전파 정도만이 대기를 통과해서 지상에 도달하는 것을 알 수 있다. 감마선 은 성층권에 막히고, 단파 대역 이하의 전파는 전리층에 막히기 때문에 [2] 우주에서 날아온 것은 지상에서 관측할 수 없다.
+
+3. 전자기파 존재의 도출 [편집]
+
+3.1. 변위 전류의 도입 [편집]
+앙페르 법칙 문서에서 맥스웰은 앙페르 법칙을 다음과 같이 수정했다고 논의했다.
+
+∇ × H = J f + ∂ D ∂ t \displaystyle \boldsymbol{\nabla} \times \mathbf{H}= \mathbf{J}_{f}+\frac{\partial \mathbf{D} }{\partial t} ∇ × H = J f ​ + ∂ t ∂ D ​
+이 때, 새롭게 붙은 항의 의미를 알기 위해 각 항에 적분을 취하면,
+
+∫ C H ⋅ d l = ∫ S J f ⋅ d a + ∫ S ∂ D ∂ t ⋅ d a \displaystyle \int_{C} \mathbf{H}\boldsymbol{\cdot} d \mathbf{l}= \int_{S} \mathbf{J}_{f}\boldsymbol{\cdot} d \mathbf{a}+ \int_{S} \frac{\partial \mathbf{D} }{\partial t} \boldsymbol{\cdot} d \mathbf{a} ∫ C ​ H ⋅ d l = ∫ S ​ J f ​ ⋅ d a + ∫ S ​ ∂ t ∂ D ​ ⋅ d a
+가 된다. 이 때, S S S 는 폐곡면, C C C 는 S S S 를 둘러싸는 폐곡선이다. 우변의 제2항은 전류를 나타내고, 합하는 것이므로 우변의 제3항 또한 전류의 차원이 돼야함을 쉽게 예측할 수 있다. 따라서 우변의 제3항
+
+∫ S ∂ D ∂ t ⋅ d a ≡ I d \displaystyle \int_{S} \frac{\partial \mathbf{D} }{\partial t} \boldsymbol{\cdot} d \mathbf{a} \equiv I_{d} ∫ S ​ ∂ t ∂ D ​ ⋅ d a ≡ I d ​
+로 정의하고, 이것을 변위 전류 (displacement current)라 한다.
+
+이 변위 전류를 도입해야만 설명할 수 있는 대표적인 예가 축전기 이다. 축전기는 쉽게 말하면 회로가 끊어진 부분이지만, 교류 회로에서는 전류가 흐른다. 따라서 이러한 변위 전류를 도입하면 이 현상을 설명할 수 있으며, 계산적으로도 전도 전류와 변위 전류가 같다는 것을 보일 수 있다. 아래의 예제를 참고하자.
+
+3.1.1. 예제 [편집]
+[문제] 진공에서 면적 A A A 인 두 금속판이 d d d 만큼 떨어져 있다. 이 두 극판에 전압 V ( t ) = V 0 sin ⁡ ω t V(t)=V_{0}\sin{\omega t} V ( t ) = V 0 ​ sin ω t 을 걸었을 때, 전도 전류와 변위 전류를 각각 구하시오.(단, 모서리 효과는 무시한다.)
+
+[풀이 보기]
+극판에 모이는 전하는
+
+q ( t ) = ε 0 A V 0 d sin ⁡ ω t \displaystyle q(t)=\frac{\varepsilon_{0} AV_{0}}{d}\sin{\omega t} q ( t ) = d ε 0 ​ A V 0 ​ ​ sin ω t
+이므로 전도 전류는
+
+I c = d q d t = ε 0 A V 0 ω d cos ⁡ ω t \displaystyle I_{c}=\frac{dq}{dt}=\frac{\varepsilon_{0} AV_{0} \omega}{d}\cos{\omega t} I c ​ = d t d q ​ = d ε 0 ​ A V 0 ​ ω ​ cos ω t
+가 된다. 다음으로 변위 전류를 구하자. 극판 내부의 전기 변위장 은 쉽게
+
+D = ε 0 V 0 d sin ⁡ ω t \displaystyle D=\frac{\varepsilon_{0} V_{0}}{d}\sin{\omega t} D = d ε 0 ​ V 0 ​ ​ sin ω t
+임을 구할 수 있으며, 극판 사이에서 전기 변위 선속은
+
+D A = ε 0 A V 0 d sin ⁡ ω t \displaystyle DA=\frac{\varepsilon_{0} A V_{0}}{d}\sin{\omega t} D A = d ε 0 ​ A V 0 ​ ​ sin ω t
+이므로 변위 전류는 아래와 같이 결정된다.
+
+I d = d d t ( D A ) = ε 0 A V 0 ω d cos ⁡ ω t \displaystyle I_{d}=\frac{d}{dt}(DA)=\frac{\varepsilon_{0} AV_{0} \omega}{d}\cos{\omega t} I d ​ = d t d ​ ( D A ) = d ε 0 ​ A V 0 ​ ω ​ cos ω t
+따라서 I c = I d I_{c}=I_{d} I c ​ = I d ​ 인 것을 이 예제에서 확인할 수 있다.
+
+3.2. 수학적 도출 [편집]
+거시적으로 관측되는 전자기장의 방정식은 매질 내에서 아래와 같이 나열할 수 있음을 안다. 자세한 내용은 맥스웰 방정식 문서를 참조하자.
+
+∇ ⋅ E = ρ f ε ∇ ⋅ B = 0 ∇ × E = − ∂ B ∂ t ∇ × B = μ J f + μ ε ∂ E ∂ t \displaystyle \begin{aligned} \boldsymbol{\nabla} \boldsymbol{\cdot} \mathbf{E}&= \frac{ \rho_{f}}{\varepsilon} \\ \boldsymbol{\nabla} \boldsymbol{\cdot} \mathbf{B}&=0 \\ \boldsymbol{\nabla} \times \mathbf{E}&=-\frac{\partial \mathbf{B}}{\partial t} \\ \boldsymbol{\nabla} \times \mathbf{B}&= \mu \mathbf{J}_{f}+\mu \varepsilon \frac{\partial \mathbf{E}}{\partial t} \end{aligned} ∇ ⋅ E ∇ ⋅ B ∇ × E ∇ × B ​ = ε ρ f ​ ​ = 0 = − ∂ t ∂ B ​ = μ J f ​ + μ ε ∂ t ∂ E ​ ​
+이 때, 외부 전하 밀도와 전류는 존재하지 않고, 매질 내에 생겨나는 전류는 옴의 법칙 에 의해 생성되는 전류 밀도 J f = σ c E \mathbf{J}_{f}=\sigma_{c} \mathbf{E} J f ​ = σ c ​ E 로만 생성된다고 가정하자. 그렇게 되면 마지막 항을
+
+∇ × B = μ σ c E + μ ε ∂ E ∂ t \displaystyle \boldsymbol{\nabla} \times \mathbf{B}= \mu \sigma_{c} \mathbf{E}+\mu \varepsilon \frac{\partial \mathbf{E}}{\partial t} ∇ × B = μ σ c ​ E + μ ε ∂ t ∂ E ​
+로 쓸 수 있다. 먼저,
+
+∇ × E = − ∂ B ∂ t \displaystyle \boldsymbol{\nabla} \times \mathbf{E}=-\frac{\partial \mathbf{B}}{\partial t} ∇ × E = − ∂ t ∂ B ​
+에 주목하자. B \mathbf{B} B 를 소거하기 위해 각 항에 회전 연산을 취하면,
+
+∇ × ( ∇ × E ) = − ∂ ∂ t ( ∇ × B ) = − ∂ ∂ t ( μ σ c E + μ ε ∂ E ∂ t ) = − μ σ c ∂ E ∂ t − μ ε ∂ 2 E ∂ t 2 \displaystyle \begin{aligned} \boldsymbol{\nabla} \times (\boldsymbol{\nabla} \times \mathbf{E})&=-\frac{\partial }{\partial t}(\boldsymbol{\nabla} \times \mathbf{B}) \\ &=-\frac{\partial }{\partial t} \left( \mu \sigma_{c} \mathbf{E}+\mu \varepsilon \frac{\partial \mathbf{E}}{\partial t} \right) \\ &=-\mu \sigma_{c} \frac{\partial \mathbf{E}}{\partial t}-\mu \varepsilon \frac{\partial^{2} \mathbf{E}}{\partial t^{2}} \end{aligned} ∇ × ( ∇ × E ) ​ = − ∂ t ∂ ​ ( ∇ × B ) = − ∂ t ∂ ​ ( μ σ c ​ E + μ ε ∂ t ∂ E ​ ) = − μ σ c ​ ∂ t ∂ E ​ − μ ε ∂ t 2 ∂ 2 E ​ ​
+이 때, 좌변은 벡터 해석학적으로,
+
+∇ × ( ∇ × E ) = ∇ ( ∇ ⋅ E ) − ∇ 2 E \displaystyle \boldsymbol{\nabla} \times (\boldsymbol{\nabla} \times \mathbf{E})=\boldsymbol{\nabla} (\boldsymbol{\nabla} \boldsymbol{\cdot} \mathbf{E})-\nabla^{2}\mathbf{E} ∇ × ( ∇ × E ) = ∇ ( ∇ ⋅ E ) − ∇ 2 E
+로 쓸 수 있고, 외부 전하 밀도 ρ f = 0 \rho_{f}=0 ρ f ​ = 0 인 상황을 가정하므로 우변의 제1항은 없어진다. 따라서 결과를 종합하면,
+
+∇ 2 E = μ ε ∂ 2 E ∂ t 2 + μ σ c ∂ E ∂ t \displaystyle \nabla^{2}\mathbf{E}=\mu \varepsilon \frac{\partial^{2} \mathbf{E}}{\partial t^{2}}+\mu \sigma_{c} \frac{\partial \mathbf{E}}{\partial t} ∇ 2 E = μ ε ∂ t 2 ∂ 2 E ​ + μ σ c ​ ∂ t ∂ E ​
+가 된다. 다음으로 자기장에 대한 항
+
+∇ × B = μ σ c E + μ ε ∂ E ∂ t \displaystyle \boldsymbol{\nabla} \times \mathbf{B}= \mu \sigma_{c} \mathbf{E}+\mu \varepsilon \frac{\partial \mathbf{E}}{\partial t} ∇ × B = μ σ c ​ E + μ ε ∂ t ∂ E ​
+에서 E \mathbf{E} E 를 소거하기 위해 양변에 회전 연산을 취하자.
+
+∇ × ( ∇ × B ) = μ σ c ( ∇ × E ) + μ ε ∂ ∂ t ( ∇ × E ) = − μ σ c ∂ B ∂ t − μ ε ∂ 2 B ∂ t 2 \displaystyle \begin{aligned} \boldsymbol{\nabla} \times (\boldsymbol{\nabla} \times \mathbf{B})&= \mu \sigma_{c} (\boldsymbol{\nabla} \times \mathbf{E})+\mu \varepsilon \frac{\partial }{\partial t} (\boldsymbol{\nabla} \times \mathbf{E}) \\ &= -\mu \sigma_{c} \frac{\partial \mathbf{B}}{\partial t}-\mu \varepsilon \frac{\partial^{2} \mathbf{B}}{\partial t^{2}} \end{aligned} ∇ × ( ∇ × B ) ​ = μ σ c ​ ( ∇ × E ) + μ ε ∂ t ∂ ​ ( ∇ × E ) = − μ σ c ​ ∂ t ∂ B ​ − μ ε ∂ t 2 ∂ 2 B ​ ​
+마찬가지로 좌변은
+
+∇ × ( ∇ × B ) = ∇ ( ∇ ⋅ B ) − ∇ 2 B \displaystyle \boldsymbol{\nabla} \times (\boldsymbol{\nabla} \times \mathbf{B})=\boldsymbol{\nabla} (\boldsymbol{\nabla} \boldsymbol{\cdot} \mathbf{B})-\nabla^{2}\mathbf{B} ∇ × ( ∇ × B ) = ∇ ( ∇ ⋅ B ) − ∇ 2 B
+로 쓸 수 있고, 이상의 결과를 종합하면,
+
+∇ 2 B = μ ε ∂ 2 B ∂ t 2 + μ σ c ∂ B ∂ t \displaystyle \nabla^{2}\mathbf{B}=\mu \varepsilon \frac{\partial^{2} \mathbf{B}}{\partial t^{2}}+\mu \sigma_{c} \frac{\partial \mathbf{B}}{\partial t} ∇ 2 B = μ ε ∂ t 2 ∂ 2 B ​ + μ σ c ​ ∂ t ∂ B ​
+따라서 전기장과 자기장에 대해,
+
+{ ∇ 2 E = μ ε ∂ 2 E ∂ t 2 + μ σ c ∂ E ∂ t ∇ 2 B = μ ε ∂ 2 B ∂ t 2 + μ σ c ∂ B ∂ t \displaystyle \left\{ \begin{array}{l} \displaystyle \nabla^{2}\mathbf{E}=\mu \varepsilon \frac{\partial^{2} \mathbf{E}}{\partial t^{2}}+\mu \sigma_{c} \frac{\partial \mathbf{E}}{\partial t}\\ \\ \displaystyle \nabla^{2}\mathbf{B}=\mu \varepsilon \frac{\partial^{2} \mathbf{B}}{\partial t^{2}}+\mu \sigma_{c} \frac{\partial \mathbf{B}}{\partial t}\end{array}\right. ⎩ ⎨ ⎧ ​ ∇ 2 E = μ ε ∂ t 2 ∂ 2 E ​ + μ σ c ​ ∂ t ∂ E ​ ∇ 2 B = μ ε ∂ t 2 ∂ 2 B ​ + μ σ c ​ ∂ t ∂ B ​ ​
+의 편미분 방정식을 얻는다. 이 때, 매질이 전도성 물질이 아니라고 가정( σ c = 0 \sigma_{c}=0 σ c ​ = 0 )하면, 이 편미분 방정식이 기술하는 것은 명확해지고,
+
+{ ∇ 2 E = μ ε ∂ 2 E ∂ t 2 ∇ 2 B = μ ε ∂ 2 B ∂ t 2 \displaystyle \left\{ \begin{array}{l} \displaystyle \nabla^{2}\mathbf{E}=\mu \varepsilon \frac{\partial^{2} \mathbf{E}}{\partial t^{2}}\\ \\ \displaystyle \nabla^{2}\mathbf{B}=\mu \varepsilon \frac{\partial^{2} \mathbf{B}}{\partial t^{2}}\end{array}\right. ⎩ ⎨ ⎧ ​ ∇ 2 E = μ ε ∂ t 2 ∂ 2 E ​ ∇ 2 B = μ ε ∂ t 2 ∂ 2 B ​ ​
+직교 좌표계라 생각하면, 위 방정식은
+
+∇ 2 V i = μ ε ∂ 2 V i ∂ t 2 ( i = x , y , z ) \displaystyle \nabla^{2}V_{i}=\mu \varepsilon \frac{\partial^{2} V_{i}}{\partial t^{2}} \qquad (i=x,\,y,\,z) ∇ 2 V i ​ = μ ε ∂ t 2 ∂ 2 V i ​ ​ ( i = x , y , z )
+의 형태가 되고, 이것은 전파 속력이 v v v 인 명백한 파동 방정식
+
+∇ 2 f = 1 v 2 ∂ 2 f ∂ t 2 \displaystyle \nabla^{2}f=\frac{1}{v^{2}} \frac{\partial^{2} f}{\partial t^{2}} ∇ 2 f = v 2 1 ​ ∂ t 2 ∂ 2 f ​
+의 형태가 된다. 따라서 전도성 매질 내가 아닌 이상 전기장과 자기장이 공간상으로 파동 형태로 방사될 수 있음 을 위에서 유도한 방정식으로부터 추측할 수 있다. 만약 그것이 사실이라면, 전파 속도는
+
+v 2 = 1 μ ε → v = 1 μ ε \displaystyle v^{2}=\frac{1}{\mu \varepsilon} \, \rightarrow \, v=\frac{1}{\sqrt{\mu \varepsilon}} v 2 = μ ε 1 ​ → v = μ ε ​ 1 ​
+이고, 특히 이것이 진공이라면,
+
+c ≡ 1 μ 0 ε 0 = 299 , 792 , 458 m/s \displaystyle c \equiv \frac{1}{\sqrt{\mu_{0} \varepsilon_{0} }}=299,792,458\,\textrm{m/s} c ≡ μ 0 ​ ε 0 ​ ​ 1 ​ = 299 , 792 , 458 m/s
+가 된다. 이 때, ε = κ e ε 0 \varepsilon=\kappa_{e} \varepsilon_{0} ε = κ e ​ ε 0 ​ , μ = κ m μ 0 \mu=\kappa_{m} \mu_{0} μ = κ m ​ μ 0 ​ 의 감수율 형태로 표현할 수 있고, 매질 내에서의 전파 속도는
+
+v = 1 μ ε = 1 κ e κ m 1 μ 0 ε 0 = c κ e κ m \displaystyle \begin{aligned} v&=\frac{1}{\sqrt{\mu \varepsilon}} \\ &=\frac{1}{\sqrt{\kappa_{e} \kappa_{m} }}\frac{1}{\sqrt{\mu_{0} \varepsilon_{0} }} \\ &=\frac{c}{\sqrt{\kappa_{e} \kappa_{m} }} \end{aligned} v ​ = μ ε ​ 1 ​ = κ e ​ κ m ​ ​ 1 ​ μ 0 ​ ε 0 ​ ​ 1 ​ = κ e ​ κ m ​ ​ c ​ ​
+이 때,
+
+c v = κ e κ m \displaystyle \frac{c}{v}=\sqrt{\kappa_{e} \kappa_{m}} v c ​ = κ e ​ κ m ​ ​
+으로 쓸 수 있는데, 전자기파 중에는 빛 또한 포함되고, 광학 에서는 좌변을 굴절률 이라 칭한다. 따라서 두 감수율은 굴절률 과 관계된다.
+
+3.3. 평면 전자기파의 방사 형태 [편집]
+위 문단에서 전기장과 자기장이 공간상을 파동 형태로 방사될 수 있음을 추측했다. 그것이 사실이라면, "전자기파는 어떤 형태로 방사되는가?"에 대한 의문이 자동으로 나올 것이다. 이 문단에서는 그 물음을 해결해보자. 위 문단에서 전기장 혹은 자기장이 공간상으로 방사될 때, 다음과 같은 편미분 방정식으로 기술된다고 했다.
+
+∇ 2 V = μ ε ∂ 2 V ∂ t 2 \displaystyle \nabla^{2} \mathbf{V}=\mu \varepsilon \frac{\partial^{2} \mathbf{V}}{\partial t^{2}} ∇ 2 V = μ ε ∂ t 2 ∂ 2 V ​
+위 방정식의 해는 평면파(plane wave)라 하며, 다음과 같이 기술될 수 있다.
+
+V ( r , t ) = V ( k ^ ⋅ r − v t ) \displaystyle \mathbf{V}(\mathbf{r},\,t)=\mathbf{V}(\mathbf{\hat{k}} \boldsymbol{\cdot} \mathbf{r}-vt) V ( r , t ) = V ( k ^ ⋅ r − v t )
+이 때, k ^ \mathbf{\hat{k}} k ^ 는 파의 진행 방향을 나타내는 단위 벡터이다. 이 때, 다음과 같이 쓰자.
+
+k ^ ⋅ r − v t ≡ ξ \displaystyle \mathbf{\hat{k}} \boldsymbol{\cdot} \mathbf{r}-vt \equiv \xi k ^ ⋅ r − v t ≡ ξ
+외부 전하 밀도가 없고, 자기홀극은 존재하지 않으므로 전기장, 자기장은 다음을 만족시킨다.
+
+∇ ⋅ V = 0 \displaystyle \boldsymbol{\nabla} \boldsymbol{\cdot} \mathbf{V}=0 ∇ ⋅ V = 0
+이에
+
+∇ ⋅ V = ∑ i ∂ V i ∂ x i = ∑ i ∂ V i ∂ ξ ∂ ξ ∂ x i \displaystyle \boldsymbol{\nabla} \boldsymbol{\cdot} \mathbf{V}=\sum_{i} \frac{\partial V_{i}}{\partial x_{i}} =\sum_{i} \frac{\partial V_{i}}{\partial \xi}\frac{\partial \xi}{\partial x_{i}} ∇ ⋅ V = i ∑ ​ ∂ x i ​ ∂ V i ​ ​ = i ∑ ​ ∂ ξ ∂ V i ​ ​ ∂ x i ​ ∂ ξ ​
+이 때,
+
+∂ ξ ∂ x i = ∂ ∂ x i ∑ i ( k i ^ x i − v t ) = ∑ i k i ^ \displaystyle \frac{\partial \xi}{\partial x_{i}}=\frac{\partial }{\partial x_{i}}\sum_{i} ( \hat{k_{i}}x_{i}-vt)=\sum_{i} \hat{k_{i}} ∂ x i ​ ∂ ξ ​ = ∂ x i ​ ∂ ​ i ∑ ​ ( k i ​ ^ ​ x i ​ − v t ) = i ∑ ​ k i ​ ^ ​
+이고,
+
+∑ i ∂ V i ∂ ξ ∂ ξ ∂ x i = ∑ i k i ^ ∂ V i ∂ ξ = ∂ ∂ ξ ( k ^ ⋅ V ) \displaystyle \sum_{i} \frac{\partial V_{i}}{\partial \xi}\frac{\partial \xi}{\partial x_{i}}=\sum_{i} \hat{k_{i}} \frac{\partial V_{i}}{\partial \xi} = \frac{\partial}{\partial \xi}(\mathbf{\hat{k}} \boldsymbol{\cdot} \mathbf{V}) i ∑ ​ ∂ ξ ∂ V i ​ ​ ∂ x i ​ ∂ ξ ​ = i ∑ ​ k i ​ ^ ​ ∂ ξ ∂ V i ​ ​ = ∂ ξ ∂ ​ ( k ^ ⋅ V )
+이므로
+
+∇ ⋅ V = ∂ ∂ ξ ( k ^ ⋅ V ) = 0 \displaystyle \boldsymbol{\nabla} \boldsymbol{\cdot} \mathbf{V}= \frac{\partial}{\partial \xi}(\mathbf{\hat{k}} \boldsymbol{\cdot} \mathbf{V})=0 ∇ ⋅ V = ∂ ξ ∂ ​ ( k ^ ⋅ V ) = 0
+따라서 일반적인 상황에서 다음이 성립해야 한다.
+
+k ^ ⋅ V = 0 \displaystyle \mathbf{\hat{k}} \boldsymbol{\cdot} \mathbf{V}=0 k ^ ⋅ V = 0
+이에 전자기파의 방사 형태는
+
+k ^ ⋅ E = 0 k ^ ⋅ B = 0 \displaystyle \mathbf{\hat{k}} \boldsymbol{\cdot} \mathbf{E}=0 \qquad \qquad \mathbf{\hat{k}} \boldsymbol{\cdot} \mathbf{B}=0 k ^ ⋅ E = 0 k ^ ⋅ B = 0
+이 되고, 전기장과 자기장은 진행 방향에 각각 수직으로 진동한다. 이에 추가적으로 진행 방향과 진동 방향이 수직이므로 전자기파는 횡파 (transverse wave)이다.
+
+위 논의로 전자기파가 횡파인 것까지는 알아내었다. 다만, 전기장과 자기장이 어떤 관계인지는 아직 확인할 수 없다. 이 문단에서는 그것을 해결해보자. 우선, 패러데이 법칙
+
+∇ × E = − ∂ B ∂ t \displaystyle \boldsymbol{\nabla} \times \mathbf{E}=-\frac{\partial \mathbf{B}}{\partial t} ∇ × E = − ∂ t ∂ B ​
+를 이용하자. 좌변을 다음 형태로 쓰면,
+
+∇ × E = ∇ × ( E x x ^ ) + ∇ × ( E y y ^ ) + ∇ × ( E z z ^ ) \displaystyle \boldsymbol{\nabla} \times \mathbf{E}=\boldsymbol{\nabla} \times (E_{x}\mathbf{\hat{x}})+\boldsymbol{\nabla} \times (E_{y}\mathbf{\hat{y}})+\boldsymbol{\nabla} \times (E_{z}\mathbf{\hat{z}}) ∇ × E = ∇ × ( E x ​ x ^ ) + ∇ × ( E y ​ y ^ ​ ) + ∇ × ( E z ​ z ^ )
+각 성분은 다음과 같은 형태로 되어 있고, 벡터 해석학을 이용하면,
+
+∇ × ( E x i x ^ i ) = E x i ( ∇ × x ^ i ) − x ^ i × ( ∇ E x i ) = ( ∇ E x i ) × x ^ i \displaystyle \begin{aligned} \boldsymbol{\nabla} \times (E_{x_{i}}\mathbf{\hat{x}}_{i} )&=E_{x_{i}} (\boldsymbol{\nabla} \times \mathbf{\hat{x}}_{i})-\mathbf{\hat{x}}_{i} \times (\boldsymbol{\nabla} E_{x_{i}} ) \\ &= (\boldsymbol{\nabla} E_{x_{i}} ) \times \mathbf{\hat{x}}_{i} \end{aligned} ∇ × ( E x i ​ ​ x ^ i ​ ) ​ = E x i ​ ​ ( ∇ × x ^ i ​ ) − x ^ i ​ × ( ∇ E x i ​ ​ ) = ( ∇ E x i ​ ​ ) × x ^ i ​ ​
+로 쓸 수 있다. 이 때, 여기서 나온 항을 다음과 같이 쓸 수 있다.
+
+∇ E x i = ∑ j ∂ E x i ∂ x j x ^ j = ∑ j ∂ E x i ∂ ξ ∂ ξ ∂ x j x ^ j = ∑ j ∂ E x i ∂ ξ k j ^ x ^ j = ∂ E x i ∂ ξ k ^ \displaystyle \begin{aligned} \boldsymbol{\nabla} E_{x_{i}}&=\sum_{j} \frac{\partial E_{x_{i} }}{\partial x_{j}} \mathbf{\hat{x}}_{j} \\ &=\sum_{j} \frac{\partial E_{x_{i} }}{\partial \xi} \frac{\partial \xi}{\partial x_{j}} \mathbf{\hat{x}}_{j} \\ &=\sum_{j} \frac{\partial E_{x_{i} }}{\partial \xi} \hat{k_{j}} \mathbf{\hat{x}}_{j} \\ &=\frac{\partial E_{x_{i} }}{\partial \xi} \mathbf{\hat{k}} \end{aligned} ∇ E x i ​ ​ ​ = j ∑ ​ ∂ x j ​ ∂ E x i ​ ​ ​ x ^ j ​ = j ∑ ​ ∂ ξ ∂ E x i ​ ​ ​ ∂ x j ​ ∂ ξ ​ x ^ j ​ = j ∑ ​ ∂ ξ ∂ E x i ​ ​ ​ k j ​ ^ ​ x ^ j ​ = ∂ ξ ∂ E x i ​ ​ ​ k ^ ​
+따라서
+
+∇ × E = ∂ E x ∂ ξ ( k ^ × x ^ ) + ∂ E y ∂ ξ ( k ^ × y ^ ) + ∂ E z ∂ ξ ( k ^ × z ^ ) = ∂ ∂ ξ ( k ^ × E x x ^ ) + ∂ ∂ ξ ( k ^ × E y y ^ ) + ∂ ∂ ξ ( k ^ × E z z ^ ) = ∂ ∂ ξ ( k ^ × E ) \displaystyle \begin{aligned}\boldsymbol{\nabla} \times \mathbf{E}&=\frac{\partial E_{x}}{\partial \xi} (\mathbf{\hat{k}} \times \mathbf{\hat{x}})+\frac{\partial E_{y}}{\partial \xi} (\mathbf{\hat{k}} \times \mathbf{\hat{y}})+\frac{\partial E_{z}}{\partial \xi} (\mathbf{\hat{k}} \times \mathbf{\hat{z}}) \\ &=\frac{\partial }{\partial \xi} (\mathbf{\hat{k}} \times E_{x}\mathbf{\hat{x}})+\frac{\partial}{\partial \xi} (\mathbf{\hat{k}} \times E_{y}\mathbf{\hat{y}})+\frac{\partial}{\partial \xi} (\mathbf{\hat{k}} \times E_{z} \mathbf{\hat{z}}) \\ &=\frac{\partial}{\partial \xi} (\mathbf{\hat{k}} \times \mathbf{E}) \end{aligned} ∇ × E ​ = ∂ ξ ∂ E x ​ ​ ( k ^ × x ^ ) + ∂ ξ ∂ E y ​ ​ ( k ^ × y ^ ​ ) + ∂ ξ ∂ E z ​ ​ ( k ^ × z ^ ) = ∂ ξ ∂ ​ ( k ^ × E x ​ x ^ ) + ∂ ξ ∂ ​ ( k ^ × E y ​ y ^ ​ ) + ∂ ξ ∂ ​ ( k ^ × E z ​ z ^ ) = ∂ ξ ∂ ​ ( k ^ × E ) ​
+우변은 다음과 같이 계산된다.
+
+− ∂ B ∂ t = − ∂ B ∂ ξ ∂ ξ ∂ t = − ∂ B ∂ ξ ∂ ∂ t ( k ^ ⋅ r − v t ) = v ∂ B ∂ ξ \displaystyle -\frac{\partial \mathbf{B}}{\partial t}=-\frac{\partial \mathbf{B}}{\partial \xi} \frac{\partial \xi}{\partial t}=-\frac{\partial \mathbf{B}}{\partial \xi} \frac{\partial }{\partial t}(\mathbf{\hat{k}} \boldsymbol{\cdot} \mathbf{r}-vt)=v \frac{\partial \mathbf{B}}{\partial \xi} − ∂ t ∂ B ​ = − ∂ ξ ∂ B ​ ∂ t ∂ ξ ​ = − ∂ ξ ∂ B ​ ∂ t ∂ ​ ( k ^ ⋅ r − v t ) = v ∂ ξ ∂ B ​
+이상의 결과를 종합하면,
+
+∂ ∂ ξ ( k ^ × E ) = v ∂ B ∂ ξ → ∂ ∂ ξ ( k ^ × E − v B ) = 0 \displaystyle \frac{\partial}{\partial \xi} (\mathbf{\hat{k}} \times \mathbf{E})=v \frac{\partial \mathbf{B}}{\partial \xi} \, \rightarrow \, \frac{\partial}{\partial \xi} (\mathbf{\hat{k}} \times \mathbf{E}-v\mathbf{B})=0 ∂ ξ ∂ ​ ( k ^ × E ) = v ∂ ξ ∂ B ​ → ∂ ξ ∂ ​ ( k ^ × E − v B ) = 0
+이것이 일반적인 상황에서 성립하려면,
+
+k ^ × E = v B \displaystyle \mathbf{\hat{k}} \times \mathbf{E}=v\mathbf{B} k ^ × E = v B
+가 성립해야 한다. 따라서 여기서
+
+∣ E ∣ = v ∣ B ∣ \displaystyle \left| \mathbf{E} \right|=v\left| \mathbf{B} \right| ∣ E ∣ = v ∣ B ∣
+를 얻을 수 있다. 또한, 앙페르 법칙 [3]
+
+∇ × B = μ ε ∂ E ∂ t \displaystyle \boldsymbol{\nabla} \times \mathbf{B}= \mu \varepsilon \frac{\partial \mathbf{E}}{\partial t} ∇ × B = μ ε ∂ t ∂ E ​
+를 위와 같은 방법으로 하면,
+
+k ^ × B = − E v \displaystyle \mathbf{\hat{k}} \times \mathbf{B}=-\frac{ \mathbf{E} }{v} k ^ × B = − v E ​
+임을 쉽게 증명할 수 있다. 위의 두 결과를 종합하면, 결국
+
+E ^ × B ^ = k ^ \displaystyle \mathbf{\hat{E}} \times \mathbf{\hat{B}}=\mathbf{\hat{k}} E ^ × B ^ = k ^
+로 쓸 수 있고, 전자기파가 방사될 때, 진행 방향, 자기장, 전기장은 서로 오른손 법칙을 따르도록 방사된다. 아래는 이 내용을 시각화한 것이다.
+
+위를 종합하면, 전자기파의 방사 형태를 다음과 같은 4가지 식으로 정리된다.
+k ^ ⋅ E = 0 k ^ ⋅ B = 0 k ^ × E = v B k ^ × B = − E v \displaystyle \begin{aligned} \mathbf{\hat{k}} \boldsymbol{\cdot} \mathbf{E}&=0 \\ \mathbf{\hat{k}} \boldsymbol{\cdot} \mathbf{B}&=0 \\ \mathbf{\hat{k}} \times \mathbf{E}&=v\mathbf{B} \\ \mathbf{\hat{k}} \times \mathbf{B}&=-\frac{ \mathbf{E} }{v} \end{aligned} k ^ ⋅ E k ^ ⋅ B k ^ × E k ^ × B ​ = 0 = 0 = v B = − v E ​ ​ 이것을 풀어서 설명하면 다음과 같다. - 전자기파는 횡파이며, 전기장과 자기장은 진행방향의 수직하는 방향을 각각 이룬다.
+- 전자기파는 진행 방향과 전기장, 자기장은 오른손 법칙을 이루면서 방사된다.
+
+3.4. 평면 전자기파의 수학적 형태 [편집]
+비전도성 물질 내에서 전자기파의 진행에 대한 편미분 방정식은
+
+{ ∇ 2 E = μ ε ∂ 2 E ∂ t 2 ∇ 2 B = μ ε ∂ 2 B ∂ t 2 \displaystyle \left\{ \begin{array}{l} \displaystyle \nabla^{2}\mathbf{E}=\mu \varepsilon \frac{\partial^{2} \mathbf{E}}{\partial t^{2}}\\ \\ \displaystyle \nabla^{2}\mathbf{B}=\mu \varepsilon \frac{\partial^{2} \mathbf{B}}{\partial t^{2}}\end{array}\right. ⎩ ⎨ ⎧ ​ ∇ 2 E = μ ε ∂ t 2 ∂ 2 E ​ ∇ 2 B = μ ε ∂ t 2 ∂ 2 B ​ ​
+임을 위에서 다뤘다. 이것의 해는 알려져 있으며, 단색 파동(monochromatic wave)일 경우 진동수는 하나로 결정되므로 다음과 같이 주어진다.
+
+E ( r , t ) = E ^ E e i ( k ⋅ r − ω t ) B ( r , t ) = B ^ B e i ( k ⋅ r − ω t ) \begin{aligned}\displaystyle \mathbf{E}(\mathbf{r},\,t)&=\mathbf{\hat{E}}E e^{i(\mathbf{k} \boldsymbol{\cdot} \mathbf{r}-\omega t)}\\\mathbf{B}(\mathbf{r},\,t)&=\mathbf{\hat{B}}B e^{i(\mathbf{k} \boldsymbol{\cdot} \mathbf{r}-\omega t)}\end{aligned} E ( r , t ) B ( r , t ) ​ = E ^ E e i ( k ⋅ r − ω t ) = B ^ B e i ( k ⋅ r − ω t ) ​
+이 때, k \mathbf{k} k 는 파수 벡터로, 방향은 진행방향이고, 크기는 파수 k ≡ 2 π / λ k \equiv 2\pi/\lambda k ≡ 2 π / λ 인 벡터이며, ω ≡ 2 π f \omega \equiv 2\pi f ω ≡ 2 π f 의 각진동수이다. 이제 전자기파의 진행 방향을 z z z 축에 국한해 보자. 이 경우 k = k z ^ \mathbf{k}=k \mathbf{\hat{z}} k = k z ^ 가 되고, r = z z ^ \mathbf{r}=z \mathbf{\hat{z}} r = z z ^ 인 지점을 관측하면 다음과 같다.
+
+E ( z , t ) = E ^ E e i ( k z − ω t ) B ( z , t ) = B ^ B e i ( k z − ω t ) \begin{aligned}\displaystyle \mathbf{E}(z,\,t)&=\mathbf{\hat{E}} E e^{i(kz-\omega t)}\\\mathbf{B}(z,\,t)&=\mathbf{\hat{B}}B e^{i(kz-\omega t)}\end{aligned} E ( z , t ) B ( z , t ) ​ = E ^ E e i ( k z − ω t ) = B ^ B e i ( k z − ω t ) ​
+이 때 다음과 같이 쓸 수 있다. ϕ i \phi_{i} ϕ i ​ 는 위상차이다.
+
+E E ^ = x ^ E x e i ϕ x + y ^ E y e i ϕ y B B ^ = x ^ B x e i ϕ x + y ^ B y e i ϕ y \displaystyle \begin{aligned} E\mathbf{\hat{E}}&=\mathbf{\hat{x}}E_{x}e^{i \phi_{x}}+\mathbf{\hat{y}}E_{y}e^{i \phi_{y}} \\ B\mathbf{\hat{B}}&=\mathbf{\hat{x}}B_{x}e^{i \phi_{x}}+\mathbf{\hat{y}}B_{y}e^{i \phi_{y}} \end{aligned} E E ^ B B ^ ​ = x ^ E x ​ e i ϕ x ​ + y ^ ​ E y ​ e i ϕ y ​ = x ^ B x ​ e i ϕ x ​ + y ^ ​ B y ​ e i ϕ y ​ ​
+이상에서
+
+E ( z , t ) = x ^ E x e i ( k z − ω t + ϕ x ) + y ^ E y e i ( k z − ω t + ϕ y ) B ( z , t ) = x ^ B x e i ( k z − ω t + ϕ x ) + y ^ B y e i ( k z − ω t + ϕ y ) \displaystyle \begin{aligned}\mathbf{E}(z,\,t)&=\mathbf{\hat{x}}E_{x}e^{i(kz-\omega t +\phi_{x})}+\mathbf{\hat{y}}E_{y}e^{i(kz-\omega t +\phi_{y})} \\ \mathbf{B}(z,\,t)&=\mathbf{\hat{x}}B_{x}e^{i(kz-\omega t +\phi_{x})}+\mathbf{\hat{y}}B_{y}e^{i(kz-\omega t +\phi_{y})} \end{aligned} E ( z , t ) B ( z , t ) ​ = x ^ E x ​ e i ( k z − ω t + ϕ x ​ ) + y ^ ​ E y ​ e i ( k z − ω t + ϕ y ​ ) = x ^ B x ​ e i ( k z − ω t + ϕ x ​ ) + y ^ ​ B y ​ e i ( k z − ω t + ϕ y ​ ) ​
+그런데 물리적인 해석이 가능한 것은 실수부의 파이므로 다음과 같이 관측된다. E ( z , t ) = x ^ E x cos ⁡ ( k z − ω t + ϕ x ) + y ^ E y cos ⁡ ( k z − ω t + ϕ y ) B ( z , t ) = x ^ B x cos ⁡ ( k z − ω t + ϕ x ) + y ^ B y cos ⁡ ( k z − ω t + ϕ y ) \displaystyle \begin{aligned} \mathbf{E}(z,\,t)&=\mathbf{\hat{x}}E_{x}\cos{(kz-\omega t +\phi_{x})}+\mathbf{\hat{y}}E_{y}\cos{(kz-\omega t +\phi_{y})} \\ \mathbf{B}(z,\,t)&=\mathbf{\hat{x}}B_{x}\cos{(kz-\omega t +\phi_{x})}+\mathbf{\hat{y}}B_{y}\cos{(kz-\omega t +\phi_{y})} \end{aligned} E ( z , t ) B ( z , t ) ​ = x ^ E x ​ cos ( k z − ω t + ϕ x ​ ) + y ^ ​ E y ​ cos ( k z − ω t + ϕ y ​ ) = x ^ B x ​ cos ( k z − ω t + ϕ x ​ ) + y ^ ​ B y ​ cos ( k z − ω t + ϕ y ​ ) ​
+
+4. 전자기파의 발견 [편집]
+1887년, 독일의 물리학자 헤르츠 는 방전관과 공진관을 설치해서 전자기파의 존재를 실험적으로 확인하였다.
+
+방전관에 매우 큰 전압을 걸면 방전이 일어나면서 전자는 금속구 사이에서 가속한다. 가속하는 전하는 변하는 전기장을 만들고, 이것은 공간 상으로 자기장을 유도한다. [4] 또 변하는 자기장은 전기장을 유도해내면서 공간상에 방사되는 전자기파가 발생하고, 이것은 공진관에 전달되게 된다. 이것을 헤르츠가 검출해냄으로써 처음으로 전자기파의 존재가 드러나게 된다.
+
+또한 헤르츠는 이 전자기파의 반사 및 굴절, 편광, 속력 등을 조사해서 빛의 성질과 일치함을 밝혀냄으로써 전자기파에 빛이 포함된다는 것 또한 증명해내었다.
+
+5. 평면 전자기파의 편광 [편집]
+전자기파의 전기장이 한 평면의 방향으로 정렬하고 있을 때를 선형 편광 되었다고 한다. 이 경우
+
+E ( r , t ) = E 0 ξ ^ e i ( k ⋅ r − ω t + ϕ ) \displaystyle \mathbf{E}(\mathbf{r},\,t)=E_{0}\hat{\boldsymbol{\xi}}\, e^{i(\mathbf{k} \boldsymbol{\cdot} \mathbf{r}-\omega t+\phi)} E ( r , t ) = E 0 ​ ξ ^ ​ e i ( k ⋅ r − ω t + ϕ )
+와 같이 특정한 방향(위의 예에선 ξ ^ \hat{\boldsymbol{\xi}} ξ ^ ​ 이다.)으로만 향하게 된다.
+
+이번에는 z z z 축으로 전파되는 전자기파를 고려하자. 위에서 E ( z , t ) = x ^ E x cos ⁡ ( k z − ω t + ϕ x ) + y ^ E y cos ⁡ ( k z − ω t + ϕ y ) \displaystyle \mathbf{E}(z,\,t)=\mathbf{\hat{x}}E_{x}\cos{(kz-\omega t +\phi_{x})}+\mathbf{\hat{y}}E_{y}\cos{(kz-\omega t +\phi_{y})} E ( z , t ) = x ^ E x ​ cos ( k z − ω t + ϕ x ​ ) + y ^ ​ E y ​ cos ( k z − ω t + ϕ y ​ )
+
+로 쓸 수 있음을 논의했다. 이 때, 전자기파는 선형 편광된 독립된 두 전자기파가 선형 결합되었다고 해석할 수 있다. 이렇게 선형 결합된 전자기파의 경우 아래의 네 케이스의 편광이 될 수 있다.
+
+[1] 선형 편광: ϕ y − ϕ x = m π ( m ∈ Z ) \phi_{y}-\phi_{x}=m\pi \,(m\in \mathbb{Z}) ϕ y ​ − ϕ x ​ = mπ ( m ∈ Z )
+주어진 조건을 대입하면, E ( z , t ) = x ^ E x cos ⁡ ( k z − ω t + ϕ x ) + y ^ E y cos ⁡ ( k z − ω t + ϕ x + m π ) \displaystyle \mathbf{E}(z,\,t)=\mathbf{\hat{x}}E_{x}\cos{(kz-\omega t +\phi_{x})}+\mathbf{\hat{y}}E_{y}\cos{(kz-\omega t +\phi_{x}+m\pi)} E ( z , t ) = x ^ E x ​ cos ( k z − ω t + ϕ x ​ ) + y ^ ​ E y ​ cos ( k z − ω t + ϕ x ​ + mπ )
+
+이 때, m m m 의 값에 따라
+
+cos ⁡ ( k z − ω t + ϕ x + m π ) = ± cos ⁡ ( k z − ω t + ϕ x ) \cos{(kz-\omega t +\phi_{x}+m\pi)}=\pm\cos{(kz-\omega t +\phi_{x})} cos ( k z − ω t + ϕ x ​ + mπ ) = ± cos ( k z − ω t + ϕ x ​ )
+를 갖는다. 따라서 전자기파는
+
+E ( z , t ) = [ x ^ E x ± y ^ E y ] cos ⁡ ( k z − ω t + ϕ x ) \displaystyle \mathbf{E}(z,\,t)=[\mathbf{\hat{x}}E_{x} \pm \mathbf{\hat{y}}E_{y}]\cos{(kz-\omega t +\phi_{x})} E ( z , t ) = [ x ^ E x ​ ± y ^ ​ E y ​ ] cos ( k z − ω t + ϕ x ​ )
+가 되고, 결론적으로 x ^ E x ± y ^ E y \mathbf{\hat{x}}E_{x} \pm \mathbf{\hat{y}}E_{y} x ^ E x ​ ± y ^ ​ E y ​ 의 방향으로 선형 편광되어 있다.
+
+[2] 타원 편광: ϕ y − ϕ x = π / 2 \phi_{y}-\phi_{x}=\pi/2 ϕ y ​ − ϕ x ​ = π /2 이고, E x ≠ E y E_{x} \neq E_{y} E x ​  = E y ​
+이 조건을 대입하면, E ( z , t ) = x ^ E x cos ⁡ ( k z − ω t + ϕ x ) ± y ^ E y sin ⁡ ( k z − ω t + ϕ x ) \displaystyle \mathbf{E}(z,\,t)=\mathbf{\hat{x}}E_{x}\cos{(kz-\omega t +\phi_{x})} \pm \mathbf{\hat{y}}E_{y}\sin{(kz-\omega t +\phi_{x})} E ( z , t ) = x ^ E x ​ cos ( k z − ω t + ϕ x ​ ) ± y ^ ​ E y ​ sin ( k z − ω t + ϕ x ​ )
+
+로 쓸 수 있다. 이 때,
+
+E x cos ⁡ ( k z − ω t + ϕ x ) ≡ X ± E y sin ⁡ ( k z − ω t + ϕ y ) ≡ Y \begin{aligned}\displaystyle E_{x}\cos{(kz-\omega t +\phi_{x})} &\equiv X\\\pm E_{y}\sin{(kz-\omega t +\phi_{y})} &\equiv Y\end{aligned} E x ​ cos ( k z − ω t + ϕ x ​ ) ± E y ​ sin ( k z − ω t + ϕ y ​ ) ​ ≡ X ≡ Y ​
+로 쓰고, 이것을 적절히 처리하면,
+
+X 2 E x 2 + Y 2 E y 2 = 1 \displaystyle \frac{X^{2}}{E_{x}^{2}}+\frac{Y^{2}}{E_{y}^{2}}=1 E x 2 ​ X 2 ​ + E y 2 ​ Y 2 ​ = 1
+로 쓸 수 있다. 이 방정식은 타원의 방정식이다. 따라서 위에서 주어진 전기장은 진행 방향에 수직한 한 평면에 타원을 생각했을 때, 그 타원 위의 점을 따라 회전하면서 나아간다.
+
+[3] 원 편광: ϕ y − ϕ x = π / 2 \phi_{y}-\phi_{x}=\pi/2 ϕ y ​ − ϕ x ​ = π /2 이고, E x = E y E_{x} = E_{y} E x ​ = E y ​
+이것은 위의 타원 편광의 결과를 이용해서 쉽게 증명할 수 있다. E x = E y ≡ E E_{x} = E_{y} \equiv E E x ​ = E y ​ ≡ E 라 놓으면,
+
+X 2 + Y 2 = E 2 \displaystyle {X^{2}}+{Y^{2}}=E^{2} X 2 + Y 2 = E 2
+가 되므로 전기장은 진행 방향에 수직한 한 평면에 원을 생각했을 때, 그 원 위의 점을 따라 회전하면서 나아간다는 것을 알 수 있다. 이런 편광을 원 편광 이라 한다.
+
+[4] 일반적인 타원 편광: 그 외
+위의 특수한 상황이 아닐 경우에는 일반적인 타원 편광이 된다. 이것은 타원의 장축이 x x x 혹은 y y y 축과 평행하지 않고, 기울어진 타원을 그리면서 전자기파가 진행하게 된다.
+
+아래는 위에서 다룬 선형 편광과 원 편광을 시각화한 동영상이다.
+
+6. 전도성 물질 내에서 전자기파 [편집]
+이번에는 전자기파가 전도성 물질 내에서 무슨 일이 일어나는지 논의해보자. 이번엔 전도성 물질 내를 고려하므로 전기 전도도 σ c \sigma_{c} σ c ​ 는 무시하지 않는다. 따라서 전도성 물질 내에서 전기장에 대한 방정식은
+
+∇ 2 E − μ σ c ∂ E ∂ t − μ ε ∂ 2 E ∂ t 2 = 0 \displaystyle \nabla^{2}\mathbf{E}-\mu \sigma_{c} \frac{\partial \mathbf{E}}{\partial t}-\mu \varepsilon \frac{\partial^{2} \mathbf{E}}{\partial t^{2}}=0 ∇ 2 E − μ σ c ​ ∂ t ∂ E ​ − μ ε ∂ t 2 ∂ 2 E ​ = 0
+으로 주어진다. 단색 평면파를 고려하므로 해당 평면파의 각진동수를 ω \omega ω 라 놓으면,
+
+E = E ( r ) e − i ω t \displaystyle \mathbf{E} = \mathbf{E}(\mathbf{r})\,e^{-i \omega t} E = E ( r ) e − iω t
+으로 쓸 수 있다. 따라서 이것을 방정식에 대입하면,
+
+∇ 2 E + i ω μ σ c E + ω 2 μ ε E = 0 \displaystyle \nabla^{2}\mathbf{E}+i \omega \mu \sigma_{c} \mathbf{E}+ \omega^{2} \mu \varepsilon \mathbf{E}=0 ∇ 2 E + iω μ σ c ​ E + ω 2 μ ε E = 0
+이 때, 다음을 이용하자.
+
+κ e κ m ≡ n 0 1 μ 0 ε 0 ≡ c ε = κ e ε 0 μ = κ m μ 0 \displaystyle \begin{aligned} \sqrt{\kappa_{e} \kappa_{m}} & \equiv n_{0} \\ \frac{1}{\sqrt{\mu_{0} \varepsilon_{0} }} & \equiv c \\ \varepsilon &= \kappa_{e} \varepsilon_{0} \\ \mu &= \kappa_{m} \mu_{0} \end{aligned} κ e ​ κ m ​ ​ μ 0 ​ ε 0 ​ ​ 1 ​ ε μ ​ ≡ n 0 ​ ≡ c = κ e ​ ε 0 ​ = κ m ​ μ 0 ​ ​
+특히 n 0 n_{0} n 0 ​ 는 비전도성 물질 내에서의 굴절률 이라고 명시했다. 따라서 위의 방정식은
+
+∇ 2 E + ω 2 n 0 2 c 2 ( 1 + i σ c ω ε ) E = 0 \displaystyle \nabla^{2}\mathbf{E}+\frac{\omega^{2} n_{0}^{2}}{c^{2}} \left( 1+i \frac{\sigma_{c}}{\omega \varepsilon} \right) \mathbf{E}=0 ∇ 2 E + c 2 ω 2 n 0 2 ​ ​ ( 1 + i ω ε σ c ​ ​ ) E = 0
+문제를 간단히 하기 위해서 전자기파의 진행 방향은 z z z 축 방향이라 가정하자. 평면파를 다루므로 전기장은 z z z 에만 의존한다. 따라서 방정식은
+
+d 2 E d z 2 + ω 2 n 0 2 c 2 ( 1 + i σ c ω ε ) E = 0 \displaystyle \frac{d^{2} \mathbf{E}}{dz^{2}}+\frac{\omega^{2} n_{0}^{2}}{c^{2}} \left( 1+i \frac{\sigma_{c}}{\omega \varepsilon} \right) \mathbf{E}=0 d z 2 d 2 E ​ + c 2 ω 2 n 0 2 ​ ​ ( 1 + i ω ε σ c ​ ​ ) E = 0
+이 된다. 이 때,
+
+n ~ 2 ≡ n 0 2 ( 1 + i σ c ω ε ) \displaystyle \tilde{n}^{2} \equiv n_{0}^{2} \left( 1+i \frac{\sigma_{c}}{\omega \varepsilon} \right) n ~ 2 ≡ n 0 2 ​ ( 1 + i ω ε σ c ​ ​ )
+로 정의하자. tilde(~)는 복소수를 의미하는 것에서 붙였다. 또한, 이것은
+
+n ~ = n 0 ( 1 + i σ c ω ε ) 1 / 2 \displaystyle \tilde{n} = n_{0} \left( 1+i \frac{\sigma_{c}}{\omega \varepsilon} \right)^{1/2} n ~ = n 0 ​ ( 1 + i ω ε σ c ​ ​ ) 1/2
+형태로도 쓸 수 있는데, 굴절률과 관계되는 항이긴 하지만, 복소수로 주어진다. 따라서 이런 것을 복소 굴절률 이라 하며, 의미는 후술하도록 하겠다. 따라서 해당 방정식은
+
+d 2 E d z 2 + ω 2 n ~ 2 c 2 E = 0 \displaystyle \frac{d^{2} \mathbf{E}}{dz^{2}}+\frac{\omega^{2} \tilde{n}^{2}}{c^{2}} \mathbf{E}=0 d z 2 d 2 E ​ + c 2 ω 2 n ~ 2 ​ E = 0
+으로 정리된다. 만약, 전도도가 0이라면, n ~ = n 0 \tilde{n} = n_{0} n ~ = n 0 ​ 가 되고, 이 방정식의 해는
+
+E ∝ exp ⁡ ( i ω n 0 c z ) \displaystyle \mathbf{E} \propto \exp{\left( i \, \frac{\omega n_{0}}{c}\,z \right)} E ∝ exp ( i c ω n 0 ​ ​ z )
+형태로 주어진다. 이 때, n 0 n_{0} n 0 ​ 는 굴절률이므로 ω n 0 / c {\omega n_{0}}/{c} ω n 0 ​ / c 는 파수 k ≡ 2 π / λ k \equiv 2 \pi/ \lambda k ≡ 2 π / λ 임을 쉽게 증명할 수 있다. 따라서 이 경우의 공간상의 해는
+
+E ( r ) ∝ e i k z \displaystyle \mathbf{E}(\mathbf{r}) \propto e^{ikz} E ( r ) ∝ e ik z
+형태로 주어지나, n ~ \tilde{n} n ~ 는 복소수이므로 파수 또한, 복소수로 나타날 것이며, 복소 파수 k ~ \tilde{k} k ~ 라 놓으면,
+
+E ( r ) ∝ e i k ~ z \displaystyle \mathbf{E}(\mathbf{r}) \propto e^{i \tilde{k}z} E ( r ) ∝ e i k ~ z
+으로 해가 나올 것이다. 이것을 방정식에 대입하면 다음과 같다.
+
+k ~ 2 = ω 2 n ~ 2 c 2 \displaystyle \tilde{k}^{2}=\frac{\omega^{2} \tilde{n}^{2}}{c^{2}} k ~ 2 = c 2 ω 2 n ~ 2 ​
+따라서
+
+k ~ 2 = ω 2 n 0 2 c 2 ( 1 + i σ c ω ε ) k ~ = ω n 0 c ( 1 + i σ c ω ε ) 1 / 2 \displaystyle \begin{aligned}\tilde{k}^{2} &= \frac{\omega^{2} n_{0}^{2}}{c^{2}} \left( 1+i \frac{\sigma_{c}}{\omega \varepsilon} \right) \\ \tilde{k} &= \frac{\omega n_{0}}{c} \left( 1+i \frac{\sigma_{c}}{\omega \varepsilon} \right)^{1/2} \end{aligned} k ~ 2 k ~ ​ = c 2 ω 2 n 0 2 ​ ​ ( 1 + i ω ε σ c ​ ​ ) = c ω n 0 ​ ​ ( 1 + i ω ε σ c ​ ​ ) 1/2 ​
+이것을 다시 표기하면,
+
+k ~ 2 = ω 2 n 0 2 c 2 ( 1 + σ c 2 ε 2 ω 2 ) 1 / 2 e i ϕ ϕ = tan ⁡ − 1 ( σ c ε ω ) \begin{aligned}\displaystyle \tilde{k}^{2}&= \frac{\omega^{2} n_{0}^{2}}{c^{2}} \left( 1+\frac{\sigma_{c}^{2}}{\varepsilon^{2} \omega^{2}} \right)^{1/2}e^{i \phi}\\\phi&=\tan^{-1}{\left( \frac{\sigma_{c}}{\varepsilon \omega} \right)}\end{aligned} k ~ 2 ϕ ​ = c 2 ω 2 n 0 2 ​ ​ ( 1 + ε 2 ω 2 σ c 2 ​ ​ ) 1/2 e i ϕ = tan − 1 ( ε ω σ c ​ ​ ) ​
+형태로 나타낼 수 있다. 이상에서
+
+k ~ = ω n 0 c ( 1 + σ c 2 ε 2 ω 2 ) 1 / 4 e i ϕ / 2 = ω n 0 c ( 1 + σ c 2 ε 2 ω 2 ) 1 / 4 [ cos ⁡ ( ϕ 2 ) + i sin ⁡ ( ϕ 2 ) ] \displaystyle \begin{aligned} \tilde{k}&= \frac{\omega n_{0}}{c} \left( 1+\frac{\sigma_{c}^{2}}{\varepsilon^{2} \omega^{2}} \right)^{1/4}e^{i \phi/2} \\ &=\frac{\omega n_{0}}{c} \left( 1+\frac{\sigma_{c}^{2}}{\varepsilon^{2} \omega^{2}} \right)^{1/4} \left[ \cos{\left( \frac{\phi}{2} \right)}+i\sin{\left( \frac{\phi}{2} \right)} \right] \end{aligned} k ~ ​ = c ω n 0 ​ ​ ( 1 + ε 2 ω 2 σ c 2 ​ ​ ) 1/4 e i ϕ /2 = c ω n 0 ​ ​ ( 1 + ε 2 ω 2 σ c 2 ​ ​ ) 1/4 [ cos ( 2 ϕ ​ ) + i sin ( 2 ϕ ​ ) ] ​
+복소 굴절률이
+
+n ~ = n + i k \displaystyle \tilde{n} =n+ik n ~ = n + ik
+의 형태로 나뉜다고 하면 복소 파수는
+
+k ~ = ω c n + i ω c k \displaystyle \tilde{k} =\frac{\omega}{c}n+i\frac{\omega}{c}k k ~ = c ω ​ n + i c ω ​ k
+가 되고, 위에서 ϕ = tan ⁡ − 1 ( σ c / ε ω ) \phi= \tan^{-1}{\left( {\sigma_{c}}/{\varepsilon \omega} \right)} ϕ = tan − 1 ( σ c ​ / ε ω ) 임을 이용하면,
+
+n = n 0 2 [ ( 1 + σ c 2 ε 2 ω 2 ) 1 / 2 + 1 ] 1 / 2 k = n 0 2 [ ( 1 + σ c 2 ε 2 ω 2 ) 1 / 2 − 1 ] 1 / 2 \displaystyle \begin{aligned} n&=\frac{n_{0}}{\sqrt{2}} \left[ \left( 1+\frac{\sigma_{c}^{2}}{\varepsilon^{2} \omega^{2}} \right)^{1/2} +1 \right]^{1/2} \\ k &= \frac{n_{0}}{\sqrt{2}} \left[ \left( 1+\frac{\sigma_{c}^{2}}{\varepsilon^{2} \omega^{2}} \right)^{1/2} -1 \right]^{1/2} \end{aligned} n k ​ = 2 ​ n 0 ​ ​ [ ( 1 + ε 2 ω 2 σ c 2 ​ ​ ) 1/2 + 1 ] 1/2 = 2 ​ n 0 ​ ​ [ ( 1 + ε 2 ω 2 σ c 2 ​ ​ ) 1/2 − 1 ] 1/2 ​
+으로 쓸 수 있다. 따라서 맨 위에서의 방정식의 해는
+
+E = E 0 exp ⁡ ( − ω k c z ) exp ⁡ [ − i ω ( t − n c z ) ] \displaystyle \mathbf{E}=\mathbf{E_{0}} \exp{\left( -\frac{\omega k}{c} z \right)} \exp{\left[ -i \omega \left( t-\frac{n}{c} z \right) \right]} E = E 0 ​ exp ( − c ω k ​ z ) exp [ − iω ( t − c n ​ z ) ]
+가 된다. 비전도성 매질에서와 비교하면 감쇠항
+
+exp ⁡ ( − ω k c z ) \displaystyle \exp{\left( -\frac{\omega k}{c} z \right)} exp ( − c ω k ​ z )
+이 붙었음을 알 수 있다. 이에 일반적으로 복소 굴절률의 n n n 을 굴절률로 해석하고, k k k 는 매질 내에서 파의 감쇠와 관련된 것으로 해석한다. 이 때,
+
+z = c ω k \displaystyle z=\frac{c}{\omega k} z = ω k c ​
+이면 전기장은 매질에 입사한 직후의 e − 1 e^{-1} e − 1 으로 줄어든다. 이것을
+
+δ ≡ c ω k \displaystyle \delta \equiv \frac{c}{\omega k} δ ≡ ω k c ​
+로 정의하고, 침투 깊이 (skin depth)라 한다. '표면 깊이'라고도 번역되나, 여기서는 한국물리학회의 변역명을 따랐다. 이 물리량은 '전자기파가 전도성 매질 내를 얼마나 잘 투과하는 가'를 나타낸다. 전기 전도도가 높은 알루미늄의 경우 10 6 Hz 10^{6}\,\textrm{Hz} 1 0 6 Hz 의 파가 투과할 때, 근사적으로 8 × 10 − 5 m 8 \times 10^{-5}\, \textrm{m} 8 × 1 0 − 5 m 가 나오는데, 전자기파는 전기 전도도가 높은 전도성 물질 즉, 금속 내에서 급격히 감쇠한다는 것 을 보여준다. 물론 감마선 같은 고에너지의 전자기파는 두꺼운 콘크리트 도 투과할 만큼 침투 깊이가 크다.
+
+문제를 간단히 하기 위해 이제부터는 전기장이 x x x 축의 방향으로 선형 편광되었다고 가정하자. 그렇게 되면, 전도성 매질 내에서 전기장은
+
+E = x ^ E 0 e i ( k ~ z − ω t ) \displaystyle \mathbf{E}=\mathbf{\hat{x}} E_{0} e^{i (\tilde{k} z-\omega t)} E = x ^ E 0 ​ e i ( k ~ z − ω t )
+이 된다. 평면파를 기술하고 있으므로 자기장 또한,
+
+B = B ( r ) e − i ω t \displaystyle \mathbf{B} = \mathbf{B}(\mathbf{r})\,e^{-i \omega t} B = B ( r ) e − iω t
+형태가 될 것이다. 이 때, 패러데이 법칙 을 사용하면 다음과 같다.
+
+∇ × E = − ∂ B ∂ t → i k ~ z ^ × E = i ω B \begin{aligned}\boldsymbol{\nabla} \times \mathbf{E}= -\frac{\partial \mathbf{B}}{\partial t}\,\to \, i\tilde{k} \mathbf{\hat{z}} \times \mathbf{E}=i \omega \mathbf{B}\end{aligned} ∇ × E = − ∂ t ∂ B ​ → i k ~ z ^ × E = iω B ​
+따라서 전도성 물질 내에서 자기장은 B = y ^ E 0 ω k ~ exp ⁡ ( − ω k c z ) exp ⁡ [ − i ω ( t − n c z ) ] = y ^ E 0 n 0 c ( 1 + σ c 2 ε 2 ω 2 ) 1 / 4 exp ⁡ ( i ϕ 2 ) exp ⁡ ( − ω k c z ) exp ⁡ [ − i ω ( t − n c z ) ] \displaystyle \begin{aligned} \mathbf{B}&=\mathbf{\hat{y}} \frac{E_{0}}{\omega} \tilde{k} \exp{\left( -\frac{\omega k}{c} z \right)} \exp{\left[ -i \omega \left( t-\frac{n}{c} z \right) \right]} \\ &=\mathbf{\hat{y}} \frac{E_{0} n_{0}}{c} \left( 1+\frac{\sigma_{c}^{2}}{\varepsilon^{2} \omega^{2}} \right)^{1/4} \exp{\left( i\frac{\phi}{2} \right)} \exp{\left( -\frac{\omega k}{c} z \right)} \exp{\left[ -i \omega \left( t-\frac{n}{c} z \right) \right]} \end{aligned} B ​ = y ^ ​ ω E 0 ​ ​ k ~ exp ( − c ω k ​ z ) exp [ − iω ( t − c n ​ z ) ] = y ^ ​ c E 0 ​ n 0 ​ ​ ( 1 + ε 2 ω 2 σ c 2 ​ ​ ) 1/4 exp ( i 2 ϕ ​ ) exp ( − c ω k ​ z ) exp [ − iω ( t − c n ​ z ) ] ​
+
+로, 전기장과 위상차 ϕ / 2 \phi/2 ϕ /2 가 나면서 진행한다. 비전도성 물질에서는 전기장과 자기장이 위상차 없이 진행되는 것 [5] [6] 과 대비된다.
+
+6.1. 좋은 도체 [편집]
+일반적으로 전기 전도도가 굉장히 높다고 취급하는 도체 이를테면, 철이나 알루미늄 등은 기본적으로 다음을 만족시킨다.
+
+κ m ≃ 1 σ c ε ω ≫ 1 \displaystyle \kappa_{m} \simeq 1 \qquad \qquad \frac{\sigma_{c}}{\varepsilon \omega} \gg 1 κ m ​ ≃ 1 ε ω σ c ​ ​ ≫ 1
+따라서 금속 내의 파수는
+
+k ~ = ω n 0 c ( 1 + σ c 2 ε 2 ω 2 ) 1 / 4 e i ϕ / 2 ≃ ω n 0 c σ c ε ω e i ϕ / 2 \displaystyle \begin{aligned} \tilde{k}&= \frac{\omega n_{0}}{c} \left( 1+\frac{\sigma_{c}^{2}}{\varepsilon^{2} \omega^{2}} \right)^{1/4}e^{i \phi/2} \\ & \simeq \frac{\omega n_{0}}{c} \sqrt{\frac{\sigma_{c}}{\varepsilon \omega}} e^{i \phi/2} \end{aligned} k ~ ​ = c ω n 0 ​ ​ ( 1 + ε 2 ω 2 σ c 2 ​ ​ ) 1/4 e i ϕ /2 ≃ c ω n 0 ​ ​ ε ω σ c ​ ​ ​ e i ϕ /2 ​
+이 된다. 그런데, ϕ → π / 2 \phi \rightarrow \pi/2 ϕ → π /2 이고, n 0 ≡ κ e κ m ≃ κ e n_{0}\equiv \sqrt{\kappa_{e} \kappa_{m}} \simeq \sqrt{\kappa_{e}} n 0 ​ ≡ κ e ​ κ m ​ ​ ≃ κ e ​ ​ 이므로 위 식은 아래와 같이 쓸 수 있다.
+
+k ~ = ω c σ c ε 0 ω e i π / 4 = ω c [ σ c 2 ε 0 ω + i σ c 2 ε 0 ω ] \displaystyle \begin{aligned} \tilde{k}&= \frac{\omega }{c} \sqrt{\frac{\sigma_{c}}{\varepsilon_{0} \omega}} e^{i \pi/4} \\ &= \frac{\omega }{c} \left[ \sqrt{\frac{\sigma_{c}}{2\varepsilon_{0} \omega}}+i \sqrt{\frac{\sigma_{c}}{2\varepsilon_{0} \omega}}\,\right] \end{aligned} k ~ ​ = c ω ​ ε 0 ​ ω σ c ​ ​ ​ e iπ /4 = c ω ​ [ 2 ε 0 ​ ω σ c ​ ​ ​ + i 2 ε 0 ​ ω σ c ​ ​ ​ ] ​
+따라서 이러한 좋은 도체에서 다음이 성립한다.
+
+n = k = σ c 2 ε 0 ω \displaystyle n=k= \sqrt{\frac{\sigma_{c}}{2\varepsilon_{0} \omega}} n = k = 2 ε 0 ​ ω σ c ​ ​ ​
+또한, 이러한 좋은 도체에서 침투 깊이는 다음과 같다.
+
+δ ≡ c ω k = c ω ε 0 ω σ c = 2 μ 0 σ c ω \displaystyle \begin{aligned} \delta &\equiv \frac{c}{\omega k} \\ &=\frac{c}{\omega} \sqrt{\frac{\varepsilon _{0} \omega}{\sigma_{c} }} \\&=\sqrt{\frac{2}{\mu_{0}\sigma_{c}\omega}} \end{aligned} δ ​ ≡ ω k c ​ = ω c ​ σ c ​ ε 0 ​ ω ​ ​ = μ 0 ​ σ c ​ ω 2 ​ ​ ​
+여기서 주목해야 할 점은 도체 내부의 자기장은
+
+i k ~ z ^ × E = i ω B \displaystyle i \tilde{k} \mathbf{\hat{z}} \times \mathbf{E}=i \omega \mathbf{B} i k ~ z ^ × E = iω B
+으로 주어지는데, 파수에서 위상과 관련된 인자 e i π / 4 e^{i \pi/4} e iπ /4 이 곱해지기 때문에 전도도가 높은 좋은 도체 내에서는 전기장과 자기장의 위상차가 π / 4 \boldsymbol{\pi/4} π /4 만큼 나면서 전파된다 는 것이다.
+
+7. 포인팅 벡터 [편집]
+자세한 내용은 포인팅 벡터 문서를 참고하십시오.
+
+8. 전자기학의 경계치 문제 [편집]
+자세한 내용은 전자기파/전자기학의 경계치 문제 문서를 참고하십시오. 이 문서에선 전자기파가 서로 다른 매질의 경계면에서 반사, 굴절, 투과의 성질과 전파 공간에 제약을 줬을 때 어떻게 방사되는지 설명한다.
+
+9. 전자기파 방사 [편집]
+자세한 내용은 전자기파 방사 문서를 참고하십시오.
+
+10. 전자기파의 에너지 양자화 [편집]
+본래 전자기파의 에너지는 연속적이라고 예측되었으나, 그것에 모순을 일으킨 실험이 바로 양자역학의 태동을 알린 ' 흑체복사 ' 실험이다. 빛의 에너지를 연속적이라 가정하고 문제를 풀면 자외선 파탄이 발생하였고, 플랑크 가 했던 것처럼 전자기파의 에너지가 양자화되어 있다고 가정하면 흑체 복사 스펙트럼을 설명할 수 있었다.
+
+이후, 알베르트 아인슈타인 이 광전효과 를 설명하면서 전자기파를 파동이 아닌 에너지가 밀집된 입자, 즉 광자 의 흐름으로 보아야 한다고 주장하였고, 그렇게 함으로써 광전효과 가 설명될 수 있었다. 이때, 아인슈타인이 주장했던 진동수가 ν \nu ν 인 전자기파의 에너지는
+
+E = h ν \displaystyle E=h \nu E = h ν
+이었다. h h h 는 플랑크 상수 이다.
+
+빛은 파동성과 입자성, 즉 이중성을 띄고, 이 둘의 관점은 상호보완적인 관계를 갖고 있다. 이와 관련된 자세한 내용은 현대물리학 책을 참고해보는 것을 권한다.
+
+11. 건강 [편집]
+자세한 내용은 전자기파/건강 문서를 참고하십시오.
+
+12. 여담 [편집]
+자세한 내용은 전자기파/여담 문서를 참고하십시오. [ 남동구퀵서비스 하나로퀵
+1577-3410.com
+[ [ 하나로퀵업체 ] [ 화물퀵서비스 ] [ 법인신청접수 ] [ 하나로퀵후기 ] ]
+5분내출발 오토바이서류퀵서비스 빠른퀵배송 심부름 실명제퀵기사 퀵하세요.
+
+] | [ 남동구퀵배송 퀵브라더스
+www.1599-8330.com v-if
+[ [ 착한요금 ] [ 전국배송 ] [ ktx특송퀵 ] [ 버스.항공퀵 ] ]
+전국 어디든지 구석구석 당일배송, 저렴한요금, 카드결제OK, 친절상담, 비밀엄수
+
+] | [ 한국로지스 !친절배송!
+www.18332442.co.kr v-if
+한국로지스, 포장이사, 리프트화물, 용달, 전국당일특송 365일 가능합니다.
+
+]
+
+[1] 즉, 자외선보다 에너지가 높다. [2] 대신 이를 반대로 활용해서 전리층에서 반사되는 먼 거리의 AM방송 이나 단파방송 을 듣는 것이 가능하다. [3] 전도성 물질이 아닌 곳을 가정하고 있음에 주의하자. [4] 자세한 것은 전자기파 방사 를 참조하자. [5] 전기 전도도를 0으로 잡으면, 쉽게 증명할 수 있다. [6] 단일 파를 다루고 있다는 것에 주의하자. 적절하게 선형 편광된 두 전자기파를 중첩하면, 진공에서도 전기장과 자기장에 위상차가 존재하면서 방사될 수 있다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

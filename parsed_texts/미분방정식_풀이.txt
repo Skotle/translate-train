@@ -1,0 +1,453 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 미분방정식/풀이
+최근 수정 시각: 2026-04-16 21:50:45 [ [ [ ] [ [ 11 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 미분방정식
+]
+
+[ [ ] [ 상위 문서: 미분방정식 관련 문서: 방정식/풀이 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 상미분방정식 2.1 . 일계 미분방정식 2.1.1 . 적분인자법 2.1.2 . 변수분리형(separation of variables) 2.1.3 . 완전형(exact ODE) 2.2 . 선형 미분방정식 2.2.1 . 개론 2.2.2 . 2계 제차 미분방정식 2.2.2.1 . 중첩의 원리 2.2.2.2 . 론스키안 2.2.2.3 . 고유방정식: 중근 또는 복소수 해를 가질 경우 2.2.3 . 멱급수법 2.2.4 . 라플라스 변환 , 푸리에 변환 등의 적분변환 2.3 . 비선형 미분방정식 3 . 편미분방정식 3.1 . 미분작용소 3.2 . 존재성과 정규성 3.3 . 대수적 풀이법 3.4 . 선형편미분방정식의 기본해(fundamental solution) 3.5 . 타원형 편미분방정식(Eliptic PDE) 스펙트럼 이론(spectral theory) 3.6 . 물리학에서 다루는 편미분방정식 3.6.1 . 파동 방정식 3.6.2 . 확산 방정식
+
+1. 개요 [편집]
+미분방정식 은 일변수함수에 대응하는 상미분방정식과, 다변수함수 에 대응하는 편미분방정식으로 나뉜다.
+
+2. 상미분방정식 [편집]
+常 微 分 方 程 式 / ordinary differential equation, ODE
+
+1변수 함수에 대한 미분방정식을 가리키는 말이다. 여기서 상미분이라는 표현은 직역하자면 평범한 미분이란 뜻이지만 그보다는 " 편미분 "(partial differential equation, PDE)과 대비시켜 다변수 함수가 아닌 함수의 미분방정식을 가리키려 쓰는 조어라고 볼 수 있다.
+
+우선 이 절에 쓰이는 표기법을 정리하자. - 미지의 함수 y y y 는 x x x 를 변수로 갖는다.
+- 도함수는 y ′ y' y ′ , y ′ ′ y'' y ′′ , ... 또는 d y d x , d 2 y d x 2 \dfrac{\mathrm{d}y}{\mathrm{d}x}, \dfrac{\mathrm{d}^2 y}{\mathrm{d}x^2} d x d y ​ , d x 2 d 2 y ​ , ... 등으로 나타내자. C C C , C 1 C_{1} C 1 ​ 등은 임의의 상수. [1]
+- 편도함수는 편미분 기호 ∂ \partial ∂ [2] 를 사용하거나( ∂ y ∂ x \displaystyle {\partial y \over \partial x} ∂ x ∂ y ​ 등), 변수의 아래 첨자( y x y_x y x ​ 등)로 나타내자. ∫ \displaystyle\int ∫ 는 적분기호.
+- e e e 는 자연로그의 밑이며, exp ⁡ ( x ) = e x \exp(x) = e^x exp ( x ) = e x 로 약속한다. 일변수 함수 f f f , g g g 의 적분은 암묵적으로 F F F , G G G 등의 대문자로 표기하자. 복소수 가 나올 때 i = i= i = − 1 \sqrt{-1} − 1 ​ . [3]
+
+2.1. 일계 미분방정식 [편집]
+일계 미분방정식은 도함수 y ′ y' y ′ 가 y y y 와 x x x 의 식으로 주어져 있는 형태이다. 일계 선형 미분방정식의 경우 함수의 초기값이 주어지면, 국소적으로 [4] 해가 항상 유일하게 존재한다는 사실이 알려져 있다. 일반적으로 n n n 계 선형 상미분방정식은 y ( 0 ) , y ′ ( 0 ) , . . . , y n − 1 ( 0 ) y(0), y'(0), ..., y^{n-1} (0) y ( 0 ) , y ′ ( 0 ) , ... , y n − 1 ( 0 ) 의 n n n 개 초기값이 모두 주어져야 이를 만족하는 해가 유일하게 존재한다.
+
+간혹 d y d x \dfrac{\mathrm d y}{\mathrm d x} d x d y ​ 를 분수처럼 조작하여 d x \mathrm{d}x d x 나 d y \mathrm{d}y d y 라는 단독표현을 사용하는데, 이를 엄밀히 이해하려면 미분형식 이라는 이론을 동원해야 한다. 수학 전공자가 아니면 '직관적으로 이해하거나' '형식적인 표기일 뿐이라 납득하고' 넘어가자.
+
+2.1.1. 적분인자법 [편집]
+y ′ + g ( x ) y = f ( x ) \displaystyle y' + g(x)y = f(x) y ′ + g ( x ) y = f ( x )
+꼴의 경우, y y y 항과 y ′ y' y ′ 항을 단서로 좌변에 적절하게 미지의 식을 곱하면 좌변을 원함수에서 곱의 미분이 일어난 형태로 간주할 수 있다. 이 때의 미지의 식을 적분인자 h ( x ) h(x) h ( x ) 라고 부르자. 즉, h ( x ) h(x) h ( x ) 를 방정식에 곱한 식
+
+h ( x ) y ′ + h ( x ) g ( x ) y = h ( x ) f ( x ) \displaystyle h(x)y' + h(x)g(x)y = h(x)f(x) h ( x ) y ′ + h ( x ) g ( x ) y = h ( x ) f ( x )
+의 좌변이
+
+h ( x ) y ′ + h ( x ) g ( x ) y = ( h ( x ) y ) ′ \displaystyle h(x)y' + h(x)g(x)y = (h(x)y)' h ( x ) y ′ + h ( x ) g ( x ) y = ( h ( x ) y ) ′
+가 되는 h ( x ) h(x) h ( x ) 를 찾으면
+
+( h ( x ) y ) ′ = h ( x ) f ( x ) \displaystyle (h(x)y)' = h(x)f(x) ( h ( x ) y ) ′ = h ( x ) f ( x )
+의 양변을 적분해서 해를 구할 수 있지 않겠냐는 것. 전개를 하면
+
+( h ( x ) y ) ′ = h ( x ) y ′ + h ′ ( x ) y = h ( x ) y ′ + h ( x ) g ( x ) y \displaystyle (h(x)y)' = h(x)y' + h'(x)y = h(x)y' + h(x)g(x)y ( h ( x ) y ) ′ = h ( x ) y ′ + h ′ ( x ) y = h ( x ) y ′ + h ( x ) g ( x ) y
+가 되므로
+
+h ′ ( x ) = h ( x ) g ( x ) \displaystyle h'(x) = h(x)g(x) h ′ ( x ) = h ( x ) g ( x )
+이고, 곧
+
+h ′ ( x ) h ( x ) = g ( x ) \displaystyle \dfrac{h'(x)}{h(x)} = g(x) h ( x ) h ′ ( x ) ​ = g ( x )
+임을 알 수 있다. 이로서 적분을 통해 h ( x ) h(x) h ( x ) 를 다음 식과 같이 구할 수 있다.
+
+h ( x ) = C e ∫ ⁣ g ( x ) d x \displaystyle h(x) = Ce^{\int\!g(x)\mathrm{d}x} h ( x ) = C e ∫ g ( x ) d x (단, C C C 는 적분 상수)
+이제 위에서 네 번째 식 ( h ( x ) y ) ′ = h ( x ) f ( x ) \displaystyle (h(x)y)' = h(x)f(x) ( h ( x ) y ) ′ = h ( x ) f ( x ) 에 h ( x ) h(x) h ( x ) 값을 대입하면
+
+( C e ∫ ⁣ g ( x ) d x y ) ′ = C e ∫ ⁣ g ( x ) d x f ( x ) \displaystyle (Ce^{\int\!g(x)\mathrm{d}x}y)' = Ce^{\int\!g(x)\mathrm{d}x}f(x) ( C e ∫ g ( x ) d x y ) ′ = C e ∫ g ( x ) d x f ( x )
+양변의 적분 상수를 정리하고 적분하면
+
+e ∫ ⁣ g ( x ) d x y = ∫ e ∫ ⁣ g ( x ) d x f ( x ) d x + C \displaystyle e^{\int\!g(x)\mathrm{d}x}y = \int e^{\int\!g(x)\mathrm{d}x}f(x)\mathrm{d}x + C e ∫ g ( x ) d x y = ∫ e ∫ g ( x ) d x f ( x ) d x + C
+양변을 나누어 정리하면
+
+y = e − ∫ ⁣ g ( x ) d x ( ∫ e ∫ ⁣ g ( x ) d x f ( x ) d x + C ) \displaystyle \displaystyle y = e^{- \int\!g(x)\mathrm{d}x} (\int e^{\int\!g(x)\mathrm{d}x}f(x)\mathrm{d}x + C) y = e − ∫ g ( x ) d x ( ∫ e ∫ g ( x ) d x f ( x ) d x + C )
+를 얻게 된다.
+
+2.1.2. 변수분리형(separation of variables) [편집]
+
+d y d x = f ( x ) g ( y ) \displaystyle \frac{\mathrm{d}y}{\mathrm{d}x} = \frac{f(x)}{g(y)} d x d y ​ = g ( y ) f ( x ) ​
+꼴의 경우
+
+g ( y ) d y = f ( x ) d x \displaystyle g(y)\,\mathrm{d}y=f(x)\,\mathrm{d}x g ( y ) d y = f ( x ) d x
+의 형태로 바꾼 다음 양변을 적분해
+
+F ( x ) = G ( y ) + C \displaystyle F(x) = G(y) + C F ( x ) = G ( y ) + C [5]
+꼴로 바꾼다. 안 된다면 적절한 치환을 통해, 예를 들면 u = y x u=\dfrac{y}{x} u = x y ​ 로 놓고 u u u 와 x x x 에 대한 미분방정식으로 만든 뒤 해보면 된다.
+
+2.1.3. 완전형(exact ODE) [편집]
+
+N ( x , y ) d y d x + M ( x , y ) = 0 \displaystyle N(x,\,y)\frac{\mathrm{d}y}{\mathrm{d}x}+M(x,y)=0 N ( x , y ) d x d y ​ + M ( x , y ) = 0
+을
+
+N ( x , y ) d y + M ( x , y ) d x = 0 \displaystyle N(x,\,y)\,\mathrm{d}y + M(x,\,y)\,\mathrm{d}x=0 N ( x , y ) d y + M ( x , y ) d x = 0
+의 꼴로 썼을 때
+
+∂ M ∂ y = ∂ N ∂ x \displaystyle \frac{\partial M}{\partial y} = \frac{\partial N}{\partial x} ∂ y ∂ M ​ = ∂ x ∂ N ​
+이면 이를 완전형이라 한다. 이 때는
+
+∂ f ∂ x = M ( x , y ) \displaystyle \frac{\partial f}{\partial x}= M(x,\,y) ∂ x ∂ f ​ = M ( x , y )
+이고
+
+∂ f ∂ y = N ( x , y ) \displaystyle \frac{\partial f}{\partial y} = N(x,\,y) ∂ y ∂ f ​ = N ( x , y )
+인 f f f 를 찾아낸다. ( M M M 을 x x x 에 대해 적분하고, y y y 에 대한 상수항을 더해주면 쉽다.) 그 다음에는 f f f 를 전미분했을 때
+
+d ( f ( x , y ) ) = 0 \displaystyle \mathrm{d}(f(x,\,y)) = 0 d ( f ( x , y )) = 0
+이라고 쓸 수 있기 때문에 f ( x , y ) = C f(x,y) = C f ( x , y ) = C 의 형태가 해라고 할 수 있다.
+
+미분방정식이 완전형이 아니어도(non-exact) 역시 양변에 적분인자를 곱해 완전형 미분방정식을 만들 수 있다. 다음 두 경우에 대해 - M y − N x N \dfrac{M_y-N_x}{N} N M y ​ − N x ​ ​ 이 x x x 에만 의존할 경우: h ( x , y ) = exp ⁡ ( ∫ M y − N x N d x ) h(x,\,y) = \exp\left(\displaystyle\int\frac{M_y-N_x}{N}\,\mathrm{d}x\right) h ( x , y ) = exp ( ∫ N M y ​ − N x ​ ​ d x )
+- N x − M y M \dfrac{N_x - M_y}{M} M N x ​ − M y ​ ​ 이 y y y 에만 의존할 경우: h ( x , y ) = exp ⁡ ( ∫ N x − M y M d y ) h(x,\,y) = \exp\left(\displaystyle\int\frac{N_x - M_y}{M}\,\mathrm{d}y\right) h ( x , y ) = exp ( ∫ M N x ​ − M y ​ ​ d y )
+
+로 잡으면 h h h 가 적분인자가 된다. 위 두 경우에 해당하지 않는다면, 적분인자를 구하는 것이 미분방정식을 푸는 것보다 어려운 경우이다. [6] 이걸 반대로 말하면, 아무 f ( x , y ) = C f(x,\,y) = C f ( x , y ) = C 를 x x x 에 대해 미분해 버린 후, x x x , x y xy x y 가 모두 들어있는 임의의 함수로 나누거나 곱해버리면 손으로 못 푸는 1계 상미분방정식을 만들 수 있다는 말.
+보통 공업수학 교과서에서는 위와 같은 1계 완전형 미분방정식만을 다루지만, 이걸 x x x 에 대해 음함수 미분을 하면 2계 완전형 미분방정식을 만들 수 있고, 이에 더해 x x x 에 대해 계속 음함수 미분을 하면서 고계 완전형 미분방정식으로 확장할 수 있다. 완전형 미분방정식(영문 위키백과) 참고.
+
+2.2. 선형 미분방정식 [편집]
+
+2.2.1. 개론 [편집]
+선형미분방정식이란 방정식의 차수에 해당하는 미분가능 함수공간 위에서 정의된 선형 연산자 L에 대해 L f = g Lf=g L f = g 으로 표현되는 미분방정식을 의미한다. 아래 내용은 선형대수 뿐만 아니라 군 에 대한 지식 특히 몫군에 대한 이해를 요구하므로 군에 대한 이해가 부족하다면 해당 내용을 참조하는 것이 좋다.
+
+우선 L f = g Lf=g L f = g 의 해는 선형 사상의 핵(kernel)으로 구성한 잉여류(coset) 혹은 아핀 부분공간(affine subspace) 중 하나로 표현할 수 있고, 그것은
+
+h + k e r L \displaystyle h+\mathrm{ker}\,L h + ker L
+로 표현된다. 여기서 h h h 는
+
+L h = g \displaystyle Lh=g L h = g
+에 해당하고 이것은 특수해 중 하나이다. 한편,
+
+k e r L \displaystyle \mathrm{ker}\,L ker L
+는 동차해를 이루는 부분공간에 해당된다. 동차해에 해당되는 집합은 참고로
+
+h + k e r L \displaystyle h+\mathrm{ker}\,L h + ker L
+로 표현된 해집합은 동치류 를 이루므로 h h h 의 선택에 무관하므로 해집합을 잘 결정할 수 있다. 특히 동차의 경우
+
+y ( n ) + c n − 1 y ( n − 1 ) + ⋯ + c 1 y ′ + c 0 y = 0 \displaystyle y^{(n)}+ c_{n-1} y^{(n-1)} + \cdots + c_1 y' + c_0 y= 0 y ( n ) + c n − 1 ​ y ( n − 1 ) + ⋯ + c 1 ​ y ′ + c 0 ​ y = 0
+로 주어진 식을
+
+y ( n ) + c n − 1 y ( n − 1 ) + ⋯ + c 1 y ′ = − c 0 y \displaystyle y^{(n)}+ c_{n-1} y^{(n-1)} + \cdots + c_1 y' = - c_0 y y ( n ) + c n − 1 ​ y ( n − 1 ) + ⋯ + c 1 ​ y ′ = − c 0 ​ y
+형태로 이해하여 고유치 문제로 풀 수도 있다. 물론 주어진 c 0 = 0 c_0 = 0 c 0 ​ = 0 인 경우는 고유값이 0 0 0 인 경우이다.
+
+또한 공대생들의 멘탈을 붕괴시키는 주범중 하나인 푸리에 해석 또한 이 선형 편미분방정식을 풀기 위한 이론이다. 선형 편미분방정식도 결국 다변수 함수에 대해 L u = g Lu=g Lu = g 로 표현되는 미분방정식이므로 위 이론을 그대로 적용할 수 있다.
+
+선형미분방정식에서 일반해를 구할 때 동차해에 특수해를 더해주는 이유가 바로 이것이다. 더 자세한 내용은 선형 변환 항목 참조.
+
+하지만 이것은 어디까지나 이론상 그렇다는 것이고 실제로는 선형 미분방정식이라도 풀이를 위해서는 상당히 많은 수단이 동원된다. 사실 아래의 적분변환과 멱급수법도 이 선형미분방정식을 풀기 위한 방법들이다. 또한 위의 이론은 선형연립미분방정식에도 그대로 적용된다.
+이제 선형미분방정식의 예시를 하나 들어보자. 상수 c i c_{i} c i ​ 들에 대해
+
+y ( n ) + c n − 1 y ( n − 1 ) + ⋯ + c 1 y ′ + c 0 y = 0 \displaystyle y^{(n)}+ c_{n-1} y^{(n-1)} + \cdots + c_1 y' + c_0 y= 0 y ( n ) + c n − 1 ​ y ( n − 1 ) + ⋯ + c 1 ​ y ′ + c 0 ​ y = 0
+의 형태이다. 여기에 대응하는 다항식
+
+χ ( T ) = T n + c n − 1 T n − 1 + ⋯ + c 1 T + c 0 \displaystyle \chi(T) = T^n+ c_{n-1} T^{n-1} + \cdots + c_1 T + c_0 χ ( T ) = T n + c n − 1 ​ T n − 1 + ⋯ + c 1 ​ T + c 0 ​
+를 특성다항식(characteristic polynomial)이라고 한다. 이 특성다항식이
+
+χ ( T ) = ( T − α 1 ) n 1 ( T − α 2 ) n 2 ⋯ ( T − α k ) n k \displaystyle \chi(T) = (T - \alpha_1) ^{n_1} (T - \alpha_2) ^{n_2} \cdots (T - \alpha_k)^{n_k} χ ( T ) = ( T − α 1 ​ ) n 1 ​ ( T − α 2 ​ ) n 2 ​ ⋯ ( T − α k ​ ) n k ​
+로 복소수 범위내에서 인수분해된다고 하면, 각각의 근 α i \alpha_i α i ​ 에 대해
+
+exp ⁡ ( α i x ) , x exp ⁡ ( α i x ) , ⋯ , x n i − 1 exp ⁡ ( α i x ) \displaystyle \exp(\alpha_i x), x \exp(\alpha_i x), \cdots ,x^{n_i -1} \exp(\alpha_i x) exp ( α i ​ x ) , x exp ( α i ​ x ) , ⋯ , x n i ​ − 1 exp ( α i ​ x )
+의 n i n_i n i ​ 개들의 함수가 해가 된다. 또한, 이 미분방정식의 모든 해는 이들을 모두 모은 n n n ( = n i = n_i = n i ​ 들의 합)개의 해들의 일차결합으로 유일하게 나타내어진다. 만약 근이 복소수 α = r + i s \alpha = r + is α = r + i s 라면, 오일러의 공식 을 이용해
+
+exp ⁡ ( α x ) = exp ⁡ ( r x ) ( cos ⁡ ( s x ) + i sin ⁡ ( s x ) ) \displaystyle \exp(\alpha x) = \exp(rx)(\cos(sx) + i \sin(sx)) exp ( α x ) = exp ( r x ) ( cos ( s x ) + i sin ( s x ))
+로 처리하고, 일차결합에서 복소수 계수를 허용한다.
+
+예를 들어 위에 소개했던 단진자의 운동방정식
+
+m y ′ ′ + k y = 0 \displaystyle m y'' + k y =0 m y ′′ + k y = 0
+의 특성다항식은 m T 2 + k = 0 mT^2 + k = 0 m T 2 + k = 0 이고, w = k / m w = \sqrt{k/m} w = k / m ​ 으로 정의하면 특성다항식은 허수해 i w iw i w , − i w -iw − i w 를 갖는다. 따라서 모든 해는
+
+exp ⁡ ( i w x ) = cos ⁡ ( w x ) + i sin ⁡ ( w x ) exp ⁡ ( − i w x ) = cos ⁡ ( w x ) − i sin ⁡ ( w x ) \displaystyle \begin{aligned} \exp(iwx) &= \cos(wx) + i \sin(wx) \\ \exp(-iwx) &= \cos(wx) - i \sin(wx) \end{aligned} exp ( i w x ) exp ( − i w x ) ​ = cos ( w x ) + i sin ( w x ) = cos ( w x ) − i sin ( w x ) ​
+의 일차결합, 즉 cos ⁡ ( w x ) \cos(wx) cos ( w x ) 와 sin ⁡ ( w x ) \sin(wx) sin ( w x ) 의 일차결합으로 나타내어진다. 삼각함수의 합성을 써서
+
+C 1 cos ⁡ ( w x ) + C 2 sin ⁡ ( w x ) = C sin ⁡ ( w x + ϕ ) \displaystyle C_1 \cos(wx) + C_2 \sin(wx) = C \sin(wx + \phi) C 1 ​ cos ( w x ) + C 2 ​ sin ( w x ) = C sin ( w x + ϕ )
+로 멋들어지게 나타낼 수도 있다.
+
+선형미분방정식에 상수항이 있는 경우, 즉
+
+y ( n ) + c n − 1 y ( n − 1 ) + ⋯ + c 1 y ′ + c 0 y = f ( x ) \displaystyle y^{(n)}+ c_{n-1} y^{(n-1)} + \cdots + c_1 y' + c_0 y= f(x) y ( n ) + c n − 1 ​ y ( n − 1 ) + ⋯ + c 1 ​ y ′ + c 0 ​ y = f ( x )
+꼴의 경우, 이러한 방정식의 해는 (특수해)+(동차해) 꼴로 나타나진다. 여기서 (특수해)란 위 방정식을 만족시키는 특정 해 아무거나, (동차해)란 상수항이 없는 경우, 즉 y ( n ) + c n − 1 y ( n − 1 ) + ⋯ + c 1 y ′ + c 0 y = 0 y^{(n)}+ c_{n-1} y^{(n-1)} + \cdots + c_1 y' + c_0 y= 0 y ( n ) + c n − 1 ​ y ( n − 1 ) + ⋯ + c 1 ​ y ′ + c 0 ​ y = 0 의 해.
+
+2.2.2. 2계 제차 미분방정식 [편집]
+위의 내용은 상당히 포괄적인 설명이고, 각각의 유형별로 미분방정식의 풀이법을 본격적으로 정리해 보자. 가장 기본이 되는 것은 다음과 같은 미분방정식이다. (a와 b는 상수)
+
+y ′ ′ + a y ′ + b y = 0 \displaystyle y'' + a y' + b y =0 y ′′ + a y ′ + b y = 0
+이것을 푸는 가장 기본적인 방법은 해가 y = e r t y = e^{rt} y = e r t 꼴의 해를 가질 것이라 가정하는 것이다. 이것을 위 식에 대입하면 다음을 얻는다.
+
+e r t ( r 2 + a r + b ) = 0 \displaystyle e^{rt}(r^{2} + ar + b) =0 e r t ( r 2 + a r + b ) = 0
+e r t e^{rt} e r t 은 0이 아니므로 결국 다른 인수가 0이어야 한다. 즉
+
+r 2 + a r + b = 0 \displaystyle r^{2} + ar + b =0 r 2 + a r + b = 0
+이라는 이차방정식 을 얻고, 이를 미분방정식 y ′ ′ + a y ′ + b y = 0 \displaystyle y'' + a y' + b y =0 y ′′ + a y ′ + b y = 0 의 고유방정식 (characteristic equation)이라고 부른다.
+만일 고유방정식이 서로 다른 두 실근 r 1 , r 2 \displaystyle r_{1}, r_{2} r 1 ​ , r 2 ​ 를 가질 경우, 간단하게 일반해 y = c 1 e r 1 t + c 2 e r 2 t \displaystyle y = c_{1}e^{r_{1}t}+c_{2}e^{r_{2}t} y = c 1 ​ e r 1 ​ t + c 2 ​ e r 2 ​ t 를 얻는다. 이는 다음의 중첩의 원리(principle of superposition)를 이용하면 곧바로 도출할 수 있다.
+
+2.2.2.1. 중첩의 원리 [편집]
+y 1 , y 2 \displaystyle y_{1}, y_{2} y 1 ​ , y 2 ​ 가 미분방정식
+
+L ( y ) = y ′ ′ + a y ′ + b y = 0 \displaystyle L(y) = y'' + a y' + b y =0 L ( y ) = y ′′ + a y ′ + b y = 0
+의 두 해라면, 임의의 상수 c 1 , c 2 \displaystyle c_{1}, c_{2} c 1 ​ , c 2 ​ 에 대한 일차결합 c 1 y 1 + c 2 y 2 \displaystyle c_{1}y_{1} + c_{2}y_{2} c 1 ​ y 1 ​ + c 2 ​ y 2 ​ 도 해이다.
+
+증명은 선형대수학 지식이 있다면 어렵지 않다. L(y)에 y = c 1 y 1 ( t ) + c 2 y 2 ( t ) \displaystyle y = c_{1}y_{1}(t) + c_{2}y_{2}(t) y = c 1 ​ y 1 ​ ( t ) + c 2 ​ y 2 ​ ( t ) 를 대입하면
+
+L ( c 1 y 1 + c 2 y 2 ) = ( c 1 y 1 + c 2 y 2 ) ′ ′ + p ( c 1 y 1 + c 2 y 2 ) ′ + q ( c 1 y 1 + c 2 y 2 ) \displaystyle L(c_{1}y_{1} + c_{2}y_{2}) = (c_{1}y_{1} + c_{2}y_{2})'' + p(c_{1}y_{1} + c_{2}y_{2})' + q(c_{1}y_{1} + c_{2}y_{2}) L ( c 1 ​ y 1 ​ + c 2 ​ y 2 ​ ) = ( c 1 ​ y 1 ​ + c 2 ​ y 2 ​ ) ′′ + p ( c 1 ​ y 1 ​ + c 2 ​ y 2 ​ ) ′ + q ( c 1 ​ y 1 ​ + c 2 ​ y 2 ​ )
+= ( c 1 y 1 ′ ′ + c 2 y 2 ′ ′ + c 1 p y 1 ′ + c 2 p y 2 ′ + c 1 q y 1 + c 2 q y 2 ) =(\displaystyle c_{1}y_{1}'' + c_{2}y_{2}'' + c_{1}py_{1}' + c_{2}py_{2}' + c_{1}qy_{1} + c_{2}qy_{2}) = ( c 1 ​ y 1 ′′ ​ + c 2 ​ y 2 ′′ ​ + c 1 ​ p y 1 ′ ​ + c 2 ​ p y 2 ′ ​ + c 1 ​ q y 1 ​ + c 2 ​ q y 2 ​ )
+= c 1 L ( y 1 ) + c 2 L ( y 2 ) = \displaystyle c_{1}L(y_{1}) + c_{2}L(y_{2}) = c 1 ​ L ( y 1 ​ ) + c 2 ​ L ( y 2 ​ )
+L ( y 1 ) = L ( y 2 ) = 0 \displaystyle L(y_{1}) = L(y_{2}) = 0 L ( y 1 ​ ) = L ( y 2 ​ ) = 0 이므로 L ( c 1 y 1 + c 2 y 2 ) = 0 \displaystyle L(c_{1}y_{1} + c_{2}y_{2})= 0 L ( c 1 ​ y 1 ​ + c 2 ​ y 2 ​ ) = 0 이다. 즉, c 1 y 1 + c 2 y 2 \displaystyle c_{1}y_{1} + c_{2}y_{2} c 1 ​ y 1 ​ + c 2 ​ y 2 ​ 는 주어진 미분방정식을 만족하므로 증명이 완료되었다.
+
+그러나 이것을 증명하고도 여전히 찜찜한 부분이 있을 수 있다. 과연 c 1 y 1 + c 2 y 2 \displaystyle c_{1}y_{1} + c_{2}y_{2} c 1 ​ y 1 ​ + c 2 ​ y 2 ​ 가 이 미분방정식의 모든 해일까? 다른 해가 존재할 가능성은 없을까?
+
+2.2.2.2. 론스키안 [편집]
+y 1 , y 2 \displaystyle y_{1}, y_{2} y 1 ​ , y 2 ​ 가 미분방정식
+
+L ( y ) = y ′ ′ + a y ′ + b y = 0 \displaystyle L(y) = y'' + a y' + b y =0 L ( y ) = y ′′ + a y ′ + b y = 0
+의 두 해이고, 초기조건 y ( t 0 ) = y 0 , y ′ ( t 0 ) = y 0 ′ \displaystyle y(t_{0}) = y_{0}, y'(t_{0}) = y'_{0} y ( t 0 ​ ) = y 0 ​ , y ′ ( t 0 ​ ) = y 0 ′ ​ 이 주어졌다고 하자. [참고] y = c 1 y 1 + c 2 y 2 \displaystyle y = c_{1}y_{1} + c_{2}y_{2} y = c 1 ​ y 1 ​ + c 2 ​ y 2 ​ 가 위 조건을 만족시킬 수 있는 상수 c 1 , c 2 \displaystyle c_{1}, c_{2} c 1 ​ , c 2 ​ 를 항상 고를 수 있는 필요충분조건은 론스키안(Wronskian)
+
+W = y 1 y 2 ′ − y 2 y 1 ′ \displaystyle W = y_{1}y'_{2} - y_{2}y'_{1} W = y 1 ​ y 2 ′ ​ − y 2 ​ y 1 ′ ​
+이 0이 아닌 것이다.
+
+증명은 다음과 같다. 초기조건을 주어진 미분방정식에 대입하면 연립방정식
+
+c 1 y 1 ( t 0 ) + c 2 y 2 ( t 0 ) = 0 \displaystyle c_{1}y_{1}(t_{0}) + c_{2}y_{2}(t_{0}) = 0 c 1 ​ y 1 ​ ( t 0 ​ ) + c 2 ​ y 2 ​ ( t 0 ​ ) = 0
+c 1 y 1 ′ ( t 0 ) + c 2 y 2 ′ ( t 0 ) = 0 \displaystyle c_{1}y'_{1}(t_{0}) + c_{2}y'_{2}(t_{0}) = 0 c 1 ​ y 1 ′ ​ ( t 0 ​ ) + c 2 ​ y 2 ′ ​ ( t 0 ​ ) = 0
+을 만족시켜야 하고, 이 방정식의 계수행렬은
+W = ( y 1 ( t 0 ) y 1 ′ ( t 0 ) y 2 ( t 0 ) y 2 ′ ( t 0 ) ) \displaystyle W=\begin{pmatrix} y_{1}(t_{0}) & y'_{1}(t_{0}) \\ y_{2}(t_{0}) & y'_{2}(t_{0}) \\ \end{pmatrix} W = ( y 1 ​ ( t 0 ​ ) y 2 ​ ( t 0 ​ ) ​ y 1 ′ ​ ( t 0 ​ ) y 2 ′ ​ ( t 0 ​ ) ​ )
+이다. 연립방정식이 유일한 해를 가질 필요충분조건은 계수행렬의 determinant가 0이 아닌 것이므로, d e t W det W d e t W 가 0이 아니면 위 식을 대수적으로 풀어 c 1 , c 2 \displaystyle c_{1}, c_{2} c 1 ​ , c 2 ​ 를 구할 수 있다. 이때 d e t W = y 1 y 2 ′ − y 2 y 1 ′ det W = y_{1}y'_{2} - y_{2}y'_{1} d e t W = y 1 ​ y 2 ′ ​ − y 2 ​ y 1 ′ ​ 를 론스키안이라고 한다.
+
+따름정리로 아벨 (Abel)의 정리가 있다. - 아벨의 정리: p, q가 어떤 열린 구간에서 연속이고 y 1 , y 2 \displaystyle y_{1}, y_{2} y 1 ​ , y 2 ​ 가
+
+L ( y ) = y ′ ′ + p ( t ) y ′ + q ( t ) y = 0 \displaystyle L(y) = y'' + p(t) y' + q(t) y =0 L ( y ) = y ′′ + p ( t ) y ′ + q ( t ) y = 0
+의 해이면 론스키안 W [ y 1 , y 2 ] = c e − ∫ p ( t ) d t W[y_{1}, y_{2}] = c e^{-\int p(t)dt} W [ y 1 ​ , y 2 ​ ] = c e − ∫ p ( t ) d t 이다. (c는 t와 무관한 상수) 이 때, W [ y 1 , y 2 ] W[y_{1}, y_{2}] W [ y 1 ​ , y 2 ​ ] 는 이 구간 전체에서 0이거나 혹은 항상 0이 아니다.
+
+아벨의 정리는 론스키안을 곱미분하여 W ′ + p ( t ) W = 0 W' + p(t)W = 0 W ′ + p ( t ) W = 0 이 성립함을 보인 뒤, 이에 대한 1계 미분방정식을 풀어 증명할 수 있다. 아벨의 정리에 따라, 한 개의 점에서 론스키안이 0이 아님을 보이면 p가 연속인 모든 t에서 론스키안이 0이 되지 않음, 즉 해가 유일하게 존재함을 보장한다.
+
+요약하면 주어진 2계 선형 제차 미분방정식의 두 해가 y 1 , y 2 \displaystyle y_{1}, y_{2} y 1 ​ , y 2 ​ 일 때, W [ y 1 , y 2 ] W[y_{1}, y_{2}] W [ y 1 ​ , y 2 ​ ] 이 0이 아니면 y = c 1 y 1 + c 2 y 2 \displaystyle y = c_{1}y_{1} + c_{2}y_{2} y = c 1 ​ y 1 ​ + c 2 ​ y 2 ​ 는 이 미분방정식의 모든 해를 나타낸다. 이때 y 1 , y 2 \displaystyle y_{1}, y_{2} y 1 ​ , y 2 ​ 각각을 기본해 , y = c 1 y 1 + c 2 y 2 \displaystyle y = c_{1}y_{1} + c_{2}y_{2} y = c 1 ​ y 1 ​ + c 2 ​ y 2 ​ 를 일반해 라고 부른다. 론스키안이 0이 아니라는 것은 y 1 , y 2 \displaystyle y_{1}, y_{2} y 1 ​ , y 2 ​ 이 일차독립인 것과 동치이다.
+
+론스키안 개념은 n계 미분방정식으로도 확장할 수 있다. 이 경우 n x n 행렬이 되어 계산이 좀 더 귀찮아질 뿐이며, 론스키안이 0이 아닐 경우 고유방정식을 통해 쉽게 해를 구할 수 있다.
+
+2.2.2.3. 고유방정식: 중근 또는 복소수 해를 가질 경우 [편집]
+앞서 상수계수 미분방정식
+
+y ′ ′ + a y ′ + b y = 0 \displaystyle y'' + a y' + b y =0 y ′′ + a y ′ + b y = 0
+로 돌아가 보자. 고유방정식의 두 근 r 1 , r 2 \displaystyle r_{1}, r_{2} r 1 ​ , r 2 ​ 에 대해 y 1 = e r 1 t y_{1} = e^{r_{1}t} y 1 ​ = e r 1 ​ t 과 y 2 = e r 2 t y_{2} = e^{r_{2}t} y 2 ​ = e r 2 ​ t 이 기본해 집합을 이룰(=론스키안이 0이 되지 않을) 필요충분조건은 r 1 ≠ r 2 \displaystyle r_{1} \neq r_{2} r 1 ​  = r 2 ​ 이다. 즉 앞서 살펴본 바와 같이 고유방정식이 서로 다른 두 실근을 가질 경우 일반해 y = c 1 e r 1 t + c 2 e r 2 t \displaystyle y = c_{1}e^{r_{1}t}+c_{2}e^{r_{2}t} y = c 1 ​ e r 1 ​ t + c 2 ​ e r 2 ​ t 를 간단하게 얻을 수 있다.
+만일 고유방정식이 서로 다른 두 허근을 가지더라도 큰 문제가 없는데, y 1 = e r 1 t y_{1} = e^{r_{1}t} y 1 ​ = e r 1 ​ t 과 y 2 = e r 2 t y_{2} = e^{r_{2}t} y 2 ​ = e r 2 ​ t 에서 지수가 허수가 되지만 이는 오일러 공식 e i x = cos ⁡ x + i sin ⁡ x e^{ix}=\cos x+i\sin x e i x = cos x + i sin x 을 이용해서 삼각함수의 일차결합으로 표현할 수 있기 때문이다. 구체적으로 고유방정식의 해가 r 1 = p + q i r_{1} = p+qi r 1 ​ = p + q i 와 r 2 = p − q i r_{2} = p-qi r 2 ​ = p − q i (p, q는 실수)라고 하면, e r 1 t = e p t ( cos ⁡ q t + i sin ⁡ q t ) e^{r_{1}t}=e^{pt}(\cos qt+i\sin qt) e r 1 ​ t = e pt ( cos q t + i sin q t ) , e r 2 t = e p t ( cos ⁡ q t − i sin ⁡ q t ) e^{r_{2}t}=e^{pt}(\cos qt-i\sin qt) e r 2 ​ t = e pt ( cos q t − i sin q t ) 이 기본해가 된다. 이렇게 표현해도 좋지만, 다음 정리를 이용하면 복소수 없이도 기본해 집합을 구할 수 있다. - p와 q가 연속 실함수이고, y = u ( t ) + i v ( t ) \displaystyle y = u(t) + iv(t) y = u ( t ) + i v ( t ) 가 미분방정식
+
+L ( y ) = y ′ ′ + p ( t ) y ′ + q ( t ) y = 0 \displaystyle L(y) = y'' + p(t) y' + q(t) y =0 L ( y ) = y ′′ + p ( t ) y ′ + q ( t ) y = 0
+
+의 해이면, u(t)와 v(t)도 이 방정식의 해이다.
+
+증명은 어떤 복소수가 0일 필요충분조건은 실수부와 허수부가 모두 0이라는 사실을 이용하여 앞서와 유사하게 보일 수 있다.
+
+이 정리에 의해 e r 1 x = e p t ( cos ⁡ q t + i sin ⁡ q t ) e^{r_{1}x}=e^{pt}(\cos qt+i\sin qt) e r 1 ​ x = e pt ( cos q t + i sin q t ) , e r 2 t = e p t ( cos ⁡ q t − i sin ⁡ q t ) e^{r_{2}t}=e^{pt}(\cos qt-i\sin qt) e r 2 ​ t = e pt ( cos q t − i sin q t ) 대신 e p t cos ⁡ q t , e p t sin ⁡ q t e^{pt}\cos qt, e^{pt}\sin qt e pt cos q t , e pt sin q t 라는 더욱 간단한 실변수 해를 구할 수 있다. 이것의 론스키안은 0이 아니므로, 이것은 기본해 집합이 된다.
+
+그러나 만일 중근을 가질 경우에는 위 방법으로 해 1개만 구할 수 있고, 두 번째 해를 구할 방법이 없다. 따라서 이 경우 '미분계수 축소법' 등을 사용하여 두 번째 해를 구한다.
+미분계수 축소법이란, 미분방정식의 한 해 y 1 ( t ) y_{1}(t) y 1 ​ ( t ) 을 알 때 두 번째 해를 v ( t ) y 1 ( t ) v(t)y_{1}(t) v ( t ) y 1 ​ ( t ) 로 놓고 주어진 식에 대입하여 v ( t ) v(t) v ( t ) 를 알아내는 방법이다. 앞서 살펴본 미분방정식
+
+a y ′ ′ + b y ′ + c y = 0 \displaystyle a y'' + b y' + c y =0 a y ′′ + b y ′ + cy = 0
+의 고유방정식이 중근을 가지면, b 2 − 4 a c = 0 b^{2}-4ac = 0 b 2 − 4 a c = 0 이고 한 근이
+
+y 1 ( t ) = e − b t / 2 a \displaystyle y_{1}(t) = e^{-bt/2a} y 1 ​ ( t ) = e − b t /2 a
+임은 쉽게 알 수 있다. 이제 두 번째 근을 y 2 ( t ) = v ( t ) e − b t / 2 a \displaystyle y_{2}(t) = v(t) e^{-bt/2a} y 2 ​ ( t ) = v ( t ) e − b t /2 a 라고 놓으면
+
+y ′ = v ′ ( t ) e − b t / 2 a − b 2 a v ( t ) e − b t / 2 a \displaystyle y' = v'(t)e^{-bt/2a} -\frac {b} {2a} v(t) e^{-bt/2a} y ′ = v ′ ( t ) e − b t /2 a − 2 a b ​ v ( t ) e − b t /2 a
+
+y ′ ′ = v ′ ′ ( t ) e − b t / 2 a − b a v ′ ( t ) e − b t / 2 a + − b 2 4 a 2 v ( t ) e − b t / 2 a \displaystyle y'' = v''(t)e^{-bt/2a} -\frac {b} {a} v'(t) e^{-bt/2a} + -\frac {b^{2}} {4a^{2}} v(t) e^{-bt/2a} y ′′ = v ′′ ( t ) e − b t /2 a − a b ​ v ′ ( t ) e − b t /2 a + − 4 a 2 b 2 ​ v ( t ) e − b t /2 a
+이를 주어진 미분방정식에 대입한 후 e − b t / 2 a \displaystyle e^{-bt/2a} e − b t /2 a 를 소거하면
+
+a v ′ ′ ( t ) + ( − b + b ) v ′ ( t ) + ( b 2 4 a − b 2 2 a + c ) v ( t ) = 0 \displaystyle av''(t) + (-b + b) v'(t) + (\frac {b^{2}} {4a} - \frac {b^{2}} {2a} + c) v(t) = 0 a v ′′ ( t ) + ( − b + b ) v ′ ( t ) + ( 4 a b 2 ​ − 2 a b 2 ​ + c ) v ( t ) = 0
+b 2 − 4 a c = 0 b^{2}-4ac = 0 b 2 − 4 a c = 0 이므로 결론적으로
+
+v ′ ′ ( t ) = 0 \displaystyle v''(t) = 0 v ′′ ( t ) = 0
+을 얻는다.
+
+그러므로 어떤 상수 c 1 c_{1} c 1 ​ , c 2 c_{2} c 2 ​ 에 대해
+
+v ( t ) = c 1 + c 2 t \displaystyle v(t) = c_{1} + c_{2}t v ( t ) = c 1 ​ + c 2 ​ t
+를 얻는다.
+따라서 주어진 미분방정식의 한 해가 y 1 y_{1} y 1 ​ 이라면, 두 번째 해는 y 2 = t y 1 y_{2} = ty_{1} y 2 ​ = t y 1 ​ 이고, 이 두 해의 론스키안은 0이 아니므로 기본해 집합을 이룬다.
+결론적으로, 고유방정식이 중근을 가지는 경우 두 번째 해는 첫 번째 해에 t를 곱하여 간단하게 도출할 수 있다.
+
+2.2.3. 멱급수법 [편집]
+미분방정식의 해 y y y 가 멱급수 y = ∑ n = 0 ∞ a n x n = a 0 + a 1 x + a 2 x 2 + ⋯ \displaystyle y=\sum_{n=0}^{\infty}a_nx^n= a_0 + a_1 x + a_2 x^2 + \cdots y = n = 0 ∑ ∞ ​ a n ​ x n = a 0 ​ + a 1 ​ x + a 2 ​ x 2 + ⋯ 의 꼴로 나타낸다고 가정하고, 미분방정식에 대입한 다음에 계수비교법을 적용해 a i a_{i} a i ​ 를 계산하는 방법이다. 계수를 계산하기 쉬운 선형미분방정식에 많이 쓰인다. 여기서 한 단계 더 나아가서 프로베니우스 방법(Frobenius method)과 같은 것은 베셀 함수 (Bessel function)를 구하는 과정의 필수요소라 할 수 있다. [8] 사실 초등함수로 나타낼 수 없는 온갖 미분방정식의 해를 정의할 때 멱급수법이 정말로 자주 사용되고 있다. 앞서 언급한 베셀 함수를 비롯해, 르장드르 함수 , 초기하 함수, 에르미트 함수, 라게르 함수와 같은 많은 특수함수 들이 미분방정식의 급수해로 정의된다. 이 방법을 이용하면 거의 모든 2계 선형 미분방정식을 풀어낼 수 있다. 거의 모든이라는 단어를 사용한 이유는, 모든 형태의 2계 선형 미분방정식의 정상점, 정칙 특이점에서는 급수해를 구할 수 있지만, 비정칙 특이점에서는 해를 구할 수 없거나 매우 복잡한 고급 미분방정식론을 도입해야 하기 때문이다.
+
+2.2.4. 라플라스 변환 , 푸리에 변환 등의 적분변환 [편집]
+적분변환은 선형 미분연산자를 변환된 공간에서 단순한 계수로 바꿔버리는 강력한 도구이다. 하지만 세상에 공짜는 없는 것이, 어떤 함수의 적분변환이 존재하는 조건이 항상 존재하기 마련이다. 또한 두 함수의 곱을 적분변환하면 상당히 지저분한 꼴이 되며, 마찬가지로 두 적분변환의 곱을 역변환할 시 지저분한 꼴로 표현된다. 이러한 합성함수의 적분변환에 대한 규칙을 보통 합성곱 (convolution)이라 표현한다.
+
+라플라스 변환은 다음과 같은 성질이 있다. L { f ′ ( t ) } = s F ( s ) − f ( 0 ) \mathcal L\{f'(t)\} = sF(s)-f(0) L { f ′ ( t )} = s F ( s ) − f ( 0 ) ( L { f ( x ) } \mathcal L\{f(x)\} L { f ( x )} 는 f ( x ) f(x) f ( x ) 의 라플라스 변환, F ( s ) F(s) F ( s ) 는 그 결과 나온 함수)
+L { f ′ ′ ( t ) } = s 2 F ( s ) − s f ( 0 ) − f ′ ( 0 ) \mathcal L\{f''(t)\} = s^2 F(s)-sf(0)-f'(0) L { f ′′ ( t )} = s 2 F ( s ) − s f ( 0 ) − f ′ ( 0 )
+
+증명 i. 좌변 = ∫ 0 ∞ e − s t f ′ ( t ) d t = [ e − s t f ( t ) ] 0 ∞ + ∫ 0 ∞ s e − s t f ( t ) d t = s F ( s ) − f ( 0 ) \displaystyle \int_{0}^{\infty}e^{-st}f'(t)\,\mathrm{d}t = \left[e^{-st}f(t)\right]_{0}^{\infty} + \int_{0}^{\infty}se^{-st}f(t)\,\mathrm{d}t = sF(s) - f(0) ∫ 0 ∞ ​ e − s t f ′ ( t ) d t = [ e − s t f ( t ) ] 0 ∞ ​ + ∫ 0 ∞ ​ s e − s t f ( t ) d t = s F ( s ) − f ( 0 ) (부분적분)
+
+- L { f ′ ′ ( t ) } = s L { f ′ ( t ) } − f ′ ( 0 ) = s ( s F ( s ) − f ( 0 ) ) − f ′ ( 0 ) = s 2 F ( s ) − s f ( 0 ) − f ′ ( 0 ) \mathcal L\{f''(t)\} = s\mathcal L\{f'(t)\} - f'(0) = s(sF(s)-f(0))-f'(0) = s^2F(s)-sf(0)-f'(0) L { f ′′ ( t )} = s L { f ′ ( t )} − f ′ ( 0 ) = s ( s F ( s ) − f ( 0 )) − f ′ ( 0 ) = s 2 F ( s ) − s f ( 0 ) − f ′ ( 0 )
+
+이 정리를 이용하면 미분방정식이 대수방정식으로 바뀐다!
+
+예를 들어 위에 소개된 스프링 방정식의 경우를 들어 설명한다.
+
+y ′ ′ − k y = 0 y''-ky=0 y ′′ − k y = 0 의 양변을 라플라스 변환하면
+
+s 2 Y ( s ) − k Y ( s ) = s f ( 0 ) + f ′ ( 0 ) Y ( s ) = ( s f ( 0 ) + f ′ ( 0 ) ) / ( s 2 − k ) \displaystyle \begin{aligned} s^2 Y(s) - kY(s) &= sf(0)+f'(0) \\ Y(s) &= (sf(0)+f'(0))/(s^2 - k) \end{aligned} s 2 Y ( s ) − k Y ( s ) Y ( s ) ​ = s f ( 0 ) + f ′ ( 0 ) = ( s f ( 0 ) + f ′ ( 0 )) / ( s 2 − k ) ​
+이제 Y ( s ) Y(s) Y ( s ) 의 라플라스 역변환을 구하면 해가 나온다.
+
+참고로 라플라스 역변환은 공식이나 복소적분을 이용하면 쉽게 구할 수 있다. [9]
+
+이 방법의 단점은 f f f 의 라플라스 변환이 존재하지 않을 경우 무용지물이 된다는 것이다. 라플라스 변환이 존재하기 위한 엄밀한 조건은 다음과 같다. f f f 가 (조각적) 연속이고, ∣ f ( t ) ∣ ≤ M e c t ( ∀ t )|f(t)| \leq Me^{ct} \quad(\forall t) ∣ f ( t ) ∣ ≤ M e c t ( ∀ t ) 를 만족시키는 c c c , M M M 이 존재하면 s > c s>c s > c 일 때 라플라스 변환의 존재가 보장된다.
+
+라플라스 변환 외의 다른 적분변환으로 푸리에 변환 이 있는데, 라플라스 변환과 매우 닮은 꼴이다. f f f 가 x → ± ∞ x → ±∞ x → ± ∞ 이면 f ( x ) → 0 f(x) → 0 f ( x ) → 0 이고 경계가 반무한(semi-infinite) 또는 양쪽 다 무한한 선형 편미분방정식(PDE)을 풀 때 쓰인다.
+
+2.3. 비선형 미분방정식 [편집]
+비선형 미분방정식은 1계 미분방정식만 풀이 방법이 정립되어 있고, 2계 이상부터는 특수한 경우가 아니면 해가 알려져 있지 않다. 여담으로 이 특수한 경우에 속하는 미분방정식중 대표적인 것이 베르누이 미분방정식 이다.
+
+예를 들어 다음과 같은 단진자의 방정식은 모양은 간단하지만 비선형 미분방정식이다.
+
+d 2 θ d t 2 + g l sin ⁡ θ = 0 \displaystyle \frac{\mathrm{d}^2 \theta}{\mathrm{d}t^2} + \frac{g}{l} \sin\theta = 0 d t 2 d 2 θ ​ + l g ​ sin θ = 0 [10] ( g g g 는 중력가속도, l l l 은 진자의 길이)
+
+이 식은 연구가 상당히 많이 진척되어 있어 θ \theta θ 의 해집합이 정확하게 알려져 있다. 자세한 내용은 단진자 문서를 참고할 것. 하지만 이런 경우는 극히 드물다 고 보면 된다. 우리가 중/고등학교에서 배우는 진자는 위 방정식의 정확한 해가 아니라 근사해이다. 정확한 해는 주기는 타원 적분 으로, 시간에 대한 각의 함수는 야코비 타원 함수 로 표현되기 때문에 초등함수로 나타낼 수 없다. 그래서 대학교 물리에서는, θ \theta θ 를 0 0 0 에 근사시켰을 경우 sin ⁡ θ ≈ θ \sin \theta \approx \theta sin θ ≈ θ 라고 표현 가능하다는 점을 전제하고 있다. 이 경우는 최저점을 벗어난 진자가 중력과 실의 장력에 의해서 약간 속도가 느려지면서 처지는 것도 직선이라고 근사시킬 수 있기 때문에 원운동의 일부로 취급할 수 있어져서 계산이 편해지기 때문이다. 줄이 살짝 처지는 것까지 포함이냐 단진자의 주기 공식은 θ \theta θ 를 0 0 0 에 근사시켰을 경우에 유도되는 공식이다.
+
+3. 편미분방정식 [편집]
+偏 微 分 方 程 式 / partial differential equation, PDE
+
+PDE에서는 해의 존재성조차 밝혀내기 어려운 방정식들이 한가득이다! [11] 해석적인 방법으로 해를 구할 수 있는 방정식은 정말 극소수 중의 극소수이다. [12] 이렇다보니 편미분방정식에 대한 연구는 대체로 해 그 자체를 구하는 것보다는 [13] 해의 존재성 및 유일성 을 보이거나 혹은 해의 성질들 [14] 을 탐구하는 쪽에 초점이 맞춰져 있다. 다시 한 번 강조하지만 편미분방정식은 해의 존재성을 밝히는 연구부터 매우 어렵다. 해의 존재성을 밝히거나 성질을 탐구하는 것부터가 이렇게까지 어려운데, 해를 직접 구하는 것은 더 이상 말할 필요가 없을 정도로 어렵다. 당연히 해의 존재성과 성질을 밝혔다고 해도 해를 직접 구하는 과정에 있어서는 겨우 시작일 뿐이다.
+
+표기와 주의사항은 위와 비슷. 단, 미지함수는 u u u , 변수는 x x x , y y y , z z z , t t t , ...로 쓰자.
+
+최악의 문제 유형은 비선형 편미분방정식+고차방정식+연립방정식 [15] 인 경우. 이 경우는 말 그대로 충공깽. 의외로 현실 세계의 현상을 기술하는 방정식 중에도 이런 유형이 꽤 있다.
+
+예시:
+
+BBM 방정식 : u t + u x + u u x − u x x t = 0 u_t+u_x+uu_x-u_{xxt}=0 u t ​ + u x ​ + u u x ​ − u xx t ​ = 0 ,
+KP 방정식 : ( u t + u u x + ϵ 2 u x x x ) x + λ u y y = 0 (u_t+uu_x+\epsilon^2u_{xxx})_x+\lambda u_{yy}=0 ( u t ​ + u u x ​ + ϵ 2 u xxx ​ ) x ​ + λ u y y ​ = 0 ,
+BBM-KP 방정식 [16] : ( u t + u u x + ϵ 2 u x x t ) x + λ u y y = 0 (u_t+uu_x+\epsilon^2u_{xxt})_x+\lambda u_{yy}=0 ( u t ​ + u u x ​ + ϵ 2 u xx t ​ ) x ​ + λ u y y ​ = 0 ,
+Burger's equation : u t + u u x = ν u x x u_t+uu_x=\nu u_{xx} u t ​ + u u x ​ = ν u xx ​ ,
+KdV 방정식 : u t − 6 u u x + u x x x = 0 u_t-6uu_x+u_{xxx}=0 u t ​ − 6 u u x ​ + u xxx ​ = 0 ,
+수정 KdV-B 방정식 : u t − α u 2 u x − β u x x + u x x x = 0 u_t-\alpha u^2u_x-\beta u_{xx}+u_{xxx}=0 u t ​ − α u 2 u x ​ − β u xx ​ + u xxx ​ = 0 ,
+비정규화 KdV-B 방정식 : u t + β u u x + α u x x x = 0 u_t+\beta uu_x+\alpha u_{xxx}=0 u t ​ + β u u x ​ + α u xxx ​ = 0 ,
+비정규화 수정 KdV-B 방정식 : u t + α u 2 u x + u x x x = 0 u_t+\alpha u^2u_x+u_{xxx}=0 u t ​ + α u 2 u x ​ + u xxx ​ = 0 ,
+Dispersionless equation : ( u t + u u x ) x + u y y = 0 (u_t+uu_x)_x+u_{yy}=0 ( u t ​ + u u x ​ ) x ​ + u y y ​ = 0 ,
+ET 방정식 : u x x + x u y y = 0 u_{xx}+xu_{yy}=0 u xx ​ + x u y y ​ = 0 ,
+GT 방정식 : u t u x t − u x u t t + u x x + 1 = 0 u_tu_{xt}-u_xu_{tt}+u_{xx}+1=0 u t ​ u x t ​ − u x ​ u tt ​ + u xx ​ + 1 = 0
+
+3.1. 미분작용소 [편집]
+기초 ODE에서는 그냥 넘어갔던 미분작용소(differential operator)의 개념이 PDE에서는 매우 중요해진다. 미분작용소의 정의는 미지함수와 편도함수로 이루어진 식이고, 이 식이 편도함수의 선형결합 [17] 일 경우 미분작용소를 선형이라고 한다. 모든 PDE는 미분작용소 D D D 에 대해 L u = 0 Lu = 0 Lu = 0 의 꼴로 쓸 수 있고, 유명한 것으로 라플라스 작용소
+
+Δ u = ∇ 2 u = ∇ ⋅ ∇ u = ∑ n = 1 m ∂ 2 u ∂ x n 2 \displaystyle \Delta u = \nabla^{2} u = \nabla \cdot \nabla u = {\sum_{n = 1}^{m}} {\partial^{2}u \over \partial {x_{n}}^{2}} Δ u = ∇ 2 u = ∇ ⋅ ∇ u = n = 1 ∑ m ​ ∂ x n ​ 2 ∂ 2 u ​ [18]
+등이 있다.
+
+이 미분작용소가 선형일 경우가 아주 중요한데, 미분작용소를 선형대수학 에서 나오는 선형사상으로 간주할 수 있기 때문이다. [19] 다만 선형 PDE의 해집합은 대부분의 경우 무한 차원 벡터공간이 되므로, 무한 차원 벡터공간을 연구하는 함수해석학의 이론이 필요하다.
+
+3.2. 존재성과 정규성 [20] [편집]
+상미분방정식의 경우 국소적 해는 항상 존재했지만, 편미분방정식의 경우는 다르다. 국소적 해마저 존재하지 않는 PDE가 있다는 것을 증명할 수 있을 정도. 코시-코발레프스키 정리(Cauchy-Kowalevski theorem)를 이용하면 일계상미방과 비슷한 조건하에서 존재성이 증명되는 경우도 있지만, 일관적 접근은 힘들다. 정규성의 경우 보통 함수의 L p L^p L p 크기( 간단히 말하면 ∣ u ∣ p|u|^p ∣ u ∣ p 의 적분값) 등 여러 가지 노름(norm)을 제한시키는 방식으로 증명한다. 여기서 수없이 많은 적분부등식이 등장하는 것은 덤. [21] 해가 충분히 좋은 경우 [22] 함수의 진폭을 살펴보아 '조금 더 좋은'(횔더 혹은 립쉬츠) 연속성을 보일 수 있다.
+
+다만, 선형인 경우, 위 두 가지는 어느 정도 보장이 된다.
+
+3.3. 대수적 풀이법 [편집]
+편미분방정식에서 먹히는 대수적 풀이법은 그렇게 많지 않다. 유명한 것은 미지함수 u ( x , y , z ) u(x,\,y,\,z) u ( x , y , z ) 를 p ( x ) q ( y ) r ( z ) p(x)q(y)r(z) p ( x ) q ( y ) r ( z ) 꼴의 한 변수에만 의존하는 함수들의 곱으로 두는 변수분리법. 방정식이 선형이라면 이렇게 구한 미지함수들의 무한합으로 모든 해를 구할 수 있는 경우도 있다. 대표적인 예로 일차원 열 방정식(heat equation, 열의 확산에서 나옴)
+
+u t = u x x \displaystyle u_t = u_{xx} u t ​ = u xx ​
+을 제한된 x x x -구간 0 ≤ x ≤ 1 0 \le x \le 1 0 ≤ x ≤ 1 에서 푸는 경우, 변수분리법을 구해 얻은 해 exp ⁡ ( − n 2 t ) sin ⁡ ( n t ) , exp ⁡ ( − n 2 t ) cos ⁡ ( n t ) \exp(-n^2 t) \sin(nt), \exp(-n^2 t) \cos(nt) exp ( − n 2 t ) sin ( n t ) , exp ( − n 2 t ) cos ( n t ) 들의 선형결합이 모든 해가 된다.
+
+특성곡선(characteristic curve)법은 일계 유사선형 편미방
+
+a u x + b u y = c \displaystyle au_x + bu_y = c a u x ​ + b u y ​ = c
+등에서 써먹을 수 있는데( a a a , b b b , c c c 는 u u u , x x x , y y y 에 대한 함수), d F ( u , x , y ) = 0 \mathrm{d}F(u,\,x,\,y) = 0 d F ( u , x , y ) = 0 이 되는 F F F 를 어떻게든 찾아주면 된다.
+
+비슷한 형태인 u x x + u y y = 0 u_{xx} + u_{yy} = 0 u xx ​ + u y y ​ = 0 라플라스 방정식(Laplace equation) [23] 또한 푸리에 급수를 이용하여 일반해를 구할 수 있고 특정 영역에서의 경계값문제의 정확한 해를 구할 수 있다. 또한, 해당 함수는 조화함수로 복소함수의 해석함수(holomorphic function)을 이용하여 구하는 방법도 있다.
+
+3.4. 선형편미분방정식의 기본해(fundamental solution) [편집]
+PDE에서도 적분변환, 특히 푸리에 변환은 매우 큰 위력을 발휘한다. 다만, 푸리에 변환은 빠르게 감소하는 함수가 아니면 적용하기 힘든 난점이 있다. 함수공간의 범위를 더욱 넓힌 분포함수(distribution)는 [24] 디랙 델타함수 같은 대상을 모조리 포함해 버리는 아주 큰 공간이고, 여기서 푸리에 변환을 생각하면 임의의 함수의 푸리에 변환을 생각할 수 있다.
+
+작용소의 계수가 상수일 경우에는, 마치 라플라스 변환을 풀듯이, 푸리에 변환의 위력은 여전히 미분방정식을 산술방정식으로(!) 바꾸어 버릴 수 있다. 이 산술방정식을 풀고 역변환하면, 기본해(fundamental solution)라 불리는 L F = δ ( x ) LF = \delta(x) L F = δ ( x ) 을 만족하는 분포 F F F 를 찾을 수 있는데, ( δ \delta δ 는 디랙델타) 그러면 L u = g Lu = g Lu = g 의 해를 단순히 u = g ∗ F u = g \ast F u = g ∗ F (컨볼루션)로 쓸 수 있다. 물론 어려운 것은 이렇게 구한 해가 과연 (분포함수가 아닌) 진짜 함수인가 하는 것이다.
+
+그리고 계수가 상수일 때만 적용되는 기법이긴 하다. 일반적인 선형에서는 당연히 불가능한 내용. [25]
+
+그나마도 비선형의 경우는 쉽지 않다. 대표적인 비선형 편미분방정식인 나비에-스토크스 방정식 은 아직까지도 일반해가 안 나오고 있다 . 연립방정식이 아니라 1개짜리 식인데도 그렇다.
+
+3.5. 타원형 편미분방정식(Eliptic PDE) 스펙트럼 이론(spectral theory) [편집]
+선형대수학 을 공부했다면 임의의 에르미트 행렬(Hermitian matrix)은 실수 고유값을 갖고, 고유벡터들이 정규직교기저가 된다는 스펙트럼 정리 (spectral theorem)를 알고 있을 것이다. 선형 미분작용소 중 계수들이 특정 성질을 만족하는 elliptic operator들은 대칭행렬과 비슷하게 볼 수 있고, 스펙트럼 이론을 거의 그대로 적용시킬 수 있다. 어찌 보면 푸리에 해석도 이의 한 예.
+
+가장 간단하면서도 대표적인 타원형 방정식으로는 라플라스 방정식 이 있다. [26]
+
+3.6. 물리학에서 다루는 편미분방정식 [편집]
+
+위는 2차원 파동 방정식인 c 2 ( u x x + u y y ) − u t t = 0 {c^2}(u_{xx}+u_{yy}) - u_{tt} = 0 c 2 ( u xx ​ + u y y ​ ) − u tt ​ = 0 , 즉 u t t = c 2 ( u x x + u y y ) = c 2 ∇ 2 u u_{tt} = {c^2}(u_{xx}+u_{yy}) = {c^2}{\nabla^2} u u tt ​ = c 2 ( u xx ​ + u y y ​ ) = c 2 ∇ 2 u 의 해이다.
+
+이 문단에서는 물리학에서 다루는 편미분방정식에 대하여 알아볼 것이다. 여기서는 주로 단순 풀이에 대해서 논하지만 실제로는 다음 3가지를 자주 논한다. - 존재성(existence) 이 편미분방정식의 해가 항상 존재하는가?
+- 유일성(uniqueness) 만약 그렇다면 해는 유일한가?
+- 안정성(stability) 이 해는 안정적인가? [27]
+
+보통 한 가지 조건만으로 이루어진 경우 해가 유일한 경우는 많지 않다. 유일한 해를 만들기 위하서 추가 조건을 주는데 다음을 주로 준다. - 경계 조건(Boundary condition) 편미분방정식을 특정 공간에 한정하였을때 경계에서의 해에 대한 조건을 준다.
+- 초기 조건(Initial condition) 편미분방정식의 해에 대해 시간 t = 0 t = 0 t = 0 일 때의 조건을 준다.
+
+예시로 x와 t를 변수로 하는 함수 u에 대하여 1차원 파동 방정식 c 2 u x x − u t t = 0 {{c^2}u_{xx}} - u_{tt} = 0 c 2 u xx ​ − u tt ​ = 0 은 해가 매우 넓은 범위인 '아무 함수 f , g f, g f , g 에 대해 f ( x − c t ) + g ( x + c t ) f(x-ct)+g(x+ct) f ( x − c t ) + g ( x + c t ) '이지만 u ( x , 0 ) = ϕ ( x ) , u t ( x , 0 ) = ψ ( x ) u(x,0) = \phi(x), u_{t}(x,0) = \psi(x) u ( x , 0 ) = ϕ ( x ) , u t ​ ( x , 0 ) = ψ ( x ) [28] 라는 조건을 주면 해가 유일해진다.
+
+3.6.1. 파동 방정식 [편집]
+1차원 파동 방정식은 다음과 같다. u t t = c 2 u x x u_{tt} = c^2u_{xx} u tt ​ = c 2 u xx ​
+
+여기 초기 조건 u ( x , 0 ) = ϕ ( x ) u(x,0) = \phi(x) u ( x , 0 ) = ϕ ( x ) , u x ( x , 0 ) = ψ ( x ) u_x(x,0) = \psi(x) u x ​ ( x , 0 ) = ψ ( x ) 를 주면 해는 u ( x , t ) = 1 2 [ ϕ ( x + c t ) + ϕ ( x − c t ) \displaystyle u(x, t) = \frac1{2} [\phi(x+ct)+\phi(x-ct) u ( x , t ) = 2 1 ​ [ ϕ ( x + c t ) + ϕ ( x − c t ) ] + 1 2 c ∫ x − c t x + c t ψ ( s ) d s \displaystyle+\frac1{2c} \int_{x-ct}^{x+ct} \psi(s)\,{\rm d}s + 2 c 1 ​ ∫ x − c t x + c t ​ ψ ( s ) d s
+
+3.6.2. 확산 방정식 [편집]
+1차원 확산 방정식은 다음과 같다. u t = k u x x u_t = ku_{xx} u t ​ = k u xx ​
+
+여기 초기 조건 u ( x , 0 ) = ϕ ( x ) u(x,0) = \phi(x) u ( x , 0 ) = ϕ ( x ) 를 주면 해는 u ( x , t ) = 1 4 π k t ∫ − ∞ ∞ e − ( x − y ) 2 / 4 k t ϕ ( y ) d y \displaystyle u(x, t) = \frac1{\sqrt {4\pi kt}} \int_{-\infty}^\infty e^{{-(x-y)^2}/4kt} \phi(y) \,{\rm d}y u ( x , t ) = 4 π k t ​ 1 ​ ∫ − ∞ ∞ ​ e − ( x − y ) 2 /4 k t ϕ ( y ) d y
+
+[1] 단, 초깃값 문제 등에선 값이 정해진다고 생각하자. [2] 이는 d \mathrm{d} d 를 둥글게 변형한 것으로, '파셜', '라운드', '라운드 디' 등으로 읽는다. [3] 전기전자공학(특히 회로이론 )에서는 i i i 가 전류의 기호로 쓰일 수 있어 헷갈리기 때문에 허수단위 기호로 j j j 를 사용한다. 예를 들면 f ( t ) = exp ⁡ ( − j ω t ) f(t) = \exp(-j\omega t) f ( t ) = exp ( − j ω t ) i i i 가 j j j 로 쓰이는 것 빼고 쓰임새는 같다. 이 글을 보면 사원수 /분할 복소수( j 2 = 1 j^{2}= 1 j 2 = 1 , j ≠ 1 j\ne1 j  = 1 )를 쓰면 물음이 생길 수 있는데, 각자 교수에게 물어보도록 하자. 적어도 j j j 를 쓰는 과의 학부 과정에서는 사원수와 분할 복소수가 안 나온다. [4] 즉, 실직선 전체에서 방정식을 만족하는 해의 존재가 보장되는 것이 아니다. y ( 0 ) = 0 , y ′ = ( 1 + y 2 ) y(0) = 0, y' = (1+y^2) y ( 0 ) = 0 , y ′ = ( 1 + y 2 ) 의 해인 y = tan ⁡ ( x ) y = \tan(x) y = tan ( x ) 는 구간 ( − π / 2 , π / 2 ) (-\pi/2, \pi/2) ( − π /2 , π /2 ) 에서만 정의된다. [5] 적분상수를 한 쪽으로 몰아둔 꼴. [6] 정확히 말하자면 해당 상미분방정식을 푸는 것보다도 어려운 경우이다. 저 적분 인자를 구하기 위해서는 편미분 방정식을 풀어야 한다. 앞에서 말했듯이 편미분방정식은 상미분방정식보다도 훨씬 어려운데 여기서 풀어야 하는 편미분방정식은 편미분 방정식들 중에서도 어려운 축에 속한다. 배보다 배꼽이 훨씬 더 큰 셈. [참고] 함수 f가 어떤 구간을 포함하는 직사각형 영역에서 연속미분 가능하면, 그 구간 내에서 초깃값 문제 y'=f(t,y)의 해가 유일하게 존재한다. 이는 n계 미분방정식으로 확장시키더라도 동일한 결론을 얻는다. ( 존재성과 유일성 ) 이것의 증명에 대해서는 Picard iteration 관련 문헌을 참고. [8] 프로베니우스 방법에 대한 자세한 설명은 프로베니우스 방법, 영어주의 , 참고링크1 , 참고링크2 등 참조. [9] 물론 유리함수의 분모의 차수가 커지면 계산량이 만만치 않지만, 미분방정식의 해를 직접 구하는 것보다는 쉬운 경우가 많다. [10] f ′ ′ ( x ) + g ℓ sin ⁡ ( f ( x ) ) = 0 f'' ( x )+\dfrac{g}{\ell}\sin ( f ( x ) )=0 f ′′ ( x ) + ℓ g ​ sin ( f ( x )) = 0 을 만족하는 함수 f ( x ) f ( x ) f ( x ) 를 구하라는 문제이다. [11] 괜히 나비에-스토크스 방정식 이 밀레니엄 문제에 포함된 것이 아니다. [12] 심지어 라플라스 방정식처럼 엄청나게 간단한 방정식도 문제의 정의역이 복잡하면 해석적으로 해를 구할 방법이 없다. [13] 수치해석은 핀트가 약간 다르니 논외로 한다. [14] 예를 들어 연속성 등 [15] 방정식 하나일 때에는 멀쩡히 잘 돌아가는 방법이 연립방정식에서는 적용 불가능한 경우가 매우 많다. [16] 영문 위키백과 KP 방정식 개요란에 소개되어 있다. [17] 1차 연립방정식 을 일컫는다. 다른 데 같으면 지옥으로 여겨지는 연립방정식이 여기서는 천국이 따로 없다(...) [18] 이 형태는 m m m 차원 직교좌표계에서 정의된 형태이다. 일반적인 좌표계에선 더 복잡하게 정의된다. [19] 물론 ODE에서도 이 사고방식은 유효하다. 다만 기초수준에서 배우지 않는 것뿐. [20] regularity, 정칙성이라고도 번역한다. 간단히 말해 미분방정식의 해가 얼마나 '매끄러운지'를 살펴보는 것이다. [21] 보통은 정의역이 유계(bounded)인 경우를 주로 생각한다. 이 경우에는 L p L^p L p 공간들 사이에 포함 관계가 성립한다. [22] 연속만 되어도 운이 좋은 것이다. 각 점에서 함수값을 pointwise하게 정의할 수 있으므로 [23] 해당 형태를 만족하는 함수를 조화함수(harmonic function)라고도 부른다. [24] 간단히 말하면 함수공간의 쌍대공간으로 정의한다. 보통 함수 f f f 는 g ⟼ ∫ f g g \longmapsto \int f g g ⟼ ∫ f g 의 함수, 디랙델타는 g ⟼ g ( 0 ) g \longmapsto g(0) g ⟼ g ( 0 ) 의 함수 이런 식. 통계학에서 등장하는 확률분포와는 직접적인 관련은 없다. [25] 선형 PDE에서 distribution sense로 해가 없는 예는 Hans Lewy가 1957년에 구했다. http://www.jstor.org/stable/1970121 [26] 여기에 시간에 대한 일차미분항이 붙는 경우 열방정식이, 이차미분항이 붙는 경우 파동방정식이 된다. 열방정식과 파동방정식은 각각 포물형(parabolic)과 쌍곡형(hyperbolic) 편미분방정식의 대표적인 예시이다. 편미분방정식을 공부할 때 가장 처음 접하게 되는 것들이며, 이 방정식들에 대해서는 이미 많은 사실들이 알려져 있다. 참고로, 각각의 물리적 의미는 타원형, 포물형, 쌍곡형 순서대로 정적 평형 상태, 확산(diffusion), 전파(propagation)이다. [27] 이 조건은 비록 명확한 기준은 없지만 매우 중요하다. 조건이 약간 바뀌었는데 함수가 너무 많이 변한다면 현실에서 실험 설계가 어렵다. [28] ϕ ( x ) \phi(x) ϕ ( x ) 는 어떤 함수이다. 이 문서의 내용 중 전체 또는 일부는 방정식/풀이 문서의 r22 판, 4번 문단 에서 가져왔습니다. 이전 역사 보러 가기 [ 확실한 지원금! 인터넷가입
+internetsignal.shop v-if
+[ [ 인터넷가입 ] [ 전국최대 ] [ 지원금받기 ] ]
+남동유선방송 비밀지원금지급 고객불만Zero 당일개통! 당일입금! 확실한 요금설계
+
+] | [ 남동유선방송 쿠팡
+www.coupang.com v-if
+[ [ 로켓프레시 ] [ 골드박스 ] [ 로켓직구 ] [ 로켓배송 ] ]
+선명한 음질의 남동유선방송, 쿠팡에서 노이즈 없는 깨끗한 소리를 경험하세요.
+
+] | [ KCTV광주방송 가입,사은품
+cable-tv.co.kr v-if
+남동유선방송 신규가입할인, 결합특가할인, 실시간스포츠, 당일설치.
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

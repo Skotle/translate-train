@@ -1,0 +1,166 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if C*-대수
+최근 수정 시각: 2026-02-18 06:44:03 [ [ [ ] [ [ 1 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 함수해석학
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 정의 2.1 . 대합 2.2 . C*-대수 2.3 . 각종 원소 2.4 . *-준동형사상 2.4.1 . 표현 3 . 예시 4 . 성질 4.1 . 대합과 원소의 성질 4.2 . 스펙트럼의 성질 4.3 . 구조적 성질 4.3.1 . 겔판트-나이마르크 정리 4.3.2 . 겔판트-나이마르크-시걸 정리
+
+1. 개요 [편집]
+C ∗ C^* C ∗ [1] -대수( C ∗ C^* C ∗ -algebra)는 대합 연산을 갖춘 바나흐 대수 로서, 대합의 연산 구조가 바나흐 대수의 위상, 대수적 구조와 호환하는 대수이다. C ∗ C^* C ∗ -대수는 힐베르트 공간 의 유계 작용소 대수에서 추상화된 개념이다. 겔판트-나이마르크-시걸 정리에 따라 C ∗ C^* C ∗ -대수는 어떤 복소 힐베르트 공간의 유계 작용소 대수의 부분 대수와 등거리 동형이다.
+
+2. 정의 [편집]
+
+2.1. 대합 [편집]
+복소 바나흐 대수 A A A 에 대하여 다음을 만족시키는 사상 ∗ : A → A *:A\to A ∗ : A → A 를 대합(involution)이라고 한다. - 모든 a ∈ A a\in A a ∈ A 에 대하여 ( a ∗ ) ∗ = a (a^*)^*=a ( a ∗ ) ∗ = a
+- 모든 a , b ∈ A a,\ b\in A a , b ∈ A 에 대하여 ( a b ) ∗ = b ∗ a ∗ (ab)^*=b^*a^* ( ab ) ∗ = b ∗ a ∗
+- 모든 a , b ∈ A a,\ b\in A a , b ∈ A , α ∈ C \alpha\in\mathbb{C} α ∈ C 에 대하여 ( α a + b ) ∗ = α ˉ a ∗ + b ∗ (\alpha a+b)^*=\bar{\alpha}a^*+b^* ( α a + b ) ∗ = α ˉ a ∗ + b ∗
+
+대합을 갖춘 바나흐 대수 A A A 의 원소 a ∈ A a\in A a ∈ A 에 대하여 a ∗ a^* a ∗ 를 a a a 의 수반(adjoint)라고 한다.
+
+2.2. C*-대수 [편집]
+복소 바나흐 대수 A A A 가 대합 ∗ * ∗ 를 갖추고 모든 원소 a ∈ A a\in A a ∈ A 에 대하여 등식
+∥ a ∗ a ∥ = ∥ a ∥ 2 \|a^* a\|=\|a\|^2 ∥ a ∗ a ∥ = ∥ a ∥ 2 가 성립하면 A A A 를 C ∗ C^* C ∗ -대수라고 한다. 이때 위 조건을 C ∗ C^* C ∗ -조건이라고 한다.
+
+2.3. 각종 원소 [편집]
+C ∗ C^* C ∗ -대수 A A A 의 임의의 원소 a a a 에 대하여 등식 1 A a = a 1 A = a 1_Aa=a1_A=a 1 A ​ a = a 1 A ​ = a 을 만족시키는 원소 1 A ∈ A 1_A\in A 1 A ​ ∈ A 가 존재할 때, 1 A 1_A 1 A ​ 를 A A A 의 단위원(unit)이라고 한다. 바나흐 대수와 마찬가지로 C ∗ C^* C ∗ -대수의 정의에서 곱셈 단위원의 존재는 필수가 아니며, 단위원이 없는 C ∗ C^* C ∗ -대수는 자연스러운 단위 대수화가 가능하다.
+
+C ∗ C^* C ∗ -대수에서 복소 힐베르트 공간의 유계 작용소 대수에서 정의된 각종 원소의 정의가 유지된다. C ∗ C^* C ∗ -대수 A A A 의 원소 a a a 에 대하여 - a ∗ = a a^*=a a ∗ = a 이면 a a a 를 자기수반(self-adjoint) 또는 에르미트(hermitian)이라고 한다. C ∗ C^* C ∗ -대수 A A A 의 모든 에르미트 원소의 집합을 Re ⁡ A \operatorname{Re}A Re A 로 나타낸다.
+- a ∗ a = a ∗ a a^*a=a^*a a ∗ a = a ∗ a 이면 a a a 를 정규(normal)이라고 한다.
+- A A A 가 단위 C ∗ C^* C ∗ -대수일 때, a ∗ a = a a ∗ = 1 a^*a=aa^*=1 a ∗ a = a a ∗ = 1 이면 a a a 를 유니터리(unitary)라고 한다.
+- a ∈ Re ⁡ A a\in\operatorname{Re}A a ∈ Re A 이고 S p ( a ) ⊆ [ 0 , ∞ ) Sp(a)\subseteq[0,\ \infty) S p ( a ) ⊆ [ 0 , ∞ ) 인 a a a 를 양(positive)이라 하고 a ≥ 0 a\ge0 a ≥ 0 으로 나타낸다.
+- 에르미트 멱등원, 즉 a ∗ = a , a 2 = a a^*=a, a^2=a a ∗ = a , a 2 = a 이면 a a a 를 사영(projection)이라 한다.
+
+2.4. *-준동형사상 [편집]
+두 C ∗ C^* C ∗ -대수 A , B A,\ B A , B 에 대하여 대수 준동형사상 h : A → B h:A\to B h : A → B 가 임의의 a ∈ A a\in A a ∈ A 에 대하여 h ( a ∗ ) = h ( a ) ∗ h(a^*)=h(a)^* h ( a ∗ ) = h ( a ) ∗ 를 만족시키면 h h h 를 ∗ * ∗ -준동형사상이라고 한다.
+
+2.4.1. 표현 [편집]
+C ∗ C^* C ∗ -대수 A A A 에서 어떤 힐베르트 공간 H H H 의 유계 작용소 대수 B ( H ) B(H) B ( H ) 로의 ∗ * ∗ -준동형사상 π : A → B ( H ) \pi:A\to B(H) π : A → B ( H ) 에 대하여 ( π , H ) (\pi,\ H) ( π , H ) 를 A A A 의 표현이라고 한다. π ( A ) e \pi(A)e π ( A ) e 가 H H H 에서 조밀하도록 하는 H H H 의 벡터 e e e 가 존재할 때, e e e 를 표현 π \pi π 의 순환벡터라고 하며, 순환벡터를 갖는 표현을 순환표현이라고 한다.
+
+C ∗ C^* C ∗ -대수 A A A 의 두 표현 ( π 1 , H 1 ) (\pi_1,\ H_1) ( π 1 ​ , H 1 ​ ) , ( π 2 , H 2 ) (\pi_2,\ H_2) ( π 2 ​ , H 2 ​ ) 에 대하여 다음을 만족시키는 유니터리 작용소 u : H 1 → H 2 u: H_1\to H_2 u : H 1 ​ → H 2 ​ 가 존재하면 두 표현은 유니터리 동치라고 한다.
+u π 1 ( a ) = π 2 ( a ) u ∀ a ∈ A u\pi_1(a)=\pi_2(a)u\quad\forall a\in A u π 1 ​ ( a ) = π 2 ​ ( a ) u ∀ a ∈ A 유니터리 동치인 두 표현 ( π 1 , H 1 ) (\pi_1,\ H_1) ( π 1 ​ , H 1 ​ ) , ( π 2 , H 2 ) (\pi_2,\ H_2) ( π 2 ​ , H 2 ​ ) 을 ( π 1 , H 1 ) ∼ u ( π 2 , H 2 ) (\pi_1,\ H_1)\sim_u(\pi_2,\ H_2) ( π 1 ​ , H 1 ​ ) ∼ u ​ ( π 2 ​ , H 2 ​ ) 또는 π 1 ∼ u π 2 \pi_1\sim_u\pi_2 π 1 ​ ∼ u ​ π 2 ​ 로 나타낸다.
+
+3. 예시 [편집]
+- 복소수체 C \mathbb{C} C 는 켤레를 대합으로 갖는 C ∗ C^* C ∗ -대수이다.
+- 복소 힐베르트 공간 H H H 에 대하여 유계 작용소 대수 B ( H ) B(H) B ( H ) 는 수반을 대합으로 갖는 C ∗ C^* C ∗ -대수이다.
+- 컴팩트 하우스도르프 공간 X X X 의 연속 복소함수 공간 C ( X ) C(X) C ( X ) 는 점별 켤레를 대합으로 갖는 C ∗ C^* C ∗ -대수이다.
+
+4. 성질 [편집]
+
+4.1. 대합과 원소의 성질 [편집]
+C ∗ C^* C ∗ -대수 A A A 의 원소 a a a 에 대하여 ∥ a ∥ = ∥ a ∗ ∥ \|a\|=\|a^*\| ∥ a ∥ = ∥ a ∗ ∥ 이다. 즉, C ∗ C^* C ∗ -대수의 원소의 수반의 크기는 원래의 원소의 크기와 같다. 증명
+A A A 는 바나흐 대수이므로 C ∗ C^* C ∗ -조건에 바나흐 대수의 노름 부등식을 적용하면 ∥ a ∥ 2 = ∥ a ∗ a ∥ ≤ ∥ a ∗ ∥ ∥ a ∥ \|a\|^2=\|a^* a\|\le\|a^*\|\|a\| ∥ a ∥ 2 = ∥ a ∗ a ∥ ≤ ∥ a ∗ ∥∥ a ∥ 로, ∥ a ∥ ≤ ∥ a ∗ ∥ \|a\|\le \|a^*\| ∥ a ∥ ≤ ∥ a ∗ ∥ 이다. 반대로 등식 ∥ a ∗ ∥ 2 = ∥ a a ∗ ∥ \|a^*\|^2=\|aa^*\| ∥ a ∗ ∥ 2 = ∥ a a ∗ ∥ 에 같은 방법을 적용하면 ∥ a ∗ ∥ ≤ ∥ a ∥ \|a^*\|\le\|a\| ∥ a ∗ ∥ ≤ ∥ a ∥ 이다. 따라서 ∥ a ∗ ∥ = ∥ a ∥ \|a^*\|=\|a\| ∥ a ∗ ∥ = ∥ a ∥ 이다.
+
+4.2. 스펙트럼의 성질 [편집]
+단위 C ∗ C^* C ∗ -대수 A A A 의 자기수반 원소 a a a 에 대하여 다음이 성립한다. - ∥ a ∥ = r ( a ) \|a\|=r(a) ∥ a ∥ = r ( a )
+- σ A ( a ) ⊂ R \sigma_A (a)\subset\mathbb{R} σ A ​ ( a ) ⊂ R
+
+증명
+a. a = a ∗ a=a^* a = a ∗ 이므로 ∥ a 2 ∥ = ∥ a a ∗ ∥ = ∥ a ∥ 2 \|a^2\|=\|aa^*\|=\|a\|^2 ∥ a 2 ∥ = ∥ a a ∗ ∥ = ∥ a ∥ 2 이다. 따라서 임의의 양의 정수 k k k 에 대하여 ∥ a 2 k ∥ = ∥ a ∥ 2 k \|a^{2^k}\|=\|a\|^{2^k} ∥ a 2 k ∥ = ∥ a ∥ 2 k 이다. 이때
+r ( a ) = lim ⁡ n → ∞ ∥ a n ∥ 1 / n = lim ⁡ k → ∞ ∥ a 2 k ∥ 2 − k \displaystyle r(a)=\lim_{n\to\infty}\|a^n\|^{1/n}=\lim_{k\to\infty}\|a^{2^k}\|^{2^{-k}} r ( a ) = n → ∞ lim ​ ∥ a n ∥ 1/ n = k → ∞ lim ​ ∥ a 2 k ∥ 2 − k 이므로 r ( a ) = ∥ a ∥ r(a)=\|a\| r ( a ) = ∥ a ∥ 이다.
+b. a a a 로 생성된 C ∗ C^* C ∗ -대수를 A ( a ) A(a) A ( a ) 라 하자. 실수 t ∈ R t\in\mathbb{R} t ∈ R 에 대하여 u t = ∑ n = 0 ∞ ( i t ) n n ! a n u_t=\sum_{n=0}^\infty \frac{(it)^n}{n!}a^n u t ​ = ∑ n = 0 ∞ ​ n ! ( i t ) n ​ a n 이라 하면 C ∗ C^* C ∗ -대수는 완비이고 u t u_t u t ​ 는 절대수렴하므로 u t u_t u t ​ 는 A ( a ) A(a) A ( a ) 에서 수렴한다. 대합 ∗ * ∗ 는 연속사상이므로
+u t ∗ = lim ⁡ n → ∞ ( ∑ k = 0 n ( i t ) k k ! a k ) ∗ = lim ⁡ n → ∞ ∑ k = 0 n ( − i t ) k k ! a k = u − t \displaystyle\begin{aligned} u_t^*&=\lim_{n\to\infty}\left(\sum_{k=0}^n\frac{(it)^k}{k!}a^k \right)^*\\ &=\lim_{n\to\infty}\sum_{k=0}^n\frac{(-it)^k}{k!}a^k\\ &=u_{-t} \end{aligned} u t ∗ ​ ​ = n → ∞ lim ​ ( k = 0 ∑ n ​ k ! ( i t ) k ​ a k ) ∗ = n → ∞ lim ​ k = 0 ∑ n ​ k ! ( − i t ) k ​ a k = u − t ​ ​ 이다. 따라서 u t ∗ u t = u − t u t = u 0 = 1 A u_t^*u_t=u_{-t}u_t=u_0=1_A u t ∗ ​ u t ​ = u − t ​ u t ​ = u 0 ​ = 1 A ​ 에서 1 = ∥ u t ∗ u t ∥ = ∥ u t ∥ 2 1=\|u_t^*u_t\|=\|u_t\|^2 1 = ∥ u t ∗ ​ u t ​ ∥ = ∥ u t ​ ∥ 2 으로, ∥ u t ∥ = 1 \|u_t\|=1 ∥ u t ​ ∥ = 1 이다.
+복소 준동형사상 l ∈ M A ( a ) l\in M_{A(a)} l ∈ M A ( a ) ​ 은 연속이므로
+l ( u t ) = l ( ∑ n = 0 ∞ ( i t ) n n ! a n ) = ∑ n = 0 ∞ ( i t ) n n ! l ( a ) n = e i t l ( a ) \displaystyle\begin{aligned} l(u_t)&=l\left(\sum_{n=0}^\infty\frac{(it)^n}{n!}a^n \right)\\ &=\sum_{n=0}^\infty\frac{(it)^n}{n!}l(a)^n\\ &=e^{itl(a)} \end{aligned} l ( u t ​ ) ​ = l ( n = 0 ∑ ∞ ​ n ! ( i t ) n ​ a n ) = n = 0 ∑ ∞ ​ n ! ( i t ) n ​ l ( a ) n = e i tl ( a ) ​ 이다. ∥ l ∥ = 1 \|l\|=1 ∥ l ∥ = 1 이므로 ∣ l ( u t ) ∣ ≤ ∥ u t ∥ = 1|l(u_t)|\le\|u_t\|=1 ∣ l ( u t ​ ) ∣ ≤ ∥ u t ​ ∥ = 1 이고 따라서 모든 실수 t t t 에 대하여 ∣ e i t l ( a ) ∣ ≤ 1|e^{itl(a)}|\le 1 ∣ e i tl ( a ) ∣ ≤ 1 이다. 즉, l ( a ) l(a) l ( a ) 는 실수이고 a a a 의 겔판트 변환 a ^ \hat{a} a ^ 은 M A ( a ) M_{A(a)} M A ( a ) ​ 위의 실숫값 함수이다. σ A ( a ) ( a ) = ran ⁡ a ^ ⊂ R \sigma_{A(a)}(a)=\operatorname{ran}\hat{a}\subset\mathbb{R} σ A ( a ) ​ ( a ) = ran a ^ ⊂ R 이고 A ( a ) ⊆ A A(a)\subseteq A A ( a ) ⊆ A 에서 σ A ( a ) ⊆ σ A ( a ) ( a ) \sigma_A(a)\subseteq\sigma_{A(a)}(a) σ A ​ ( a ) ⊆ σ A ( a ) ​ ( a ) 이므로 σ A ( a ) ⊂ R \sigma_A(a)\subset\mathbb{R} σ A ​ ( a ) ⊂ R 이다.
+
+이 성질로부터 C ∗ C^* C ∗ -대수의 노름의 유일성이 유도된다. 즉, 어떤 ∗ * ∗ -대수가 C ∗ C^* C ∗ -대수가 되도록 하는 노름이 존재하면 그 노름은 유일하다.
+
+4.3. 구조적 성질 [편집]
+
+4.3.1. 겔판트-나이마르크 정리 [편집]
+가환 단위 바나흐 대수 A A A 는 A A A 의 스펙트럼(극대 아이디얼 공간) A ^ \hat{A} A ^ 위의 연속함수 대수 C ( A ^ ) C(\hat{A}) C ( A ^ ) 와 대수 준동형이다. 가환 단위 바나흐 대수와 연속함수 대수 사이의 준동형 사상을 겔판트 변환이라고 한다. 겔판트 변환의 등거리성 또는 동형성은 일반적으로 보장되지 않으나 가환 단위 C ∗ C^* C ∗ -대수의 겔판트 변환은 등거리 ∗ * ∗ -동형사상이다. 증명
+겔판트 표현의 노름은 1 1 1 이므로 모든 a ∈ A a\in A a ∈ A 에 대하여 ∥ a ^ ∥ ∞ ≤ ∥ a ∥ \|\hat{a}\|_\infty\le \|a\| ∥ a ^ ∥ ∞ ​ ≤ ∥ a ∥ 이다. ∥ a ^ ∥ ∞ = r ( a ) \|\hat{a}\|_\infty=r(a) ∥ a ^ ∥ ∞ ​ = r ( a ) 이므로 a a a 가 에르미트 원소이면 ∥ a ∥ = ∥ a ^ ∥ ∞ \|a\|=\|\hat{a}\|_\infty ∥ a ∥ = ∥ a ^ ∥ ∞ ​ 이다. a ∈ A a\in A a ∈ A 와 χ ∈ A ^ \chi \in \hat{A} χ ∈ A ^ 에 대하여 a ∗ ( χ ) = χ ( a ∗ ) = χ ( a ) ‾ = a ^ ( χ ) ‾ a^*(\chi)=\chi(a^*)=\overline{\chi(a)}=\overline{\hat{a}(\chi)} a ∗ ( χ ) = χ ( a ∗ ) = χ ( a ) ​ = a ^ ( χ ) ​ 이므로 a ∗ ^ = a ^ ‾ \hat{a^*}=\overline{\hat{a}} a ∗ ^ = a ^ 이다. C ( A ^ ) C(\hat{A}) C ( A ^ ) 의 대합은 복소 켤레로 정의되므로 이는 겔판트 변환이 ∗ * ∗ -준동형사상임을 뜻한다.
+
+임의의 a ∈ A a\in A a ∈ A 에 대하여 a a ∗ aa^* a a ∗ 는 에르미트 원소이므로 ∥ a ∥ 2 = ∥ a ∗ a ∥ = ∥ a ∗ a ^ ∥ ∞ = ∥ ∣ ( a ^ ) ∣ 2 ∥ ∞ = ∥ a ^ ∥ 2 ∞ \|a\|^2=\|a^* a\|=\|\widehat{a^*a}\|_\infty=\|| (\hat{a})|^2\|_\infty=\|\hat{a}\|^2\infty ∥ a ∥ 2 = ∥ a ∗ a ∥ = ∥ a ∗ a ∥ ∞ ​ = ∥∣ ( a ^ ) ∣ 2 ∥ ∞ ​ = ∥ a ^ ∥ 2 ∞ 이다. 즉, ∥ a ∥ = ∥ a ^ ∥ ∞ \|a\|=\|\hat{a}\|_\infty ∥ a ∥ = ∥ a ^ ∥ ∞ ​ 로 겔판트 변환은 등거리 변환이다. 이때 등거리 변환은 단사이므로 겔판트 변환은 단사이다.
+
+등거리 변환의 상은 닫혀있으므로 겔판트 변환의 전사성을 밝히기 위해 겔판트 변환 Γ : A → C ( A ^ ) \Gamma:A\to C(\hat{A}) Γ : A → C ( A ^ ) 의 상 Γ ( A ) \Gamma(A) Γ ( A ) 가 조밀함을 보인다. 1 ^ = 1 \hat{1}=1 1 ^ = 1 이므로 Γ ( A ) \Gamma(A) Γ ( A ) 는 C ( A ^ ) C(\hat{A}) C ( A ^ ) 의 단위 부분대수이다. 또한 Γ \Gamma Γ 는 대합을 보존하므로 Γ ( A ) \Gamma(A) Γ ( A ) 는 복소 켤레에 닫혀있다. 각 χ 1 , χ 2 ∈ Γ ( A ) \chi_1,\chi_2 \in \Gamma(A) χ 1 ​ , χ 2 ​ ∈ Γ ( A ) 가 서로 다르면 χ 1 ( a ) ≠ χ 2 ( a ) \chi_1(a)\ne \chi_2(a) χ 1 ​ ( a )  = χ 2 ​ ( a ) 인 a ∈ A a\in A a ∈ A 가 존재하고 이는 a ^ ( χ 1 ) ≠ a ^ ( χ 2 ) \hat{a}(\chi_1)\ne \hat{a}(\chi_2) a ^ ( χ 1 ​ )  = a ^ ( χ 2 ​ ) 를 의미하므로 Γ ( A ) \Gamma(A) Γ ( A ) 는 C ( A ^ ) C(\hat{A}) C ( A ^ ) 의 분리 부분집합이다. 따라서 스톤-바이어슈트라스 정리에 의해 겔판트 변환 Γ \Gamma Γ 는 조밀하다.
+
+따라서 겔판트 변환은 등거리 전사 ∗ * ∗ -준동형사상, 즉 등거리 ∗ * ∗ -동형사상이다.
+
+겔판트-나이마르크 정리를 통해 (국소적)컴팩트 하우스도르프 공간 범주 와 (단위)가환 C ∗ C^* C ∗ -대수 범주가 반변 동치 임을 보일 수 있다. 즉, 컴팩트 하우스도르프 공간 범주 C o m p H a u s \bf\rm CompHaus CompHaus 와 단위 가환 C ∗ C^* C ∗ -대수 범주 C o m m C ∗ A l g 1 \bf\rm CommC^* Alg_1 Comm C ∗ Al g 1 ​ 에 대하여
+C o m p H a u s ≃ ( C o m m C ∗ A l g 1 ) o p \bf\rm CompHaus\simeq (CommC^* Alg_1)^{op} CompHaus ≃ ( Comm C ∗ Al g 1 ​ ) op 이다. 이는 컴팩트 하우스도르프 공간의 기하학은 단위 가환 C ∗ C^* C ∗ -대수의 언어로 설명할 수 있음을 의미하며, 일반적인 비가환 C ∗ C^* C ∗ -대수를 어떤 비가환 공간의 함수 대수로 보는 비가환 기하학의 동기가 됐다.
+증명
+두 반변 함자
+C : C o m p H a u s → C o m m C ∗ A l g 1 , C:\bf\rm CompHaus\to CommC^* Alg_1 , C : CompHaus → Comm C ∗ Al g 1 ​ ,
+^ : C o m m C ∗ A l g 1 → C o m p H a u s \hat{\ }:\bf\rm CommC^* Alg_1\to CompHaus ^ : Comm C ∗ Al g 1 ​ → CompHaus 를 다음과 같이 정의하자. - 컴팩트 하우스도르프 공간 X X X 에 대하여 C ( X ) C(X) C ( X ) 는 X X X 위의 연속 복소함수의 대수이고 연속 사상 f : X → Y f:X \to Y f : X → Y 에 대하여 C ( f ) C(f) C ( f ) 는 f ∗ : C ( Y ) → C ( X ) , f ∗ ( g ) = g ∘ f f^*:C(Y)\to C(X), f^*(g)=g\circ f f ∗ : C ( Y ) → C ( X ) , f ∗ ( g ) = g ∘ f , 즉 f f f 의 당김 이다.
+- 단위 가환 C ∗ C^* C ∗ -대수 A A A 에 대하여 A ^ \hat{A} A ^ 는 A A A 의 스펙트럼(극대 아이디얼 공간)이며 C ∗ C^* C ∗ -동형사상 f : A → B f:A\to B f : A → B 에 대하여 f ^ \hat{f} f ^ ​ 는 f ^ : B ^ → A ^ , f ^ ( χ ) = χ ∘ f \hat{f}:\hat{B}\to\hat{A}, \hat{f}(\chi)=\chi\circ f f ^ ​ : B ^ → A ^ , f ^ ​ ( χ ) = χ ∘ f 이다.
+
+X X X 에서 C ( X ) ^ \widehat{C(X)} C ( X ) ​ 로의 값 매김 α X \alpha_X α X ​ 는 위상동형사상이고, 각 연속함수 f : X → Y f:X\to Y f : X → Y 에 대하여
+( α Y ∘ 1 C o m p H a u s ) ( f ) ( x ) = χ f ( x ) , ( ( ^ ∘ C ) ∘ α X ) ( x ) = f ∗ ^ ( χ x ) = χ x ∘ f ∗ (\alpha_Y \circ 1_{\rm CompHaus})(f)(x)=\chi_{f(x)},\\((\hat{\ }\circ C)\circ\alpha_X)(x)=\widehat{f^*}(\chi_x)=\chi_x \circ f^* ( α Y ​ ∘ 1 CompHaus ​ ) ( f ) ( x ) = χ f ( x ) ​ , (( ^ ∘ C ) ∘ α X ​ ) ( x ) = f ∗ ​ ( χ x ​ ) = χ x ​ ∘ f ∗ 이다. 이때 임의의 g ∈ C ( Y ) g \in C(Y) g ∈ C ( Y ) 에 대하여 χ f ( x ) ( g ) = g ( f ( x ) ) \chi_{f(x)}(g)=g(f(x)) χ f ( x ) ​ ( g ) = g ( f ( x )) , ( χ x ∘ f ∗ ) ( g ) = χ x ( g ∘ f ) = ( g ∘ f ) ( x ) = g ( f ( x ) ) (\chi_x \circ f^*)(g)=\chi_x(g\circ f)=(g\circ f)(x)=g(f(x)) ( χ x ​ ∘ f ∗ ) ( g ) = χ x ​ ( g ∘ f ) = ( g ∘ f ) ( x ) = g ( f ( x )) 이므로 ^ ∘ C \hat{\ }\circ C ^ ∘ C 는 1 C o m p H a u s 1_{\rm CompHaus} 1 CompHaus ​ 과 동치이다.
+
+겔판트-나이마르크 정리에 의해 겔판트 변환 Γ A \Gamma_A Γ A ​ 는 C ∗ C^* C ∗ -동형사상이고 각 C ∗ C^* C ∗ -대수 준동형사상 f : A → B f:A\to B f : A → B 에 대하여
+( Γ B ∘ 1 C o m m C ∗ A l g 1 f ) ( a ) = f ( a ) ^ , ( C ( f ^ ) ∘ Γ A ) ( a ) = C ( f ^ ) ( a ^ ) = a ^ ∘ f ^ (\Gamma_B\circ 1_{\rm CommC^*Alg_1}f)(a)=\widehat{f(a)},\\ (C(\hat{f})\circ\Gamma_A)(a)=C(\hat{f})(\hat{a})=\hat{a}\circ\hat{f} ( Γ B ​ ∘ 1 Comm C ∗ Al g 1 ​ ​ f ) ( a ) = f ( a ) ​ , ( C ( f ^ ​ ) ∘ Γ A ​ ) ( a ) = C ( f ^ ​ ) ( a ^ ) = a ^ ∘ f ^ ​ 이다. 이때 임의의 χ ∈ B ^ \chi \in \hat{B} χ ∈ B ^ 에 대하여
+( a ^ ∘ f ^ ) ( χ ) = a ^ ( f ^ ( χ ) ) = a ^ ( χ ∘ f ) = ( χ ∘ f ) ( a ) = χ ( f ( a ) ) = f ( a ) ^ ( χ ) \begin{aligned}(\hat{a}\circ\hat{f})(\chi)&=\hat{a}(\hat{f}(\chi))=\hat{a}(\chi\circ f)\\ &=(\chi\circ f)(a)=\chi(f(a))\\ &=\widehat{f(a)}(\chi)\end{aligned} ( a ^ ∘ f ^ ​ ) ( χ ) ​ = a ^ ( f ^ ​ ( χ )) = a ^ ( χ ∘ f ) = ( χ ∘ f ) ( a ) = χ ( f ( a )) = f ( a ) ​ ( χ ) ​ 이므로 C ∘ ^ C\circ\hat{\ } C ∘ ^ 는 1 C o m m C ∗ A l g 1 1_{\rm CommC^*Alg_1} 1 Comm C ∗ Al g 1 ​ ​ 와 동치이다.
+
+4.3.2. 겔판트-나이마르크-시걸 정리 [편집]
+C ∗ C^* C ∗ -대수는 어떤 힐베르트 공간 H H H 의 유계 작용소 대수 B ( H ) \mathcal{B}(H) B ( H ) 의 부분 C ∗ C^* C ∗ -대수와 동형이다. [ 남동구알바 쿠팡
+www.coupang.com v-if
+[ [ 로켓배송 ] [ 로켓직구 ] [ 골드박스 ] [ 로켓프레시 ] ]
+흥미진진한 남동구알바, 밤새도록 읽는 재미에 빠져보세요.
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 인천논현동 맛집 소문난껍데기
+map.naver.com/p/entry/place/1943388597 v-if
+여기 껍데기 안 먹어봤다는 건 인생의 반을 손해 본 거예요! 동네 맛집의 자부심!
+
+]
+
+[1] '시스타'라고 읽는다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

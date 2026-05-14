@@ -1,0 +1,183 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 평균값 정리
+최근 수정 시각: 2026-05-01 04:57:32 [ [ [ ] [ [ 9 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ [ 적분의 평균값 정리 에서 넘어옴 ] 분류 [ - 해석학(수학)
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 설명 2.1 . 고등학교 버전 2.2 . 코시의 평균값 정리 3 . 활용 3.1 . 함수의 증감 3.2 . 로피탈의 정리 3.3 . 미분가능성 3.4 . 적분의 평균값 정리 3.5 . 가우스의 평균값 정리 3.6 . 기타 영역 4 . 고등학교 교육과정 5 . 관련 문서
+
+1. 개요 [편집]
+平 均 値 定 理 / m ean v alue t heorem, MVT [1]
+
+미분 가능한 함수 에 관한 정리로, 라이프니츠 가 최초로 고안했고 이후의 학자들에 의해 여러 바리에이션과 마개조를 거친 이론들이 꽃을 피우게 된다. 한국에선 고등학교 수학 II 를 배울 때 기본적인 평균변화율의 개념을 처음 접하게 된다.
+
+2. 설명 [편집]
+
+2.1. 고등학교 버전 [편집]
+고등학교에서 배우는 평균값의 정리는 다음과 같다. 함수 f ( x ) f(x) f ( x ) 가 닫힌 구간 [ a , b ] [a, b] [ a , b ] 에서 연속이고 열린 구간 ( a , b ) (a, b) ( a , b ) 에서 미분가능하면, f ( b ) − f ( a ) b − a = f ′ ( c ) \cfrac{f(b)-f(a)}{b-a} = f'(c) b − a f ( b ) − f ( a ) ​ = f ′ ( c ) 인 c c c 가 ( a , b ) (a, b) ( a , b ) 에 적어도 하나 존재한다.
+
+기하학적으로 해석하면, 두 점 A ( a , f ( a ) ) A(a, f(a)) A ( a , f ( a )) , B ( b , f ( b ) ) B(b, f(b)) B ( b , f ( b )) 를 연결하는 직선과 평행한 접선이 구간 ( a , b ) (a, b) ( a , b ) 안에 적어도 하나 존재한다는 뜻이다. 만약 f ( a ) = f ( b ) f(a) = f(b) f ( a ) = f ( b ) 이면 롤의 정리 가 성립한다. 즉, 평균값의 정리는 롤의 정리 의 일반화라고 할 수 있다.
+
+이 정리 덕에 부정적분값에 상수만 붙이는 게 정당화된다. 즉, F ′ ( x ) = f ( x ) F'(x) = f(x) F ′ ( x ) = f ( x ) 일 때 미분하여 f ( x ) f(x) f ( x ) 가 되는 함수는 F ( x ) + C F(x)+C F ( x ) + C 꼴 뿐이다 .
+
+미적분의 기본정리 를 접하기 전 단계에서는 미분에서 가장 중요한 근간이 되는 정리이다. 미분 문제, 특히 접선을 이용한 방정식과 부등식류의 문제를 풀다가 잘 모르겠을 때는 평균값 정리를 적용하면 쉽게 풀리는 경우가 대부분이다.
+증명
+점 ( a , f ( a ) ) \left(a,f(a)\right) ( a , f ( a ) ) 와 점 ( b , f ( b ) ) \left(b,f(b)\right) ( b , f ( b ) ) 를 지나는 직선의 방정식을 y = l ( x ) y=l(x) y = l ( x ) 라고 하자.
+
+F ( x ) = f ( x ) − l ( x ) F(x)=f(x)-l(x) F ( x ) = f ( x ) − l ( x ) 라 두면, 이 함수는 [ a , b ] \left[a,b\right] [ a , b ] 에서 연속이고 ( a , b ) \left(a,b\right) ( a , b ) 에서 미분가능하며, F ( a ) = 0 , F ( b ) = 0 F(a)=0, F(b)=0 F ( a ) = 0 , F ( b ) = 0 이므로 롤의 정리 에 의하여 F ′ ( c ) = f ′ ( c ) − l ′ ( c ) = 0 F'(c)=f'(c)-l'(c)=0 F ′ ( c ) = f ′ ( c ) − l ′ ( c ) = 0 인 c ∈ ( a , b ) c \in \left(a,b\right) c ∈ ( a , b ) 가 존재한다.
+
+l ′ ( c ) = m = f ( b ) − f ( a ) b − a l'(c)=m= \displaystyle \frac{f\left(b\right)-f\left(a\right)}{b-a} l ′ ( c ) = m = b − a f ( b ) − f ( a ) ​ 이므로 f ′ ( c ) = f ( b ) − f ( a ) b − a f'(c)=\displaystyle \frac{f\left(b\right)-f\left(a\right)}{b-a} f ′ ( c ) = b − a f ( b ) − f ( a ) ​ 이다.
+
+평균값 정리의 기하학적 의미는 곡선 y = f ( x ) y = f(x) y = f ( x ) 위의 두 점 ( a , f ( a ) ) (a, f(a)) ( a , f ( a )) 와 ( b , f ( b ) ) (b, f(b)) ( b , f ( b )) 를 지나는 선분에 대하여, 구간 [ a , b ] [a,\,b] [ a , b ] 에서 곡선 y = f ( x ) y = f(x) y = f ( x ) 위의 어떤 점의 접선이 이 선분에 평행하다는 것을 뜻한다.
+
+앞의 평균값 정리에서 b − a = h b-a = h b − a = h 라 하면 c − a < b − a c-a < b-a c − a < b − a 이므로 0 < c − a h < 1 0<\displaystyle {c-a \over h}<1 0 < h c − a ​ < 1 이 된다. 여기서 θ = c − a h \theta =\displaystyle {c-a \over h} θ = h c − a ​ 로 놓으면 평균값 정리는
+f ( a + h ) = f ( a ) + h f ′ ( a + θ h ) f(a+h) = f(a) + hf'(a + \theta h) f ( a + h ) = f ( a ) + h f ′ ( a + θ h ) , 0 < θ < 1 0< \theta < 1 0 < θ < 1
+
+와 같이 나타낼 수 있다. 즉, 가까운 두 점을 한 점의 함숫값과 그 점 인근의 미분값을 이용해서 계산할 수 있다는 것이며, 이것이 바로 선형근사의 기본 접근방식이다.
+
+2.2. 코시의 평균값 정리 [편집]
+고등학교에서 배우는 평균값의 정리를 좀 더 일반화한 버전으로, 내용은 다음과 같다. 함수 f ( x ) f\left(x\right) f ( x ) 와 g ( x ) g\left(x\right) g ( x ) 가 닫힌 구간 [ a , b ] \left[a, b\right] [ a , b ] 에서 연속이고 열린 구간 ( a , b ) \left(a, b\right) ( a , b ) 에서 미분가능하면 f ′ ( c ) [ g ( b ) − g ( a ) ] = g ′ ( c ) [ f ( b ) − f ( a ) ] f'\left(c\right)\left[g\left(b\right)-g\left(a\right)\right] = g'\left(c\right)\left[f\left(b\right)-f\left(a\right)\right] f ′ ( c ) [ g ( b ) − g ( a ) ] = g ′ ( c ) [ f ( b ) − f ( a ) ] 인 c c c 가 ( a , b ) \left(a, b\right) ( a , b ) 내에 적어도 하나 존재한다.
+
+여기서 g ( x ) = x g\left(x\right) = x g ( x ) = x 라 두면 우리가 보통 알고 있는 평균값의 정리가 된다.
+
+증명
+F ( x ) = f ( x ) { g ( b ) − g ( a ) } − g ( x ) { f ( b ) − f ( a ) } F\left(x\right) = f\left(x\right)\left\{g\left(b\right)-g\left(a\right)\right\}-g\left(x\right)\left\{f\left(b\right)-f\left(a\right)\right\} F ( x ) = f ( x ) { g ( b ) − g ( a ) } − g ( x ) { f ( b ) − f ( a ) } 라 정의하자. 그럼 F F F 는 닫힌구간 [ a , b ] \left[a, b\right] [ a , b ] 에서 연속이고 열린구간 ( a , b ) \left(a, b\right) ( a , b ) 에서 미분가능하다.
+
+또한, F ( a ) = F ( b ) = f ( a ) g ( b ) − g ( a ) f ( b ) F\left(a\right)=F\left(b\right)=f\left(a\right)g\left(b\right)-g\left(a\right)f\left(b\right) F ( a ) = F ( b ) = f ( a ) g ( b ) − g ( a ) f ( b ) 이므로 롤의 정리 에 의해 F ′ ( c ) = 0 F'\left(c\right) = 0 F ′ ( c ) = 0 를 만족하는 c ∈ ( a , b ) c\in \left(a, b\right) c ∈ ( a , b ) 가 존재한다.
+
+그러면 F ′ ( x ) = f ′ ( x ) { g ( b ) − g ( a ) } − g ′ ( x ) { f ( b ) − f ( a ) } F'\left(x\right) = f'\left(x\right)\left\{g\left(b\right)-g\left(a\right)\right\}-g'\left(x\right)\left\{f\left(b\right)-f\left(a\right)\right\} F ′ ( x ) = f ′ ( x ) { g ( b ) − g ( a ) } − g ′ ( x ) { f ( b ) − f ( a ) } 이므로, f ′ ( c ) { g ( b ) − g ( a ) } = g ′ ( c ) { f ( b ) − f ( a ) } f'\left(c\right)\left\{g\left(b\right)-g\left(a\right)\right\} = g'\left(c\right)\left\{f\left(b\right)-f\left(a\right)\right\} f ′ ( c ) { g ( b ) − g ( a ) } = g ′ ( c ) { f ( b ) − f ( a ) }
+
+코시의 평균값 정리는 직관적으로 다음과 같이 해석될 수 있다. 좌표평면상에서 시간에 따라 움직이는 어떤 점 입자의 시점 t t t 에서의 위치 벡터 를 r ⃗ ( t ) = < f ( t ) , g ( t ) > \vec{r}\left(t\right) = \left<f\left(t\right), g\left(t\right)\right> r ( t ) = ⟨ f ( t ) , g ( t ) ⟩ 라 하자. 그러면 해당 점 입자의 시점 t에서의 순간 속도 는 d r ⃗ / d t = < f ′ ( t ) , g ′ ( t ) > d\vec{r}/dt = \left<f'\left(t\right), g'\left(t\right)\right> d r / d t = ⟨ f ′ ( t ) , g ′ ( t ) ⟩ 이다. 여기서 서로 다른 두 시점 a a a , b ( > a ) b\left(>a\right) b ( > a ) 사이에서 해당 점 입자의 변위 는 r ⃗ ( b ) − r ⃗ ( a ) = < f ( b ) − f ( a ) , g ( b ) − g ( a ) > \vec{r}\left(b\right) - \vec{r}\left(a\right) = \left<f\left(b\right) - f\left(a\right), g\left(b\right) - g\left(a\right)\right> r ( b ) − r ( a ) = ⟨ f ( b ) − f ( a ) , g ( b ) − g ( a ) ⟩ 이다.
+
+이때 두 시점 a a a , b b b 사이에서 해당 점 입자가 부드러운 곡선을 따라 움직일 때 해당 점 입자의 순간적인 운동 방향이 두 시점 a a a , b b b 사이에서의 변위의 방향과 평행하는 시점이 존재 함을 직관적으로 알 수 있다. 즉 < f ( b ) − f ( a ) , g ( b ) − g ( a ) > ∥ < f ′ ( c ) , g ′ ( c ) > \left<f\left(b\right) - f\left(a\right), g\left(b\right) - g\left(a\right)\right>\parallel\left<f'\left(c\right), g'\left(c\right)\right> ⟨ f ( b ) − f ( a ) , g ( b ) − g ( a ) ⟩ ∥ ⟨ f ′ ( c ) , g ′ ( c ) ⟩ 를 만족하는 c ∈ ( a , b ) c\in\left(a,b\right) c ∈ ( a , b ) 가 존재한다. 그 결과 f ( b ) − f ( a ) : g ( b ) − g ( a ) = f ′ ( c ) : g ′ ( c ) f\left(b\right)-f\left(a\right):g\left(b\right)-g\left(a\right)=f'\left(c\right):g'\left(c\right) f ( b ) − f ( a ) : g ( b ) − g ( a ) = f ′ ( c ) : g ′ ( c ) 라는 비례식이 성립하고 이로부터 코시의 평균값 정리가 성립함을 알 수 있다.
+
+3. 활용 [편집]
+
+3.1. 함수의 증감 [편집]
+여러 가지 활용이 있겠지만, 함수의 그래프를 그리는 방법이 가장 익숙할 것이다. 함수 f f f 가 ( a , b ) \left(a, b\right) ( a , b ) 에서 미분가능하고 모든 x ∈ ( a , b ) x\in(a,b) x ∈ ( a , b ) 에 대해 f ′ ( x ) > 0 f'\left(x\right) > 0 f ′ ( x ) > 0 이면, f f f 는 그 구간에서 증가한다.
+
+증명
+열린 구간 ( a , b ) \left(a,b\right) ( a , b ) 안에서 임의의 실수 x 1 , x 2 x_1, x_2 x 1 ​ , x 2 ​ 를 x 1 < x 2 x_1<x_2 x 1 ​ < x 2 ​ 가 되게 잡는다. 그럼 f f f 는 [ x 1 , x 2 ] \left[x_1, x_2\right] [ x 1 ​ , x 2 ​ ] 에서 연속이고 ( x 1 , x 2 ) \left(x_1, x_2\right) ( x 1 ​ , x 2 ​ ) 에서 미분가능하다.
+
+따라서 평균값의 정리에 의해 f ′ ( x 0 ) = f ( x 2 ) − f ( x 1 ) x 2 − x 1 \displaystyle f'\left(x_0\right) = \frac{f\left(x_2\right)-f\left(x_1\right)}{x_2-x_1} f ′ ( x 0 ​ ) = x 2 ​ − x 1 ​ f ( x 2 ​ ) − f ( x 1 ​ ) ​ 를 만족하는 x 0 x_0 x 0 ​ 가 ( x 1 , x 2 ) \left(x_1, x_2\right) ( x 1 ​ , x 2 ​ ) 내에 적어도 하나 존재한다. 또한 x 2 − x 1 > 0 , f ′ ( x 0 ) > 0 x_2-x_1 > 0, f'\left(x_0\right) > 0 x 2 ​ − x 1 ​ > 0 , f ′ ( x 0 ​ ) > 0 이므로 f ( x 2 ) − f ( x 1 ) > 0 f\left(x_2\right)-f\left(x_1\right) > 0 f ( x 2 ​ ) − f ( x 1 ​ ) > 0 이다. 즉, f ( x 1 ) < f ( x 2 ) f\left(x_1\right) < f\left(x_2\right) f ( x 1 ​ ) < f ( x 2 ​ ) 가 성립한다. x 1 , x 2 x_1, x_2 x 1 ​ , x 2 ​ 는 구간 안의 임의의 값이므로 f f f 는 구간 내에서 증가한다.
+
+비슷한 방법으로 아래 명제를 증명할 수 있다. 함수 f f f 가 ( a , b ) \left(a, b\right) ( a , b ) 에서 미분가능하고 모든 x ∈ ( a , b ) x\in(a,b) x ∈ ( a , b ) 에 대해 f ′ ( x ) < 0 f'\left(x\right) < 0 f ′ ( x ) < 0 이면, f f f 는 그 구간에서 감소한다.
+
+3.2. 로피탈의 정리 [편집]
+해당 문서 참고
+
+3.3. 미분가능성 [편집]
+어떤 한 점에서 미분가능성을 모를 때, 주변 미분계수의 극한을 관찰함으로써 미분가능성을 판정할 수도 있다. 실수 a a a 를 포함하는 열린구간 I I I 에서 정의된 함수 f f f 가 있을 때, f f f 가 a a a 에서 연속이고 I − { a } I-\left\{a\right\} I − { a } 에서 미분가능하며, lim ⁡ x → a f ′ ( x ) = L \displaystyle \lim_{x\to a}f'\left(x\right)=L x → a lim ​ f ′ ( x ) = L 이면( L L L 은 실수) f f f 는 a a a 에서 미분가능하고 f ′ ( a ) = L f'\left(a\right)=L f ′ ( a ) = L 이다.
+
+증명
+lim ⁡ x → a f ′ ( x ) = L \displaystyle \lim_{x\to a}f'\left(x\right)=L x → a lim ​ f ′ ( x ) = L 이므로 임의의 양수 ε \varepsilon ε 에 대하여 양수 δ ( ε ) \delta \left(\varepsilon\right) δ ( ε ) 가 존재하여 0 < ∣ x − a ∣ < δ ( ε ) 0<\left|x-a\right|<\delta\left(\varepsilon\right) 0 < ∣ x − a ∣ < δ ( ε ) 인 임의의 x ∈ I x \in I x ∈ I 에 대해 ∣ f ′ ( x ) − L ∣ < ε \left|f'\left(x\right)-L\right|<\varepsilon ∣ f ′ ( x ) − L ∣ < ε 이다.
+
+한편 평균값 정리에 의하여 임의의 x ∈ I − { a } x\in I-\left\{a\right\} x ∈ I − { a } 에 대해 f ( x ) − f ( a ) x − a = f ′ ( c ) \displaystyle {f\left(x\right)-f\left(a\right)\over x-a}=f'\left(c\right) x − a f ( x ) − f ( a ) ​ = f ′ ( c ) 인 c c c 가 a a a 와 x x x 사이에 존재한다. 즉, 0 < ∣ c − a ∣ < ∣ x − a ∣ 0<\left|c-a\right|<\left|x-a\right| 0 < ∣ c − a ∣ < ∣ x − a ∣ 이다.
+
+그러면 x ∈ I x \in I x ∈ I 이고 0 < ∣ x − a ∣ < δ ( ε ) 0<\left|x-a\right|<\delta\left(\varepsilon\right) 0 < ∣ x − a ∣ < δ ( ε ) 일 때 ∣ f ( x ) − f ( a ) x − a − L ∣ = ∣ f ′ ( c ) − L ∣ < ε \displaystyle \left|{f\left(x\right)-f\left(a\right)\over x-a}-L\right|=\left|f'\left(c\right)-L\right|<\varepsilon ​ x − a f ( x ) − f ( a ) ​ − L ​ = ∣ f ′ ( c ) − L ∣ < ε 이 성립하므로 lim ⁡ x → a f ( x ) − f ( a ) x − a = L \displaystyle \lim_{x\to a}{f\left(x\right)-f\left(a\right)\over x-a}=L x → a lim ​ x − a f ( x ) − f ( a ) ​ = L 이다. 따라서 f f f 는 a a a 에서 미분가능하고 f ′ ( a ) = L f'\left(a\right)=L f ′ ( a ) = L 이다.
+
+참고로 lim ⁡ x → a f ′ ( x ) = ± ∞ \displaystyle \lim_{x\to a}f'\left(x\right)=\pm\infty x → a lim ​ f ′ ( x ) = ± ∞ 이면 f f f 가 a a a 에서 미분가능하지 않고, lim ⁡ x → a f ′ ( x ) \displaystyle \lim_{x\to a}f'\left(x\right) x → a lim ​ f ′ ( x ) 가 수렴하지도, 무한대로 발산하지도 않는경우 이 방법으로는 미분가능성을 판단할 수 없다. 로피탈의 정리와 사용조건이 같다는 걸 알 수 있다. [2]
+
+3.4. 적분의 평균값 정리 [편집]
+대학교 미분적분학에 등장한다. 이 정리는 주어진 곡선에 대한 면적과 같은 직사각형 을 구하는 데 도움을 준다. 그 외에도 다각형의 무게중심 역시 이 평균값 정리를 응용해서 구할 수 있다. 함수 f f f 가 실수상에 속하는 폐구간 [ a , b ] [a, b] [ a , b ] 에서 연속함수이면, 1 b − a ∫ a b f ( x ) d x = f ( c ) \displaystyle \frac{1}{b-a}\int^{b}_{a} f(x)\mathrm{d}x = f(c) b − a 1 ​ ∫ a b ​ f ( x ) d x = f ( c ) 를 만족시키는 c ∈ ( a , b ) c\in(a, b) c ∈ ( a , b ) 가 존재한다.
+
+증명
+f f f 가 [ a , b ] [a, b] [ a , b ] 에서 연속이므로 최대, 최소값의 정리에 의하여 M = sup ⁡ { f ( x ) ∣ x ∈ [ a , b ] } M = \sup\{f(x)|x\in[a, b]\} M = sup { f ( x ) ∣ x ∈ [ a , b ]} , m = inf ⁡ { f ( x ) ∣ x ∈ [ a , b ] } m = \inf \{f(x)|x\in[a, b]\} m = in f { f ( x ) ∣ x ∈ [ a , b ]} 가 존재한다. 따라서 모든 x ∈ [ a , b ] x\in[a, b] x ∈ [ a , b ] 에 대하여 m ≤ f ( x ) ≤ M m\le f(x)\le M m ≤ f ( x ) ≤ M 이므로 적분의 대소 비교 성질에 의하여 m ( b − a ) ≤ ∫ a b f ( x ) d x ≤ M ( b − a ) m(b - a)\le \displaystyle \int^{b}_{a} f(x)\mathrm{d}x\le M(b - a) m ( b − a ) ≤ ∫ a b ​ f ( x ) d x ≤ M ( b − a ) 이다. 그러므로 다음이 성립한다.
+
+m ≤ 1 b − a ∫ a b f ( x ) d x ≤ M m\le \displaystyle \frac{1}{b-a}\int^{b}_{a} f(x)\mathrm{d}x \le M m ≤ b − a 1 ​ ∫ a b ​ f ( x ) d x ≤ M
+
+f f f 는 [ a , b ] [a, b] [ a , b ] 에서 연속이므로, 중간값의 정리 에 의하여 1 b − a ∫ a b f ( x ) d x = f ( c ) \displaystyle \frac{1}{b-a}\int^{b}_{a} f(x)\mathrm{d}x = f(c) b − a 1 ​ ∫ a b ​ f ( x ) d x = f ( c ) 를 만족시키는 c ∈ ( a , b ) c\in(a, b) c ∈ ( a , b ) 가 존재한다.
+
+3.5. 가우스의 평균값 정리 [편집]
+Gauss's mean value theorem
+복소평면상에서 코시 적분 공식에서 유도되는 공식. 함수 f f f 가 닫힌 원 ∣ z − z 0 ∣ ≤ r \left|z-z_{0}\right|\leq r ∣ z − z 0 ​ ∣ ≤ r 에서 해석적(analytic)이면, f ( z 0 ) = 1 2 π ∫ 0 2 π f ( z 0 + r e i θ ) d θ f(z_{0})=\displaystyle{\frac{1}{2\pi}}\int_{0}^{2\pi}f(z_{0}+re^{i\theta})\mathrm{d}\theta f ( z 0 ​ ) = 2 π 1 ​ ∫ 0 2 π ​ f ( z 0 ​ + r e i θ ) d θ 이다.
+
+증명
+코시 적분 공식 f ( z 0 ) = 1 2 π i ∫ C f ( z ) z − z 0 d z f(z_{0})=\displaystyle{\frac{1}{2\pi i}}\int_{\mathcal{C}}\displaystyle{\frac{f(z)}{z-z_{0}}\mathrm{d}z} f ( z 0 ​ ) = 2 π i 1 ​ ∫ C ​ z − z 0 ​ f ( z ) ​ d z 에서, C : z 0 + r e i θ \mathcal{C}:z_{0}+re^{i\theta} C : z 0 ​ + r e i θ 라고 하자.
+즉, f ( z 0 ) = 1 2 π i ∫ ∣ z − z 0 ∣ = r f ( z ) z − z 0 d z f(z_{0})=\displaystyle{\frac{1}{2\pi i}}\int_{\left|z-z_{0}\right|=r}\displaystyle{\frac{f(z)}{z-z_{0}}\mathrm{d}z} f ( z 0 ​ ) = 2 π i 1 ​ ∫ ∣ z − z 0 ​ ∣ = r ​ z − z 0 ​ f ( z ) ​ d z 인데, z − z 0 = z 0 + r e i θ − z 0 = r e i θ z-z_{0}=z_{0}+re^{i\theta}-z_{0}=re^{i\theta} z − z 0 ​ = z 0 ​ + r e i θ − z 0 ​ = r e i θ 이므로, d z = i r e i θ d θ \mathrm{d}z=ire^{i\theta}\mathrm{d}\theta d z = i r e i θ d θ 가 되고, f ( z 0 ) = 1 2 π i ∫ 0 2 π f ( z 0 + r e i θ ) r e i θ i r e i θ d θ f(z_{0})=\displaystyle{\frac{1}{2\pi i}}\int_{0}^{2\pi}\displaystyle{\frac{f(z_{0}+re^{i\theta})}{re^{i\theta}}ire^{i\theta}\mathrm{d}\theta} f ( z 0 ​ ) = 2 π i 1 ​ ∫ 0 2 π ​ r e i θ f ( z 0 ​ + r e i θ ) ​ i r e i θ d θ 가 된다.
+정리하면 f ( z 0 ) = 1 2 π ∫ 0 2 π f ( z 0 + r e i θ ) d θ f(z_{0})=\displaystyle{\frac{1}{2\pi}}\int_{0}^{2\pi}f(z_{0}+re^{i\theta})\mathrm{d}\theta f ( z 0 ​ ) = 2 π 1 ​ ∫ 0 2 π ​ f ( z 0 ​ + r e i θ ) d θ 가 성립한다.
+
+적분 평균값 정리에서 a = 0 , b = 2 π , x = z 0 + r e i θ , c = z 0 a=0, b=2\pi, x=z_{0}+re^{i\theta}, c=z_{0} a = 0 , b = 2 π , x = z 0 ​ + r e i θ , c = z 0 ​ 라고 둘 경우의 경우와 일치한다. x x x 를 C \mathbb{C} C 상에서 범위 X : ∣ z 0 − y ∣ ≤ r X:\left|z_{0}-y\right|\leq r X : ∣ z 0 ​ − y ∣ ≤ r 의 경계선으로 보면, c = z 0 → c ∈ X c=z_{0}\to c\in X c = z 0 ​ → c ∈ X 이기 때문.
+
+3.6. 기타 영역 [편집]
+- 이차함수 는 임의의 닫힌 구간에서 평균값 정리를 만족시키는 점이 항상 해당 구간의 정중앙에 존재한다는 특수한 성질을 갖는다. 다항함수/공식 참고.
+- 삼차함수 는 평균값 정리의 역의 반례가 존재하는 최소 차수의 다항함수 이다. 삼차함수 참고.
+- 경제성장론 의 솔로우-스완 모형 에서, 생산함수의 그래프에 대하여 닫힌 구간 [ 0 , k m a x ] [0,\,k_{\rm max}] [ 0 , k max ​ ] 에서 평균값 정리를 만족시키는 점에서 균제상태 의 소비가 최대가 되며 이때의 자본-노동 비율을 '황금률 자본-노동 비율'이라 하고 k G k_{\rm G} k G ​ 로 표기한다.
+- 테일러 급수 의 오차항은 여러 가지 형태가 있는데, 그 중에서 라그랑주의 오차항을 이용할 경우 n = 0 n=0 n = 0 인 경우 에는 그 오차항이 평균값 정리와 동일해진다. 그렇기에 확장 평균값 정리(Extended mean value theorem) 를 라그랑주의 오차항을 채용한 테일러 급수와 동일시하기도 한다.
+- 이것을 직접 배우는 학생 때는 눈치채기 어렵지만, 고속도로 운전을 하게 되면 만나는 구간단속 의 기본적인 원리가 된다. 시간-위치 그래프에서 구간단속 시작지점 통과 시간(a)과 해당 위치(P(a)), 구간단속 종료지점 통과시간(b)와 해당 위치(P(b))사이의 연속적인 그래프를 떠올려 보자. 구간단속 거리(P(b)-P(a))를 특정 시간(b-a)보다 빠르게 통과한다면, 그 구간안에서 적어도 한 번은 평균 속도((a,P(a))와 (b,P(b)의 직선 기울기)를 초과했다는 뜻이 되기 때문이다. 실제로 네비게이션을 켜고 운전을 해 보면 구간단속 중일 때는 보통 본인의 평균 속도도 표기가 되지만, 남은 시간과 남은 거리도 표기된다.
+
+4. 고등학교 교육과정 [편집]
+- 6차 교육과정 : 수학Ⅱ
+- 7차 교육과정 : 미분과 적분
+- 2007 개정 교육과정 : 수학Ⅱ
+- 2009 개정 교육과정 : 미적분Ⅰ [3]
+- 2015 개정 교육과정 : 수학Ⅱ
+- 2022 개정 교육과정 : 미적분Ⅰ
+
+5. 관련 문서 [편집]
+- 미적분
+- 롤의 정리
+- 로피탈의 정리
+
+[ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+]
+
+[1] 영미권에서 MVT라고 하면 보통은 알아듣는다. [2] 사실 이 명제는 로피탈의 정리의 특수한 경우로도 볼 수 있다. [3] 과거 이과만 배우던 평균값 정리가 교과과정이 개편되면서 내려와 1998년생부터 문과 학생들도 배우게 되었다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

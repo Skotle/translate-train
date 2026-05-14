@@ -1,0 +1,323 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 해밀턴 역학
+최근 수정 시각: 2026-04-29 01:51:18 [ [ [ ] [ [ 17 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 역학
+]
+
+[ [ ] [ 고전역학
+Classical Mechanics
+[ 펼치기 · 접기 ] 기본 개념 | 텐서 ( 스칼라 · 벡터 ) · 모멘트 · 위치 · 거리 ( 변위 · 이동거리 ) · 시간 · 공간 · 질량 ( 질량중심 ) · 속력 ( 속도 · 가속도 ) · 운동 ( 운동량 ) · 힘 · 합력 · 뉴턴의 운동법칙 · 일 ( 일률 ) · 에너지 ( 퍼텐셜 에너지 · 운동 에너지 ) · 보존력 · 운동량 보존의 법칙 · 에너지 보존 법칙 · 질량 보존 법칙 · 운동 방정식
+동역학 | 관성 좌표계 · 비관성 좌표계 ( 관성력 ) · 항력 ( 수직항력 · 마찰력 ) · 등속직선운동 · 등가속도 운동 · 자유 낙하 · 포물선 운동 · 원운동 ( 구심력 · 원심력 · 등속 원운동 ) · 전향력 · 운동학 · 질점의 운동역학 · 입자계의 운동역학 · 운동 방정식
+정역학 및 강체 역학 | 정적 평형 · 블록 쌓기 문제 · 강체 · 응력 ( /응용 ) · 충돌 · 충격량 · 각속도 ( 각가속도 ) · 각운동량 ( 각운동량 보존 법칙 · 떨어지는 고양이 문제 ) · 토크 ( 비틀림 ) · 관성 모멘트 · 관성 텐서 · 우력 · 반력 · 탄성력 ( 후크 법칙 · 탄성의 한계 ) · 구성방정식 · 장동 · 소성 · 고체역학
+천체 역학 | 중심력 · 만유인력의 법칙 · 이체문제 ( 케플러의 법칙 ) · 기조력 · 삼체문제 ( 라그랑주점 ) · 궤도역학 · 수정 뉴턴 역학 · 비리얼 정리
+진동 및 파동 | 각진동수 · 진동수 · 주기 · 파장 · 파수 · 스넬의 법칙 · 전반사 · 하위헌스 원리 · 페르마의 원리 · 간섭 · 회절 · 조화 진동자 · 산란 · 진동학 · 파동방정식 · 막의 진동 · 정상파 · 결합된 진동 · 도플러 효과 · 음향학
+해석 역학 | 일반화 좌표계 ( 자유도 ) · 변분법 { 오일러 방정식 ( 벨트라미 항등식 )} · 라그랑주 역학 ( 해밀턴의 원리 · 라그랑지안 · 작용 ) · 해밀턴 역학 ( 해밀토니안 · 푸아송 괄호 · 정준 변환 · 해밀턴-야코비 방정식 · 위상 공간 ) · 뇌터 정리 · 르장드르 변환 · 고전장론
+응용 및 기타 문서 | 기계공학 ( 기계공학 둘러보기 ) · 건축학 ( 건축공학 · 구조역학 ) · 토목공학 · 매달린 줄 문제 · 치올코프스키 로켓 방정식 · 탄도학 ( 탄도 계수 ) · 자이로스코프 · 공명 · 운동 방정식 · 진자 ( 단진자 ) · 사이클로이드
+
+1 . 개요 2 . 해밀토니안 3 . 푸아송 괄호 를 이용한 해석 4 . 정준 변환 5 . 해밀턴-야코비 방정식 5.1 . 적용 6 . 현대 물리학으로 확장 6.1 . 특수 상대성 이론 6.2 . 양자역학 7 . 예제 8 . 관련 문서
+
+1. 개요 [편집]
+해밀턴 역학 (Hamiltonian mechanics)은 고전역학 을 기술하는 하나의 체계이다. 역사적으로 보면 18세기에 라그랑주 역학 이 먼저 개발되었고, 그것으로부터 출발하여 윌리엄 로원 해밀턴 이 1834-1835년에 해밀턴 역학을 도입하였다. 고전역학의 영역 내에서만 본다면 해밀턴 역학은 라그랑주 역학과 동일한 결과를 주며, 그 전개방식에도 유사성이 많아 한 쪽에서 다른 한 쪽으로 쉽게 오갈 수도 있다. 이는 두 역학 모두가 일반화 좌표계와 각종 '일반화된' 물리량의 개념을 사용하고 있기 때문이며 해밀턴의 원리라고도 불리는 최소 작용의 원리 를 기초로 하고 있기 때문이다. 아래에서도 해밀토니안과 라그랑지안이 서로가 르장드르 변환 으로 연결된 것을 확인할 수 있다.
+
+뉴턴 역학을 사용하든, 라그랑주 역학을 사용하든, 해밀턴 역학을 사용하든 전혀 다른 결과가 나오지 않는다면 대체 왜 이런 것을 열심히 연구하는지 의문을 품을 수도 있다. 그러나, 고전역학의 틀을 벗어나면 라그랑주 역학과 해밀턴 역학이 그 진정한 힘을 발휘하는데 본문에서 그러한 예를 볼 수 있다. 단적인 예로, 뉴턴의 운동 방정식에서 힘을 질량과 위치 벡터의 이계도 함수의 곱으로 정의하고 운동을 기술하지만, 정작 그 힘에 대해서는 정체가 무엇인지 밝히지 않는 문제가 있다. [1] 반면 해밀턴 역학에서는 힘이라는 개념을 쓰지 않고도 운동을 기술하기 때문에 뉴턴 역학에 비하면 지름길에 해당하는 방식이라고 볼 여지가 있다.
+
+해밀턴 역학은 다양한 물리 현상을 위상 공간(phase space) 상의 상태라는 개념을 통해 간결하게 표현한다는 장점이 있다. 예를 들어 해밀턴 역학에서 조화 진동자 는 하나의 상태로 취급된다. 해밀턴 역학에서의 상태를 구분하는 방식은 통계역학 에서 앙상블을 정의하는 데에도 응용된다. 양자역학 의 양자상태도 해밀턴 역학의 응용이라고 볼 수 있다.
+
+우선 해밀턴 역학의 출발점은 라그랑주 역학 이므로 아래의 내용을 읽기 전에 해당 항목을 읽고 오는 것을 권한다.
+
+대한민국 에서 중학교 과학 시간에 배우는 일-에너지 정리 가 사실은 해밀턴 역학에서 유도되는 개념이다.
+
+2. 해밀토니안 [편집]
+일반적인 직각좌표계(또는 데카르트 좌표계)에서 운동량은 라그랑지안 L \mathscr L L 에 대한 식 p i = ∂ L / ∂ x ˙ i p_i = {\partial\mathcal{L}}/{\partial\dot{x}_i} p i ​ = ∂ L / ∂ x ˙ i ​ 로 표현된다. 이러한 힌트로부터 일반 좌표계에서의 일반화 운동량(generalized momentum)을 다음과 같이 정의한다. 오른쪽 식은 일반화 운동량으로 표현한 라그랑주 운동방정식이다.
+
+p i ≡ ∂ L ∂ q ˙ i p ˙ i ≡ ∂ L ∂ q i \begin{aligned} p_i &\equiv \dfrac{\partial\mathcal{L}}{\partial\dot{q}_i} \\ \dot{p}_i &\equiv \dfrac{\partial\mathcal{L}}{\partial q_i} \end{aligned} p i ​ p ˙ ​ i ​ ​ ≡ ∂ q ˙ ​ i ​ ∂ L ​ ≡ ∂ q i ​ ∂ L ​ ​ [2]
+원래 라그랑지안은 각 일반화 좌표 q i q_i q i ​ 와 그것의 시간 미분 q ˙ i \dot{q}_i q ˙ ​ i ​ 을 변수로 가진 함수였다. 해밀토니안은 q i q_i q i ​ 와 위에서 정의한 p i p_i p i ​ 들을 변수로 인정하여 다음과 같은 르장드르 변환 으로 정의된다.
+
+H ( q i , p i , t ) = ∑ i p i q ˙ i − L ( q i , q ˙ i , t ) \displaystyle \begin{aligned} \mathcal{H} (q_i, p_i, t) = \sum_i p_i \dot{q}_i -\mathcal{L} (q_i, \dot{q}_i, t) \end{aligned} H ( q i ​ , p i ​ , t ) = i ∑ ​ p i ​ q ˙ ​ i ​ − L ( q i ​ , q ˙ ​ i ​ , t ) ​
+여기에서 변수로 인정되는 게 무엇인지 알고 그것들만으로 해밀토니안을 표현하는 것이 대단히 중요하다. 정의된 라그랑지안으로부터 우변의 식을 단순히 계산하면 q ˙ i \dot{q}_i q ˙ ​ i ​ 들이 수식에 남아 있는 경우가 대부분인데, 반드시 이러한 표현들을 q i q_i q i ​ 와 p i p_i p i ​ 들로 대체하여야만 해밀토니안이 공식적으로 완성된 것이다. [3]
+
+이러한 변수 q i q_i q i ​ 와 p i p_i p i ​ 를 서로의 공액 변수(conjugate variable) 라고 부르고 p i p_i p i ​ , q i q_i q i ​ 들로 표현된 좌표계를 정규 좌표계(canonical coordinates) , 이들을 변수로 하는 공간을 위상 공간(phase space) 이라고 부른다.
+
+해밀토니안은 일반화 좌표 q i q_i q i ​ , 일반화 운동량 p i p_i p i ​ , 그리고 시간 t t t 의 함수이므로 전미분은 일반적으로 다음과 같은 형태가 된다.
+
+d H = ∑ i ( ∂ H ∂ q i d q i + ∂ H ∂ p i d p i ) ⁣ + ∂ H ∂ t d t \displaystyle \begin{aligned} {\rm d}\mathcal{H} = \sum_i \biggl( \frac{\partial\mathcal{H}}{\partial q_i}\, {\rm d}q_i +\frac{\partial\mathcal{H}}{\partial p_i}\, {\rm d}p_i \biggr) \!+\frac{\partial\mathcal{H}}{\partial t} {\rm d}t \end{aligned} d H = i ∑ ​ ( ∂ q i ​ ∂ H ​ d q i ​ + ∂ p i ​ ∂ H ​ d p i ​ ) + ∂ t ∂ H ​ d t ​
+그런데 해밀토니안이 라그랑지안의 르장드르 변환 이라는 정의를 기억하면, 전미분이 다음과 같이 표현되는 것 역시 알 수 있다. d H = ∑ i ( q ˙ i d p i + p i d q ˙ i − ∂ L ∂ q i d q i − ∂ L ∂ q ˙ i d q ˙ i ) ⁣ − ∂ L ∂ t d t \displaystyle \begin{aligned} {\rm d}\mathcal{H} = \sum_i \biggl( \dot{q}_i\,{\rm d}p_i +p_i\,{\rm d}\dot{q}_i -\frac{\partial\mathcal{L}}{\partial q_i} \,{\rm d}q_i -\frac{\partial\mathcal{L}}{\partial\dot{q}_i} \,{\rm d}\dot{q}_i \biggr) \!-\frac{\partial\mathcal{L}}{\partial t} {\rm d}t \end{aligned} d H = i ∑ ​ ( q ˙ ​ i ​ d p i ​ + p i ​ d q ˙ ​ i ​ − ∂ q i ​ ∂ L ​ d q i ​ − ∂ q ˙ ​ i ​ ∂ L ​ d q ˙ ​ i ​ ) − ∂ t ∂ L ​ d t ​
+
+위에서 정의한 일반화 운동량과 운동 방정식의 표현을 이용하면 위 식은 다음과 같이 간략화된다.
+
+d H = ∑ i ( q ˙ i d p i − p ˙ i d q i ) − ∂ L ∂ t d t \displaystyle \begin{aligned} {\rm d}\mathcal{H} = \sum_i ( \dot{q}_i\, {\rm d}p_i -\dot{p}_i\, {\rm d}q_i ) -\frac{\partial\mathcal{L}}{\partial t} {\rm d}t \end{aligned} d H = i ∑ ​ ( q ˙ ​ i ​ d p i ​ − p ˙ ​ i ​ d q i ​ ) − ∂ t ∂ L ​ d t ​
+이제 이 식을 제일 위의 전체 미분 식과 비교하면 다음과 같은 해밀턴 운동 방정식 을 얻을 수 있다.
+
+q ˙ i ≡ ∂ H ∂ p i − p ˙ i ≡ ∂ H ∂ q i \begin{aligned} \dot{q}_i &\equiv \dfrac{\partial\mathcal{H}}{\partial p_i} \\ -\dot{p}_i &\equiv \dfrac{\partial\mathcal{H}}{\partial q_i} \end{aligned} q ˙ ​ i ​ − p ˙ ​ i ​ ​ ≡ ∂ p i ​ ∂ H ​ ≡ ∂ q i ​ ∂ H ​ ​
+또한,
+
+− ∂ L ∂ t = ∂ H ∂ t -\dfrac{\partial\mathcal{L}}{\partial t} = \dfrac{\partial\mathcal{H}}{\partial t} − ∂ t ∂ L ​ = ∂ t ∂ H ​
+식도 얻어지는데 이것은 운동 방정식과 크게 관련은 없고, 이상의 내용을 모두 종합하면, 르장드르 변환 식으로부터
+
+∂ H ∂ t = d H d t \dfrac{\partial\mathcal{H}}{\partial t} = \dfrac{{\rm d}\mathcal{H}}{{\rm d}t} ∂ t ∂ H ​ = d t d H ​
+을 얻을 수 있다.
+
+이제 구체적으로 해밀토니안이 어떤 물리량인지 따지고자 한다. 다시 르장드르 변환 식으로부터 출발한다:
+
+H = ∑ i p i q ˙ i − L \displaystyle \mathcal{H} = \sum_i p_i\dot{q}_i - \mathcal{L} H = i ∑ ​ p i ​ q ˙ ​ i ​ − L
+그런데,
+
+p i ≡ ∂ L ∂ q ˙ i p_i \equiv \dfrac{\partial\mathcal{L}}{\partial\dot{q}_i} p i ​ ≡ ∂ q ˙ ​ i ​ ∂ L ​
+이므로
+
+H = ∑ i q ˙ i ∂ L ∂ q ˙ i − L \displaystyle \begin{aligned} \mathcal{H} = \sum_i \dot{q}_i \frac{\partial\mathcal{L}}{\partial\dot{q}_i} -\mathcal{L} \end{aligned} H = i ∑ ​ q ˙ ​ i ​ ∂ q ˙ ​ i ​ ∂ L ​ − L ​
+임을 알 수 있다. 그런데 라그랑지안은 운동 에너지와 퍼텐셜 에너지의 선형 결합 L = T − U \mathcal{L}=T-U L = T − U 이고, 일반화 속도 q ˙ i \dot{q}_i q ˙ ​ i ​ 는 운동 에너지 T T T 에만 의존하므로 위 식은
+
+H = ∑ i q ˙ i ∂ T ∂ q ˙ i − ( T − U ) \displaystyle \mathcal{H} = \sum_i \dot{q}_i \frac{\partial T}{\partial\dot{q}_i} -(T-U) H = i ∑ ​ q ˙ ​ i ​ ∂ q ˙ ​ i ​ ∂ T ​ − ( T − U )
+간단한 역학계에서 운동 에너지는 일반화 속도의 2차 동차함수 이므로 오일러 정리 로부터
+
+∑ i q ˙ i ∂ T ∂ q ˙ i = 2 T \displaystyle \sum_i \dot{q}_i \frac{\partial T}{\partial\dot{q}_i} = 2T i ∑ ​ q ˙ ​ i ​ ∂ q ˙ ​ i ​ ∂ T ​ = 2 T
+이상에서 해밀토니안이 다음과 같음을 얻는다.
+
+H = T + U \mathcal{H}=T+U H = T + U
+즉, 어떤 시스템의 운동 에너지와 퍼텐셜 에너지의 총 합이 곧 해밀토니안이 된다. 그러나 이 조건은 두 조건이 만족할 경우에만 그렇다고 할 수 있다. - 퍼텐셜 에너지는 속도 x ˙ α , i \dot{x}_{\alpha,i} x ˙ α , i ​ 와 시간에 의존하지 않아야 한다.
+- 입자의 좌표 x α , i x_{\alpha,i} x α , i ​ 와 일반화 좌표 q i q_i q i ​ 간의 변환식이 시간에 의존하지 않아야 한다. [4]
+
+첫 번째 조건을 만족시키지 않으면 ∂ L / ∂ q ˙ i ≠ ∂ T / ∂ q ˙ i \partial\mathcal{L} / \partial\dot{q}_i \neq \partial T / \partial \dot{q}_i ∂ L / ∂ q ˙ ​ i ​  = ∂ T / ∂ q ˙ ​ i ​ 가 되고, 두 번째 조건을 만족하지 않으면 운동 에너지가 일반화 좌표의 2차 동차함수가 아니게 되므로 위 과정에서 2 T 2T 2 T 라고 썼던 부분이 사실이 아니게 된다.
+
+두 번째 조건에 위배되는 것은 예제 에서 다룬다.
+
+또한, 위에서 얻었던
+
+∂ H ∂ t = d H d t \dfrac{\partial\mathcal{H}}{\partial t} = \dfrac{{\rm d}\mathcal{H}}{{\rm d}t} ∂ t ∂ H ​ = d t d H ​
+을 고려하면, 해밀토니안이 시간에 직접적으로 의존하지 않는다면
+
+d H d t = 0 \dfrac{{\rm d}\mathcal{H}}{{\rm d}t} = 0 d t d H ​ = 0
+이고 이것은 해밀토니안이 보존됨을 의미한다. 만약 해밀토니안이 H = T + U = E \mathcal{H}=T+U=E H = T + U = E 를 만족하는 시스템이라면, 이 경우엔 해밀토니안이 총 역학적 에너지로 보존된다.
+
+참고로 해밀토니안은 흘림체인 H \mathcal H H 로 쓰는 것을 권장하는데, 이는 H H H 는 겹치는 의미가 꽤 있어서( 헤비사이드 계단 함수 , 에르미트 행렬 , 에르미트 함수, 아다마르 변환 , 엔탈피 등) 명확히 구별하기 위함이다.
+
+해밀턴의 운동 방정식을 얻는 다른 방법은 해밀턴의 원리에서 직접 유도하는 것이다. 라그랑지안과 해밀토니안은 다음과 같이 르장드르 변환 관계에 있다.
+
+H = ∑ i p i q ˙ i − L \displaystyle \mathcal{H} = \sum_i p_i\dot{q}_i -\mathcal{L} H = i ∑ ​ p i ​ q ˙ ​ i ​ − L
+따라서 해밀턴의 원리를 적용하면
+
+δ ∫ t 1 t 2 ( ∑ i p i q ˙ i − H ) d t = 0 \displaystyle \begin{aligned} \delta \int_{t_1}^{t_2} \biggl( \sum_i p_i\dot{q}_i -\mathcal{H} \biggr) {\rm d}t=0 \end{aligned} δ ∫ t 1 ​ t 2 ​ ​ ( i ∑ ​ p i ​ q ˙ ​ i ​ − H ) d t = 0 ​
+이것은 다음과 같이 써질 수 있다. ∫ t 1 t 2 ∑ i ( δ p i q ˙ i + p i δ q ˙ i − ∂ H ∂ p i δ p i − ∂ H ∂ q i δ q i ) d t = 0 \displaystyle \begin{aligned} \int_{t_1}^{t_2} \sum_i \biggl( \delta p_i\dot{q}_i +p_i\delta\dot{q}_i -\frac{\partial\mathcal{H}}{\partial p_i} \delta p_i -\frac{\partial\mathcal{H}}{\partial q_i} \delta q_i \biggr) {\rm d}t = 0 \end{aligned} ∫ t 1 ​ t 2 ​ ​ i ∑ ​ ( δ p i ​ q ˙ ​ i ​ + p i ​ δ q ˙ ​ i ​ − ∂ p i ​ ∂ H ​ δ p i ​ − ∂ q i ​ ∂ H ​ δ q i ​ ) d t = 0 ​
+
+식을 다음과 같이 쓰면 ∫ t 1 t 2 ∑ i [ ⁣ ( q ˙ i − ∂ H ∂ p i ) δ p i + ⁣ ( p i δ q ˙ i − ∂ H ∂ q i δ q i ) ⁣ ] d t = 0 \displaystyle \begin{aligned} \int_{t_1}^{t_2} \sum_i \biggl[ \!\biggl( \dot{q}_i -\frac{\partial\mathcal{H}}{\partial p_i} \biggr) \delta p_i +\!\biggl( p_i\delta\dot{q}_i -\frac{\partial\mathcal{H}}{\partial q_i} \delta q_i \biggr) \!\biggr] {\rm d}t = 0 \end{aligned} ∫ t 1 ​ t 2 ​ ​ i ∑ ​ [ ( q ˙ ​ i ​ − ∂ p i ​ ∂ H ​ ) δ p i ​ + ( p i ​ δ q ˙ ​ i ​ − ∂ q i ​ ∂ H ​ δ q i ​ ) ] d t = 0 ​
+
+이때, 두 번째 소괄호의 첫 번째 항을 부분적분 하여 ∫ t 1 t 2 ∑ i p i δ q ˙ i d t = ∑ i ∫ t 1 t 2 p i δ q ˙ i d t = ∑ i [ ∫ t 1 t 2 d d t ( p i δ q ) d t − ∫ t 1 t 2 p ˙ i δ q d t ] = − ∫ t 1 t 2 ∑ i p ˙ i δ q d t \displaystyle \begin{aligned} \int_{t_1}^{t_2} \sum_i p_i\delta\dot{q}_i \,{\rm d}t &= \sum_i \int_{t_1}^{t_2} p_i\delta\dot{q}_i \,{\rm d}t \\ &= \sum_i \Biggl[ \int_{t_1}^{t_2} \frac{\rm d}{{\rm d}t} (p_i\delta q)\, {\rm d}t -\int_{t_1}^{t_2} \dot{p}_i\delta q \,{\rm d}t \Biggr] \\ &= -\int_{t_1}^{t_2} \sum_i \dot{p}_i\delta q \,{\rm d}t \end{aligned} ∫ t 1 ​ t 2 ​ ​ i ∑ ​ p i ​ δ q ˙ ​ i ​ d t ​ = i ∑ ​ ∫ t 1 ​ t 2 ​ ​ p i ​ δ q ˙ ​ i ​ d t = i ∑ ​ [ ∫ t 1 ​ t 2 ​ ​ d t d ​ ( p i ​ δ q ) d t − ∫ t 1 ​ t 2 ​ ​ p ˙ ​ i ​ δ q d t ] = − ∫ t 1 ​ t 2 ​ ​ i ∑ ​ p ˙ ​ i ​ δ q d t ​
+
+따라서 본래 식에 대입하여 다음을 얻는다. ∫ t 1 t 2 ∑ i [ ⁣ ( q ˙ i − ∂ H ∂ p i ) δ p i + ⁣ ( − p ˙ i − ∂ H ∂ q i ) δ q i ] d t = 0 \displaystyle \begin{aligned} \int_{t_1}^{t_2} \sum_i \biggl[ \!\biggl( \dot{q}_i -\frac{\partial\mathcal{H}}{\partial p_i} \biggr) \delta p_i +\!\biggl( -\dot{p}_i -\frac{\partial\mathcal{H}}{\partial q_i} \biggr) \delta q_i \biggr] {\rm d}t = 0 \end{aligned} ∫ t 1 ​ t 2 ​ ​ i ∑ ​ [ ( q ˙ ​ i ​ − ∂ p i ​ ∂ H ​ ) δ p i ​ + ( − p ˙ ​ i ​ − ∂ q i ​ ∂ H ​ ) δ q i ​ ] d t = 0 ​
+
+이때 δ p i \delta p_i δ p i ​ , δ q i \delta q_i δ q i ​ 는 독립된 변분이므로 위 등식을 만족하려면 각 소괄호 안이 0 0 0 이 될 수밖에 없다. 이에 해밀턴의 운동 방정식을 얻었다.
+
+3. 푸아송 괄호 를 이용한 해석 [편집]
+정규 좌표계로 표현되는 두 함수 f ( q i , p i ) f(q_i,p_i) f ( q i ​ , p i ​ ) 와 g ( q i , p i ) g(q_i,p_i) g ( q i ​ , p i ​ ) 에 대해 푸아송 괄호 는 다음과 같이 정의된다.
+
+{ f , g } ≡ ∑ i ⁣ ( ∂ f ∂ q i ∂ g ∂ p i − ∂ f ∂ p i ∂ g ∂ q i ) \displaystyle \{ f,g \} \equiv \sum_i \!\left( \frac{\partial f}{\partial q_i} \frac{\partial g}{\partial p_i} -\frac{\partial f}{\partial p_i} \frac{\partial g}{\partial q_i} \right) { f , g } ≡ i ∑ ​ ( ∂ q i ​ ∂ f ​ ∂ p i ​ ∂ g ​ − ∂ p i ​ ∂ f ​ ∂ q i ​ ∂ g ​ )
+푸아송 괄호를 사용하면 해밀토니안 운동방정식은 다음과 같이 표현된다.
+
+d q i d t = ∂ H ∂ p i = { q i , H } d p i d t = − ∂ H ∂ q i = { p i , H } \begin{aligned} \dfrac{{\rm d}q_i}{{\rm d}t} &= \dfrac{\partial\mathcal{H}}{\partial p_i} &= \{ q_i, \mathcal{H} \} \\ \dfrac{{\rm d}p_i}{{\rm d}t} &= -\dfrac{\partial\mathcal{H}}{\partial q_i} &= \{ p_i, \mathcal{H} \} \end{aligned} d t d q i ​ ​ d t d p i ​ ​ ​ = ∂ p i ​ ∂ H ​ = − ∂ q i ​ ∂ H ​ ​ = { q i ​ , H } = { p i ​ , H } ​
+그리고 일반적인 함수 f ( q i , p i ) f(q_i,p_i) f ( q i ​ , p i ​ ) 의 시간미분은 다음과 같음을 알 수 있다.
+
+d f d t = { f , H } + ∂ f ∂ t \begin{aligned} \dfrac{{\rm d}f}{{\rm d}t} = \{ f, \mathcal{H} \} + \dfrac{\partial f}{\partial t} \end{aligned} d t d f ​ = { f , H } + ∂ t ∂ f ​ ​
+여기까지만 봐선, 새로운 기호를 정의했을 뿐이지 별다른 유용성은 전혀 없다고 생각할지도 모른다. 자, 이제 각 일반좌표 q i q_i q i ​ 와 일반화 운동량 p i p_i p i ​ 들간의 푸아송 괄호를 계산해 보자.
+
+{ q i , q j } = { p i , p j } = 0 { q i , p j } = δ i j \begin{aligned} \{ q_i, q_j \} &= \{ p_i, p_j \} = 0 \\ \{ q_i, p_j \} &= \delta_{ij} \end{aligned} { q i ​ , q j ​ } { q i ​ , p j ​ } ​ = { p i ​ , p j ​ } = 0 = δ ij ​ ​
+δ i j \delta_{ij} δ ij ​ 는 크로네커 델타 이다.
+
+양자역학 에 익숙한 사람들이라면 이쯤 오면 무언가가 떠오르기 시작할 것이다. 공액 변수들이 바로 양자역학에서의 불확정성 원리에서 서로 대응되는 두 변수들이고, 푸아송 괄호의 역할이 양자역학적인 교환자의 역할과 유사해진다. 즉, 고전역학에서 양자역학으로 가는 한 방법은 변수와 함수들을 오퍼레이터로 만들고, 해밀턴 역학에서 푸아송 괄호를 1 / i ℏ 1/i\hbar 1/ i ℏ 를 곱한 교환자로 대체하는 것이다. 이러한 것을 따르면 다음과 같은 식들이 얻어진다.
+
+[ q ^ i , q ^ j ] = [ p ^ i , p ^ j ] = 0 [ q ^ i , p ^ j ] = i ℏ δ i j \begin{aligned} [ \hat{q}_i, \hat{q}_j ] &= [ \hat{p}_i, \hat{p}_j ] = 0 \\ [ \hat{q}_i, \hat{p}_j ] &= i\hbar\delta_{ij} \end{aligned} [ q ^ ​ i ​ , q ^ ​ j ​ ] [ q ^ ​ i ​ , p ^ ​ j ​ ] ​ = [ p ^ ​ i ​ , p ^ ​ j ​ ] = 0 = i ℏ δ ij ​ ​
+그리고, 시간의 직접적인 함수가 아닌 연산자 f ^ \hat f f ^ ​ 에 대해
+
+d f ^ d t = 1 i ℏ [ f ^ , H ^ ] \dfrac{{\rm d}\hat{f}}{{\rm d}t} = \dfrac{1}{i\hbar} [ \hat{f}, \hat{\mathcal{H}}] d t d f ^ ​ ​ = i ℏ 1 ​ [ f ^ ​ , H ^ ]
+임을 알 수 있는데, 이것이 바로 하이젠베르크 묘사(Heisenberg picture)에서의 양자역학을 지배하는 운동방정식이 된다.
+
+고전역학으로부터 양자역학으로 넘어오는 방법은 이것 외에도 여러 가지가 있다. 슈뢰딩거의 양자역학에 대한 논문도 해밀턴 역학으로부터 유도된 해밀턴-야코비 방정식으로부터 출발하고, 최소작용의 원리를 최소 근처의 작용을 허용하도록 수정하면 라그랑주 역학에서 출발하여 파인만의 경로적분으로 표현되는 양자역학에 도달할 수 있다. 즉, 하이젠베르크 , 슈뢰딩거 , 파인만 이 각각 발견한 비상대론적 양자역학의 세 가지 공식화 방법이 전부 고전역학에 그 힌트가 숨어 있는 것이다.
+
+푸아송 괄호는 위치와 운동량 사이에 대칭 이 존재한다는 사실과 이들이 심플렉틱 다양체를 이룬다는 것을 보여준다. 해밀턴 역학의 심플렉틱 다양체는 풍부한 기하학적 성질들을 보인다는 것이 밝혀졌고 그에 따라 역학도 여러 가지 기하학적 재해석이 이루어지게 된다.
+
+위에서 보였듯이 해밀턴 역학만을 놓고 보면 운동량 과 위치 는 동등한 지위를 가진다. 하지만 현실에서 두 물체가 같은 운동량을 가질 순 있어도 같은 위치를 가질 수 없으며 그에 따라서 위치와 운동량은 실제로는 동등하지 않다. 이러한 위치와 운동량의 역설적인 관계는 해밀턴 역학을 확장시킨 양자역학 에서 더욱 극명하게 나타난다. 양자역학은 해밀턴 역학을 전제하고 만들어졌기에 위치도 운동량과 마찬가지로 중첩될 수 있으며 물체가 다양한 위치에 동시에 존재할 수 있다는 비국소적인 특성 [5] 을 가진다.
+
+4. 정준 변환 [편집]
+해밀턴 역학에서 계는 일반화 좌표와 일반화 운동량으로 이루어진 정규 좌표계로 묘사 가능하다.
+
+그런데 필요에 의해서 이러한 정규 좌표계를 변환한다고 생각해보자.
+
+( q i , p i ) ⟶ ( Q i ( q i , p i , t ) , P i ( q i , p i , t ) ) \displaystyle (q_{i},\,p_{i}) \,\, \longrightarrow \,\, (Q_{i}(q_{i},\,p_{i},\,t),\,P_{i} (q_{i},\,p_{i},\,t)) ( q i ​ , p i ​ ) ⟶ ( Q i ​ ( q i ​ , p i ​ , t ) , P i ​ ( q i ​ , p i ​ , t ))
+이때, 각각의 좌표에 따른 해밀토니안은 H ( q i , p i , t ) \mathcal{H}(q_{i},\,p_{i},\,t) H ( q i ​ , p i ​ , t ) , H ′ ( Q i , P i , t ) \mathcal{H}'(Q_{i},\,P_{i},\,t) H ′ ( Q i ​ , P i ​ , t ) 라 하자.
+
+해밀턴의 원리에 의해 자연은 작용 을 최소로 하는 경로로 움직인다. 한편, 라그랑지안과 해밀토니안은 다음과 같이 르장드르 변환 관계에 있다.
+
+H = ∑ i p i q ˙ i − L \displaystyle \mathcal{H}=\sum_{i} p_{i}\dot{q}_{i}-\mathscr{L} H = i ∑ ​ p i ​ q ˙ ​ i ​ − L
+이때, 좌표 변환을 하여도 똑같은 물리 현상을 기술하는데 쓰인다면 해밀턴 원리는 동일하게 적용될 것이다.
+
+δ ∫ t 1 t 2 ( ∑ i p i q ˙ i − H ) d t = δ ∫ t 1 t 2 ( ∑ i P i Q ˙ i − H ′ ) d t = 0 ⋯ ( # ) \displaystyle \delta\int_{t_{1}}^{t_{2}} \biggl(\sum_{i} p_{i}\dot{q}_{i}-\mathcal{H} \biggr)\,{\rm d}t=\delta\int_{t_{1}}^{t_{2}} \biggl(\sum_{i} P_{i}\dot{Q}_{i}-\mathcal{H}' \biggr)\,{\rm d}t=0 \qquad \cdots \, \small{(\#)} δ ∫ t 1 ​ t 2 ​ ​ ( i ∑ ​ p i ​ q ˙ ​ i ​ − H ) d t = δ ∫ t 1 ​ t 2 ​ ​ ( i ∑ ​ P i ​ Q ˙ ​ i ​ − H ′ ) d t = 0 ⋯ ( # )
+이것을 만족하려면
+
+∑ i p i q ˙ i − H = ∑ i P i Q ˙ i − H ′ + d F d t ⋯ ( ∗ ) \displaystyle \sum_{i} p_{i}\dot{q}_{i}-\mathcal{H} =\sum_{i} P_{i}\dot{Q}_{i}-\mathcal{H}' +\frac{{\rm d} \mathcal{F}}{{\rm d}t} \qquad \cdots \, \small{(\ast)} i ∑ ​ p i ​ q ˙ ​ i ​ − H = i ∑ ​ P i ​ Q ˙ ​ i ​ − H ′ + d t d F ​ ⋯ ( ∗ )
+을 만족하여야 한다. F \mathcal{F} F 는 임의의 함수이다. 마지막 항이 추가돼야하는 이유는 이것을 적분에 대입해봄으로써 알 수 있다.
+
+δ ∫ t 1 t 2 d F d t d t = δ ∫ t 1 t 2 d F d t d t = δ ∫ t 1 t 2 d F = δ [ F ] t 1 t 2 = 0 \displaystyle \begin{aligned} \delta\int_{t_{1}}^{t_{2}} \frac{{\rm d} \mathcal{F}}{{\rm d}t} \,{\rm d}t &=\delta\int_{t_{1}}^{t_{2}} \frac{{\rm d} \mathcal{F}}{{\rm d}t} \,{\rm d}t \\ &=\delta\int_{t_{1}}^{t_{2}} {\rm d}\mathcal{F} \\ &=\delta \biggl[ \mathcal{F} \biggr]_{t_{1}}^{t_{2}} \\ &=0 \end{aligned} δ ∫ t 1 ​ t 2 ​ ​ d t d F ​ d t ​ = δ ∫ t 1 ​ t 2 ​ ​ d t d F ​ d t = δ ∫ t 1 ​ t 2 ​ ​ d F = δ [ F ] t 1 ​ t 2 ​ ​ = 0 ​
+즉 미분 방정식의 정상해의 개념에 해당하는 것이다.
+
+( ∗ ) \small{(\ast)} ( ∗ ) 을 다시 쓰면
+
+d F d t = ∑ i ( p i q ˙ i − P i Q ˙ i ) + H ′ − H \displaystyle \frac{{\rm d}\mathcal{F}}{{\rm d}t}=\sum_{i} (p_{i}\dot{q}_{i}-P_{i}\dot{Q}_{i})+\mathcal{H}'-\mathcal{H} d t d F ​ = i ∑ ​ ( p i ​ q ˙ ​ i ​ − P i ​ Q ˙ ​ i ​ ) + H ′ − H
+만약 F = F ( q i , Q i , t ) \mathcal{F}=F(q_{i},\,Q_{i},\,t) F = F ( q i ​ , Q i ​ , t ) 를 만족한다면
+
+∂ F ∂ q i = p i ∂ F ∂ Q i = − P i ∂ F ∂ t = H ′ − H \displaystyle \begin{aligned} \frac{\partial F}{\partial q_{i}}&=p_{i} \\ \frac{\partial F}{\partial Q_{i}}&=-P_{i} \\ \frac{\partial F}{\partial t}&=\mathcal{H}'-\mathcal{H} \end{aligned} ∂ q i ​ ∂ F ​ ∂ Q i ​ ∂ F ​ ∂ t ∂ F ​ ​ = p i ​ = − P i ​ = H ′ − H ​
+이 된다. 이때 F F F 는 어떤 정규 좌표와 연관될 수도 있음에 유의한다. 예를 들어 F ( q i , P i , t ) F(q_{i},\,P_{i},\,t) F ( q i ​ , P i ​ , t ) 일 수도 있다. 하지만 이럴 경우에도 위 식을 약간 고치면 위와 같은 유사한 관계를 얻을 수 있다.
+
+따라서 위의 조건만 만족을 하면 ( # ) \small{(\#)} ( # ) 은 만족하게 되는데 위에서 이러한 식이 만족될 때, 해밀턴의 운동 방정식을 얻을 수 있음을 기술했다. 그 결과를 쓰면 곧 변환 후에도
+
+Q ˙ i = ∂ H ′ ∂ P i − P ˙ i = ∂ H ′ ∂ Q i \displaystyle \begin{aligned} \dot{Q}_{i}&=\frac{\partial \mathcal{H}'}{\partial P_{i}} \\ -\dot{P}_{i}&=\frac{\partial \mathcal{H}'}{\partial Q_{i}} \end{aligned} Q ˙ ​ i ​ − P ˙ i ​ ​ = ∂ P i ​ ∂ H ′ ​ = ∂ Q i ​ ∂ H ′ ​ ​
+를 만족함을 의미한다. 따라서 변환 전 후에 해밀턴의 운동 방정식을 유지되도록 하는 변환을 정준 변환(canonical transformation) 이라 하고, 위에서 나온 F \mathcal{F} F 를 정준 변환의 생성 함수(generating function) 라 한다. 다음은 F F F 의 유형에 따른 생성 함수와 관계식은 다음과 같다.
+F \boldsymbol{F} F 의 형태 | 생성 함수 F \pmb{\mathcal{F}} F | 관계식
+F ( q i , Q i , t ) F(q_{i},\,Q_{i},\,t) F ( q i ​ , Q i ​ , t ) | F \displaystyle F F | p i = ∂ F ∂ q i P i = − ∂ F ∂ Q i H ′ − H = ∂ F ∂ t \begin{aligned} p_{i}&=\frac{\partial F}{\partial q_{i}} \\ P_{i}&=-\frac{\partial F}{\partial Q_{i}} \\ \mathcal{H}'-\mathcal{H}&=\frac{\partial F}{\partial t}\end{aligned} p i ​ P i ​ H ′ − H ​ = ∂ q i ​ ∂ F ​ = − ∂ Q i ​ ∂ F ​ = ∂ t ∂ F ​ ​
+F ( q i , P i , t ) F(q_{i},\,P_{i},\,t) F ( q i ​ , P i ​ , t ) | F − ∑ i P i Q i \displaystyle F-\sum_{i} P_{i} Q_{i} F − i ∑ ​ P i ​ Q i ​ | p i = ∂ F ∂ q i Q i = ∂ F ∂ P i H ′ − H = ∂ F ∂ t \begin{aligned} p_{i}&=\frac{\partial F}{\partial q_{i}} \\ Q_{i}&=\frac{\partial F}{\partial P_{i}}\\ \mathcal{H}'-\mathcal{H}&=\frac{\partial F}{\partial t} \end{aligned} p i ​ Q i ​ H ′ − H ​ = ∂ q i ​ ∂ F ​ = ∂ P i ​ ∂ F ​ = ∂ t ∂ F ​ ​
+F ( p i , Q i , t ) F(p_{i},\,Q_{i},\,t) F ( p i ​ , Q i ​ , t ) | F + ∑ i p i q i \displaystyle F+\sum_{i} p_{i} q_{i} F + i ∑ ​ p i ​ q i ​ | q i = − ∂ F ∂ p i P i = ∂ F ∂ Q i H ′ − H = ∂ F ∂ t \begin{aligned}q_{i}&=-\frac{\partial F}{\partial p_{i}} \\ P_{i}&=\frac{\partial F}{\partial Q_{i}} \\ \mathcal{H}'-\mathcal{H}&=\frac{\partial F}{\partial t}\end{aligned} q i ​ P i ​ H ′ − H ​ = − ∂ p i ​ ∂ F ​ = ∂ Q i ​ ∂ F ​ = ∂ t ∂ F ​ ​
+F ( p i , P i , t ) F(p_{i},\,P_{i},\,t) F ( p i ​ , P i ​ , t ) | F + ∑ i ( p i q i − P i Q i ) \displaystyle F+\sum_{i}( p_{i} q_{i}-P_{i}Q_{i}) F + i ∑ ​ ( p i ​ q i ​ − P i ​ Q i ​ ) | q i = − ∂ F ∂ p i Q i = ∂ F ∂ P i H ′ − H = ∂ F ∂ t \begin{aligned} q_{i}&=-\frac{\partial F}{\partial p_{i}} \\ Q_{i}&=\frac{\partial F}{\partial P_{i}} \\ \mathcal{H}'-\mathcal{H}&=\frac{\partial F}{\partial t}\end{aligned} q i ​ Q i ​ H ′ − H ​ = − ∂ p i ​ ∂ F ​ = ∂ P i ​ ∂ F ​ = ∂ t ∂ F ​ ​
+
+5. 해밀턴-야코비 방정식 [편집]
+우리가 라그랑주 역학 을 통해 역학 문제를 풀 때 일반화 좌표를 도입했다. 이것은 원래의 좌표로 풀기엔 문제가 어렵기 때문에 단순화시키려고 도입한 것이다. 실제적으로 라그랑주 역학과 일반화 좌표를 이용하면 복잡해 보이는 물리 문제도 비교적 쉽게 풀 수 있다.
+
+윗 문단에서 정준 변환을 통하면 해밀턴 운동 방정식을 변화시키지 않고 좌표 변환이 가능함을 위에서 논의했다. 이를 통해 해밀턴 역학에서도 라그랑주 역학과 마찬가지로 계의 해밀토니안을 가장 단순한 형태로 변형시키는 정준 변환을 찾을 수 있다면 문제 풀이가 쉬워진다. 어떻게 보면 우리가 하는 작업은 해밀턴 역학판 오일러-라그랑주 방정식을 찾는 거라고 말할 수도 있겠다.
+
+가장 간단한 형태의 해밀토니안이란 상수이면 될 것이다. 그 중에서도 0으로 놓을 수만 있다면 문제 풀이가 굉장히 쉬워질 것이다. 윗 문단에서 정준 변환 전 해밀토니안을 H \mathcal{H} H , 후의 해밀토니안을 H ′ \mathcal{H}' H ′ 이라 하면 다음과 같이 주어짐을 논의했다.
+
+H + ∂ F ∂ t = H ′ \displaystyle \begin{aligned} \mathcal{H}+\frac{\partial F}{\partial t}=\mathcal{H}' \end{aligned} H + ∂ t ∂ F ​ = H ′ ​
+여기서 우리는 H ′ = 0 \mathcal{H}'=0 H ′ = 0 으로 변환되는 것을 다루고 있으므로
+
+H + ∂ F ∂ t = 0 ⋯ ( ∗ ) \displaystyle \begin{aligned} \mathcal{H}+\frac{\partial F}{\partial t}=0 \qquad \cdots \, \small{(\ast)} \end{aligned} H + ∂ t ∂ F ​ = 0 ⋯ ( ∗ ) ​
+이다.
+
+해밀토니안을 0으로 만들면 해밀턴 운동 방정식
+
+Q ˙ i = ∂ H ∂ P i = 0 − P ˙ i ≡ ∂ H ∂ Q i = 0 \displaystyle \begin{aligned} \dot{Q}_{i} &= \frac{\partial \mathcal{H}}{\partial P_{i}}=0 \\ -\dot{P}_{i} & \equiv \frac{\partial \mathcal{H}}{\partial Q_{i}}=0 \end{aligned} Q ˙ ​ i ​ − P ˙ i ​ ​ = ∂ P i ​ ∂ H ​ = 0 ≡ ∂ Q i ​ ∂ H ​ = 0 ​
+이 되어 P P P , Q Q Q 는 모두 상수가 된다. 이때 다음을 약속하자.
+
+P i ≡ β i Q i ≡ α i \displaystyle \begin{aligned} P_{i}&\equiv \beta_{i} \\ Q_{i}&\equiv \alpha_{i} \end{aligned} P i ​ Q i ​ ​ ≡ β i ​ ≡ α i ​ ​
+
+일반적으로 정준 변환의 생성 함수가 F = F ( q i , P i , t ) − ∑ i P i Q i \mathcal{F}=F(q_{i},\,P_{i},\,t)-\displaystyle\sum_{i} P_{i}Q_{i} F = F ( q i ​ , P i ​ , t ) − i ∑ ​ P i ​ Q i ​ 형태로 주어질 때를 많이 이용하는데, 이때는
+
+p i = ∂ F ∂ q i Q i = ∂ F ∂ P i → α i = ∂ F ∂ β i \displaystyle \begin{aligned} p_{i}&=\frac{\partial F}{\partial q_{i}} \\ Q_{i}&=\frac{\partial F}{\partial P_{i}} \quad \to \quad \alpha_{i}=\frac{\partial F}{\partial \beta_{i}} \end{aligned} p i ​ Q i ​ ​ = ∂ q i ​ ∂ F ​ = ∂ P i ​ ∂ F ​ → α i ​ = ∂ β i ​ ∂ F ​ ​
+로 주어진다. 이것을 식 ( ∗ ) \small{(\ast)} ( ∗ ) 에 대입하면
+
+H ( q i , ∂ F ∂ q i , t ) + ∂ F ∂ t = 0 \displaystyle \begin{aligned} \mathcal{H}\biggl(q_i,\,\frac{\partial F}{\partial q_i},\,t \biggr)+\frac{\partial F}{\partial t}=0 \end{aligned} H ( q i ​ , ∂ q i ​ ∂ F ​ , t ) + ∂ t ∂ F ​ = 0 ​
+를 얻는데, 이것을 해밀턴-야코비 방정식(Hamilton-Jacobi equation) 이라 한다. 이 방정식은 결국 이러한 정준 변환을 이루어지게 하는 해밀턴 주함수(Hamilton principal function) F ( q i , β i , t ) F(q_i,\,\beta_i,\,t) F ( q i ​ , β i ​ , t ) 를 구하는 편미분 방정식이다.
+
+이제 이 해밀턴 주함수가 무엇인지 밝혀보자. F ( q i , β i , t ) F(q_{i},\,\beta_{i},\,t) F ( q i ​ , β i ​ , t ) 를 시간에 대해 전미분하면
+
+d F d t = ∑ i ∂ F ∂ q i q ˙ i + ∂ F ∂ t = ∑ i q ˙ i p i − H = L \displaystyle \begin{aligned} \frac{{\rm d}F}{{\rm d}t}&=\sum_{i} \frac{\partial F}{\partial q_{i}}\dot{q}_{i}+\frac{\partial F}{\partial t} \\ &= \sum_{i} \dot{q}_{i} p_{i}-\mathcal{H} \\ &=\mathscr{L} \end{aligned} d t d F ​ ​ = i ∑ ​ ∂ q i ​ ∂ F ​ q ˙ ​ i ​ + ∂ t ∂ F ​ = i ∑ ​ q ˙ ​ i ​ p i ​ − H = L ​
+따라서 다음과 같이 쓸 수 있다.
+
+F = S ( q i , β i , t ) + c o n s t . \displaystyle \begin{aligned} F=S(q_{i},\,\beta_{i},\,t)+\mathsf{const.} \end{aligned} F = S ( q i ​ , β i ​ , t ) + const. ​
+여기서 S S S 는 작용 이다.
+
+해밀토니안이 시간에 직접적으로 의존하지 않는다고 해보자. 이 경우에는 해밀턴 주함수는
+
+S ( q i , β i , t ) = W ( q i , β i ) − E t \displaystyle \begin{aligned} S(q_i,\,\beta_i,\,t)=W(q_i,\,\beta_i)-Et \end{aligned} S ( q i ​ , β i ​ , t ) = W ( q i ​ , β i ​ ) − E t ​
+형식으로 쓸 수 있다. E E E 는 상수이자, 계의 에너지이다. [6] 여기서 나온 W W W 를 해밀턴 특성 함수(Hamilton characteristic function) 라 한다. 이번에도 해밀턴 특성 함수가 무엇인지 알아보자. 마찬가지로 시간에 대해 전미분하면
+
+d W d t = ∂ W ∂ q i q ˙ i \displaystyle \begin{aligned} \frac{{\rm d}W}{{\rm d}t}=\frac{\partial W}{\partial q_{i}}\dot{q}_{i} \end{aligned} d t d W ​ = ∂ q i ​ ∂ W ​ q ˙ ​ i ​ ​
+한편,
+
+p i = ∂ S ∂ q i = ∂ ∂ q i ( W ( q i , β i ) − E t ) = ∂ W ∂ q i \displaystyle \begin{aligned} p_{i}&=\frac{\partial S }{\partial q_{i}}\\&=\frac{\partial }{\partial q_{i}}(W(q_{i},\,\beta_{i})-Et)\\&=\frac{\partial W }{\partial q_{i}} \end{aligned} p i ​ ​ = ∂ q i ​ ∂ S ​ = ∂ q i ​ ∂ ​ ( W ( q i ​ , β i ​ ) − E t ) = ∂ q i ​ ∂ W ​ ​
+이므로 다음을 얻는다.
+
+d W d t = ∑ i p i q ˙ i \displaystyle \begin{aligned} \frac{{\rm d}W}{{\rm d}t}=\sum_{i}p_{i}\dot{q}_{i} \end{aligned} d t d W ​ = i ∑ ​ p i ​ q ˙ ​ i ​ ​
+양변을 적분하여 W W W 를 얻는다.
+
+W = ∫ ∑ i p i q ˙ i d t = ∫ ∑ i p i d q i \displaystyle \begin{aligned} W&=\int \sum_{i} p_{i}\dot{q}_{i}\,{\rm d}t \\ &=\int \sum_{i} p_{i}\,{\rm d}{q}_{i}\end{aligned} W ​ = ∫ i ∑ ​ p i ​ q ˙ ​ i ​ d t = ∫ i ∑ ​ p i ​ d q i ​ ​
+
+많은 경우의 학부 수준의 역학 문제는 이 해밀턴-야코비 방정식을 이용하면 계산양만 늘리고, 문제가 더 복잡하게 되나, 대학원 수준의 문제에서는 도움이 될 때가 있다. 또한 양자역학을 다룰 때 이 해밀턴-야코비 방정식은 다시 한 번 등장하게 된다.
+
+5.1. 적용 [편집]
+해밀턴-야코비 방정식을 이용해서 1차원 자유 입자에 대한 운동을 분석해보자. 여기서는 일반화 좌표로 x x x 를 사용하면 된다. 입자의 해밀토니안은
+
+H = p x 2 2 m \displaystyle \begin{aligned} \mathcal{H}=\frac{p_{x}^{2}}{2m} \end{aligned} H = 2 m p x 2 ​ ​ ​
+이다. 따라서 해밀턴-야코비 방정식은
+
+1 2 m ( ∂ S ∂ x ) 2 + ∂ S ∂ t = 0 \displaystyle \begin{aligned} \frac{1}{2m}\biggl( \frac{\partial S}{\partial x}\biggr)^2+\frac{\partial S}{\partial t}=0 \end{aligned} 2 m 1 ​ ( ∂ x ∂ S ​ ) 2 + ∂ t ∂ S ​ = 0 ​
+이고, 이 해밀토니안이 시간에 직접적으로 의존하지 않으므로 위 해를
+
+S = β x − E t \displaystyle \begin{aligned} S=\beta x-E t \end{aligned} S = β x − E t ​
+라 쓸 수 있다. 이 경우
+
+β 2 2 m − E = 0 \displaystyle \begin{aligned} \frac{\beta^{2}}{2m}-E=0 \end{aligned} 2 m β 2 ​ − E = 0 ​
+이므로 최종적으로 해는
+
+S = β x − β 2 2 m t \displaystyle \begin{aligned} S=\beta x-\frac{\beta^{2}}{2m} t \end{aligned} S = β x − 2 m β 2 ​ t ​
+인데
+
+α = ∂ F ∂ β \displaystyle \begin{aligned} \alpha&=\frac{\partial F}{\partial \beta} \end{aligned} α ​ = ∂ β ∂ F ​ ​
+이므로
+
+α = x − β m t → x = α + β m t \displaystyle \begin{aligned} \alpha&=x-\frac{\beta}{m} t \quad \to \quad x=\alpha+\frac{\beta}{m}t \end{aligned} α ​ = x − m β ​ t → x = α + m β ​ t ​
+또, 운동량을 다음과 같이 얻는다.
+
+p x = ∂ S ∂ x = β \displaystyle \begin{aligned} p_{x}= \frac{\partial S}{\partial x}=\beta \end{aligned} p x ​ = ∂ x ∂ S ​ = β ​
+즉, 1차원 자유 입자의 운동은 다음과 같이 분석되는 것이다.
+
+x = α + β m t p x = β \displaystyle \begin{aligned} x&=\alpha+\frac{\beta}{m}t \\ p_{x}&=\beta \end{aligned} x p x ​ ​ = α + m β ​ t = β ​
+α \alpha α , β \beta β 는 초기 조건 x ( 0 ) x(0) x ( 0 ) , p x ( 0 ) p_{x}(0) p x ​ ( 0 ) 으로 결정된다. 이것은 익숙한 결과이다. 이 결과를 위상 공간에서 바라보면 흥미롭다.
+
+알다시피 정준 변환 전 위상 공간 ( x , p x ) (x,\,p_{x}) ( x , p x ​ ) 는 직선을 그린다. 하지만 해밀턴-야코비 방정식을 푼다는 것은 정준 변환을 통해 해밀토니안을 0으로 만든다는 뜻이고, 이러한 좌표계 ( X , P X ) (X,\,P_{X}) ( X , P X ​ ) 에선 각 좌표가 보존량이자 상수가 되게 되므로 위상 공간에선 점으로 나타나게 된다.
+
+6. 현대 물리학으로 확장 [편집]
+
+6.1. 특수 상대성 이론 [편집]
+자세한 내용은 상대론적 역학 문서의 상대론적 해밀토니안 부분을 참고하십시오.
+
+6.2. 양자역학 [편집]
+자세한 내용은 해밀토니언 연산자 문서를 참고하십시오.
+
+7. 예제 [편집]
+자세한 내용은 해밀턴 역학/예제 문서를 참고하십시오.
+
+8. 관련 문서 [편집]
+- 고전역학
+- 해석역학
+- 라그랑주 역학
+- 르장드르 변환
+- 보존력
+- 뇌터 정리
+
+[ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 인천논현동 맛집 소문난껍데기
+map.naver.com/p/entry/place/1943388597 v-if
+여기 껍데기 안 먹어봤다는 건 인생의 반을 손해 본 거예요! 동네 맛집의 자부심!
+
+] | [ 여성강사 가능! 일신운전학원
+isdrive.co.kr
+불안한 초보도 안심! 여성 강사 배치, 1:1 집중지도, 카카오&네이버톡톡 상담
+
+]
+
+[1] 뉴턴역학에서 힘은 운동량 의 시간당 변화량으로 정의된다. 하지만 힘을 측정 하기 위해서는 그 물체의 운동량의 시간당 변화량을 측정해야 한다. 여기서 순환논증 이 발생한다. 만유인력 이나 전자기력 , 용수철의 탄성력 등등 각종의 힘의 크기와 방향을 기술하는 물리학 공식이 있지 않냐고 반문할 수 있겠지만, 이들 공식 역시 그 힘을 받는 물체의 운동량의 시간당 변화량을 측정하는 실험을 통해서 정립되었다. [2] 오일러-라그랑주 방정식 [3] 아래에서 보듯이 각 변수들로 편미분을 해야 하기 때문에, 잘못된 변수가 수식에 남아 있어서는 안된다. [4] 이러한 조건을 만족하는 계를 스클로노믹(scleronomic)이라 한다. [5] 이런 상태에 놓인 입자를 "축퇴(degenerate)되었다" 라고 표현한다. [6] 계가 특정 조건을 만족할 경우 해밀토니안은 계의 총 에너지와 같고, − ∂ S / ∂ t = H = E -\partial S/\partial t=\mathcal{H}=E − ∂ S / ∂ t = H = E 라는 것에서 증명 가능하다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

@@ -1,0 +1,443 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 국소체
+최근 수정 시각: 2026-04-26 04:15:57 [ [ [ ] [ [ 2 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 정수론
+]
+
+[ [ ] [ 관련 문서: 대수적 정수론 정수론
+Number Theory
+[ 펼치기 · 접기 ] 공리
+페아노 공리계 · 정렬 원리 · 수학적 귀납법 · 아르키메데스 성질
+산술
+나눗셈 | 약수 · 배수 | 배수 · 약수 ( 소인수 ) · 소인수분해 ( 목록 · 알고리즘 ) · 공배수 · 공약수 · 최소공배수 · 최대공약수
+약수들의 합에 따른 수의 분류 | 완전수 · 부족수 · 과잉수 ( 반완전수 · 괴짜수 ) · 친화수 · 사교수 · 혼약수 · 불가촉 수
+정리 | 베주 항등식 · 산술의 기본정리 · 나눗셈 정리
+기타 | 유클리드 호제법 · 서로소 · 페리 수열
+디오판토스 방정식 | 페르마의 마지막 정리 · 피타고라스 세 쌍 · 과일 분수방정식 문제 · 버치-스위너턴다이어 추측 (미해결)
+모듈러 연산
+모듈러 역원 · 2차 잉여 · 기약잉여계 · 완전잉여계 · 중국인의 나머지 정리 · 합동식 · 페르마의 소정리 · 오일러 정리 · 윌슨의 정리
+소수론
+수의 분류 | 소수 · 합성수 · 메르센 소수 · 쌍둥이 소수 ( 사촌 소수 · 섹시 소수 ) · 페르마 소수 · 레퓨닛 수
+분야 | 대수적 정수론 ( 국소체 ) · 해석적 정수론
+산술함수 | 뫼비우스 함수 · 소수 계량 함수 · 소인수 계량 함수 · 약수 함수 · 오일러 파이 함수 · 폰 망골트 함수 · 체비쇼프 함수 · 소수생성다항식
+정리 | 그린 타오 정리 · 페르마의 두 제곱수 정리 · 디리클레 정리 · 소피 제르맹의 정리 · 리만 가설 (미해결) · 골드바흐 추측 (미해결) ( 천의 정리 ) · 폴리냑 추측 (미해결) · 소수 정리
+기타 | 에라토스테네스의 체 · 윌런스의 공식 · 밀러-라빈 소수판별법 · 울람 나선
+
+1 . 국소체 (local field) 2 . 확장체의 분류 (Classification of extension fields) 3 . 갈루아 이론 (Galois theory) 4 . 퍼펙토이드 체 (Perfectoid field) 5 . 코호몰로지와 국소 유체 이론 (Local class field theory with cohomology) 5.1 . 코호몰로지의 성질과 계산법 (Properties of cohomology and its method of calculation) 5.2 . 국소 유체 이론 (Local class field theory) 5.3 . 루빈-테이트 탑 (Lubin-Tate tower)
+
+1. 국소체 (local field) [편집]
+위상이 달려 있는 어떤 field ⟨ k , + , ⋅ ⟩ \langle k,+,\cdot \rangle ⟨ k , + , ⋅ ⟩ 가 위상체(topological field) 라는 건 간단히 + + + , ⋅ \cdot ⋅ 이 연속임을 뜻한다. 예를 들면 Q \mathbb{Q} Q 에 discrete topology를 주거나 R \R R 에 usual topology를 준 것이 topological field가 된다.
+
+이제 다음을 정의하자.
+k k k 가 국소체(local field) 라는 건 이것이 discrete가 아닌 [1] locally compact topological field임을 뜻한다.
+
+이제부터는 k k k 가 local field라고 가정하자. k가 characteristic 0일 때는 inclusion Q → k \mathbb{Q}\to k Q → k 이 반드시 존재하고, 따라서 Ostrowski theorem 에 의해 다음 두 가지 경우만이 존재한다: - Finite extension k / R k/\R k / R
+- 적당한 소수 p p p 에 대한 finite extension k / Q p k/\mathbb{Q}_p k / Q p ​
+
+Infinite extension은 locally compact가 될 수 없기 때문이다. 한편 char. p인 경우에서는 다음을 얻는다: - Finite extension k / F q ( ( t ) ) k/\mathbb{F}_q((t)) k / F q ​ (( t ))
+
+일단은 정수론과 더 연관이 있어 보이는 2, 3번째 경우를 먼저 따져보자. k k k 의 ring of integers를 생각하고 이를 k ∘ k^\circ k ∘ 라 하자. [2] 이는 덧셈에 대한 maximal compact proper subgroup을 maximal ideal로 갖는 local ring이 된다. 나아가 Z p \Z_p Z p ​ 위의 finite free algebra임에 따라 Noetherian local ring with Krull dimension 1이 되므로 discrete valuation ring까지 된다. 따라서 그 maximal ideal은 어떤 한 원소 π \pi π 로 generate되므로, m n = p k ∘ \mathfrak{m}^n=pk^\circ m n = p k ∘ 가 되는 최소의 n n n 을 잡을 수 있다. 이제 char. 0일 때는 ∥ π ∥ = p 1 n \|\pi\|=p^{\frac 1n} ∥ π ∥ = p n 1 ​ , char. p일 때는 ∥ π ∥ = q 1 n \|\pi\|=q^{\frac 1n} ∥ π ∥ = q n 1 ​ 라고 둔다면 k k k 는 자연스러운 metric에 따라 metric space가 된다. 이 두 가지 경우를 비아르키메디안 국소체(nonarchimedean local field) 라고 하자. 이 때는 k k k 의 residue field는 finite field가 되며, 이 때 이 residue field의 characteristic을 잉여 표수 (residual characteristic) 이라고 부르자.
+
+이제 1번째 경우로 돌아가서 k / R k/\R k / R 를 살펴보면, 대수학의 기본정리에 의해, 가능한 경우는 k = R , C k=\R,\mathbb{C} k = R , C 밖에 없다. 이 경우를 아르키메디안 국소체(archimedean local field) 라고 하자. [3]
+
+2. 확장체의 분류 (Classification of extension fields) [편집]
+앞으로 L / K L/K L / K 는 무조건 separable extension이라고 하자.
+
+L / K L/K L / K 가 nonarchimedean local field들의 finite extension이면 이는 서로 극단적인 두 field extension으로 나눌 수 있다.
+K ∘ K^\circ K ∘ 의 maximal ideal을 m K \mathfrak{m}_K m K ​ 라고 한다면 L / K L/K L / K 의 degree와 ( L ∘ / m L ) / ( K ∘ / m K ) (L^\circ/\mathfrak{m}_L)/(K^\circ/\mathfrak{m}_K) ( L ∘ / m L ​ ) / ( K ∘ / m K ​ ) 의 degree가 같을 때 이를 비분기 확장 (unramified extension) 이라고 하자.
+위하곤 정 반대로 L ∘ / m L = K ∘ / m K L^\circ/\mathfrak{m}_L=K^\circ/\mathfrak{m}_K L ∘ / m L ​ = K ∘ / m K ​ 라면 L / K L/K L / K 를 완전 분기 확장 (totally ramified extension) 이라고 하자.
+
+이는 m K \mathfrak{m}_K m K ​ 의 generator를 π K \pi_K π K ​ 라고 하고 L ∘ L^\circ L ∘ 안에서 π K \pi_K π K ​ 로 만들어지는 ring의 quotient field L 0 L_0 L 0 ​ 를 생각하면 L 0 / K L_0/K L 0 ​ / K 는 unramified extension이고 L / L 0 L/L_0 L / L 0 ​ 는 totally ramified extension이 되므로 모든 field extension은 unramified part와 totally ramified part로 나눌 수 있다. [4] 앞으로 이렇게 분해했을 때 totally ramified extension의 degree를 L / K L/K L / K 의 ramification index라고 쓰자. 그리고 이를 e ( L / K ) e(L/K) e ( L / K ) 라고 쓰자.
+
+먼저 unramified extension of Q p \mathbb{Q}_p Q p ​ 를 만드는 방법을 알아보자. k k k 가 finite field일 때 k k k 의 비트 벡터들 (Witt vectors) [5] 을 다음을 만족하는 유일한 ring으로 정의하자. - W ( k ) W(k) W ( k ) 는 k k k 를 residue field로 가지는 topological local ring이다.
+- W ( k ) W(k) W ( k ) 는 Hausdorff space다.
+- 다음과 같은 inclusion i : k → W ( k ) i:k\to W(k) i : k → W ( k ) 가 있어서 W ( k ) W(k) W ( k ) 의 모든 원소들은 다음과 같이 표현할 수 있다. x = ∑ i = 0 ∞ i ( a i ) p i \displaystyle x=\sum^\infty_{i=0}i(a_i)p^i x = i = 0 ∑ ∞ ​ i ( a i ​ ) p i 여기에서 i i i 의 image를 W ( k ) W(k) W ( k ) 의 타이히뮐러 대표 (Teichmüller representative) [6] [7] 라고 하자.
+
+이 셋을 만족하는 ring은 유일하게 결정된다. 증명은 3번째 조건을 시작으로 자릿수마다 induction을 쓰는데, 대충 처음 2개의 덧셈과 곱셈을 써보면 이렇게 된다. 간단히 x ∈ W ( k ) x\in W(k) x ∈ W ( k ) 의 i i i 번째 자릿수를 s i ( x ) s_i(x) s i ​ ( x ) 라고 쓰고
+
+x = ∑ i ≥ 0 i ( a i ) p i , y = ∑ i ≥ 0 i ( b i ) p i x=\displaystyle\sum_{i\ge 0}i(a_i)p^i,\quad y=\sum_{i\ge 0}i(b_i)p^i x = i ≥ 0 ∑ ​ i ( a i ​ ) p i , y = i ≥ 0 ∑ ​ i ( b i ​ ) p i
+라고 표현하면
+
+s 0 ( x + y ) = i ( a 0 ) + i ( b 0 ) s 1 ( x + y ) = i ( a 1 ) + i ( b 1 ) − ( i ( a 0 ) + i ( b 0 ) ) p − i ( a 0 p ) − i ( b 0 p ) p s 0 ( x y ) = x 0 y 0 s 1 ( x y ) = i ( a 0 p b 1 ) + i ( a 1 b 0 p ) + p i ( a 1 b 1 ) \begin{aligned} s_0(x+y)&=i(a_0)+i(b_0)\\ s_1(x+y)&=i(a_1)+i(b_1)-\dfrac{(i(a_0)+i(b_0))^p-i(a^p_0)-i(b^p_0)}{p}\\ s_0(xy)&=x_0y_0\\ s_1(xy)&=i(a^p_0b_1)+i(a_1b^p_0)+pi(a_1b_1) \end{aligned} s 0 ​ ( x + y ) s 1 ​ ( x + y ) s 0 ​ ( x y ) s 1 ​ ( x y ) ​ = i ( a 0 ​ ) + i ( b 0 ​ ) = i ( a 1 ​ ) + i ( b 1 ​ ) − p ( i ( a 0 ​ ) + i ( b 0 ​ ) ) p − i ( a 0 p ​ ) − i ( b 0 p ​ ) ​ = x 0 ​ y 0 ​ = i ( a 0 p ​ b 1 ​ ) + i ( a 1 ​ b 0 p ​ ) + p i ( a 1 ​ b 1 ​ ) ​
+가 된다. 이는 A A A 가 ring이고 a , b ∈ A a,b\in A a , b ∈ A 일 때
+
+a ≡ b ( m o d p ) a\equiv b\pmod p a ≡ b ( mod p )
+와
+
+a p i ≡ b p i ( m o d p i + 1 ) a^{p^i}\equiv b^{p^i}\pmod{p^{i+1}} a p i ≡ b p i ( mod p i + 1 )
+가 동치임을 이용한다.
+
+Witt ring을 소개한 이유는 다음과 같다. 우리가 Z p \Z_p Z p ​ 를 정의할 때 보통은 단순하게 이렇게 정의한다.
+
+Z p : = lim ⁡ Z / p i Z \Z_p:=\lim \Z/p^i\Z Z p ​ := lim Z / p i Z
+근데 이것은 나쁜 정의다.(!) 왜냐하면 여기엔 Frobenius가 달려 있지 않기 때문이다. 하지만 저 Witt vectors를 이용해서 정의한다면
+
+Z p : = W ( F p ) \Z_p:=W(\mathbb{F}_p) Z p ​ := W ( F p ​ )
+로 정의할 수 있고, 이는 좋은 정의가 된다. 왜냐하면 Teichmüller representative에 따라서 그대로 Frobenius가 옮겨 붙기 때문이다. 그리고 이 두 정의는 똑같다. 똑같이 ( p ) (p) ( p ) 가 maximal ideal이고 residue field가 F p \mathbb{F}_p F p ​ 인 local ring이니까
+
+이렇게, 우리는 finite extension k / F p k/\mathbb{F}_p k / F p ​ 를 하나 생각하자. 그러면 이것에다가 Witt ring을 씌우면 W ( k ) / Z p W(k)/\Z_p W ( k ) / Z p ​ 란 finite free algebra가 탄생하고, 이것의 quotient field를 생각하면 K / Q p K/\mathbb{Q}_p K / Q p ​ 란 unramified field extension을 만들 수 있다. 그리고 모든 unramified field extension of Q p \mathbb{Q}_p Q p ​ 는 모두 이런 식으로 만들어진다! 간단히 어떤 unramified extension이 있다고 하면 그 residue field의 Witt ring의 quotient field를 생각하자. 따라서
+
+{ Finite extensions of F p } ⟺ { Unramified extensions of Q p } \{\text{Finite extensions of }\mathbb{F}_p\}\iff\{\text{Unramified extensions of }\mathbb{Q}_p\} { Finite extensions of F p ​ } ⟺ { Unramified extensions of Q p ​ }
+란 대응이 만들어진다.
+
+이제 totally ramified extension의 explicit criterion을 하나 보자. 먼저 L / K L/K L / K 가 totally ramified extension이고 적당한 n n n 가 있어서 m L n = π K L ∘ \mathfrak{m}^n_L=\pi_K L^\circ m L n ​ = π K ​ L ∘ 라고 하자. 그러면 적당한 a 1 , … , a n − 1 ∈ K ∘ a_1,\dots,a_{n-1}\in K^\circ a 1 ​ , … , a n − 1 ​ ∈ K ∘ 가 있어서
+
+π L n + a n − 1 π L n − 1 + ⋯ + a 1 π L = π K \pi^n_L+a_{n-1}\pi^{n-1}_L+\cdots+a_1\pi_L=\pi_K π L n ​ + a n − 1 ​ π L n − 1 ​ + ⋯ + a 1 ​ π L ​ = π K ​
+가 되고, 이를 K ∘ / m K K^\circ/\mathfrak{m}_K K ∘ / m K ​ 로 내리면 오른쪽은 0이고 따라서 왼쪽도 0이어야 하는데 π L n ∈ π K L ∘ \pi^n_L\in \pi_K L^\circ π L n ​ ∈ π K ​ L ∘ 이고 나머지 항들은 π L i ∉ π K L ∘ \pi^i_L\notin \pi_K L^\circ π L i ​ ∈ / π K ​ L ∘ 이므로 앞 계수들이 모두 a i ∈ π K K ∘ a_i \in \pi_K K^\circ a i ​ ∈ π K ​ K ∘ 가 되어야 한다. 따라서
+
+f ( x ) = x n + a n − 1 x n − 1 + ⋯ + a 1 x − π K f(x)=x^n+a_{n-1}x^{n-1}+\cdots+a_1x-\pi_K f ( x ) = x n + a n − 1 ​ x n − 1 + ⋯ + a 1 ​ x − π K ​
+는 최고차항을 제외한 모두가 π K \pi_K π K ​ 로 나뉘고 하지만 맨 마지막 항은 π K 2 \pi^2_K π K 2 ​ 로 나뉘지 않는다. 앞으로 이를 만족하는 다항식을 아이젠슈타인 다항식(Eisenstein polynomial) 이라고 하자. 그리고 여기에서 n n n 는 반드시 L / K L/K L / K 의 degree여야 함을 알 수 있다.
+
+반대로 L / K L/K L / K 가 L ∘ L^\circ L ∘ 의 π L \pi_L π L ​ 의 minimal polynomial이 Eisenstein polynomial이라고 해보자. 그리고 그 degree를 n n n 라고 하자. 그러면 우리는 위하고 같은 과정으로 π K \pi_K π K ​ 가 π K ∈ m L n \pi_K\in \mathfrak{m}^n_L π K ​ ∈ m L n ​ 임을 알 수 있고, 이것으로 ( L ∘ / m L ) / ( K ∘ / m K ) (L^\circ/\mathfrak{m}_L)/(K^\circ/\mathfrak{m}_K) ( L ∘ / m L ​ ) / ( K ∘ / m K ​ ) 로 내리면 이 degree는 1이어야 함을 알 수 있고 따라서 L / K L/K L / K 는 totally ramified extension이 된다. 따라서 다음 criterion을 얻을 수 있다.
+L / K L/K L / K 가 totally ramified extension일 필요충분조건은 π L \pi_L π L ​ 의 minimal polynomial이 Eisenstein polynomial인 것이다.
+
+마지막으로, tamely ramified extension을 정의하고 끝내자. L / K L/K L / K 가 순하게 분기된 확장(tamely ramified extension) 이란 것은 L / K L/K L / K 의 ramification index가 K K K 의 residual characteristic하고 서로소일 때를 말한다고 하자. 그럼 K K K 가 char. p 라면 L / K L/K L / K 가 totally ramified extension일 때 언제나 tamely ramified extension이다. [8]
+
+3. 갈루아 이론 (Galois theory) [편집]
+L / K L/K L / K 가 unramified extension이라고 하자. 그러면 이것은 언제나 Galois extension이다. Witt vector construction에서 p p p 를 살짝쿵 π K \pi_K π K ​ 로 바꾸는 걸로 L / K L/K L / K 엔 Frobenius가 달려 있음을 알 수 있고, 이는 uniformizer는 절대로 안 바꾸고 그 계수만 바꾸므로 그 Frobenius automorphism의 order는 L / K L/K L / K 의 residue field extension의 degree하고 같고 이는 unramified extension의 정의로 L / K L/K L / K 엔 automorphism이 최소 n n n 개 이상 있고 따라서 Galois extension이다.
+
+이번엔 L / K L/K L / K 가 local field 사이의 Galois extension이라고 하자. 그러면 residue field로 내리는 작업은
+
+G a l ( L / K ) → G a l ( ( L ∘ / m L ) / ( K ∘ / m K ) ) {\rm Gal}(L/K)\to{\rm Gal}((L^\circ/\mathfrak{m}_L)/(K^\circ/\mathfrak{m}_K)) Gal ( L / K ) → Gal (( L ∘ / m L ​ ) / ( K ∘ / m K ​ ))
+란 surjection을 만들 수 있고, 이게 만약에 bijection이라면 L / K L/K L / K 는 unramified extension이고 오른쪽이 { i d } \{{\rm id}\} { id } 라면 L / K L/K L / K 는 totally ramified extension인 것이다. 이제 이것의 kernel을 관성군 (inertia group) 이라고 부르고 I L / K I_{L/K} I L / K ​ 라고 쓰자. 이것의 order는 바로 ramification index다.
+inertia group을 좀 더 나눌텐데, Frobenius는 절대로 maximal ideal을 건드리지 못 한다. 따라서 inertia group을 건드리는 정도에 따러서 이렇게 나누면 어떨까
+
+G a l ( L / K ) i = { σ ∈ G a l ( L / K ) ∣ σ ( π ) − π ∈ m L i } {\rm Gal}(L/K)_i=\{\sigma\in{\rm Gal}(L/K)|\sigma(\pi)-\pi\in\mathfrak{m}^i_L\} Gal ( L / K ) i ​ = { σ ∈ Gal ( L / K ) ∣ σ ( π ) − π ∈ m L i ​ }
+예를 들면 G a l ( L / K ) 0 = G a l ( L / K ) , G a l ( L / K ) 1 = I L / K {\rm Gal}(L/K)_0={\rm Gal}(L/K),{\rm Gal}(L/K)_1=I_{L/K} Gal ( L / K ) 0 ​ = Gal ( L / K ) , Gal ( L / K ) 1 ​ = I L / K ​ 고 P L / K = G a l ( L / K ) 2 P_{L/K}={\rm Gal}(L/K)_2 P L / K ​ = Gal ( L / K ) 2 ​ 라고 하고 이를 wild ramification group 이라고 하자. 그리고 이 group들
+
+{ i d } = G n ⊆ G n − 1 ⊆ ⋯ ⊆ G 1 ⊆ G 0 \{{\rm id}\}=G_n\subseteq G_{n-1}\subseteq \cdots \subseteq G_1\subseteq G_0 { id } = G n ​ ⊆ G n − 1 ​ ⊆ ⋯ ⊆ G 1 ​ ⊆ G 0 ​
+을 분기군 (ramification group) 이라고 하자.
+
+그렇다면 다음과 같은 map을 생각하자.
+
+I L / K → ( L ∘ / m L ) × I_{L/K}\to (L^\circ/\mathfrak{m}_L)^\times I L / K ​ → ( L ∘ / m L ​ ) ×
+이는 σ ↦ σ ( π L ) π L \sigma\mapsto \frac{\sigma(\pi_L)}{\pi_L} σ ↦ π L ​ σ ( π L ​ ) ​ 로 정의된다. 이는 잘 정의된 group homomorphism이고 덤으로 이것의 kernel을 생각하면 바로 P L / K P_{L/K} P L / K ​ 가 나온다. 그러면 다음 injection을 정의할 수 있다.
+
+I L / K / P L / K → ( L ∘ / m L ) × I_{L/K}/P_{L/K}\to (L^\circ/\mathfrak{m}_L)^\times I L / K ​ / P L / K ​ → ( L ∘ / m L ​ ) ×
+당연히 우변의 order는 p p p 랑 서로소고, 따라서 좌변의 order도 p p p 랑 서로소인 cyclic group이 될 수밖에 없다.
+
+이제 P L / K P_{L/K} P L / K ​ 가 p-sylow group임을 증명하자. i ≥ 2 i\ge 2 i ≥ 2 일 때 다음을 정의하자.
+
+G a l ( L / K ) i → m i − 1 / m L i {\rm Gal}(L/K)_i\to \mathfrak{m}^{i-1}/\mathfrak{m}^i_L Gal ( L / K ) i ​ → m i − 1 / m L i ​
+이는 σ ↦ σ ( π L ) − π L π K \sigma\mapsto \frac{\sigma(\pi_L)-\pi_L}{\pi_K} σ ↦ π K ​ σ ( π L ​ ) − π L ​ ​ 로 정의할 수 있고, 우변의 order는 p p p 의 n n n 제곱꼴이고 그 kernel은 G a l ( L / K ) i + 1 {\rm Gal}(L/K)_{i+1} Gal ( L / K ) i + 1 ​ 다. 따라서 P L / K P_{L/K} P L / K ​ 는 p-sylow group이고 따라서 다음을 알 수 있다. L / K L/K L / K 가 tamely ramified extension이라는 것은 P L / K = { i d } P_{L/K}=\{{\rm id}\} P L / K ​ = { id } 인 것과 동치이다.
+
+이제 L / K L/K L / K 가 tamely but not totally ramified Galois extension이라면 Kummer theory 로 K K K 엔 e ( L / K ) e(L/K) e ( L / K ) -root of unity가 모두 있고, 적당한 α ∈ K \alpha\in K α ∈ K 가 있어서 L = K ( α 1 e ) L=K(\alpha^{\frac 1e}) L = K ( α e 1 ​ ) 꼴이다.
+
+4. 퍼펙토이드 체 (Perfectoid field) [편집]
+위에서 local field의 성질은 딱 두 가지, residue field 와 π K \pi_K π K ​ 의 행동 으로 결정된다고 말했다. 그리고 놀랍게도 이 두 가지에 K K K 의 characteristic이 끼치는 영향은 없다! 하지만 우리는 local field를 할 때 characteristic을 일일이 따지는데, 그 이유는 바로 F p ( ( t ) ) ( t 1 p ) \mathbb{F}_p((t))(t^{\frac 1p}) F p ​ (( t )) ( t p 1 ​ ) 같은 inseparable extension의 존재가 char. p에 있기 때문이다.
+
+그렇다면 한 가지 생각을 해본다. k k k 가 perfect가 아닌 경우에 우리는 k k k 가 perfect가 되도록 하는 방법이 있다. 바로 perfect closure다. perfect closre은 그냥 이렇게 정의한다.
+
+k p e r f = lim ⁡ x ↦ x p k \displaystyle k_{{\rm perf}}=\lim_{x\mapsto x^p} k k perf ​ = x ↦ x p lim ​ k
+여기에서 limit는 direct limit이며 사실 field에 대해선 inverse limit로 바꿔쳐도 아무 문제 없다. 하지만 perfection은 일반적인 ring of char. p에 대해서 정의하고 이 땐 inverse limit하고 맞지 않게 되므로 direct limit를 쓰겠다. 그러면 F p ( ( t ) ) \mathbb{F}_p((t)) F p ​ (( t )) 의 perfect closure는 F p ( ( t ) ) ( t 1 p ∞ ) \mathbb{F}_p((t))(t^\frac{1}{p^\infty}) F p ​ (( t )) ( t p ∞ 1 ​ ) 가 되며. 이는 perfect가 된다. 그렇다면 여기 위에선 char. p의 theory와 char. 0 theory가 완전히 똑같단 생각을 할 수 있고, 실제로 똑같다!
+
+다음을 정의하자.
+퍼펙토이드 체 (perfectoid field) K K K 를 그 ring of integers K ∘ K^\circ K ∘ 를 생각할 때 이것의 nondiscrete valuation ring of rank 1이고 당연히 있는 valuation으로 complete가 되고 이로서 만들어지는 Frobenius map K ∘ / ( p ) → K ∘ / ( p ) K^\circ/(p)\to K^\circ/(p) K ∘ / ( p ) → K ∘ / ( p ) 가 surjection인 것이다.
+
+이것을 설명하자면 valuation of rank 1이란 것은 다음 두 가지 조건을 만족하는 함수 ν : L ∘ → R ≥ 0 = { x ∈ R ∣ x ≥ 0 } \nu:L^\circ\to\R^{\ge 0}=\{x\in\R|x\ge 0\} ν : L ∘ → R ≥ 0 = { x ∈ R ∣ x ≥ 0 } 이 있단 것이다. - ν ( x + y ) ≤ max ⁡ ( ν ( x ) , ν ( y ) ) \nu(x+y)\le\max(\nu(x),\nu(y)) ν ( x + y ) ≤ max ( ν ( x ) , ν ( y ))
+- ν ( x y ) = ν ( x ) + ν ( y ) \nu(xy)=\nu(x)+\nu(y) ν ( x y ) = ν ( x ) + ν ( y )
+
+그리고 complete란 것은 이 valuation으로 만들 수 있는 metric ∥ x ∥ ν = p − ν ( x ) \|x\|_{\nu}=p^{-\nu(x)} ∥ x ∥ ν ​ = p − ν ( x ) 로 L ∘ L^\circ L ∘ 가 complete란 것이다. 그리고 nondiscrete라는 것은 ν \nu ν 의 치역이 [ 0 , 1 ] [0,1] [ 0 , 1 ] 에서 dense라는 것이다. 그러니까, L L L 이 perfectoid field라면 L ∘ L^\circ L ∘ 은 절대로 noetherian이 될 수 없다.(!)
+
+사실 "Frobenius가 surjection"이란 것과 "noetherian이 아님"이란 것은 서로 긴밀하게 연결되는데, Q p ( p 1 p ) / Q p \mathbb{Q}_p(p^{\frac 1p})/\mathbb{Q}_p Q p ​ ( p p 1 ​ ) / Q p ​ 를 생각하자. 그렇다면 당연히
+
+K ∘ / ( p ) → L ∘ / ( p ) K^\circ/(p)\to L^\circ/(p) K ∘ / ( p ) → L ∘ / ( p )
+란 Frobenius가 있는데, 이것은 p 1 p p^{\frac 1p} p p 1 ​ 란 존재 때문에 안타깝게도 surjection이 아니다. 하지만 우리는 p 1 p 2 p^\frac{1}{p^2} p p 2 1 ​ 를 하나 더 추가해보자. 그래도 surjection은 아니지만 무한번 추가한다면 우리는 드디어 K ∘ / ( p ) → K ∘ / ( p ) K^\circ/(p)\to K^\circ/(p) K ∘ / ( p ) → K ∘ / ( p ) 를 surjection으로 만들 수 있다. 하지만 이 과정에서 K ∘ K^\circ K ∘ 는 maximal ideal이 ( p , p 1 p , p 1 p 2 , … ) (p,p^\frac{1}{p},p^\frac{1}{p^2},\dots) ( p , p p 1 ​ , p p 2 1 ​ , … ) 가 되므로 finitely generate되지 않고 따라서 noetherian이 아니다.
+
+이제 K K K 가 perfectoid field일 때 다음을 정의하자.
+
+K ♭ : = lim ⁡ Φ ( K ∘ / ( p ) ) [ 1 p ♭ ] K^\flat:=\lim_{\Phi}(K^\circ/(p))\left[\frac{1}{p^\flat}\right] K ♭ := lim Φ ​ ( K ∘ / ( p )) [ p ♭ 1 ​ ]
+여기에서 Φ \Phi Φ 는 Frobenius고 limit는 inverse limit고
+
+p ♭ = ( 0 , p 1 p , p 1 p 2 , … ) ∈ lim ⁡ Φ ( L ∘ / ( p ) p^\flat=(0,p^{\frac 1p},p^\frac{1}{p^2},\dots)\in\lim_{\Phi}(L^\circ/(p) p ♭ = ( 0 , p p 1 ​ , p p 2 1 ​ , … ) ∈ lim Φ ​ ( L ∘ / ( p )
+다. 그러니까 그냥 quotient field를 생각한 것 뿐이다. 그렇다면 자명하게 K K K 가 char. p라면 그냥 K ♭ = K K^\flat=K K ♭ = K 고, 따라서 이것은 K K K 가 char. 0일 때 의미를 가진다. 그리고 K ♭ K^\flat K ♭ 은 반드시 perfectoid field of char. p가 된다.
+K , K ♭ K,K^\flat K , K ♭ 는 각각 ( p ) , ( p ♭ ) (p),(p^\flat) ( p ) , ( p ♭ ) 로 나눴을 때 나오는 ring이 완전히 똑같다. 이는 정의에 의해서 당연하다.
+K , K ♭ K,K^\flat K , K ♭ 둘은 사실 characteristic만 다르지 모든 성질이 똑같은데, 예를 들면 ( x 0 ˉ , x 1 ˉ , c d o t s ) ∈ K ♭ ∘ (\bar{x_0},\bar{x_1},cdots)\in K^{\flat\circ} ( x 0 ​ ˉ ​ , x 1 ​ ˉ ​ , c d o t s ) ∈ K ♭ ∘ 일 때 각각을 K ∘ K^\circ K ∘ 로 lifting한 걸 x n x_n x n ​ 라고 하면
+
+x ♯ = lim ⁡ n → ∞ x n p n \displaystyle x^\sharp=\lim_{n\to\infty}x^{p^n}_n x ♯ = n → ∞ lim ​ x n p n ​
+라고 정의할 수 있다. 이는 lifting의 선택에 대해서 독립이다. 그리고 x ↦ x ♭ x\mapsto x^\flat x ↦ x ♭ 라는 map을 생각하면 K ♭ ∘ → K ∘ K^{\flat\circ}\to K^\circ K ♭ ∘ → K ∘ 라는 map을 정의할 수 있고 이는 두 field의 char.이 다르기 때문에 additive는 아니지만 multiplicative고 homeomorphism으로 둘의 정보를 거의 보존한다고 할 수 있다.
+
+K K K 가 algerbraically closed란 것과 K ♭ K^\flat K ♭ 가 algebraically closed란 것이 동치임을 증명하자. 한 쪽은 자명하고 다른 쪽은 먼저 f ∈ K ♭ ∘ [ x ] f\in K^{\flat\circ}[x] f ∈ K ♭ ∘ [ x ] 의 최고차항은 1이고 상수항의 norm이 언제나 1이라고 가정하자. 이는 변수를 일차변환하면 자유도가 2개가 되므로 가능하다. 이러는 이유는 해를 근사하는 걸 편하게 하기 위함이다.
+f ♭ ∈ K ♭ ∘ [ x ] f^\flat\in K^{\flat\circ}[x] f ♭ ∈ K ♭ ∘ [ x ] 일 때 이것은 반드시 zero α ∈ K ♭ ∘ \alpha\in K^{\flat\circ} α ∈ K ♭ ∘ 를 가지고, f ∈ K ∘ [ x ] f\in K^\circ[x] f ∈ K ∘ [ x ] 가 K ∘ / ( p ) K^\circ/(p) K ∘ / ( p ) 에서 f ♭ f^\flat f ♭ 하고 image가 같을 때 f f f 의 zero를 α ♯ \alpha^\sharp α ♯ 로 근사할 건데, f ( x + α ♯ ) f(x+\alpha^\sharp) f ( x + α ♯ ) 는 상수항으로 f ( α ♯ ) f(\alpha^\sharp) f ( α ♯ ) 가 나오고, 이는 p로 나뉘고, 따라서 ∣ c ∣ = ∣ f ( α ♯ ) ∣ 1 deg ⁡ f|c|=|f(\alpha^\sharp)|^\frac{1}{\deg f} ∣ c ∣ = ∣ f ( α ♯ ) ∣ d e g f 1 ​ 이 되도록 c ∈ K c\in K c ∈ K 를 잡고 [9] f 1 ( x ) = ∣ c ∣ − deg ⁡ f f ( c x + α ♯ ) f_1(x)=|c|^{-\deg f}f(cx+\alpha^\sharp) f 1 ​ ( x ) = ∣ c ∣ − d e g f f ( c x + α ♯ ) 라고 두자. 그러면 이것의 zero를 찾으면 이건 f f f 의 zero하고 겨우 p − ( deg ⁡ f ) 2 p^{-(\deg f)^2} p − ( d e g f ) 2 만큼만 떨어져 있고, 다시 한 번 하면 zero하고 p − ( deg ⁡ f ) 3 p^{-(\deg f)^3} p − ( d e g f ) 3 만큼 떨어지고 이렇게 계속 하면 진짜 zero를 찾을 수 있다.
+
+K K K 가 perfectoid field라고 하면 K K K 위의 두 finite extension L , L ′ L,L' L , L ′ 가 L ∘ / ( p ) = ( L ′ ) ∘ / ( p ) L^\circ/(p)=(L')^\circ/(p) L ∘ / ( p ) = ( L ′ ) ∘ / ( p ) 를 만족한다고 생각할텐데, 그러면 L ♭ = ( L ′ ) ♭ L^\flat=(L')^\flat L ♭ = ( L ′ ) ♭ 이고, 여기에 위에서 배운 Witt vector construction을 그대로 생각하면
+
+W ( L ♭ ) = W ( ( L ′ ) ♭ ) W(L^\flat)=W((L')^\flat) W ( L ♭ ) = W (( L ′ ) ♭ )
+가 만족된다. 그리고 이 둘의 residue field는 L ♭ L^\flat L ♭ 가 된다. 이제 L ♭ ∘ → L ∘ / ( p ) L^{\flat\circ}\to L^\circ/(p) L ♭ ∘ → L ∘ / ( p ) 과 Witt vectors의 universal property로 W ( L ♭ ) → L ∘ W(L^\flat)\to L^\circ W ( L ♭ ) → L ∘ 를 만들 수 있고, 이걸로 W ( L ♭ ) [ 1 p ] → L W(L^\flat)\left[\frac{1}{p}\right]\to L W ( L ♭ ) [ p 1 ​ ] → L 를 만들 수 있고 kernel [10] 로 completion을 취하면
+
+B d R , L + = B d R , L ′ + B^+_{{\rm dR},L}=B^+_{{\rm dR},L'} B dR , L + ​ = B dR , L ′ + ​
+가 된다. [11] 이제 무엇보다 이 둘의 residue field는 각각 L , L ′ L,L' L , L ′ 가 되고, 따라서 L = L ′ L=L' L = L ′ 가 된다. automorphism들은 p p p 를 무조건 보존하므로 이것으로 우리는 L ↦ L ♭ L\mapsto L^\flat L ↦ L ♭ 가 category에서 봤을 때 fully faithful임을 보일 수 있으며 당연히 K ♭ K^\flat K ♭ 위의 perfectoid field도 K ♭ / ( p ) K^\flat/(p) K ♭ / ( p ) 로 옮길 수 있으므로 우리는 다음을 1-1 대응을 만들 수 있다.
+{ Perfectoid extensions of K } ⟺ { Perfectoid extensions of K ♭ } \{\text{Perfectoid extensions of }K\}\iff\{\text{Perfectoid extensions of }K^\flat\} { Perfectoid extensions of K } ⟺ { Perfectoid extensions of K ♭ }
+
+여기에서 반대쪽 화살표를 L ↦ L ♯ L\mapsto L^\sharp L ↦ L ♯ 라고 쓰자. 이제 우리는 바로 위에서 보인 결과보다 더 아름다운 다음 결과를 보일 것이다.
+{ Finite extensions of K } ⟺ { Finite extensions of K ♭ } \{\text{Finite extensions of }K\}\iff\{\text{Finite extensions of }K^\flat\} { Finite extensions of K } ⟺ { Finite extensions of K ♭ } 고 이 대응은 degree와 automorphism을 보존함
+
+G a l ( K ˉ / K ) = G a l ( K ♭ ˉ / K ♭ ) {\rm Gal}(\bar{K}/K)={\rm Gal}(\bar{K^\flat}/K^\flat) Gal ( K ˉ / K ) = Gal ( K ♭ ˉ / K ♭ )
+
+이것은 바로 char. 0하고 char. p가 사실상 차이가 아예 없음을 말해준다! 여기에서 K = Q p ( p 1 p ∞ ) ^ K=\hat{\mathbb{Q}_p(p^\frac{1}{p^\infty})} K = Q p ​ ( p p ∞ 1 ​ ) ^ ​ 라고 한다면 K ♭ = F p ( ( t ) ) ( t 1 p ∞ ) ^ K^\flat=\hat{\mathbb{F}_p((t))(t^\frac{1}{p^\infty})} K ♭ = F p ​ (( t )) ( t p ∞ 1 ​ ) ^ ​ [12] 가 되고 따라서 우리는 대충 적당히만 p제곱근을 계속 해주면 char. 0의 theory와 char. p의 theory는 다를 게 없음 이란 걸 알 수 있다.
+이것의 증명은 다음과 같다. 먼저 perfectoid field의 모든 finite extension은 perfectoid field임을 보여야 하는데, char. p일 때는 쉽다. 그냥 complete고 perfect면 perfectoid니까. 이제 char. 0일 때가 문제인데, 위에서 정의한 샾을 쓴다. K K K 가 char. 0인 perfectoid field면 K ♭ ˉ ^ \hat{\bar{K^\flat}} K ♭ ˉ ^ 은 complete에 algebraically closed field [13] 다. 이제 샾으로 K ♭ ˉ ^ ♯ \hat{\bar{K^\flat}}^\sharp K ♭ ˉ ^ ♯ 을 생각하면 이건 위에서 한 것으로 algebraically closed field고 perfectoid다.
+이제 L ⊆ K ♭ ˉ ^ L\subseteq \hat{\bar{K^\flat}} L ⊆ K ♭ ˉ ^ 라는 K K K 의 finite extension들을 죄다 샾 씌워서 합집합하면 이건 K ♭ ˉ ^ ♯ \hat{\bar{K^\flat}}^\sharp K ♭ ˉ ^ ♯ 의 subfield고 dense까지 하니까 algebraically closed field가 된다. 이는 K K K 의 모든 finite extension E E E 에 대해서 적당한 finite Galois extension L / K ♭ L/K^\flat L / K ♭ 가 있어서 E ⊆ L ♯ E\subseteq L^\sharp E ⊆ L ♯ 가 된다. 그리고 위에서 샾은 automorphism을 보존한다고 했고 L ♯ L^\sharp L ♯ 는 finite perfectoid Galois extension of K K K 니까 E E E 를 perfectoid가 되고 G a l ( L / K ♭ ) = G a l ( L ♯ / K ) {\rm Gal}(L/K^\flat)={\rm Gal}(L^\sharp/K) Gal ( L / K ♭ ) = Gal ( L ♯ / K ) subgroup 취급하면 E ♭ / K ♭ E^\flat/K^\flat E ♭ / K ♭ 의 degree와 E / K E/K E / K 의 degree는 같아야 함을 알 수 있다. 그리고 L L L 로 Galois group에 리미트 씌우면 이미 L ♯ L^\sharp L ♯ 들의 합집합이 algebraically closed임을 했으니까
+
+G a l ( K ˉ / K ) = G a l ( K ♭ ˉ / K ♭ ) {\rm Gal}(\bar{K}/K)={\rm Gal}(\bar{K^\flat}/K^\flat) Gal ( K ˉ / K ) = Gal ( K ♭ ˉ / K ♭ )
+이 된다.
+
+5. 코호몰로지와 국소 유체 이론 (Local class field theory with cohomology) [편집]
+우리는 이제 다음을 목표로 삼자. - L / K L/K L / K 가 Galois extension of local fields고 G G G 가 그 Galois group일 때 H i ( G , L × ) H^i(G,L^\times) H i ( G , L × ) 를 모든 i > 0 i>0 i > 0 에 대해서 계산하자.
+
+먼저 i = 0 i=0 i = 0 에선 계산이 쉽다. 그냥 K × K^\times K × 니까. 그리고 i = 1 i=1 i = 1 에선 Hilbert theorem 90으로 그대로 0이 된다. 그렇다면 우리가 계산해야 할 것은 i ≥ 2 i\ge 2 i ≥ 2 일 때인데, 이 때는 어떻게 계산할까?
+
+5.1. 코호몰로지의 성질과 계산법 (Properties of cohomology and its method of calculation) [편집]
+이 계산을 하기 전에 우리는 몇 가지 group cohomology에 대한 사실을 몇 개 나열하고 시작하자. 먼저, G G G 가 finite group일 때 Tate cohomology라는 것을 정의할 건데 이것은 다음과 같이 정의되는 group homology
+
+H i ( G , M ) : = T o r Z [ G ] ( Z , M ) H_i(G,M):={\rm Tor}_{\Z[G]}(\Z,M) H i ​ ( G , M ) := Tor Z [ G ] ​ ( Z , M )
+과 H i ( G , M ) H^i(G,M) H i ( G , M ) 를 연결하는 방법이다. 따라서 우리는 다음을 정의하자.
+
+H T i ( G , M ) = { H i ( G , M ) i > 0 C o k e r ( N A ) = M G / N M ( M ) i = 0 K e r ( N M ) i = − 1 H i + 1 ( G , M ) i < − 1 H^i_T(G,M)=\begin{cases}H^i(G,M) & i>0\\{\rm Coker}(N_A)=M^G/N_M(M) & i=0 \\ {\rm Ker}(N_M) & i=-1 \\ H_{i+1}(G,M)&i<-1\end{cases} H T i ​ ( G , M ) = ⎩ ⎨ ⎧ ​ H i ( G , M ) Coker ( N A ​ ) = M G / N M ​ ( M ) Ker ( N M ​ ) H i + 1 ​ ( G , M ) ​ i > 0 i = 0 i = − 1 i < − 1 ​
+여기에서 N M : M → M N_M:M\to M N M ​ : M → M 는 norm map으로 다음과 같이 정의된다.
+
+N A ( x ) = ∑ g ∈ G g x \displaystyle N_A(x)=\sum_{g\in G}gx N A ​ ( x ) = g ∈ G ∑ ​ g x
+그렇다면 0 → A → B → C → 0 0\to A\to B\to C\to 0 0 → A → B → C → 0 라는 G G G -module들의 exact sequence가 있다면 다음을 만들 수 있고
+
+⋯ → H 1 ( G , C ) → H 0 ( G , A ) → H 0 ( G , B ) → H 0 ( G , C ) → 0 ⁣ N A ↓ ⁣ N B ↓ ⁣ N C ↓ H 0 ( G , A ) → H 0 ( G , B ) → H 0 ( G , C ) → H 1 ( G , A ) → ⋯ \begin{aligned} &\cdots\to H_1(G,C)\to H_0(G,A)\to H_0(G,B)\to H_0(G,C)\to 0 \\ &\quad\quad\quad\quad\quad\!{}_{N_A}\downarrow\quad\quad\!{}_{N_B}\downarrow\quad\quad\!{}_{N_C}\downarrow\\ &\quad\quad\quad\quad H^0(G,A)\to H^0(G,B)\to H^0(G,C)\to H^1(G,A)\to\cdots \end{aligned} ​ ⋯ → H 1 ​ ( G , C ) → H 0 ​ ( G , A ) → H 0 ​ ( G , B ) → H 0 ​ ( G , C ) → 0 N A ​ ​ ↓ N B ​ ​ ↓ N C ​ ​ ↓ H 0 ( G , A ) → H 0 ( G , B ) → H 0 ( G , C ) → H 1 ( G , A ) → ⋯ ​
+snake lemma로 다음을 만들 수 있다.
+
+⋯ → H T − 2 ( G , C ) → H T − 1 ( G , A ) → H T − 1 ( G , B ) → H T − 1 ( G , C ) → H T 0 ( G , A ) → H T 0 ( G , B ) → H T 0 ( G , C ) → H T 1 ( G , A ) → ⋯ \begin{aligned}\cdots\to H^{-2}_T(G,C)\to & H^{-1}_T(G,A)\to H^{-1}_T(G,B)\to H^{-1}_T(G,C) \\ \to & H^0_T(G,A) \to H^0_T(G,B)\to H^0_T(G,C)\to H^1_T(G,A)\to\cdots\end{aligned} ⋯ → H T − 2 ​ ( G , C ) → → ​ H T − 1 ​ ( G , A ) → H T − 1 ​ ( G , B ) → H T − 1 ​ ( G , C ) H T 0 ​ ( G , A ) → H T 0 ​ ( G , B ) → H T 0 ​ ( G , C ) → H T 1 ​ ( G , A ) → ⋯ ​
+
+다음과 같은 spectral sequence가 있다. G G G 가 finite group이고 H H H 가 G G G 의 normal subgroup일 때 다음과 같은 spectral sequence가 존재한다.
+
+E 2 i j = H i ( G / H , H j ( H , M ) ) ⟹ H i + j ( G , M ) E^{ij}_2=H^i(G/H,H^j(H,M))\implies H^{i+j}(G,M) E 2 ij ​ = H i ( G / H , H j ( H , M )) ⟹ H i + j ( G , M )
+이를 Hochschild-Serre spectral sequence 라고 부른다. 이것으로 얻을 수 있는 것으로 먼저 E 2 10 E^{10}_2 E 2 10 ​ 일 때는 differnetial이 죄다 정의역이나 공역이 0이므로 spectral sequence는 수렴하고 따라서 filtration으로부터 d : 0 → E 2 10 → H 1 ( G , M ) {\rm d}:0\to E^{10}_2\to H^1(G,M) d : 0 → E 2 10 ​ → H 1 ( G , M )
+를 만들 수 있다. 근데 E 2 01 E^{01}_2 E 2 01 ​ 는 안수렴한다. 왜냐하면 정의역도 공역도 모두 0이 아닌 differential map이 있기 때문이다. 바로 E 2 01 → E 2 20 E^{01}_2\to E^{20}_2 E 2 01 ​ → E 2 20 ​ 이 그렇다. 하지만 이는 page를 한 번 더 넘기면 differential map은 아래로 두 칸, 오른쪽으로 세 칸을 가게 되므로 E 3 01 E^{01}_3 E 3 01 ​ 은 수렴하고 따라서
+
+0 → E 2 10 → H 1 ( G , M ) → E 3 01 = K e r ( E 2 01 → E 2 20 ) 0\to E^{10}_2\to H^1(G,M)\to E^{01}_3={\rm Ker}(E^{01}_2\to E^{20}_2) 0 → E 2 10 ​ → H 1 ( G , M ) → E 3 01 ​ = Ker ( E 2 01 ​ → E 2 20 ​ )
+라는 exact sequence가 만들어지게 된다. 이는 다시 쓰면
+
+0 → E 2 10 → H 1 ( G , M ) → E 2 01 → E 2 20 0\to E^{10}_2\to H^1(G,M)\to E^{01}_2\to E^{20}_2 0 → E 2 10 ​ → H 1 ( G , M ) → E 2 01 ​ → E 2 20 ​
+가 되며 E 2 20 E^{20}_2 E 2 20 ​ 는 수렴하므로 다음을 만들 수 있다.
+
+0 → H 1 ( G / H , M H ) → H 1 ( G , M ) → H 1 ( H , M ) G / H → H 2 ( G / H , M G ) → H 2 ( G , M ) 0\to H^1(G/H,M^H)\to H^1(G,M)\to H^1(H,M)^{G/H}\to H^2(G/H,M^G)\to H^2(G,M) 0 → H 1 ( G / H , M H ) → H 1 ( G , M ) → H 1 ( H , M ) G / H → H 2 ( G / H , M G ) → H 2 ( G , M )
+이를 inflation-restriction sequence 라고 한다.
+
+이제 G G G 가 cyclic group이라고 하자. 그러면 G = { g n } G=\{g^n\} G = { g n } 꼴일 테고, 그러면 다음과 같은 complex가 있을 것이다.
+
+⋯ → M → M → M → M → M → ⋯ \cdots \to M\to M\to M\to M\to M\to \cdots ⋯ → M → M → M → M → M → ⋯
+여기에서 → \to → 는 1 + g + g 2 + ⋯ + g n − 1 1+g+g^2+\cdots+g^{n-1} 1 + g + g 2 + ⋯ + g n − 1 하고 g − 1 g-1 g − 1 가 반복된다. 그러니까 다음이 성립한다.
+
+H T 2 i ( G , M ) = M G / N M ( M ) H T 2 i + 1 ( G , M ) = C o k e r ( N M ) \begin{aligned}H^{2i}_T(G,M)&=M^G/N_M(M)\\H^{2i+1}_T(G,M)&={\rm Coker}(N_M)\end{aligned} H T 2 i ​ ( G , M ) H T 2 i + 1 ​ ( G , M ) ​ = M G / N M ​ ( M ) = Coker ( N M ​ ) ​
+따라서 우리는 다음을 정의하면 어떨까
+
+h ( M ) = ∣ H T 0 ( G , M ) ∣ ∣ H T 1 ( G , M ) ∣ h(M)=\dfrac{|H^0_T(G,M)|}{|H^1_T(G,M)|} h ( M ) = ∣ H T 1 ​ ( G , M ) ∣ ∣ H T 0 ​ ( G , M ) ∣ ​
+이를 Herbrand quotient [14] 라고 한다. 그렇다면 다음 exact sequence를 보자.
+
+0 → A → B → C → 0 0\to A\to B\to C\to 0 0 → A → B → C → 0
+그러면 long exact sequence로
+
+H T 0 ( G , A ) → H T 0 ( G , B ) → H T 0 ( G , C ) → H 1 ( G , A ) → H 1 ( G , B ) → H 1 ( G , C ) → H 0 ( G , A ) H^0_T(G,A)\to H^0_T(G,B)\to H^0_T(G,C)\to H^1(G,A)\to H^1(G,B)\to H^1(G,C)\to H^0(G,A) H T 0 ​ ( G , A ) → H T 0 ​ ( G , B ) → H T 0 ​ ( G , C ) → H 1 ( G , A ) → H 1 ( G , B ) → H 1 ( G , C ) → H 0 ( G , A )
+가 만들어지는데, 이렇게 여섯개가 반복되고 따라서 이것으로
+
+h ( C ) = h ( A ) h ( B ) h(C)=h(A)h(B) h ( C ) = h ( A ) h ( B )
+를 증명할 수 있다.
+
+이번엔 G G G 가 p-group이라고 하자. 그러면 p M = 0 pM=0 pM = 0 일 때 M ≠ 0 M\ne 0 M  = 0 라면 x ∈ M x\in M x ∈ M 이 있어서 이것으로 만들어지는 G G G -module의 원소들의 orbit를 생각하면 이들은 order가 p의 n n n 제곱꼴이고 orbit는 유한개니까 Burnside's lemma를 생각할 수 있고, 그러면 0 0 0 의 존재 때문에 모든 orbit의 원소의 갯수의 합이 ∣ G ∣|G| ∣ G ∣ 의 배수가 되려면 다른 fixed point가 적어도 p − 1 p-1 p − 1 개는 있어야만 한다. 따라서 H 0 ( G , M ) H^0(G,M) H 0 ( G , M ) 는 0이 될 수 없다. 이는 역도 성립하고 H 0 ( G , M ) H_0(G,M) H 0 ​ ( G , M ) 로 바꿔도 성립한다.
+p M = 0 pM=0 pM = 0 이고 H 1 ( G , M ) = 0 H_1(G,M)=0 H 1 ​ ( G , M ) = 0 라고 하자. 먼저 p H 0 ( G , M ) pH_0(G,M) p H 0 ​ ( G , M ) 로 H 0 ( G , M ) H_0(G,M) H 0 ​ ( G , M ) 는 F p \mathbb{F}_p F p ​ -vector space고 이것의 basis들을 M M M 으로 lifting한 것을 { e i } \{e_i\} { e i ​ } 라고 쓰자. 그러면 이것이 만드는 submodule of M M M 를 M ′ M' M ′ 라고 하고 M ′ ′ = M / M ′ M''=M/M' M ′′ = M / M ′ 라고 하면 다음이 만들어진다.
+
+H 0 ( G , M ′ ) → H 0 ( G , M ) → H 0 ( G , M ′ ′ ) → 0 H_0(G,M')\to H_0(G,M)\to H_0(G,M'')\to 0 H 0 ​ ( G , M ′ ) → H 0 ​ ( G , M ) → H 0 ​ ( G , M ′′ ) → 0
+여기에서 첫번째 화살표는 정의로 isomorphism이 되고 따라서 H 0 ( G , M ′ ′ ) = 0 H_0(G,M'')=0 H 0 ​ ( G , M ′′ ) = 0 이며 위에서 증명한 것으로 M ′ ′ = 0 M''=0 M ′′ = 0 가 된다. 따라서 M = M ′ M=M' M = M ′ 가 된다.
+이제 { e i } \{e_i\} { e i ​ } 들의 formal sum으로 만들어지는 free F p [ G ] \mathbb{F}_p[G] F p ​ [ G ] -module을 L L L 라고 한다면 다음과 같은 surjection f : L → M f:L\to M f : L → M 가 있게 되고, 따라서 H 1 ( G , M ) = 0 H_1(G,M)=0 H 1 ​ ( G , M ) = 0 이므로
+
+0 → H 0 ( G , K e r f ) → H 0 ( G , L ) → H 0 ( G , M ) → 0 0\to H_0(G,{\rm Ker}\,f)\to H_0(G,L)\to H_0(G,M)\to 0 0 → H 0 ​ ( G , Ker f ) → H 0 ​ ( G , L ) → H 0 ​ ( G , M ) → 0
+가 만들어지고 이번엔 두번째 화살표가 isomorphism이고 따라서 H 0 ( G , K e r f ) = 0 H_0(G,{\rm Ker}\,f)=0 H 0 ​ ( G , Ker f ) = 0 이므로 K e r f = 0 {\rm Ker}\,f=0 Ker f = 0 고 f f f 는 isomorphism이 된다. 따라서 M M M 는 free F p [ G ] \mathbb{F}_p[G] F p ​ [ G ] -module이 된다.
+이를 좀 더 일반화할 수 있는데, p M = 0 pM=0 pM = 0 일 때 H T i ( G , M ) = 0 H^i_T(G,M)=0 H T i ​ ( G , M ) = 0 for some i i i 라면 dimension-shifting이라는 기법으로 쉽게 i = − 1 i=-1 i = − 1 인 case처럼 생각할 수 있으며 따라서 M M M 은 free F p [ G ] \mathbb{F}_p[G] F p ​ [ G ] -module이 된다.
+이제 p M = 0 pM=0 pM = 0 이란 조건 없이 생각해보자. 그러면
+
+0 → M → M → M / p M → 0 0\to M\to M\to M/pM\to 0 0 → M → M → M / pM → 0
+란 걸 생각할 수 있고, 따라서 적당한 i i i 가 있어서 H T i ( G , M ) = H T i + 1 ( G , M ) = 0 H^i_T(G,M)=H^{i+1}_T(G,M)=0 H T i ​ ( G , M ) = H T i + 1 ​ ( G , M ) = 0 일 때 M / p M M/pM M / pM 은 free F p [ G ] \mathbb{F}_p[G] F p ​ [ G ] -module이 된다.
+G G G 를 이제 p-group이 아니라 임의의 group이라고 해보자. 그리고 G p G_p G p ​ 를 Sylow p-subgroup이라고 하고 적당한 i i i 가 있어서 [15] H T i ( G p , M ) = H T i + 1 ( G p , M ) = 0 H^i_T(G_p,M)=H^{i+1}_T(G_p,M)=0 H T i ​ ( G p ​ , M ) = H T i + 1 ​ ( G p ​ , M ) = 0 라고 하자. 그리고 M M M 이 Z \Z Z -free라고 하면 아무거나 F F F 가 free G G G -module이 되도록
+
+0 → Q → F → M → 0 0\to Q\to F\to M\to 0 0 → Q → F → M → 0
+를 잡을 수 있고 이것으로 M M M 이 free이므로
+
+0 → H o m Z ( M , Q ) → H o m Z ( M , F ) → H o m Z ( M , M ) → 0 0\to {\rm Hom}_{\Z}(M,Q)\to {\rm Hom}_{\Z}(M,F)\to {\rm Hom}_{\Z}(M,M)\to 0 0 → Hom Z ​ ( M , Q ) → Hom Z ​ ( M , F ) → Hom Z ​ ( M , M ) → 0
+이 된다. 이제 여기에 G G G 로 cohomology를 씌우면
+
+0 → H o m G ( M , Q ) → H o m G ( M , F ) → H o m G ( M , M ) → H 1 ( G , H o m Z ( M , Q ) ) 0\to {\rm Hom}_{G}(M,Q)\to {\rm Hom}_{G}(M,F)\to {\rm Hom}_G(M,M)\to H^1(G,{\rm Hom}_{\Z}(M,Q)) 0 → Hom G ​ ( M , Q ) → Hom G ​ ( M , F ) → Hom G ​ ( M , M ) → H 1 ( G , Hom Z ​ ( M , Q ))
+가 되는데, 마지막은 N = H o m Z ( M , Q ) N={\rm Hom}_{\Z}(M,Q) N = Hom Z ​ ( M , Q ) 라고 하면 N / p N = H o m Z ( M / p M , Q / p Q ) N/pN={\rm Hom}_{\Z}(M/pM,Q/pQ) N / pN = Hom Z ​ ( M / pM , Q / pQ ) 고 이는
+
+0 → Q → Q → Q / p Q → 0 0\to Q\to Q\to Q/pQ\to 0 0 → Q → Q → Q / pQ → 0
+에 M M M 로 Hom functor 씌우면 free가 되고 따라서 N N N 은 cohomology가 없고 이걸로 모든 소수 p p p 에 대해서 이러므로
+
+0 → H o m G ( M , Q ) → H o m G ( M , F ) → H o m G ( M , M ) → 0 0\to {\rm Hom}_{G}(M,Q)\to {\rm Hom}_{G}(M,F)\to {\rm Hom}_G(M,M)\to 0 0 → Hom G ​ ( M , Q ) → Hom G ​ ( M , F ) → Hom G ​ ( M , M ) → 0
+이 만들어지고 이는 H o m G ( M , F ) → H o m G ( M , M ) {\rm Hom}_G(M,F)\to {\rm Hom}_G(M,M) Hom G ​ ( M , F ) → Hom G ​ ( M , M ) 가 surjection임을 말해주고 이는 다시 F → M F\to M F → M 은 M → F M\to F M → F 란 section이 있음을 말해주고 이는 M M M 이 projective G G G -module임을 말해준다.
+이제 마지막으로, M M M 가 free란 조건마저 떼버린 후, 그저 모든 소수 p p p 에 대해서 H T i ( G p , M ) = H T i + 1 ( G p , M ) = 0 H^i_T(G_p,M)=H^{i+1}_T(G_p,M)=0 H T i ​ ( G p ​ , M ) = H T i + 1 ​ ( G p ​ , M ) = 0 인 i i i 가 있다고 한 후에 M M M 에게
+
+0 → K → F → M → 0 0\to K\to F\to M\to 0 0 → K → F → M → 0
+라는 걸 줘보자. 여기에서 F F F 는 free Z \Z Z -module이다. 그러면 cohomology를 씌우면 K K K 는 위에서 한 것으로 projective여야 함을 알 수 있고, 따라서 다음을 알 수 있다.
+모든 소수 p에 대해서 적당한 i p i_p i p ​ 가 있어서 H T i p ( G p , M ) = H T i p + 1 ( G p , M ) = 0 H^{i_p}_T(G_p,M)=H^{i_p+1}_T(G_p,M)=0 H T i p ​ ​ ( G p ​ , M ) = H T i p ​ + 1 ​ ( G p ​ , M ) = 0 인 것과 H T i ( G , M ) = 0 H^i_T(G,M)=0 H T i ​ ( G , M ) = 0 for all i ∈ Z i\in \Z i ∈ Z 임은 동치다.
+
+cohomology에게 꼭 있어야 하는 것들 중 하나는 바로 cup product다. [16] group cohomology 역시 cup product가 있으며
+
+H T i ( G , M ) ⊗ H T j ( G , N ) → H i + j ( G , M ⊗ N ) H^i_T(G,M)\otimes H^j_T(G,N)\to H^{i+j}(G,M\otimes N) H T i ​ ( G , M ) ⊗ H T j ​ ( G , N ) → H i + j ( G , M ⊗ N )
+가 있다. 그러면 이는 모든 u ∈ H T i ( G , M ) u\in H^i_T(G,M) u ∈ H T i ​ ( G , M ) 에 대해서
+
+H T j ( G , N ) → H T i + j ( G , M ⊗ N ) H^j_T(G,N)\to H^{i+j}_T(G,M\otimes N) H T j ​ ( G , N ) → H T i + j ​ ( G , M ⊗ N )
+를 만들고, 이제 간단히 N = Z N=\Z N = Z 라고 하면
+
+H T j ( G , Z ) → H T i + j ( G , M ) H^j_T(G,\Z)\to H^{i+j}_T(G,M) H T j ​ ( G , Z ) → H T i + j ​ ( G , M )
+를 만들 수 있다. 그리고 i = 2 i=2 i = 2 일 때 H T 1 ( G p , M ) = 0 H^1_T(G_p,M)=0 H T 1 ​ ( G p ​ , M ) = 0 , H T 2 ( G p , M ) H^2_T(G_p,M) H T 2 ​ ( G p ​ , M ) 는 cyclic에 그 order가 G p G_p G p ​ 의 order하고 같으면 저것은 isomorphism이란 정리가 있는데, 이를 Tate theorem 이라고 한다. [17]
+
+다음을 계산하자. G a b G^{\rm ab} G ab 는 abelization으로 { g h g − 1 h − 1 ∣ g , h ∈ G } \{ghg^{-1}h^{-1}|g,h\in G\} { g h g − 1 h − 1 ∣ g , h ∈ G } 로 generate되는 normal subgroup G ′ G' G ′ 로 G G G 를 나눈 것이다.
+
+H 1 ( G , Z ) = G a b H_1(G,\Z)=G^{\rm ab} H 1 ​ ( G , Z ) = G ab
+이것은 다음 exact sequence에서 나온다.
+
+0 → I G → Z [ G ] → Z → 0 0\to I_G\to \Z[G]\to \Z\to 0 0 → I G ​ → Z [ G ] → Z → 0
+여기에서 I G I_G I G ​ 는 모든 group의 원소를 1로 보내는 Z [ G ] → Z \Z[G]\to \Z Z [ G ] → Z 의 kernel이다. 그러면 long exact sequence로 가운데는 cohomology가 날라가니까
+
+H 1 ( G , Z ) → H 0 ( G , I G ) = I G / I G 2 H_1(G,\Z)\to H_0(G,I_G)=I_G/I^2_G H 1 ​ ( G , Z ) → H 0 ​ ( G , I G ​ ) = I G ​ / I G 2 ​
+는 isomorphism이 되고, 이제 n ( σ − 1 ) ↦ σ n n(\sigma-1)\mapsto \sigma^n n ( σ − 1 ) ↦ σ n 을 생각하자. 그러면
+
+( σ − 1 ) ( τ − 1 ) = σ τ − σ − τ + 1 = ( σ τ − 1 ) − ( σ − 1 ) − ( τ − 1 ) (\sigma-1)(\tau-1)=\sigma \tau-\sigma-\tau+1=(\sigma\tau-1)-(\sigma-1)-(\tau-1) ( σ − 1 ) ( τ − 1 ) = σ τ − σ − τ + 1 = ( σ τ − 1 ) − ( σ − 1 ) − ( τ − 1 )
+로 곱셈은 commutator로 옮겨진다.
+
+마지막으로, 다음을 정의하자. G G G 가 profinite group이고 G G G 에서 finite index를 가지는 open subgroup들 U i U_i U i ​ 에 대해서
+
+H i ( G , M ) = lim ⁡ i H i ( G / U i , M U i ) H^i(G,M)=\lim_i H^i(G/U_i,M^{U_i}) H i ( G , M ) = lim i ​ H i ( G / U i ​ , M U i ​ )
+이렇게.
+
+5.2. 국소 유체 이론 (Local class field theory) [편집]
+이제 계산을 해보자. 우리는 먼저 가장 간단한 unramified extension에 대해서 계산할 텐데, K K K 가 local field고 K n K_n K n ​ 이 K K K 위에 있는 유일한 degree n의 unramified extension이라고 하자. 그리고
+
+U n = ( K n ∘ ) × , k n = K n ∘ / m K n U_n=(K^\circ_n)^\times,\quad k_n=K^\circ_{n}/\mathfrak{m}_{K_n} U n ​ = ( K n ∘ ​ ) × , k n ​ = K n ∘ ​ / m K n ​ ​
+라고 정의하자. 그렇다면 K ∘ K^\circ K ∘ 에 있는 π K \pi_K π K ​ 를 1처럼 생각하는 것으로
+
+0 → Z → K n × → U n → 0 0\to \Z\to K^\times_n\to U_n\to 0 0 → Z → K n × ​ → U n ​ → 0
+를 생각할 수 있고, 우리는 H i ( G a l ( K n / K ) , U n ) = 0 H^i({\rm Gal}(K_n/K),U_n)=0 H i ( Gal ( K n ​ / K ) , U n ​ ) = 0 for all i > 0 i>0 i > 0 임을 증명해보자. 이를 계산하기 위해서
+
+U n , i = 1 + m K n i U_{n,i}=1+\mathfrak{m}^i_{K_n} U n , i ​ = 1 + m K n ​ i ​
+를 정의하면 ⋯ ⊆ U n , 2 ⊆ U n , 1 ⊆ U n \cdots\subseteq U_{n,2}\subseteq U_{n,1}\subseteq U_n ⋯ ⊆ U n , 2 ​ ⊆ U n , 1 ​ ⊆ U n ​ 란 filtration을 만들 수 있고,
+
+U n / U n , 1 = k n × , U n , i / U n , i + 1 = k n U_n/U_{n,1}=k^\times_n,\quad U_{n,i}/U_{n,i+1}=k_n U n ​ / U n , 1 ​ = k n × ​ , U n , i ​ / U n , i + 1 ​ = k n ​
+으로 Hilbert theorem 90과 그냥 field를 coefficient 자리에 넣으면 0이 나온단 계산으로 H i ( G a l ( K n / K ) , U n / U n , 1 ) = H i ( G a l ( K n / K ) , U n , j / U n , j + 1 ) = 0 H^i({\rm Gal}(K_n/K),U_n/U_{n,1})=H^i({\rm Gal}(K_n/K),U_{n,j}/U_{n,j+1})=0 H i ( Gal ( K n ​ / K ) , U n ​ / U n , 1 ​ ) = H i ( Gal ( K n ​ / K ) , U n , j ​ / U n , j + 1 ​ ) = 0 for all i > 0 , j > 0 i>0,j>0 i > 0 , j > 0 가 나온다. 이것과 long exact sequence를 조합해서
+
+H i ( G a l ( K n / K ) , U n ) = 0 H^i({\rm Gal}(K_n/K),U_n)=0 H i ( Gal ( K n ​ / K ) , U n ​ ) = 0
+for i > 0 i>0 i > 0 임을 증명할 수 있으며 따라서
+
+H i ( G a l ( K n / K ) , Z ) = H i ( G a l ( K n / K ) , K n × ) H^i({\rm Gal}(K_n/K),\Z)=H^i({\rm Gal}(K_n/K),K^\times_n) H i ( Gal ( K n ​ / K ) , Z ) = H i ( Gal ( K n ​ / K ) , K n × ​ )
+가 된다. 이제 좌변을 계산하면
+
+0 → Z → Q → Q / Z 0\to \Z\to \mathbb{Q}\to \mathbb{Q}/\Z 0 → Z → Q → Q / Z
+가 있고 여기에서
+
+H 2 ( G a l ( K n / K ) , Z ) = H o m ( G a l ( K n / K ) , Q / Z ) → ( 1 n Z ) / Z H^2({\rm Gal}(K_n/K),\Z)={\rm Hom}({\rm Gal}(K_n/K),\mathbb{Q}/\Z)\to (\frac{1}{n}\Z)/\Z H 2 ( Gal ( K n ​ / K ) , Z ) = Hom ( Gal ( K n ​ / K ) , Q / Z ) → ( n 1 ​ Z ) / Z
+를 만들 수 있으며, 이 map을 invariant 라고 하고 i n v K {\rm inv}_K inv K ​ 라고 쓴다. 이는 isomorphism이며 H 2 ( G a l ( K n / K ) , ( K n ∘ ) × ) H^2({\rm Gal}(K_n/K),(K^\circ_n)^\times) H 2 ( Gal ( K n ​ / K ) , ( K n ∘ ​ ) × ) 의 generator들 중 i n v K ( u ) = 1 n {\rm inv}_K(u)=\frac{1}{n} inv K ​ ( u ) = n 1 ​ 를 만족하는 애를 뽑고 이를 fundamental class 라고 하자.
+
+이제 n n n 을 무한대로 보내고 K u n r = lim ⁡ K n K^{\rm unr}=\lim K_n K unr = lim K n ​ (direct limit)라고 하면
+
+i n v K : H 2 ( G a l ( K u n r / K ) , ( K u n r ) × ) → Q / Z {\rm inv}_K:H^2({\rm Gal}(K^{\rm unr}/K),(K^{\rm unr})^\times)\to \mathbb{Q}/\Z inv K ​ : H 2 ( Gal ( K unr / K ) , ( K unr ) × ) → Q / Z
+를 만들 수 있다. 앞으로 H i ( L / K ) : = H i ( G a l ( L / K ) , L × ) H^i(L/K):=H^i({\rm Gal}(L/K),L^\times) H i ( L / K ) := H i ( Gal ( L / K ) , L × ) 와 같은 방식으로 쓰겠다.
+
+그러면 L / K L/K L / K 가 degree n의 아무 local field의 field extension일 때 우리는 다음과 같은 map을 만들 수 있다.
+
+H 2 ( K u n r / K ) → H 2 ( L u n r / L ) H^2(K^{\rm unr}/K)\to H^2(L^{\rm unr}/L) H 2 ( K unr / K ) → H 2 ( L unr / L )
+이는 단순히 n n n 을 곱하는 작업이다.
+
+이제 L / K L/K L / K 가 아무 local field의 extension이라면 이것의 degree를 n이라고 하고 K n / K K_n/K K n ​ / K 를 다시 한 번 생각하자. 그러면 이 둘로 만들 수 있는 field는 K , L , K n , L K n K,L,K_n,LK_n K , L , K n ​ , L K n ​ 이렇게 넷이고, 특히 K n / K K_n/K K n ​ / K 와 L K n / L LK_n/L L K n ​ / L 는 unramified extension이다. 그리고 inflation-restriction sequence로 L K n / K LK_n/K L K n ​ / K 의 cohomology를 두 가지 방법으로 쪼개자.
+
+0 → H 2 ( L / K ) → H 2 ( L K n / K ) → H 2 ( L K n / L ) 0\to H^2(L/K)\to H^2(LK_n/K)\to H^2(LK_n/L) 0 → H 2 ( L / K ) → H 2 ( L K n ​ / K ) → H 2 ( L K n ​ / L )
+0 → H 2 ( K n / K ) → H 2 ( L K n / K ) → H 2 ( L K n / K n ) 0\to H^2(K_n/K)\to H^2(LK_n/K)\to H^2(LK_n/K_n) 0 → H 2 ( K n ​ / K ) → H 2 ( L K n ​ / K ) → H 2 ( L K n ​ / K n ​ )
+그러면 이것으로 H 2 ( K n / K ) H^2(K_n/K) H 2 ( K n ​ / K ) 의 fundamental class를 H 2 ( L K n / K ) H^2(LK_n/K) H 2 ( L K n ​ / K ) 로 옮긴다. 그러면 이는 H 2 ( L K n / L ) H^2(LK_n/L) H 2 ( L K n ​ / L ) 로 보내질 때 위에서 언급한 대로 n n n 이 곱해지는데, H 2 ( L K n / L ) H^2(LK_n/L) H 2 ( L K n ​ / L ) 의 order는 L / K L/K L / K 의 ramification index고 이는 n의 약수이므로 사라진다. 따라서 이는 H 2 ( L / K ) H^2(L/K) H 2 ( L / K ) 로 그대로 옮길 수 있으며 이를 H 2 ( L / K ) H^2(L/K) H 2 ( L / K ) 의 fundamental class 라고 하자. 그러면 이것은 order n인 cyclic subgroup of H 2 ( L / K ) H^2(L/K) H 2 ( L / K ) 를 이룬다.
+
+이제 L / K L/K L / K 를 역시 아무 extension이라고 하면 L ∘ L^\circ L ∘ 의 unit을 모은 U L U_L U L ​ 엔 적당한 open subgroup V V V 가 있어서 H i ( G a l ( L / K ) , V ) = 0 H^i({\rm Gal}(L/K),V)=0 H i ( Gal ( L / K ) , V ) = 0 for all i > 0 i>0 i > 0 이 된다. 이것의 증명은 normal basis theorem으로 적당한 α ∈ L \alpha\in L α ∈ L 가 있어서 { σ ( α ) } σ ∈ G a l ( L / K ) \{\sigma(\alpha)\}_{\sigma\in {\rm Gal}(L/K)} { σ ( α ) } σ ∈ Gal ( L / K ) ​ 는 L L L 의 basis가 되고, 이제
+
+A = ∑ σ ∈ G a l ( L / K ) σ ( α ) K ∘ \displaystyle A=\sum_{\sigma\in {\rm Gal}(L/K)}\sigma(\alpha)K^\circ A = σ ∈ Gal ( L / K ) ∑ ​ σ ( α ) K ∘
+라고 하면 적당한 i i i 가 있어서 π K i L ∘ ⊆ A \pi^i_K L^\circ\subseteq A π K i ​ L ∘ ⊆ A 고 따라서 A A A 는 open이다. 이제
+
+M = π K i + 1 A M=\pi^{i+1}_KA M = π K i + 1 ​ A
+라고 하면 이는 multiplicative고 마지막으로
+
+V = 1 + M V=1+M V = 1 + M
+라고 하면 이는 U L U_L U L ​ 의 open subgroup이 된다. 그리고 이는 unramified extension에서 했던 것처럼 해주면 V i / V i + 1 = M / π K M V^i/V^{i+1}=M/\pi_K M V i / V i + 1 = M / π K ​ M 이므로 우리가 원하는 group이 된다.
+
+이제 G a l ( L / K ) {\rm Gal}(L/K) Gal ( L / K ) 가 cyclic group이라고 하자. 그러면
+
+0 → V → U L → U L / V → 0 0\to V\to U_L\to U_L/V\to 0 0 → V → U L ​ → U L ​ / V → 0
+을 생각하면 U L / V U_L/V U L ​ / V 는 finite set으로 H T 0 , H 1 H^0_T,H^1 H T 0 ​ , H 1 를 Kummer theory로 직접 계산해주면 둘의 order는 같으므로 h ( U L / V ) = 1 h(U_L/V)=1 h ( U L ​ / V ) = 1 가 되고, 따라서 h ( U L ) = 1 h(U_L)=1 h ( U L ​ ) = 1 이다.
+
+마찬가지로
+
+0 → Z → L × → U L → 0 0\to \Z\to L^\times\to U_L\to 0 0 → Z → L × → U L ​ → 0
+를 생각하면 h ( Z ) = n h(\Z)=n h ( Z ) = n 에서 h ( L × ) = n h(L^\times)=n h ( L × ) = n 고 따라서 H 1 ( L / K ) = 0 H^1(L/K)=0 H 1 ( L / K ) = 0 에서 H 2 ( L / K ) H^2(L/K) H 2 ( L / K ) 의 order는 n이 되고, 위에서 이것은 order n인 cyclic subgroup을 가진다고 했으므로 H 2 ( L / K ) H^2(L/K) H 2 ( L / K ) 는 그냥 order n인 cyclic group이 된다.
+
+모든 local field extension L / K L/K L / K 의 Galois group은 solvable이다. 왜냐하면 가장 바깥쪽에 Frobenius들이 있는데 이것들은 cyclic group, 그 다음에 inertia group이 있는데 이것은 겉에 tamely ramified extension을 이루는 것들이 또 cyclic group, 나머진 p-group이므로 모두 solvable이기 때문이다. 따라서 우리는 cyclic group으로 쌓은 tower의 길이만큼 induction을 써서 H 2 ( L / K ) H^2(L/K) H 2 ( L / K ) 가 모든 local field extension L / K L/K L / K 에 대해서 cyclic group of order n n n 임을 알 수 있다. [18] 그러면 unramified extension에서 그대로 빌려와서
+
+i n v L / K : H 2 ( L / K ) → ( 1 n ) Z / Z {\rm inv}_{L/K}:H^2(L/K)\to (\frac{1}{n})\Z/\Z inv L / K ​ : H 2 ( L / K ) → ( n 1 ​ ) Z / Z
+란 isomorphism이 존재하며 역시 이것으로 인한 값이 1 n \frac{1}{n} n 1 ​ 가 되는 H 2 ( L / K ) H^2(L/K) H 2 ( L / K ) 의 원소를 fundamental class 라고 부르자.
+
+이제 Tate theorem을 쓸 수 있는 조건이 마련되었다. Tate theorem으로 fundamental class에 대한 cup product
+
+H T − 2 ( G a l ( L / K ) , Z ) → H T 0 ( G a l ( L / K ) , L × ) H^{-2}_T({\rm Gal}(L/K),\Z)\to H^0_T({\rm Gal}(L/K),L^\times) H T − 2 ​ ( Gal ( L / K ) , Z ) → H T 0 ​ ( Gal ( L / K ) , L × )
+는 isomorphism이며 각각을 계산하면
+
+G a l ( L / K ) a b = K × / N L / K ( L × ) {\rm Gal}(L/K)^{\rm ab}=K^\times/N_{L/K}(L^\times) Gal ( L / K ) ab = K × / N L / K ​ ( L × )
+가 완성된다. 여기에서 N L / K N_{L/K} N L / K ​ 는 norm으로
+
+N L / K ( x ) = ∏ σ ∈ G a l ( L / K ) σ ( x ) N_{L/K}(x)=\prod_{\sigma\in {\rm Gal}(L/K)}\sigma(x) N L / K ​ ( x ) = ∏ σ ∈ Gal ( L / K ) ​ σ ( x )
+로 정의한다. 그리고 여기에서 L L L 를 무한대로 보내면 K a b : = lim ⁡ L / K is an abelian extension L K^{\rm ab}:=\lim_{L/K\text{ is an abelian extension}}L K ab := lim L / K is an abelian extension ​ L 라고 하면
+
+( ⋅ , L / K ) : K × → G a l ( K a b / K ) (\cdot,L/K):K^\times\to {\rm Gal}(K^{\rm ab}/K) ( ⋅ , L / K ) : K × → Gal ( K ab / K )
+라는 map을 만들 수 있으며 이를 local reciprocity map 이라고 한다. [19]
+
+local reciprocity map을 이제 조금 계산해보자. 먼저 이것은 isomorphism은 아니지만 dense가 된다. 이렇게 되는 이유는 π K \pi_K π K ​ 가 G a l ( K a b / K ) {\rm Gal}(K^{\rm ab}/K) Gal ( K ab / K ) 안에 있는 Frobenius F r K {\rm Fr}_K Fr K ​ 에 대응되기 때문이다. 이렇게 Frobenius에 대응된다는 것의 증명은 L / K L/K L / K 가 unramified extension이라고 할 때 fundamental class가 H 2 ( L / K ) = H o m ( G a l ( L / K ) , Q / Z ) H^2(L/K)={\rm Hom}({\rm Gal}(L/K),\mathbb{Q}/\Z) H 2 ( L / K ) = Hom ( Gal ( L / K ) , Q / Z ) 에서 Frobenius를 1 n \frac{1}{n} n 1 ​ 로 보내는 걸로 대응되고 이제 cup product를 직접 계산하자.
+
+이것으로 U K U_K U K ​ 는 G a l ( K a b / K ) {\rm Gal}(K^{\rm ab}/K) Gal ( K ab / K ) 의 inertia group에 대응됨을 알 수 있므며, 이는 정확하게 그 image와 isomorphic하다. 이 정리를 Takagi existence theorem 이라고 부른다. [20]
+
+Takagi existence theorem에 의하면 K × K^\times K × 의 finite index를 가지는 open subgroup U U U 는 local reciprocity map으로 보내면 inertia group I K I_K I K ​ 의 finite index를 가지는 open subgroup으로 대응될 수 있으며 따라서 이는 K K K 의 totally ramified extension L / K L/K L / K 에 대응된다. 그리고 이는 U = N L / K ( L × ) U=N_{L/K}(L^\times) U = N L / K ​ ( L × ) 를 만족하고, 그러니까 모든 open subgroup은 norm group꼴이 된다.
+
+우리는 아직 Takagi existence theorem을 증명할 수 없는데, 이것을 증명하려면 직접 inertia group을 explicit하게 계산해야 하고, 그 과정에서 여기에선 정의하지 않은 Herbrand function을 정의해야 하고 그것을 계산해야 한다.
+
+여기에서 우리는 K × → G a l ( K a b / K ) K^\times\to {\rm Gal}(K^{\rm ab}/K) K × → Gal ( K ab / K ) 를 isomorphism으로 만들어보고 싶은데, 먼저 K K K 가 residue characteristic이 p고 그 residue field가 k K k_K k K ​ 라고 하고 이것의 원소의 갯수를 q q q 라고 하면
+
+0 → I K → G a l ( K ˉ / K ) → G a l ( k K ˉ / k K ) → 0 0\to I_K\to {\rm Gal}(\bar{K}/K)\to {\rm Gal}(\bar{k_K}/k_K)\to 0 0 → I K ​ → Gal ( K ˉ / K ) → Gal ( k K ​ ˉ ​ / k K ​ ) → 0
+라는 exact sequence를 만들 수 있는데, 여기에서 맨 오른쪽의 group은 F r q : x ↦ x q {\rm Fr}_q:x\mapsto x^q Fr q ​ : x ↦ x q 으로 generate되는 group Z \Z Z 를 dense subgroup으로 가진다. 따라서 우리는 그냥 Z \Z Z 의 inverse image를 생각하고 이렇게 해서 만든 G a l ( K ˉ / K ) {\rm Gal}(\bar{K}/K) Gal ( K ˉ / K ) 의 subgroup을 K K K 의 Weil group 이라고 하고 W K W_K W K ​ 라고 쓰자. 그러면 local reciprocity map은 K × → W K a b K^\times\to W^{\rm ab}_K K × → W K ab ​ 란 isomorphism을 만든다.
+
+5.3. 루빈-테이트 탑 (Lubin-Tate tower) [편집]
+우리가 위에서 K × → G a l ( K a b / K ) K^\times\to {\rm Gal}(K^{\rm ab}/K) K × → Gal ( K ab / K ) 를 만들었고, π K \pi_K π K ​ 에 대해선 local reciprocity map을 계산하는데 성공했다. 하지만 U L U_L U L ​ 에 대해선 계산하지 못 하고 그래서 Takagi existence theorem도 증명하지 못 했는데, 바로 여기에서 reciprocity map을 계산하는 방법이 바로 Lubin-Tate method 다.
+[ 여성강사 가능! 일신운전학원
+isdrive.co.kr
+불안한 초보도 안심! 여성 강사 배치, 1:1 집중지도, 카카오&네이버톡톡 상담
+
+] | [ 운전면허.장롱탈출 25만원
+map.naver.com/p/entry/place/1475980632 v-if
+면허딸때까지. 운전할때까지 3개월 무제한 연습. 15분 무료체험. 남동구청앞
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+]
+
+[1] Discrete인 경우는 trivial case이므로 제외시키는 것이 자연스럽다. [2] O k O_k O k ​ 라고도 표기한다. [3] Archimedean이라는 말은, 임의의 x ∈ k x\in k x ∈ k 에 대하여 적당한 자연수 n n n 가 있어서 ∣ x ∣ < ∣ n ∣|x|<|n| ∣ x ∣ < ∣ n ∣ 이라는 아르키메데스 성질 로부터 비롯되었다. [4] 이런 분해를 이렇게 해석할 수도 있다. local field 사이의 모든 extension은 residue field extension 과 uniformizer의 위치 이 둘로 결정된다. [5] 여담으로, 이 Witt이란 수학자는 제2차 세계 대전 당시 나치 에게 충성을 바치고 나치를 위해 암호해독을 하던 나치 당원이었다고 한다. 그래서 2차 세계대전이 끝나고 연합군에 의해서 쫒겨났다고. [6] 이 Teichmüller 역시 Witt와 마찬가지로 광신적인 나치였고(그러나 Teichmüller는 Witt와는 다르게 유대인이었다. 더불어 Witt를 나치에 입문시킨것도 Teichmüller였다고 전해진다), Teichmüller의 경우는 독일이 지기 시작하자 아예 나치를 위해서 제2차 세계 대전에 직접 참전했고 결국 쿠르스크 전투 에서 실종되고 만다. Teichmüller는 수학사 전체에서 최고 수준에 가까운 천재였던 것으로 보인다. 1940년대 전후에 탄생한 그의 업적이 온전히 이해된 것은 1970년대에 이르러서였다. (그토록 오랜 기간이 걸린 이유는 그가 나치였다는 점이 가장 컸고, 그의 논문의 서술 스타일과 최고 수준의 심오함 역시 큰 이유였다.) 디외도네는 그에게 '아마도 갈루아에 준하는 천재' 라는 찬사를 남겼다. [7] Jean Dieudonné, <Pour l'honneur de l'esprit humain : les mathématiques aujourd'hui> [8] degree가 p라면 L / K L/K L / K 는 separable extension이 될 수 없다. [9] 이는 perfectoid field는 noetherian이 아니고 complete이기에 가능하다. [10] 이 kernel은 principal ideal이다. 이건 i ( p ♭ ) − p i(p^\flat)-p i ( p ♭ ) − p 로 kernel이 generate되므로 쉽게 끝난다. [11] 이것을 Fontaine's period ring 이라고 한다. [12] hat은 completion을 취했음을 뜻한다고 하자. [13] 어떤 field가 algebraically closed field라는 것과 그 completion가 algebraically closed field라는 건 동치다. 증명은 Krasner's lemma 를 쓴다. [14] 20세 초반에 이미 class field theory와 수리논리학에서 큰 업적을 남긴 수학자다. 안타깝게도 23살에 알프스산맥 을 등산하다가 추락으로 요절 하였다. [15] i i i 는 p p p 에 의존해도 된다. [16] cup product는 higher algebra의 관점에서 바라보았을 때 그저 E ∞ E_{\infty} E ∞ ​ -algebra에 달려 있는 곱셈을 homotopy의 세계로 떨어트린 것에 불과하다. [17] 증명은 조금 복잡하다. 한 번 j j j 에 대해서 dimension-shifting을 써주면 위에서 열심히 증명한 것으로 i = 0 i=0 i = 0 에 대해서 증명할 수 있고 이제 i i i 에 대해서 induction과 dimension-shifting을 쓴다. [18] 이 과정을 Cassels&Fröhlich에 있는 Serre의 local class field theory에선 ugly lemma라고 부르고 있다. [19] 여담으로 H 2 ( L / K ) H^2(L/K) H 2 ( L / K ) 의 generator는 φ ( n ) \varphi(n) φ ( n ) 개이므로 가능한 fundamental class도 φ ( n ) \varphi(n) φ ( n ) 개고 따라서 이런 가능한 local reciprocity map의 갯수는 사실 무한개다. 하지만 이는 별로 상관 없는데, 그냥 K × K^\times K × 의 원소에서 π K \pi_K π K ​ 를 뭘로 잡느냐, U K / U K , 1 U_K/U_{K,1} U K ​ / U K , 1 ​ 이나 U K , n / U K , n U_{K,n}/U_{K,n} U K , n ​ / U K , n ​ 의 generator를 뭘로 잡아서 Galois group에 대응시키느냐의 문제일 뿐이다. [20] Takagi는 일본의 수학자로 제2차 세계 대전 전에 PURPLE 이란 암호체계를 개발했지만 퍼플은 태평양 전쟁 이 시작되기도 전에 뚫린 암호체계로 유명하다. (...) 덕분에 이 수학자, 인터넷에선 암호학 전문가도 아니면서 엉성한 암호 만들어서 금방 뚫렸다고 많이 조롱받는 듯 하다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

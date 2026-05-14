@@ -1,0 +1,162 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 부분적분/LIATE 법칙
+최근 수정 시각: 2026-02-20 07:35:11 [ [ [ ] [ [ 3 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 해석학(수학)
+- 미적분
+]
+
+[ [ ] [ 상위 문서: 부분적분 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 상세 2.1 . 대한민국의 고등학교 교육과정에서 3 . LIATE 법칙이 적용되지 않는 경우 3.1 . 삼각함수 3.2 . 지수함수 3.2.1 . 쌍곡선 함수 3.3 . 삼각함수 + 지수함수 합성 4 . 특수함수 의 경우
+
+1. 개요 [편집]
+부분적분 을 할 때 쓰이는 방법론 중 하나로, 브래들리 대학의 Herbert Kasube가 제안한 LIATE 법칙 을 설명한다.
+
+2. 상세 [편집]
+L | L ogarithmic functions ( 로그함수 ) | ln ⁡ x \ln{x} ln x , log ⁡ a x \log_{a}{x} lo g a ​ x 등 [1]
+I | I nverse trigonometric functions ( 역삼각함수 ) | sin ⁡ − 1 x \sin^{-1}{x} sin − 1 x , tan ⁡ − 1 x \tan^{-1}{x} tan − 1 x 등
+A | A lgebraic functions ( 대수적 함수 ) | x 2 x^{2} x 2 , x 2 − 1 x 2 + 1 \dfrac{x^2-1}{x^2+1} x 2 + 1 x 2 − 1 ​ , x + x \sqrt{x+\sqrt{x}} x + x ​ ​ 등
+T | T rigonometric functions ( 삼각함수 ) | sin ⁡ x \sin{x} sin x , tan ⁡ x \tan{x} tan x 등
+E | E xponential functions ( 지수함수 ) | e x e^{x} e x , sinh ⁡ x \sinh x sinh x [2] [3] 등
+
+표의 위쪽(LIATE 기준 왼쪽)으로 갈수록 미분 우선 이고, 표의 아래쪽(LIATE 기준 오른쪽)으로 갈수록 적분 우선 이다. 이러한 우선순위가 존재하는 까닭은 로그함수로 갈 수록 적분이 까다로워지기 때문이다. 다만, 로그함수와 역삼각함수의 경우에는 우선순위가 유동적인 경우가 많아 LIATE 법칙이 항상 옳은 것은 아니다. 때로는 ILATE 순이 더 적절할 수도 있다.
+
+2.1. 대한민국의 고등학교 교육과정에서 [편집]
+한국의 고등학교 교육과정에서는 역삼각함수를 배우지 않기 때문에 이 순서를 'LATE 법칙'이라고 하며, 대수적 함수라는 표현 대신 다항함수 [4] 라는 표현을 쓰기 때문에 '로다삼지 '라는 순서로도 흔히 외운다. 반대로 지삼다로라고 외우기도 한다.
+
+3. LIATE 법칙이 적용되지 않는 경우 [편집]
+다만 때에 따라서는 적분 우선이라는 삼각함수, 지수함수 적분이 단순 로그함수 적분보다 훨씬 어려워지기도 한다. 특수함수 가 나오면 다행이고 [5] , 아예 대응 특수함수조차 없는 상황도 꽤 잦다. 이런 내막을 모른 채 로다삼지를 과신하면 계산이 어려워진다.
+
+대응 특수함수 적분식이 없는 함수는 울며 겨자먹기로 (대학교 미적분학 과정에서) 테일러 전개 혹은 중적분 의 극좌표 변환( 가우스 적분 )을 활용하여 적분하거나, ( 공업수학 에서) 라플라스 변환 / 푸리에 변환 [6] 으로 돌아서 가는 방법을 사용해야 한다.
+
+3.1. 삼각함수 [편집]
+- ∫ sin ⁡ x 2 d x = S ( x ) + c o n s t . \displaystyle \int \sin x^2\, \mathrm{d}x = S(x) + \mathsf{const.} ∫ sin x 2 d x = S ( x ) + const. - 프레넬 사인 적분 함수 를 사용해야 한다. [7]
+- ∫ cos ⁡ x 2 d x = C ( x ) + c o n s t . \displaystyle \int \cos x^2\, \mathrm{d}x = C(x) + \mathsf{const.} ∫ cos x 2 d x = C ( x ) + const. - 프레넬 코사인 적분 함수 를 사용해야 한다. [8]
+- ∫ sin ⁡ ( x − 1 ) d x = − C i ( x − 1 ) + x sin ⁡ ( x − 1 ) + c o n s t . \displaystyle \int \sin(x^{-1}) \, \mathrm{d}x = -\mathrm{Ci}(x^{-1}) + x \sin(x^{-1}) + \mathsf{const.} ∫ sin ( x − 1 ) d x = − Ci ( x − 1 ) + x sin ( x − 1 ) + const. - 코사인 적분 함수 를 사용해야 한다.
+- ∫ cos ⁡ ( x − 1 ) d x = S i ( x − 1 ) + x cos ⁡ ( x − 1 ) + c o n s t . \displaystyle \int \cos(x^{-1}) \, \mathrm{d}x = \mathrm{Si}(x^{-1}) + x \cos(x^{-1}) + \mathsf{const.} ∫ cos ( x − 1 ) d x = Si ( x − 1 ) + x cos ( x − 1 ) + const. - 사인 적분 함수 를 사용해야 한다.
+- ∫ sin ⁡ ∣ x ∣ d x = ( 1 − cos ⁡ x ) s g n ( x ) + 1 + c o n s t . \displaystyle \int \sin |x| \, \mathrm{d}x = (1- \cos x) \ \mathrm{sgn}(x)+1 + \mathsf{const.} ∫ sin ∣ x ∣ d x = ( 1 − cos x ) sgn ( x ) + 1 + const. - 부호 함수 를 사용해야 한다.
+- ∫ tan ⁡ ∣ x ∣ d x = − ln ⁡ ∘ cos ⁡ ( x ) s g n ( x ) + c o n s t . \displaystyle \int \tan |x| \, \mathrm{d}x = - \ln \circ \cos (x) \ \mathrm{sgn}(x) + \mathsf{const.} ∫ tan ∣ x ∣ d x = − ln ∘ cos ( x ) sgn ( x ) + const. - 부호 함수 를 사용해야 한다.
+- ∫ csc ⁡ ∣ x ∣ d x = ln ⁡ ∘ tan ⁡ ( x 2 ) s g n ( x ) + c o n s t . \displaystyle \int \csc |x| \, \mathrm{d}x = \ln \circ \tan \left(\frac{x}{2}\right) \mathrm{sgn}(x) + \mathsf{const.} ∫ csc ∣ x ∣ d x = ln ∘ tan ( 2 x ​ ) sgn ( x ) + const. - 부호 함수 를 사용해야 한다.
+- ∫ cot ⁡ ∣ x ∣ d x = ln ⁡ ∘ sin ⁡ ( x ) s g n ( x ) + c o n s t . \displaystyle \int \cot |x| \, \mathrm{d}x = \ln \circ \sin(x) \ \mathrm{sgn}(x) + \mathsf{const.} ∫ cot ∣ x ∣ d x = ln ∘ sin ( x ) sgn ( x ) + const. - 부호 함수 를 사용해야 한다.
+- ∫ ∣ sin ⁡ x ∣ d x = − s g n ∘ sin ⁡ ( x ) cos ⁡ x + c o n s t . \displaystyle \int \left|\sin x \right| \mathrm{d}x = - \mathrm{sgn} \circ \sin(x) \cos x+ \mathsf{const.} ∫ ∣ sin x ∣ d x = − sgn ∘ sin ( x ) cos x + const. - 부호 함수 를 사용해야 한다.
+- ∫ ∣ cos ⁡ x ∣ d x = s g n ∘ cos ⁡ ( x ) sin ⁡ x + c o n s t . \displaystyle \int \left|\cos x \right| \mathrm{d}x = \mathrm{sgn} \circ \cos(x) \sin x+ \mathsf{const.} ∫ ∣ cos x ∣ d x = sgn ∘ cos ( x ) sin x + const. - 부호 함수 를 사용해야 한다.
+- ∫ ∣ tan ⁡ x ∣ d x = − s g n ∘ tan ⁡ ( x ) ln ⁡ ∣ cos ⁡ x ∣ + c o n s t . \displaystyle \int \left| \tan x \right| \mathrm{d}x = -\mathrm{sgn} \circ \tan(x) \ln \left| \cos x \right| + \mathsf{const.} ∫ ∣ tan x ∣ d x = − sgn ∘ tan ( x ) ln ∣ cos x ∣ + const. - 부호 함수 를 사용해야 한다.
+- ∫ ∣ sec ⁡ x ∣ d x = s g n ( sec ⁡ x ) ln ⁡ ∣ sec ⁡ x + tan ⁡ x ∣ + c o n s t . \displaystyle \int \left| \sec x \right| \, \mathrm{d}x = \mathrm{sgn}\left(\sec x\right) \ln \left|\sec x + \tan x\right| + \mathsf{const.} ∫ ∣ sec x ∣ d x = sgn ( sec x ) ln ∣ sec x + tan x ∣ + const. - 부호 함수 를 사용해야 한다.
+- ∫ ∣ csc ⁡ x ∣ d x = − s g n ( csc ⁡ x ) ln ⁡ ∣ csc ⁡ x + cot ⁡ x ∣ + c o n s t . = s g n ( csc ⁡ x ) ln ⁡ ∣ csc ⁡ x − cot ⁡ x ∣ + c o n s t . \displaystyle \int \left| \csc x \right| \, \mathrm{d}x = -\mathrm{sgn}\left(\csc x\right) \ln \left|\csc x + \cot x\right| + \mathsf{const.} = \mathrm{sgn}\left(\csc x\right) \ln \left|\csc x - \cot x\right| + \mathsf{const.} ∫ ∣ csc x ∣ d x = − sgn ( csc x ) ln ∣ csc x + cot x ∣ + const. = sgn ( csc x ) ln ∣ csc x − cot x ∣ + const. - 부호 함수 를 사용해야 한다.
+- ∫ ∣ cot ⁡ x ∣ d x = s g n ( cot ⁡ x ) ln ⁡ ∣ sin ⁡ x ∣ + c o n s t . \displaystyle \int \left| \cot x \right| \, \mathrm{d}x = \mathrm{sgn}\left(\cot x\right) \ln \left|\sin x\right| + \mathsf{const.} ∫ ∣ cot x ∣ d x = sgn ( cot x ) ln ∣ sin x ∣ + const. - 부호 함수 를 사용해야 한다.
+- ∫ x tan ⁡ x d x = i 2 ( L i 2 ( − e 2 i x ) + x ( x + 2 i ln ⁡ ( 1 + e 2 i x ) ) ) + c o n s t . \displaystyle \int x \tan x \, \mathrm{d}x = \frac{i}{2}(\mathrm{Li}_2(-e^{2ix})+x(x+2i \ln(1+e^{2ix})))+ \mathsf{const.} ∫ x tan x d x = 2 i ​ ( Li 2 ​ ( − e 2 i x ) + x ( x + 2 i ln ( 1 + e 2 i x ))) + const. - 폴리로그함수 를 사용해야 한다.
+- ∫ x csc ⁡ x d x = − 2 i L i 2 ( e i x ) + i 2 L i 2 ( e 2 i x ) − 2 x tanh ⁡ − 1 e i x + c o n s t . \displaystyle \int x \csc x \, \mathrm{d}x = -2 i \mathrm{Li}_2(e^{i x}) + \frac{i}{2} \mathrm{Li}_2(e^{2 i x}) - 2 x \tanh^{-1} e^{i x} + \mathsf{const.} ∫ x csc x d x = − 2 i Li 2 ​ ( e i x ) + 2 i ​ Li 2 ​ ( e 2 i x ) − 2 x tanh − 1 e i x + const. - 폴리로그함수 와 역쌍곡선 탄젠트 를 사용해야 한다.
+- ∫ x sec ⁡ x d x = − i ( L i 2 ( i e i x ) − L i 2 ( sin ⁡ x − i cos ⁡ x ) + 2 x tan ⁡ − 1 e i x ) + c o n s t . \displaystyle \int x \sec x \, \mathrm{d}x = -i (\mathrm{Li}_2(i e^{i x}) - \mathrm{Li}_2(\sin x -i \cos x) + 2 x \tan^{-1}e^{i x}) + \mathsf{const.} ∫ x sec x d x = − i ( Li 2 ​ ( i e i x ) − Li 2 ​ ( sin x − i cos x ) + 2 x tan − 1 e i x ) + const. - 폴리로그함수 와 역탄젠트 를 사용해야 한다.
+- ∫ x cot ⁡ x d x = 1 2 ( − i L i 2 ( − e 2 i x ) − i x 2 + 2 x ln ⁡ ( 1 − e 2 i x ) ) + c o n s t . \displaystyle \int x \cot x \, \mathrm{d}x = \frac{1}{2}(-i \mathrm{Li}_2(-e^{2ix})-ix^2+2x \ln(1-e^{2ix}))+ \mathsf{const.} ∫ x cot x d x = 2 1 ​ ( − i Li 2 ​ ( − e 2 i x ) − i x 2 + 2 x ln ( 1 − e 2 i x )) + const. - 폴리로그함수 를 사용해야 한다.
+- ∫ sin ⁡ x x d x = S i ( x ) + c o n s t . \displaystyle \int \frac{\sin x}{x} \, \mathrm{d}x = \mathrm{Si}(x) + \mathsf{const.} ∫ x sin x ​ d x = Si ( x ) + const. - 사인 적분 함수 를 사용해야 한다.
+- ∫ cos ⁡ x x d x = C i ( x ) + c o n s t . \displaystyle \int \frac{\cos x}{x} \, \mathrm{d}x = \mathrm{Ci}(x) + \mathsf{const.} ∫ x cos x ​ d x = Ci ( x ) + const. - 코사인 적분 함수 를 사용해야 한다.
+- ∫ tan ⁡ x x d x \displaystyle \int \frac{\tan x}{x} \, \mathrm{d}x ∫ x tan x ​ d x - 대응하는 적분식 자체가 없다.
+- ∫ csc ⁡ x x d x \displaystyle \int \frac{\csc x}{x} \, \mathrm{d}x ∫ x csc x ​ d x - 대응하는 적분식 자체가 없다.
+- ∫ sec ⁡ x x d x \displaystyle \int \frac{\sec x}{x} \, \mathrm{d}x ∫ x sec x ​ d x - 대응하는 적분식 자체가 없다.
+- ∫ cot ⁡ x x d x \displaystyle \int \frac{\cot x}{x} \, \mathrm{d}x ∫ x cot x ​ d x - 대응하는 적분식 자체가 없다.
+
+물론 위에 적분식이 없다고 언급된 네 함수는 직접 대응시키는 적분식은 없지만, 테일러 급수 전개를 통해서 무한급수의 형태로 만드는 것은 가능하다.
+
+3.2. 지수함수 [편집]
+- ∫ e − x 2 d x = π 2 e r f ( x ) + c o n s t . \displaystyle \int e^{-x^2} \mathrm{d}x = \frac{\sqrt{\pi}}{2} \mathrm{erf}(x) + \mathsf{const.} ∫ e − x 2 d x = 2 π ​ ​ erf ( x ) + const. - 오차함수 를 사용해야 한다.
+- ∫ e x x d x = E i ( x ) + c o n s t . \displaystyle \int \frac{e^x}{x} \mathrm{d}x = \mathrm{Ei}(x) + \mathsf{const.} ∫ x e x ​ d x = Ei ( x ) + const. - 지수 적분 함수 를 사용해야 한다.
+- ∫ e 1 x d x = x e 1 x + E i ( 1 x ) + c o n s t . \displaystyle \int e^{\frac{1}{x}} \mathrm{d}x = xe^{\frac{1}{x}} + \mathrm{Ei}\left(\frac{1}{x}\right) + \mathsf{const.} ∫ e x 1 ​ d x = x e x 1 ​ + Ei ( x 1 ​ ) + const. - 지수 적분 함수 를 사용해야 한다.
+- ∫ x x d x \displaystyle \int x^{x} \mathrm{d}x ∫ x x d x - 대응하는 적분식 자체가 없다.
+
+3.2.1. 쌍곡선 함수 [편집]
+- ∫ x tanh ⁡ x d x = − 1 2 L i 2 ( − e − 2 x ) + x 2 2 + x ln ⁡ ( e − 2 x + 1 ) + c o n s t . \displaystyle \int x\tanh{x}\,\mathrm{d}x = -\frac{1}{2} \,\mathrm{Li}_2(-e^{-2x}) + \frac{x^2}{2} + x\ln{(e^{-2x}+1)} + \mathsf{const.} ∫ x tanh x d x = − 2 1 ​ Li 2 ​ ( − e − 2 x ) + 2 x 2 ​ + x ln ( e − 2 x + 1 ) + const. - 폴리로그함수 를 사용해야 한다.
+- ∫ x c o t h x d x = − 1 2 L i 2 ( e − 2 x ) + x 2 2 + x ln ⁡ ( − e − 2 x + 1 ) + c o n s t . \displaystyle \int x\,\mathrm{coth}\,{x}\,\mathrm{d}x = -\frac{1}{2} \,\mathrm{Li}_2(e^{-2x}) + \frac{x^2}{2} + x\ln{(-e^{-2x}+1)} + \mathsf{const.} ∫ x coth x d x = − 2 1 ​ Li 2 ​ ( e − 2 x ) + 2 x 2 ​ + x ln ( − e − 2 x + 1 ) + const. - 폴리로그함수 를 사용해야 한다.
+- ∫ x s e c h x d x = i L i 2 ( i e − x ) − i L i 2 ( − i e − x ) + 2 x a r c c o t ( e x ) + c o n s t . \displaystyle \int x\,\mathrm{sech}\,{x}\,\mathrm{d}x = i\,\mathrm{Li}_2(ie^{-x}) - i\,\mathrm{Li}_2(-ie^{-x}) + 2x\,\mathrm{arccot}{(e^x)} + \mathsf{const.} ∫ x sech x d x = i Li 2 ​ ( i e − x ) − i Li 2 ​ ( − i e − x ) + 2 x arccot ( e x ) + const. - 폴리로그함수 를 사용해야 한다.
+- ∫ x c s c h x d x = L i 2 ( sinh ⁡ x − cosh ⁡ x ) − L i 2 ( e − x ) − 2 x a r c o t h ( e x ) + c o n s t . \displaystyle \int x\,\mathrm{csch}\,{x}\,\mathrm{d}x = \mathrm{Li}_2(\sinh{x}-\cosh{x}) - \mathrm{Li}_2(e^{-x}) - 2x\,\mathrm{arcoth}{(e^x)} + \mathsf{const.} ∫ x csch x d x = Li 2 ​ ( sinh x − cosh x ) − Li 2 ​ ( e − x ) − 2 x arcoth ( e x ) + const. - 폴리로그함수 를 사용해야 한다.
+- ∫ sinh ⁡ x x d x = S h i ( x ) + c o n s t . \displaystyle \int \frac{\sinh{x}}{x} \,\mathrm{d}x = \mathrm{Shi}(x) + \mathsf{const.} ∫ x sinh x ​ d x = Shi ( x ) + const. - 쌍곡 사인 적분 함수 를 사용해야 한다.
+- ∫ cosh ⁡ x x d x = C h i ( x ) + c o n s t . \displaystyle \int \frac{\cosh{x}}{x} \,\mathrm{d}x = \mathrm{Chi}(x) + \mathsf{const.} ∫ x cosh x ​ d x = Chi ( x ) + const. - 쌍곡 코사인 적분 함수 를 사용해야 한다.
+- ∫ sinh ⁡ e x d x = S h i ( e x ) + c o n s t . \displaystyle \int \sinh{e^x}\,\mathrm{d}x = \mathrm{Shi}(e^x) + \mathsf{const.} ∫ sinh e x d x = Shi ( e x ) + const. - 쌍곡 사인 적분 함수 를 사용해야 한다.
+- ∫ cosh ⁡ e x d x = C h i ( e x ) + c o n s t . \displaystyle \int \cosh{e^x}\,\mathrm{d}x = \mathrm{Chi}(e^x) + \mathsf{const.} ∫ cosh e x d x = Chi ( e x ) + const. - 쌍곡 코사인 적분 함수 를 사용해야 한다.
+- ∫ sinh ⁡ ( x − 1 ) d x = x sinh ⁡ ( x − 1 ) − C h i ( x − 1 ) + c o n s t . \displaystyle \int \sinh(x^{-1}) \,\mathrm{d}x = x \sinh(x^{-1}) - \mathrm{Chi}(x^{-1}) + \mathsf{const.} ∫ sinh ( x − 1 ) d x = x sinh ( x − 1 ) − Chi ( x − 1 ) + const. - 쌍곡 코사인 적분 함수 를 사용해야 한다.
+- ∫ cosh ⁡ ( x − 1 ) d x = x cosh ⁡ ( x − 1 ) − S h i ( x − 1 ) + c o n s t . \displaystyle \int \cosh(x^{-1}) \,\mathrm{d}x = x \cosh(x^{-1}) - \mathrm{Shi}(x^{-1}) + \mathsf{const.} ∫ cosh ( x − 1 ) d x = x cosh ( x − 1 ) − Shi ( x − 1 ) + const. - 쌍곡 사인 적분 함수 를 사용해야 한다.
+- ∫ sinh ⁡ x 2 d x = π 4 ( e r f i ( x ) − e r f ( x ) ) + c o n s t . \displaystyle \int \sinh x^2\,\mathrm{d}x = \frac{\sqrt{\pi}}{4}(\mathrm{erfi}(x) - \mathrm{erf}(x)) + \mathsf{const.} ∫ sinh x 2 d x = 4 π ​ ​ ( erfi ( x ) − erf ( x )) + const. - 오차함수 , 복소오차함수 를 사용해야 한다.
+- ∫ cosh ⁡ x 2 d x = π 4 ( e r f i ( x ) + e r f ( x ) ) + c o n s t . \displaystyle \int \cosh x^2 \, \mathrm{d}x = \frac{\sqrt{\pi}}{4}(\mathrm{erfi}(x) + \mathrm{erf}(x)) + \mathsf{const.} ∫ cosh x 2 d x = 4 π ​ ​ ( erfi ( x ) + erf ( x )) + const. - 오차함수 , 복소오차함수 를 사용해야 한다.
+
+3.3. 삼각함수 + 지수함수 합성 [편집]
+- ∫ sin ⁡ e x d x = S i ( e x ) + c o n s t . \displaystyle \int \sin e^{x} \mathrm{d}x = \mathrm{Si}(e^x) + \mathsf{const.} ∫ sin e x d x = Si ( e x ) + const. - 사인 적분 함수 를 사용해야 한다.
+- ∫ cos ⁡ e x d x = C i ( e x ) + c o n s t . \displaystyle \int \cos e^{x} \mathrm{d}x = \mathrm{Ci}(e^x) + \mathsf{const.} ∫ cos e x d x = Ci ( e x ) + const. - 코사인 적분 함수 를 사용해야 한다.
+- ∫ e sin ⁡ x d x \displaystyle \int e^{\sin x} \mathrm{d}x ∫ e s i n x d x - 대응하는 적분식 자체가 없다.
+- ∫ e cos ⁡ x d x \displaystyle \int e^{\cos x} \mathrm{d}x ∫ e c o s x d x - 대응하는 적분식 자체가 없다.
+- ∫ e x tan ⁡ x d x = i e x 2 F 1 ( − i 2 , 1 ; 1 − i 2 ; − e 2 i x ) − 2 + i 5 e ( 1 + 2 i ) x 2 F 1 ( 1 , 1 − i 2 ; 2 − i 2 ; − e 2 i x ) + c o n s t . \displaystyle \int e^x \tan x \, \mathrm{d}x = ie^x {}_2 F_1 (-\frac{i}{2}, 1; 1 -\frac{i}{2}; -e^{2ix}) - \frac{2+i}{5} e^{(1+2i)x} {}_2 F_1(1, 1 -\frac{i}{2}; 2 -\frac{i}{2}; -e^{2ix}) + \mathsf{const.} ∫ e x tan x d x = i e x 2 ​ F 1 ​ ( − 2 i ​ , 1 ; 1 − 2 i ​ ; − e 2 i x ) − 5 2 + i ​ e ( 1 + 2 i ) x 2 ​ F 1 ​ ( 1 , 1 − 2 i ​ ; 2 − 2 i ​ ; − e 2 i x ) + const. - (가우스) 초기하함수 [9] 를 사용해야 한다.
+- ∫ e x csc ⁡ x d x = − ( 1 + i ) e ( 1 + i ) x 2 F 1 ( 1 − i 2 , 1 ; 3 − i 2 ; e 2 i x ) + c o n s t . \displaystyle \int e^x \csc x \, \mathrm{d}x = -(1 + i) e^{(1 + i) x} {}_2F_1(\frac{1-i}{2}, 1; \frac{3 - i}{2}; e^{2 i x}) + \mathsf{const.} ∫ e x csc x d x = − ( 1 + i ) e ( 1 + i ) x 2 ​ F 1 ​ ( 2 1 − i ​ , 1 ; 2 3 − i ​ ; e 2 i x ) + const. - 초기하함수 를 사용해야 한다.
+- ∫ e x sec ⁡ x d x = ( 1 − i ) e ( 1 + i ) x 2 F 1 ( 1 − i 2 , 1 ; 3 − i 2 ; − e 2 i x ) + c o n s t . \displaystyle \int e^x \sec x \, \mathrm{d}x = (1 - i) e^{(1 + i) x} {}_2F_1(\frac{1-i}{2}, 1; \frac{3 - i}{2}; -e^{2 i x}) + \mathsf{const.} ∫ e x sec x d x = ( 1 − i ) e ( 1 + i ) x 2 ​ F 1 ​ ( 2 1 − i ​ , 1 ; 2 3 − i ​ ; − e 2 i x ) + const. - 초기하함수 를 사용해야 한다.
+- ∫ e x cot ⁡ x d x = − i e x 2 F 1 ( − i 2 , 1 ; 1 − i 2 ; e 2 i x ) − 2 + i 5 e ( 1 + 2 i ) x 2 F 1 ( 1 , 1 − i 2 ; 2 − i 2 ; e 2 i x ) + c o n s t . \displaystyle \int e^x \cot x \, \mathrm{d}x = -ie^x {}_2 F_1 (-\frac{i}{2}, 1; 1 -\frac{i}{2}; e^{2ix}) - \frac{2+i}{5} e^{(1+2i)x} {}_2 F_1(1, 1 -\frac{i}{2}; 2 -\frac{i}{2}; e^{2ix}) + \mathsf{const.} ∫ e x cot x d x = − i e x 2 ​ F 1 ​ ( − 2 i ​ , 1 ; 1 − 2 i ​ ; e 2 i x ) − 5 2 + i ​ e ( 1 + 2 i ) x 2 ​ F 1 ​ ( 1 , 1 − 2 i ​ ; 2 − 2 i ​ ; e 2 i x ) + const. - 초기하함수 를 사용해야 한다.
+
+물론 위에 적분식이 없다고 언급된 두 함수는 직접 대응시키는 적분식은 없지만, 테일러 급수 전개를 통해서 무한급수의 형태로 만드는 것은 가능하다.
+
+4. 특수함수 의 경우 [편집]
+수준이 올라가면 쌍곡선 적분 함수 나 람베르트 W 함수 , 브링 근호 등 특수함수 를 적분하거나 특수함수와의 곱으로 이루어진 함수를 적분하는 일도 나오는데, 초등함수의 적분 또는 미분방정식의 해로 정의된 특수함수의 경우 로그함수/역삼각함수보다 더 미분우선이 된다. 즉 특수함수( S pecial functions)까지 고려하면 SLIATE 또는 SILATE가 된다.
+
+단, 아래 둘은 예외적으로 적분우선이다. 함부로 미분했다간 계산을 망치기 딱 좋기 때문이다 . [10] - 부호 함수 s g n ( x ) \mathrm{sgn}(x) sgn ( x )
+- 헤비사이드 계단 함수 u ( x ) u(x) u ( x )
+
+[1] 특히 로그함수가 역수 꼴로 들어오면 매우 난해해진다 . ( ∫ 1 ln ⁡ x d x = l i ( x ) + c o n s t . \displaystyle \int \frac{1}{\ln x} {\rm d}x = \mathrm{li}(x) + \mathsf{const.} ∫ ln x 1 ​ d x = li ( x ) + const. ) [2] 쌍곡선 함수 는 지수함수의 일종이다. [3] cosh ⁡ x = 1 2 ( e x + e − x ) , sinh ⁡ x = 1 2 ( e x − e − x ) \cosh x = \dfrac{1}{2} (e^x+e^{-x}), \sinh x = \dfrac{1}{2} (e^x-e^{-x}) cosh x = 2 1 ​ ( e x + e − x ) , sinh x = 2 1 ​ ( e x − e − x ) [4] 다만, 대수적 함수와 다항함수는 완전히 같지 않다. 왜냐하면 다항함수 외에도 분수함수 나 무리함수 도 모두 대수적 함수이기 때문이다. 다만 적분 연산에서는 x r (r은 실수)꼴로 표현되는 모든 함수인 대수적 함수를 다항함수와 동치라고 퉁치기도 한다. r=-1일 경우 패턴이 달라지긴 하지만 . [5] 오히려 특수함수를 알고 있으면 그대로 LIATE 법칙을 써도 무방하다. [6] 파르스발 정리(Parseval's theorem) 를 이용하여 sin ⁡ 4 x x 4 \dfrac {\sin^4x}{x^4} x 4 sin 4 x ​ 등을 적분하라는 문제가 나올 수 있다. [7] S ( x ) = ∫ 0 x sin ⁡ π t 2 2 d t \displaystyle S(x)= \int_{0}^{x} \sin {\pi t^2 \over 2} \, \mathrm{d}t S ( x ) = ∫ 0 x ​ sin 2 π t 2 ​ d t 라 정의한 경우 π 2 S ( π 2 x ) + c o n s t . \displaystyle \sqrt{\pi \over 2} \, S \left(\sqrt{\pi \over 2}x \right) + \mathsf{const.} 2 π ​ ​ S ( 2 π ​ ​ x ) + const. 가 된다. [8] 마찬가지로 C ( x ) = ∫ 0 x cos ⁡ π t 2 2 d t \displaystyle C(x)=\int_{0}^{x} \cos {\pi t^2 \over 2}\, \mathrm{d}t C ( x ) = ∫ 0 x ​ cos 2 π t 2 ​ d t 라 정의한 경우 π 2 C ( π 2 x ) + c o n s t . \displaystyle \sqrt{\pi \over 2} \, C \left(\sqrt{\pi \over 2}x \right) + \mathsf{const.} 2 π ​ ​ C ( 2 π ​ ​ x ) + const. 가 된다. [9] 2 F 1 ( a , b ; c ; z ) {}_2 F_1 (a, b; c; z) 2 ​ F 1 ​ ( a , b ; c ; z ) 는 일반화된 초기하함수로 확장되기 전의 형태로 자주 쓰이는 초기하함수인데, 오일러 도 이에 대해 연구했지만 가우스 가 최초로 체계적으로 연구했기 때문에 앞에 가우스라는 인명을 붙이기도 한다. 정칙 특이점이 3개인 모든 2계 선형 상미분방정식은 이 함수가 해로 도출되는 초기하 미분방정식으로 변환할 수 있다. 아래에 적힌 나머지도 모두 가우스 초기하함수 형태이다. [10] 참고로 저 둘의 적분은 쉽다(각각 ∣ x ∣ + c o n s t . , x + ∣ x ∣ 2 + c o n s t .|x|+ \mathsf{const.}, \dfrac{x+|x|}{2}+ \mathsf{const.} ∣ x ∣ + const. , 2 x + ∣ x ∣ ​ + const. ). 이 문서의 내용 중 전체 또는 일부는 부분적분 문서의 r167 판에서 가져왔습니다. 이전 역사 보러 가기 [ 남동구유선방송 쿠팡
+www.coupang.com v-if
+[ [ 로켓배송 ] [ 로켓직구 ] [ 골드박스 ] [ 로켓프레시 ] ]
+남동구유선방송, TV에 연결만 하면 즉시 작동! 와우회원 무료배송 받으세요.
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

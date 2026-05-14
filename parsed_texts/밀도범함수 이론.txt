@@ -1,0 +1,329 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 밀도범함수 이론
+최근 수정 시각: 2026-01-11 02:55:08 [ [ [ ] [ [ 1 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 화학 구조
+- 원자
+- 양자역학
+- 물리화학
+]
+
+[ [ ] [ 양자역학 Quantum Mechanics
+[ 펼치기 · 접기 ] 배경 | 흑체복사 · 이중슬릿 실험 · 광전효과 · 콤프턴 산란 · 보어의 원자 모형 · 물질파 · 데이비슨-저머 실험 · 불확정성 원리 · 슈테른-게를라흐 실험 · 프랑크-헤르츠 실험
+이론 체계 | 체계 플랑크 상수 ( 플랑크 단위계 ) · 공리 · 슈뢰딩거 방정식 · 파동함수 · 연산자 ( 해밀토니언 · 선운동량 · 각운동량 ) · 스핀 ( 스피너 ) · 파울리 배타 원리 해석 코펜하겐 해석 ( 보어-아인슈타인 논쟁 ) · 숨은 변수 이론 ( EPR 역설 · 벨의 부등식 · 광자 상자 ) · 다세계 해석 · 앙상블 해석 · 서울 해석 묘사 묘사 ( 슈뢰딩거 묘사 · 하이젠베르크 묘사 · 디랙 묘사) · 행렬역학
+연관 학문 | 천체물리학 ( 천문학 틀 · 우주론 · 양자블랙홀 · 중력 특이점 ) · 핵물리학 틀 ( 원자력 공학 틀 ) · 응집물질물리학 틀 · 컴퓨터 과학 틀 ( 양자컴퓨터 · 양자정보과학 ) · 통계역학 틀 · 양자화학 ( 물리화학 틀 ) · 입자물리학 ( 입자물리학 틀 )
+현상 · 응용 | 양자요동 · 양자 얽힘 · 양자 터널링 · 퍼텐셜 우물 · 양자 조화 진동자 · 오비탈 · 수소 원자 모형 · 쌓음 원리 · 훈트 규칙 · 섭동 ( 스핀 - 궤도 결합 · 제이만 효과 · 슈타르크 효과 · 헬만-파인만 정리 ) · 선택 규칙 · 변분 원리 · WKB 근사법 · 시간 결정 · 보스-아인슈타인 응집 · 솔리톤 · 카시미르 효과 · 아하로노프-봄 효과 · 블랙홀 정보 역설 · 양자점 · 하트리-포크 방법 · 밀도범함수 이론 · 준위 · 양자장론 ( 양자전기역학 · 양자색역학 ) · 뤼드베리 방정식 · 체렌코프 현상
+기타 | 군론 · 기본 입자 · 대칭성 · 비리얼 정리 · 리만 가설 · 매듭이론 · 밀도행렬 · 물질 · 방사선 ( 반감기 ) · 라플라스의 악마 · 슈뢰딩거의 고양이 ( 위그너의 친구 )
+문헌 | 교재 · 분류:물리학술지
+
+물리화학
+Physical Chemistry
+[ 펼치기 · 접기 ] 기본 정보 | 원소 ( 할로젠 · 금속 · 준금속 · 비활성 기체 · 동위원소 ) · 원자 ( 양성자 · 중성자 · 전자 ) · 분자 · 이온 ( 양이온 · 음이온 )
+물질 | 순물질 ( 동소체 · 화합물 ) · 혼합물 ( 균일 혼합물 · 불균일 혼합물 · 콜로이드 ) · 이성질체
+화학 반응 | 상 · 염 ( 앙금 ) · 작용기 · 가역성 · 화학 반응 속도론 ( 촉매 · 반감기 ) · 첨가 반응 · 제거 반응 · 치환 반응 · 산염기반응 · 산화환원반응 ( 산화수 ) · 고리형 협동반응 · 유기반응 · 클릭 화학
+화학양론 | 질량 · 부피 · 밀도 · 분자량 · 질량 보존 법칙 · 일정 성분비 법칙 · 배수 비례의 법칙
+열화학 법칙 | 엔트로피 · 엔탈피 · 깁스 자유 에너지 ( 화학 퍼텐셜 ) · 열출입( 흡열 반응 · 발열 반응 ) · 총열량 불변의 법칙 · 기체 법칙 · 화학 평형의 법칙 ( 르 샤틀리에의 원리 · 동적평형 )
+용액 | 용질 · 용매 · 농도 ( 퍼센트 농도 · 몰 농도 · 몰랄 농도 ) · 용해도 ( 용해도 규칙 · 포화 용액 ) · 증기압력 · 삼투 · 헨리의 법칙 · 전해질
+총괄성 | 증기압 내림 · 끓는점 오름 · 어는점 내림 · 라울 법칙 · 반트 호프의 법칙
+전기화학
+·
+양자화학 | 수소 원자 모형 · 하트리-포크 방법 · 밀도범함수 이론 · 유효 핵전하 · 전자 친화도 · 이온화 에너지 · 전기음성도 · 극성 · 무극성 · 휘켈 규칙 · 분자간력( 반 데르 발스 힘 ( 분산력 ) · 수소 결합 ) · 네른스트 식 · 준위
+전자 배치 | 양자수 · 오비탈 ( 분자 오비탈 · 혼성 오비탈 ) · 전자껍질 · 쌓음원리 · 훈트 규칙 · 파울리 배타 원리 · 원자가전자 · 최외각 전자 · 옥텟 규칙 · 우드워드-호프만 법칙 · 라디칼
+화학 결합 | 금속 결합 · 진틀상 · 이온 결합 · 공유 결합 ( 배위 결합 · 배위자 ) · 공명 구조
+분석화학 | 정성분석과 정량분석 · 분광학
+분석기법 | 적정 · 기기분석 ( 크로마토그래피 · NMR )
+틀:양자역학 · 틀:통계역학 · 틀:주기율표 · 틀:화학식 · 틀:화학의 분과 · 틀:산염기 · 화학 관련 정보
+
+DFT계산에 쓰이는 여러 Functional들
+
+1 . 개요 2 . 전자 확률 밀도 3 . 호헨베르크- 콘 이론 3.1 . 제1정리 3.2 . 제2정리 4 . 콘 -샴 방법 5 . 교환-상관 에너지 5.1 . LDA 5.2 . LSDA 5.3 . GGA 5.4 . Meta-GGA 5.5 . Hybrid Functional 5.6 . Double-Hybrid Functional 6 . 한계 7 . 하트리-포크 방법 과의 비교 8 . 관련 문서
+
+1. 개요 [편집]
+Density Functional Theory(DFT)
+
+N N N 개의 전자로 이루어진 분자의 파동함수 를 표현하는데 필요한 변수는 공간에 관한 좌표 3 N 3N 3 N 개, 스핀에 관한 좌표 N N N 개로 총 4 N 4N 4 N 개의 좌표가 필요한데 이를 자유도(Degree of Freedom)라고 부른다. N N N 이 커질수록(= 전자의 수가 늘어날수록) 자유도가 커지게되고 파동함수는 우리가 필요한 정보 이상을 가지기도 하며 직관적으로 물리적 의미를 파악하기도 어려워진다. 그렇기에 파동함수 보다 더 적은 변수를 가지는 함수를 이용해 에너지나 다른 변수들의 기댓값을 구하려는 시도가 계속되었고, 그중 가장 친숙하면서도 유명한 이론이 전자 밀도 를 이용한 밀도범함수 이론(Density Functional Theory, DFT) 이다. 후술하겠지만 바닥 상태의 전자 밀도를 정확하게 안다면 신기하게도 계의 모양 [1] 이 하나로 정해지며 원론적으론 파동함수를 계산하지 않고도 모든 물리량의 기댓값을 계산할 수 있다! 물론 원론적으로만 그렇고 실제 전자 밀도를 실험 없이 바로 얻어낼 방법은 없으므로 이를 근사적으로 얻을 방법을 찾는 것이 DFT의 핵심이다.
+
+해당 문서에선 퍼텐셜이 시간에 따라 변하지 않는 static DFT에 대해서만 다룬다.
+
+2. 전자 확률 밀도 [편집]
+어떻게 파동함수 와 전자 확률 밀도를 연관지을 수 있을까? 우리가 찾고자 하는 양은 점 r \textbf{r} r 에서 미소부피 d r ( = d x d y d z ) d\textbf{r}(=dxdydz) d r ( = d x d y d z ) 안에서 전자를 발견할 확률이다. 그리고 1번 전자가 m s 1 m_{s1} m s 1 ​ 스핀 을 가지고 좌표 r 1 \textbf{r}_1 r 1 ​ 에서 미소부피 d r 1 d\textbf{r}_1 d r 1 ​ 안에서 발견될 확률, 2번 전자가 m s 2 m_{s2} m s 2 ​ 스핀을 가지고 좌표 r 2 \textbf{r}_2 r 2 ​ 에서 미소부피 d r 2 d\textbf{r}_2 d r 2 ​ 안에서 발견될 확률, ⋯ \cdots ⋯ , n번 전자가 m s n m_{sn} m s n ​ 스핀 을 가지고 좌표 r n \textbf{r}_n r n ​ 에서 미소부피 d r n d\textbf{r}_n d r n ​ 안에서 발견될 확률이 ∣ ψ ( r 1 , r 2 , ⋯ , r n , m s 1 , m s 2 , ⋯ , m s n ) ∣ 2 d r 1 d r 2 ⋯ d r n \displaystyle \begin{aligned} |\psi(\textbf{r}_1, \textbf{r}_2, \cdots, \textbf{r}_n, m_{s1}, m_{s2}, \cdots, m_{sn})|^2 d\textbf{r}_1 d\textbf{r}_2 \cdots d\textbf{r}_n \end{aligned} ∣ ψ ( r 1 ​ , r 2 ​ , ⋯ , r n ​ , m s 1 ​ , m s 2 ​ , ⋯ , m s n ​ ) ∣ 2 d r 1 ​ d r 2 ​ ⋯ d r n ​ ​
+
+임을 알고 있다. 그런데 발견되는 전자의 스핀에는 관심이 없으므로 스핀에 대해선 미리 합을 계산해놓자. ∑ all m s ∣ ψ ( r 1 , r 2 , ⋯ , r n , m s 1 , m s 2 , ⋯ , m s n ) ∣ 2 d r 1 d r 2 ⋯ d r n \displaystyle \begin{aligned} \sum\limits_{\textup{all} \, m_{s}} |\psi(\textbf{r}_1, \textbf{r}_2, \cdots, \textbf{r}_n, m_{s1}, m_{s2}, \cdots, m_{sn})|^2 d\textbf{r}_1 d\textbf{r}_2 \cdots d\textbf{r}_n \end{aligned} all m s ​ ∑ ​ ∣ ψ ( r 1 ​ , r 2 ​ , ⋯ , r n ​ , m s 1 ​ , m s 2 ​ , ⋯ , m s n ​ ) ∣ 2 d r 1 ​ d r 2 ​ ⋯ d r n ​ ​
+
+만약 우리가 찾고자 하는 양이 1번 전자가 좌표 ( x , y , z ) (x, y, z) ( x , y , z ) 에서 미소부피 d x d y d z dxdydz d x d y d z 안에서 발견될 확률이라 하자. 이 확률은 2번부터 n번 전자의 위치엔 무관하므로 [ ∑ all m s ∫ ⋯ ∫ ∫ ∣ ψ ( r , r 2 , ⋯ , r n , m s 1 , m s 2 , ⋯ , m s n ) ∣ 2 d r 2 ⋯ d r n ] d r \displaystyle \begin{aligned} \Bigg[ \sum\limits_{\textup{all} \, m_{s}}\int \cdots \int \int |\psi(\textbf{r}, \textbf{r}_2, \cdots, \textbf{r}_n, m_{s1}, m_{s2}, \cdots, m_{sn})|^2 d\textbf{r}_2 \cdots d\textbf{r}_n \Bigg] d\textbf{r} \end{aligned} [ all m s ​ ∑ ​ ∫ ⋯ ∫∫ ∣ ψ ( r , r 2 ​ , ⋯ , r n ​ , m s 1 ​ , m s 2 ​ , ⋯ , m s n ​ ) ∣ 2 d r 2 ​ ⋯ d r n ​ ] d r ​
+
+전자 2에 대해서도 비슷한 과정을 반복하면 [ ∑ all m s ∫ ⋯ ∫ ∫ ∣ ψ ( r 1 , r , ⋯ , r n , m s 1 , m s 2 , ⋯ , m s n ) ∣ 2 d r 1 ⋯ d r n ] d r \displaystyle \begin{aligned} \Bigg[ \sum\limits_{\textup{all} \, m_{s}}\int \cdots \int \int |\psi(\textbf{r}_1, \textbf{r}, \cdots, \textbf{r}_n, m_{s1}, m_{s2}, \cdots, m_{sn})|^2 d\textbf{r}_1 \cdots d\textbf{r}_n \Bigg] d\textbf{r} \end{aligned} [ all m s ​ ∑ ​ ∫ ⋯ ∫∫ ∣ ψ ( r 1 ​ , r , ⋯ , r n ​ , m s 1 ​ , m s 2 ​ , ⋯ , m s n ​ ) ∣ 2 d r 1 ​ ⋯ d r n ​ ] d r ​
+
+근데 전자는 구별 불가능하므로 위 2개의 확률은 같아야 한다. [2] 그러므로 전자가 발견될 확률은 n n n 을 곱해줘야 하며 최종적으로 ρ ( x , y , z ) = n [ ∑ all m s ∫ ⋯ ∫ ∫ ∣ ψ ( r , r 2 , ⋯ , r n , m s 1 , m s 2 , ⋯ , m s n ) ∣ 2 d r 2 ⋯ d r n ] \displaystyle \begin{aligned} \rho(x, y, z) = n\Bigg[ \sum\limits_{\textup{all} \, m_{s}}\int \cdots \int \int |\psi(\textbf{r}, \textbf{r}_2, \cdots, \textbf{r}_n, m_{s1}, m_{s2}, \cdots, m_{sn})|^2 d\textbf{r}_2 \cdots d\textbf{r}_n \Bigg] \end{aligned} ρ ( x , y , z ) = n [ all m s ​ ∑ ​ ∫ ⋯ ∫∫ ∣ ψ ( r , r 2 ​ , ⋯ , r n ​ , m s 1 ​ , m s 2 ​ , ⋯ , m s n ​ ) ∣ 2 d r 2 ​ ⋯ d r n ​ ] ​
+
+가 된다. 이제 ρ \rho ρ 를 이용하여 어떻게 기댓값들을 계산할 수 있는지 알아보자. 어떤 물리량 B B B 가 i i i 번째 전자의 위치 r i \textbf{r}_i r i ​ 에 대한 함수라 하자. 그럼 n n n -전자 분자의 경우엔 ⟨ ψ ∣ ∑ i = 1 n B ( r i ) ∣ ψ ⟩ = ∑ all m s [ ∫ ⋯ ∫ ∫ ( ψ ∗ ∑ i = 1 n B ( r i ) ψ ) d r 1 d r 2 ⋯ d r n ] = ∑ i = 1 n ∑ all m s [ ∫ ⋯ ∫ ∫ ∣ ψ ∣ 2 B ( r i ) d r 1 d r 2 ⋯ d r n ] \displaystyle \begin{aligned} \Bigg\langle \psi \Bigg| \sum\limits_{i=1}^n B(\textbf{r}_i) \Bigg| \psi \Bigg\rangle = \sum\limits_{\textup{all} \, m_s} \left[ \int \cdots \int \int \left( \psi^* \sum\limits_{i=1}^n B(\textbf{r}_i) \psi \right) \, d\textbf{r}_1 d\textbf{r}_2 \cdots d\textbf{r}_n \right] = \sum\limits_{i=1}^n \sum\limits_{\textup{all} \, m_s} \left[ \int \cdots \int \int |\psi|^2 B(\textbf{r}_i) \, d\textbf{r}_1 d\textbf{r}_2 \cdots d\textbf{r}_n \right] \end{aligned} ⟨ ψ ​ i = 1 ∑ n ​ B ( r i ​ ) ​ ψ ⟩ = all m s ​ ∑ ​ [ ∫ ⋯ ∫∫ ( ψ ∗ i = 1 ∑ n ​ B ( r i ​ ) ψ ) d r 1 ​ d r 2 ​ ⋯ d r n ​ ] = i = 1 ∑ n ​ all m s ​ ∑ ​ [ ∫ ⋯ ∫∫ ∣ ψ ∣ 2 B ( r i ​ ) d r 1 ​ d r 2 ​ ⋯ d r n ​ ] ​
+
+가 되며 전자는 구별 불가능하다는 점을 이용하면 아래와 같은 식을 얻을 수 있다. ∑ i = 1 n ∑ all m s [ ∫ ⋯ ∫ ∫ ∣ ψ ∣ 2 B ( r i ) d r 1 d r 2 ⋯ d r n ] = n ∫ B ( r 1 ) ∑ all m s [ ∫ ⋯ ∫ ∣ ψ ∣ 2 d r 2 ⋯ d r n ] d r 1 = ∫ ρ ( r 1 ) B ( r 1 ) d r 1 \displaystyle \begin{aligned} \sum\limits_{i=1}^n \sum\limits_{\textup{all} \, m_s} \left[ \int \cdots \int \int |\psi|^2 B(\textbf{r}_i) \, d\textbf{r}_1 d\textbf{r}_2 \cdots d\textbf{r}_n \right] = n \int B(\textbf{r}_1) \sum\limits_{\textup{all} \, m_s} \left[ \int \cdots \int |\psi|^2 \, d\textbf{r}_2 \cdots d\textbf{r}_n \right] \, d\textbf{r}_1 = \int \rho(\textbf{r}_1) B(\textbf{r}_1) \, d \textbf{r}_1 \end{aligned} i = 1 ∑ n ​ all m s ​ ∑ ​ [ ∫ ⋯ ∫∫ ∣ ψ ∣ 2 B ( r i ​ ) d r 1 ​ d r 2 ​ ⋯ d r n ​ ] = n ∫ B ( r 1 ​ ) all m s ​ ∑ ​ [ ∫ ⋯ ∫ ∣ ψ ∣ 2 d r 2 ​ ⋯ d r n ​ ] d r 1 ​ = ∫ ρ ( r 1 ​ ) B ( r 1 ​ ) d r 1 ​ ​
+
+적분 변수는 바꾸어도 적분값은 바뀌지 않으므로 최종적으론 ⟨ ψ ∣ ∑ i = 1 n B ( r i ) ∣ ψ ⟩ = ∫ ρ ( r ) B ( r ) d r \displaystyle \begin{aligned} \Bigg\langle \psi \Bigg| \sum\limits_{i=1}^n B(\textbf{r}_i) \Bigg| \psi \Bigg\rangle = \int \rho(\textbf{r}) B(\textbf{r}) \, d \textbf{r} \end{aligned} ⟨ ψ ​ i = 1 ∑ n ​ B ( r i ​ ) ​ ψ ⟩ = ∫ ρ ( r ) B ( r ) d r ​
+
+이 된다. 물리량의 기댓값을 전자 밀도로 표현하는 방법을 알아낸 것이다.
+
+3. 호헨베르크- 콘 이론 [편집]
+
+3.1. 제1정리 [편집]
+제1정리에선 바닥상태에서 축퇴가 없는 분자의 경우 바닥상태 전자 밀도 ρ 0 ( r ) \rho_0(\textbf{r}) ρ 0 ​ ( r ) [3] 를 안다면 파동 함수와 모든 물리적 특징들이 하나로 결정됨을 보인다. [4] 이는 " ρ 0 ( r ) \rho_0(\textbf{r}) ρ 0 ​ ( r ) 이 해밀토니언을 결정한다."를 보이면 끝나는데 해밀토니언이 결정되면 파동함수와 에너지가 결정되고 파동함수를 통해 물리량 또한 결정되기 때문이다. 먼저 분자의 해밀토니언을 살펴보자. 보른-오펜하이머 근사를 적용시키면 전자의 해밀토니언은 H e = − 1 2 ∑ i = 1 n ∇ i 2 + ∑ i = 1 n v ( r i ) + ∑ i > j 1 r i j \displaystyle \begin{aligned} \mathcal{H}_e = -\frac{1}{2}\sum\limits_{i=1}^n \nabla_i^2+\sum\limits_{i=1}^n v(\textbf{r}_i)+\sum\limits_{i>j} \frac{1}{r_{ij}} \end{aligned} H e ​ = − 2 1 ​ i = 1 ∑ n ​ ∇ i 2 ​ + i = 1 ∑ n ​ v ( r i ​ ) + i > j ∑ ​ r ij ​ 1 ​ ​
+
+v ( r i ) = − ∑ α Z α r i α \displaystyle \begin{aligned} v(\textbf{r}_i)=-\sum\limits_{\alpha} \frac{Z_{\alpha}}{r_{i\alpha}} \end{aligned} v ( r i ​ ) = − α ∑ ​ r i α ​ Z α ​ ​ ​ [5]
+
+와 같이 얻어진다. 위 식을 보면 v ( r ) v(\textbf{r}) v ( r ) 과 전자 수 n n n 이 정해지면 해밀토니언은 자동으로 얻어짐을 알 수 있고 ρ 0 ( r ) \rho_0(\textbf{r}) ρ 0 ​ ( r ) 가 앞의 2개를 결정함을 보이면 된다. ρ 0 ( r ) \rho_0(\textbf{r}) ρ 0 ​ ( r ) 가 전자수를 결정한다는 것은 n = ∫ ρ 0 ( r ) d r n = \int \rho_0(\textbf{r}) d \textbf{r} n = ∫ ρ 0 ​ ( r ) d r 을 통해 바로 알 수 있고 외부 퍼텐셜의 경우도 귀류법 을 쉽게 통해 증명 가능하다. ρ 0 ( r ) \rho_0(\textbf{r}) ρ 0 ​ ( r ) 이 다른 외부 퍼텐셜 [6] v a ( r i ) , v b ( r i ) v_a(\textbf{r}_i), v_b(\textbf{r}_i) v a ​ ( r i ​ ) , v b ​ ( r i ​ ) 를 준다고 하면 해밀토니언도 정해지며 이를 H a , H b \mathcal{H}_a, \mathcal{H}_b H a ​ , H b ​ 라 쓰자. 바닥상태의 축퇴가 없다고 가정했으므로 각 해밀토니언은 단 1개의 정규화된 바닥상태 파동함수 ψ 0 , a , ψ 0 , b \psi_{0,a}, \psi_{0,b} ψ 0 , a ​ , ψ 0 , b ​ 를 가질 것이다. 여기서 변분 원리 를 쓰자. E 0 , a < ⟨ ψ 0 , b ∣ H a ∣ ψ 0 , b ⟩ = ⟨ ψ 0 , b ∣ H a − H b + H b ∣ ψ 0 , b ⟩ = ⟨ ψ 0 , b ∣ H a − H b ∣ ψ 0 , b ⟩ + E 0 , b = ⟨ ψ 0 , b ∣ ∑ i = 1 n [ v a ( r i ) − v b ( r i ) ] ∣ ψ 0 , b ⟩ + E 0 , b = ∫ ρ 0 , b ( r ) [ v a ( r ) − v b ( r ) ] d r + E 0 , b \displaystyle \begin{aligned} E_{0, a} < \langle \psi_{0, b} | \mathcal{H}_a | \psi_{0, b} \rangle &= \langle \psi_{0, b} | \mathcal{H}_a - \mathcal{H}_b + \mathcal{H}_b | \psi_{0, b} \rangle = \langle \psi_{0, b} | \mathcal{H}_a - \mathcal{H}_b | \psi_{0, b} \rangle + E_{0, b} \\ &= \Bigg\langle \psi_{0, b} \Bigg| \sum\limits_{i=1}^n [v_a(\textbf{r}_i)-v_b(\textbf{r}_i ) ] \Bigg| \psi_{0, b} \Bigg\rangle + E_{0, b} \\ &= \int \rho_{0, b}(\textbf{r})[v_a(\textbf{r})-v_b(\textbf{r}) ] d\textbf{r} + E_{0, b} \end{aligned} E 0 , a ​ < ⟨ ψ 0 , b ​ ∣ H a ​ ∣ ψ 0 , b ​ ⟩ ​ = ⟨ ψ 0 , b ​ ∣ H a ​ − H b ​ + H b ​ ∣ ψ 0 , b ​ ⟩ = ⟨ ψ 0 , b ​ ∣ H a ​ − H b ​ ∣ ψ 0 , b ​ ⟩ + E 0 , b ​ = ⟨ ψ 0 , b ​ ​ i = 1 ∑ n ​ [ v a ​ ( r i ​ ) − v b ​ ( r i ​ )] ​ ψ 0 , b ​ ⟩ + E 0 , b ​ = ∫ ρ 0 , b ​ ( r ) [ v a ​ ( r ) − v b ​ ( r )] d r + E 0 , b ​ ​
+
+이를 E 0 , b < ⟨ ψ 0 , a ∣ H b ∣ ψ 0 , a ⟩ \displaystyle \begin{aligned} E_{0, b} < \langle \psi_{0, a} | \mathcal{H}_b | \psi_{0, a} \rangle \end{aligned} E 0 , b ​ < ⟨ ψ 0 , a ​ ∣ H b ​ ∣ ψ 0 , a ​ ⟩ ​
+
+에도 적용시키면 다음과 같은 두 부등식을 얻는다. E 0 , a < ∫ ρ 0 , b ( r ) [ v a ( r ) − v b ( r ) ] d r + E 0 , b E 0 , b < ∫ ρ 0 , a ( r ) [ v b ( r ) − v a ( r ) ] d r + E 0 , a \displaystyle \begin{aligned} E_{0, a} < \int \rho_{0, b}(\textbf{r})[v_a(\textbf{r})-v_b(\textbf{r}) ] d\textbf{r} + E_{0, b} \\ E_{0, b} < \int \rho_{0, a}(\textbf{r})[v_b(\textbf{r})-v_a(\textbf{r}) ] d\textbf{r} + E_{0, a} \end{aligned} E 0 , a ​ < ∫ ρ 0 , b ​ ( r ) [ v a ​ ( r ) − v b ​ ( r )] d r + E 0 , b ​ E 0 , b ​ < ∫ ρ 0 , a ​ ( r ) [ v b ​ ( r ) − v a ​ ( r )] d r + E 0 , a ​ ​
+
+가정에 의해서 ρ 0 , a ( r ) = ρ 0 , b ( r ) \rho_{0, a}(\textbf{r}) = \rho_{0, b}(\textbf{r}) ρ 0 , a ​ ( r ) = ρ 0 , b ​ ( r ) 인데 양 변을 더하면 E 0 , a + E 0 , b < E 0 , a + E 0 , b \displaystyle \begin{aligned} E_{0, a} + E_{0, b} < E_{0, a} + E_{0, b} \end{aligned} E 0 , a ​ + E 0 , b ​ < E 0 , a ​ + E 0 , b ​ ​
+
+와 같은 잘못된 식을 얻으므로 가정이 틀렸음을 알 수 있다. 즉 ρ 0 ( r ) \rho_0(\textbf{r}) ρ 0 ​ ( r ) 은 외부 퍼텐셜을 결정한다. 증명 끝.
+
+이제 우리가 가장 큰 관심이 있는 에너지로 가보자. 위 정리에 의해 에너지 또한 밀도의 범함수이다. 이를 E 0 = E v [ ρ 0 ] E_0 = E_v[\rho_0] E 0 ​ = E v ​ [ ρ 0 ​ ] [7] 로 쓸 것이다. H e = T ^ + V ^ N e + V ^ e e \displaystyle \begin{aligned} \mathcal{H}_e = \hat{T} + \hat{V}_{Ne} + \hat{V}_{ee} \end{aligned} H e ​ = T ^ + V ^ N e ​ + V ^ ee ​ ​
+
+에서 평균을 취하면 E 0 = E v [ ρ 0 ] = T ‾ [ ρ 0 ] + V ‾ N e [ ρ 0 ] + V ‾ e e [ ρ 0 ] \displaystyle \begin{aligned} E_0 = E_v[\rho_0] = \overline{T}[\rho_0]+ \overline{V}_{Ne}[\rho_0]+ \overline{V}_{ee}[\rho_0] \end{aligned} E 0 ​ = E v ​ [ ρ 0 ​ ] = T [ ρ 0 ​ ] + V N e ​ [ ρ 0 ​ ] + V ee ​ [ ρ 0 ​ ] ​
+
+V ^ N e = ∑ i = 1 n v ( r i ) \hat{V}_{Ne} = \sum\limits_{i=1}^n v(\textbf{r}_i) V ^ N e ​ = i = 1 ∑ n ​ v ( r i ​ ) 으로부터 V ‾ N e = ⟨ ψ 0 ∣ ∑ i = 1 n v ( r i ) ] ∣ ψ 0 ⟩ = ∫ ρ 0 ( r ) v ( r ) d r \displaystyle \begin{aligned} \overline{V}_{Ne} = \Bigg\langle \psi_0 \Bigg| \sum\limits_{i=1}^n v(\textbf{r}_i) ] \Bigg| \psi_0 \Bigg\rangle = \int \rho_0(\textbf{r})v(\textbf{r}) d\textbf{r}\end{aligned} V N e ​ = ⟨ ψ 0 ​ ​ i = 1 ∑ n ​ v ( r i ​ )] ​ ψ 0 ​ ⟩ = ∫ ρ 0 ​ ( r ) v ( r ) d r ​
+
+위를 이용하면 E 0 = E v [ ρ 0 ] = T ‾ [ ρ 0 ] + V ‾ e e [ ρ 0 ] + ∫ ρ 0 ( r ) v ( r ) d r \displaystyle \begin{aligned} E_0 = E_v[\rho_0] = \overline{T}[\rho_0]+\overline{V}_{ee}[\rho_0] + \int \rho_0(\textbf{r})v(\textbf{r}) d\textbf{r} \end{aligned} E 0 ​ = E v ​ [ ρ 0 ​ ] = T [ ρ 0 ​ ] + V ee ​ [ ρ 0 ​ ] + ∫ ρ 0 ​ ( r ) v ( r ) d r ​
+
+다음과 같은 항 F [ ρ 0 ] ≡ T ‾ [ ρ 0 ] + V ‾ e e [ ρ 0 ] \displaystyle \begin{aligned} F[\rho_0] \equiv \overline{T}[\rho_0]+\overline{V}_{ee}[\rho_0] \end{aligned} F [ ρ 0 ​ ] ≡ T [ ρ 0 ​ ] + V ee ​ [ ρ 0 ​ ] ​
+
+을 정의한다면 E 0 E_0 E 0 ​ 를 외부 퍼텐셜에 무관한 항과 의존적인 항으로 나눌 수 있다. E 0 = E v [ ρ 0 ] = F [ ρ 0 ] + ∫ ρ 0 ( r ) v ( r ) d r \displaystyle \begin{aligned} E_0 = E_v[\rho_0] = F[\rho_0] + \int \rho_0(\textbf{r})v(\textbf{r}) d\textbf{r} \end{aligned} E 0 ​ = E v ​ [ ρ 0 ​ ] = F [ ρ 0 ​ ] + ∫ ρ 0 ​ ( r ) v ( r ) d r ​
+
+F [ ρ 0 ] F[\rho_0] F [ ρ 0 ​ ] 를 모르므로 E 0 E_0 E 0 ​ 를 사용하는데 위 식을 바로 이용할 수는 없다. 이때 아래의 제2정리가 계산하는 방법을 제공한다.
+
+3.2. 제2정리 [편집]
+제2정리는 DFT에서의 변분 원리 이다. 다음과 같은 두 조건 ∫ ρ trial ( r ) d r = n ρ trial ( r ) ≥ 0 \displaystyle \begin{aligned} \int \rho_{\textup{trial}}(\textbf{r}) d\textbf{r} = n \qquad \rho_{\textup{trial}}(\textbf{r}) \geq 0 \end{aligned} ∫ ρ trial ​ ( r ) d r = n ρ trial ​ ( r ) ≥ 0 ​
+
+을 만족시키는 시험 밀도 함수는 다음과 같은 부등식을 만족시킨다. E v [ ρ trial ] ≥ E 0 = E v [ ρ 0 ] \displaystyle \begin{aligned} E_v[\rho_{\textup{trial}}] \geq E_0 = E_v[\rho_{0}]\end{aligned} E v ​ [ ρ trial ​ ] ≥ E 0 ​ = E v ​ [ ρ 0 ​ ] ​
+
+증명은 간단한데 제1정리에 의해 ρ trial \rho_{\textup{trial}} ρ trial ​ 이 결정되면 v trial v_{\textup{trial}} v trial ​ 이 결정되고 v trial v_{\textup{trial}} v trial ​ 이 결정되면 ρ trial \rho_{\textup{trial}} ρ trial ​ 에 해당하는 ψ trial \psi_{\textup{trial}} ψ trial ​ 가 결정된다. [8] 그러면 변분 원리 에 의해 E v [ ρ trial ] = ⟨ ψ t r i a l ∣ H e ∣ ψ t r i a l ⟩ ≥ E 0 = E v [ ρ 0 ] \displaystyle \begin{aligned} E_v[\rho_{\textup{trial}}] = \langle \psi_{\sf{trial}}|\mathcal{H}_e|\psi_{\sf{trial}} \rangle \geq E_{0} = E_v[\rho_0] \end{aligned} E v ​ [ ρ trial ​ ] = ⟨ ψ trial ​ ∣ H e ​ ∣ ψ trial ​ ⟩ ≥ E 0 ​ = E v ​ [ ρ 0 ​ ] ​
+
+가 되므로 증명이 끝난다.
+
+호헨베르크와 콘이 위 이론들을 증명할 땐 바닥상태의 축퇴도가 없음을 가정했지만 축퇴가 존재하여도 이론을 적용시키는 것이 가능하다. [9]
+
+4. 콘 -샴 방법 [편집]
+호헨베르크-콘 이론을 통해 E 0 E_0 E 0 ​ 를 조건 ∫ ρ d r − N = 0 \int \rho \, d\textbf{r} - N = 0 ∫ ρ d r − N = 0 하에서 ρ \rho ρ 에 대해 최소화 한다면 ρ \rho ρ 에 대한 방정식을 얻을 것이고 이를 풀면 이론적으론 ρ \rho ρ 를 파동함수 없이 구할 수 있다. 하지만 T ‾ [ ρ ] \overline{T}[\rho] T [ ρ ] 와 V ‾ e e [ ρ ] \overline{V}_{ee}[\rho] V ee ​ [ ρ ] 의 꼴을 모르기에 [10] 다른 방법을 고안해야 한다. 이 과정에서 핵심 역할을 하는 것이 콘-샴 방법(Kohn-Sham Method) 이며 이론상으로 이 방법을 이용하면 정확한 결과값을 얻어낼 수 있다. [11]
+
+n n n 개의 상호작용하지 않는 전자로 이루어져 있으며 모든 전자가 v s ( r i ) v_s(\textbf{r}_i) v s ​ ( r i ​ ) 라는 외부 퍼텐셜 하에서 운동하고 있는 가상의 계를 생각해보자(reference system이라고 한다). 여기서 v s ( r i ) v_s(\textbf{r}_i) v s ​ ( r i ​ ) 는 reference system의 바닥상태 전자 밀도 ρ s ( r ) \rho_s(\textbf{r}) ρ s ​ ( r ) 가 우리가 관심있어하는 계의 정확한 바닥상태 확률 밀도 ρ 0 ( r ) \rho_0(\textbf{r}) ρ 0 ​ ( r ) 와 동일하게 만들어주는 외부 퍼텐셜이다. 호헨베르크-콘 이론에서 증명했듯이 ρ s ( r ) = ρ 0 ( r ) \rho_s(\textbf{r}) = \rho_0(\textbf{r}) ρ s ​ ( r ) = ρ 0 ​ ( r ) 로 전자 밀도를 설정하면 v s ( r i ) v_s(\textbf{r}_i) v s ​ ( r i ​ ) 는 하나로 결정된다. 그럼 reference system의 해밀토니언 은 H s = ∑ i = 1 n [ − 1 2 ∇ i 2 + v s ( r i ) ] ≡ ∑ i = 1 n h i K S h i K S ≡ − 1 2 ∇ i 2 + v s ( r i ) \displaystyle \begin{aligned} \mathcal{H}_s = \sum\limits_{i=1}^n \Big[ -\frac{1}{2}\nabla_i^2 + v_s(\textbf{r}_i) \, \Big] \equiv \sum\limits_{i=1}^n h_i^{KS} \qquad h_i^{KS} \equiv -\frac{1}{2}\nabla_i^2 + v_s(\textbf{r}_i) \end{aligned} H s ​ = i = 1 ∑ n ​ [ − 2 1 ​ ∇ i 2 ​ + v s ​ ( r i ​ ) ] ≡ i = 1 ∑ n ​ h i K S ​ h i K S ​ ≡ − 2 1 ​ ∇ i 2 ​ + v s ​ ( r i ​ ) ​
+
+가 된다. 여기서 h i K S h_i^{KS} h i K S ​ 는 일전자 콘-샴 해밀토니언이다. 우리는 상호작용 하지 않는 계를 상정했으므로 하트리-포크 방법 에서 했던것 처럼 바닥상태 파동함수는 슬레이터 행렬식 ∣ ψ s , 0 ⟩ = ∣ u 1 K S u 2 K S ⋯ u n K S ⟩ \displaystyle \begin{aligned} |\psi_{s, 0} \rangle = |u_1^{KS}u_2^{KS} \cdots u_n^{KS} \rangle \end{aligned} ∣ ψ s , 0 ​ ⟩ = ∣ u 1 K S ​ u 2 K S ​ ⋯ u n K S ​ ⟩ ​
+
+으로 주어지며 여기서 u i K S u_i^{KS} u i K S ​ 는 콘-샴 스핀 오비탈로 u i K S = θ i K S ( r i ) σ i h i K S θ i K S = ε i K S θ i K S \displaystyle \begin{aligned} u_i^{KS} = \theta_i^{KS}(\textbf{r}_i)\sigma_i \qquad h_i^{KS} \theta_i^{KS} = \varepsilon_i^{KS} \theta_i^{KS} \end{aligned} u i K S ​ = θ i K S ​ ( r i ​ ) σ i ​ h i K S ​ θ i K S ​ = ε i K S ​ θ i K S ​ ​
+
+로 주어진다( σ i \sigma_i σ i ​ 는 스핀 함수, ε i K S \varepsilon_i^{KS} ε i K S ​ 는 콘-샴 오비탈 에너지). 운동 에너지 T s T_s T s ​ 는 T s = ∑ i ⟨ θ i K S ∣ − 1 2 ∇ 2 ∣ θ i K S ⟩ \displaystyle \begin{aligned} T_s = \sum\limits_{i} \langle \theta^{KS}_i | -\frac{1}{2} \nabla ^ 2 | \theta^{KS}_i \rangle \end{aligned} T s ​ = i ∑ ​ ⟨ θ i K S ​ ∣ − 2 1 ​ ∇ 2 ∣ θ i K S ​ ⟩ ​
+
+로 주어질 것이다. 이제 위 식과 호헨베르크-콘 이론에서 얻었던 E v [ ρ 0 ] = T ‾ [ ρ 0 ] + V ‾ e e [ ρ 0 ] + ∫ ρ 0 ( r ) v ( r ) d r \displaystyle \begin{aligned} E_v[\rho_0] = \overline{T}[\rho_0] + \overline{V}_{ee}[\rho_0] + \int \rho_0(\textbf{r})v(\textbf{r}) d\textbf{r} \end{aligned} E v ​ [ ρ 0 ​ ] = T [ ρ 0 ​ ] + V ee ​ [ ρ 0 ​ ] + ∫ ρ 0 ​ ( r ) v ( r ) d r ​
+
+을 이용하여 콘-샴 방정식을 얻어보자. Δ T \Delta T Δ T 를 다음과 같이 정의한다. [12] Δ T [ ρ ] ≡ T ‾ [ ρ ] − T s [ ρ ] \displaystyle \begin{aligned} \Delta T[\rho] \equiv \overline T[\rho] - T_s[\rho] \end{aligned} Δ T [ ρ ] ≡ T [ ρ ] − T s ​ [ ρ ] ​
+
+즉 분자와 reference system의 운동 에너지 차이로 정의한다. 이러한 과정을 V ‾ e e \overline{V}_{ee} V ee ​ 에도 해보면 Δ V e e [ ρ ] ≡ V ‾ e e [ ρ ] − 1 2 ∫ ∫ ρ ( r 1 ) ρ ( r 2 ) r 12 d r 1 d r 2 = V ‾ e e [ ρ ] − J [ ρ ] \displaystyle \begin{aligned} \Delta V_{ee}[\rho] \equiv \overline{V}_{ee}[\rho] - \frac{1}{2} \int \int \frac{\rho({\textbf{r}}_1)\rho({\textbf{r}}_2)}{r_{12}} d\textbf{r}_1d\textbf{r}_2 = \overline{V}_{ee}[\rho] - J[\rho] \end{aligned} Δ V ee ​ [ ρ ] ≡ V ee ​ [ ρ ] − 2 1 ​ ∫∫ r 12 ​ ρ ( r 1 ​ ) ρ ( r 2 ​ ) ​ d r 1 ​ d r 2 ​ = V ee ​ [ ρ ] − J [ ρ ] ​
+
+J J J 는 고전 전자기학에서 두 연속체 사이의 정전기 에너지를 나타낸다. [13] 위 식들을 이용하면 E v [ ρ ] = T s [ ρ ] + J [ ρ ] + ∫ ρ ( r ) v ( r ) d r + Δ T ‾ [ ρ ] + Δ V ‾ e e [ ρ ] \displaystyle \begin{aligned} E_v[\rho] = T_s[\rho] + J[\rho] + \int \rho(\textbf{r})v(\textbf{r}) d\textbf{r} + \Delta \overline{T}[\rho] + \Delta \overline{V}_{ee}[\rho] \end{aligned} E v ​ [ ρ ] = T s ​ [ ρ ] + J [ ρ ] + ∫ ρ ( r ) v ( r ) d r + Δ T [ ρ ] + Δ V ee ​ [ ρ ] ​
+
+로 쓸 수 있다. 뒤의 두 모르는 범함수를 묶어 교환-상관 에너지(Exchange-Correlation Energy) E x c E_{xc} E x c ​ 라 정의한다. E x c [ ρ ] ≡ Δ T ‾ [ ρ ] + Δ V ‾ e e [ ρ ] \displaystyle \begin{aligned} E_{xc}[\rho] \equiv \Delta \overline{T}[\rho] + \Delta \overline{V}_{ee}[\rho] \end{aligned} E x c ​ [ ρ ] ≡ Δ T [ ρ ] + Δ V ee ​ [ ρ ] ​
+
+그럼 최종적으로 E v [ ρ ] = T s [ ρ ] + J [ ρ ] + ∫ ρ ( r ) v ( r ) d r + E x c [ ρ ] \displaystyle \begin{aligned} E_v[\rho] = T_s[\rho] + J[\rho] + \int \rho(\textbf{r})v(\textbf{r}) d\textbf{r} + E_{xc}[\rho] \end{aligned} E v ​ [ ρ ] = T s ​ [ ρ ] + J [ ρ ] + ∫ ρ ( r ) v ( r ) d r + E x c ​ [ ρ ] ​
+
+가 된다. 여기서 문제는 T s [ ρ ] T_s[\rho] T s ​ [ ρ ] 의 꼴을 여전히 모른다는 것이다. 하지만 오비탈을 이용하면 표현할 수 있다. 이를 이용해 ∫ ρ d r − N = 0 \int \rho \, d\textbf{r} - N = 0 ∫ ρ d r − N = 0 대신 ∫ θ i K S ∗ θ j K S d r − δ i j = 0 \int \theta^{KS*}_i\theta^{KS}_j \, d\textbf{r} - \delta_{ij} = 0 ∫ θ i K S ∗ ​ θ j K S ​ d r − δ ij ​ = 0 라는 조건 하에서 E E E 를 최소화하는 문제로 바뀐다. 이는 라그랑주 승수법 을 이용하면 다음과 같은 식 [14] Ω [ { θ i K S } ] = E v [ { θ i K S } ] − ∑ i , j ε i j ( ⟨ i ∣ j ⟩ − δ i j ) \displaystyle \begin{aligned} \Omega [\{ \theta_i^{KS} \} ] = E_v[\{ \theta_i^{KS} \}] - \sum\limits_{i, j} \varepsilon_{ij} ( \langle i | j \rangle - \delta_{ij} ) \end{aligned} Ω [{ θ i K S ​ }] = E v ​ [{ θ i K S ​ }] − i , j ∑ ​ ε ij ​ (⟨ i ∣ j ⟩ − δ ij ​ ) ​
+
+을 최소화시키는 것으로 바뀐다. E E E 를 오비탈에 관한 식으로 써보면 E v = ∑ i ⟨ i ∣ T ∣ i ⟩ + ∑ i ⟨ i ∣ v ∣ i ⟩ + 1 2 ∑ i , j ⟨ i j ∣ i j ⟩ + E x c \displaystyle \begin{aligned} E_v = \sum\limits_{i} \langle i | T | i \rangle + \sum\limits_{i} \langle i | v | i \rangle + \frac{1}{2} \sum\limits_{i, j} \langle ij | ij \rangle + E_{xc} \end{aligned} E v ​ = i ∑ ​ ⟨ i ∣ T ∣ i ⟩ + i ∑ ​ ⟨ i ∣ v ∣ i ⟩ + 2 1 ​ i , j ∑ ​ ⟨ ij ∣ ij ⟩ + E x c ​ ​
+
+가 된다. 이럼 Ω \Omega Ω 는 Ω = ∑ i ⟨ i ∣ T ∣ i ⟩ + ∑ i ⟨ i ∣ v ∣ i ⟩ + 1 2 ∑ i , j ⟨ i j ∣ i j ⟩ + E x c − ∑ i , j ε i j ( ⟨ i ∣ j ⟩ − δ i j ) \displaystyle \begin{aligned} \Omega = \sum\limits_{i} \langle i | T | i \rangle + \sum\limits_{i} \langle i | v | i \rangle + \frac{1}{2} \sum\limits_{i, j} \langle ij | ij \rangle + E_{xc} - \sum\limits_{i, j} \varepsilon_{ij} ( \langle i | j \rangle - \delta_{ij} ) \end{aligned} Ω = i ∑ ​ ⟨ i ∣ T ∣ i ⟩ + i ∑ ​ ⟨ i ∣ v ∣ i ⟩ + 2 1 ​ i , j ∑ ​ ⟨ ij ∣ ij ⟩ + E x c ​ − i , j ∑ ​ ε ij ​ (⟨ i ∣ j ⟩ − δ ij ​ ) ​
+
+로 표현이 된다. 변분 계산 후 식 정리를 조금만 하면 δ Ω = ∑ i ( ⟨ δ i ∣ T ∣ i ⟩ + ⟨ i ∣ T ∣ δ i ⟩ ) + ∑ i ( ⟨ δ i ∣ v ∣ i ⟩ + ⟨ i ∣ v ∣ δ i ⟩ ) + ∑ i , j ( ⟨ δ i j ∣ i j ⟩ + ⟨ i j ∣ δ i j ⟩ ) + δ E x c − ∑ i , j ( ε i j ⟨ δ i ∣ j ⟩ − ε j i ⟨ j ∣ δ i ⟩ ) = 0 \displaystyle \begin{aligned} \delta \Omega &= \sum\limits_{i} ( \langle \delta i | T | i \rangle + \langle i | T | \delta i \rangle) + \sum\limits_{i} ( \langle \delta i | v | i \rangle + \langle i | v | \delta i \rangle ) \\ &+ \sum\limits_{i, j} ( \langle \delta ij | ij \rangle + \langle ij | \delta ij \rangle ) + \delta E_{xc} - \sum\limits_{i, j} ( \varepsilon_{ij} \langle \delta i | j \rangle - \varepsilon_{ji} \langle j | \delta i \rangle ) = 0 \end{aligned} δ Ω ​ = i ∑ ​ (⟨ δ i ∣ T ∣ i ⟩ + ⟨ i ∣ T ∣ δ i ⟩) + i ∑ ​ (⟨ δ i ∣ v ∣ i ⟩ + ⟨ i ∣ v ∣ δ i ⟩) + i , j ∑ ​ (⟨ δ ij ∣ ij ⟩ + ⟨ ij ∣ δ ij ⟩) + δ E x c ​ − i , j ∑ ​ ( ε ij ​ ⟨ δ i ∣ j ⟩ − ε j i ​ ⟨ j ∣ δ i ⟩) = 0 ​
+
+가 된다. δ E x c \delta E_{xc} δ E x c ​ 는 δ E x c = ∫ δ E x c δ ρ δ ρ d r \displaystyle \begin{aligned} \delta E_{xc} = \int \frac{\delta E_{xc}}{\delta \rho} \delta \rho \, d \textbf{r} \end{aligned} δ E x c ​ = ∫ δ ρ δ E x c ​ ​ δ ρ d r ​
+
+로 써지고 δ ρ \delta \rho δ ρ 는 ρ ( r ) = ∑ i θ i K S ∗ ( r ) θ i K S ( r ) \displaystyle \begin{aligned} \rho(\textbf{r}) = \sum\limits_{i} \theta^{KS*}_i(\textbf{r})\theta^{KS}_i(\textbf{r}) \end{aligned} ρ ( r ) = i ∑ ​ θ i K S ∗ ​ ( r ) θ i K S ​ ( r ) ​
+
+를 이용하면 다음과 같이 써진다. δ ρ = ∑ i θ i K S ∗ δ θ i K S + ∑ i θ i K S δ θ i K S ∗ \displaystyle \begin{aligned} \delta \rho = \sum\limits_{i} \theta^{KS*}_i \delta \theta^{KS}_i + \sum\limits_{i} \theta^{KS}_i \delta \theta^{KS*}_i \end{aligned} δ ρ = i ∑ ​ θ i K S ∗ ​ δ θ i K S ​ + i ∑ ​ θ i K S ​ δ θ i K S ∗ ​ ​
+
+그럼 δ E x c = ∫ δ E x c δ ρ ( ∑ i θ i K S ∗ δ θ i K S + ∑ i θ i K S δ θ i K S ∗ ) d r \displaystyle \begin{aligned} \delta E_{xc} = \int \frac{\delta E_{xc}}{\delta \rho} \left( \sum\limits_{i} \theta^{KS*}_i \delta \theta^{KS}_i + \sum\limits_{i} \theta^{KS}_i \delta \theta^{KS*}_i \right) \, d \textbf{r} \end{aligned} δ E x c ​ = ∫ δ ρ δ E x c ​ ​ ( i ∑ ​ θ i K S ∗ ​ δ θ i K S ​ + i ∑ ​ θ i K S ​ δ θ i K S ∗ ​ ) d r ​
+
+이 된다. 여기서 교환-상관 퍼텐셜(Exchange-Correlation potential) v x c v_{xc} v x c ​ 를 다음과 같이 정의한다. v x c ≡ δ E x c δ ρ \displaystyle \begin{aligned} v_{xc} \equiv \frac{\delta E_{xc}}{\delta \rho} \end{aligned} v x c ​ ≡ δ ρ δ E x c ​ ​ ​
+
+그럼 최종적으로 δ E x c = ∑ i ( ⟨ δ i ∣ v x c ∣ i ⟩ + ⟨ i ∣ v x c ∣ δ i ⟩ ) \displaystyle \begin{aligned} \delta E_{xc} = \sum\limits_{i} ( \langle \delta i | v_{xc} | i \rangle + \langle i | v_{xc} | \delta i \rangle ) \end{aligned} δ E x c ​ = i ∑ ​ (⟨ δ i ∣ v x c ​ ∣ i ⟩ + ⟨ i ∣ v x c ​ ∣ δ i ⟩) ​
+
+이다. 이걸 δ Ω \delta \Omega δ Ω 에 넣고 계산하면 된다. 이후의 과정은 하트리-포크 방정식 과 동일하며 결과만 빌려오면 [ − 1 2 ∇ 2 + v ( r ) + ∫ ρ ( r ′ ) ∣ r − r ′ ∣ d r ′ + v x c ( r ) ] θ i K S ( r ) = ε i K S θ i K S ( r ) \displaystyle \begin{aligned} \bigg[-\frac{1}{2}\nabla^2 + v(\textbf{r}) + \int \frac{\rho(\textbf{r}')}{|\textbf{r} - \textbf{r}'|} d \textbf{r}' + v_{xc}(\textbf{r}) \bigg]\theta_i^{KS}(\textbf{r}) = \varepsilon_i^{KS} \theta_i^{KS}(\textbf{r}) \end{aligned} [ − 2 1 ​ ∇ 2 + v ( r ) + ∫ ∣ r − r ′ ∣ ρ ( r ′ ) ​ d r ′ + v x c ​ ( r ) ] θ i K S ​ ( r ) = ε i K S ​ θ i K S ​ ( r ) ​
+
+을 얻는다. 이를 ( − 1 2 ∇ 2 + v s ( r ) ) θ i K S ( r ) = ε i K S θ i K S ( r ) \displaystyle \begin{aligned} \left( -\frac{1}{2}\nabla^2 + v_s(\textbf{r}) \right) \theta_i^{KS}(\textbf{r}) = \varepsilon_i^{KS} \theta_i^{KS}(\textbf{r}) \end{aligned} ( − 2 1 ​ ∇ 2 + v s ​ ( r ) ) θ i K S ​ ( r ) = ε i K S ​ θ i K S ​ ( r ) ​
+
+와 비교해보면 v s ( r ) = v ( r ) + ∫ ρ ( r ′ ) ∣ r − r ′ ∣ d r ′ + v x c ( r ) = − ∑ α Z α r i α + ∫ ρ ( r ′ ) ∣ r − r ′ ∣ d r ′ + v x c ( r ) \displaystyle \begin{aligned} v_s(\textbf{r}) = v(\textbf{r}) + \int \frac{\rho(\textbf{r}')}{|\textbf{r} - \textbf{r}'|} d \textbf{r}' + v_{xc}(\textbf{r}) = - \sum\limits_{\alpha} \frac{Z_{\alpha}}{r_{i\alpha}} + \int \frac{\rho(\textbf{r}')}{|\textbf{r} - \textbf{r}'|} d \textbf{r}' + v_{xc}(\textbf{r}) \end{aligned} v s ​ ( r ) = v ( r ) + ∫ ∣ r − r ′ ∣ ρ ( r ′ ) ​ d r ′ + v x c ​ ( r ) = − α ∑ ​ r i α ​ Z α ​ ​ + ∫ ∣ r − r ′ ∣ ρ ( r ′ ) ​ d r ′ + v x c ​ ( r ) ​
+
+인 것을 알 수 있다. v s v_s v s ​ 는 보통 v eff v_\textup{eff} v eff ​ 로 쓰며 유효 외부 퍼텐셜(Effective external potential) 이라 부른다. 위 결과를 조합하면 방정식은 ( − 1 2 ∇ 2 + v eff ( r ) ) θ i K S ( r ) = ε i K S θ i K S ( r ) \displaystyle \begin{aligned} \left( -\frac{1}{2}\nabla^2 + v_\textup{eff}(\textbf{r}) \right) \theta_i^{KS}(\textbf{r}) = \varepsilon_i^{KS} \theta_i^{KS}(\textbf{r}) \end{aligned} ( − 2 1 ​ ∇ 2 + v eff ​ ( r ) ) θ i K S ​ ( r ) = ε i K S ​ θ i K S ​ ( r ) ​
+
+로 써진다. 이 방정식을 콘-샴 방정식(Kohn-Sham Equation) 이라 한다. 콘-샴 방정식 또한 하트리-포크 방정식 과 비슷하게 iteration을 통해 풀게되는데 - ρ ( r ) \rho(\textbf{r}) ρ ( r ) 을 가정한다. 보통 원자의 전자 밀도를 중첩시켜서 얻는다. 가정한 ρ ( r ) \rho(\textbf{r}) ρ ( r ) 를 통해 v ( r ) v(\textbf{r}) v ( r ) 와 v x c ( r ) v_{xc}(\textbf{r}) v x c ​ ( r ) 를 계산한다.
+- 위에서 얻은 전자밀도를 방정식에 넣은 뒤 푼다. 방정식을 수치적으로 풀거나 [15] 하트리-포크 방법 에서 사용한 basis set approach를 사용하여 basis들의 계수를 찾는다.
+- ρ ( r ) = ∑ i ∣ θ i K S ( r ) ∣ 2 \rho(\textbf{r}) = \sum\limits_{i} |\theta^{KS}_i (\textbf{r})|^2 ρ ( r ) = i ∑ ​ ∣ θ i K S ​ ( r ) ∣ 2 을 이용하여 ρ ( r ) \rho(\textbf{r}) ρ ( r ) 을 재추정한다.
+- ρ ( r ) \rho(\textbf{r}) ρ ( r ) 와 E x c [ ρ ] E_{xc}[\rho] E x c ​ [ ρ ] 가 수렴할 때까지 1~3번 과정을 반복한다.
+
+5. 교환-상관 에너지 [편집]
+콘-샴 방정식의 유도에선 어떠한 근사도 사용하지 않았기에 원론상으론 정확한 ρ ( r ) \rho(\textbf{r}) ρ ( r ) 와 E 0 E_0 E 0 ​ 를 얻어낼 수 있다. 하지만 단 하나의 문제가 존재하는데 E x c E_{xc} E x c ​ 와 v x c v_{xc} v x c ​ 의 모양을 모른다는 것이다. 모르는 양들을 전부 몰아놓았으니 정확한 모양을 아는 것을 불가능하고 결국 근사하여 넣어야 하는데 DFT 정확도의 핵심은 이 퍼텐셜을 얼마나 잘 근사하는가이다. E x c E_{xc} E x c ​ 의 정의를 생각해보면 E x c E_{xc} E x c ​ 에 어떠한 항들이 들어가야 하는지 알 수 있다. - 실제 분자의 운동에너지와 상호작용 하지 않는 계의 운동 에너지 차이를 Δ T \Delta T Δ T 로 정의 하였기에 이를 보정하는 Kinetic correlation energy 가 존재하여야 한다.
+- 실제 분자의 퍼텐셜 에너지와 고전적인 두 전자 구름 사이의 퍼텐셜 에너지의 차이를 Δ V \Delta V Δ V 로 정의하였기에 이를 보정하는 Exchange correlation energy [16] 와 (전자 사이의 반발 때문에 나타나는), Coulombic correlation energy [17] 가 있어야하며 추가로 전자가 자기 자신과 상호작용하는 상황을 막기 위한 Self-interaction correlation (SIC) 또한 필요하다. [18] [19]
+
+E x c E_{xc} E x c ​ 를 표현하는데 정해진 절차같은 것은 없지만 [20] 그렇다고 아무 식이나 막 집어넣는 것은 아니고 위와 같은 항들을 최대한 표현할 수 있는 식들을 만들고 실험치들과 최대한 일치하도록 파라미터들을 조절해가는 과정을 거친다. 물론 그 식들을 만드는 방식과 사용할 실험치들의 수가 무한에 가깝기에 정말 수많은 종류의 E x c E_{xc} E x c ​ 와 v x c v_{xc} v x c ​ 가 존재하며 [21] 지금까지도 연구, 개발되고 있다. 아래는 그중 자주 쓰이는 일부만을 추려낸 것이다.
+
+5.1. LDA [편집]
+가장 기초적인 방법이 균일한 전자 가스로 부터 E x c E_{xc} E x c ​ 를 근사하는 것이다. 이를 LDA(Local Density Approximation) 라 한다. 여기서 E x c E_{xc} E x c ​ 는 E x c L D A [ ρ ] = ∫ ρ ( r ) ε x c ( ρ ) d r \displaystyle \begin{aligned} E_{xc}^{LDA}[\rho] = \int \rho(\textbf{r}) \varepsilon_{xc}(\rho) d\textbf{r} \end{aligned} E x c L D A ​ [ ρ ] = ∫ ρ ( r ) ε x c ​ ( ρ ) d r ​
+
+로 주어진다. 여기서 ε x c ( ρ ) \varepsilon_{xc}(\rho) ε x c ​ ( ρ ) 는 밀도가 ρ \rho ρ 인 전자 가스에서 전자 하나당 가지는 교환 에너지와 상관 에너지의 합이다. v x c v_{xc} v x c ​ 의 경우 v x c L D A = δ E x c L D A δ ρ = ε x c ( ρ ) + ρ ∂ ε x c ∂ ρ ( ρ ) \displaystyle \begin{aligned} v_{xc}^{LDA} = \frac{\delta E_{xc}^{LDA}}{\delta \rho} = \varepsilon_{xc}(\rho) + \rho \frac{\partial \varepsilon_{xc}}{\partial \rho(\rho)} \end{aligned} v x c L D A ​ = δ ρ δ E x c L D A ​ ​ = ε x c ​ ( ρ ) + ρ ∂ ρ ( ρ ) ∂ ε x c ​ ​ ​
+
+임을 알 수 있다. [22] 이제 ε x c ( ρ ) \varepsilon_{xc}(\rho) ε x c ​ ( ρ ) 를 교환에 관한 ε x ( ρ ) \varepsilon_{x}(\rho) ε x ​ ( ρ ) 와 상관에 관한 ε c ( ρ ) \varepsilon_{c}(\rho) ε c ​ ( ρ ) 로 쪼개자. ε x c ( ρ ) = ε x ( ρ ) + ε c ( ρ ) \displaystyle \begin{aligned} \varepsilon_{xc}(\rho) = \varepsilon_{x}(\rho) + \varepsilon_{c}(\rho) \end{aligned} ε x c ​ ( ρ ) = ε x ​ ( ρ ) + ε c ​ ( ρ ) ​
+
+그럼 에너지 또한 2개의 파트로 쪼개진다. E x c = E x + E c \displaystyle \begin{aligned} E_{xc} = E_{x} + E_{c} \end{aligned} E x c ​ = E x ​ + E c ​ ​
+
+그리고 각 에너지는 E x [ ρ ] = ∫ ρ ( r ) ε x ( ρ ) d r E c [ ρ ] = ∫ ρ ( r ) ε c ( ρ ) d r \displaystyle \begin{aligned} E_{x}[\rho] &= \int \rho(\textbf{r}) \varepsilon_{x}(\rho) d\textbf{r} \\ E_{c}[\rho] &= \int \rho(\textbf{r}) \varepsilon_{c}(\rho) d\textbf{r}\end{aligned} E x ​ [ ρ ] E c ​ [ ρ ] ​ = ∫ ρ ( r ) ε x ​ ( ρ ) d r = ∫ ρ ( r ) ε c ​ ( ρ ) d r ​
+
+로 주어진다.
+
+5.2. LSDA [편집]
+open-shell molecule들이나 해리 상태에 가까운 molecule들의 경우 LSDA(Local Spin Density Approximation) 을 사용하는 것이 LDA보다 더 좋은 결과를 준다. HF의 UHF처럼 같은 콘-샴 오비탈에 들어가더라도 다른 모양을 줌으로써 오비탈의 유연성을 늘린다. α \alpha α 스핀을 가지는 전자들의 밀도를 ρ α ( r ) \rho^{\alpha}(\textbf{r}) ρ α ( r ) , β \beta β 스핀을 가지는 전자들의 밀도를 ρ β ( r ) \rho^{\beta}(\textbf{r}) ρ β ( r ) 라 하면 E x c E_{xc} E x c ​ 는 ρ α ( r ) \rho^{\alpha}(\textbf{r}) ρ α ( r ) 와 ρ β ( r ) \rho^{\beta}(\textbf{r}) ρ β ( r ) 두개의 함수의 범함수가 된다. E x c = E x c [ ρ α , ρ β ] \displaystyle \begin{aligned} E_{xc} = E_{xc}[\rho^{\alpha}, \rho^{\beta}] \end{aligned} E x c ​ = E x c ​ [ ρ α , ρ β ] ​
+
+이제 해야할 일은 LDA와 비슷하게 ε x ( ρ α , ρ β ) \varepsilon_x(\rho^{\alpha}, \rho^{\beta}) ε x ​ ( ρ α , ρ β ) 와 ε c ( ρ α , ρ β ) \varepsilon_c(\rho^{\alpha}, \rho^{\beta}) ε c ​ ( ρ α , ρ β ) 를 찾는 것이다. 보통 ρ α \rho^{\alpha} ρ α , ρ β \rho^{\beta} ρ β 보다는 총 전자 밀도 ρ = ρ α + ρ β \displaystyle \begin{aligned} \rho = \rho^{\alpha} + \rho^{\beta} \end{aligned} ρ = ρ α + ρ β ​
+
+와 스핀 편극(spin polarization) ζ = ρ α − ρ β ρ α + ρ β \displaystyle \begin{aligned} \zeta = \frac{\rho^{\alpha}-\rho^{\beta}}{\rho^{\alpha}+\rho^{\beta}} \end{aligned} ζ = ρ α + ρ β ρ α − ρ β ​ ​
+
+으로 표현을 한다. - Slater-Dirac exchange functional(Slater) [23] E x Slater [ ρ α , ρ β ] = ∫ ρ ε x ( ρ , ζ ) d r ε x ( ρ , ζ ) = ε x 0 ( ρ ) + [ ε x 1 ( ρ ) − ε x 0 ( ρ ) ] f ( ζ ) ε x 0 ( ρ ) = ε x ( ρ , 0 ) = C x ρ 1 / 3 ε x 1 ( ρ ) = ε x ( ρ , 1 ) = 2 1 / 3 C x ρ 1 / 3 C x = 3 4 ( 3 π ) 1 / 3 f ( ζ ) = ( 1 + ζ ) 4 / 3 + ( 1 − ζ ) 4 / 3 − 2 2 ( 2 1 / 3 − 1 ) v x σ Slater = δ E x Slater δ ρ σ = ( 6 π ρ σ ) 1 / 3 \displaystyle \begin{aligned} E^{\textup{Slater}}_x[\rho^{\alpha}, \rho^{\beta}] &= \int \rho \varepsilon_x(\rho, \zeta) d \textbf{r} \\ \varepsilon_x(\rho, \zeta) &= \varepsilon^0_x(\rho) + [\varepsilon^1_x(\rho) -\varepsilon^0_x(\rho) ] f(\zeta) \\ \varepsilon^0_x(\rho) &= \varepsilon_x(\rho, 0) = C_x \rho^{1/3} \\ \varepsilon^1_x(\rho) &= \varepsilon_x(\rho, 1) = 2^{1/3}C_x \rho^{1/3} \\ C_x &= \frac{3}{4}\left( \frac{3}{\pi} \right)^{1/3} \\ f(\zeta) &= \frac{(1+\zeta)^{4/3}+(1-\zeta)^{4/3}-2}{2(2^{1/3}-1)} \\ v^{\textup{Slater}}_{x\sigma} &= \frac{\delta E^{\textup{Slater}}_{x}}{\delta \rho_{\sigma}} = \left( \frac{6}{\pi} \rho_{\sigma} \right) ^ {1/3} \end{aligned} E x Slater ​ [ ρ α , ρ β ] ε x ​ ( ρ , ζ ) ε x 0 ​ ( ρ ) ε x 1 ​ ( ρ ) C x ​ f ( ζ ) v x σ Slater ​ ​ = ∫ ρ ε x ​ ( ρ , ζ ) d r = ε x 0 ​ ( ρ ) + [ ε x 1 ​ ( ρ ) − ε x 0 ​ ( ρ )] f ( ζ ) = ε x ​ ( ρ , 0 ) = C x ​ ρ 1/3 = ε x ​ ( ρ , 1 ) = 2 1/3 C x ​ ρ 1/3 = 4 3 ​ ( π 3 ​ ) 1/3 = 2 ( 2 1/3 − 1 ) ( 1 + ζ ) 4/3 + ( 1 − ζ ) 4/3 − 2 ​ = δ ρ σ ​ δ E x Slater ​ ​ = ( π 6 ​ ρ σ ​ ) 1/3 ​
+- Vosko-Wilk-Nusair correlation functional 5# (VWN5) [24] E c VWN [ ρ α , ρ β ] = ∫ ρ ε c VWN ( ρ , ζ ) d r ε c VWN ( ρ , ζ ) = ε I ( r s ) + Δ ε c ( r s , ζ ) ε i ( r s ) = A i [ ln x 2 X ( x ) + 2 b Q tan − 1 ( Q 2 x + b ) − b x 0 X ( x 0 ) { ln ( x − x 0 ) 2 X ( x ) + 2 ( b + 2 x 0 ) Q tan − 1 ( Q 2 x + b ) } ] x = r s 1 / 2 4 3 π r s 3 = 1 ρ Q = ( 4 c i − b i 2 ) 1 / 2 X ( x ) = x 2 + b i x + c i ( i = I , II ) Δ ε c ( r s , ζ ) = ε III ( r s ) [ f ( ζ ) f ′ ′ ( 0 ) ] [ 1 + β i ( r s ) ζ 4 ] β i ( r s ) = [ f ′ ′ ( 0 ) ε III ( r s ) ] Δ ε ( r s , 1 ) − 1 Δ ε ( r s , 1 ) = ε I ( r s ) − ε II ( r s ) \displaystyle \begin{aligned} E^{\textup{VWN}}_c[\rho^{\alpha}, \rho^{\beta}] &= \int \rho \varepsilon_c^{\textup{VWN}}(\rho, \zeta) d \textbf{r} \\ \varepsilon_c^{\textup{VWN}}(\rho, \zeta) &= \varepsilon_\textup{I}(r_s) + \Delta \varepsilon_c(r_s, \zeta) \\ \varepsilon_i(r_s) &= A_i \left[ \textup{ln} \frac{x^2}{X(x)} +\frac{2b}{Q} \textup{tan}^{-1}\left( \frac{Q}{2x+b} \right) - \frac{bx_0}{X(x_0)} \left\{ \textup{ln} \frac{(x-x_0)^2}{X(x)} + \frac{2(b+2x_0)}{Q} \textup{tan}^{-1} \left( \frac{Q}{2x+b} \right) \right\} \right] \\ x &= r_s ^ {1/2} \\ \frac{4}{3}\pi r_s ^3 &= \frac{1}{\rho} \\ Q &= (4c_i - b_i^2)^{1/2} \\ X(x) &= x^2 + b_ix + c_i(i= \textup{I}, \textup{II} ) \\ \Delta \varepsilon_c(r_s, \zeta) &= \varepsilon_{\textup{III}}(r_s) \left[ \frac{f(\zeta)}{f''(0)} \right] \left[ 1+\beta_i(r_s) \zeta ^ 4 \right] \\ \beta_i(r_s) &= \left[ \frac{f''(0)}{\varepsilon_{\textup{III}}(r_s)} \right] \Delta \varepsilon(r_s, 1) - 1 \\ \Delta \varepsilon(r_s, 1) &= \varepsilon_\textup{I}(r_s) - \varepsilon_\textup{II}(r_s) \end{aligned} E c VWN ​ [ ρ α , ρ β ] ε c VWN ​ ( ρ , ζ ) ε i ​ ( r s ​ ) x 3 4 ​ π r s 3 ​ Q X ( x ) Δ ε c ​ ( r s ​ , ζ ) β i ​ ( r s ​ ) Δ ε ( r s ​ , 1 ) ​ = ∫ ρ ε c VWN ​ ( ρ , ζ ) d r = ε I ​ ( r s ​ ) + Δ ε c ​ ( r s ​ , ζ ) = A i ​ [ ln X ( x ) x 2 ​ + Q 2 b ​ tan − 1 ( 2 x + b Q ​ ) − X ( x 0 ​ ) b x 0 ​ ​ { ln X ( x ) ( x − x 0 ​ ) 2 ​ + Q 2 ( b + 2 x 0 ​ ) ​ tan − 1 ( 2 x + b Q ​ ) } ] = r s 1/2 ​ = ρ 1 ​ = ( 4 c i ​ − b i 2 ​ ) 1/2 = x 2 + b i ​ x + c i ​ ( i = I , II ) = ε III ​ ( r s ​ ) [ f ′′ ( 0 ) f ( ζ ) ​ ] [ 1 + β i ​ ( r s ​ ) ζ 4 ] = [ ε III ​ ( r s ​ ) f ′′ ( 0 ) ​ ] Δ ε ( r s ​ , 1 ) − 1 = ε I ​ ( r s ​ ) − ε II ​ ( r s ​ ) ​
+
+5.3. GGA [편집]
+LDA와 LSDA는 균일한 전자 가스로 부터 유도 되었기에 ρ \rho ρ 가 천천히 변할 때만 적절하다. 그렇기에 GGA(Generalized-Gradient Approximation) (Gradient-corrected functional이라고도 불린다.)에선 ∇ ρ \nabla \rho ∇ ρ 항을 추가하여 [25] 정확도를 높인다. 이를 식으로 표현하면 E x c GGA [ ρ α , ρ β ] = ∫ f ( ρ α , ρ β , ∇ ρ α , ∇ ρ β ) d r \displaystyle \begin{aligned} E^{\textup{GGA}}_{xc}[\rho^{\alpha}, \rho^{\beta}] = \int f(\rho^{\alpha}, \rho^{\beta}, \nabla \rho^{\alpha}, \nabla \rho^{\beta}) d \textbf{r} \end{aligned} E x c GGA ​ [ ρ α , ρ β ] = ∫ f ( ρ α , ρ β , ∇ ρ α , ∇ ρ β ) d r ​
+
+가 된다. 여기서도 LDA에서 했던 것 처럼 에너지를 교환과 상관에 관한 에너지로 나눌 수 있다. E x c GGA = E x GGA + E c GGA \displaystyle \begin{aligned} E^{\textup{GGA}}_{xc} = E^{\textup{GGA}}_{x} + E^{\textup{GGA}}_{c} \end{aligned} E x c GGA ​ = E x GGA ​ + E c GGA ​ ​
+
+- Becke exchange functional from 1988 (B88) [26] E x B88 = E x LSDA + Δ E x B88 Δ E x B88 = − b ∑ σ = α , β ∫ ( ρ σ ) 4 / 3 χ σ 2 1 + 6 b χ σ ln [ χ σ + ( χ σ 2 + 1 ) 1 / 2 ] d r χ σ = ∣ ∇ ρ σ ∣ ( ρ σ ) 4 / 3 E x LSDA = − 3 4 ( 6 π ) 1 / 3 ∫ [ ( ρ α ) 4 / 3 + ( ρ β ) 4 / 3 ] d r \displaystyle \begin{aligned} E^{\textup{B88}}_{x} &= E^{\textup{LSDA}}_x + \Delta E^{\textup{B88}}_x \\ \Delta E^{\textup{B88}}_x &= - b \sum\limits_{\sigma = \alpha, \beta} \int \frac{(\rho^{\sigma})^{4/3}\chi^2_{\sigma}}{1+6b\chi_{\sigma}\textup{ln}[\chi_{\sigma} + (\chi^2_{\sigma}+1)^{1/2} ]} d \textbf{r} \\ \chi_{\sigma} &= \frac{|\nabla \rho^{\sigma}|}{(\rho^{\sigma})^{4/3}} \\ E^{\textup{LSDA}}_x &= -\frac{3}{4} \left( \frac{6}{\pi} \right) ^ {1/3} \int \left[ \left( \rho^{\alpha} \right) ^ {4/3} + \left( \rho^{\beta} \right) ^ {4/3} \right] d \textbf{r} \end{aligned} E x B88 ​ Δ E x B88 ​ χ σ ​ E x LSDA ​ ​ = E x LSDA ​ + Δ E x B88 ​ = − b σ = α , β ∑ ​ ∫ 1 + 6 b χ σ ​ ln [ χ σ ​ + ( χ σ 2 ​ + 1 ) 1/2 ] ( ρ σ ) 4/3 χ σ 2 ​ ​ d r = ( ρ σ ) 4/3 ∣∇ ρ σ ∣ ​ = − 4 3 ​ ( π 6 ​ ) 1/3 ∫ [ ( ρ α ) 4/3 + ( ρ β ) 4/3 ] d r ​
+
+b는 조정 가능한 매개변수로 원자 단위계에선 0.0042이다.
+- Perdew-Burke-Ernzerhof exchange functional (PBE) [27] , Revised PBE (revPBE) [28] E x PBE [ ρ α , ρ β ] = 1 2 E x PBE [ 2 ρ α ] + 1 2 E x PBE [ 2 ρ β ] E x PBE [ ρ ] ≡ E x PBE [ ρ , ρ ] = ∫ ρ ε x LDA ( ρ ) F x PBE ( s ) d r F x PBE ( s ) = 1 + κ − κ 1 + μ s 2 κ ε x LDA = − 3 k F 4 π s = ∣ ∇ ρ ∣ 2 k F ρ k F = ( 3 π 2 ρ ) 1 / 3 \displaystyle \begin{aligned} E^{\textup{PBE}}_x[\rho^{\alpha}, \rho^{\beta}] &= \frac{1}{2}E^{\textup{PBE}}_x[2\rho^{\alpha}] + \frac{1}{2}E^{\textup{PBE}}_x[2\rho^{\beta}] \\ E^{\textup{PBE}}_x[\rho] &\equiv E^{\textup{PBE}}_x[\rho, \rho] = \int \rho \varepsilon^{\textup{LDA}}_x(\rho)F^{\textup{PBE}}_x(s) d \textbf{r} \\ F^{\textup{PBE}}_x(s) &= 1 + \kappa - \frac{\kappa}{1 + \frac{\mu s^2}{\kappa}} \\ \varepsilon^{\textup{LDA}}_x &= -\frac{3k_F}{4\pi} \\ s &= \frac{|\nabla \rho|}{2k_F \rho} \\ k_F &= \left( 3\pi^2 \rho \right)^{1/3}\end{aligned} E x PBE ​ [ ρ α , ρ β ] E x PBE ​ [ ρ ] F x PBE ​ ( s ) ε x LDA ​ s k F ​ ​ = 2 1 ​ E x PBE ​ [ 2 ρ α ] + 2 1 ​ E x PBE ​ [ 2 ρ β ] ≡ E x PBE ​ [ ρ , ρ ] = ∫ ρ ε x LDA ​ ( ρ ) F x PBE ​ ( s ) d r = 1 + κ − 1 + κ μ s 2 ​ κ ​ = − 4 π 3 k F ​ ​ = 2 k F ​ ρ ∣∇ ρ ∣ ​ = ( 3 π 2 ρ ) 1/3 ​
+
+여기서 쓰이는 매개변수 값은 두 방법 모두 μ = 0.21951 \mu = 0.21951 μ = 0.21951 이고 PBE에선 κ = 0.804 \kappa = 0.804 κ = 0.804 , revPBE에선 κ = 1.245 \kappa = 1.245 κ = 1.245 를 사용한다.
+- Perdew-Burke-Ernzerhof correlation functional (PBE) [29] E c PBE = E c LSDA + ∫ H PBE ( r s , ζ , t ) d r = E c LSDA + Δ E c PBE H PBE = γ ϕ 3 ln { 1 + β γ t 2 ( 1 + A t 2 1 + A t 2 + A 2 t 4 ) } A = β γ { exp ( − ε c LSDA / γ ϕ 3 ) − 1 } − 1 t = ∣ ∇ ρ ∣ 2 k s ϕ ρ ϕ = ( 1 + ζ ) 2 / 3 + ( 1 − ζ ) 2 / 3 2 k s = ( 4 k F π ) 1 / 2 \displaystyle \begin{aligned} E^{\textup{PBE}}_{c} &= E^{\textup{LSDA}}_c + \int H^{\textup{PBE}}(r_s, \zeta, t) d \textbf{r} = E^{\textup{LSDA}}_c + \Delta E^{\textup{PBE}}_c \\ H^{\textup{PBE}} &= \gamma \phi^3 \textup{ln} \left\{ 1+ \frac{\beta}{\gamma}t^2 \left( \frac{1+At^2}{1+At^2+ A^2t^4} \right) \right\} \\ A &= \frac{\beta}{\gamma}\{ \textup{exp}(-\varepsilon^{\textup{LSDA}}_c/\gamma \phi ^ 3) -1 \}^{-1} \\ t &= \frac{|\nabla \rho|}{2k_s\phi\rho} \\ \phi &= \frac{\left( 1 + \zeta \right)^{2/3} + \left( 1 - \zeta \right) ^ {2/3}}{2} \\ k_s &= \left( \frac{4k_F}{\pi}\right)^{1/2} \end{aligned} E c PBE ​ H PBE A t ϕ k s ​ ​ = E c LSDA ​ + ∫ H PBE ( r s ​ , ζ , t ) d r = E c LSDA ​ + Δ E c PBE ​ = γ ϕ 3 ln { 1 + γ β ​ t 2 ( 1 + A t 2 + A 2 t 4 1 + A t 2 ​ ) } = γ β ​ { exp ( − ε c LSDA ​ / γ ϕ 3 ) − 1 } − 1 = 2 k s ​ ϕρ ∣∇ ρ ∣ ​ = 2 ( 1 + ζ ) 2/3 + ( 1 − ζ ) 2/3 ​ = ( π 4 k F ​ ​ ) 1/2 ​
+
+여기서 쓰이는 매개변수 값은 γ = 0.031091 , β = 0.066725 \gamma = 0.031091, \beta = 0.066725 γ = 0.031091 , β = 0.066725 이다.
+- Lee-Yang-Parr opposite-spin correlation functional (LYP) [30] E c LYP [ ρ α , ρ β ] = − a ∫ γ 1 + d ρ − 1 / 3 [ ρ + 2 b ρ − 5 / 3 { 2 2 / 3 C F ρ α 8 / 3 + 2 2 / 3 C F ρ β 8 / 3 − p t w + 1 9 ( ρ α t w α + ρ β t w β ) + 1 18 ( ρ α ∇ 2 ρ α + ρ β ∇ 2 ρ β ) } exp ( − c ρ − 1 / 3 ) ] γ = 2 ( 1 − ρ α 2 + ρ β 2 ρ 2 ) t w = 1 8 ∣ ∇ ρ ∣ 2 ρ − 1 8 ∇ 2 ρ C F = 3 10 ( 3 π 2 ) 2 / 3 \displaystyle \begin{aligned} E^{\textup{LYP}}_c [\rho^{\alpha}, \rho^{\beta}] &= -a \int \frac{\gamma}{1+d\rho^{-1/3}} \left[ \rho + 2b\rho^{-5/3} \left\{ 2^{2/3} C_F \rho^{8/3}_{\alpha} + 2^{2/3} C_F \rho^{8/3}_{\beta} -pt_w + \frac{1}{9} \left( \rho_{\alpha}t^{\alpha}_w + \rho_{\beta}t^{\beta}_w \right) + \frac{1}{18} \left( \rho_{\alpha} \nabla^2 \rho_{\alpha} + \rho_{\beta} \nabla^2 \rho_{\beta} \right) \right\} \textup{exp} \left( -c\rho^{-1/3} \right) \right] \\ \gamma &= 2 \left( 1-\frac{\rho^2_{\alpha}+ \rho^2_{\beta}}{\rho^2} \right) \\ t_w &= \frac{1}{8}\frac{|\nabla \rho|^2}{\rho} - \frac{1}{8}\nabla^2 \rho \\ C_F &= \frac{3}{10} \left( 3\pi^2 \right)^{2/3} \end{aligned} E c LYP ​ [ ρ α , ρ β ] γ t w ​ C F ​ ​ = − a ∫ 1 + d ρ − 1/3 γ ​ [ ρ + 2 b ρ − 5/3 { 2 2/3 C F ​ ρ α 8/3 ​ + 2 2/3 C F ​ ρ β 8/3 ​ − p t w ​ + 9 1 ​ ( ρ α ​ t w α ​ + ρ β ​ t w β ​ ) + 18 1 ​ ( ρ α ​ ∇ 2 ρ α ​ + ρ β ​ ∇ 2 ρ β ​ ) } exp ( − c ρ − 1/3 ) ] = 2 ( 1 − ρ 2 ρ α 2 ​ + ρ β 2 ​ ​ ) = 8 1 ​ ρ ∣∇ ρ ∣ 2 ​ − 8 1 ​ ∇ 2 ρ = 10 3 ​ ( 3 π 2 ) 2/3 ​
+
+a = 0.04918 , b = 0.132 , c = 0.2533 , d = 0.349 a = 0.04918, b = 0.132, c = 0.2533, d = 0.349 a = 0.04918 , b = 0.132 , c = 0.2533 , d = 0.349
+- Perdew-Wang exchange, correlation functional from 1991 (PW91) [31]
+
+5.4. Meta-GGA [편집]
+GGA에서 더 정확도를 높이기 위해 meta-GGA 에선 ∇ 2 ρ \nabla^2 \rho ∇ 2 ρ 와 아래와 같은 운동 에너지 밀도(Kinetic-energy density) 를 추가한다. τ α = 1 2 ∑ i ∣ ∇ θ i α KS ∣ 2 τ β = 1 2 ∑ i ∣ ∇ θ i β KS ∣ 2 \displaystyle \begin{aligned} \tau_{\alpha} &= \frac{1}{2} \sum\limits_{i} |\nabla \theta^{\textup{KS}}_{i{\alpha}}|^2 \\ \tau_{\beta} &= \frac{1}{2} \sum\limits_{i} |\nabla \theta^{\textup{KS}}_{i{\beta}}|^2 \end{aligned} τ α ​ τ β ​ ​ = 2 1 ​ i ∑ ​ ∣∇ θ i α KS ​ ∣ 2 = 2 1 ​ i ∑ ​ ∣∇ θ i β KS ​ ∣ 2 ​
+
+그럼 에너지는 E x c MGGA [ ρ α , ρ β ] = ∫ f ( ρ α , ρ β , ∇ ρ α , ∇ ρ β , ∇ 2 ρ α , ∇ 2 ρ β , τ α , τ β ) d r \displaystyle \begin{aligned} E^{\textup{MGGA}}_{xc}[\rho^{\alpha}, \rho^{\beta}] = \int f(\rho^{\alpha}, \rho^{\beta}, \nabla \rho^{\alpha}, \nabla \rho^{\beta}, \nabla^2 \rho^{\alpha}, \nabla^2 \rho^{\beta}, \tau_{\alpha}, \tau_{\beta}) d \textbf{r} \end{aligned} E x c MGGA ​ [ ρ α , ρ β ] = ∫ f ( ρ α , ρ β , ∇ ρ α , ∇ ρ β , ∇ 2 ρ α , ∇ 2 ρ β , τ α ​ , τ β ​ ) d r ​
+
+가 된다. - Tao-Perdew-Staroverov-Scuseria exchange, correlation functional (TPSS) [32] , Revised TPSS (revTPSS) [33]
+- Becke’s two-parameter correlation functional from 1995 (B95) [34]
+- M06-L [35] [36] , revM06-L
+- Strongly constrained and appropriately normed semilocal density functional (SCAN) [37]
+
+5.5. Hybrid Functional [편집]
+Hybrid functional에선 E x c E_{xc} E x c ​ 에 하트리-포크 방법 의 E x E_x E x ​ 를 추가한다. E x GGA E_x^{\textup{GGA}} E x GGA ​ 에 추가하냐 E x meta-GGA E_x^{\textup{meta-GGA}} E x meta-GGA ​ 에 추가햐냐에 따라 hybrid GGA와 hybrid meta-GGA로 세분화하기도 한다. - Becke, 3-parameter, Lee–Yang–Parr (B3LYP) [38] [39]
+
+20% HF exchange + 8% Slater LSDA exchange + 72% B88 GGA exchange + 19% VWN LSDA correlation + 81% LYP GGA correlation E x c B3LYP = 0.20 E x HF + 0.08 E x Slater + 0.72 E x B88 + 0.19 E c VWN + 0.81 E c LYP = 0.20 E x HF + 0.80 E x Slater + 0.72 Δ E x B88 + 0.19 E c VWN + 0.81 E c LYP \displaystyle \begin{aligned} E^{\textup{B3LYP}}_{xc} &= 0.20E^{\textup{HF}}_{x} + 0.08E^{\textup{Slater}}_{x} + 0.72E^{\textup{B88}}_{x} + 0.19E^{\textup{VWN}}_{c} + 0.81E^{\textup{LYP}}_{c} \\ &= 0.20E^{\textup{HF}}_{x} + 0.80E^{\textup{Slater}}_{x} + 0.72\Delta E^{\textup{B88}}_{x} + 0.19E^{\textup{VWN}}_{c} + 0.81E^{\textup{LYP}}_{c} \end{aligned} E x c B3LYP ​ ​ = 0.20 E x HF ​ + 0.08 E x Slater ​ + 0.72 E x B88 ​ + 0.19 E c VWN ​ + 0.81 E c LYP ​ = 0.20 E x HF ​ + 0.80 E x Slater ​ + 0.72Δ E x B88 ​ + 0.19 E c VWN ​ + 0.81 E c LYP ​ ​
+
+- PBE0 [40] , revPBE0
+
+25% HF exchange + 75% PBE GGA exchange + PBE GGA correlation
+25% HF exchange + 75% revPBE GGA exchange + PBE GGA correlation E x c PBE0 = 0.25 E x HF + 0.75 E x PBE + E c PBE E x c revPBE0 = 0.25 E x HF + 0.75 E x revPBE + E c PBE \displaystyle \begin{aligned} E^{\textup{PBE0}}_{xc} &= 0.25E^{\textup{HF}}_{x} + 0.75E^{\textup{PBE}}_{x} + E^{\textup{PBE}}_{c} \\ E^{\textup{revPBE0}}_{xc} &= 0.25E^{\textup{HF}}_{x} + 0.75E^{\textup{revPBE}}_{x} + E^{\textup{PBE}}_{c} \end{aligned} E x c PBE0 ​ E x c revPBE0 ​ ​ = 0.25 E x HF ​ + 0.75 E x PBE ​ + E c PBE ​ = 0.25 E x HF ​ + 0.75 E x revPBE ​ + E c PBE ​ ​
+
+- B97 [41]
+
+- M06-2X [42] [43]
+
+- M08-HX [44] [45]
+
+- TPSSh [46] , revTPSSh [47]
+10% HF exchange + 90% TPSS meta-GGA exchange + TPSS meta-GGA correlation
+10% HF exchange + 90% revTPSS meta-GGA exchange + revTPSS meta-GGA correlation E x c TPSSh = 0.10 E x HF + 0.90 E x TPSS + E c TPSS E x c revTPSSh = 0.10 E x HF + 0.90 E x revTPSS + E c revTPSS \displaystyle \begin{aligned} E^{\textup{TPSSh}}_{xc} &= 0.10E^{\textup{HF}}_{x} + 0.90E^{\textup{TPSS}}_{x} + E^{\textup{TPSS}}_{c} \\ E^{\textup{revTPSSh}}_{xc} &= 0.10E^{\textup{HF}}_{x} + 0.90E^{\textup{revTPSS}}_{x} + E^{\textup{revTPSS}}_{c} \end{aligned} E x c TPSSh ​ E x c revTPSSh ​ ​ = 0.10 E x HF ​ + 0.90 E x TPSS ​ + E c TPSS ​ = 0.10 E x HF ​ + 0.90 E x revTPSS ​ + E c revTPSS ​ ​
+
+- Boese-Martin functional for Kinetics (BMK) [48]
+
+5.6. Double-Hybrid Functional [편집]
+Double Hybrod Functional에선 unoccupied KS orbitals 의존성을 추가해 [49] Hybrid Functional보다 정확도를 높인다. - Becke, 2-parameter, Perturbation, Lee–Yang–Parr (B2PLYP) [50]
+53% HF exchange + 47% B88 GGA exchange + 73% LYP GGA correlation + 27% MP2 correlation E x c B2PLYP = 0.53 E x HF + 0.47 E x B88 + 0.73 E c LYP + 0.27 E c MP2 \displaystyle \begin{aligned} E^{\textup{B2PLYP}}_{xc} = 0.53E^{\textup{HF}}_{x} + 0.47E^{\textup{B88}}_{x} + 0.73E^{\textup{LYP}}_{c} + 0.27E^{\textup{MP2}}_{c}\end{aligned} E x c B2PLYP ​ = 0.53 E x HF ​ + 0.47 E x B88 ​ + 0.73 E c LYP ​ + 0.27 E c MP2 ​ ​
+- XYG3 [51] [52]
+80.33% HF exchange - 1.4% Slater LSDA exchange + 21.07% B88 GGA exchange + 67.89% LYP GGA correlation + 32.11% MP2 correlation E x c XYG3 = 0.8033 E x HF − 0.014 E x Slater + 0.2107 E x B88 + 0.6789 E c LYP + 0.3211 E c MP2 \displaystyle \begin{aligned} E^{\textup{XYG3}}_{xc} = 0.8033E^{\textup{HF}}_{x} - 0.014E^{\textup{Slater}}_{x} + 0.2107E^{\textup{B88}}_{x} + 0.6789E^{\textup{LYP}}_{c} + 0.3211E^{\textup{MP2}}_{c}\end{aligned} E x c XYG3 ​ = 0.8033 E x HF ​ − 0.014 E x Slater ​ + 0.2107 E x B88 ​ + 0.6789 E c LYP ​ + 0.3211 E c MP2 ​ ​
+- XYGJ-OS [53]
+
+- DSD-PBEPBE-D3 [54]
+
+- PTPSS-D3 [55]
+
+6. 한계 [편집]
+DFT에도 문제점들이 있는데 그중 하나가 장거리 전자 상관(Long-Range Electronic Correlation)을 고려하지 못한다는 것이다. 단거리 전자 상관(Short-Range Electronic Correlation)을 표현하는 것에만 신경을 쓰므로 공유 결합과 같은 것들은 잘 설명할지 몰라도 장거리 전자 상관이 중요한 전하 이동(Charge Transfer)나 분산력(Dispersion Force) 등을 설명하지 못한다는 단점이 있다. 이를 해결하기 위한 방법 중 하나론 RSH(Range-Separated Hybrid) 이라 불리는 방법으로 다음과 같이 단거리에선 DFT Exchange를, 장거리에선 HF Exchange를 사용하는 것이다. 대표적인 예시인 CAM-B3LYP [56] 에선 1 r 12 = 1 − [ α + β erf ( ω r 12 ) ] r 12 ⏟ Short Range: DFT Exchange + α + β erf ( ω r 12 ) r 12 ⏟ Long Range: HF Exchange \displaystyle \begin{aligned} \frac{1}{r_{12}} = \underbrace{\frac{1 - [\alpha + \beta \textup{erf}(\omega r_{12}) ]}{r_{12}}}_{\textup{Short Range: DFT Exchange}} + \underbrace{\frac{\alpha + \beta \textup{erf}(\omega r_{12}) }{r_{12}}}_{\textup{Long Range: HF Exchange}} \end{aligned} r 12 ​ 1 ​ = Short Range: DFT Exchange r 12 ​ 1 − [ α + β erf ( ω r 12 ​ )] ​ ​ ​ + Long Range: HF Exchange r 12 ​ α + β erf ( ω r 12 ​ ) ​ ​ ​ ​
+
+E x = E x S R + E x L R = 1 − [ α + β erf ( ω r 12 ) ] r 12 E x B88 + α + β erf ( ω r 12 ) r 12 E x HF \displaystyle \begin{aligned} E_{x} = E_{x}^{SR} + E_{x}^{LR} = \frac{1 - [\alpha + \beta \textup{erf}(\omega r_{12}) ]}{r_{12}} E_x^{\textup{B88}} + \frac{\alpha + \beta \textup{erf}(\omega r_{12}) }{r_{12}} E_x^{\textup{HF}}\end{aligned} E x ​ = E x S R ​ + E x L R ​ = r 12 ​ 1 − [ α + β erf ( ω r 12 ​ )] ​ E x B88 ​ + r 12 ​ α + β erf ( ω r 12 ​ ) ​ E x HF ​ ​
+
+와 같이 표현한다. Range-Separated Hybrid Functional 또한 여러 종류가 존재하며 아래는 그들중 일부이다. - wB97X-V(RSH GGA) [57]
+
+- wB97X-D3(RSH GGA) [58]
+
+- wB97X-D(RSH GGA) [59]
+
+- wB97M-V(RSH meta-GGA) [60]
+
+또 다른 방법인 DFT-D(Dispersion-corrected DFT) 에선 DFT로 구한 에너지에 실험적으로 구한 분산력 보정치를 더해준다. 예시로 DFT-D2에선 아래와 같은 보정항을 추가한다. E DFT-D2 = E DFT − s 6 ∑ A < B C 6 A B ∣ R A − R B ∣ 6 f d m p D2 ( ∣ R A − R B ∣ ) f d m p D2 ( ∣ R A − R B ∣ ) = [ 1 + e − d ( ∣ R A − R B ∣ / R 0 , A B − 1 ) ] − 1 \displaystyle \begin{aligned} E_{\textup{DFT-D2}} = E_{\textup{DFT}} - s_6 \sum\limits_{A<B} \frac{C^{AB}_6}{|\textbf{R}_A - \textbf{R}_B|^6} f^{\textup{D2}}_{dmp}(|\textbf{R}_A - \textbf{R}_B|) \\ f^{\textup{D2}}_{dmp}(|\textbf{R}_A - \textbf{R}_B|) = \left[ 1 + e ^ {-d \left( {|\textbf{R}_A - \textbf{R}_B| / R_{0, AB} - 1} \right) } \right]^{-1} \end{aligned} E DFT-D2 ​ = E DFT ​ − s 6 ​ A < B ∑ ​ ∣ R A ​ − R B ​ ∣ 6 C 6 A B ​ ​ f d m p D2 ​ ( ∣ R A ​ − R B ​ ∣ ) f d m p D2 ​ ( ∣ R A ​ − R B ​ ∣ ) = [ 1 + e − d ( ∣ R A ​ − R B ​ ∣/ R 0 , A B ​ − 1 ) ] − 1 ​
+
+여기서 d , R 0 , A B , C 6 A B = C 6 A C 6 B , s 6 d, R_{0, AB}, C^{AB}_6 = \sqrt{C_6^AC_6^B}, s_6 d , R 0 , A B ​ , C 6 A B ​ = C 6 A ​ C 6 B ​ ​ , s 6 ​ 가 바로 실험적으로 결정해야될 파라미터들이다.
+
+7. 하트리-포크 방법 과의 비교 [편집]
+- 근사 유무
+하트리-포크 방정식은 오비탈 근사를 도입했기 때문에 방정식을 정확하게 풀더라도 항상 분자의 실제 에너지보다는 높게 나온다(HF limit) 하지만 콘-샴 방정식의 경우 v x c v_{xc} v x c ​ 만 정확하다면 정확한 에너지를 내어준다. [61]
+- 개선의 방향성
+하트리-포크 방법의 경우 들뜬 상태의 Slater Determinant를 추가해 줌으로써 정확한 해에 다가갈 수 있다. 하지만 DFT의 경우 v x c v_{xc} v x c ​ 를 개선하는 정해진 가이드라인이 없다.
+- 변분 원리
+하트리-포크 방정식의 경우 오비탈 근사 이외에는 사용한 근사가 없기에 변분 원리 를 따른다. DFT 또한 제2정리에 의해 변분 원리 를 따르지만 v x c v_{xc} v x c ​ 를 근사해서 넣기에 구한 에너지가 참값보다 작게 나올수도 있다.
+
+8. 관련 문서 [편집]
+- 화학 관련 정보
+- 분자 오비탈
+- 슈뢰딩거 방정식
+- 변분 원리
+- 양자역학
+- 오비탈
+- 하트리-포크 방법
+
+[ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 남동구알바 쿠팡
+www.coupang.com v-if
+[ [ 로켓배송 ] [ 로켓직구 ] [ 골드박스 ] [ 로켓프레시 ] ]
+흥미진진한 남동구알바, 밤새도록 읽는 재미에 빠져보세요.
+
+] | [ 남동구꽃배달 하나로퀵
+www.1577-3410.com
+[ [ 기사실명제퀵 ] [ 빠르게배송퀵 ] [ 퀵서비스전문 ] [ 배송배달조회 ] ]
+10분배차다마스 라보전문 즉시배차 저렴한비용 실시간배차 간단이사 긴급배송 소형이사
+
+]
+
+[1] 핵의 위치, 핵의 전하량 [2] 이는 ∣ ψ ∣ 2|\psi|^2 ∣ ψ ∣ 2 가 두 입자의 변환에 대해 불변임을 이용하면 쉽게 증명 가능하다. [3] 0은 바닥상태임을 나타낸다. [4] 즉 앞서 언급한 것들은 ρ ( r ) \rho(\textbf{r}) ρ ( r ) 의 범함수 이다. [5] 이 양을 DFT에선 외부 퍼텐셜(external potential)이라 한다. [6] 상수 차이만 나는 퍼텐셜은 같은 퍼텐셜로 본다. [7] v v v 는 E 0 E_0 E 0 ​ 가 v ( r ) v(\textbf{r}) v ( r ) 에 의존한다는 것을 강조하기 위해 붙었다. [8] 사실 이것은 ρ trial \rho_{\textup{trial}} ρ trial ​ 에 해당하는 반대칭 파동함수를 주는 v trial v_{\textup{trial}} v trial ​ 가 존재할때만 성립한다. 이러한 ρ trial \rho_{\textup{trial}} ρ trial ​ 를 v v v -representable하다고 하며 모든 ρ trial \rho_{\textup{trial}} ρ trial ​ 가 v v v -representable하지는 않다. 다만 크게 걱정할 필요는 없는게 v v v -representable 조건을 약화시킬 수 있는데 이는 Density-Finctional Theory of Atoms and Molecules를 참고하여라. [9] 이에 관한 추가적인 논의는 Levy-Lieb constrained-search formulation 참조 [10] 물론 이 항을 근사적으로 나타낸다면 이 방법 또한 ρ \rho ρ 를 구하는데 쓸 수 있다. 이를 Orbital-free density functional theory 라 한다. 하지만 정확도 문제로 자주 쓰이는 방법은 아니다. [11] 물론 이론상으로 그렇다는 것이고 실제로는 근사가 필요하다. [12] 이제부터 첨자 0은 빼도록 하겠다. [13] 전기 퍼텐셜 참조 [14] 아래에서 나오는 표기법들은 하트리-포크 방법 참고 [15] 잘 쓰이는 방법은 아니다. [16] 파동함수의 반대칭화 때문에 나타난다 [17] 전자의 반발과 관련된 항 [18] 전자가 1개인 계에서도 J ≠ 0 J \neq 0 J  = 0 임을 생각하면 쉽게 이해할 수 있을 것이다. [19] 참고로 하트리-포크 방법 과 그를 기반으로 한 이론에선 SIC를 생각할 필요가 없다. 왜냐하면 쿨롱 적분 J i j J_{ij} J ij ​ 은 i = j i = j i = j 일때 Self-interaction error가 생기지만 K i i = J i i K_{ii} = J_{ii} K ii ​ = J ii ​ 이므로 교환 적분이 해당 항을 상쇄시키기 때문이다. 이러한 이유로 후술할 Hybrid Functional에선 이 문제가 어느 정도 해결된다. [20] DFT의 약점이기도 하다. [21] 참고 [22] 오일러-라그랑주 방정식 참조 [23] P. A. M. Dirac (1930) P. Camb. Philos. Soc. 26, pp. 376. [24] S. H. Vosko, L. Wilk, and M. Nusair (1980) Can. J. Phys. 58, pp. 1200. [25] ∇ 2 ρ \nabla^2 \rho ∇ 2 ρ 까지 추가하기도 한다. [26] A. D. Becke (1988) Phys. Rev. A 38, pp. 3098. [27] J. P. Perdew, K. Burke, and M. Ernzerhof (1996) Phys. Rev. Lett. 77, pp. 3865. [28] Y. Zhang and W. Yang (1998) Phys. Rev. Lett. 80, pp. 890. [29] J. P. Perdew, K. Burke, and M. Ernzerhof (1996) Phys. Rev. Lett. 77, pp. 3865. [30] C. Lee, W. Yang, and R. G. Parr (1988) Phys. Rev. B 37, pp. 785. [31] J. P. Perdew, J. A. Chevary, S. H. Vosko, K. A. Jackson, M. R. Pederson, D. J. Singh, and C. Fiolhais (1992) Phys. Rev. B 46, pp. 6671. [32] J. Tao, J. P. Perdew, V. N. Staroverov, and G. E. Scuseria (2003) Phys. Rev. Lett. 91, pp. 146401. [33] J. P. Perdew, A. Ruzsinszky, G. I. Csonka, L. A. Constantin, and J. Sun (2009) Phys. Rev. Lett. 103, pp. 026403. [34] A. D. Becke (1996) J. Chem. Phys. 104, pp. 1040. [35] Y. Zhao and D. G. Truhlar (2006) J. Chem. Phys. 125, pp. 194101. [36] 전이 금속 , 무기화합물 , 유기금속화합물 계산에 주로 쓰인다. [37] Sun, J., Ruzsinszky, A., and Perdew, J. P (2015) Phys. Rev. Lett. 115(3), pp. 036402. [38] A. D. Becke (1993) J. Chem. Phys. 98, pp. 5648. [39] P. J. Stephens, F. J. Devlin, C. F. Chabolowski, and M. J. Frisch (1994) J. Phys. Chem. 98, pp. 11623. [40] C. Adamo and V. Barone (1999) J. Chem. Phys. 110, pp. 6158. [41] A. D. Becke (1997) J. Chem. Phys. 107, pp. 8554. [42] Y. Zhao and D. G. Truhlar (2008) Theor. Chem. Acc. 120, pp. 215. [43] 주족 원소 열화학, 동역학, 비공유결합성 상호작용 계산에선 매우 좋은 성능을 지니지만 전이 금속 열화학이나 유기금속화합물 계산엔 사용할 수 없다. [44] Y. Zhao and D. G. Truhlar (2007) J. Chem. Theory Comput. 4, pp. 1849. [45] 주족 원소 열화학, 동역학, 비공유결합성 상호작용 계산에 쓰인다. [46] V. N. Staroverov, G. E. Scuseria, J. Tao, and J. P. Perdew (2003) J. Chem. Phys. 119, pp. 12129. [47] G. I. Csonka, J. P. Perdew, and A. Ruzsinszky (2010) J. Chem. Theory Comput. 6, pp. 3688. [48] A. D. Boese and J. M. L. Martin (2004) J. Chem. Phys. 121, pp. 3405. [49] 한 예시로 MP2의 이차 보정에너지를 추가한다. [50] S. Grimme (2006) J. Chem. Phys. 124, pp. 034108. [51] Y. Zhang, X. Xu, and W. A. Goddard III (2009) Proc. Natl. Acad. Sci. USA 106, pp. 4963. [52] 특이하게 E c MP2 E^{\textup{MP2}}_{c} E c MP2 ​ 의 계산엔 B3LYP의 오비탈을 사용한다. [53] I. Y. Zhang, X. Xin, Y. Jung, and W. A. Goddard III (2011) Proc. Natl. Acad. Sci. USA 108, pp. 19896. [54] S. Kozuch and J. M. L. Martin (2013) J. Comput. Chem. 34, pp. 2327. [55] L. Goerigk and S. Grimme (2011) J. Chem. Theory Comput. 7, pp. 291. [56] T. Yanai, D. P. Tew, and N. C. Handy (2004) Chem. Phys. Lett. 393, pp. 51. [57] N. Mardirossian and M. Head-Gordon (2014) Phys. Chem. Chem. Phys. 16, pp. 9904. [58] Y.-S. Lin, G.-D. Li, S.-P. Mao, and J.-D. Chai (2013) J. Chem. Theory Comput. 9, pp. 263. [59] J.-D. Chai and M. Head-Gordon (2008b) Phys. Chem. Chem. Phys. 10, pp. 6615. [60] N. Mardirossian and M. Head-Gordon (2016) J. Chem. Phys. 144, pp. 214110. [61] 이론상 그렇다는 것이고 실제론 v x c v_{xc} v x c ​ 를 정확하게 찾는 것은 불가능하다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

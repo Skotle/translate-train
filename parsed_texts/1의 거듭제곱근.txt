@@ -1,0 +1,260 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 1의 거듭제곱근
+최근 수정 시각: 2026-05-13 00:56:31 [ [ [ ] [ [ 10 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 해석학(수학)
+- 대수적 수
+- 1
+- 제곱근
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+수학 상수
+Mathematical Constants
+[ 펼치기 · 접기 ] 0 0 0
+덧셈의 항등원 | 1 1 1
+곱셈의 항등원 | 2 \sqrt{2} 2 ​
+제곱근 2 ∗ ^\ast ∗ | 495 495 495 , 6174 6174 6174
+카프리카 수 | 0 0 0 , 1 1 1 , 3435 3435 3435 , 438579088 438579088 438579088
+뮌하우젠 수
+π \pi π
+원주율 ∗ ∗ ^{\ast\ast} ∗∗ | τ \tau τ
+새 원주율 ∗ ∗ ^{\ast\ast} ∗∗ | e e e
+자연로그의 밑 ∗ ∗ ^{\ast\ast} ∗∗ | φ \varphi φ
+황금비 ∗ ^\ast ∗ | i i i
+허수단위
+G G G
+카탈랑 상수 ∗ ? ^{\ast?} ∗ ? | ζ ( 3 ) \zeta(3) ζ ( 3 )
+아페리 상수 ∗ ? ^{\ast?} ∗ ? | S i ( π ) {\rm Si}(\pi) Si ( π )
+윌브레이엄-기브스 상수 ? ^{?} ? | γ \gamma γ
+오일러-마스케로니 상수 ? ^{?} ? | γ n \gamma_n γ n ​
+스틸체스 상수 ? ^{?} ?
+Ω \Omega Ω
+오메가 상수 ∗ ∗ ^{\ast\ast} ∗∗ | 2 2 2^{\sqrt{2}} 2 2 ​
+겔폰트-슈나이더 상수 ∗ ∗ ^{\ast\ast} ∗∗ | C n C_n\, C n ​
+챔퍼나운 상수 ∗ ∗ ^{\ast\ast} ∗∗ | A A\, A
+글레이셔-킨켈린 상수 ? ^{?} ? | A k A_k\, A k ​
+벤더스키-아담칙 상수 ? ^{?} ?
+δ \delta δ
+곰페르츠 상수 ? ^{?} ? | μ \mu μ
+라마누잔-졸트너 상수 ? ^{?} ? | B 2 B_{2} B 2 ​ , B 4 B_{4} B 4 ​
+브룬 상수 ? ^{?} ? | ρ \rho ρ
+플라스틱 상수 ∗ ^\ast ∗ | δ \delta δ , α \alpha α
+파이겐바움 상수 ? ^{?} ?
+G G G
+란다우 상수 ? ^{?} ? | C A C_A C A ​
+아르틴 상수 ? ^{?} ? | ζ n \zeta_n ζ n ​
+1 1 1 의 n n n 제곱근 [1] | lb ⁡ 3 \operatorname{lb}3 lb 3
+3의 이진로그 ∗ ∗ ^{\ast\ast} ∗∗
+? ^{?} ? 유리수인지 무리수인지 밝혀지지 않음
+∗ ^\ast ∗ 초월수가 아닌 무리수 임이 증명됨
+∗ ? ^{\ast?} ∗ ? 무리수임이 증명됨, 초월수인지 아닌지 밝혀지지 않음
+∗ ∗ ^{\ast\ast} ∗∗ 초월수 임이 증명됨
+[1] 정의에 따라 초월수가 아닌 대수적 수 이다. 1 1 1 의 거듭제곱근 중 1 1 1 , − 1 -1 − 1 , i i i , − i -i − i 를 제외한 값들은 모두 무리수 실수부 또는 허수부를 가진다. 일반적으로 무리수는 실수의 부분집합으로서만 정의되므로 1 1 1 , − 1 -1 − 1 을 제외한 1 1 1 의 거듭제곱근은 유리수나 무리수로 구분하지는 않는다.
+
+복소평면 에 표시한 1의 7제곱근 z 0 ∼ z 6 \boldsymbol{z_{0} \sim z_{6}} z 0 ​ ∼ z 6 ​ [1]
+
+1 . 개요 2 . 정의 3 . 목록 3.1 . 1의 제곱근 3.2 . 1의 세제곱근 3.3 . 1의 네제곱근 3.4 . 1의 다섯제곱근 3.5 . 1의 여섯제곱근 3.6 . 1의 여덟제곱근 3.7 . 일반화 4 . 회전 변환 행렬 5 . 성질 6 . 관련 개념들
+
+1. 개요 [편집]
+1의 거듭제곱근(root of unity) [2] 은 연산이 정의된 군 연산군 의 개념으로, 해당 연산을 유한 번 거듭하여 항등원 을 얻을 수 있는 원소들을 일컫는다. 이 개념을 복소수 의 곱셈 군 ( C × , ⋅ ) (\mathbb C^{\times}, \ \cdot \ ) ( C × , ⋅ ) 에 한정하여 생각하기도 한다.
+
+2. 정의 [편집]
+1의 거듭제곱근(Root of unity) 군 ( G , ⋅ ) (G, \ \cdot \ ) ( G , ⋅ ) 과 원소 a ∈ G a \in G a ∈ G 가 주어져 있을 때,
+
+g n = a g^n = a g n = a
+인 원소 g ∈ G g \in G g ∈ G 를 a a a 의 거듭 제곱근 (Root of a a a ) 혹은 제곱의 수를 강조하여 a \boldsymbol a a 의 n \boldsymbol{n} n 제곱근( n n n th root of a a a ) 이라고 한다. 특히, a a a 가 군 ( G , ⋅ ) (G, \ \cdot \ ) ( G , ⋅ ) 의 항등원 1인 경우 [3] g ∈ G g \in G g ∈ G 를 1의 거듭제곱근(Root of unity) 혹은 1의 n n n 제곱근( n n n th root of unity) 이라고 한다.
+
+1의 거듭제곱근(Root of unity) z n = 1 z^n = 1 z n = 1 인 복소수 z ∈ C z \in \mathbb C z ∈ C 를 1의 거듭제곱근(Root of unity) 혹은 1의 n \boldsymbol{n} n 제곱근( n \boldsymbol{n} n th root of unity) 이라고 한다.
+
+위에서 정의한 일반적인 군 ( G , ⋅ ) (G, \ \cdot \ ) ( G , ⋅ ) 를 곱셈군 ( C × , ⋅ ) (\mathbb C^{\times}, \ \cdot \ ) ( C × , ⋅ ) 로 한정한 버전이다. 물론 1이 아닌 임의의 복소수 a ∈ C a \in \mathbb C a ∈ C 의 n n n 제곱근도 생각할 수 있지만, 이는 a ∈ C a \in \mathbb C a ∈ C 의 한 n n n 제곱근에 1의 n n n 제곱근들을 곱한 형태로 전부 표현 가능하다. 그렇기 때문에 1의 n n n 제곱근들은 본질적인 거듭제곱근으로서의 의미를 가진다. 아래 예시는 전부 복소수체(의 부분군)에서 계산한 1의 거듭제곱근들이다.
+
+1의 6제곱근, 12제곱근은 1의 3제곱근을 응용, 1의 10제곱근, 20제곱근은 1의 5제곱근을 응용해서 구할 수 있으며 1의 3제곱근과 5제곱근을 곱하면 1의 15제곱근, 30제곱근, 60제곱근도 나타낼 수 있다. 1의 8제곱근까지는 계산이 크게 어렵지 않아서 1의 24제곱근, 40제곱근, 120제곱근도 비슷한 난이도로 구할 수 있되 1의 16제곱근부터는 이중근호가 들어가서 여기서부터는 난이도가 올라간다.
+
+또한 2제곱근과 3제곱근이 번갈아 나타나는 다중근호의 경우는 1의 7제곱근과 1의 9제곱근이 있다. 다만 환원 불능 이다.
+1의 17제곱근은 2제곱근만 들어가되 매우 복잡하며 카를 프리드리히 가우스 가 증명해냈다.
+1의 n제곱근은 root of unity에 해당하며 모든 root of unity는 사칙연산과 유한번 제곱근 처리로 답을 낼 수 있다 한다.
+
+3. 목록 [편집]
+제곱근
+square root·radiacal root
+허수 | − 1 \sqrt{-1} − 1 ​ · 1 3 \sqrt[3]{1} 3 1 ​ · 1 5 \sqrt[5]{1} 5 1 ​
+실수 | 1 \sqrt 1 1 ​ | 2 \sqrt 2 2 ​ | 3 \sqrt 3 3 ​
+5 \sqrt 5 5 ​ | 6 \sqrt 6 6 ​ | 7 \sqrt 7 7 ​
+8 \sqrt 8 8 ​ | e \sqrt e e ​ | π \sqrt π π ​
+
+3.1. 1의 제곱근 [편집]
+z 2 = 1 ⇔ ( z − 1 ) ( z + 1 ) = 0 ⇔ z = ± 1 ​ \begin{aligned} z^2 = 1 & \Leftrightarrow (z - 1)(z + 1) = 0 \\ & \Leftrightarrow z =\pm 1 \end{aligned}​ z 2 = 1 ​ ⇔ ( z − 1 ) ( z + 1 ) = 0 ⇔ z = ± 1 ​ ​
+
+자세한 내용은 -1 문서를 참고하십시오.
+
+3.2. 1의 세제곱근 [편집]
+z 3 = 1 ⇔ ( z − 1 ) ( z 2 + z + 1 ) = 0 ⇔ z = 1 or z = − 1 ± 3 i 2 ​ \begin{aligned} z^3 = 1 & \Leftrightarrow (z - 1)(z^2+z+1)=0 \\ & \Leftrightarrow z = 1 \textsf{ or }z = \dfrac {-1 \pm \sqrt 3i}2 \end{aligned}​ z 3 = 1 ​ ⇔ ( z − 1 ) ( z 2 + z + 1 ) = 0 ⇔ z = 1 or z = 2 − 1 ± 3 ​ i ​ ​ ​
+
+자세한 내용은 1의 거듭제곱근/세제곱근 문서를 참고하십시오.
+
+3.3. 1의 네제곱근 [편집]
+z 4 = 1 ⇔ ( z − 1 ) ( z + 1 ) ( z − i ) ( z + i ) = 0 ⇔ z = ± 1 or z = ± i ​ \begin{aligned} z^4 = 1 & \Leftrightarrow (z - 1)(z + 1)(z - i)(z + i) = 0 \\ & \Leftrightarrow z = \pm 1 \textsf{ or }z = \pm i \end{aligned}​ z 4 = 1 ​ ⇔ ( z − 1 ) ( z + 1 ) ( z − i ) ( z + i ) = 0 ⇔ z = ± 1 or z = ± i ​ ​
+
+자세한 내용은 허수단위 문서를 참고하십시오.
+
+3.4. 1의 다섯제곱근 [편집]
+z 5 = 1 ⇔ ( z − 1 ) ( z 4 + z 3 + z 2 + z + 1 ) = 0 ⇔ z = 1 or z = − 1 + 5 ± 10 + 2 5 i 4 or z = − 1 − 5 ± 10 − 2 5 i 4 \begin{aligned} z^5 = 1 & \Leftrightarrow (z - 1)(z^4+z^3+z^2+z+1)=0 \\ & \Leftrightarrow z = 1 \textsf{ or }z = \dfrac {-1+\sqrt{5}\pm\sqrt{10+2\sqrt{5}}i}{4} \textsf{ or }z = \dfrac {-1-\sqrt{5}\pm\sqrt{10-2\sqrt{5}}i}{4} \end{aligned} z 5 = 1 ​ ⇔ ( z − 1 ) ( z 4 + z 3 + z 2 + z + 1 ) = 0 ⇔ z = 1 or z = 4 − 1 + 5 ​ ± 10 + 2 5 ​ ​ i ​ or z = 4 − 1 − 5 ​ ± 10 − 2 5 ​ ​ i ​ ​
+
+자세한 내용은 1의 거듭제곱근/다섯제곱근 문서를 참고하십시오. 황금비 를 사용하면 식을 간추릴 수도 있다.
+
+3.5. 1의 여섯제곱근 [편집]
+자세한 내용은 1의 거듭제곱근/세제곱근 문서를 참고하십시오. x 3 = 1 , x 3 = − 1 x^3=1, x^3=-1 x 3 = 1 , x 3 = − 1 의 해를 모두 취한 것과 같다.
+
+3.6. 1의 여덟제곱근 [편집]
+각각의 근은 ± 1 , ± i , ± 2 ± 2 i 2 \pm1,\pm i,\pm\dfrac{\sqrt{2}\pm\sqrt{2}i}{2} ± 1 , ± i , ± 2 2 ​ ± 2 ​ i ​ 이다.
+
+3.7. 일반화 [편집]
+방정식 z n = 1 ​ z^n = 1​ z n = 1​ 의 양 변의 절대값 을 비교하면, ∥ z ∥ = 1 ​ \lVert z\rVert = 1​ ∥ z ∥ = 1​ 이므로 z = cos ⁡ θ + i sin ⁡ θ z = \cos\theta + i\sin\theta z = cos θ + i sin θ 라고 쓸 수 있다. 드 무아브르 공식 에 의해,
+
+1 = z n = cos ⁡ n θ + i sin ⁡ n θ \begin{aligned} 1 &= z^n \\&= \cos n\theta + i\sin n\theta \end{aligned} 1 ​ = z n = cos n θ + i sin n θ ​
+을 얻는다. 이 식이 성립하려면, n θ = 2 k π n\theta = 2k\pi n θ = 2 k π 즉 ∃ k ∈ Z s.t. θ = 2 k π / n \exists k \in \mathbb{Z} \textsf{ s.t. }\theta = 2k\pi/n ∃ k ∈ Z s.t. θ = 2 k π / n 이어야만 한다. 중복근을 전부 제외하면
+
+z = cos ⁡ 2 k π n + i sin ⁡ 2 k π n = e 2 k π i / n ( 0 ≤ k < n , k ∈ Z ) \begin{aligned} z &= \cos\frac{2k\pi}{n} + i\sin\frac{2k\pi}{n} \\ &= e^{2k\pi i / n} \quad (0 \leq k < n, k \in \mathbb{Z}) \end{aligned} z ​ = cos n 2 k π ​ + i sin n 2 k π ​ = e 2 k π i / n ( 0 ≤ k < n , k ∈ Z ) ​
+이 모든 1의 n n n 제곱근이다. 특히, k = 1 k=1 k = 1 인 경우에 대해
+
+ζ n = e 2 π i / n \begin{aligned} \zeta_n &= e^{2\pi i / n}\end{aligned} ζ n ​ ​ = e 2 π i / n ​
+으로 두면, ζ n \zeta_n ζ n ​ 은 항상 n n n 에 대한 1의 원시근 이 되며, 모든 1의 n n n 제곱근은
+
+{ 1 , ζ n , ζ n 2 , ζ n 3 , … , ζ n n − 1 } \{ 1, \zeta_n, \zeta_n^2, \zeta_n^3, \dots, \zeta_n^{n-1} \} { 1 , ζ n ​ , ζ n 2 ​ , ζ n 3 ​ , … , ζ n n − 1 ​ }
+와 같이 나타낼 수 있다. 또한, 위 명제는 ζ n \zeta_n ζ n ​ 이 e 2 π i / n e^{2\pi i / n} e 2 π i / n 이 아닌 다른 원시근일 때도 마찬가지로 성립한다.
+
+4. 회전 변환 행렬 [편집]
+θ ° \theta\degree θ ° 라 할때 회전 변환 행렬은 다음과 같다.
+θ ° = ( cos ⁡ θ − sin ⁡ θ sin ⁡ θ cos ⁡ θ ) \theta\degree=\begin{pmatrix}\cos\theta&-\sin\theta\\\sin\theta&\cos\theta\end{pmatrix} θ ° = ( cos θ sin θ ​ − sin θ cos θ ​ )
+
+대표적인 각의 회전변환행렬을 나타내었다.
+0 ° = ( 1 0 0 1 ) 0\degree=\begin{pmatrix}1&0\\0&1\end{pmatrix} 0° = ( 1 0 ​ 0 1 ​ )
+90 ° = ( 0 − 1 1 0 ) 90\degree=\begin{pmatrix}0&-1\\1&0\end{pmatrix} 90° = ( 0 1 ​ − 1 0 ​ )
+180 ° = ( − 1 0 0 − 1 ) 180\degree=\begin{pmatrix}-1&0\\0&-1\end{pmatrix} 180° = ( − 1 0 ​ 0 − 1 ​ )
+270 ° = ( 0 1 − 1 0 ) 270\degree=\begin{pmatrix}0&1\\-1&0\end{pmatrix} 270° = ( 0 − 1 ​ 1 0 ​ )
+60 ° = ( 1 2 − 3 2 3 2 1 2 ) 60\degree=\begin{pmatrix}\dfrac{1}{2}&-\dfrac{\sqrt{3}}{2}\\\dfrac{\sqrt{3}}{2}&\dfrac{1}{2}\end{pmatrix} 60° = ​ 2 1 ​ 2 3 ​ ​ ​ − 2 3 ​ ​ 2 1 ​ ​ ​
+120 ° = ( − 1 2 − 3 2 3 2 − 1 2 ) 120\degree=\begin{pmatrix}-\dfrac{1}{2}&-\dfrac{\sqrt{3}}{2}\\\dfrac{\sqrt{3}}{2}&-\dfrac{1}{2}\end{pmatrix} 120° = ​ − 2 1 ​ 2 3 ​ ​ ​ − 2 3 ​ ​ − 2 1 ​ ​ ​
+72 ° = ( − 1 + 5 4 − 10 + 2 5 4 10 + 2 5 4 − 1 + 5 4 ) 72\degree=\begin{pmatrix}\dfrac{-1+\sqrt{5}}{4}&-\dfrac{\sqrt{10+2\sqrt{5}}}{4}\\\dfrac{\sqrt{10+2\sqrt{5}}}{4}&\dfrac{-1+\sqrt{5}}{4}\end{pmatrix} 72° = ​ 4 − 1 + 5 ​ ​ 4 10 + 2 5 ​ ​ ​ ​ − 4 10 + 2 5 ​ ​ ​ 4 − 1 + 5 ​ ​ ​ ​
+45 ° = ( 2 2 − 2 2 2 2 2 2 ) 45\degree=\begin{pmatrix}\dfrac{\sqrt{2}}{2}&-\dfrac{\sqrt{2}}{2}\\\dfrac{\sqrt{2}}{2}&\dfrac{\sqrt{2}}{2}\end{pmatrix} 45° = ​ 2 2 ​ ​ 2 2 ​ ​ ​ − 2 2 ​ ​ 2 2 ​ ​ ​ ​
+12 ° = ( − 1 + 5 + 30 + 6 5 8 − 3 + 15 − 10 + 2 5 8 3 − 15 + 10 + 2 5 8 − 1 + 5 + 30 + 6 5 8 ) 12\degree=\begin{pmatrix}\frac{-1+\sqrt{5}+\sqrt{30+6\sqrt{5}}}{8}&\frac{-\sqrt{3}+\sqrt{15}-\sqrt{10+2\sqrt{5}}}{8}\\\frac{\sqrt{3}-\sqrt{15}+\sqrt{10+2\sqrt{5}}}{8}&\frac{-1+\sqrt{5}+\sqrt{30+6\sqrt{5}}}{8}\end{pmatrix} 12° = ​ 8 − 1 + 5 ​ + 30 + 6 5 ​ ​ ​ 8 3 ​ − 15 ​ + 10 + 2 5 ​ ​ ​ ​ 8 − 3 ​ + 15 ​ − 10 + 2 5 ​ ​ ​ 8 − 1 + 5 ​ + 30 + 6 5 ​ ​ ​ ​ ​
+
+5. 성질 [편집]
+1의 n \boldsymbol{n} n 제곱근으로 구성된 군(Group of n n n th roots of unity) 가환군 G G G 에서, 1 [4] 의 n n n 제곱근들을 모은 부분집합은 부분군을 이룬다. 이를 1의 n n n 제곱근으로 구성된 군(Group of n n n th roots of unity) 이라고 한다.
+
+[ 증명 ]
+1의 n n n 제곱근들을 모은 부분집합을 G n G_n G n ​ 이라 하자. - G n G_n G n ​ 이 G G G 로부터 물려받은 연산에 대해 닫혀있음. - g , h ∈ G n g, h \in G_n g , h ∈ G n ​ 이면, g n = h n = 1 g^n = h^n = 1 g n = h n = 1 이므로 ( g h ) n = 1 (gh)^n = 1 ( g h ) n = 1 [5] , 즉 g h ∈ G n gh \in G_n g h ∈ G n ​ .
+- G n G_n G n ​ 은 G G G 의 항등원 1을 포함. - 1 n = 1 1^n = 1 1 n = 1 이므로 1 ∈ G 1 \in G 1 ∈ G .
+- 임의의 G n G_n G n ​ 의 원소는 역원을 가짐. - g ∈ G n g \in G_n g ∈ G n ​ 이면, ( g − 1 ) n = g n ( g − 1 ) n = 1 (g^{-1})^n = g^n (g^{-1})^n = 1 ( g − 1 ) n = g n ( g − 1 ) n = 1 이므로 g − 1 ∈ G n g^{-1} \in G_n g − 1 ∈ G n ​ .
+
+여기서 G G G 가 가환군이 아니면 위 명제는 성립하지 않는다. 실제로, 다음과 같은 반례가 존재한다. 2 × 2 2 \times 2 2 × 2 행렬 들의 집합 M 2 , 2 ( R ) \mathfrak M_{2, 2}(\mathbb R) M 2 , 2 ​ ( R ) 을 생각하자. 여기서 역행렬이 존재하는 행렬들은, 행렬 곱셈에 대하여 일반선형군(general linear group) G L 2 ( R ) \mathbf{GL}_2(\mathbb R) GL 2 ​ ( R ) 을 이룬다. 그런데,
+
+[ 1 1 0 − 1 ] 2 = [ − 1 1 0 1 ] 2 = [ 1 0 0 1 ] ​ \begin{bmatrix} 1 & 1 \\ 0 & -1 \end{bmatrix} ^2 = \begin{bmatrix} -1 & 1 \\ 0 & 1 \end{bmatrix} ^2 = \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}​ [ 1 0 ​ 1 − 1 ​ ] 2 = [ − 1 0 ​ 1 1 ​ ] 2 = [ 1 0 ​ 0 1 ​ ] ​
+이지만
+
+[ 1 1 0 − 1 ] ⋅ [ − 1 1 0 1 ] = [ − 1 2 0 − 1 ] [ − 1 2 0 − 1 ] 2 ≠ [ 1 0 0 1 ] ​ \begin{aligned} \begin{bmatrix} 1 & 1 \\ 0 & -1 \end{bmatrix} \cdot \begin{bmatrix} -1 & 1 \\ 0 & 1 \end{bmatrix} &= \begin{bmatrix} -1 & 2 \\ 0 & -1 \end{bmatrix} \\ \begin{bmatrix} -1 & 2 \\ 0 & -1 \end{bmatrix} ^2 &\neq \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}​ \end{aligned} [ 1 0 ​ 1 − 1 ​ ] ⋅ [ − 1 0 ​ 1 1 ​ ] [ − 1 0 ​ 2 − 1 ​ ] 2 ​ = [ − 1 0 ​ 2 − 1 ​ ]  = [ 1 0 ​ 0 1 ​ ] ​ ​
+이다. 즉, G L 2 ( R ) \mathbf{GL}_2(\mathbb R) GL 2 ​ ( R ) 에서 1의 제곱근들은 군을 이루지 않는다.
+
+1의 모든 거듭제곱근으로 구성된 군(Group of all roots of unity) 가환군 G G G 에서, 1의 모든 거듭제곱근들을 모은 부분집합 [6] 은 부분군을 이룬다. 이를 1의 모든 거듭제곱근으로 구성된 군(Group of all roots of unity) 이라고 한다.
+
+[ 증명 ]
+바로 윗 명제의 증명에서 G n G_n G n ​ 을 생각할 때, G ∗ = ⋃ n ∈ N G n \displaystyle G^{\ast} = \bigcup_{n \in\mathbb N}G_n G ∗ = n ∈ N ⋃ ​ G n ​ 이 G G G 의 부분군임을 보이면 충분하다. - G ∗ G^{\ast} G ∗ 가 G G G 로부터 물려받은 연산에 대해 닫혀있음. - g , h ∈ G ∗ g, h \in G^{\ast} g , h ∈ G ∗ 이면, 적당한 m , n ∈ N m, n \in\mathbb N m , n ∈ N 에 대하여 g m = h n = 1 g^m = h^n = 1 g m = h n = 1 이므로 ( g h ) m n = 1 (gh)^{mn} = 1 ( g h ) mn = 1 , 즉 g h ∈ G m n ⊂ G ∗ gh \in G_{mn} \subset G^{\ast} g h ∈ G mn ​ ⊂ G ∗ .
+- G ∗ G^{\ast} G ∗ 은 G G G 의 항등원 1을 포함. - 1 1 = 1 1^1 = 1 1 1 = 1 이므로 1 ∈ G 1 ⊂ G ∗ 1 \in G_1 \subset G^{\ast} 1 ∈ G 1 ​ ⊂ G ∗ .
+- 임의의 G ∗ G^{\ast} G ∗ 의 원소는 역원을 가짐. - g ∈ G n ⊂ G ∗ g \in G_n \subset G^{\ast} g ∈ G n ​ ⊂ G ∗ 이면, ( g − 1 ) n = g n ( g − 1 ) n = 1 (g^{-1})^n = g^n (g^{-1})^n = 1 ( g − 1 ) n = g n ( g − 1 ) n = 1 이므로 g − 1 ∈ G n ⊂ G ∗ g^{-1} \in G_n \subset G^{\ast} g − 1 ∈ G n ​ ⊂ G ∗ .
+
+또한 복소평면 에서 1의 제곱근을 이은 선분은 원점에 대칭인 선분 이며, n ≥ 3 n \geq 3 n ≥ 3 인 n n n 제곱근을 이은 선분은 원점을 중심으로 한 정 n n n 각형 을 그린다. 또한 정다각형의 꼭짓점이 단위원 위에 있다는 성질 [7] 을 이용해서 1의 n n n 제곱근의 값을 띠는 점을 작도 하는 게 가능하다. [8]
+
+6. 관련 개념들 [편집]
+1의 원시근(Primitive root of unity) 군 ( G , ⋅ ) (G, \ \cdot \ ) ( G , ⋅ ) 과 자연수 n n n 이 주어져 있을 때,
+
+g n = 1 g^n = 1 g n = 1 , g m ≠ 1 ( 0 < m < n ) g^m \neq 1 \; (0 < m < n) g m  = 1 ( 0 < m < n ) [9]
+인 원소 g ∈ G g \in G g ∈ G 를 원시근(Primitive root) , 1의 원시근(Primitive root of unity) 혹은 1의 n \boldsymbol n n 차 원시근(Primitive n \boldsymbol n n th root of unity) 이라고 한다.
+
+자세한 내용은 원시근 문서를 참고하십시오. 원분다항식(Cyclotomic polynomial) 복소수체 상에서 자연수 n n n 과 정수 0 ≤ k ≤ n − 1 0\leq k \leq n-1 0 ≤ k ≤ n − 1 이 주어져 있을 때,
+
+Φ n ( x ) = ∏ gcd ⁡ ( k , n ) = 1 ( x − ω k ) \displaystyle \Phi_{n}(x)=\prod_{\gcd(k,n)=1}(x-\omega^{k}) Φ n ​ ( x ) = g c d ( k , n ) = 1 ∏ ​ ( x − ω k ) [10]
+∏ d ∣ n Φ d ( x ) = x n − 1 \displaystyle \prod_{d|n}\Phi_{d}(x)=x^n-1 d ∣ n ∏ ​ Φ d ​ ( x ) = x n − 1
+( Φ 1 ( x ) = x − 1 \Phi_{1}(x)=x-1 Φ 1 ​ ( x ) = x − 1 )
+를 만족하는 다항식 Φ n ( x \Phi_{n}(x Φ n ​ ( x 를 n n n 차 원분 다항식(n-th cyclotomic polynomial) 이라고 한다. 또한 원분다항식은 유리수 범위에서 기약방정식임이 증명되어 있다.
+다른 정의로는 1의 n차 원시근 ω n = e 2 π i / n \omega_n = e^{2\pi i/n} ω n ​ = e 2 π i / n 에 대해서, 유리수체 상에서 ω n \omega_n ω n ​ 의 기약다항식으로도 정의한다. 만약 n n n 이 소수 p p p 라면 다음 형태가 된다.
+
+Φ p ( x ) = x p − 1 x − 1 = ∑ i = 0 p − 1 x i \displaystyle \Phi_{p}(x)=\frac{x^p-1}{x-1}=\sum_{i=0}^{p-1}x^i Φ p ​ ( x ) = x − 1 x p − 1 ​ = i = 0 ∑ p − 1 ​ x i [11]
+
+또한 n n n 이 서로 다른 두 소수 p , q p, q p , q 의 곱인 p q pq pq 형태라면 다음 형태가 된다.
+
+Φ p q ( x ) = x p q − 1 ( x − 1 ) ϕ p ( x ) ϕ q ( x ) \Phi_{pq}(x)=\dfrac{x^{pq}-1}{(x-1)\phi_{p}(x)\phi_{q}(x)} Φ pq ​ ( x ) = ( x − 1 ) ϕ p ​ ( x ) ϕ q ​ ( x ) x pq − 1 ​
+여기서 유도되어 n = 2 p n=2p n = 2 p 라면 다음 형태로 정리할 수 있다. [12]
+
+Φ 2 p ( x ) = x 2 p − 1 ( x − 1 ) ϕ p ( x ) ϕ 2 ( x ) = x 2 p − 1 ( x + 1 ) ϕ 1 ( x ) ϕ p ( x ) = x 2 p − 1 ( x + 1 ) ( x p − 1 ) = x p + 1 x + 1 = ∑ i = 0 p − 1 ( − x ) i \displaystyle \Phi_{2p}(x)=\dfrac{x^{2p}-1}{(x-1)\phi_{p}(x)\phi_{2}(x)}=\dfrac{x^{2p}-1}{(x+1)\phi_{1}(x)\phi_{p}(x)}=\dfrac{x^{2p}-1}{(x+1)(x^{p}-1)}=\dfrac{x^{p}+1}{x+1}=\sum_{i=0}^{p-1}(-x)^{i} Φ 2 p ​ ( x ) = ( x − 1 ) ϕ p ​ ( x ) ϕ 2 ​ ( x ) x 2 p − 1 ​ = ( x + 1 ) ϕ 1 ​ ( x ) ϕ p ​ ( x ) x 2 p − 1 ​ = ( x + 1 ) ( x p − 1 ) x 2 p − 1 ​ = x + 1 x p + 1 ​ = i = 0 ∑ p − 1 ​ ( − x ) i 또한 Φ n ( x ) \Phi_{n}(x) Φ n ​ ( x ) 의 차수는 오일러 피 함수 를 이용하여 φ ( n ) \displaystyle \varphi(n) φ ( n ) 로 주어진다.
+
+주의할 점이 있다면, 원분다항식의 대부분의 계수는 1, 0, -1밖에 보이지 않지만, 이는 원분다항식의 차수가 낮기 때문에 발생하는 일종의 예외같은 것으로, 원분다항식의 n n n 이 일정 이상 커지게 되면 계수의 절대값이 2를 넘을 수 있다. 이런 반례를 볼 수 있는 최소값은 n = 105 n=105 n = 105 인 Φ 105 \Phi_{105} Φ 105 ​ 이다.( 울프럼 알파 계산값 )
+
+[ 인천논현동 맛집 소문난껍데기
+map.naver.com/p/entry/place/1943388597 v-if
+여기 껍데기 안 먹어봤다는 건 인생의 반을 손해 본 거예요! 동네 맛집의 자부심!
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 남동구열쇠 쿠팡
+www.coupang.com v-if
+[ [ 로켓배송 ] [ 로켓직구 ] [ 골드박스 ] [ 로켓프레시 ] ]
+합리적인 가격의 남동구열쇠, 쿠팡에서 실속있게 구매하세요.
+
+]
+
+[1] 각각은 z n = cos ⁡ ( 2 π n 7 ) + i sin ⁡ ( 2 π n 7 ) z_{n}=\cos{\left( \dfrac{2\pi n}{7} \right)}+i \sin{\left( \dfrac{2\pi n}{7}\right)} z n ​ = cos ( 7 2 π n ​ ) + i sin ( 7 2 π n ​ ) 이다. 간단히 c i s ( 2 π n 7 ) {\rm cis}{\left( \dfrac{2\pi n}{7} \right)} cis ( 7 2 π n ​ ) 로 적기도 한다. [2] 단위근(unit root), 드 무아브르 수(de Moivre number)라고도 한다. [3] 곱셈군 ( G , ⋅ ) (G, \ \cdot \ ) ( G , ⋅ ) 를 다룰 때는 관습적으로 항등원을 e e e 가 아닌 1로 적는다. 비슷하게, 덧셈군 혹은 가환군 ( G , + ) (G, +) ( G , + ) 의 항등원은 0 0 0 으로 적는 경우가 많다. [4] 항등원. 보통 가환군의 항등원은 0 0 0 으로 적지만 본 문서에서 모든 군의 항등원을 1로 표기했으므로 이에 따른다. [5] 이 부분에서 G G G 가 가환군임이 필요하다. [6] 즉, 1제곱근, 2 2 2 제곱근, ⋯ \cdots ⋯ , n n n 제곱근, ⋯ \cdots ⋯ 등을 전부 모은다. [7] 곧, 원점과의 거리(= 절댓값 )가 1임을 뜻한다. 그래서 1의 거듭제곱근 z z z 에 부호 함수 를 취할 경우 s g n ( z ) = z {\rm sgn}(z) = z sgn ( z ) = z 가 성립한다. [8] 단, 7각형, 9각형, 11각형, 13각형 같이 유클리드 작도가 불가능하지만 뉴시스 작도만 가능한 경우도 있으며 23각형같이 유클리드, 뉴시스 모두 작도가 불가능한 경우도 있다. [9] 즉, n n n 이 g k = 1 g^k = 1 g k = 1 을 만족하는 최소의 자연수. [10] ω \omega ω 는 1의 n차 원시근 [11] 이는 위의 조건중 2번째 조건에 의한 것인데, 소수 p p p 의 약수는 자기 자신과 1 밖에 없으므로 Φ p ( x ) Φ 1 ( x ) = x p − 1 \Phi_{p}(x)\Phi_{1}(x)=x^p-1 Φ p ​ ( x ) Φ 1 ​ ( x ) = x p − 1 이 되어야 한다. 그런데 Φ 1 ( x ) = x − 1 \Phi_{1}(x)=x-1 Φ 1 ​ ( x ) = x − 1 이므로, 자연스럽게 해당 식이 성립하는 것. [12] 당연히 p p p 는 2가 아니어야 하므로 홀수 소수다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

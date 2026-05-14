@@ -1,0 +1,280 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 나비에-스토크스 방정식
+최근 수정 시각: 2026-05-09 02:27:32 [ [ [ ] [ [ 70 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 밀레니엄 문제
+- 물리학
+- 유체역학
+- 해석학(수학)
+- 미분방정식
+- 물리화학
+- 기계공학
+- 화학공학
+- 미해결 추론
+]
+
+[ [ ] [ 유체역학
+Fluid Mechanics
+[ 펼치기 · 접기 ] 유체와 힘 | 유체 · 뉴턴 유체 · 비뉴턴 유체 (멱법칙 유체 · 오스트발트-드 웰 관계식 · 허쉘-버클리 유체 · 리-아이링 이론) · 압력 · 부력 ( 아르키메데스의 원리 ) · 항력 ( 수직항력 · 스토크스 법칙 ) · 응력 ( 응용 ) · 양력 · 표면장력 · 상 · 밀도 · 기체 법칙 ( 이상 기체 법칙 ) · 달랑베르의 역설
+유체동역학 | 유동 ( 압축성 · 탄성 · 점성 / 점성계수 ) · 난류 및 층류 · 레이놀즈 수송 정리 (체적 검사)
+무차원수 | 마하 수 · 레이놀즈 수 · 프란틀 수 · 레일리 수 · 그라스호프 수 · 슈미트 수 · 네버러 수 · 프루드 수
+방정식 | 나비에-스토크스 방정식 · 연속 방정식 · 오일러 방정식 · 구성 방정식 · 베르누이 방정식 · 파스칼의 원리 · 브라운 운동 방정식 · 하겐-푸아죄유 법칙 · 글래드스톤-데일 방정식
+응용 및 현상 | 날씨 · 모세관 현상 · 마그누스 효과 · 케이 효과 · 카르만 효과 · 코안더 효과 · 사이펀 의 원리 · 대류 현상 · 슬립 스트림 · 최대동압점 · 스탈링 방정식 · 벤추리 효과 · 레인-엠든 방정식 · 엠든-찬드라세카르 방정식 · 라이덴프로스트 효과
+유체역학 연구 | 전산유체역학 ( CFD ) · 풍동 실험 · 차원분석
+
+해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 공식 2.1 . 기호 2.2 . 기본형 2.3 . 비압축성 (incompressible) 2.3.1 . 비점성 (inviscid) 2.4 . 압축성 3 . 유도 3.1 . 비압축성 3.2 . 압축성 4 . 해 4.1 . 부분적 해 5 . 창작물에서의 등장 6 . 관련 문서
+
+1. 개요 [편집]
+나비에-스토크스 방정식 (Navier-Stokes equations, NS equation)은 점탄성을 고려한 유체( 뉴턴 유체 , Newtonian fluid)에 대한 운동량 수지식(balance)으로, 비선형 편미분 방정식이다. [1]
+
+프랑스 물리학자 클로드루이 나비에(1785~1836 Claude Louis Marie Henri Navier)와 아일랜드 수학자 조지 스토크스 (1819~1903 Sir George Gabriel Stokes, 1st Baronet)가 뉴턴의 운동 제2법칙 ( F = m a {\bf F}=m{\bf a} F = m a )을 유체역학 에서 사용하기 쉽게 운동량을 기준으로 세운 수지식이다. 1850년에 완성된 이 방정식은 다양한 공학 및 물리학 분야에서 유체 거동을 기술하는 데 핵심적인 도구로 사용된다.
+
+연속체를 다루는 유체역학 의 가장 기본이 되는 지배방정식(governing equation) 이다. 물 과 공기 를 비롯해 점탄성을 가지지 않은 대부분의 기체 와 액체 의 운동을 나타내는 비선형 편미분 방정식이다. 이는 다시 말하면 유체가 점성과 탄성을 동시에 가진 점탄성 유체의 경우에는 이 방정식이 일반적으로 적용되지 않는다. 혈액 이나 우유 , 슬러시나 라텍스 처럼 나비에-스토크스 방정식으로 설명할 수 없는 유체(비뉴턴 유체)도 존재한다. 이는 방정식 자체가 뉴턴 유체 (Newtonian fluid)에만 적용이 가능하기 때문이며, 이런 비뉴턴 유체 (non-Newtonian fluid)들은 나비에-스토크스 방정식으로는 설명할 수 없는 점탄성(viscoelasticity) 등의 성질을 갖고 있다. 또, 유체역학 은 연속체역학의 부분집합인 만큼, 연속체로 가정할 수 없는 경우(희박기체, 아주 작은 스케일 등)에는 적용되지 않을 수 있다.
+
+나비에-스토크스 방정식은 뉴턴 의 제2법칙인 F=ma 를 유체역학에서 사용하기 편하게 그 형태를 바꾼 것이다. 유체는 고체와 달리 정해진 형태가 없기 때문에 우리가 흔히 역학 하면 생각하는 '고정된 좌표계'에서의 분석이 불가능하다. 따라서 유체에 뉴턴 역학을 적용하기 위해서는 다른 방식이 필요하고, 이 방식에 따라 운동량 보존 법칙을 재정리한 것이 이 방정식이다. 따라서 이 방정식은 운동량 보존 방정식이라고 불리기도 한다. 물리학에서 대표적으로 보존되는 물리량 중에서 유체역학에서 중요시하는 물리량은 질량, 운동량, 에너지로, 이 세 물리량의 보존 법칙 [2] 이 유체역학의 지배방정식이 되고, 그 중 가장 복잡하고 중요한 방정식이 이 나비에-스토크스 방정식이다. 때때로 질량 보존 법칙 [3] 까지 합쳐서 나비에-스토크스 방정식이라고 부를 때도 있다.
+
+기계공학 , 항공우주공학 전공 대학생이라면 2~3학년 때 처음 이 방정식을 접하게 된다. 물론 토목공학 , 화학공학 등의 유체를 다루게 되는 학과에서도 배울 수 있다. 물리학에서는 주로 플라즈마 물리 전공자들이 다룬다.
+
+비행기 가 공중에 뜰 수 있는 것도, 기상청 에서 아직 오지도 않은 며칠 후의 날씨를 예측할 수 있는 것도 이 방정식과 관련이 있다. 쉽게 압축하자면 만약 이 방정식의 일반해를 구하는 방법이 증명된다면 기상 예측 정확도가 엄청나게 높아진다는 이야기이다.
+
+수학적인 관점에서 보자면, 이 방정식이 3차원(또는 시간을 포함한 4차원 시공간) 상에 해가 항상 존재하는지, 존재한다면 해를 어떻게 구하는지, 특이점은 없는지, 매끄러운지 등이 증명되지 않았다. 이렇기 때문에 공학 최전선에서조차 전산유체역학 에 의존한다. 이 문제를 수학적인 관점에서 해결하라는 것이 밀레니엄 문제 이다. 현재까지 미해결 문제로서, 푼 사람에게 상금 100만 달러가 수여된다.
+
+유체역학 항목을 보면 알 수 있듯 유체역학을 안 하는 공학이 더 마이너하다. ABET을 실시하는 미국 공학 과정에서도 2학년 이전에 이수해야 하는 기본적이고 중요한 개념이다.
+
+2. 공식 [편집]
+
+2.1. 기호 [편집]
+공식에 등장하는 기호는 다음과 같다.
+기호 | 의미
+u \bf u u | 유체의 속도
+g \bf g g | 중력가속도
+ρ \rho ρ | 밀도
+p p p | 압력
+μ \mu μ | 점성계수
+ν \nu ν | 동점성 ( μ / ρ \mu/\rho μ / ρ )
+w w w | 압력 ÷ 밀도 ( p / ρ p/\rho p / ρ )
+τ \tau τ | 전단응력계수
+I \bf I I | 단위행렬
+⊗ \otimes ⊗ | 텐서곱
+
+2.2. 기본형 [편집]
+이 형태는 오귀스탱루이 코시 의 코시 모멘텀 방정식 (Cauchy momentum equation)이라고도 한다. 이 경우 나비에-스토크스 방정식(Navier-Stokes equation)이라는 이름은 뉴턴 유체 (Newtonian fluid)의 응력-변형률 관계식(constitutive equation 또는 stress-strain relation)에서 물질시간도함수를 대입하여 연속 방정식 으로 도입한후 정리해놓은 것으로 한정된다.
+
+∂ ∂ t ( ρ u ) + ∇ ⋅ ( ρ u ⊗ u + p I ) = ∇ ⋅ τ + ρ g \dfrac{\partial}{\partial t}\left(\rho{\bf u}\right)+\boldsymbol{\nabla}\cdot\left(\rho{\bf u}\otimes{\bf u}+p{\bf I}\right)=\boldsymbol{\nabla}\cdot\tau+\rho{\bf g} ∂ t ∂ ​ ( ρ u ) + ∇ ⋅ ( ρ u ⊗ u + p I ) = ∇ ⋅ τ + ρ g
+
+가장 기본적인 형태. 응력과 변형률의 관계식 에서 아직은 점성(μ)항을 나타내지 않은 상태이다.
+
+2.3. 비압축성 (incompressible) [편집]
+유체가 비압축성(대표적으로 액체 )일 경우 식이 상당히 간단해진다. 속도장의 발산 d P d t = 0 \dfrac{dP}{dt}=0 d t d P ​ = 0 이어서 최종 공식이 d ( − p u ) d x = d P d t = 0 \dfrac{d(-p{\bf u})}{dx}=\dfrac{dP}{dt}=0 d x d ( − p u ) ​ = d t d P ​ = 0 으로 아주 간단하게 나눠 떨어진다. 일반적으로 관련 학부 2~3학년 과정에서 다룬다.
+- 벡터 를 사용해서 나타낸 식 ∂ u ∂ t + ( u ⋅ ∇ ) u = − ∇ w + ν ∇ 2 u + g \dfrac{\partial{\bf u}}{\partial t}+\left({\bf u}\cdot\boldsymbol{\nabla}\right){\bf u}=-\boldsymbol{\nabla}w+\nu\nabla^2{\bf u}+{\bf g} ∂ t ∂ u ​ + ( u ⋅ ∇ ) u = − ∇ w + ν ∇ 2 u + g
+
+[ 다른 표현 펼치기 · 접기 ] - 직교좌표에서 텐서 를 사용해서 나타낸 식. ( ∂ ∂ t + u j ∂ ∂ x j ) u i = − ∂ w ∂ x i + ν ∂ 2 ∂ x j 2 + g i \left(\dfrac{\partial}{\partial t}+u_j\dfrac{\partial}{\partial x_j}\right) u_i=-\dfrac{\partial w}{\partial x_i}+\nu\dfrac{\partial^2}{{\partial x_j}^2}+g_i ( ∂ t ∂ ​ + u j ​ ∂ x j ​ ∂ ​ ) u i ​ = − ∂ x i ​ ∂ w ​ + ν ∂ x j ​ 2 ∂ 2 ​ + g i ​
+
+- 위 Einstein notation을 풀어서 쓴 것 x : ρ ( ∂ ∂ t + u x ∂ ∂ x + u y ∂ ∂ y + u z ∂ ∂ z ) u x = − ∂ p ∂ x + μ ( ∂ 2 ∂ x 2 + ∂ 2 ∂ y 2 + ∂ 2 ∂ z 2 ) u x + ρ g x y : ρ ( ∂ ∂ t + u x ∂ ∂ x + u y ∂ ∂ y + u z ∂ ∂ z ) u y = − ∂ p ∂ y + μ ( ∂ 2 ∂ x 2 + ∂ 2 ∂ y 2 + ∂ 2 ∂ z 2 ) u y + ρ g y z : ρ ( ∂ ∂ t + u x ∂ ∂ x + u y ∂ ∂ y + u z ∂ ∂ z ) u z = − ∂ p ∂ z + μ ( ∂ 2 ∂ x 2 + ∂ 2 ∂ y 2 + ∂ 2 ∂ z 2 ) u z + ρ g z \displaystyle\begin{aligned} x&:\rho\left(\frac{\partial}{\partial t}+u_x\frac{\partial}{\partial x}+u_y\frac{\partial}{\partial y}+u_z\frac{\partial}{\partial z}\right)u_x=-\frac{\partial p}{\partial x}+\mu\left(\frac{\partial^2}{{\partial x}^2}+\frac{\partial^2}{{\partial y}^2}+\frac{\partial^2}{{\partial z}^2}\right)u_x+\rho g_x\\ y&:\rho\left(\frac{\partial}{\partial t}+u_x\frac{\partial}{\partial x}+u_y\frac{\partial}{\partial y}+u_z\frac{\partial}{\partial z}\right)u_y=-\frac{\partial p}{\partial y}+\mu\left(\frac{\partial^2}{{\partial x}^2}+\frac{\partial^2}{{\partial y}^2}+\frac{\partial^2}{{\partial z}^2}\right) u_y+\rho g_y\\ z&:\rho\left(\frac{\partial}{\partial t}+u_x\frac{\partial}{\partial x}+u_y\frac{\partial}{\partial y}+u_z\frac{\partial}{\partial z}\right)u_z=-\frac{\partial p}{\partial z}+\mu\left(\frac{\partial^2}{{\partial x}^2}+\frac{\partial^2}{{\partial y}^2}+\frac{\partial^2}{{\partial z}^2}\right) u_z+\rho g_z \end{aligned} x y z ​ : ρ ( ∂ t ∂ ​ + u x ​ ∂ x ∂ ​ + u y ​ ∂ y ∂ ​ + u z ​ ∂ z ∂ ​ ) u x ​ = − ∂ x ∂ p ​ + μ ( ∂ x 2 ∂ 2 ​ + ∂ y 2 ∂ 2 ​ + ∂ z 2 ∂ 2 ​ ) u x ​ + ρ g x ​ : ρ ( ∂ t ∂ ​ + u x ​ ∂ x ∂ ​ + u y ​ ∂ y ∂ ​ + u z ​ ∂ z ∂ ​ ) u y ​ = − ∂ y ∂ p ​ + μ ( ∂ x 2 ∂ 2 ​ + ∂ y 2 ∂ 2 ​ + ∂ z 2 ∂ 2 ​ ) u y ​ + ρ g y ​ : ρ ( ∂ t ∂ ​ + u x ​ ∂ x ∂ ​ + u y ​ ∂ y ∂ ​ + u z ​ ∂ z ∂ ​ ) u z ​ = − ∂ z ∂ p ​ + μ ( ∂ x 2 ∂ 2 ​ + ∂ y 2 ∂ 2 ​ + ∂ z 2 ∂ 2 ​ ) u z ​ + ρ g z ​ ​
+
+- 구면좌표계 r : ρ ( ∂ u r ∂ t + u r ∂ u r ∂ r + u ϕ r sin ⁡ θ ∂ u r ∂ ϕ + u θ r ∂ u r ∂ θ − u ϕ 2 + u θ 2 r ) = − ∂ p ∂ r + ρ g r + μ [ 1 r 2 ∂ ∂ r ( r 2 ∂ u r ∂ r ) + 1 r 2 sin ⁡ 2 θ ∂ 2 u r ∂ ϕ 2 + 1 r 2 sin ⁡ θ ∂ ∂ θ ( sin ⁡ θ ∂ u r ∂ θ ) − 2 u r + ∂ u θ ∂ θ + u θ cot ⁡ θ r 2 − 2 r 2 sin ⁡ θ ∂ u ϕ ∂ ϕ ] ϕ : ρ ( ∂ u ϕ ∂ t + u r ∂ u ϕ ∂ r + u ϕ r sin ⁡ θ ∂ u ϕ ∂ ϕ + u θ r ∂ u ϕ ∂ θ + u r u ϕ + u ϕ u θ cot ⁡ θ r ) = − 1 r sin ⁡ θ ∂ p ∂ ϕ + ρ g ϕ + μ [ 1 r 2 ∂ ∂ r ( r 2 ∂ u ϕ ∂ r ) + 1 r 2 sin ⁡ 2 θ ∂ 2 u ϕ ∂ ϕ 2 + 1 r 2 sin ⁡ θ ∂ ∂ θ ( sin ⁡ θ ∂ u ϕ ∂ θ ) + 2 sin ⁡ θ ∂ u r ∂ ϕ + 2 cos ⁡ θ ∂ u θ ∂ ϕ − u ϕ r 2 sin ⁡ 2 θ ] θ : ρ ( ∂ u θ ∂ t + u r ∂ u θ ∂ r + u ϕ r sin ⁡ θ ∂ u θ ∂ ϕ + u θ r ∂ u θ ∂ θ + u r u θ − u ϕ 2 cot ⁡ θ r ) = − 1 r ∂ p ∂ θ + ρ g θ + μ [ 1 r 2 ∂ ∂ r ( r 2 ∂ u θ ∂ r ) + 1 r 2 sin ⁡ 2 θ ∂ 2 u θ ∂ ϕ 2 + 1 r 2 sin ⁡ θ ∂ ∂ θ ( sin ⁡ θ ∂ u θ ∂ θ ) − 2 r 2 ∂ u r ∂ θ − u θ + 2 cos ⁡ θ ∂ u ϕ ∂ ϕ r 2 sin ⁡ 2 θ ] \displaystyle\begin{aligned} r&:\rho\left(\frac{\partial u_r}{\partial t}+u_r\frac{\partial u_r}{\partial r}+\frac{u_{\phi}}{r\sin\theta}\frac{\partial u_r}{\partial\phi}+\frac{u_{\theta}}{r}\frac{\partial u_r}{\partial\theta}-\frac{u_{\phi}^2+u_{\theta}^2}{r}\right)=-\frac{\partial p}{\partial r}+\rho g_{r}+\mu\left[\frac{1}{r^2}\frac{\partial}{\partial r}\left(r^2\frac{\partial u_r}{\partial r}\right)+\frac{1}{r^2\sin^2\theta}\frac{\partial^2u_r}{\partial\phi^2}+\frac{1}{r^2\sin\theta}\frac{\partial}{\partial\theta}\left(\sin\theta\frac{\partial u_r}{\partial\theta}\right)-2\frac{u_r+\frac{\partial u_{\theta}}{\partial\theta}+u_{\theta}\cot\theta}{r^2}-\frac{2}{r^2\sin\theta}\frac{\partial u_{\phi}}{\partial\phi}\right]\\ \phi&:\rho\left(\frac{\partial u_{\phi}}{\partial t}+u_r\frac{\partial u_{\phi}}{\partial r}+\frac{u_{\phi}}{r\sin\theta}\frac{\partial u_{\phi}}{\partial\phi}+\frac{u_{\theta}}{r}\frac{\partial u_{\phi}}{\partial\theta}+\frac{u_ru_{\phi}+u_{\phi}u_{\theta}\cot\theta}{r}\right)=-\frac{1}{r\sin\theta}\frac{\partial p}{\partial\phi}+\rho g_{\phi}+\mu\left[\frac{1}{r^2}\frac{\partial}{\partial r}\left(r^2\frac{\partial u_{\phi}}{\partial r}\right)+\frac{1}{r^2\sin^2\theta}\frac{\partial^2u_{\phi}}{\partial\phi^2}+\frac{1}{r^2\sin\theta}\frac{\partial}{\partial\theta}\left(\sin\theta\frac{\partial u_{\phi}}{\partial\theta}\right)+\frac{2\sin\theta\frac{\partial u_r}{\partial\phi}+2\cos\theta\frac{\partial u_{\theta}}{\partial\phi}-u_{\phi}}{r^2\sin^2\theta}\right]\\ \theta&:\rho\left(\frac{\partial u_{\theta}}{\partial t}+u_r\frac{\partial u_{\theta}}{\partial r}+\frac{u_{\phi}}{r\sin\theta}\frac{\partial u_{\theta}}{\partial\phi}+\frac{u_{\theta}}{r}\frac{\partial u_{\theta}}{\partial\theta}+\frac{u_ru_{\theta}-u_{\phi}^2\cot\theta}{r}\right)=-\frac{1}{r}\frac{\partial p}{\partial\theta}+\rho g_{\theta}+\mu\left[\frac{1}{r^2}\frac{\partial}{\partial r}\left(r^2\frac{\partial u_{\theta}}{\partial r}\right)+\frac{1}{r^2\sin^2\theta}\frac{\partial^2u_{\theta}}{\partial\phi^2}+\frac{1}{r^2\sin\theta}\frac{\partial}{\partial\theta}\left(\sin\theta\frac{\partial u_{\theta}}{\partial\theta}\right)-\frac{2}{r^2}\frac{\partial u_r}{\partial\theta}-\frac{u_{\theta}+2\cos\theta\frac{\partial u_{\phi}}{\partial\phi}}{r^2\sin^2\theta}\right] \end{aligned} r ϕ θ ​ : ρ ( ∂ t ∂ u r ​ ​ + u r ​ ∂ r ∂ u r ​ ​ + r sin θ u ϕ ​ ​ ∂ ϕ ∂ u r ​ ​ + r u θ ​ ​ ∂ θ ∂ u r ​ ​ − r u ϕ 2 ​ + u θ 2 ​ ​ ) = − ∂ r ∂ p ​ + ρ g r ​ + μ [ r 2 1 ​ ∂ r ∂ ​ ( r 2 ∂ r ∂ u r ​ ​ ) + r 2 sin 2 θ 1 ​ ∂ ϕ 2 ∂ 2 u r ​ ​ + r 2 sin θ 1 ​ ∂ θ ∂ ​ ( sin θ ∂ θ ∂ u r ​ ​ ) − 2 r 2 u r ​ + ∂ θ ∂ u θ ​ ​ + u θ ​ cot θ ​ − r 2 sin θ 2 ​ ∂ ϕ ∂ u ϕ ​ ​ ] : ρ ( ∂ t ∂ u ϕ ​ ​ + u r ​ ∂ r ∂ u ϕ ​ ​ + r sin θ u ϕ ​ ​ ∂ ϕ ∂ u ϕ ​ ​ + r u θ ​ ​ ∂ θ ∂ u ϕ ​ ​ + r u r ​ u ϕ ​ + u ϕ ​ u θ ​ cot θ ​ ) = − r sin θ 1 ​ ∂ ϕ ∂ p ​ + ρ g ϕ ​ + μ [ r 2 1 ​ ∂ r ∂ ​ ( r 2 ∂ r ∂ u ϕ ​ ​ ) + r 2 sin 2 θ 1 ​ ∂ ϕ 2 ∂ 2 u ϕ ​ ​ + r 2 sin θ 1 ​ ∂ θ ∂ ​ ( sin θ ∂ θ ∂ u ϕ ​ ​ ) + r 2 sin 2 θ 2 sin θ ∂ ϕ ∂ u r ​ ​ + 2 cos θ ∂ ϕ ∂ u θ ​ ​ − u ϕ ​ ​ ] : ρ ( ∂ t ∂ u θ ​ ​ + u r ​ ∂ r ∂ u θ ​ ​ + r sin θ u ϕ ​ ​ ∂ ϕ ∂ u θ ​ ​ + r u θ ​ ​ ∂ θ ∂ u θ ​ ​ + r u r ​ u θ ​ − u ϕ 2 ​ cot θ ​ ) = − r 1 ​ ∂ θ ∂ p ​ + ρ g θ ​ + μ [ r 2 1 ​ ∂ r ∂ ​ ( r 2 ∂ r ∂ u θ ​ ​ ) + r 2 sin 2 θ 1 ​ ∂ ϕ 2 ∂ 2 u θ ​ ​ + r 2 sin θ 1 ​ ∂ θ ∂ ​ ( sin θ ∂ θ ∂ u θ ​ ​ ) − r 2 2 ​ ∂ θ ∂ u r ​ ​ − r 2 sin 2 θ u θ ​ + 2 cos θ ∂ ϕ ∂ u ϕ ​ ​ ​ ] ​
+
+- 원통좌표계 r : ρ ( ∂ u r ∂ t + u r ∂ u r ∂ r + u ϕ r ∂ u r ∂ ϕ + u z ∂ u r ∂ z − u ϕ 2 r ) = − ∂ p ∂ r + ρ g r + μ [ 1 r ∂ ∂ r ( r ∂ u r ∂ r ) + 1 r 2 ∂ 2 u r ∂ ϕ 2 + ∂ 2 u r ∂ z 2 − u r r 2 − 2 r 2 ∂ u ϕ ∂ ϕ ] ϕ : ρ ( ∂ u ϕ ∂ t + u r ∂ u ϕ ∂ r + u ϕ r ∂ u ϕ ∂ ϕ + u z ∂ u ϕ ∂ z − u r u ϕ r ) = − 1 r ∂ p ∂ ϕ + ρ g ϕ + μ [ 1 r ∂ ∂ r ( r ∂ u ϕ ∂ r ) + 1 r 2 ∂ 2 u ϕ ∂ ϕ 2 + ∂ 2 u ϕ ∂ z 2 − u ϕ r 2 + 2 r 2 ∂ u r ∂ ϕ ] z : ρ ( ∂ u z ∂ t + u r ∂ u z ∂ r + u ϕ r ∂ u z ∂ ϕ + u z ∂ u z ∂ z ) = − ∂ p ∂ z + ρ g z + μ [ 1 r ∂ ∂ r ( r ∂ u z ∂ r ) + 1 r 2 ∂ 2 u z ∂ ϕ 2 + ∂ 2 u z ∂ z 2 ] \displaystyle\begin{aligned} r&:\rho\left(\frac{\partial u_r}{\partial t}+u_r\frac{\partial u_r}{\partial r}+\frac{u_{\phi}}{r}\frac{\partial u_r}{\partial\phi}+u_z\frac{\partial u_r}{\partial z}-\frac{u_{\phi}^2}{r}\right)=-\frac{\partial p}{\partial r}+\rho g_{r}+\mu\left[\frac{1}{r}\frac{\partial}{\partial r}\left(r\frac{\partial u_r}{\partial r}\right)+\frac{1}{r^2}\frac{\partial^2u_r}{\partial\phi^2}+\frac{\partial^2u_r}{\partial z^2}-\frac{u_r}{r^2}-\frac{2}{r^2}\frac{\partial u_{\phi}}{\partial\phi}\right]\\ \phi&:\rho\left(\frac{\partial u_{\phi}}{\partial t}+u_r\frac{\partial u_{\phi}}{\partial r}+\frac{u_{\phi}}{r}\frac{\partial u_{\phi}}{\partial\phi}+u_z\frac{\partial u_{\phi}}{\partial z}-\frac{u_ru_{\phi}}{r}\right)=-\frac{1}{r}\frac{\partial p}{\partial\phi}+\rho g_{\phi}+\mu\left[\frac{1}{r}\frac{\partial}{\partial r}\left(r\frac{\partial u_{\phi}}{\partial r}\right)+\frac{1}{r^2}\frac{\partial^2u_{\phi}}{\partial\phi^2}+\frac{\partial^2u_{\phi}}{\partial z^2}-\frac{u_{\phi}}{r^2}+\frac{2}{r^2}\frac{\partial u_r}{\partial\phi}\right]\\ z&:\rho\left(\frac{\partial u_z}{\partial t}+u_r\frac{\partial u_z}{\partial r}+\frac{u_{\phi}}{r}\frac{\partial u_z}{\partial\phi}+u_z\frac{\partial u_z}{\partial z}\right)=-\frac{\partial p}{\partial z}+\rho g_{z}+\mu\left[\frac{1}{r}\frac{\partial}{\partial r}\left(r\frac{\partial u_z}{\partial r}\right)+\frac{1}{r^2}\frac{\partial^2u_z}{\partial\phi^2}+\frac{\partial^2u_z}{\partial z^2}\right] \end{aligned} r ϕ z ​ : ρ ( ∂ t ∂ u r ​ ​ + u r ​ ∂ r ∂ u r ​ ​ + r u ϕ ​ ​ ∂ ϕ ∂ u r ​ ​ + u z ​ ∂ z ∂ u r ​ ​ − r u ϕ 2 ​ ​ ) = − ∂ r ∂ p ​ + ρ g r ​ + μ [ r 1 ​ ∂ r ∂ ​ ( r ∂ r ∂ u r ​ ​ ) + r 2 1 ​ ∂ ϕ 2 ∂ 2 u r ​ ​ + ∂ z 2 ∂ 2 u r ​ ​ − r 2 u r ​ ​ − r 2 2 ​ ∂ ϕ ∂ u ϕ ​ ​ ] : ρ ( ∂ t ∂ u ϕ ​ ​ + u r ​ ∂ r ∂ u ϕ ​ ​ + r u ϕ ​ ​ ∂ ϕ ∂ u ϕ ​ ​ + u z ​ ∂ z ∂ u ϕ ​ ​ − r u r ​ u ϕ ​ ​ ) = − r 1 ​ ∂ ϕ ∂ p ​ + ρ g ϕ ​ + μ [ r 1 ​ ∂ r ∂ ​ ( r ∂ r ∂ u ϕ ​ ​ ) + r 2 1 ​ ∂ ϕ 2 ∂ 2 u ϕ ​ ​ + ∂ z 2 ∂ 2 u ϕ ​ ​ − r 2 u ϕ ​ ​ + r 2 2 ​ ∂ ϕ ∂ u r ​ ​ ] : ρ ( ∂ t ∂ u z ​ ​ + u r ​ ∂ r ∂ u z ​ ​ + r u ϕ ​ ​ ∂ ϕ ∂ u z ​ ​ + u z ​ ∂ z ∂ u z ​ ​ ) = − ∂ z ∂ p ​ + ρ g z ​ + μ [ r 1 ​ ∂ r ∂ ​ ( r ∂ r ∂ u z ​ ​ ) + r 2 1 ​ ∂ ϕ 2 ∂ 2 u z ​ ​ + ∂ z 2 ∂ 2 u z ​ ​ ] ​
+
+[4]
+이렇게만 보자면 정말 어려워 보이지만, 물리학적 관점으로 이해를 시도하면 단순히 유체에 작용하는 모든 운동량 전달을 나열해놓은 것으로 그렇게 어렵지 않다. 유체에 전달되는 운동량은 유체의 흐름에 의한 대류 전달, 유체 또는 관 벽면의 입자 간 전달(전단 응력)(shear stress), 압력에 의한 전달, 중력에 의한 전달(유체의 무게)로 이루어져 있고, 각 항의 벡터식을 좌표계에 맞게 쪼갠 것뿐이다. 뉴턴의 법칙으로부터 이 비압축성 방정식의 유도를 보고 싶다면 오일러 방정식 문서로.
+
+2.3.1. 비점성 (inviscid) [편집]
+이때는 식이 더 간단해진다. ∂ u ∂ t + ( u ⋅ ∇ ) u = − ∇ w + g \dfrac{\partial{\bf u}}{\partial t}+\left({\bf u}\cdot\boldsymbol{\nabla}\right){\bf u}=-\boldsymbol{\nabla}w+{\bf g} ∂ t ∂ u ​ + ( u ⋅ ∇ ) u = − ∇ w + g
+
+위 비압축성(incompressible)과 비교해보면, 비점성인 경우에는 μ = 0 \mu=0 μ = 0 이기 때문에 우변의 2번째 항이 사라졌다.
+
+ν = μ ρ = 0 \nu=\frac{\mu}{\rho}=0 ν = ρ μ ​ = 0
+
+이 식은 오일러 방정식 이기도 하다. 교수, 조교의 재량에 따라 1학년 미적분학에서도 어려운 응용문제 수준으로 만나 볼 수 있는데, 공돌이 타입 교수나 조교들이 다변수 미적분 파트에서 연습 문제나 시험으로 종종 낼 때도 있다.(적당히 알고 있으면 맞힐 수 있다.)
+
+일반적인 기계공학이나 화학공학 등에서는 잘 다루지 않는 영역이라, 항공역학이나 로켓공학을 공부하지 않는 이상 'Re가 매우 클 때는 이렇게 된다' 정도만 짚고 넘어가는 파트다.
+
+2.4. 압축성 [편집]
+∂ u ∂ t + ( u ⋅ ∇ ) u = − 1 ρ ∇ p ˉ + ν ∇ 2 u + 1 3 ν ∇ ( ∇ ⋅ u ) + g \dfrac{\partial{\bf u}}{\partial t}+({\bf u}\cdot\boldsymbol{\nabla}){\bf u}=-\dfrac{1}{\rho}\boldsymbol{\nabla}\bar{p}+\nu\nabla^2{\bf u}+\dfrac{1}{3}\nu\boldsymbol{\nabla}(\boldsymbol{\nabla}\cdot{\bf u})+{\bf g} ∂ t ∂ u ​ + ( u ⋅ ∇ ) u = − ρ 1 ​ ∇ p ˉ ​ + ν ∇ 2 u + 3 1 ​ ν ∇ ( ∇ ⋅ u ) + g
+
+압축이 가능하기 때문에 1 3 ν ∇ ( ∇ ⋅ u ) \dfrac{1}{3}\nu\boldsymbol{\nabla}(\boldsymbol{\nabla}\cdot{\bf u}) 3 1 ​ ν ∇ ( ∇ ⋅ u ) 항이 추가된다.
+
+대표적으로 기체 가 있으며, 같은 기체라도 유속이 빠를수록 압축성에 의한 효과가 크게 나타난다. 비압축성에 비해 항이 좀 더 많아졌다. 스칼라식 풀이도 존재하나 생략한다.
+
+이것까지 학부 과정에서 배우기엔 시간이 부족해서 기체의 유동도 비압축성이라 가정하며 실용적인 열 몇 가지 경우만 짚고 넘어간다. [5] 사실 일반적인 공학 입장에서는 저 열 몇 가지면 대체로 실용면에선 끝이라 봐도 무방하고, [6] 이거랑 일반항을 본격적으로 파는 건 대학원 가서 하게 된다.
+
+3. 유도 [편집]
+
+3.1. 비압축성 [편집]
+나비에-스토크스 방정식은 오일러 방정식 에다가 점성을 고려한 것이다. 해당 문서에도 점성에 대한 설명이 조금 나오지만, 이 항목에선 점성항을 조금 더 엄밀하게 다루고자 한다.
+
+일단 먼저 "변형률 속도(strain rate)"를 알아보자. 점성이 있는 유체라면 주위 유체에서부터 응력 을 받으면, 이 응력(stress) 때문에 "변형률(strain)"이 생긴다. 이 변형률이 시간에 따라 변화하는 속도가 변형률 속도이며, 3 × 3 3\times 3 3 × 3 행렬 텐서인 ∇ u \nabla{\bf u} ∇ u 로 정의된다. 대략 유체 "모양"이 변화하는 속도로 생각하면 된다.
+
+이 텐서는 두 텐서로 분해가 가능한데, 하나는 유체가 얼마나 "회전"하는 정도를 나타내는 텐서이며, 다른 하나는 회전 없이 정말 모양이 변화하는 속도를 나타내는 텐서다. 후자를 ε ‾ ‾ \underline{\underline\varepsilon} ε ​ ​ 라 칭하며, [7] ε ‾ ‾ = 1 2 ( ∇ u + ∇ u T ) \underline{\underline\varepsilon}=\dfrac{1}{2}(\nabla{\bf u}+\nabla{\bf u}^{\rm T}) ε ​ ​ = 2 1 ​ ( ∇ u + ∇ u T ) 로 정의된다.
+
+뉴턴의 점성 법칙에 의하면 응력은 이 변형률 속도에 비례한다. 즉, τ ‾ ‾ ∝ ε ‾ ‾ \underline{\underline\tau}\propto\underline{\underline\varepsilon} τ ​ ​ ∝ ε ​ ​ . [8] 이 법칙을 따르는 유체를 뉴턴 유체라고 한다. 아쉽게도 이 법칙은 우주의 기본적인 법칙은 아니고, 문제를 쉽게 만들기 위한 편의상의 법칙이다. 옴의 법칙 이나 훅의 법칙 처럼.
+
+이제 우린 나비에-스토크스를 유도할 준비가 됐다. 일단 오일러 방정식에서부터 시작하자.
+
+ρ ( ∂ u ∂ t + ( u ⋅ ∇ ) u ) = − ∇ p + ρ g \rho\left(\dfrac{\partial{\bf u}}{\partial t}+({\bf u}\cdot\nabla){\bf u}\right)=-\nabla p+\rho{\bf g} ρ ( ∂ t ∂ u ​ + ( u ⋅ ∇ ) u ) = − ∇ p + ρ g
+
+좌변이 F = m a {\bf F}=m{\bf a} F = m a 의 m a m{\bf a} m a 고, 우변이 F {\bf F} F 다. 단, 우변은 힘이 아니고 힘 밀도 (force density)라는 물리량이다. 좌변의 항도 질량 대신 (질량)밀도. 그렇다면 여태까지 이야기한 점성응력에 의한 힘 밀도는 무엇일까? 답은 ∇ ⋅ τ ‾ ‾ \nabla\cdot\underline{\underline\tau} ∇ ⋅ τ ​ ​ 이다. 어째서일까?
+
+먼저 코시 응력 텐서가 어떻게 생겼는지 한 번 보자. [9]
+
+[ τ x x τ x y τ x z τ y x τ y y τ y z τ z x τ z y τ z z ] \begin{bmatrix}\tau_{xx}\quad\tau_{xy}\quad\tau_{xz}\\\tau_{yx}\quad\tau_{yy}\quad\tau_{yz}\\\tau_{zx}\quad\tau_{zy}\quad\tau_{zz}\end{bmatrix} ​ τ xx ​ τ x y ​ τ x z ​ τ y x ​ τ y y ​ τ y z ​ τ z x ​ τ z y ​ τ z z ​ ​ ​
+
+위의 그림을 참고해서 F x F_x F x ​ 를 구해보자. y y y 와 z z z 방향으로도 똑같은 방법으로 구할 수 있다.
+
+d F x = Δ τ x x d y d z + Δ τ y x d x d z + Δ τ z x d x d y = ( ∂ τ x x ∂ x + ∂ τ y x ∂ y + ∂ τ z x ∂ z ) d x d y d z {\rm d}F_x=\Delta\tau_{xx}\,{\rm d}y{\rm d}z+\Delta\tau_{yx}\,{\rm d}x{\rm d}z+\Delta\tau_{zx}\,{\rm d}x{\rm d}y=\left(\dfrac{\partial\tau_{xx}}{\partial x}+\dfrac{\partial\tau_{yx}}{\partial y}+\dfrac{\partial\tau_{zx}}{\partial z}\right)\,{\rm d}x{\rm d}y{\rm d}z d F x ​ = Δ τ xx ​ d y d z + Δ τ y x ​ d x d z + Δ τ z x ​ d x d y = ( ∂ x ∂ τ xx ​ ​ + ∂ y ∂ τ y x ​ ​ + ∂ z ∂ τ z x ​ ​ ) d x d y d z
+
+d F x d V = ∂ τ x x ∂ x + ∂ τ y x ∂ y + ∂ τ z x ∂ z \dfrac{{\rm d}F_x}{{\rm d}V}=\dfrac{\partial\tau_{xx}}{\partial x}+\dfrac{\partial\tau_{yx}}{\partial y}+\dfrac{\partial\tau_{zx}}{\partial z} d V d F x ​ ​ = ∂ x ∂ τ xx ​ ​ + ∂ y ∂ τ y x ​ ​ + ∂ z ∂ τ z x ​ ​
+
+우변은 ( ∇ ⋅ τ ‾ ‾ ) x (\nabla\cdot\underline{\underline\tau})_x ( ∇ ⋅ τ ​ ​ ) x ​ 이므로, y y y 와 z z z 방향으로도 똑같은 계산을 하면,
+
+d F d V = ∇ ⋅ τ ‾ ‾ \dfrac{{\rm d}{\bf F}}{{\rm d}V}=\nabla\cdot\underline{\underline\tau} d V d F ​ = ∇ ⋅ τ ​ ​
+
+인 걸 알 수 있다. 그렇다면 이제 이 항을 오일러 방정식의 우변에 더해주자.
+
+ρ ( ∂ u ∂ t + ( u ⋅ ∇ ) u ) = − ∇ p + ∇ ⋅ τ ‾ ‾ + ρ g \rho\left(\dfrac{\partial{\bf u}}{\partial t}+({\bf u}\cdot\nabla){\bf u}\right)=-\nabla p+\nabla\cdot\underline{\underline\tau}+\rho{\bf g} ρ ( ∂ t ∂ u ​ + ( u ⋅ ∇ ) u ) = − ∇ p + ∇ ⋅ τ ​ ​ + ρ g
+
+이제 τ ‾ ‾ \underline{\underline\tau} τ ​ ​ 와 속도장인 u {\bf u} u 의 연관성을 찾아야 한다. 여기에 필요한 게 바로 ε ‾ ‾ \underline{\underline\varepsilon} ε ​ ​ 다. 뉴턴의 점성 법칙을 적용하자.
+
+τ ‾ ‾ = 2 μ ε ‾ ‾ \underline{\underline\tau}=2\mu\underline{\underline\varepsilon} τ ​ ​ = 2 μ ε ​ ​
+
+이렇게 비례상수를 2 μ 2\mu 2 μ 로 정한다. 그렇다면,
+
+τ ‾ ‾ = μ ( ∇ u + ∇ u T ) \underline{\underline\tau}=\mu(\nabla{\bf u}+\nabla{\bf u}^{\rm T}) τ ​ ​ = μ ( ∇ u + ∇ u T )
+
+또한 성립한다. 또한, 조금만 계산을 해보면 ∇ ⋅ ( ∇ u + ∇ u T ) = ∇ 2 u \nabla\cdot(\nabla{\bf u}+\nabla{\bf u}^{\rm T})=\nabla^2{\bf u} ∇ ⋅ ( ∇ u + ∇ u T ) = ∇ 2 u 인 걸 알 수 있다.(이유 비압축성 유체에서는 ∇ ⋅ u = 0 \nabla\cdot{u}=0 ∇ ⋅ u = 0 이므로(연속 방정식)) 따라서 ∇ ⋅ τ ‾ ‾ = μ ∇ 2 u \nabla\cdot\underline{\underline\tau}=\mu\nabla^2{\bf u} ∇ ⋅ τ ​ ​ = μ ∇ 2 u 이며, 이걸 위의 식에 대입하면...
+
+ρ ( ∂ u ∂ t + ( u ⋅ ∇ ) u ) = − ∇ p + μ ∇ 2 u + ρ g \rho\left(\dfrac{\partial{\bf u}}{\partial t}+({\bf u}\cdot\nabla){\bf u}\right)=-\nabla p+\mu\nabla^2{\bf u}+\rho{\bf g} ρ ( ∂ t ∂ u ​ + ( u ⋅ ∇ ) u ) = − ∇ p + μ ∇ 2 u + ρ g
+
+양변을 밀도로 나누고 ν = μ ρ \nu=\dfrac{\mu}{\rho} ν = ρ μ ​ 와 ∇ w = ∇ p ρ \nabla w=\dfrac{\nabla p}{\rho} ∇ w = ρ ∇ p ​ 를 적용하면 익숙한 비압축성 나비에-스토크스 방정식 완성.
+
+∂ u ∂ t + ( u ⋅ ∇ u ) = − ∇ w + ν ∇ 2 u + g \dfrac{\partial{\bf u}}{\partial t}+({\bf u}\cdot\nabla{\bf u})=-\nabla w+\nu\nabla^2{\bf u}+{\bf g} ∂ t ∂ u ​ + ( u ⋅ ∇ u ) = − ∇ w + ν ∇ 2 u + g
+
+3.2. 압축성 [편집]
+유체가 압축성이란 말은 ∇ ⋅ u ≠ 0 \nabla\cdot{\bf u}\neq 0 ∇ ⋅ u  = 0 와 동치다. 이 압축성 때문에, 방금 전에 구했던 응력 텐서를 조금 바꿔줘야 한다.
+
+τ ‾ ‾ = λ ( ∇ ⋅ u ) I + μ ( ∇ u + ∇ u T ) \underline{\underline\tau}=\lambda(\nabla\cdot{\bf u}){\bf I}+\mu(\nabla{\bf u}+\nabla{\bf u}^{\rm T}) τ ​ ​ = λ ( ∇ ⋅ u ) I + μ ( ∇ u + ∇ u T )
+여기서 λ \lambda λ 는 비례상수이며, I {\bf I} I 는 3 × 3 3\times 3 3 × 3 단위행렬이다. 예상대로 다이버전스가 클수록(유체가 더 많이 팽창할 수록) 응력이 커진다. ζ = λ + 2 3 μ \zeta=\lambda+\dfrac{2}{3}\mu ζ = λ + 3 2 ​ μ 를 정의하고 이 텐서를 분해하면
+
+τ ‾ ‾ = ζ ( ∇ ⋅ u ) I + μ ( ∇ u + ∇ u T − 2 3 ( ∇ ⋅ u ) I ) \underline{\underline\tau}=\zeta(\nabla\cdot{\bf u}){\bf I}+\mu\left(\nabla{\bf u}+\nabla{\bf u}^{\rm T}-\dfrac{2}{3}(\nabla\cdot{\bf u}){\bf I}\right) τ ​ ​ = ζ ( ∇ ⋅ u ) I + μ ( ∇ u + ∇ u T − 3 2 ​ ( ∇ ⋅ u ) I )
+양쪽에 ∇ ⋅ \nabla\cdot ∇ ⋅ 연산자를 취해주면 나오는 우변 결과를 오일러 방정식 우변에 대입하자. p ˉ = p − ζ ∇ ⋅ u \bar p=p-\zeta\nabla\cdot{\bf u} p ˉ ​ = p − ζ ∇ ⋅ u 도 대입하고 양변을 밀도로 나누면 위쪽 항목에 쓰여져 있는 압축성 나비에-스토크스 방정식이 나온다. 참고로 ∇ ⋅ ∇ u = ∇ 2 u \nabla\cdot\nabla{\bf u}=\nabla^2{\bf u} ∇ ⋅ ∇ u = ∇ 2 u 이며, ∇ ⋅ ∇ u T = ∇ ( ∇ ⋅ u ) \nabla\cdot\nabla{\bf u}^{\rm T}=\nabla(\nabla\cdot{\bf u}) ∇ ⋅ ∇ u T = ∇ ( ∇ ⋅ u ) 이다.
+
+∂ u ∂ t + ( u ⋅ ∇ u ) = − 1 ρ ∇ p ˉ + ν ∇ 2 u + 1 3 ν ∇ ( ∇ ⋅ u ) + g \dfrac{\partial{\bf u}}{\partial t}+({\bf u}\cdot\nabla{\bf u})=-\dfrac{1}{\rho}\nabla\bar{p}+\nu\nabla^2{\bf u}+\dfrac{1}{3}\nu\nabla(\nabla\cdot{\bf u})+{\bf g} ∂ t ∂ u ​ + ( u ⋅ ∇ u ) = − ρ 1 ​ ∇ p ˉ ​ + ν ∇ 2 u + 3 1 ​ ν ∇ ( ∇ ⋅ u ) + g
+자명한 얘기지만, ∇ ⋅ u = 0 \nabla\cdot{\bf u}=0 ∇ ⋅ u = 0 를 가정하면 비압축성 형태로 단순화된다.
+
+4. 해 [편집]
+밀레니엄 문제
+The Millennium Prize Problems
+호지 추측 | 푸앵카레 정리 해결 | 리만 가설 | P-NP 문제
+양-밀스 질량 간극 가설 | 버치-스위너턴다이어 추측 | 나비에-스토크스 방정식의 해의 존재와 매끄러움
+
+나비에-스토크스 방정식의 해의 존재와 매끄러움 (Navier-Stokes existence and smoothness) 나비에-스토크스 방정식의 해가 존재하는지, 존재한다면 그 해가 매끄러운지에 대한 증명 (또는, 유한시간 안에 폭발하는 해가 존재하는지에 대한 반증)
+
+문제는 이 방정식이 지금까지 알려진 것 중에 (해석적인) 해를 구하기 가장 어려운 비선형 편미분방정식 중 하나라는 것이다. 이 방정식을 풀기 어렵게 만드는 범인은 위의 방정식의 좌변 두 번째 항( ∇ ⋅ ( ρ u ⊗ u + p I ) \boldsymbol{\nabla}\cdot\left(\rho{\bf u}\otimes{\bf u}+p{\bf I}\right) ∇ ⋅ ( ρ u ⊗ u + p I ) )으로, 이 항(advective term) [10] 이 비선형 [11] 이기 때문에 해를 구하기가 어렵게 된다. 게다가 압축성의 경우에는 우변 맨 마지막의 점성항도 비선형( μ ∇ 2 u → ν ∇ 2 u + 1 3 ν ∇ ( ∇ ⋅ u ) \mu\nabla^2{\bf u}\rightarrow\nu\nabla^2{\bf u}+{1\over 3}\nu\boldsymbol{\nabla}\left(\boldsymbol{\nabla}\cdot{\bf u}\right) μ ∇ 2 u → ν ∇ 2 u + 3 1 ​ ν ∇ ( ∇ ⋅ u ) )으로 변한다. 몇몇 특수한 경우의 풀이법 [12] 은 알려져 있지만 일반적인 풀이법은 알려져 있지 않다. 심지어는 일반해가 있는지 없는지조차 아직 모른다... 이 방정식의 전역적이고 매끄러운 일반해 [13] 의 존재성을 보이거나 반증하는 것은 'Navier–Stokes existence and smoothness' [14] 라는 이름으로 밀레니엄 문제 로 선정됐으며, 현재 100만 달러의 상금이 걸려 있다. 이걸 푼다면 노벨물리학상부터 아벨상, 필즈상 등 온갖 상을 휩쓸고 밀레니엄 문제의 상금까지 받아갈 수 있다.
+
+어쨌든 일반해의 존재성이 보장되느냐와 별개로 유체의 움직임을 예측하기 위해 컴퓨터 를 동원해 수치적으로 구하는 것이 유일한 방법 으로 해를 구해 쓰고 있다. 이를 전산유체역학 (Computational Fluid Dynamics, 줄여서 CFD)이라고 부른다. 더 자세한 내용은 전산유체역학 참조.
+
+2014년 1월 11일에 카자흐스탄 교수인 무흐타르바이 외텔바예프(Мұхтарбай Өтелбаев)가 이 방정식의 전역적(global)이고 연속적인 해가 존재함을 증명했다고 # 발표했으나, 결국 검증 끝에 해당 증명은 틀린 것으로 판명됐다. #
+
+4.1. 부분적 해 [편집]
+- 2차원 에서의 문제는 1969년 에 일찌감치 해결됐다. 러시아 의 여성 수학자 올가 라디젠스카야(Óльга Лады́женская)가 전역적(global)이고 매끄러운 해가 있음을 증명했다. [15]
+- 초기 속도 v 0 ( x ) {\bf v_0(x)} v 0 ​ ( x ) 가 충분히 작을 경우에 대해서도 해결됐다. 전역적(global)이고 매끄러운 해가 있다. [A]
+- 유한 시간 T {T} T 에 대해 초기 속도 v 0 ( x ) {\bf v_0(x)} v 0 ​ ( x ) 가 주어진다면 R 3 × [ 0 , T ] \mathbb{R}^3 × [0,T] R 3 × [ 0 , T ] 위에서 나비에-스토크스 방정식은 전역적이고 매끄러운 해 v ( x , t ) {\bf v}(x,t) v ( x , t ) 와 p ( x , t ) p(x,t) p ( x , t ) 를 갖는다. 그러나, 유한 시간 내에 폭발하는 해(blow-up)가 존재할 경우 그 이후의 거동에 대해서는 알려지지 않았다. [A]
+- 1934년 에 장 르레(Jean Leray)가 약해(weak solution)의 존재성을 증명했다. [18]
+- 1962년 에 존 내시 가 국소적(local) 시간 안에서 유일하고(unique) 정칙적인(regular) 해의 존재를 증명했다. [19]
+- 테렌스 타오 는 2014년 , 2016년 에 평균화된(averaged) 3차원 나비에-스토크스 방정식이 유한 시간 내에 폭발하는 해를 가짐을 보였다. [20] [21]
+
+현재까지도 강해(strong solution)가 존재하는지, 유한시간 안에 폭발하는 해가 존재하는지 의견이 분분한 상태다.
+
+5. 창작물에서의 등장 [편집]
+- 만화 바텐더 에서 잠시 언급되는데, 사사쿠라 류 의 단골 중 하나인 수학자가 이 나비에-스토크스 방정식의 증명에 상당히 도달했다는 식의 설정으로 등장하며 책까지 쓴 것으로 나온다. 다만 말 그대로 이름만 언급하고 넘어가는 것으로 보아 증명은 실패한 듯. 애초에 '수학자 = 괴짜'라는 이미지를 표현하기 위한 조연이다.
+
+- 히가시노 게이고 의 소설 라플라스의 마녀 에서도 핵심 주제로 등장한다. 특정한 뇌 수술을 받은 사람이 무의식적으로 이 문제를 해결했다는 설정. 며칠 후의 날씨를 정확히 예측하고, 3층 높이에서 종이를 떨어트려서 정확한 곳에 안착시키는 기행을 보여준다. 엄밀히 말해 이 문제를 해결한다해도 양자역학 을 비롯한 카오스 이론 으로 인해 위와 같이 라플라스의 악마 같은 기행을 할 수 없다. 다만 이 문제가 해결되면 우리는 지금처럼 나비에-스토크스 방정식을 완전히 믿고 마음껏 써도 된다는 정도로 이해하는 것이 좋다. 즉 나비에-스토크스 방정식이 자연 현상을 아주 잘 설명한다는 것이 입증된다는 의미이지 정확히 날씨를 예측하고 난류를 정확히 이해하게 된다는 의미는 아니다. [22]
+
+- 크리스 에반스 가 주연으로 출연한 영화 어메이징 메리 에서도 매우 중요한 요소로 등장한다.
+
+- 웹툰 삼국지톡 에서는 어린 제갈량 이 이 문제를 풀고 있는 모습으로 등장해 [23] 제갈량의 비범한 천재성을 강조하는 소재로 활용됐다. 더불어 기상 예측과도 연관이 있는 공식이라는 점에서 후일의 동남풍 복선이라고 보는 해석도 있다.
+
+- 웹툰 수학 잘하는 법 에서 두 주인공이 해결하고자 하는 문제로 나온다. 결말에서 증명된 것으로 나오며, 두 주인공이 이 문제를 해결하는 데 중요한 역할을 한 것으로 나온다.
+
+- 웹툰 놓지마 정신줄 에서는 853화에 정신이가 썬더피에게 나비에-스토크스 방정식을 풀어보라 시키고, 그 다음으로는 호지 추측 까지 풀어보라 시킨다. 중간중간의 대사를 보면 정신이는 모든 밀레니엄 문제를 푼 것으로 보인다. [24]
+
+- 우리는 공부를 못해 에서 오가타 리즈 가, 나리유키를 공항에 갈 수 있도록 선생님들의 주의를 끌기 위해 이 방정식에 대한 질문을 한다.
+
+6. 관련 문서 [편집]
+- 밀레니엄 문제
+- 항공우주공학
+- 대기과학
+- 유체역학
+- 벡터 미적분학
+- 믿음으로 나는거에요
+
+[ 인천남동구,서울365치과의원
+seoul365dental.com v-if
+박준규 대표원장, 인천 남동구 예술로 138 212~214호
+
+] | [ 남동구치과 다비안치과의원
+www.dabien.co.kr v-if
+인천논현역100m, 세심한진료, 철저한 사후관리, 임플란트, 교정, 충치, 잇몸
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+]
+
+[1] Basics of Fluid Mechanics ,Genick Bar-Meir 2014 GFDL https://open.umn.edu/opentextbooks/textbooks/85 [2] 비압축성의 경우 에너지 보존 법칙은 제외하고 풀기도 한다. [3] 연속 방정식이라고 불리기도 한다. [4] 주어진 항은 대부분 필요에 따라 구속조건(유체 및 관 벽 간에 작용하는 전단력, 유체 간 점성 차이, 유체의 속도)을 통해 소거할 수 있다. [5] 예를 하나 들면 관속을 흐르는 유동체의 기체와 액체. [6] 화공을 예를 들면 졸업 후 필드에 나가거나 대학원에서 플랜트에 가보면 알겠지만, 도면도 그렇고 정말 완벽하게 이걸 쓰기 편하게 맞춰서 설계가 기본적으로 되어 있다. [7] 두 줄 그은 건 이게 스칼라나 벡터가 아닌 행렬 텐서라는 걸 강조하기 위한 것이다. [8] 응력은 소문자 타우( τ ‾ ‾ \underline{\underline\tau} τ ​ ​ )로 나타낼 때도 있고, 소문자 시그마( σ ‾ ‾ \underline{\underline\sigma} σ ​ ​ )로 나타낼 때도 있다. 주로 전단 응력에는 타우를 쓰고 압축 응력에는 시그마를 쓰지만, 편의를 위해서 이 항목에서는 전부 타우로 통일했다. [9] 이 텐서의 정확한 의미는 응력 문서 참조. [10] 유체 이동에 의한 속도장의 변화를 나타낸다. [11] 1차 연립방정식 으로 변형할 수 없는 꼴. [12] 대표적인 것으로는 속도가 다른 두 평판 사이의 유동(Couette; 예를 들어 비 올 때 도로와 타이어 사이의 빗물의 유동)이나 가늘고 긴 관 속을 흐르는 유동(Poiseuille)이 있다. 이 이외에도 몇 가지의 해석해가 존재하지만, 대부분 매우 느린 유동에 해당한다. 이는 사실상 공돌이들이 배우는 유체역학이 복잡해지는 이유 중 하나로, 여러 경우에 대해 각각 다른 공식을 적용해야 하기 때문이다. [13] 이게 무슨 뜻인지 잘 모르는 사람들을 위해 아주 단순하게 비유해보자면, 이차방정식 은 근의 공식 이라는 정해진 방법을 통해 정확한 해를 도출해낼 수 있지만, 오차방정식 이상의 고차방정식은 근의 공식이 없어 하나하나 숫자를 넣어보며 해를 찾아야 한다는 것 과 비슷한 논리이다. [14] 번역하면 "나비에-스토크스 방정식의 해의 존재성와 그 매끄러움". [15] Ladyzhenskaya, Olʹga Aleksandrovna (1969). The Mathematical Theory of Viscous Incompressible Flows. [A] 16.1 16.2 "Official statement of the problem". Clay Mathematics Institute. [18] Leray, Jean (1934). "Sur le mouvement d'un liquide visqueux emplissant l'espace" [19] Nasar, Sylvia (2001). "Chapter 41: An Interlude of Enforced Rationality". A Beautiful Mind. Touchstone. [20] Tao, Terence (2014-02-04). "Finite time blowup for an averaged three-dimensional Navier-Stokes equation" [21] Tao, Terence (2016). "Finite time blowup for an averaged three-dimensional Navier-Stokes equation" [22] 작중 등장인물들이 난류를 정확히 이해하고 예측할 수 있게 된 진짜 원인은 각자의 이유로 받은 특정 뇌 수술의 결과물이다. 치료 과정의 일환이었지만 결국 치료를 넘어 유사 라플라스의 악마 와 같은 비현실적인 천재를 만들어냄으로써, 단순히 나비에 스토크스 방정식을 푼 정도가 아니라 모든 상황에서 나비에 스토크스 방정식의 값을 짧은 시간 내에 암산 까지 가능한 존재들을 만들어버린 것이다. 현실에선 불확정성의 원리 때문에 라플라스의 악마 자체가 성립되지 않지만, 그와 유사한 천재를 만들어냈다면 상술한 기행들이 불가능한 건 아니다. [23] 작중 시점 나이가 13세인데 거기서 중학교 월반까지 한 상태다. [24] 근데 썬더피가 말한 답이 맞다고 정신이가 말한 걸 보면 놓지마 정신줄 세계관은 결국 나비에-스토크스 방정식을 푸는 데 성공한 듯 하다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

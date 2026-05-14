@@ -1,0 +1,409 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 하트리-포크 방법
+최근 수정 시각: 2026-03-22 05:35:26 [ [ [ ] [ [ 4 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 화학
+- 화학 구조
+- 원자
+- 양자역학
+- 물리화학
+- 1930년대 연구
+]
+
+[ [ ] [ 양자역학 Quantum Mechanics
+[ 펼치기 · 접기 ] 배경 | 흑체복사 · 이중슬릿 실험 · 광전효과 · 콤프턴 산란 · 보어의 원자 모형 · 물질파 · 데이비슨-저머 실험 · 불확정성 원리 · 슈테른-게를라흐 실험 · 프랑크-헤르츠 실험
+이론 체계 | 체계 플랑크 상수 ( 플랑크 단위계 ) · 공리 · 슈뢰딩거 방정식 · 파동함수 · 연산자 ( 해밀토니언 · 선운동량 · 각운동량 ) · 스핀 ( 스피너 ) · 파울리 배타 원리 해석 코펜하겐 해석 ( 보어-아인슈타인 논쟁 ) · 숨은 변수 이론 ( EPR 역설 · 벨의 부등식 · 광자 상자 ) · 다세계 해석 · 앙상블 해석 · 서울 해석 묘사 묘사 ( 슈뢰딩거 묘사 · 하이젠베르크 묘사 · 디랙 묘사) · 행렬역학
+연관 학문 | 천체물리학 ( 천문학 틀 · 우주론 · 양자블랙홀 · 중력 특이점 ) · 핵물리학 틀 ( 원자력 공학 틀 ) · 응집물질물리학 틀 · 컴퓨터 과학 틀 ( 양자컴퓨터 · 양자정보과학 ) · 통계역학 틀 · 양자화학 ( 물리화학 틀 ) · 입자물리학 ( 입자물리학 틀 )
+현상 · 응용 | 양자요동 · 양자 얽힘 · 양자 터널링 · 퍼텐셜 우물 · 양자 조화 진동자 · 오비탈 · 수소 원자 모형 · 쌓음 원리 · 훈트 규칙 · 섭동 ( 스핀 - 궤도 결합 · 제이만 효과 · 슈타르크 효과 · 헬만-파인만 정리 ) · 선택 규칙 · 변분 원리 · WKB 근사법 · 시간 결정 · 보스-아인슈타인 응집 · 솔리톤 · 카시미르 효과 · 아하로노프-봄 효과 · 블랙홀 정보 역설 · 양자점 · 하트리-포크 방법 · 밀도범함수 이론 · 준위 · 양자장론 ( 양자전기역학 · 양자색역학 ) · 뤼드베리 방정식 · 체렌코프 현상
+기타 | 군론 · 기본 입자 · 대칭성 · 비리얼 정리 · 리만 가설 · 매듭이론 · 밀도행렬 · 물질 · 방사선 ( 반감기 ) · 라플라스의 악마 · 슈뢰딩거의 고양이 ( 위그너의 친구 )
+문헌 | 교재 · 분류:물리학술지
+
+물리화학
+Physical Chemistry
+[ 펼치기 · 접기 ] 기본 정보 | 원소 ( 할로젠 · 금속 · 준금속 · 비활성 기체 · 동위원소 ) · 원자 ( 양성자 · 중성자 · 전자 ) · 분자 · 이온 ( 양이온 · 음이온 )
+물질 | 순물질 ( 동소체 · 화합물 ) · 혼합물 ( 균일 혼합물 · 불균일 혼합물 · 콜로이드 ) · 이성질체
+화학 반응 | 상 · 염 ( 앙금 ) · 작용기 · 가역성 · 화학 반응 속도론 ( 촉매 · 반감기 ) · 첨가 반응 · 제거 반응 · 치환 반응 · 산염기반응 · 산화환원반응 ( 산화수 ) · 고리형 협동반응 · 유기반응 · 클릭 화학
+화학양론 | 질량 · 부피 · 밀도 · 분자량 · 질량 보존 법칙 · 일정 성분비 법칙 · 배수 비례의 법칙
+열화학 법칙 | 엔트로피 · 엔탈피 · 깁스 자유 에너지 ( 화학 퍼텐셜 ) · 열출입( 흡열 반응 · 발열 반응 ) · 총열량 불변의 법칙 · 기체 법칙 · 화학 평형의 법칙 ( 르 샤틀리에의 원리 · 동적평형 )
+용액 | 용질 · 용매 · 농도 ( 퍼센트 농도 · 몰 농도 · 몰랄 농도 ) · 용해도 ( 용해도 규칙 · 포화 용액 ) · 증기압력 · 삼투 · 헨리의 법칙 · 전해질
+총괄성 | 증기압 내림 · 끓는점 오름 · 어는점 내림 · 라울 법칙 · 반트 호프의 법칙
+전기화학
+·
+양자화학 | 수소 원자 모형 · 하트리-포크 방법 · 밀도범함수 이론 · 유효 핵전하 · 전자 친화도 · 이온화 에너지 · 전기음성도 · 극성 · 무극성 · 휘켈 규칙 · 분자간력( 반 데르 발스 힘 ( 분산력 ) · 수소 결합 ) · 네른스트 식 · 준위
+전자 배치 | 양자수 · 오비탈 ( 분자 오비탈 · 혼성 오비탈 ) · 전자껍질 · 쌓음원리 · 훈트 규칙 · 파울리 배타 원리 · 원자가전자 · 최외각 전자 · 옥텟 규칙 · 우드워드-호프만 법칙 · 라디칼
+화학 결합 | 금속 결합 · 진틀상 · 이온 결합 · 공유 결합 ( 배위 결합 · 배위자 ) · 공명 구조
+분석화학 | 정성분석과 정량분석 · 분광학
+분석기법 | 적정 · 기기분석 ( 크로마토그래피 · NMR )
+틀:양자역학 · 틀:통계역학 · 틀:주기율표 · 틀:화학식 · 틀:화학의 분과 · 틀:산염기 · 화학 관련 정보
+
+1 . 개요 2 . 슈뢰딩거 방정식 3 . 슬레이터 행렬식 4 . 하트리-포크 에너지 5 . 표기법 5.1 . 관계식 6 . 하트리-포크 방정식 7 . 물리적 의미 8 . 오비탈 에너지 8.1 . 쿠프만 정리 9 . SCF Type 10 . Roothaan 방정식 10.1 . 밀도 행렬 11 . Basis set 12 . SCF procedure 13 . Population analysis와 결합 차수 14 . 분자의 전기적 성질 14.1 . 전기 퍼텐셜 14.2 . 전하량 15 . Localized MO 16 . 한계 17 . 관련 문서
+
+1. 개요 [편집]
+Hartree-Fock Method(HF)
+
+분자의 파동함수(분자 오비탈, MO)를 구하기 위해선 계에 해당하는 슈뢰딩거 방정식을 풀어야 한다. 하지만 다전자 분자의 경우 다체 문제가 되므로 H 2 + {\rm H}_{2}^+ H 2 + ​ 이외의 분자의 경우 MO를 해석적으로 구하기는 불가능하다. 그렇기에 근사적으로 슈뢰딩거 방정식 을 풀어야 하는데 그 방법들 중 실험값을 이용하지 않고 순수 이론만을 이용하여 계산하는 방법을 ab initio(제 1원리 계산)라 한다. 여기서 가장 기초가 되는 방법이 하트리-포크 방법(Hartree-Fock Method)이며 이 방법을 통해 MO의 에너지 준위와 모양을 알 수 있다. 물론 가장 기초적인 방법인 만큼 잘 맞지 않는 부분 [1] 도 있지만 이후 개량된 방법들 [2] 또한 대부분 이 하트리-포크 방법을 기초로 하기에 계산화학에서 중요한 이론이다.
+
+2. 슈뢰딩거 방정식 [편집]
+먼저 분자의 해밀토니언 을 구하는 것으로 시작하자. 비상대론적 영역에서 분자의 해밀토니언 은 다음과 같다. H mol = − ℏ 2 2 m e ∑ i ∇ i 2 − ℏ 2 2 ∑ α ∇ α 2 M α − e 2 4 π ϵ 0 ∑ α , i Z α r i α + e 2 4 π ϵ 0 ∑ i > j 1 r i j + e 2 4 π ϵ 0 ∑ α > β Z α Z β R α β \displaystyle \begin{aligned} \mathcal{H}_{\textup{mol}}=-\frac{\hbar^2}{2m_e}\sum\limits_{i} \nabla_i^2-\frac{\hbar^2}{2}\sum\limits_{\alpha} \frac{\nabla_\alpha^2} {M_\alpha}-\frac{e^2}{4\pi\epsilon_0}\sum\limits_{\alpha, i} \frac{Z_\alpha}{r_{i\alpha}}+\frac{e^2}{4\pi\epsilon_0}\sum\limits_{i>j} \frac{1}{r_{ij}}+\frac{e^2}{4\pi\epsilon_0}\sum\limits_{\alpha>\beta} \frac{Z_\alpha Z_\beta}{R_{\alpha \beta}} \end{aligned} H mol ​ = − 2 m e ​ ℏ 2 ​ i ∑ ​ ∇ i 2 ​ − 2 ℏ 2 ​ α ∑ ​ M α ​ ∇ α 2 ​ ​ − 4 π ϵ 0 ​ e 2 ​ α , i ∑ ​ r i α ​ Z α ​ ​ + 4 π ϵ 0 ​ e 2 ​ i > j ∑ ​ r ij ​ 1 ​ + 4 π ϵ 0 ​ e 2 ​ α > β ∑ ​ R α β ​ Z α ​ Z β ​ ​ ​
+
+각 항은 순서대로 전자의 운동 에너지, 핵의 운동 에너지, 핵-전자 퍼텐셜 에너지, 전자-전자 퍼텐셜 에너지, 핵-핵 퍼텐셜 에너지를 나타낸다. 여기서 원자 단위계 를 도입하면 ℏ , m e , 4 π ϵ 0 , e \hbar, m_e, 4\pi\epsilon_0, e ℏ , m e ​ , 4 π ϵ 0 ​ , e 를 1로 취급할 수 있게 되어 계산이 편해진다. 원자 단위계 도입 이후 분자의 해밀토니언 은 아래와 같이 써진다. H mol = − 1 2 ∑ i ∇ i 2 − 1 2 ∑ α ∇ α 2 M α − ∑ α , i Z α r i α + ∑ i > j 1 r i j + ∑ α > β Z α Z β R α β \displaystyle \begin{aligned} \mathcal{H}_{\textup{mol}}=-\frac{1}{2}\sum\limits_{i} \nabla_i^2-\frac{1}{2}\sum\limits_{\alpha} \frac{\nabla_\alpha^2} {M_\alpha}-\sum\limits_{\alpha, i} \frac{Z_\alpha}{r_{i\alpha}}+\sum\limits_{i>j} \frac{1}{r_{ij}}+\sum\limits_{\alpha>\beta} \frac{Z_\alpha Z_\beta}{R_{\alpha \beta}} \end{aligned} H mol ​ = − 2 1 ​ i ∑ ​ ∇ i 2 ​ − 2 1 ​ α ∑ ​ M α ​ ∇ α 2 ​ ​ − α , i ∑ ​ r i α ​ Z α ​ ​ + i > j ∑ ​ r ij ​ 1 ​ + α > β ∑ ​ R α β ​ Z α ​ Z β ​ ​ ​
+
+편의를 위해 위 항을 몇개로 묶자. 핵의 운동 에너지를 T N T_N T N ​ , 핵-핵 퍼텐셜 에너지를 V N N V_{NN} V N N ​ , 전자에 관한 항을 H e \mathcal{H}_{e} H e ​ 라 하자. T N = − 1 2 ∑ α ∇ α 2 M α V N N = ∑ α > β Z α Z β R α β H e = − 1 2 ∑ i ∇ i 2 − ∑ α , i Z α r i α + ∑ i > j 1 r i j \displaystyle \begin{aligned} T_N=-\frac{1}{2}\sum\limits_{\alpha} \frac{\nabla_\alpha^2}{M_\alpha} \quad V_{NN}=\sum\limits_{\alpha>\beta} \frac{Z_\alpha Z_\beta}{R_{\alpha \beta}} \quad \mathcal{H}_{e}=-\frac{1}{2}\sum\limits_{i} \nabla_i^2 -\sum\limits_{\alpha, i} \frac{Z_\alpha}{r_{i\alpha}}+\sum\limits_{i>j} \frac{1}{r_{ij}} \end{aligned} T N ​ = − 2 1 ​ α ∑ ​ M α ​ ∇ α 2 ​ ​ V N N ​ = α > β ∑ ​ R α β ​ Z α ​ Z β ​ ​ H e ​ = − 2 1 ​ i ∑ ​ ∇ i 2 ​ − α , i ∑ ​ r i α ​ Z α ​ ​ + i > j ∑ ​ r ij ​ 1 ​ ​
+
+여기서 H e \mathcal{H}_{e} H e ​ 를 몇개의 항으로 더 분리할 수 있는데 i i i 번째 전자의 운동에너지와 모든 핵들간의 쿨롱 에너지를 합쳐 일전자 해밀토니언(one-electron Hamiltonian) h ( i ) h(i) h ( i ) 라 정의하면 h ( i ) = − 1 2 ∇ i 2 − ∑ α Z α r i α \displaystyle \begin{aligned} h(i) = -\frac{1}{2} \nabla_i^2 -\sum\limits_{\alpha} \frac{Z_\alpha}{r_{i\alpha}} \end{aligned} h ( i ) = − 2 1 ​ ∇ i 2 ​ − α ∑ ​ r i α ​ Z α ​ ​ ​
+
+이고 i i i 번째 전자와 j j j 번째 전자 사이의 쿨롱 에너지를 이전자 해밀토니언(two-electron Hamiltonian) v ( i , j ) v(i, j) v ( i , j ) 라 정의하면 v ( i , j ) = 1 r i j \displaystyle \begin{aligned} v(i, j) = \frac{1}{r_{ij}} \end{aligned} v ( i , j ) = r ij ​ 1 ​ ​
+
+이다. 위 사실들을 이용하면 H e \mathcal{H}_{e} H e ​ 는 전자 1개에 관한 항과 전자 2개에 관한 항으로 나누어 쓸 수 있다. H e = ∑ i h ( i ) + ∑ i > j v ( i , j ) \displaystyle \begin{aligned} \mathcal{H}_{e} = \sum\limits_{i} h(i) + \sum\limits_{i>j} v(i, j) \end{aligned} H e ​ = i ∑ ​ h ( i ) + i > j ∑ ​ v ( i , j ) ​
+
+위 사실들을 종합하면 분자의 해밀토니언은
+
+H mol = T N + V N N + H e \begin{aligned} \mathcal{H}_{\textup{mol}} = T_N + V_{NN} + \mathcal{H}_e \end{aligned} H mol ​ = T N ​ + V N N ​ + H e ​ ​
+가 되며 최종적으로 분자의 슈뢰딩거 방정식 은
+
+H mol Ψ tot = E tot Ψ tot \begin{aligned} \mathcal{H}_{\textup{mol}}\Psi_{\textup{tot}}=E_{\textup{tot}}\Psi_{\textup{tot}} \end{aligned} H mol ​ Ψ tot ​ = E tot ​ Ψ tot ​ ​
+이 된다. 여기서 원자핵이 전자보다 훨씬 무겁다는 사실을 상기하면 보른-오펜하이머 근사(Born-Oppenheimer approximation) 을 적용하여 파동함수 Ψ tot \Psi_{\textup{tot}} Ψ tot ​ 를 핵에 대한 파트와 전자에 대한 파트로 분리할 수 있으며
+
+Ψ tot ( r , R ) ≈ Ψ e ( r ; R ) × Ψ N ( R ) \begin{aligned} \Psi_{\textup{tot}}(\textbf{r}, \textbf{R})\approx \Psi_{e}(\textbf{r}; \textbf{R})\times \Psi_{N}(\textbf{R}) \end{aligned} Ψ tot ​ ( r , R ) ≈ Ψ e ​ ( r ; R ) × Ψ N ​ ( R ) ​
+방정식 또한 핵에 관한 방정식과 전자에 관한 방정식으로 분리된다. - Electronic Schrödinger Equation
+
+H e Ψ e ( r ; R ) = E e ( R ) Ψ e ( r ; R ) \displaystyle \begin{aligned} \mathcal{H}_e\Psi_e(\textbf{r}; \textbf{R}) = E_e{(\textbf{R})}\Psi_e{(\textbf{r}; \textbf{R})} \end{aligned} H e ​ Ψ e ​ ( r ; R ) = E e ​ ( R ) Ψ e ​ ( r ; R ) ​
+
+- Nuclear Schrödinger Equation
+
+{ T N + E e ( R ) + V N N } Ψ N ( R ) = E tot Ψ N ( R ) \displaystyle \begin{aligned} \{ T_N+E_e(\textbf{R})+V_{NN} \} \Psi_N(\textbf{R}) = E_{\textup{tot}}\Psi_N(\textbf{R}) \end{aligned} { T N ​ + E e ​ ( R ) + V N N ​ } Ψ N ​ ( R ) = E tot ​ Ψ N ​ ( R ) ​
+
+3. 슬레이터 행렬식 [편집]
+핵과 전자의 운동을 분리했지만 그럼에도 저 방정식을 해석적으로 푸는 것은 전자-전자 상호작용 때문에 불가능하다. 만약 전자-전자 상호작용이 없었다면 파동함수는 어떻게 될까? 단순히 각 전자가 차지하고 있는 파동함수의 곱(Hartree product)
+
+Ψ e ( 1 , 2 , ⋯ , N ) = χ 1 ( 1 ) χ 2 ( 2 ) ⋯ χ N ( N ) \begin{aligned} \Psi_e(1, 2, \cdots , N) = \chi_1(1) \chi_2(2) \cdots \chi_N(N) \end{aligned} Ψ e ​ ( 1 , 2 , ⋯ , N ) = χ 1 ​ ( 1 ) χ 2 ​ ( 2 ) ⋯ χ N ​ ( N ) ​
+으로 나타날 것이라 생각할 수도 있다. [3] 하지만 전자는 페르미온이므로 파동함수가 입자 교환에 대하여 반대칭(antisymmetric) [4] 이어야 하는데 일반적으로 위 식은 반대칭성을 만족하지 않는다. 이때 슬레이터 행렬식(Slater determinat) 을 이용하면 반대칭화 조건을 만족시킬 수 있다. Ψ e ( 1 , 2 , ⋯ , N ) = 1 N ! ∣ χ 1 ( 1 ) χ 2 ( 1 ) ⋯ χ N ( 1 ) χ 1 ( 2 ) χ 2 ( 2 ) ⋯ χ N ( 2 ) ⋮ ⋮ ⋱ ⋮ χ 1 ( N ) χ 2 ( N ) ⋯ χ N ( N ) ∣ = ∣ χ 1 χ 2 ⋯ χ N ⟩ \displaystyle \begin{aligned} \Psi_e(1, 2, \cdots, N)=\frac{1}{\sqrt{N!}}\begin{vmatrix} \chi_1(1) & \chi_2(1) & \cdots & \chi_N(1) \\ \chi_1(2) & \chi_2(2) & \cdots & \chi_N(2) \\ \vdots & \vdots & \ddots & \vdots \\ \chi_1(N) & \chi_2(N) & \cdots & \chi_N(N) \end{vmatrix} =|\chi_1\chi_2 \cdots \chi_N \rangle \end{aligned} Ψ e ​ ( 1 , 2 , ⋯ , N ) = N ! ​ 1 ​ ​ χ 1 ​ ( 1 ) χ 1 ​ ( 2 ) ⋮ χ 1 ​ ( N ) ​ χ 2 ​ ( 1 ) χ 2 ​ ( 2 ) ⋮ χ 2 ​ ( N ) ​ ⋯ ⋯ ⋱ ⋯ ​ χ N ​ ( 1 ) χ N ​ ( 2 ) ⋮ χ N ​ ( N ) ​ ​ = ∣ χ 1 ​ χ 2 ​ ⋯ χ N ​ ⟩ ​
+
+위 식을 자세히 보면 두 입자를 교환하는 것은 슬레이터 행렬식에서 두 행을 바꾸는 것이고 행렬식의 성질에 의해 두 행을 바꾸면 행렬식의 부호는 반대가 됨을 알 수 있다. 즉 슬레이터 행렬식으로 만든 파동함수는 반대칭화 조건을 만족한다.
+물론 전자-전자 상호작용을 무시할 수 없으므로 정확한 해를 슬레이터 행렬식으로 표현할 수는 없다. 하지만 χ i \chi_i χ i ​ 를 잘 고른다면 슬레이터 행렬식이 정확한 해의 좋은 근사라고 가정할 것이다. 이를 오비탈 근사(orbital approximation) 라 한다. [5]
+
+4. 하트리-포크 에너지 [편집]
+위에서 구한 Ψ e \Psi_e Ψ e ​ 를 이용하여 H e \mathcal{H}_e H e ​ 의 기댓값(하트리-포크 에너지)을 구하면 변분 원리 에 의하여
+
+E HF = ⟨ Ψ e ∣ H e ∣ Ψ e ⟩ ≥ E g \begin{aligned} E_{\textup{HF}}= \langle \Psi_e | \mathcal{H}_e | \Psi_e \rangle \geq E_{g} \end{aligned} E HF ​ = ⟨ Ψ e ​ ∣ H e ​ ∣ Ψ e ​ ⟩ ≥ E g ​ ​
+가 된다. 여기서 슬레이터-컨던 규칙 을 이용하면 ⟨ Ψ e ∣ H e ∣ Ψ e ⟩ = ⟨ Ψ e ∣ − 1 2 ∑ i ∇ i 2 − ∑ α , i Z α r i α + ∑ i > j 1 r i j ∣ Ψ e ⟩ = ∑ i ⟨ χ i ( 1 ) ∣ h i ( 1 ) ∣ χ i ( 1 ) ⟩ + 1 2 ∑ i ≠ j [ ⟨ χ i ( 1 ) χ j ( 2 ) ∣ 1 r 12 ∣ χ i ( 1 ) χ j ( 2 ) ⟩ − ⟨ χ i ( 1 ) χ j ( 2 ) ∣ 1 r 12 ∣ χ j ( 1 ) χ i ( 2 ) ⟩ ] \displaystyle \begin{aligned} \langle\Psi_e|\mathcal{H}_e|\Psi_e\rangle &= \Big\langle \Psi_e\Big|-\frac{1}{2}\sum\limits_{i} \nabla_i^2-\sum\limits_{\alpha, i} \frac{Z_\alpha}{r_{i\alpha}}+\sum\limits_{i>j} \frac{1}{r_{ij}}\Big|\Psi_e \Big\rangle \\&= \sum\limits_{i}\langle \chi_i(1)|h_i(1)|\chi_i(1)\rangle +\frac{1}{2}\sum\limits_{i\neq j} \bigg[\bigg\langle \chi_i(1)\chi_j(2)\bigg|\frac{1}{r_{12}}\bigg|\chi_i(1)\chi_j(2)\bigg\rangle -\bigg\langle \chi_i(1)\chi_j(2)\bigg|\frac{1}{r_{12}}\bigg|\chi_j(1)\chi_i(2)\bigg\rangle\bigg] \end{aligned} ⟨ Ψ e ​ ∣ H e ​ ∣ Ψ e ​ ⟩ ​ = ⟨ Ψ e ​ ​ − 2 1 ​ i ∑ ​ ∇ i 2 ​ − α , i ∑ ​ r i α ​ Z α ​ ​ + i > j ∑ ​ r ij ​ 1 ​ ​ Ψ e ​ ⟩ = i ∑ ​ ⟨ χ i ​ ( 1 ) ∣ h i ​ ( 1 ) ∣ χ i ​ ( 1 )⟩ + 2 1 ​ i  = j ∑ ​ [ ⟨ χ i ​ ( 1 ) χ j ​ ( 2 ) ​ r 12 ​ 1 ​ ​ χ i ​ ( 1 ) χ j ​ ( 2 ) ⟩ − ⟨ χ i ​ ( 1 ) χ j ​ ( 2 ) ​ r 12 ​ 1 ​ ​ χ j ​ ( 1 ) χ i ​ ( 2 ) ⟩ ] ​
+
+와 같이 표현된다.
+
+5. 표기법 [편집]
+위 식에서 나온 3개의 적분 중 첫째항
+
+⟨ χ i ( 1 ) ∣ h i ( 1 ) ∣ χ i ( 1 ) ⟩ \begin{aligned} \langle \chi_i(1)|h_i(1)|\chi_i(1)\rangle\end{aligned} ⟨ χ i ​ ( 1 ) ∣ h i ​ ( 1 ) ∣ χ i ​ ( 1 )⟩ ​
+은 일전자 적분(One-electron integral) 이라 하며 다음과 같이 표기한다. ⟨ i ∣ h ∣ i ⟩ ≡ ∫ χ i ∗ ( 1 ) h ( 1 ) χ i ( 1 ) d 1 = ⟨ χ i ( 1 ) ∣ h i ( 1 ) ∣ χ i ( 1 ) ⟩ \displaystyle \begin{aligned}\langle i|h|i \rangle \equiv \int \chi_i^*(1)h(1)\chi_i(1)d1 = \langle \chi_i(1)|h_i(1)|\chi_i(1)\rangle \end{aligned} ⟨ i ∣ h ∣ i ⟩ ≡ ∫ χ i ∗ ​ ( 1 ) h ( 1 ) χ i ​ ( 1 ) d 1 = ⟨ χ i ​ ( 1 ) ∣ h i ​ ( 1 ) ∣ χ i ​ ( 1 )⟩ ​
+
+뒤의 두 항
+
+⟨ χ i ( 1 ) χ j ( 2 ) ∣ 1 r 12 ∣ χ i ( 1 ) χ j ( 2 ) ⟩ \begin{aligned} \bigg\langle \chi_i(1)\chi_j(2)\bigg|\frac{1}{r_{12}}\bigg|\chi_i(1)\chi_j(2)\bigg\rangle \end{aligned} ⟨ χ i ​ ( 1 ) χ j ​ ( 2 ) ​ r 12 ​ 1 ​ ​ χ i ​ ( 1 ) χ j ​ ( 2 ) ⟩ ​
+
+⟨ χ i ( 1 ) χ j ( 2 ) ∣ 1 r 12 ∣ χ j ( 1 ) χ i ( 2 ) ⟩ \begin{aligned} \bigg\langle \chi_i(1)\chi_j(2)\bigg|\frac{1}{r_{12}}\bigg|\chi_j(1)\chi_i(2)\bigg\rangle\end{aligned} ⟨ χ i ​ ( 1 ) χ j ​ ( 2 ) ​ r 12 ​ 1 ​ ​ χ j ​ ( 1 ) χ i ​ ( 2 ) ⟩ ​
+은 이전자 적분(Two-electron integral) 이라 하며 두 가지의 표기법이 존재한다. 하나는 물리학자의 표기법(Physicist's notation) 또는 디랙 표기법(Dirac notation) 이라 불리는 표기법으로
+
+⟨ i j ∣ k l ⟩ ≡ ∫ ∫ χ i ∗ ( 1 ) χ j ∗ ( 2 ) χ k ( 1 ) χ l ( 2 ) r 12 d 1 d 2 \begin{aligned} \langle ij|kl \rangle \equiv \int\int \frac{\chi_i^*(1)\chi_j^*(2)\chi_k(1)\chi_l(2)}{r_{12}}d1d2 \end{aligned} ⟨ ij ∣ k l ⟩ ≡ ∫∫ r 12 ​ χ i ∗ ​ ( 1 ) χ j ∗ ​ ( 2 ) χ k ​ ( 1 ) χ l ​ ( 2 ) ​ d 1 d 2 ​
+로 정의하며 또 다른 하나는 화학자의 표기법(Chemist's notation) 또는 쿨롱 표기법(Coulomb notation) 이라 불리는 표기법으로
+
+( i j ∣ k l ) ≡ ∫ ∫ χ i ∗ ( 1 ) χ j ( 1 ) χ k ∗ ( 2 ) χ l ( 2 ) r 12 d 1 d 2 \begin{aligned} (ij|kl) \equiv \int\int \frac{\chi_i^*(1)\chi_j(1)\chi_k^*(2)\chi_l(2)}{r_{12}}d1d2 \end{aligned} ( ij ∣ k l ) ≡ ∫∫ r 12 ​ χ i ∗ ​ ( 1 ) χ j ​ ( 1 ) χ k ∗ ​ ( 2 ) χ l ​ ( 2 ) ​ d 1 d 2 ​
+와 같이 표기한다. 위 표기법을 이용하면 이전자 적분을 ⟨ χ i ( 1 ) χ j ( 2 ) ∣ 1 r 12 ∣ χ i ( 1 ) χ j ( 2 ) ⟩ = ⟨ i j ∣ i j ⟩ = ( i i ∣ j j ) \displaystyle \begin{aligned} \bigg\langle \chi_i(1)\chi_j(2)\bigg|\frac{1}{r_{12}}\bigg|\chi_i(1)\chi_j(2)\bigg\rangle=\langle ij|ij \rangle=(ii|jj) \end{aligned} ⟨ χ i ​ ( 1 ) χ j ​ ( 2 ) ​ r 12 ​ 1 ​ ​ χ i ​ ( 1 ) χ j ​ ( 2 ) ⟩ = ⟨ ij ∣ ij ⟩ = ( ii ∣ j j ) ​
+
+⟨ χ i ( 1 ) χ j ( 2 ) ∣ 1 r 12 ∣ χ j ( 1 ) χ i ( 2 ) ⟩ = ⟨ i j ∣ j i ⟩ = ( i j ∣ j i ) \displaystyle \begin{aligned} \bigg\langle \chi_i(1)\chi_j(2)\bigg|\frac{1}{r_{12}}\bigg|\chi_j(1)\chi_i(2)\bigg\rangle=\langle ij|ji \rangle=(ij|ji) \end{aligned} ⟨ χ i ​ ( 1 ) χ j ​ ( 2 ) ​ r 12 ​ 1 ​ ​ χ j ​ ( 1 ) χ i ​ ( 2 ) ⟩ = ⟨ ij ∣ j i ⟩ = ( ij ∣ j i ) ​
+
+로 쓸 수 있다. 위 표기법을 이용하면 하트리-포크 에너지는
+
+E HF = ∑ i ⟨ i ∣ h ∣ i ⟩ + 1 2 ∑ i ≠ j [ ⟨ i j ∣ i j ⟩ − ⟨ i j ∣ j i ⟩ ] \begin{aligned} E_{\textup{HF}} = \sum\limits_{i} \langle i|h |i\rangle +\frac{1}{2}\sum\limits_{i\neq j} [\langle ij|ij \rangle- \langle ij|ji \rangle] \end{aligned} E HF ​ = i ∑ ​ ⟨ i ∣ h ∣ i ⟩ + 2 1 ​ i  = j ∑ ​ [⟨ ij ∣ ij ⟩ − ⟨ ij ∣ j i ⟩] ​
+가 된다.
+
+5.1. 관계식 [편집]
+두 식은 아래와 같은 관계식이 있다.
+
+⟨ i j ∣ k l ⟩ = ( i k ∣ j l ) \begin{aligned} \langle ij|kl \rangle=(ik|jl) \end{aligned} ⟨ ij ∣ k l ⟩ = ( ik ∣ j l ) ​
+만약 복소 켤래를 취하면
+
+⟨ i j ∣ k l ⟩ ∗ = ⟨ k l ∣ i j ⟩ ( i j ∣ k l ) ∗ = ( j i ∣ l k ) \begin{aligned} \langle ij|kl \rangle^*=\langle kl|ij \rangle \quad (ij|kl)^*=(ji|lk) \end{aligned} ⟨ ij ∣ k l ⟩ ∗ = ⟨ k l ∣ ij ⟩ ( ij ∣ k l ) ∗ = ( j i ∣ l k ) ​
+가 된다.그리고 적분 변수를 뭘로 잡든 적분값이 바뀌지 않는 것을 상기하면 변수 1과 변수 2를 바꿔서 적분을 해도 같은 값을 가질 것이고 이를 식으로 쓰면 다음과 같은 관계식을 얻는다.
+
+⟨ i j ∣ k l ⟩ = ⟨ j i ∣ l k ⟩ ( i j ∣ k l ) = ( k l ∣ i j ) \begin{aligned} \langle ij|kl \rangle=\langle ji|lk \rangle \quad (ij|kl)=(kl|ij) \end{aligned} ⟨ ij ∣ k l ⟩ = ⟨ j i ∣ l k ⟩ ( ij ∣ k l ) = ( k l ∣ ij ) ​
+만약 모든 함수들이 실함수라면 복소 켤래를 취해도 값은 같을 것이므로
+
+⟨ i j ∣ k l ⟩ = ⟨ k l ∣ i j ⟩ ( i j ∣ k l ) = ( j i ∣ l k ) \begin{aligned} \langle ij|kl \rangle = \langle kl|ij \rangle \quad (ij|kl) = (ji|lk) \end{aligned} ⟨ ij ∣ k l ⟩ = ⟨ k l ∣ ij ⟩ ( ij ∣ k l ) = ( j i ∣ l k ) ​
+가 된다. 위 사실들을 종합해보면 실함수를 썼을 땐 아래와 같이 8개의 적분들이 동일해 진다. ⟨ i j ∣ k l ⟩ = ⟨ k l ∣ i j ⟩ = ⟨ j i ∣ l k ⟩ = ⟨ l k ∣ j i ⟩ = ⟨ k j ∣ i l ⟩ = ⟨ i l ∣ k j ⟩ = ⟨ j k ∣ l i ⟩ = ⟨ l i ∣ j k ⟩ [ i j ∣ k l ] = [ j i ∣ k l ] = [ i j ∣ l k ] = [ j i ∣ l k ] = [ k l ∣ i j ] = [ l k ∣ i j ] = [ k l ∣ j i ] = [ l k ∣ j i ] \displaystyle \begin{aligned} \langle ij|kl \rangle = \langle kl|ij \rangle = \langle ji|lk \rangle = \langle lk|ji \rangle &= \langle kj|il \rangle = \langle il|kj \rangle = \langle jk|li \rangle = \langle li|jk \rangle \\ [ij|kl] = [ji|kl] = [ij|lk] = [ji|lk] &= [kl|ij] = [lk|ij] = [kl|ji] = [lk|ji] \end{aligned} ⟨ ij ∣ k l ⟩ = ⟨ k l ∣ ij ⟩ = ⟨ j i ∣ l k ⟩ = ⟨ l k ∣ j i ⟩ [ ij ∣ k l ] = [ j i ∣ k l ] = [ ij ∣ l k ] = [ j i ∣ l k ] ​ = ⟨ k j ∣ i l ⟩ = ⟨ i l ∣ k j ⟩ = ⟨ j k ∣ l i ⟩ = ⟨ l i ∣ j k ⟩ = [ k l ∣ ij ] = [ l k ∣ ij ] = [ k l ∣ j i ] = [ l k ∣ j i ] ​
+
+2전자 적분의 경우 4 ! = 24 4!=24 4 ! = 24 개 만큼 존재하는데 실함수를 사용한 경우 이중 8개가 같으므로 아래와 같은 3개의 적분만 존재한다. ⟨ i j ∣ k l ⟩ = [ i k ∣ j l ] ⟨ i j ∣ l k ⟩ = [ i l ∣ j k ] ⟨ i k ∣ j l ⟩ = [ i j ∣ k l ] \displaystyle \begin{aligned} \langle ij|kl \rangle = [ik|jl] \quad \langle ij|lk \rangle = [il|jk] \quad \langle ik|jl \rangle = [ij|kl] \end{aligned} ⟨ ij ∣ k l ⟩ = [ ik ∣ j l ] ⟨ ij ∣ l k ⟩ = [ i l ∣ j k ] ⟨ ik ∣ j l ⟩ = [ ij ∣ k l ] ​
+
+6. 하트리-포크 방정식 [편집]
+지금까지 χ i \chi_i χ i ​ 를 계속 써왔지만 아직까진 χ i \chi_i χ i ​ 를 구하는 식을 얻지 못했다. 앞서 말했던
+
+E HF = ⟨ Ψ e ∣ H e ∣ Ψ e ⟩ ≥ E g \begin{aligned} E_{\textup{HF}}= \langle \Psi_e | \mathcal{H}_e | \Psi_e \rangle \geq E_{g} \end{aligned} E HF ​ = ⟨ Ψ e ​ ∣ H e ​ ∣ Ψ e ​ ⟩ ≥ E g ​ ​
+에서 ⟨ Ψ e ∣ H e ∣ Ψ e ⟩ \langle \Psi_e | \mathcal{H}_e | \Psi_e \rangle ⟨ Ψ e ​ ∣ H e ​ ∣ Ψ e ​ ⟩ 을 최소화 시키는 χ i \chi_i χ i ​ 를 찾는다면 그게 구하고자 하는 χ i \chi_i χ i ​ 가 될 것이다. 이는 변분법 으로 구할 수 있다. 하지만 χ i \chi_i χ i ​ 에는 직교규격화 조건 ⟨ χ i ∣ χ j ⟩ = δ i j \langle \chi_i|\chi_j \rangle=\delta_{ij} ⟨ χ i ​ ∣ χ j ​ ⟩ = δ ij ​ 이 있기 때문에 이 조건 하에서 에너지를 최소화 시켜야 한다. 이는 라그랑주 승수법 으로 구할 수 있으며 결과적으론 다음과 같은 양을 최소화 시켜야한다. L [ { χ i } ] = E [ { χ i } ] − ∑ i , j ε i j ( ⟨ i ∣ j ⟩ − δ i j ) \displaystyle \begin{aligned} \mathscr{L}[\{ \chi_i \} ] = E[\{ \chi_i \}] - \sum\limits_{i, j} \varepsilon_{ij} ( \langle i | j \rangle - \delta_{ij} ) \end{aligned} L [{ χ i ​ }] = E [{ χ i ​ }] − i , j ∑ ​ ε ij ​ (⟨ i ∣ j ⟩ − δ ij ​ ) ​
+
+이제 변분법 을 적용시키자 δ L = δ E − δ ∑ i , j ε i j ( ⟨ i ∣ j ⟩ − δ i j ) = ∑ i ( ⟨ δ i ∣ h ∣ i ⟩ + ⟨ i ∣ h ∣ δ i ⟩ ) + 1 2 ∑ i , j ( ⟨ δ i j ∣ i j ⟩ + ⟨ i δ j ∣ i j ⟩ + ⟨ i j ∣ δ i j ⟩ + ⟨ i j ∣ i δ j ⟩ − ⟨ δ i j ∣ j i ⟩ − ⟨ i δ j ∣ j i ⟩ − ⟨ i j ∣ δ j i ⟩ − ⟨ i j ∣ j δ i ⟩ ) − ∑ i , j ε i j ( ⟨ δ i ∣ j ⟩ + ⟨ i ∣ δ j ⟩ ) = 0 \displaystyle \begin{aligned} \delta \mathscr{L} &= \delta E - \delta \sum\limits_{i, j} \varepsilon_{ij} ( \langle i | j \rangle - \delta_{ij} ) \\ &= \sum\limits_{i}( \langle \delta i | h | i \rangle + \langle i | h | \delta i \rangle ) + \frac{1}{2} \sum\limits_{i, j} ( \langle \delta ij | ij \rangle + \langle i \delta j | ij \rangle + \langle ij | \delta ij \rangle + \langle ij | i \delta j \rangle \\ &- \langle \delta ij | ji \rangle - \langle i \delta j | ji \rangle - \langle ij | \delta ji \rangle - \langle ij | j \delta i \rangle) - \sum\limits_{i, j} \varepsilon_{ij} ( \langle \delta i | j \rangle + \langle i | \delta j \rangle) = 0 \end{aligned} δ L ​ = δ E − δ i , j ∑ ​ ε ij ​ (⟨ i ∣ j ⟩ − δ ij ​ ) = i ∑ ​ (⟨ δ i ∣ h ∣ i ⟩ + ⟨ i ∣ h ∣ δ i ⟩) + 2 1 ​ i , j ∑ ​ (⟨ δ ij ∣ ij ⟩ + ⟨ i δ j ∣ ij ⟩ + ⟨ ij ∣ δ ij ⟩ + ⟨ ij ∣ i δ j ⟩ − ⟨ δ ij ∣ j i ⟩ − ⟨ i δ j ∣ j i ⟩ − ⟨ ij ∣ δ j i ⟩ − ⟨ ij ∣ j δ i ⟩) − i , j ∑ ​ ε ij ​ (⟨ δ i ∣ j ⟩ + ⟨ i ∣ δ j ⟩) = 0 ​
+
+여기서 다음과 같은 관계식 ⟨ i j ∣ l k ⟩ = ⟨ j i ∣ k l ⟩ \displaystyle \begin{aligned} \langle ij | lk \rangle = \langle ji | kl \rangle \end{aligned} ⟨ ij ∣ l k ⟩ = ⟨ j i ∣ k l ⟩ ​
+
+과 i i i 와 j j j 를 바꿔도 합은 달라지지 않는다는 점을 이용하면 δ L = ∑ i ⟨ δ i ∣ h ∣ i ⟩ + ∑ i , j ( ⟨ δ i j ∣ i j ⟩ ) + ⟨ δ i j ∣ j i ⟩ ) − ∑ i , j ε i j ⟨ δ i ∣ j ⟩ + ∑ i ⟨ h i ∣ δ i ⟩ + ∑ i , j ( ⟨ i j ∣ δ i j ⟩ ) + ⟨ j i ∣ δ i j ⟩ ) − ∑ i , j ε j i ⟨ j ∣ δ i ⟩ = ∑ i ∫ δ χ i ∗ ( 1 ) [ h ( 1 ) χ i ( 1 ) + ∑ j { χ i ( 1 ) ∫ χ j ∗ ( 2 ) χ j ( 2 ) r 12 d 2 + χ j ( 1 ) ∫ χ j ∗ ( 2 ) χ i ( 2 ) r 12 d 2 } − ∑ j ε i j χ j ( 1 ) ] d 1 + ∑ i ∫ δ χ i ( 1 ) [ h ( 1 ) χ i ( 1 ) + ∑ j { χ i ( 1 ) ∫ χ j ∗ ( 2 ) χ j ( 2 ) r 12 d 2 + χ j ( 1 ) ∫ χ j ∗ ( 2 ) χ i ( 2 ) r 12 d 2 } − ∑ j ε j i ∗ χ j ( 1 ) ] ∗ d 1 = 0 \displaystyle \begin{aligned} \delta \mathscr{L} &= \sum\limits_{i} \langle \delta i | h | i \rangle + \sum\limits_{i, j}(\langle \delta ij | ij \rangle) + \langle \delta ij | ji \rangle) - \sum\limits_{i, j} \varepsilon_{ij} \langle \delta i | j \rangle \\ &+ \sum\limits_{i} \langle h i | \delta i \rangle + \sum\limits_{i, j}(\langle ij | \delta ij \rangle) + \langle ji | \delta ij \rangle) - \sum\limits_{i, j} \varepsilon_{ji} \langle j | \delta i \rangle \\ &= \sum\limits_{i} \int \delta \chi_i ^ *(1) \left[ h(1)\chi_{i}(1)+\sum\limits_{j}\Bigg\{\chi_{i}(1)\int \frac{\chi_{j}^*(2)\chi_{j}(2)}{r_{12}} d2+\chi_{j}(1)\int \frac{\chi_{j}^*(2)\chi_i(2)}{r_{12}}d2\Bigg\}- \sum\limits_{j} \varepsilon_{ij}\chi_j(1) \right] d1 \\ &+ \sum\limits_{i} \int \delta \chi_i(1) \left[ h(1)\chi_{i}(1)+\sum\limits_{j}\Bigg\{\chi_{i}(1)\int \frac{\chi_{j}^*(2)\chi_{j}(2)}{r_{12}} d2+\chi_{j}(1)\int \frac{\chi_{j}^*(2)\chi_i(2)}{r_{12}}d2\Bigg\}- \sum\limits_{j} \varepsilon_{ji}^* \chi_j(1) \right] ^* d1 \\ &= 0 \end{aligned} δ L ​ = i ∑ ​ ⟨ δ i ∣ h ∣ i ⟩ + i , j ∑ ​ (⟨ δ ij ∣ ij ⟩) + ⟨ δ ij ∣ j i ⟩) − i , j ∑ ​ ε ij ​ ⟨ δ i ∣ j ⟩ + i ∑ ​ ⟨ hi ∣ δ i ⟩ + i , j ∑ ​ (⟨ ij ∣ δ ij ⟩) + ⟨ j i ∣ δ ij ⟩) − i , j ∑ ​ ε j i ​ ⟨ j ∣ δ i ⟩ = i ∑ ​ ∫ δ χ i ∗ ​ ( 1 ) [ h ( 1 ) χ i ​ ( 1 ) + j ∑ ​ { χ i ​ ( 1 ) ∫ r 12 ​ χ j ∗ ​ ( 2 ) χ j ​ ( 2 ) ​ d 2 + χ j ​ ( 1 ) ∫ r 12 ​ χ j ∗ ​ ( 2 ) χ i ​ ( 2 ) ​ d 2 } − j ∑ ​ ε ij ​ χ j ​ ( 1 ) ] d 1 + i ∑ ​ ∫ δ χ i ​ ( 1 ) [ h ( 1 ) χ i ​ ( 1 ) + j ∑ ​ { χ i ​ ( 1 ) ∫ r 12 ​ χ j ∗ ​ ( 2 ) χ j ​ ( 2 ) ​ d 2 + χ j ​ ( 1 ) ∫ r 12 ​ χ j ∗ ​ ( 2 ) χ i ​ ( 2 ) ​ d 2 } − j ∑ ​ ε j i ∗ ​ χ j ​ ( 1 ) ] ∗ d 1 = 0 ​
+
+가 된다. 이는 임의의 δ χ i ∗ ( 1 ) , δ χ i ( 1 ) \delta \chi_i ^*(1), \delta \chi_i(1) δ χ i ∗ ​ ( 1 ) , δ χ i ​ ( 1 ) 에 대해 성립해야하므로 h ( 1 ) χ i ( 1 ) + ∑ j { χ i ( 1 ) ∫ χ j ∗ ( 2 ) χ j ( 2 ) r 12 d 2 + χ j ( 1 ) ∫ χ j ∗ ( 2 ) χ i ( 2 ) r 12 d 2 } − ∑ j ε i j χ j ( 1 ) = 0 h ( 1 ) χ i ( 1 ) + ∑ j { χ i ( 1 ) ∫ χ j ∗ ( 2 ) χ j ( 2 ) r 12 d 2 + χ j ( 1 ) ∫ χ j ∗ ( 2 ) χ i ( 2 ) r 12 d 2 } − ∑ j ε j i ∗ χ j ( 1 ) = 0 \displaystyle \begin{aligned} h(1)\chi_{i}(1)+\sum\limits_{j}\Bigg\{\chi_{i}(1)\int \frac{\chi_{j}^*(2)\chi_{j}(2)}{r_{12}} d2+\chi_{j}(1)\int \frac{\chi_{j}^*(2)\chi_i(2)}{r_{12}}d2\Bigg\}- \sum\limits_{j} \varepsilon_{ij}\chi_j(1)=0 \\ h(1)\chi_{i}(1)+\sum\limits_{j}\Bigg\{\chi_{i}(1)\int \frac{\chi_{j}^*(2)\chi_{j}(2)}{r_{12}} d2+\chi_{j}(1)\int \frac{\chi_{j}^*(2)\chi_i(2)}{r_{12}}d2\Bigg\}- \sum\limits_{j} \varepsilon_{ji} ^ * \chi_j(1)=0 \end{aligned} h ( 1 ) χ i ​ ( 1 ) + j ∑ ​ { χ i ​ ( 1 ) ∫ r 12 ​ χ j ∗ ​ ( 2 ) χ j ​ ( 2 ) ​ d 2 + χ j ​ ( 1 ) ∫ r 12 ​ χ j ∗ ​ ( 2 ) χ i ​ ( 2 ) ​ d 2 } − j ∑ ​ ε ij ​ χ j ​ ( 1 ) = 0 h ( 1 ) χ i ​ ( 1 ) + j ∑ ​ { χ i ​ ( 1 ) ∫ r 12 ​ χ j ∗ ​ ( 2 ) χ j ​ ( 2 ) ​ d 2 + χ j ​ ( 1 ) ∫ r 12 ​ χ j ∗ ​ ( 2 ) χ i ​ ( 2 ) ​ d 2 } − j ∑ ​ ε j i ∗ ​ χ j ​ ( 1 ) = 0 ​
+
+가 된다. [6] 이때,
+
+J j ( 1 ) χ i ( 1 ) ≡ χ i ( 1 ) ∫ χ j ∗ ( 2 ) χ j ( 2 ) r 12 d 2 \begin{aligned} J_j(1)\chi_i(1) \equiv \chi_{i}(1)\int \frac{\chi_{j}^*(2)\chi_{j}(2)}{r_{12}} d2 \end{aligned} J j ​ ( 1 ) χ i ​ ( 1 ) ≡ χ i ​ ( 1 ) ∫ r 12 ​ χ j ∗ ​ ( 2 ) χ j ​ ( 2 ) ​ d 2 ​
+
+K j ( 1 ) χ i ( 1 ) ≡ χ j ( 1 ) ∫ χ j ∗ ( 2 ) χ i ( 2 ) r 12 d 2 \begin{aligned} K_j(1)\chi_i(1) \equiv \chi_{j}(1)\int \frac{\chi_{j}^*(2)\chi_{i}(2)}{r_{12}} d2 \end{aligned} K j ​ ( 1 ) χ i ​ ( 1 ) ≡ χ j ​ ( 1 ) ∫ r 12 ​ χ j ∗ ​ ( 2 ) χ i ​ ( 2 ) ​ d 2 ​
+로 연산자를 정의하며, 첫 번째 연산자를 쿨롱 연산자(Coulomb operator) 라 하며, 두 번째 연산자를 교환 연산자(Exchange operator) 라 한다. 해당 연산자들의 의미는 후술하기로 한다. 추가로 포크 연산자(Fock operator) 를 다음과 같이 정의한다.
+
+f ( 1 ) ≡ h ( 1 ) + ∑ j [ J j ( 1 ) − K j ( 1 ) ] \begin{aligned} f(1) \equiv h(1) + \sum_{j} \left[ J_{j}(1) - K_{j}(1) \right] \end{aligned} f ( 1 ) ≡ h ( 1 ) + j ∑ ​ [ J j ​ ( 1 ) − K j ​ ( 1 ) ] ​
+이런 연산자들을 정의하면 얻은 방정식이 다음과 같이 써진다.
+
+f ∣ χ i ⟩ = ∑ j ε i j ∣ χ j ⟩ f ∣ χ i ⟩ = ∑ j ε j i ∗ ∣ χ j ⟩ \begin{aligned} f|\chi_i \rangle = \sum_{j} \varepsilon_{ij}|\chi_{j} \rangle \\ f|\chi_i \rangle = \sum_{j} \varepsilon_{ji}^*|\chi_{j} \rangle \end{aligned} f ∣ χ i ​ ⟩ = j ∑ ​ ε ij ​ ∣ χ j ​ ⟩ f ∣ χ i ​ ⟩ = j ∑ ​ ε j i ∗ ​ ∣ χ j ​ ⟩ ​
+두 식을 빼보자.
+
+∑ j ( ε j i ∗ − ε i j ) ∣ χ j ⟩ = 0 \begin{aligned} \sum_{j} (\varepsilon_{ji}^* - \varepsilon_{ij})|\chi_{j} \rangle = 0 \end{aligned} j ∑ ​ ( ε j i ∗ ​ − ε ij ​ ) ∣ χ j ​ ⟩ = 0 ​
+근데 ⟨ χ i ∣ χ j ⟩ = δ i j \langle \chi_i|\chi_j \rangle=\delta_{ij} ⟨ χ i ​ ∣ χ j ​ ⟩ = δ ij ​ 이므로 ε j i ∗ = ε i j \varepsilon_{ji}^* = \varepsilon_{ij} ε j i ∗ ​ = ε ij ​ 임을 쉽게 알 수 있다. 이제 결과적으로 1개의 식
+
+f ∣ χ i ⟩ = ∑ j ε i j ∣ χ j ⟩ \begin{aligned} f|\chi_i \rangle = \sum_{j} \varepsilon_{ij}|\chi_{j} \rangle \end{aligned} f ∣ χ i ​ ⟩ = j ∑ ​ ε ij ​ ∣ χ j ​ ⟩ ​
+만 남게 된다. 여러 항들이 섞여있는 우변은 유니터리 행렬 을 이용하여 ∣ χ i ⟩|\chi_{i} \rangle ∣ χ i ​ ⟩ 만 남겨둘 수 있다. 유니터리 행렬 U \textbf{U} U 를 이용한 다음과 같은 변환을 생각해보자. ∣ χ a ′ ⟩ = ∑ b U b a ∣ χ b ⟩ \displaystyle \begin{aligned} | \chi_a' \rangle = \sum\limits_{b} U_{ba} | \chi_b \rangle \end{aligned} ∣ χ a ′ ​ ⟩ = b ∑ ​ U ba ​ ∣ χ b ​ ⟩ ​
+
+그럼 χ i ′ \chi'_i χ i ′ ​ 을 이용하여 쿨롱, 교환 연산자( J j ′ , K j ′ J_j', K_j' J j ′ ​ , K j ′ ​ )를 정의할 수 있을것이고 이는 χ i \chi_i χ i ​ 로 만든 쿨롱, 교환 연산자( J j , K j J_j, K_j J j ​ , K j ​ )와는 다를 것이다. 하지만 포크 연산자는 이러한 변환에 대해서 불변임이 증명되어 있고 [7] 이를 이용하여 다음과 같은 식 f ′ ∣ χ a ′ ⟩ = f ′ ∑ b U b a ∣ χ b ⟩ = ∑ b U b a f ∣ χ b ⟩ = ∑ b , c U b a ε b c ∣ χ c ⟩ \displaystyle \begin{aligned} f'| \chi'_a \rangle = f'\sum\limits_{b} U_{ba} | \chi_b \rangle = \sum\limits_{b} U_{ba} f | \chi_b \rangle = \sum\limits_{b, c} U_{ba}\varepsilon_{bc}| \chi_c \rangle \end{aligned} f ′ ∣ χ a ′ ​ ⟩ = f ′ b ∑ ​ U ba ​ ∣ χ b ​ ⟩ = b ∑ ​ U ba ​ f ∣ χ b ​ ⟩ = b , c ∑ ​ U ba ​ ε b c ​ ∣ χ c ​ ⟩ ​
+
+을 얻어낼 수 있고 양변에 ⟨ χ d ′ ∣ \langle \chi_d' | ⟨ χ d ′ ​ ∣ 을 곱해주면 ⟨ χ d ′ ∣ f ′ ∣ χ a ′ ⟩ = ∑ b , c , e U b a U e d ∗ ε b c ⟨ χ d ∣ χ c ⟩ = ∑ b , c , e U b a U e d ∗ ε b c δ c e = ∑ b , c U b a U c d ∗ ε b c \displaystyle \begin{aligned} \langle \chi_d' | f'| \chi'_a \rangle = \sum\limits_{b, c, e} U_{ba} U_{ed}^* \varepsilon_{bc}\langle \chi_d | \chi_c \rangle = \sum\limits_{b, c, e} U_{ba} U_{ed}^* \varepsilon_{bc} \delta_{ce} = \sum\limits_{b, c} U_{ba} U_{cd}^* \varepsilon_{bc} \end{aligned} ⟨ χ d ′ ​ ∣ f ′ ∣ χ a ′ ​ ⟩ = b , c , e ∑ ​ U ba ​ U e d ∗ ​ ε b c ​ ⟨ χ d ​ ∣ χ c ​ ⟩ = b , c , e ∑ ​ U ba ​ U e d ∗ ​ ε b c ​ δ ce ​ = b , c ∑ ​ U ba ​ U c d ∗ ​ ε b c ​ ​
+
+가 된다. 우변을 정리해보면 U † ε T U \textbf{U}^\dagger \varepsilon^T \textbf{U} U † ε T U 임을 알 수 있다. 근데 ε \varepsilon ε 은 에르미트 행렬 이므로 언제나 대각화가 가능하다. 대각화를 해주면 최종적으로 우리가 원하는 꼴인
+
+f ∣ χ i ⟩ = ε i ∣ χ i ⟩ \begin{aligned} f|\chi_i \rangle=\varepsilon_i |\chi_i \rangle \end{aligned} f ∣ χ i ​ ⟩ = ε i ​ ∣ χ i ​ ⟩ ​
+와 같은 형태가 된다. 이 방정식을 하트리-포크 방정식(Hartree-Fock equation) 이라 한다. [8] 그런데 포크 연산자를 계산하기 위해선 다른 전자들의 χ \chi χ 를 알아야 한다. 그렇기에 위 방정식을 해석적으로 풀기는 매우 어렵고 후술할 basis set approach를 통해 Roothan 방정식으로 변환하여 풀게 된다.
+
+7. 물리적 의미 [편집]
+우리가 얻은 방정식의 의미를 살펴보자. 일단 χ i ( 1 ) = ψ i ( r 1 ) σ i \chi_i(1)=\psi_i(\textbf{r}_1)\sigma_i χ i ​ ( 1 ) = ψ i ​ ( r 1 ​ ) σ i ​ 이므로 스핀에 관한 부분을 먼저 계산해주면 r 1 \textbf{r}_1 r 1 ​ 에 관한 방정식이 되며 결과적으로 식은 ( − 1 2 ∇ 1 2 − ∑ α Z α r 1 α ) ψ i ( r 1 ) + [ ∑ j ≠ i ∫ ∣ ψ j ( r 2 ) ∣ 2 r 12 d r 2 ] ψ i ( r 1 ) − [ ∑ j ≠ i δ σ i σ j ∫ ψ j ∗ ( r 2 ) ψ i ( r 2 ) r 12 d r 2 ] ψ j ( r 1 ) = ε i ψ i ( r 1 ) \displaystyle \begin{aligned} \Bigg(-\frac{1}{2} \nabla_1^2-\sum\limits_{\alpha}\frac{Z_\alpha}{r_{1\alpha}}\Bigg)\psi_i(\textbf{r}_1)+\Bigg[\sum\limits_{j \neq i}\int\frac{|\psi_j(\textbf{r}_2)|^2}{r_{12}}d\textbf{r}_2\Bigg]\psi_i(\textbf{r}_1)-\Bigg[\sum\limits_{j \neq i}\delta_{\sigma_i\sigma_j}\int\frac{\psi_j^*(\textbf{r}_2)\psi_i(\textbf{r}_2)}{r_{12}}d\textbf{r}_2\Bigg]\psi_j(\textbf{r}_1)=\varepsilon_i\psi_i(\textbf{r}_1) \end{aligned} ( − 2 1 ​ ∇ 1 2 ​ − α ∑ ​ r 1 α ​ Z α ​ ​ ) ψ i ​ ( r 1 ​ ) + [ j  = i ∑ ​ ∫ r 12 ​ ∣ ψ j ​ ( r 2 ​ ) ∣ 2 ​ d r 2 ​ ] ψ i ​ ( r 1 ​ ) − [ j  = i ∑ ​ δ σ i ​ σ j ​ ​ ∫ r 12 ​ ψ j ∗ ​ ( r 2 ​ ) ψ i ​ ( r 2 ​ ) ​ d r 2 ​ ] ψ j ​ ( r 1 ​ ) = ε i ​ ψ i ​ ( r 1 ​ ) ​
+
+이 된다.
+
+첫번째 항이 (i번째 전자의 운동에너지) + (i번째 전자와 핵들간의 퍼텐셜 에너지) 임은 쉽게 알 수 있다.
+
+두번째 항은 고전 전자기학에서 점전하와 연속체 사이의 퍼텐셜 에너지가 V ( r ) = q 4 π ε 0 ∫ ρ ( r ′ ) ∣ r − r ′ ∣ d r ′ \displaystyle \begin{aligned} V(\mathbf{r}) =\frac{q}{4 \pi \varepsilon_{0}} \int \frac{\rho (\mathbf{r'}) }{ \left| \mathbf{r-r'} \right| } \, d\textbf{r}' \end{aligned} V ( r ) = 4 π ε 0 ​ q ​ ∫ ∣ r − r ′ ∣ ρ ( r ′ ) ​ d r ′ ​
+
+로 주워지고 [9] q ∣ ψ ∣ 2 q|\psi|^2 q ∣ ψ ∣ 2 가 전하 밀도로 해석될수 있음을 생각하면 i번째 전자와 나머지 전자 사이의 퍼텐셜 에너지를 평균낸 값임을 알 수 있다. [10]
+
+고전적인 해석이 존재하는 앞의 두 항들과는 달리 세번째 항은 고전적인 해석이 없으며 파울리 원리에 의해 생기는 순수 양자역학적 효과로 이해해야 한다. 파울리 배타 원리 에 의해 같은 스핀들은 공간적으로 가까이 접근하기가 힘들다. 이로 인해 다른 스핀들이 느끼는 쿨롱 힘보다 더 적은 힘을 받아야한다. 이러한 보정 항의 역할을 하는 것이 세번째 항이다. 해당 항은 서로 다른 스핀들 사이선 0이며 [11] 같은 스핀 끼리는 0이 아닌 적분값이 존재하여 파울리 배타 원리 의 예측과 동일한 방향과 동일한 방향으로 작동함을 알 수 있다. [12]
+
+이제 물리적 의미가 드러나게 방정식을 다시 써보자. 전자 밀도는 파동함수 의 성질을 생각하면 다음과 같이 주어짐을 알 수 있다. ρ ( r 2 ) = ∑ j ≠ i ∣ ψ j ( r 2 ) ∣ 2 \displaystyle \begin{aligned} \rho(\textbf{r}_2)=\sum\limits_{j \neq i} |\psi_j(\textbf{r}_2)|^2 \end{aligned} ρ ( r 2 ​ ) = j  = i ∑ ​ ∣ ψ j ​ ( r 2 ​ ) ∣ 2 ​
+
+그럼 쿨롱 퍼텐셜은 v Coul ( r 1 ) = ∫ ρ ( r 2 ) r 12 d r 2 \displaystyle \begin{aligned} v_{\textup{Coul}}(\textbf{r}_1) = \int \frac{\rho(\textbf{r}_2)}{r_{12}} d\textbf{r}_2 \end{aligned} v Coul ​ ( r 1 ​ ) = ∫ r 12 ​ ρ ( r 2 ​ ) ​ d r 2 ​ ​
+
+임을 알 수 있다. 교환 연산자에 대해서도 이러한 양을 정의할 수 있는데 [ ∫ ψ j ∗ ( r 2 ) ψ i ( r 2 ) r 12 d r 2 ] ψ j ( r 1 ) = [ ∫ ψ j ∗ ( r 2 ) ψ i ( r 2 ) ψ i ∗ ( r 1 ) ψ j ( r 1 ) ∣ ψ i ( r 1 ) ∣ 2 1 r 12 d r 2 ] ψ i ( r 1 ) \displaystyle \begin{aligned} \Bigg[\int\frac{\psi_j^*(\textbf{r}_2)\psi_i(\textbf{r}_2)}{r_{12}}d\textbf{r}_2\Bigg]\psi_j(\textbf{r}_1) = \Bigg[\int \frac{\psi_j^*(\textbf{r}_2)\psi_i(\textbf{r}_2)\psi_i^*(\textbf{r}_1)\psi_j(\textbf{r}_1)}{|\psi_i(\textbf{r}_1)|^2}\frac{1}{r_{12}}d\textbf{r}_2\Bigg]\psi_i(\textbf{r}_1) \end{aligned} [ ∫ r 12 ​ ψ j ∗ ​ ( r 2 ​ ) ψ i ​ ( r 2 ​ ) ​ d r 2 ​ ] ψ j ​ ( r 1 ​ ) = [ ∫ ∣ ψ i ​ ( r 1 ​ ) ∣ 2 ψ j ∗ ​ ( r 2 ​ ) ψ i ​ ( r 2 ​ ) ψ i ∗ ​ ( r 1 ​ ) ψ j ​ ( r 1 ​ ) ​ r 12 ​ 1 ​ d r 2 ​ ] ψ i ​ ( r 1 ​ ) ​
+
+임을 이용하면 교환 전자 밀도, 교환 퍼텐셜을 다음과 같이 정의할 수 있다. ρ ex ( r 1 , r 2 ) = ∑ j ≠ i [ δ σ i σ j ψ j ∗ ( r 2 ) ψ i ( r 2 ) ψ i ∗ ( r 1 ) ψ j ( r 1 ) ∣ ψ i ( r 1 ) ∣ 2 ] v ex ( r 1 ) = − ∫ ρ ex ( r 1 , r 2 ) r 12 d r 2 \displaystyle \begin{aligned} \rho_{\textup{ex}}(\textbf{r}_1, \textbf{r}_2) &= \sum\limits_{j \neq i} \Bigg[ \delta_{\sigma_i\sigma_j}\frac{\psi_j^*(\textbf{r}_2)\psi_i(\textbf{r}_2)\psi_i^*(\textbf{r}_1)\psi_j(\textbf{r}_1)}{|\psi_i(\textbf{r}_1)|^2}\Bigg] \\ \\ v_{\textup{ex}}(\textbf{r}_1) &= -\int\frac{\rho_{\textup{ex}}(\textbf{r}_1, \textbf{r}_2)}{r_{12}}d\textbf{r}_2 \end{aligned} ρ ex ​ ( r 1 ​ , r 2 ​ ) v ex ​ ( r 1 ​ ) ​ = j  = i ∑ ​ [ δ σ i ​ σ j ​ ​ ∣ ψ i ​ ( r 1 ​ ) ∣ 2 ψ j ∗ ​ ( r 2 ​ ) ψ i ​ ( r 2 ​ ) ψ i ∗ ​ ( r 1 ​ ) ψ j ​ ( r 1 ​ ) ​ ] = − ∫ r 12 ​ ρ ex ​ ( r 1 ​ , r 2 ​ ) ​ d r 2 ​ ​
+
+그리고 최종적으로 유효 전자 밀도와 하트리-포크 퍼텐셜을 다음과 같이 정의하면 ρ eff ( r 1 , r 2 ) = ρ ( r 2 ) − ρ ex ( r 1 , r 2 ) v HF ( r 1 ) = ∫ ρ eff ( r 1 , r 2 ) r 12 d r 2 \displaystyle \begin{aligned} \rho_{\textup{eff}}(\textbf{r}_1, \textbf{r}_2) &= \rho(\textbf{r}_2) - \rho_{\textup{ex}}(\textbf{r}_1, \textbf{r}_2) \\ \\ v_{\textup{HF}}(\textbf{r}_1) &= \int\frac{\rho_{\textup{eff}}(\textbf{r}_1, \textbf{r}_2)}{r_{12}}d\textbf{r}_2\end{aligned} ρ eff ​ ( r 1 ​ , r 2 ​ ) v HF ​ ( r 1 ​ ) ​ = ρ ( r 2 ​ ) − ρ ex ​ ( r 1 ​ , r 2 ​ ) = ∫ r 12 ​ ρ eff ​ ( r 1 ​ , r 2 ​ ) ​ d r 2 ​ ​
+
+을 정의하면 포크 연산자를 다음과 같이 쓸 수 있다. f ( r 1 ) = − 1 2 ∇ 1 2 − ∑ α Z α r 1 α + v HF ( r 1 ) \displaystyle \begin{aligned} f(\textbf{r}_1) = -\frac{1}{2} \nabla_1^2-\sum\limits_{\alpha}\frac{Z_\alpha}{r_{1\alpha}} + v_{\textup{HF}}(\textbf{r}_1) \end{aligned} f ( r 1 ​ ) = − 2 1 ​ ∇ 1 2 ​ − α ∑ ​ r 1 α ​ Z α ​ ​ + v HF ​ ( r 1 ​ ) ​
+
+즉 하트리-포크 방정식은 전자-전자 퍼텐셜에너지를 평균 내어 v HF ( r 1 ) v_{\textup{HF}}(\textbf{r}_1) v HF ​ ( r 1 ​ ) 라는 유효 퍼텐셜로 근사한 것이라 해석할 수 있으며 [13] [14] 고유치 ε i \varepsilon_i ε i ​ 는 이런 근사 하에서 얻어지는 오비탈의 에너지이다.
+
+8. 오비탈 에너지 [편집]
+ε i \varepsilon_i ε i ​ 가 각 오비탈의 에너지라면 ∑ a ε a \sum\limits_a \varepsilon_a a ∑ ​ ε a ​ 가 E HF E_{\textup{HF}} E HF ​ 와 같을 것이라 생각할 수 있다. 하지만 실제로 계산해보면 그렇지 않다.
+
+∑ a ε a = ∑ a ⟨ a ∣ h ∣ a ⟩ + ∑ a , b [ ⟨ a b ∣ a b ⟩ − ⟨ a b ∣ b a ⟩ ] \begin{aligned} \sum\limits_a \varepsilon_a = \sum\limits_{a} \langle a | h | a \rangle + \sum\limits_{a, b}[\langle ab | ab \rangle - \langle ab | ba \rangle] \end{aligned} a ∑ ​ ε a ​ = a ∑ ​ ⟨ a ∣ h ∣ a ⟩ + a , b ∑ ​ [⟨ ab ∣ ab ⟩ − ⟨ ab ∣ ba ⟩] ​
+
+E HF = ∑ a ⟨ a ∣ h ∣ a ⟩ + 1 2 ∑ a , b [ ⟨ a b ∣ a b ⟩ − ⟨ a b ∣ b a ⟩ ] = ∑ a ε a − 1 2 ∑ a , b [ ⟨ a b ∣ a b ⟩ − ⟨ a b ∣ b a ⟩ ] ≠ ∑ a ε a \begin{aligned} E_{\textup{HF}} = \sum\limits_{a} \langle a | h | a \rangle + \frac{1}{2}\sum\limits_{a, b}[\langle ab | ab \rangle - \langle ab | ba \rangle]=\sum\limits_a \varepsilon_a - \frac{1}{2}\sum\limits_{a, b}[\langle ab | ab \rangle - \langle ab | ba \rangle] \neq \sum\limits_a \varepsilon_a \end{aligned} E HF ​ = a ∑ ​ ⟨ a ∣ h ∣ a ⟩ + 2 1 ​ a , b ∑ ​ [⟨ ab ∣ ab ⟩ − ⟨ ab ∣ ba ⟩] = a ∑ ​ ε a ​ − 2 1 ​ a , b ∑ ​ [⟨ ab ∣ ab ⟩ − ⟨ ab ∣ ba ⟩]  = a ∑ ​ ε a ​ ​
+∑ a ε a \sum\limits_a \varepsilon_a a ∑ ​ ε a ​ 에서 빼줘야 하는 항이 무엇인지 생각하면 왜 그런지 알 수 있는데 전자-전자 상호작용을 두 번 센 꼴이라 다 더한 후 절반을 빼 줘야 분자의 총 에너지가 나온다.
+
+8.1. 쿠프만 정리 [편집]
+오비탈 에너지의 총합이 분자 전체의 에너지와 다르다면 ε i \varepsilon_i ε i ​ 에 어떤 물리적 의미를 붙일 수 있을까? 쿠프만 정리(Koopmans' Theorem) 에 따르면 ∣ χ i ⟩|\chi_i\rangle ∣ χ i ​ ⟩ 에서 전자를 제거하는데 드는 에너지, 즉 이온화 에너지는 − ε i -\varepsilon_i − ε i ​ 와 같다. 이를 증명해보자. 일단 N개의 전자로 이루어진 시스템이 있을 때 분자의 파동함수를 다음과 같이 쓰자 ∣ N Ψ 0 ⟩ = ∣ Ψ 0 ⟩ = ∣ χ 1 χ 2 ⋯ χ c ⋯ χ N ⟩ \displaystyle \begin{aligned} |^{N}\Psi_0 \rangle = |\Psi_0 \rangle= |\chi_1\chi_2\cdots\chi_c\cdots\chi_N \rangle \end{aligned} ∣ N Ψ 0 ​ ⟩ = ∣ Ψ 0 ​ ⟩ = ∣ χ 1 ​ χ 2 ​ ⋯ χ c ​ ⋯ χ N ​ ⟩ ​
+
+그리고 ∣ χ c ⟩|\chi_c\rangle ∣ χ c ​ ⟩ 에서 전자를 제거한 생태의 파동함수를 ∣ N − 1 Ψ c ⟩ = ∣ χ 1 χ 2 ⋯ χ c − 1 χ c + 1 ⋯ χ N ⟩ \displaystyle \begin{aligned} |^{N-1}\Psi_c \rangle = |\chi_1\chi_2\cdots\chi_{c-1}\chi_{c+1}\cdots\chi_N \rangle \end{aligned} ∣ N − 1 Ψ c ​ ⟩ = ∣ χ 1 ​ χ 2 ​ ⋯ χ c − 1 ​ χ c + 1 ​ ⋯ χ N ​ ⟩ ​
+
+로 쓰자. 여기서 이온의 파동함수는 중성 분자의 파동함수에서 크게 바뀌지 않는다는 근사(Frozen orbital approximation)를 도입하자. 그러면 이온화 에너지는 IE = N − 1 E c − N E 0 \displaystyle \begin{aligned}\textup{IE}= ^{N-1}E_c - ^{N}E_0 \end{aligned} IE = N − 1 E c ​ − N E 0 ​ ​
+
+이제는 에너지를 구한 뒤 위 값을 구하기만 하면 된다. N E 0 = ∑ a ⟨ a ∣ h ∣ a ⟩ + 1 2 ∑ a , b [ ⟨ a b ∣ a b ⟩ − ⟨ a b ∣ b a ⟩ ] N − 1 E c = ∑ a ≠ c ⟨ a ∣ h ∣ a ⟩ + 1 2 ∑ a ≠ c , b ≠ c [ ⟨ a b ∣ a b ⟩ − ⟨ a b ∣ b a ⟩ ] IE = N − 1 E c − N E 0 = − ⟨ c ∣ h ∣ c ⟩ − 1 2 ∑ a [ ⟨ a c ∣ a c ⟩ − ⟨ a c ∣ c a ⟩ ] − 1 2 ∑ b [ ⟨ c b ∣ c b ⟩ − ⟨ c b ∣ b c ⟩ ] = − ⟨ c ∣ h ∣ c ⟩ − ∑ a [ ⟨ a c ∣ a c ⟩ − ⟨ a c ∣ c a ⟩ ] = − ε c \displaystyle \begin{aligned} ^{N}E_0&=\sum\limits_{a} \langle a | h | a \rangle + \frac{1}{2}\sum\limits_{a, b}[\langle ab | ab \rangle - \langle ab | ba \rangle]\\^{N-1}E_c&=\sum\limits_{a\neq c} \langle a | h | a \rangle + \frac{1}{2}\sum\limits_{a\neq c, b\neq c}[\langle ab | ab \rangle - \langle ab | ba \rangle]\\ \textup{IE} &= ^{N-1}E_c - ^{N}E_0 = - \langle c | h | c \rangle - \frac{1}{2} \sum\limits_{a}[\langle ac | ac \rangle - \langle ac | ca \rangle]-\frac{1}{2}\sum\limits_{b}[\langle cb | cb \rangle - \langle cb | bc \rangle] \\&= - \langle c | h | c \rangle - \sum\limits_{a}[\langle ac | ac \rangle - \langle ac | ca \rangle] = - \varepsilon_c \end{aligned} N E 0 ​ N − 1 E c ​ IE ​ = a ∑ ​ ⟨ a ∣ h ∣ a ⟩ + 2 1 ​ a , b ∑ ​ [⟨ ab ∣ ab ⟩ − ⟨ ab ∣ ba ⟩] = a  = c ∑ ​ ⟨ a ∣ h ∣ a ⟩ + 2 1 ​ a  = c , b  = c ∑ ​ [⟨ ab ∣ ab ⟩ − ⟨ ab ∣ ba ⟩] = N − 1 E c ​ − N E 0 ​ = − ⟨ c ∣ h ∣ c ⟩ − 2 1 ​ a ∑ ​ [⟨ a c ∣ a c ⟩ − ⟨ a c ∣ c a ⟩] − 2 1 ​ b ∑ ​ [⟨ c b ∣ c b ⟩ − ⟨ c b ∣ b c ⟩] = − ⟨ c ∣ h ∣ c ⟩ − a ∑ ​ [⟨ a c ∣ a c ⟩ − ⟨ a c ∣ c a ⟩] = − ε c ​ ​
+
+이는 우리가 원하는 결과이다. 물론 분자에서 전자를 제거하면 당연히 오비탈의 에너지가 바뀌므로 근사일 뿐이지만 꽤 잘 맞으며 광전자 분광법(PES)에서 베이스가 된다.
+
+9. SCF Type [편집]
+후술할 SCF procedure에선 우리가 ψ i \psi_i ψ i ​ 들의 모양을 정해서 넣어주어야 한다. closed shell molecule [15] 의 경우 짝지은 두 전자의 ψ i \psi_i ψ i ​ 를 같게 두는데 이를 RHF(Restricted Hartree-Fock) 라 한다. 예시로 베릴륨 원자의 경우 RHF에선 파동함수를 다음과 같이 쓴다. ∣ Ψ 0 ⟩ = ∣ ψ 1 s α ψ 1 s β ψ 2 s α ψ 2 s β ⟩ \displaystyle \begin{aligned} |\Psi_0 \rangle = |\psi_{1s}^{\alpha}\psi_{1s}^{\beta}\psi_{2s}^{\alpha}\psi_{2s}^{\beta} \rangle \end{aligned} ∣ Ψ 0 ​ ⟩ = ∣ ψ 1 s α ​ ψ 1 s β ​ ψ 2 s α ​ ψ 2 s β ​ ⟩ ​
+
+open shell molecule의 경우 위 방법을 쓸 수 없으므로 다른 방법이 필요한데 ROHF(Restricted Open-shell Hartree-Fock) 의 경우 짝지은 전자의 경우 RHF처럼 같은 ψ i \psi_i ψ i ​ 를 부여하며 홀전자는 다른 ψ i \psi_i ψ i ​ 를 준다. 리튬 원자를 예시로 들면 ∣ Ψ 0 ⟩ = ∣ ψ 1 s α ψ 1 s β ψ 2 s α ⟩ \displaystyle \begin{aligned} |\Psi_0 \rangle = |\psi_{1s}^{\alpha}\psi_{1s}^{\beta}\psi_{2s}^{\alpha} \rangle \end{aligned} ∣ Ψ 0 ​ ⟩ = ∣ ψ 1 s α ​ ψ 1 s β ​ ψ 2 s α ​ ⟩ ​
+
+가 된다. 하지만 위 방법엔 문제점이 있는데 ψ 1 s α \psi_{1s}^{\alpha} ψ 1 s α ​ 와 ψ 2 s α \psi_{2s}^{\alpha} ψ 2 s α ​ 의 경우 스핀이 평행하므로 교환 퍼텐셜을 통한 상호작용이 존재하지만 ψ 1 s β \psi_{1s}^{\beta} ψ 1 s β ​ 의 경우 그렇지 못하다. 즉 ψ 1 s α \psi_{1s}^{\alpha} ψ 1 s α ​ 와 ψ 1 s β \psi_{1s}^{\beta} ψ 1 s β ​ 의 에너지는 다를 수밖에 없는데 ROHF의 경우 이 둘의 에너지를 같게 두었기에 이로 인한 오차가 발생할 수밖에 없다. 이를 해결하기 위해 UHF(Unrestricted open-shell Hartree-Fock) 에선 모든 오비탈의 모양을 다르게 둔다. 위에서 들었던 예시인 리튬 원자의 경우 UHF에선 다음과 같이 파동함수를 설정한다. ∣ Ψ 0 ⟩ = ∣ ψ a α ψ b β ψ c α ⟩ \displaystyle \begin{aligned} |\Psi_0 \rangle = |\psi_{a}^{\alpha}\psi_{b}^{\beta}\psi_{c}^{\alpha} \rangle \end{aligned} ∣ Ψ 0 ​ ⟩ = ∣ ψ a α ​ ψ b β ​ ψ c α ​ ⟩ ​
+
+아래의 그림은 위에서 설명한 3개의 방법을 그림으로 표현한 것이다.
+
+UHF의 경우 ψ i \psi_i ψ i ​ 가 RHF와 ROHF의 것보다 더 유연하므로 두 방법보다 더 정확한 결과를 내놓는다. 하지만 모든 ψ i \psi_i ψ i ​ 를 다르게 두었으므로 RHF, ROHF 보다 계산량은 2배로 늘어난다.
+
+RHF의 경우 ψ i \psi_i ψ i ​ 가 실질적으론 N / 2 N/2 N /2 개만 존재한다는 사실을 이용하여 식을 단순화 시킬 수 있는데 포크 연산자의 경우 f ( r 1 ) = h ( r 1 ) + ∑ a = 1 N / 2 [ 2 J a ( r 1 ) − K a ( r 1 ) ] \displaystyle \begin{aligned} f(\textbf{r}_1)=h(\textbf{r}_1)+\sum\limits_{a=1}^{N/2} [2J_{a}(\textbf{r}_1)-K_{a} (\textbf{r}_1) ] \end{aligned} f ( r 1 ​ ) = h ( r 1 ​ ) + a = 1 ∑ N /2 ​ [ 2 J a ​ ( r 1 ​ ) − K a ​ ( r 1 ​ )] ​
+
+가 되며 에너지의 경우 E 0 = 2 ∑ a = 1 N / 2 ⟨ a ∣ h ∣ a ⟩ + ∑ a = 1 N / 2 ∑ b = 1 N / 2 [ 2 ⟨ a b ∣ a b ⟩ − ⟨ a b ∣ b a ⟩ ] ε a = ⟨ a ∣ h ∣ a ⟩ + ∑ b = 1 N / 2 [ 2 ⟨ a b ∣ a b ⟩ − ⟨ a b ∣ b a ⟩ ] \displaystyle \begin{aligned} E_0 &= 2\sum\limits_{a=1}^{N/2} \langle a | h | a \rangle + \sum\limits_{a=1}^{N/2}\sum\limits_{b=1}^{N/2}[2\langle ab | ab \rangle - \langle ab | ba \rangle] \\ \varepsilon_a &= \langle a | h | a \rangle + \sum\limits_{b=1}^{N/2}[2\langle ab | ab \rangle - \langle ab | ba \rangle] \end{aligned} E 0 ​ ε a ​ ​ = 2 a = 1 ∑ N /2 ​ ⟨ a ∣ h ∣ a ⟩ + a = 1 ∑ N /2 ​ b = 1 ∑ N /2 ​ [ 2 ⟨ ab ∣ ab ⟩ − ⟨ ab ∣ ba ⟩] = ⟨ a ∣ h ∣ a ⟩ + b = 1 ∑ N /2 ​ [ 2 ⟨ ab ∣ ab ⟩ − ⟨ ab ∣ ba ⟩] ​
+
+가 된다.
+
+10. Roothaan 방정식 [편집]
+앞서 설명했듯이 하트리-포크 방정식을 직접 풀기는 어렵다. 그렇기에 원자 오비탈의 선형 결합으로 분자 오비탈을 구성할 것이다. 이를 LCAO-MO(Linear Combination of Atomic Orbitals - Molecular Orbital) 라 한다. 이를 수식으로 쓰면 ψ i ( r 1 ) = ∑ ν = 1 K C ν i ϕ ν ( r 1 ) \displaystyle \begin{aligned} \psi_i(\textbf{r}_1) = \sum_{\nu = 1}^K C_{\nu i}\phi_\nu (\textbf{r}_1) \end{aligned} ψ i ​ ( r 1 ​ ) = ν = 1 ∑ K ​ C ν i ​ ϕ ν ​ ( r 1 ​ ) ​
+
+( ϕ ν \phi_\nu ϕ ν ​ 는 원자 오비탈) 이제 이를 하트리-포크 방정식에 넣어보면 f ( r 1 ) ∑ ν = 1 K C ν i ϕ ν ( r 1 ) = ε i ∑ ν = 1 K C ν i ϕ ν ( r 1 ) \displaystyle \begin{aligned} f(\textbf{r}_1)\sum_{\nu = 1}^K C_{\nu i}\phi_\nu(\textbf{r}_1) = \varepsilon_i\sum_{\nu = 1}^K C_{\nu i}\phi_\nu(\textbf{r}_1) \end{aligned} f ( r 1 ​ ) ν = 1 ∑ K ​ C ν i ​ ϕ ν ​ ( r 1 ​ ) = ε i ​ ν = 1 ∑ K ​ C ν i ​ ϕ ν ​ ( r 1 ​ ) ​
+
+이제 양변에 ϕ μ ∗ ( r 1 ) \phi_\mu^*(\textbf{r}_1) ϕ μ ∗ ​ ( r 1 ​ ) 를 곱하고 적분하면 ∑ ν = 1 K ⟨ ϕ μ ∣ f ∣ ϕ ν ⟩ C ν i = ε i ∑ ν = 1 K ⟨ ϕ μ ∣ ϕ ν ⟩ C ν i \displaystyle \begin{aligned} \sum_{\nu = 1}^K \langle \phi_\mu | f | \phi_\nu \rangle C_{\nu i} = \varepsilon_i\sum_{\nu = 1}^K \langle \phi_\mu | \phi_\nu \rangle C_{\nu i} \end{aligned} ν = 1 ∑ K ​ ⟨ ϕ μ ​ ∣ f ∣ ϕ ν ​ ⟩ C ν i ​ = ε i ​ ν = 1 ∑ K ​ ⟨ ϕ μ ​ ∣ ϕ ν ​ ⟩ C ν i ​ ​
+
+가 된다. 이제 다음과 같은 행렬을 정의하자. F μ ν = ⟨ ϕ μ ∣ f ∣ ϕ ν ⟩ S μ ν = ⟨ ϕ μ ∣ ϕ ν ⟩ E i j = ε i δ i j \displaystyle \begin{aligned} F_{\mu \nu} = \langle \phi_\mu | f | \phi_\nu \rangle \quad S_{\mu \nu} = \langle \phi_\mu | \phi_\nu \rangle \quad E_{ij} = \varepsilon_i\delta_{ij} \end{aligned} F μν ​ = ⟨ ϕ μ ​ ∣ f ∣ ϕ ν ​ ⟩ S μν ​ = ⟨ ϕ μ ​ ∣ ϕ ν ​ ⟩ E ij ​ = ε i ​ δ ij ​ ​
+
+여기서 F \textbf{F} F 를 포크 행렬(Fock matrix), S \textbf{S} S 를 겹침 행렬(Overlap matrix), E \textbf{E} E 를 오비탈 에너지 행렬(Orbital energy matrix)이라 한다. 이렇게 행렬을 정의하면 다음과 같은 행렬 방정식을 얻을 수 있다. FC = SCE \displaystyle \begin{aligned} \textbf{FC} = \textbf{SCE} \end{aligned} FC = SCE ​
+
+이를 Roothaan equation 이라 한다.
+
+10.1. 밀도 행렬 [편집]
+전자 밀도와 관련된 밀도 행렬을 정의하면 식들을 이 행렬을 이용해 표현할 수 있다. 파동함수의 성질을 생각해보면 전자 밀도는 다음과 같다. ρ ( r ) = 2 ∑ a = 1 N / 2 ∣ ψ a ( r ) ∣ 2 \displaystyle \begin{aligned} \rho(\textbf{r}) = 2 \sum\limits_{a=1}^{N/2} |\psi_a(\textbf{r})|^2 \end{aligned} ρ ( r ) = 2 a = 1 ∑ N /2 ​ ∣ ψ a ​ ( r ) ∣ 2 ​
+
+이를 원자 오비탈의 이용하여 나타내자. 2 ∑ a = 1 N / 2 ∣ ψ a ( r ) ∣ 2 = 2 ∑ a = 1 N / 2 ∑ ν = 1 K C ν a ∗ ϕ ν ∗ ( r ) ∑ μ = 1 K C μ a ϕ μ ( r ) = ∑ ν = 1 K ∑ μ = 1 K [ 2 ∑ a = 1 N / 2 C ν a ∗ C μ a ] ϕ ν ∗ ( r ) ϕ μ ( r ) \displaystyle \begin{aligned} 2 \sum\limits_{a=1}^{N/2} |\psi_a(\textbf{r})|^2 = 2 \sum\limits_{a=1}^{N/2} \sum\limits_{\nu=1}^{K} C_{\nu a}^* \phi_{\nu}^*(\textbf{r}) \sum\limits_{\mu=1}^{K} C_{\mu a} \phi_{\mu}(\textbf{r}) = \sum\limits_{\nu=1}^{K} \sum\limits_{\mu=1}^{K} \Big[2\sum\limits_{a=1}^{N/2} C_{\nu a}^*C_{\mu a}\Big] \phi_{\nu}^*(\textbf{r})\phi_{\mu}(\textbf{r}) \end{aligned} 2 a = 1 ∑ N /2 ​ ∣ ψ a ​ ( r ) ∣ 2 = 2 a = 1 ∑ N /2 ​ ν = 1 ∑ K ​ C ν a ∗ ​ ϕ ν ∗ ​ ( r ) μ = 1 ∑ K ​ C μ a ​ ϕ μ ​ ( r ) = ν = 1 ∑ K ​ μ = 1 ∑ K ​ [ 2 a = 1 ∑ N /2 ​ C ν a ∗ ​ C μ a ​ ] ϕ ν ∗ ​ ( r ) ϕ μ ​ ( r ) ​
+
+대괄호로 묶은 항을 밀도 행렬(Density matrix) 로 정의한다. P μ ν = 2 ∑ a = 1 N / 2 C ν a ∗ C μ a P = 2 C C † \displaystyle \begin{aligned} P_{\mu \nu}=2\sum\limits_{a=1}^{N/2} C_{\nu a}^*C_{\mu a} \quad \textbf{P} = 2 \textbf{C} \textbf{C}^\dagger \end{aligned} P μν ​ = 2 a = 1 ∑ N /2 ​ C ν a ∗ ​ C μ a ​ P = 2 C C † ​
+
+위와 같은 양을 정의하게 되면 우리가 구하고자 하는 양을 밀도 행렬을 이용하여 나타낼 수 있다. 포크 행렬을 써보면 F μ ν = ⟨ ϕ μ ∣ h ∣ ϕ ν ⟩ + ∑ a = 1 N / 2 [ 2 ⟨ ϕ μ ∣ J a ∣ ϕ ν ⟩ − ⟨ ϕ μ ∣ K a ∣ ϕ ν ⟩ ] \displaystyle \begin{aligned} F_{\mu \nu} = \langle \phi_{\mu} | h | \phi_{\nu} \rangle + \sum\limits_{a=1}^{N/2} [2\langle \phi_{\mu} | J_a | \phi_{\nu} \rangle - \langle \phi_{\mu} | K_a | \phi_{\nu} \rangle] \end{aligned} F μν ​ = ⟨ ϕ μ ​ ∣ h ∣ ϕ ν ​ ⟩ + a = 1 ∑ N /2 ​ [ 2 ⟨ ϕ μ ​ ∣ J a ​ ∣ ϕ ν ​ ⟩ − ⟨ ϕ μ ​ ∣ K a ​ ∣ ϕ ν ​ ⟩] ​
+
+앞의 항을 일전자 해밀토니언 행렬(One-electron Hamiltonian matrix) 또는 코어 해밀토니언 행렬(Core-Hamiltonian matrix) 이라 부르며 H μ ν c H_{\mu \nu}^c H μν c ​ 로 표기한다. 두번째 항을 살펴보자. J a J_a J a ​ 와 K a K_a K a ​ 는 분자 오비탈에 관한 식이므로 이를 원자 오비탈에 관한 식으로 바꾸어주어야 한다. ∑ a = 1 N / 2 [ 2 ⟨ ϕ μ ∣ J a ∣ ϕ ν ⟩ − ⟨ ϕ μ ∣ K a ∣ ϕ ν ⟩ ] = ∑ a = 1 N / 2 [ 2 ⟨ μ a ∣ ν a ⟩ − ⟨ μ a ∣ a ν ⟩ ] = ∑ a = 1 N / 2 ∑ λ = 1 K ∑ σ = 1 K C λ a C σ a ∗ [ 2 ⟨ μ σ ∣ ν λ ⟩ − ⟨ μ σ ∣ λ ν ⟩ ] \displaystyle \begin{aligned} \sum\limits_{a=1}^{N/2} [2\langle \phi_{\mu} | J_a | \phi_{\nu} \rangle - \langle \phi_{\mu} | K_a | \phi_{\nu} \rangle] = \sum\limits_{a=1}^{N/2} [2\langle \mu a | \nu a\rangle - \langle \mu a | a \nu \rangle] = \sum\limits_{a=1}^{N/2} \sum\limits_{\lambda=1}^{K} \sum\limits_{\sigma=1}^{K} C_{\lambda a}C_{\sigma a}^*[2\langle \mu \sigma | \nu \lambda \rangle - \langle \mu \sigma | \lambda \nu \rangle] \end{aligned} a = 1 ∑ N /2 ​ [ 2 ⟨ ϕ μ ​ ∣ J a ​ ∣ ϕ ν ​ ⟩ − ⟨ ϕ μ ​ ∣ K a ​ ∣ ϕ ν ​ ⟩] = a = 1 ∑ N /2 ​ [ 2 ⟨ μ a ∣ ν a ⟩ − ⟨ μ a ∣ a ν ⟩] = a = 1 ∑ N /2 ​ λ = 1 ∑ K ​ σ = 1 ∑ K ​ C λa ​ C σ a ∗ ​ [ 2 ⟨ μ σ ∣ ν λ ⟩ − ⟨ μ σ ∣ λ ν ⟩] ​
+
+위 식은 밀도 행렬을 이용하여 표기할 수 있다. ∑ a = 1 N / 2 ∑ λ = 1 K ∑ σ = 1 K C λ a C σ a ∗ [ 2 ⟨ μ σ ∣ ν λ ⟩ − ⟨ μ σ ∣ λ ν ⟩ ] = ∑ λ = 1 K ∑ σ = 1 K P λ σ [ ⟨ μ σ ∣ ν λ ⟩ − 1 2 ⟨ μ σ ∣ λ ν ⟩ ] \displaystyle \begin{aligned} \sum\limits_{a=1}^{N/2} \sum\limits_{\lambda=1}^{K} \sum\limits_{\sigma=1}^{K} C_{\lambda a}C_{\sigma a}^*[2\langle \mu \sigma | \nu \lambda \rangle - \langle \mu \sigma | \lambda \nu \rangle] = \sum\limits_{\lambda=1}^{K} \sum\limits_{\sigma=1}^{K} P_{\lambda \sigma}[\langle \mu \sigma | \nu \lambda \rangle - \frac{1}{2} \langle \mu \sigma | \lambda \nu \rangle] \end{aligned} a = 1 ∑ N /2 ​ λ = 1 ∑ K ​ σ = 1 ∑ K ​ C λa ​ C σ a ∗ ​ [ 2 ⟨ μ σ ∣ ν λ ⟩ − ⟨ μ σ ∣ λ ν ⟩] = λ = 1 ∑ K ​ σ = 1 ∑ K ​ P λσ ​ [⟨ μ σ ∣ ν λ ⟩ − 2 1 ​ ⟨ μ σ ∣ λ ν ⟩] ​
+
+위 식을 G μ ν G_{\mu \nu} G μν ​ 로 표기하자 그러면 포크 행렬은 F μ ν = H μ ν c + G μ ν \displaystyle \begin{aligned} F_{\mu \nu} = H_{\mu \nu}^c + G_{\mu \nu} \end{aligned} F μν ​ = H μν c ​ + G μν ​ ​
+
+가 된다. 에너지 또한 밀도 행렬을 이용하여 표기할 수 있는데 E HF = 2 ∑ a = 1 N / 2 ⟨ a ∣ h ∣ a ⟩ + ∑ a = 1 N / 2 ∑ b = 1 N / 2 [ 2 ⟨ a b ∣ a b ⟩ − ⟨ a b ∣ b a ⟩ ] = ∑ a = 1 N / 2 ⟨ a ∣ h ∣ a ⟩ + ∑ a = 1 N / 2 ⟨ a ∣ h ∣ a ⟩ + ∑ a = 1 N / 2 ∑ b = 1 N / 2 [ 2 ⟨ a b ∣ a b ⟩ − ⟨ a b ∣ b a ⟩ ] = ∑ a = 1 N / 2 ⟨ a ∣ h ∣ a ⟩ + ∑ a = 1 N / 2 ⟨ a ∣ f ∣ a ⟩ = ∑ μ = 1 K ∑ ν = 1 K ∑ a = 1 N / 2 C ν a C μ a ∗ H μ ν c + ∑ μ = 1 K ∑ ν = 1 K ∑ a = 1 N / 2 C ν a C μ a ∗ F μ ν = 1 2 ∑ μ = 1 K ∑ ν = 1 K P ν μ H μ ν c + 1 2 ∑ μ = 1 K ∑ ν = 1 K P ν μ F μ ν = 1 2 Tr [ P ( H c + F ) ] \displaystyle \begin{aligned} E_{\textup{HF}} &= 2\sum\limits_{a=1}^{N/2} \langle a | h | a \rangle + \sum\limits_{a=1}^{N/2} \sum\limits_{b=1}^{N/2} [2\langle ab | ab \rangle - \langle ab | ba \rangle] \\ &= \sum\limits_{a=1}^{N/2} \langle a | h | a \rangle + \sum\limits_{a=1}^{N/2} \langle a | h | a \rangle + \sum\limits_{a=1}^{N/2} \sum\limits_{b=1}^{N/2} [2\langle ab | ab \rangle - \langle ab | ba \rangle] \\ &= \sum\limits_{a=1}^{N/2} \langle a | h | a \rangle + \sum\limits_{a=1}^{N/2} \langle a | f | a \rangle = \sum\limits_{\mu=1}^{K} \sum\limits_{\nu=1}^{K} \sum\limits_{a=1}^{N/2} C_{\nu a}C_{\mu a}^*H_{\mu \nu}^c + \sum\limits_{\mu=1}^{K} \sum\limits_{\nu=1}^{K} \sum\limits_{a=1}^{N/2} C_{\nu a}C_{\mu a}^*F_{\mu \nu} \\ &= \frac{1}{2} \sum\limits_{\mu=1}^{K} \sum\limits_{\nu=1}^{K} P_{\nu \mu} H_{\mu \nu}^c + \frac{1}{2} \sum\limits_{\mu=1}^{K} \sum\limits_{\nu=1}^{K} P_{\nu \mu}F_{\mu \nu}= \frac{1}{2}\textup{Tr}[\textbf{P}(\textbf{H}^c+\textbf{F} ) ] \end{aligned} E HF ​ ​ = 2 a = 1 ∑ N /2 ​ ⟨ a ∣ h ∣ a ⟩ + a = 1 ∑ N /2 ​ b = 1 ∑ N /2 ​ [ 2 ⟨ ab ∣ ab ⟩ − ⟨ ab ∣ ba ⟩] = a = 1 ∑ N /2 ​ ⟨ a ∣ h ∣ a ⟩ + a = 1 ∑ N /2 ​ ⟨ a ∣ h ∣ a ⟩ + a = 1 ∑ N /2 ​ b = 1 ∑ N /2 ​ [ 2 ⟨ ab ∣ ab ⟩ − ⟨ ab ∣ ba ⟩] = a = 1 ∑ N /2 ​ ⟨ a ∣ h ∣ a ⟩ + a = 1 ∑ N /2 ​ ⟨ a ∣ f ∣ a ⟩ = μ = 1 ∑ K ​ ν = 1 ∑ K ​ a = 1 ∑ N /2 ​ C ν a ​ C μ a ∗ ​ H μν c ​ + μ = 1 ∑ K ​ ν = 1 ∑ K ​ a = 1 ∑ N /2 ​ C ν a ​ C μ a ∗ ​ F μν ​ = 2 1 ​ μ = 1 ∑ K ​ ν = 1 ∑ K ​ P ν μ ​ H μν c ​ + 2 1 ​ μ = 1 ∑ K ​ ν = 1 ∑ K ​ P ν μ ​ F μν ​ = 2 1 ​ Tr [ P ( H c + F )] ​
+
+로 쓸 수 있다.
+
+11. Basis set [편집]
+Basis set은 파동 함수를 구성하는 수학적 함수들의 집합이다. 앞서 밝혔듯 각 MO들은 basis function들의 선형결합으로 표현되며 계수들은 후술할 SCF method를 통해 구해진다. infinite basis set을 쓰면 하트리-포크 방정식의 해를 정확하게 얻어낼 수 있지만 컴퓨터에선 infinite basis set을 사용할 수 없으므로 모든 계산 과정에선 참값에 가까운 결과를 주면서 효율적인 계산이 가능한 함수들을 선택하는 절차부터 시작하게 된다. [16]
+
+하트리-포크 방정식에 등장하는 이전자 적분들은 갯수는 basis function의 갯수가 N일 경우 N 4 N^4 N 4 에 비례한다. 즉 오차를 줄이기 위해 무작정 basis function의 수를 늘릴경우 계산 량이 폭발적으로 증가하며 그렇다고 수를 너무 낮추게되면 정확도가 떨어지는 딜레마에 빠지게 된다. 그렇기에 분자의 화학적 특성에 잘 관찰하여 효율적인 basis set을 결정하는게 매우 중요하다.
+
+Basis function으로 주로 사용되는 것이 STO(Slater-Type Orbital) 과 GTO(Gaussian-Type Orbital) 이다. 원자 a에 중심을 둔 STO의 경우 S n l m ( r a , θ a , ϕ a ) = ( 2 ζ ) n + 1 / 2 [ ( 2 n ) ! ] 1 / 2 r a n − 1 e − ζ r a Y l m ( θ a , ϕ a ) \displaystyle \begin{aligned} S_{nlm}(r_a, \theta_a, \phi_a) = \frac{(2 \zeta) ^ {n + 1/2}}{[(2n)! ] ^ {1/2}} {r_a}^{n-1} e ^ {-\zeta r_a}Y^m_l(\theta_a, \phi_a) \end{aligned} S n l m ​ ( r a ​ , θ a ​ , ϕ a ​ ) = [( 2 n )! ] 1/2 ( 2 ζ ) n + 1/2 ​ r a ​ n − 1 e − ζ r a ​ Y l m ​ ( θ a ​ , ϕ a ​ ) ​
+
+로 표현된다. 해당 함수는 수소 원자 모형 의 해처럼 r r r 이 증가할수록 값이 지수적으로 감소하며 핵 근처에서 생기는 첨점을 잘 표현한다는 장점이 있다. 또한 두 원자 사이의 겹침 적분도 쉽게 계산된다는 장점으로 Hückel method나 Extended Hückel method와 같이 기초적인 MO theory에선 주로 쓰이지만 하트리 포크 방법에서 나오는 이전자 적분, 그중에서도 각 함수들이 모두 다른 핵에 중심을 두고 있을 때(사중심 적분) [17] 계산이 매우 오래 걸리므로 순수 STO만으론 계산을 진행하지 않는다.
+
+위와 같은 STO의 이러한 단점을 보완하기 위해 제안된 함수가 GTO이다. 원자 b에 중심을 둔 GTO의 꼴은 다음과 같다. g i j k = ( 2 α π ) 3 / 4 [ ( 8 α ) i + j + k i ! j ! k ! ( 2 i ) ! ( 2 j ) ! ( 2 k ) ! ] 1 / 2 x b i y b j z b k e − α r b 2 \displaystyle \begin{aligned} g_{ijk} = \left( \frac{2 \alpha}{\pi} \right) ^ {3/4} \left[ \frac{(8 \alpha)^{i+j+k}i!j!k!}{(2i)!(2j)!(2k)!} \right] ^ {1/2} x_b^i y_b^j z_b^k e^{-\alpha r_b^2}\end{aligned} g ij k ​ = ( π 2 α ​ ) 3/4 [ ( 2 i )! ( 2 j )! ( 2 k )! ( 8 α ) i + j + k i ! j ! k ! ​ ] 1/2 x b i ​ y b j ​ z b k ​ e − α r b 2 ​ ​
+
+여기서 i , j , k i, j, k i , j , k 는 음이 아닌 정수이다. 이때 i + j + k = 0 i+j+k=0 i + j + k = 0 일때의 GTO를 s-type Gaussian, i + j + k = 1 i+j+k=1 i + j + k = 1 일때의 GTO를 p-type Gaussian, i + j + k = 2 i+j+k=2 i + j + k = 2 일때의 GTO를 d-type Gaussian이라 한다. [18] [19] GTO의 경우 STO의 단점을 해소해주는데 서로 다른 원자에 중심을 둔 두 GTO의 곱은 다른 위치에 중심을 둔 GTO가 되기 때문이다. 예시로 중심이 각각 R A , R B \textbf{R}_A, \textbf{R}_B R A ​ , R B ​ 인 s-type GTO는 ϕ 1 = C 1 e − α ∣ r − R A ∣ 2 , ϕ 2 = C 2 e − β ∣ r − R B ∣ 2 \phi_1 = C_1e^{-\alpha|\textbf{r} - \textbf{R}_A|^2}, \phi_2 = C_2e^{-\beta|\textbf{r} - \textbf{R}_B|^2} ϕ 1 ​ = C 1 ​ e − α ∣ r − R A ​ ∣ 2 , ϕ 2 ​ = C 2 ​ e − β ∣ r − R B ​ ∣ 2 로 표현되면 곱은 중심이 R P = α R A + β R B α + β \textbf{R}_P = \frac{\alpha \textbf{R}_A + \beta \textbf{R}_B}{\alpha + \beta} R P ​ = α + β α R A ​ + β R B ​ ​ 인 GTO임은 쉽게 알 수 있다. 이러한 성질 때문에 사중심 적분이 이중심 적분으로 바뀌며 이를 이용하여 계산 시간을 줄일 수 있다. 하지만 GTO의 경우 r = 0 r = 0 r = 0 에서 cusp가 존재하지 않으므로 핵 주위의 운동을 잘 표현하지 못하며 지수에 r 2 r^2 r 2 이 있으므로 너무 빨리 함숫값이 감소한다는 문제점이 있다. 그렇기에 STO를 GTO의 선형결합으로 나타내어 두 함수들의 장점을 취하는 방법을 사용한다.
+
+GTO의 장점(빠른 계산)과 STO의 장점(파동 함수의 특징을 잘 표현)을 결합하기 위해 대부분의 basis set에선 STO를 GTO의 선형 결합으로 근사하는 방법을 사용한다. ϕ ( x , y , z ; α , i , j , k ) = ∑ a = 1 M c a g i j k ( x , y , z ; α a ) \displaystyle \begin{aligned} \phi (x, y, z; \alpha , i, j ,k) = \sum\limits_{a = 1}^{M} c_{a} g_{ijk}(x, y, z; \alpha_a) \end{aligned} ϕ ( x , y , z ; α , i , j , k ) = a = 1 ∑ M ​ c a ​ g ij k ​ ( x , y , z ; α a ​ ) ​
+
+여기서 M M M 이 선형 결합할 가우시안의 수이며 계수 c a c_{a} c a ​ 의 경우 ϕ \phi ϕ 과 최대한 비슷한 모양을 하며 정규화되도록 최적화시키게 된다. Basis function이 위와 같이 가우시안의 선형결합으로 표현되었다면 이를 ‘contracted’ basis function이라 부르며 각각의 가우시안을 ‘primitive’ Gaussian이라 부른다.
+
+모든 AO들을 단 1개의 STO로 표현 시 이를 minimal basis set이라 부르며 이를 N개의 primitive Gaussian으로 근사 시 해당 basis set을 STO-NG 로 표현한다. 해당 basis set은 AO를 표현하기엔 적절하지 못하며 2개 이상의 STO의 선형결합으로 AO를 표현하는 것이 더 적절하다. 2개를 쓴다면 double-zeta(DZ) basis set이 되며 3개를 쓴다면 triple-zeta(TZ) basis set가 되며 갯수는 어떠한 자연수라도 될 수 있지만 너무 늘릴 시 계산랑이 너무 많아지므로 6개 이하를 주로 사용한다.
+
+대부분의 core orbital들은 화학 결합에 거의 참여하지 않는다. 그렇기에 core orbital들은 1개의 STO로, valance orbital들은 여러개의 STO로 표현하면 계산량을 줄이면서 정확도는 거의 그대로 유지할 수 있다. 이러한 basis set을 split-valance(SV) basis set이라 하며 valance orbital을 몇개의 STO로 표현할 것인가에 따라서 VDZ, VTZ, VQZ ... 가 된다.
+
+Pople basis set에선 위와 같은 SV basis set을 가우시안의 선형 결합을 통해 표현한다. VDZ의 경우 X-YZG라 표기하며 X의 경우 core orbital을 몇개의 가수시안으로 표기할 것인지를 나타낸다. Y와 Z의 경우 valance orbital에 관한 정보를 담고 있으며 STO를 몇개의 가우시안으로 근사할 것인지를 나타낸다. 예를 들어 주로 쓰이는 6-31G의 경우 core orbital을 1개의 STO로 표현하며 이를 6개의 가우시안으로 근사하며 valance orbital의 경우 DZ로 표현하며 1개의 STO는 3개의 가우시안, 나머지 STO는 1개의 가우시안으로 근사할 것이라는 것을 의미한다. VTZ라면 X-YZWG라 표기하며 VQZ라면 X-YZWVG로 표현된다.
+
+위와 같은 basis set만으로는 분자의 성질들을 표현하기 어려운데 그 예시가 암모니아 분자의 구조이다. 우리는 암모니아가 삼각뿔 형태를 가지며 삼각 평면 구조는 inversion이 일어날 때 전이 상태의 구조임을 알고 있다. 하지만 HF 계산에선 오히려 삼각 평면 구조의 에너지가 삼각뿔 형태보다 더 낮은것으로 계산된다. 이러한 문제는 원자에 중심을 둔 s, p 오비탈로는 삼각형 기하구조의 파동함수를 표현하기엔 수학적으로 유연하지 못하다는 점 때문에 일어난다. 질소가 원자 상태로 있을 때의 오비탈들은 수소 원자들이 접근하면서 점점 뒤틀리기 시작한다. 수소 원자와 질소 원자의 핵 사이에 분포할 확률이 더 커지며 그 반대 부분에선 확률이 작아진다. 원자 상태에선 s, p 오비탈 만으로도 잘 표현이 되지만 분자 오비탈에선 이러한 뒤틀림을 표현하기 위해 수학적으로 유연한 basis function이 필요하다. 이를 위하여 오비탈의 각운동량 양자수 l l l 값보다 1 큰 오비탈을 추가해 줌으로써 유연성을 늘리는데 그 예시로 s오비탈의 경우 p오비탈을, p오비탈의 경우 d오비탈을 추가해준다. 이때 추가해주는 함수들을 polarization function 이라 부르며 이러한 함수들이 어떻게 파동함수의 뒤틀림을 표현할 수 있는지는 아래 그림을 통해 쉽게 이해할 수 있다.
+
+수소나 헬륨 이외의 원자들에 polarization function을 추가할 경우 *를 이용하여 추가하였음을 표시한다. 예시로 6-31G basis set에서 수소나 헬륨 이외의 원자들에 polarization function을 추가하였다면 6-31G*라 표기하며 수소나 헬륨 원자들에도 추가해주었다면 *을 하나 더 추가해 6-31G**로 표기한다.
+
+음이온이나 수소 결합 이 존재하는 화합물의 경우 핵에서 멀리 떨어진 거리에서도 꽤 큰 전자 확률 밀도가 존재한다. Basis set이 이러한 사실을 표현할 수 없을 경우에는 계산 결과와 실제 값 사이에 큰 오차가 발생할 수 있으며 이렇게 먼 거리의 전자 밀도를 표현하기 위해서 s나 p type 가우시안의 지수 α \alpha α 를 매우 작은 수(0.01에서 0.1 사이)로 설정한 (highly) diffuse function 을 추가해주어 정확도를 높인다. polarization function과 비슷하게 수소나 헬륨 이외의 원자들에 diffuse function ( s , p x , p y , p z ) (s, p_x, p_y, p_z) ( s , p x ​ , p y ​ , p z ​ ) 을 추가할 경우 +를 이용하여 추가하였음을 표시한다. 예시로 6-31G basis set에서 수소나 헬륨 이외의 원자들에 diffuse function을 추가하였다면 6-31+G라 표기하며 수소나 헬륨 원자들에도 diffuse function s s s 추가해주었다면 +를 하나 더 추가해 6-31++G로 표기한다.
+
+후술할 electron correlation을 고려하는 계산에선 앞서 설명한 6-31G* 나 6-31G** 보다 더 큰 basis set을 사용하는데 보통 large basis set이라 하면 각 원자마다 2개 이상dml polarization function을 사용한다. 이 경우 위에서 설명한 *을 이용한 표기법으론 표기할 수 없고 보통 6-311G++(3df, 3pd)로 표시하는데 +는 위에서 설명한 diffuse function을 가리키며 괄호 안의 내용은 polarization function에 관한 정보이다. 3df는 수소나 헬륨 이외의 원자들에 5개의 d orbital 세트를 3개, 7개의 f orbital 세트를 1개 추가한다는 뜻이며 3pd의 경우 수소나 헬륨 원자들에 3개의 p orbital 세트를 3개, 5개의 d orbital 세트를 1개 추가한다는 뜻이다.
+
+위와 같은 basis set을 Pople (-style) basis set이라 하며 이외에도 electron correlation method에서 사용되는 correlation-consistent basis set [20] , 여러 계산에서 광범위하게 쓰이는 Karlsruhe basis set [21] 등 수많은 basis set이 있고 이에 관한 더 깊은 내용들에 대해 공부하고 싶은 사람들은 전공 책들을 참고하길 바란다.
+
+12. SCF procedure [편집]
+앞서 설명했듯이 하트리-포크 방정식은 연립 적분 방정식이기에 해석적으로 풀기가 매우 어렵다. 그렇기에 iteration을 통해 Roothaan 방정식을 푸는 방법을 사용한다.
+
+우선 분자(혹은 이온)의 종류와 basis set을 정하였다면 원자 오비탈 { ϕ ν } \{\phi_\nu \} { ϕ ν ​ } , 분자의 전자수 N은 정해진다. 그리고 F \textbf{F} F 는 { ϕ ν } \{\phi_\nu \} { ϕ ν ​ } 와 C \textbf{C} C 가 정해지면 자동으로 값이 결정되며 S \textbf{S} S 는 그람-슈미트 과정 등을 통해 단위 행렬로 취급할 수 있으므로 결국 C \textbf{C} C 와 E \textbf{E} E 를 구하는 문제로 환원된다. 이를 구하기 위해 일단 C \textbf{C} C 를 임의의 값을 가진 행렬 C 0 \textbf{C}_0 C 0 ​ 로 가정해보자. [22] 행렬 F \textbf{F} F 는 위에서 언급했듯이 C \textbf{C} C 의 값이 정해진다면 자동으로 값이 정해진다. 그렇기에 행렬 E \textbf{E} E 는 다음과 같이 쓸 수 있다. C 0 † F 0 C 0 = E \displaystyle \begin{aligned} \textbf{C}_0 ^ \dagger \textbf{F}_0 \textbf{C}_0 = \textbf{E} \end{aligned} C 0 † ​ F 0 ​ C 0 ​ = E ​
+
+하지만 C \textbf{C} C 를 C 0 \textbf{C}_0 C 0 ​ 로 가정하여 넣었기에 E \textbf{E} E 는 실제 값과도 다를 것이고 대각 행렬도 아닐 것이다. 하지만 새 행렬 C 1 \textbf{C}_1 C 1 ​ 를 F 0 \textbf{F}_0 F 0 ​ 를 대각화 하는 행렬로 정의한다면 E \textbf{E} E 또한 대각 행렬이 될 것이다. 하지만 이 과정에서 C \textbf{C} C 가 C 0 \textbf{C}_0 C 0 ​ 에서 C 1 \textbf{C}_1 C 1 ​ 으로 변했으므로 F \textbf{F} F 또한 F 0 \textbf{F}_0 F 0 ​ 에서 ( C 1 \textbf{C}_1 C 1 ​ 을 통해 계산한) F 1 \textbf{F}_1 F 1 ​ 로값이 변한다. 즉 C 1 \textbf{C}_1 C 1 ​ 은 F 1 \textbf{F}_1 F 1 ​ 을 대각화 시키지 못할것이다. 하지만 위 과정을 계속 반복한다면 언젠간 C n \textbf{C}_n C n ​ 이 F n \textbf{F}_n F n ​ 을 대각화할 수 있게, 즉 해에 가까워질 것이라 기대할 수 있다. 위와 같은 방법으로 C \textbf{C} C 를 얻는다면 이를 통해 E \textbf{E} E 또한 구할 수 있으므로 최종적으로 원하는 값들을 전부 얻어낼 수 있다. 이처럼 입력과 출력이 자체 일관성(self-consistency)을 가질때까지 계산을 계속하기에 위 방식을 Self-Consistent Field method(SCF) 라 부른다.
+
+위 과정을 정리하자면 다음과 같다.
+- 풀고자 하는 분자를 정하여 { R } \{ \textbf{R} \} { R } , { Z α } \{Z_\alpha\} { Z α ​ } , N을 얻고 basis set의 종류 또한 설정한다.
+- basis들이 직교규격화 되어있지 않으면 그람-슈미트 과정 같은 과정을 통해 그렇게 하도록 만들어준다.
+- ψ i = ∑ μ C μ i ϕ μ \psi_i = \sum\limits_{\mu}C_{\mu i}\phi_{\mu} ψ i ​ = μ ∑ ​ C μ i ​ ϕ μ ​ 에서 C μ i C_{\mu i} C μ i ​ 를 추정하여 넣어준다.
+- H μ ν c H_{\mu \nu}^c H μν c ​ 와 P , ⟨ μ ν ∣ σ λ ⟩ \textbf{P}, \langle \mu \nu | \sigma \lambda \rangle P , ⟨ μν ∣ σ λ ⟩ 를 계산하여 F μ ν F_{\mu \nu} F μν ​ 를 얻는다.
+- Roothaan equation FC = CE \textbf{FC} = \textbf{CE} FC = CE ( S \textbf{S} S 는 직교규격화를 했기에 단위행렬이 된다.)에서 C † FC = E \textbf{C}^{\dagger}\textbf{FC} = \textbf{E} C † FC = E 를 얻는다. 여기서 F \textbf{F} F 를 대각화 하는 C new \textbf{C}_{\textup{new}} C new ​ 를 찾는다.
+- C new \textbf{C}_{\textup{new}} C new ​ 를 통해 P new \textbf{P}_{\textup{new}} P new ​ 를 얻는다.
+- 만약 설정한 기준 하에서 P old = P new \textbf{P}_{\textup{old}} = \textbf{P}_{\textup{new}} P old ​ = P new ​ 로 취급할 수 있다면 계산을 멈춘다. 마지막에 얻은 C \textbf{C} C 를 통해 MO의 모양을 얻고 E \textbf{E} E 를 통해 MO의 에너지를 얻는다.
+- P old ≠ P new \textbf{P}_{\textup{old}} \neq \textbf{P}_{\textup{new}} P old ​  = P new ​ 라면 4번으로 돌아가 P old = P new \textbf{P}_{\textup{old}} = \textbf{P}_{\textup{new}} P old ​ = P new ​ 가 될때까지 반복한다.
+
+이를 그림으로 나타내면 다음과 같다.
+
+13. Population analysis와 결합 차수 [편집]
+
+14. 분자의 전기적 성질 [편집]
+
+14.1. 전기 퍼텐셜 [편집]
+
+14.2. 전하량 [편집]
+
+15. Localized MO [편집]
+
+16. 한계 [편집]
+가벼운 원자들의 에너지를 하트리-포크 방법으로 계산 시 오차는 대략 0.5% 정도로 작아 보일수도 있지만 값을 그대로 사용하기엔 무리가 있다. 예시로 탄소 원자의 경우 총 에너지가 약 − 1000 eV -1000 \textup{eV} − 1000 eV 정도인데 1000 eV 1000 \textup{eV} 1000 eV 의 0.5%는 5 eV 5 \textup{eV} 5 eV 로 거의 공유결합 하나에 맞먹는 오차가 나오게 된다. [23] 이러한 오차가 나오는 이유로 다음과 같은 5기지 요인을 꼽을 수 있다.
+- 보른-오펜하이머 근사로 인한 오차
+- 상대론적 효과
+- incomplete한 basis set을 사용
+- 전자간 반발을 평균 장으로 근사함
+- 특정 계는 단일 슬레이터 행렬식으로 표현하기 부적절 할 수 있음
+
+바닥 상태 분자의 경우 1번, 가벼운 원소의 경우 2번 요인은 무시할만한 수준이고 3번 또한 외삽 같은 방법을 통해 어느정도 해결이 가능하다. 즉 4, 5번 요인이 오차의 주된 원인이며 이 둘을 묶어 electron correlation 이라 정의한다. 그리고 이러한 electron correlation을 고려하기 위한 여러 방법들을 묶어 Post-Hartree-Fock method 또는 Electron correlation method 이라 부른다.
+
+위 사실들을 고려하여 correlation energy 를 다음과 같이 정의한다. E corr ≡ E nonrel − E HF \displaystyle \begin{aligned} E_{\textup{corr}} \equiv E_{\textup{nonrel}} - E_{\textup{HF}} \end{aligned} E corr ​ ≡ E nonrel ​ − E HF ​ ​
+
+여기서 E nonrel E_{\textup{nonrel}} E nonrel ​ 는 비상대론적인 영역에서 얻어진 정확한 에너지, E HF E_\textup{HF} E HF ​ 는 complete basis set을 사용하여 하트리-포크 방정식을 풀었을 때 얻어지는 에너지이다. 위 식과 같이 E corr E_{\textup{corr}} E corr ​ 를 정의함으로써 electron correlation의 크기를 정량화 할 수 있다. [24] E corr E_{\textup{corr}} E corr ​ 는 원자 번호가 커질수록 커지며 다음과 같은 관계가 있다. E corr ≈ − 0.0170 n 1.31 ( 27.2 eV ) \displaystyle \begin{aligned} E_{\textup{corr}} \approx -0.0170n^{1.31}(27.2 \textup{eV}) \end{aligned} E corr ​ ≈ − 0.0170 n 1.31 ( 27.2 eV ) ​
+
+Electron correlation 중 4번과 같은 효과를 Weak correlation 또는 Dynamic correlation 이라 한다. 전자들은 반발력 때문에 서로 영향을 주고받으며 움직이지만, 하트리-포크 방법에서는 평균 전자 밀도만 고려하고 개별적인 전자 간 상호작용은 제대로 반영하지 못하며 정확한 계산을 위해선 이러한 효과를 고려해야한다. Weak correlation을 고려하기 위해 여러 방법들이 개발되었으며 아래는 그중 가장 많이 사용되는 방법들에 대한 설명이다.
+- CI(Configuration Interaction Method) 에선 파동함수에 들뜬 상태의 슬레이터 행렬식을 추가하여 정확도를 높인다. 모든 들뜬 상태를 추가하는 방법을 Full-CI 라 하는데 정확도는 당연히 높겠지만 [25] 계산량이 안드로메다 로 가버리기에 큰 분자엔 적용시킬 수 없고 몇개만 골라서 넣는다(Truncated CI). Singly excited state만 추가하는 CIS로 시작하여 Doubly excited state도 추가한 CISD, 고차항을 더 추가할수록 CISDT, CISDTQ...로 계속해서 나아갈 수 있지만 당연히 계산 비용문제로 어느 정도에서 끊는다. 물론 저 순서대로 들뜬 상태를 추가할 필요는 없고 Doubly excited state만 넣기도 하며(CID) 부분적으로 차있는 오비탈(Active Space)만으로 CI를 할수도 있다(Complete Active Space CI, CASCI). 어떠한 오비탈을 계산에 고려하는지에 따라 여러 이론이 존재한다.
+- MP(Møller–Plesset perturbation theory) [26] 에선 ∑ m = 1 N f ( m ) \sum\limits^{N}_{m = 1}f(m) m = 1 ∑ N ​ f ( m ) 을 비섭동 해밀토니언, H e − ∑ m = 1 N f ( m ) \mathcal{H}_{\textup{e}}-\sum\limits^{N}_{m = 1}f(m) H e ​ − m = 1 ∑ N ​ f ( m ) 를 섭동 으로 처리하여 고차 섭동을 계산한다. 일차 섭동은 0이라 이차 섭동부터 보정이 존재한다. N차 섭동까지 고려한 방법을 MPN이라 표현하며 주로 MP2, MP3, MP4 수준의 계산이 쓰인다. 그 이상으로 갈수록 계산량도 너무 커지도 결과값이 참값에 수렴하지 않는 경우도 있기에 잘 쓰이진 않는다. Closed Shell 분자의 바닥 상태 특성을 매우 높은 정확도로, (CI보다)빠르게 예측할 수 있지만 구조가 평형상태의 많이 벗어났거나 들뜬 상태에선 사용할 수 없다.
+- CC(Coupled Cluster Method) 에선 n차수까지의 들뜬 상태 연산자를 연속적으로 적용함으로서 나오는 행렬식만을 골라내서 계산하는 방법이다. 보통 CCSD(T)라 표기되는, 2차수까지의 파동함수를 구한 후 이를 바탕으로 섭동론 으로 3차수의 에너지를 예측하는 방법이 사실상 표준 화학결합의 기술로 알려져 있다.
+- DFT(Density Functional Theory)
+밀도범함수 이론 참고
+
+Electron correlation 중 5번과 같은 효과를 Strong correlation 또는 Static correlation 이라 한다. 이는 분자 내에서 낮은 에너지의 들뜬 상태가 있거나 결합이 깨질 때 중요하게 작용한다. 이러한 상황에선 단일 슬레이터 행렬식으로 파동함수를 표현하는 것은 부적절하며 여러 슬레이터 행렬식의 선형 결합으로 나타냐어야 한다. ∣ Ψ MCSCF ⟩ = ∑ i c i ∣ Ψ i ⟩ \displaystyle \begin{aligned} | \Psi_\textup{MCSCF} \rangle = \sum\limits_i c_i | \Psi_i \rangle \end{aligned} ∣ Ψ MCSCF ​ ⟩ = i ∑ ​ c i ​ ∣ Ψ i ​ ⟩ ​
+
+여기서 계수 c i c_i c i ​ 와 슬레이터 행렬식 ∣ Ψ i ⟩| \Psi_i \rangle ∣ Ψ i ​ ⟩ 을 동시에 optimization해야 한다. 여기서도 orbital set i i i 에 어떠한 오비탈을 넣을지에 따라서 결과가 달라지게 된다. 주로 Active Space를 orbital set으로 정하여 계산하는 CASSCF(Complete Active Space SCF) 등이 주로 쓰인다.
+
+Dynamic correlation과 Static correlation을 모두 고려하기 위한 방법으론 MCSCF계산에서 나온 오비탈들로 CI, MP, CC계산을 진행하는 방법을 사용한다. 이를 Multireference Method(MR)이라 하며 적용시킬 방법의 이름을 뒤에 붙인다. CI와 결합시 MRCI, MP와 결합시 MRPT, CC와 결합시 MRCC라 불린다.
+
+17. 관련 문서 [편집]
+- 화학 관련 정보
+- 분자 오비탈
+- 슈뢰딩거 방정식
+- 변분 원리
+- 양자역학
+- 오비탈
+- 밀도범함수 이론
+
+[ 남동구알바 쿠팡
+www.coupang.com v-if
+[ [ 로켓배송 ] [ 로켓직구 ] [ 골드박스 ] [ 로켓프레시 ] ]
+흥미진진한 남동구알바, 밤새도록 읽는 재미에 빠져보세요.
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 인천논현동 맛집 소문난껍데기
+map.naver.com/p/entry/place/1943388597 v-if
+여기 껍데기 안 먹어봤다는 건 인생의 반을 손해 본 거예요! 동네 맛집의 자부심!
+
+]
+
+[1] 착화합물, 들뜬 상태 예측 등 [2] 통칭 Post Hartree-Fock Methods [3] 여기서 χ i \chi_i χ i ​ 는 스핀 오비탈( = ψ i σ i = \psi_i \sigma_i = ψ i ​ σ i ​ )을 나타낸다. [4] Ψ e ( 1 , ⋯ , i , ⋯ , j , ⋯ , N ) = − Ψ e ( 1 , ⋯ , j , ⋯ , i , ⋯ , N ) \Psi_e(1, \cdots ,i, \cdots, j, \cdots, N) = - \Psi_e(1, \cdots ,j, \cdots, i, \cdots, N) Ψ e ​ ( 1 , ⋯ , i , ⋯ , j , ⋯ , N ) = − Ψ e ​ ( 1 , ⋯ , j , ⋯ , i , ⋯ , N ) [5] '리튬의 2s 오비탈' 같은 문장도 저 가정 하에서 성립한다. 리튬 원자의 정확한 해는 수소 원자 모형 에서 구한 해로 표현할 수 없다. [6] ε i j \varepsilon_{ij} ε ij ​ 는 라그랑주 승수 [7] Szabo의 Modern Quantum Chemistry 3.2.3절 참고 [8] 우변에 ∣ χ i ⟩| \chi_i \rangle ∣ χ i ​ ⟩ 이외의 항들이 있는 형태를 non-canonical Hartree-Fock equation, ∣ χ i ⟩| \chi_i \rangle ∣ χ i ​ ⟩ 만 남아있는 식을 canonical Hartree-Fock equation이라 한다. [9] 전기 퍼텐셜 문서 참조 [10] 원자 단위계에선 4 π ϵ , e 4\pi\epsilon, e 4 π ϵ , e 이 1이 됨을 기억하라 [11] 크로네커 델타 가 붙어있는 것을 보아라. [12] 이는 후술할 SCF Type에서 중요하게 작용한다. [13] 일반화학이나 일반화학실험에서 계산 화학 실습을 해보았다면 보통 이렇게 간단하게 배웠을 것이다. [14] 이렇게 다체문제에서 입자간 상호작용을 평균 내어 유효 퍼텐셜 하에서 움직이는 일체 문제로 바꾸는 근사를 평균장 근사(Mean-field approximation) 라 한다. [15] 홀전자가 없는 분자 [16] finite basis function을 사용하면서 발생하는 오차를 basis-set truncation error라 한다. [17] 중심을 둔 원자의 갯수에 따라 일, 이, 삼, 사전자 적분이 존재하며 그 이상의 적분을 계산할 일은 없다. [18] d-type의 경우 5개가 아닌 6개( x y , y z , z x , x 2 , y 2 , z 2 xy, yz, zx, x^2, y^2, z^2 x y , y z , z x , x 2 , y 2 , z 2 )가 나온다. 원한다면 선형 결합을 통해 수소 원자 모형 처럼 x y , y z , z x , x 2 − y 2 , 3 z 2 − r 2 xy, yz, zx, x^2-y^2, 3z^2-r^2 x y , y z , z x , x 2 − y 2 , 3 z 2 − r 2 만들 수 있으며 6번째 선형 결합 r 2 r^2 r 2 은 보통 제외한다. [19] GTO에는 주양자수에 해당하는 값이 없다. 어떠한 s AO들이라도 다른 α \alpha α 값을 가지는 s-type GTO들의 선형결합으로 써질 수 있으며 다른 오비탈들의 경우에도 마찬가지이다. [20] basis set 이름에 cc- 가 들어있으면 이거다. 예를 들면 cc-pVTZ [21] basis set 이름에 def2 가 들어있으면 이거다. 예를 들면 def2-TZVP [22] 이 값을 어떤 값으로 가정하느냐에 따라 뒷 계산이 수렴하지 않고 발산할 수도 있다. [23] 참고로 수소 분자의 결합 에너지가 대략 4.5 eV 4.5 \textup{eV} 4.5 eV 정도이다. [24] 주의할 점으로 "electron correlation이 클수록 E corr E_{\textup{corr}} E corr ​ 가 커진다" 는 틀린 말이다. E corr E_{\textup{corr}} E corr ​ 는 항상 음수이기 때문( 변분 원리 ) [25] Basis set이 complete하다면 정확한 해를 얻을 수 있다. 이 경우 하트리-포크 방정식의 해가 complete set이기 때문 [26] Many-Body Perturbation Theory를 줄여서 MBPT라 적기도 한다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

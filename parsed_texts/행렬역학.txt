@@ -1,0 +1,125 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 행렬역학
+최근 수정 시각: 2026-03-22 04:37:48 [ [ [ ] [ [ 1 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 1925년 연구
+- 양자역학
+- 베르너 하이젠베르크
+]
+
+[ [ ] [ 양자역학 Quantum Mechanics
+[ 펼치기 · 접기 ] 배경 | 흑체복사 · 이중슬릿 실험 · 광전효과 · 콤프턴 산란 · 보어의 원자 모형 · 물질파 · 데이비슨-저머 실험 · 불확정성 원리 · 슈테른-게를라흐 실험 · 프랑크-헤르츠 실험
+이론 체계 | 체계 플랑크 상수 ( 플랑크 단위계 ) · 공리 · 슈뢰딩거 방정식 · 파동함수 · 연산자 ( 해밀토니언 · 선운동량 · 각운동량 ) · 스핀 ( 스피너 ) · 파울리 배타 원리 해석 코펜하겐 해석 ( 보어-아인슈타인 논쟁 ) · 숨은 변수 이론 ( EPR 역설 · 벨의 부등식 · 광자 상자 ) · 다세계 해석 · 앙상블 해석 · 서울 해석 묘사 묘사 ( 슈뢰딩거 묘사 · 하이젠베르크 묘사 · 디랙 묘사) · 행렬역학
+연관 학문 | 천체물리학 ( 천문학 틀 · 우주론 · 양자블랙홀 · 중력 특이점 ) · 핵물리학 틀 ( 원자력 공학 틀 ) · 응집물질물리학 틀 · 컴퓨터 과학 틀 ( 양자컴퓨터 · 양자정보과학 ) · 통계역학 틀 · 양자화학 ( 물리화학 틀 ) · 입자물리학 ( 입자물리학 틀 )
+현상 · 응용 | 양자요동 · 양자 얽힘 · 양자 터널링 · 퍼텐셜 우물 · 양자 조화 진동자 · 오비탈 · 수소 원자 모형 · 쌓음 원리 · 훈트 규칙 · 섭동 ( 스핀 - 궤도 결합 · 제이만 효과 · 슈타르크 효과 · 헬만-파인만 정리 ) · 선택 규칙 · 변분 원리 · WKB 근사법 · 시간 결정 · 보스-아인슈타인 응집 · 솔리톤 · 카시미르 효과 · 아하로노프-봄 효과 · 블랙홀 정보 역설 · 양자점 · 하트리-포크 방법 · 밀도범함수 이론 · 준위 · 양자장론 ( 양자전기역학 · 양자색역학 ) · 뤼드베리 방정식 · 체렌코프 현상
+기타 | 군론 · 기본 입자 · 대칭성 · 비리얼 정리 · 리만 가설 · 매듭이론 · 밀도행렬 · 물질 · 방사선 ( 반감기 ) · 라플라스의 악마 · 슈뢰딩거의 고양이 ( 위그너의 친구 )
+문헌 | 교재 · 분류:물리학술지
+
+베르너 하이젠베르크
+관련 문서
+[ 펼치기 · 접기 ] 연구 업적 | 양자역학 ( 양자역학의 공리 · 코펜하겐 해석 · 행렬역학 · 불확정성 원리 · 하이젠베르크 묘사 )
+프로젝트 | 우란프로옉트
+생애 | 생애
+소속 | 뮌헨 대학교
+괴팅겐 대학교
+관련 학자 | 닐스 보어 · 막스 보른 · 알베르트 아인슈타인 · 막스 플랑크 · 아르놀트 조머펠트
+저서 | 부분과 전체 · 물리와 철학
+
+1 . 개요 2 . 상세 2.1 . 고유함수 2.2 . 파동함수 2.3 . 연산자 3 . 관련문서
+
+1. 개요 [편집]
+matrix mechanics / 行 列 力 學
+
+하이젠베르크 가 1925년에 발표한 양자역학 의 행렬 정리이다. 이러한 행렬역학의 형성 및 지속적인 발전에는 지도교수 막스 보른 그리고 막스 보른의 또다른 제자 파스쿠알 요르당이 함께 참여하였다.
+
+한편 고전 양자역학에 대한 현대 양자역학의 재해석 버전은 행렬론을 근본으로 하는 행렬역학과 파동함수 를 근본으로 하는 슈뢰딩거 방정식 의 파동역학이 있다. 이 둘은 서로 동등하다.
+
+2. 상세 [편집]
+
+2.1. 고유함수 [편집]
+이제부터 어떤 계의 j j j 번째 고유함수를 ∣ j ⟩| j \rangle ∣ j ⟩ 라 하자. 이때, ∣ j ⟩| j \rangle ∣ j ⟩ 는 열 벡터로 나타낼 수 있으며, 가장 간단한 정규직교기저를 고른다면, 다음과 같이 쓸 수 있다.
+
+∣ 2 ⟩ = [ 0 1 0 ⋮ ] \displaystyle \begin{aligned} | 2 \rangle = \begin{bmatrix} 0 \\ 1 \\ 0 \\ \vdots \end{bmatrix} \end{aligned} ∣2 ⟩ = ​ 0 1 0 ⋮ ​ ​ ​
+
+2.2. 파동함수 [편집]
+파동함수는 힐베르트 공간 의 완전조를 이루는 고유함수의 선형 결합으로 쓸 수 있으며, 이에 따라
+
+∣ ψ ⟩ = ∑ j ∣ j ⟩ ⟨ j ∣ ψ ⟩ \displaystyle \begin{aligned} | \psi \rangle = \sum_{j} | j \rangle \langle j | \psi \rangle \end{aligned} ∣ ψ ⟩ = j ∑ ​ ∣ j ⟩ ⟨ j ∣ ψ ⟩ ​
+이때, ⟨ j ∣ ψ ⟩ ≡ a j \langle j | \psi \rangle \equiv a_{j} ⟨ j ∣ ψ ⟩ ≡ a j ​ 라 정의한다면,
+
+∣ ψ ⟩ = ∑ j a j ∣ j ⟩ \displaystyle \begin{aligned} | \psi \rangle =\sum_{j}a_{j}| j \rangle \end{aligned} ∣ ψ ⟩ = j ∑ ​ a j ​ ∣ j ⟩ ​
+가 되어, 파동함수를 다음과 같이 나타낼 수 있다.
+
+∣ ψ ⟩ = [ a 1 a 2 a 3 ⋮ ] \displaystyle \begin{aligned} | \psi \rangle =\begin{bmatrix} a_{1} \\ a_{2} \\ a_{3} \\ \vdots \end{bmatrix} \end{aligned} ∣ ψ ⟩ = ​ a 1 ​ a 2 ​ a 3 ​ ⋮ ​ ​ ​
+
+물론, 규격화 조건 또한 생각해볼 수 있으며,
+
+⟨ ψ ∣ ψ ⟩ = [ a 1 ∗ a 2 ∗ a 3 ∗ ⋯ ] [ a 1 a 2 a 3 ⋮ ] = ∑ j ∣ a j ∣ 2 = 1 \displaystyle \begin{aligned} \langle \psi | \psi \rangle &= \begin{bmatrix} a^{\ast}_{1} & a^{\ast}_{2} & a^{\ast}_{3} & \cdots \\ \end{bmatrix}\begin{bmatrix} a_{1} \\ a_{2} \\ a_{3} \\ \vdots \end{bmatrix} \\ &=\sum_{j}|a_{j}|^{2} \\&=1 \end{aligned} ⟨ ψ ∣ ψ ⟩ ​ = [ a 1 ∗ ​ ​ a 2 ∗ ​ ​ a 3 ∗ ​ ​ ⋯ ​ ] ​ a 1 ​ a 2 ​ a 3 ​ ⋮ ​ ​ = j ∑ ​ ∣ a j ​ ∣ 2 = 1 ​
+이다.
+
+여기서 다음을 얻는다.
+
+⟨ ψ ∣ = ( ∣ ψ ⟩ ) † \displaystyle \begin{aligned} \langle \psi | =(| \psi \rangle)^{\dagger} \end{aligned} ⟨ ψ ∣ = ( ∣ ψ ⟩ ) † ​
+
+2.3. 연산자 [편집]
+가측량 A A A 에 대한 연산자 A ^ \hat{A} A ^ 또한 대응하는 행렬 A \pmb{\sf A} A 로 표기할 수 있다.
+
+연산자 A ^ \hat{A} A ^ 에 대하여
+
+A ^ = ∑ j k ∣ j ⟩ ⟨ j ∣ A ^ ∣ k ⟩ ⟨ k ∣ \displaystyle \begin{aligned} \hat{A}=\sum_{jk} |j\rangle \langle j| \hat{A} | k \rangle \langle k| \end{aligned} A ^ = j k ∑ ​ ∣ j ⟩ ⟨ j ∣ A ^ ∣ k ⟩ ⟨ k ∣ ​
+여기서 나온 A j k ≡ ⟨ j ∣ A ^ ∣ k ⟩ A_{jk} \equiv \langle j| \hat{A} | k \rangle A j k ​ ≡ ⟨ j ∣ A ^ ∣ k ⟩ 를 행렬 A \pmb{\sf A} A 의 원소로 정의한다.
+
+따라서
+
+⟨ ψ ∣ A ^ ∣ ψ ⟩ = ∑ j k ⟨ ψ ∣ j ⟩ ⟨ j ∣ A ^ ∣ k ⟩ ⟨ k ∣ ψ ⟩ = ∑ j k a k ∗ A j k a j = [ a 1 ∗ a 2 ∗ a 3 ∗ ⋯ ] [ ⟨ 1 ∣ A ^ ∣ 1 ⟩ ⟨ 1 ∣ A ^ ∣ 2 ⟩ ⟨ 1 ∣ A ^ ∣ 3 ⟩ ⋯ ⟨ 2 ∣ A ^ ∣ 1 ⟩ ⟨ 2 ∣ A ^ ∣ 2 ⟩ ⟨ 2 ∣ A ^ ∣ 3 ⟩ ⋯ ⟨ 3 ∣ A ^ ∣ 1 ⟩ ⟨ 3 ∣ A ^ ∣ 2 ⟩ ⟨ 3 ∣ A ^ ∣ 3 ⟩ ⋯ ⋮ ⋮ ⋮ ⋱ ] [ a 1 a 2 a 3 ⋮ ] = X † A X \displaystyle \begin{aligned} \langle \psi | \hat{A} | \psi \rangle &=\sum_{jk} \langle \psi |j\rangle \langle j| \hat{A} | k \rangle \langle k| \psi \rangle \\ &=\sum_{jk} a_{k}^{\ast} A_{jk} a_{j} \\&= \begin{bmatrix} a_1^{\ast} & a_2^{\ast}& a_3^{\ast}& \cdots \\ \end{bmatrix} \begin{bmatrix} \langle 1|\hat{A}| 1 \rangle & \langle 1|\hat{A}| 2\rangle & \langle 1|\hat{A}| 3\rangle & \cdots \\ \langle 2|\hat{A}| 1 \rangle & \langle 2|\hat{A}| 2\rangle & \langle 2|\hat{A}| 3\rangle & \cdots \\ \langle 3|\hat{A}| 1 \rangle & \langle 3|\hat{A}| 2\rangle & \langle 3|\hat{A}| 3\rangle & \cdots \\ \vdots &\vdots &\vdots &\ddots \end{bmatrix}\begin{bmatrix} a_{1} \\ a_{2} \\ a_{3} \\ \vdots \end{bmatrix} \\&= \pmb{\sf X}^{\dagger} \pmb{\sf A} \pmb{\sf X} \end{aligned} ⟨ ψ ∣ A ^ ∣ ψ ⟩ ​ = j k ∑ ​ ⟨ ψ ∣ j ⟩ ⟨ j ∣ A ^ ∣ k ⟩ ⟨ k ∣ ψ ⟩ = j k ∑ ​ a k ∗ ​ A j k ​ a j ​ = [ a 1 ∗ ​ ​ a 2 ∗ ​ ​ a 3 ∗ ​ ​ ⋯ ​ ] ​ ⟨ 1∣ A ^ ∣1 ⟩ ⟨ 2∣ A ^ ∣1 ⟩ ⟨ 3∣ A ^ ∣1 ⟩ ⋮ ​ ⟨ 1∣ A ^ ∣2 ⟩ ⟨ 2∣ A ^ ∣2 ⟩ ⟨ 3∣ A ^ ∣2 ⟩ ⋮ ​ ⟨ 1∣ A ^ ∣3 ⟩ ⟨ 2∣ A ^ ∣3 ⟩ ⟨ 3∣ A ^ ∣3 ⟩ ⋮ ​ ⋯ ⋯ ⋯ ⋱ ​ ​ ​ a 1 ​ a 2 ​ a 3 ​ ⋮ ​ ​ = X † A X ​
+형태로 나타낼 수 있다. X \pmb{\sf X} X 는 파동함수 열 벡터이다.
+
+두 연산자의 적용 A ^ B ^ \hat{A}\hat{B} A ^ B ^ 에 대응되는 행렬은 따로 증명하지 않으나, A B \pmb{\sf AB} AB 이다.
+
+더불어서 일반적으로 연산자는 교환하지 않는 것 처럼, 대응되는 행렬 또한 일반적으로 교환하지 아니한다.
+
+3. 관련문서 [편집]
+- 플랑크 상수
+- 아인슈타인 장 방정식
+- 방데르몽드 행렬
+- 통계역학
+
+[ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 인천논현동 맛집 소문난껍데기
+map.naver.com/p/entry/place/1943388597 v-if
+여기 껍데기 안 먹어봤다는 건 인생의 반을 손해 본 거예요! 동네 맛집의 자부심!
+
+] | [ 남동구용달 하나로퀵
+www.1577-3410.com
+[ [ 퀵서비스접수 ] [ 퀵서비스안내 ] [ 쉽고빠른배달 ] [ 하나로퀵배송 ] ]
+배달 서비스는 기념일이나 행사에 필수적이며, 퀵 시스템과 결합되어 당일 배송지원
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

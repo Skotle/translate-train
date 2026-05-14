@@ -1,0 +1,333 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 양자장론
+최근 수정 시각: 2026-04-21 07:52:48 [ [ [ ] [ [ 27 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 양자장론
+]
+
+[ [ ] [ 양자역학 Quantum Mechanics
+[ 펼치기 · 접기 ] 배경 | 흑체복사 · 이중슬릿 실험 · 광전효과 · 콤프턴 산란 · 보어의 원자 모형 · 물질파 · 데이비슨-저머 실험 · 불확정성 원리 · 슈테른-게를라흐 실험 · 프랑크-헤르츠 실험
+이론 체계 | 체계 플랑크 상수 ( 플랑크 단위계 ) · 공리 · 슈뢰딩거 방정식 · 파동함수 · 연산자 ( 해밀토니언 · 선운동량 · 각운동량 ) · 스핀 ( 스피너 ) · 파울리 배타 원리 해석 코펜하겐 해석 ( 보어-아인슈타인 논쟁 ) · 숨은 변수 이론 ( EPR 역설 · 벨의 부등식 · 광자 상자 ) · 다세계 해석 · 앙상블 해석 · 서울 해석 묘사 묘사 ( 슈뢰딩거 묘사 · 하이젠베르크 묘사 · 디랙 묘사) · 행렬역학
+연관 학문 | 천체물리학 ( 천문학 틀 · 우주론 · 양자블랙홀 · 중력 특이점 ) · 핵물리학 틀 ( 원자력 공학 틀 ) · 응집물질물리학 틀 · 컴퓨터 과학 틀 ( 양자컴퓨터 · 양자정보과학 ) · 통계역학 틀 · 양자화학 ( 물리화학 틀 ) · 입자물리학 ( 입자물리학 틀 )
+현상 · 응용 | 양자요동 · 양자 얽힘 · 양자 터널링 · 퍼텐셜 우물 · 양자 조화 진동자 · 오비탈 · 수소 원자 모형 · 쌓음 원리 · 훈트 규칙 · 섭동 ( 스핀 - 궤도 결합 · 제이만 효과 · 슈타르크 효과 · 헬만-파인만 정리 ) · 선택 규칙 · 변분 원리 · WKB 근사법 · 시간 결정 · 보스-아인슈타인 응집 · 솔리톤 · 카시미르 효과 · 아하로노프-봄 효과 · 블랙홀 정보 역설 · 양자점 · 하트리-포크 방법 · 밀도범함수 이론 · 준위 · 양자장론 ( 양자전기역학 · 양자색역학 ) · 뤼드베리 방정식 · 체렌코프 현상
+기타 | 군론 · 기본 입자 · 대칭성 · 비리얼 정리 · 리만 가설 · 매듭이론 · 밀도행렬 · 물질 · 방사선 ( 반감기 ) · 라플라스의 악마 · 슈뢰딩거의 고양이 ( 위그너의 친구 )
+문헌 | 교재 · 분류:물리학술지
+
+입자물리학
+Particle Physics
+[ 펼치기 · 접기 ] 기반 | 양자역학 · 상대성 이론 · 통계역학 · 전자기학 · 고전역학
+이론 | 체계 | 양자장론 ( 비상대론적 양자장론 ) · 루프 양자 중력 이론 · 초끈 이론 ( M이론 · F이론) · 위상양자장론 · 대통일 이론 · 통일장 이론 · 모든 것의 이론
+형식 | 클라인-고든 방정식 · 디랙 방정식 · 1차 양자화 · 이차양자화 · 전파인자 · 산란행렬 · 경로적분 ( 응용 · 고리 적분) · 고스트 · 파인만 다이어그램 · 재규격화 ( 조절 · 재규격화군 ) · 위상 공간 · 대칭성 · 자발 대칭 깨짐 · 초대칭 · CP 대칭 깨짐 ) · 섭동 ( 다이슨 급수 ) · 등각변환(등각장론)
+실험 | 기구 | 입자가속기 ( 사이클로트론 · 싱크로트론 · 테바트론 · SLAC · ILC · LHC · PETRA · HERA · RAON(중이온가속기) ) · 카미오칸데 · LIGO · 입자검출기 ( ATLAS · CMS · ALICE · LHCb · PLUTO · TASSO · UA1 · UA2)
+입자 | 기본 입자 ( 둘러보기 ) · 강입자 ( 둘러보기 ) · 페르미온 ( 둘러보기 ) · 보손 ( 둘러보기 ) · 쿼크 · 렙톤 · 중성미자 · 게이지 보손 · 글루온 · W/Z 보손 · 광자 · 힉스 보손 · 메손 · 바리온 · 반물질 · 색전하 · 아이소스핀 · 맛깔 · B-L
+상호작용 | 기본 상호 작용 ( 둘러보기 ) · 표준모형 · 게이지 이론 · 양자 전기역학 · 약력 · 전자기약력 · 강력 · 양자색역학 · SU(3)
+모형 · 가설 | 프리온 · 기묘체 · 타키온 · 뉴트로늄 · 기묘한 물질
+우주론 | 우주/역사 · 암흑물질 · 액시온 · 파동형 암흑물질 · 암흑광자 · 암흑에너지 · 인플레이션 우주론 · 바리오제네시스
+연관 학문 | 천체물리학 ( 천문학 틀 · 우주론 · 양자블랙홀 · 중력 특이점 ) · 핵물리학 ( 원자력 공학 틀 ) · 응집물질물리학 틀 · 컴퓨터 과학 틀 ( 양자컴퓨터 · 양자정보과학 ) · 통계역학 틀
+현상 · 응용 | 다섯 번째 상호 작용 · 양자진공 · 플랑크 단위계 ( 플랑크 질량 · 플랑크 길이 · 플랑크 시간 · 플랑크 온도 ) · 양자요동 · 쌍생성 · 쌍소멸 · 방사선 · 미세 구조 상수 · 블랙홀 정보 역설 · 특이점
+기타 | 양-밀스 질량 간극 가설 · 군론 · 리만 가설 · 매듭이론 · 물질 · 반감기 · 대수위상학 · 대수기하학 · 교재
+관련 문헌 | 양자장론/교재 · 분류:물리학술지
+
+1 . 개요 2 . 특징 3 . 상대론적 양자장론 4 . 고전 장 이론 개요 4.1 . 장에 대한 개요 4.2 . 장의 역학적 구조 4.3 . 장의 성분 5 . 장(field)의 양자화 5.1 . 정규양자화 5.2 . 스피너 장 6 . 인과율 문제: 파동함수기반 양자역학 vs 양자장론 7 . 교재 8 . 둘러보기
+
+1. 개요 [편집]
+양자장론 ( 量 子 場 論 , quantum field theory/QFT)은 양자역학 의 공리를 따르는 양자 다체계에 대한 접근방법론 중에서, 원자보다 더 작은 입자나 준입자 를 표현하는 방법을 다룬 학문이다. 전자는 고에너지 입자물리학(High energy Particle physics)에서, 후자는 응집물질물리학 에서 해당 입자의 상태와 거동을 기술하는 데 쓰인다.
+
+2. 특징 [편집]
+양자역학 과 양자장론 사이의 가장 두드러진 차이는, 양자장론에서는 입자가 바닥상태(입자가 없는 상태)부터의 들뜸으로 다뤄진다는 것이다. 이것을 입자를 지우고 만드는 개념의 연산자를 도입해서 기술하게 된다.
+
+따라서, 양자역학에서 다루는 양자화와 양자장론에서 다루는 양자화는 차이가 있다. 양자역학에서 다루는 양자화를 1차 양자화 (1st quantization, 물리량을 연산자로 다룸)라 부르고 양자장론에서 다루는 양자화를 2차 양자화 (2nd quantization, 파동함수를 연산자로 다룸)라고 구별해서 부른다. 2차 양자화에서는 (수학적으로) 입자를 만들고 지우기에 입자의 상태함수는 불변한 물리량이 아니다. 때문에 상태함수를 장(Field)이라고 구분하며 파동함수라 부르지 않는다.
+
+위와 같이 양자역학에서 다루는 물리량을 축약해서 일종의 연산자 및 장으로 표기하는 양자장론은 이론적으로 강점이 존재한다. 바로, 복잡한 입자상호작용의 핵심 물리량 위주로 집중해서 양자체계에 접근할수 있도록 한것이다. 형식주의적 관점에서 양자역학에서 사용되는 수학 형식들보다 다양한 형식들이 양자장론을 설명하는데 사용되었다. 현상론적으로도 양자역학에서 계산할 수 없는 비탄성충돌 [1] 을 계산할 수 있다는 강점이 있다. 해당 과정을 나타내는 산란진폭은 파인만 다이어그램 (Feynman diagram)을 통해 쉽게 결정할 수 있다.
+
+양자장론 중에 전자기상호작용을 다룬 양자전기역학 (quantum electrodynamics, QED)은 상대론적인 장방정식들을 양자화시켜, 특수 상대성 이론과 양자역학을 통합시켰다.
+
+양자장론으로 표현된 표준모형으로 상당히 에너지가 높은 영역까지 일어나는 상호작용을 적절하게 잘 설명한다는 점에서 크게 문제가 없는 듯하다. 그러나 일반 상대론에서부터는 이야기가 달라지게 되는데 표준모형은 양자중력을 다루지 않으므로 양자중력이 중요해지는 아주 높은 에너지에서는 더 이상 통용되지 않을 것이 명백하다. 따라서, 표준모형이 완성된 것도 완벽한 것도 아니다. 이와 같은 표준모형의 한계를 넘어서기 위해 초대칭 이론이나 추가여분차원 이론 등이 제안되었지만, 새로운 이론에서만 존재하는 입자들이 실험으로 관측되지 않았기 때문에, 폭넓은 지지를 받지 못하고 있다. 따라서, 표준 모형을 넘어서는 이론을 만드는 것은 여전히 현대 물리학의 가장 중요한 난제이다.
+
+3. 상대론적 양자장론 [편집]
+특수 상대성 이론 과 양자장론을 합친 이론이다. 고에너지 운동을 하는 물체를 양자역학의 관점으로 기술하기 위해서 만들어졌다. 따라서 입자물리학에서 양자장론을 다룬다면, 대다수는 이를 따른다.
+
+인과율 문제를 회피하기 위해서 새로운 방식으로 양자화를 결정하게 되는데 앞서 소개한 2차 양자화가 이에 해당한다. 2차 양자화를 하기 위해서는 정준위치(Canonical position)와 그에 대응하는 정준운동량(Canonical momentum)을 찾아야 하는데, 이것은 라그랑지언 과 그것을 만족하는 오일러 라그랑주 방정식을 통해서 정할 수 있다.
+
+오일러 라그랑주 방정식을 우리가 알고 있는 1차 양자화로 표현한 공식으로 설정하여, 정준좌표에 대응하는 물리량을 대입하게 된다. 이 과정에서 정준좌표는 우리가 알고 있는 시간-위치가 아니라 장 자체가 정준 위치로써 작동한다는 점에서 고전적인 라그랑지언과 큰 차이를 나타내게 된다.
+
+그리고 시간과 공간을 동시에 다뤄야 하기 때문에 시간에 대한 변수만을 가지고 있는 고전적인 라그랑지언에서 위치변수를 살려낸 라그랑지언 밀도(Lagrangian density)라는 개념으로 해석해야 한다.
+
+특히 장론에서는 그 무엇보다도 라그랑지언이 무엇이냐를 판단하는 것 자체가 매우 중요한데, 최소 작용의 원리 로부터 법칙은 광역대칭성을 항상 만족하며 각각의 광역대칭성에 연결되는 물리량들이 항상 보존된다는 것을 논리적으로 보장한다.
+
+이것을 극명하게 나타낸 것이 뇌터 정리 이다. 뇌터의 정리를 통해서, 2차 양자화에 적용해야 하는 연산자들 [2] 이 어떤 꼴일지를 명확하게 보여준다. 또한, 라그랑지언으로부터 찾을 수 있는 정준위치와 정준운동량을 통해 인과율 문제가 깔끔하게 해결된 전파 연산자를 찾을 수 있다.
+
+다만, 해당 논리들을 이용해 입자의 상태함수를 연산자로 채택하게 되면 필연적으로 조화진동자 에서 등장하는 사다리 연산자(Ladder operator)와 같은 성질을 가지는 [3] 연산자로 표현해야 한다는 점을 알 수 있게 되는데, 이 해석은 입자가 아무 것도 없는 진공상태는 고전적인 해석이고 사실은 입자가 아무 것도 없는 것이 아니라는 해석을 지지한다. [4]
+
+다행히도 진공 상태에 한해서는 양자역학에서 다뤄온 (Fock space에 속한) 양자상태를 약간 바꿔서 써먹을 수 있다는 장점이 있다. [5]
+
+4. 고전 장 이론 개요 [편집]
+
+4.1. 장에 대한 개요 [편집]
+장이란, 위치와 시간에 대한 물리량을 가지고 있는 물리량이다. 일부 한국 물리학자들은 '장'이라는 용어 대신 순수 우리말인 '마당'을 사용하기도 한다.
+
+장은 시공간의 함수이므로 기저함수들의 선형결합으로 표현할 수 있다. 이러한 의미에서 장은 무한대의 자유도 를 가진 대상으로 취급되기도 한다. 실제로 장을 공간에 결부시키기 보다는 자유도의 관점으로 해석하는 것이 더 유용할 때가 많다.
+
+4.2. 장의 역학적 구조 [편집]
+사실 상대성 이론 은 장이 가질 수 있는 역학적인 구조를 강력하게 제한한다. 직접적으로 말해서 장의 라그랑지언을 썼을 때 그 안에 포함될 수 있는 항이 매우 제한적이라는 것이다. 이는 어떤 (상대론적인) 이론을 구축할 때 있어서 좋은 지침이 되어 준다.
+
+룰은 간단하다. 라그랑지언 안에 들어갈 수 있는 항은 실수이며 (혹은 Hermitian이며) 상대론적으로 불변(invariant)해야 한다. 즉, 실수 스칼라(real scalar)이어야 한다. 이 정도만으로도 고려해야 할 항들의 종류가 굉장히 줄어들게 된다. 이에 대해서는 특수 상대성 이론 , 클라인-고든 방정식 , 디랙 방정식 에서 자세히 설명되어 있다. 여기서는 그 결과만 가져다 쓰려고 한다. 다음은 스칼라 장(클라인-고든 방정식) ϕ \phi ϕ , 스피너 장(디랙 방정식) ψ \psi ψ , 벡터 장( 맥스웰 방정식 ) A μ A^\mu A μ 에 해당하는 라그랑지언 밀도들이다.
+
+L s c a l a r = 1 2 ∂ μ ϕ ∂ μ ϕ − 1 2 m 2 ϕ 2 \displaystyle \mathscr{L}_{\mathsf{scalar}} = \frac{1}{2} \partial_\mu \phi \partial^\mu \phi - \frac{1}{2} m^2 \phi^2 L scalar ​ = 2 1 ​ ∂ μ ​ ϕ ∂ μ ϕ − 2 1 ​ m 2 ϕ 2
+L s p i n o r = i ψ ˉ γ μ ∂ μ ψ − m ψ ˉ ψ \displaystyle \mathscr{L}_{\mathsf{spinor}} = i \bar{\psi} \gamma^\mu \partial_\mu \psi - m \bar{\psi} \psi L spinor ​ = i ψ ˉ ​ γ μ ∂ μ ​ ψ − m ψ ˉ ​ ψ
+L v e c t o r = − 1 4 F μ ν F μ ν ( F μ ν = ∂ μ A ν − ∂ ν A μ ) \displaystyle \mathscr{L}_{\mathsf{vector}} = -\frac{1}{4} F_{\mu \nu} F^{\mu \nu} \;\;\;\; (F_{\mu \nu} = \partial_\mu A_\nu - \partial_\nu A_\mu) L vector ​ = − 4 1 ​ F μν ​ F μν ( F μν ​ = ∂ μ ​ A ν ​ − ∂ ν ​ A μ ​ )
+
+여기서 궁금한 것은 물리량 ϕ \phi ϕ , ψ \psi ψ , A μ A^\mu A μ 에 해당하는 정준켤레(canonical conjugation)가 무엇인가하는 것이다. 사실 정의를 보면 이건 다른 게 아니고 이들의 시간 도함수로 라그랑지언 밀도를 미분해 줘서 나온 것이다. 즉, 다음과 같다.
+
+π ϕ = ∂ L s c a l a r ∂ ϕ ˙ = ∂ t ϕ \displaystyle \pi_{\phi} = \frac{ \partial \mathscr{L}_{\mathsf{scalar}} }{ \partial \dot{\phi} } = \partial_t \phi π ϕ ​ = ∂ ϕ ˙ ​ ∂ L scalar ​ ​ = ∂ t ​ ϕ
+π ψ a = ∂ L s p i n o r ∂ ψ a ˙ = i ( ψ a ) ∗ \displaystyle \pi_{\psi^a} = \frac{ \partial \mathscr{L}_{\mathsf{spinor}} }{ \partial \dot{\psi^a} } = i(\psi^a)^* π ψ a ​ = ∂ ψ a ˙ ​ ∂ L spinor ​ ​ = i ( ψ a ) ∗
+π A μ = ∂ L v e c t o r ∂ A μ ˙ = F 0 μ \displaystyle \pi_{A^\mu} = \frac{ \partial \mathscr{L}_{\mathsf{vector}} }{ \partial \dot{A^\mu} } = F_{0\mu} π A μ ​ = ∂ A μ ˙ ∂ L vector ​ ​ = F 0 μ ​
+
+그러면 푸아송 괄호 관계 [ X i ( t , x ) , π X j ( t , y ) ] = δ j i δ 3 ( x − y ) \left[X^i(t, \mathbf{x}), \pi_{X^j}(t, \mathbf{y})\right] = \delta^i_j \delta^3(\mathbf{x} - \mathbf{y}) [ X i ( t , x ) , π X j ​ ( t , y ) ] = δ j i ​ δ 3 ( x − y ) 가 성립해야 할 것으로 예상된다. 하지만 여기에 몇 가지 문제가 있다. 첫째, 위 식에 따르면 π A 0 = F 00 = 0 \pi_{A^0} = F_{00} = 0 π A 0 ​ = F 00 ​ = 0 이 되어 A 0 A^0 A 0 의 정준켤레가 0이게 된다는 것이다. 그러면 이 성분으로의 역학적인 기술이 어려워지게 된다. 실제로 Weinberg를 보면 다양한 고전역학적 도구들을 활용하여 엄청 복잡하게(...) 이 상황을 다루고 있으며 다른 책들은 그런 거 다 건너뛰고 벡터 장을 경로적분 양자화 상황에서만 다룬다. 그마저도 쉽지 않지만... 한 가지 또다른 문제는 디락장을 양자화 할 때 [ ψ a ( t , x ) , π ψ b ( t , y ) ] = i δ j i δ 3 ( x − y ) \left[\psi_a(t, \mathbf{x}), \pi_{\psi^b}(t, \mathbf{y})\right] = i \delta^i_j \delta^3(\mathbf{x} - \mathbf{y}) [ ψ a ​ ( t , x ) , π ψ b ​ ( t , y ) ] = i δ j i ​ δ 3 ( x − y ) 를 사용하면 올바르게 불변량을 표현하지 못한다는 문제가 있다. 물론 이럴 때에는 교환자를 쓰는 게 아니고 반교환자(anti-commutator)를 써야 한다. [6] 즉, 실제로 성립하는 것은 { ψ a ( t , x ) , π ψ b ( t , y ) } = i δ j i δ 3 ( x − y ) \{ \psi_a(t, \mathbf{x}), \pi_{\psi^b}(t, \mathbf{y}) \} = i \delta^i_j \delta^3(\mathbf{x} - \mathbf{y}) { ψ a ​ ( t , x ) , π ψ b ​ ( t , y )} = i δ j i ​ δ 3 ( x − y ) (여기서 { A , B } = A B + B A \{A, B\} = AB + BA { A , B } = A B + B A )인 것이다. 이는 스핀-통계 정리 의 결과이며, 스피너의 경우만 대해 이 상황을 다루는 것은 Peskin의 같은 책 중 3.5장을 참고하자.
+
+4.3. 장의 성분 [편집]
+장은 파동함수 와 비슷해 보이지만 파동함수와는 달리 고유상태와 고유값을 가지지 않는다. 파동함수는 기저들이 직교하는 힐베르트 공간 에 있으며 주어진 파동함수로부터 고유값에 해당하는 물리량을 끌어낼 수 있지만, 장은 힐베르트 공간 으로 표현되지 않으며, 양자장론에서는 양자역학에서와 같은 고유값과 고유상태가 존재한다는 가정을 진공상태에 적용한다.
+
+양자장은 상호작용을 무시할 경우 포크 공간(Fock space)의 원소로 취급할 수 있다. 이차양자화의 정준교환관계 연산자들은 포크 공간 상에서 작용한다.
+
+이차양자화를 하기 앞서, 먼저 파동함수 를 어떻게 결정할 것인지 파악할 필요가 있다. 해당 내용은 양자역학에서 사용한 푸리에 변환 을 사용한다. 푸리에 변환을 통해 임의의 파동함수는 모드의 중첩으로 표현할 수 있게 된다. 상대론적 양자역학 에서는 위치 뿐만 아니라 시간 또한 고려해야 하기 때문에 파동함수는 다음과 같은 4차원 시공간 변수로써 나타내게 된다. 벡터 표현을 쓰지만 내적곱을 할 것은 아니고 표현을 빌려온 것 뿐이다.
+
+x μ = ( t , x , y , z ) , X μ = ( T , X , Y , Z ) x^\mu =(t,x,y,z), \qquad X^\mu =(T,X,Y,Z) x μ = ( t , x , y , z ) , X μ = ( T , X , Y , Z )
+
+다음과 같이 변수가 한정된 범위에서 나타난다고 하였을 때,
+
+x μ ∈ [ − X μ , X μ ] x^\mu \in [-X^\mu, X^\mu] x μ ∈ [ − X μ , X μ ]
+
+각 변수에 따른 확률들은 모두 독립적으로 작용할 테니, 다음과 같이 표현할 수 있다.
+ϕ ( t , x , y , z ) = ∑ n = 0 ∞ [ a n sin ⁡ ( n π X x ) + b n cos ⁡ ( n π X x ) ] × ∑ m = 0 ∞ [ c m sin ⁡ ( m π Y y ) + d m cos ⁡ ( m π Y y ) ] × ∑ r = 0 ∞ [ f r sin ⁡ ( r π Z z ) + g r cos ⁡ ( r π Z z ) ] × ∑ s = 0 ∞ [ h s sin ⁡ ( s π T t ) + j s cos ⁡ ( s π T t ) ] \displaystyle \begin{aligned} \phi(t,x,y,z) = &\sum_{n=0}^\infty \left[ a_n \sin \left(\frac{n\pi}{X}x\right)+ b_n \cos\left(\frac{n\pi}{X}x \right) \right] \times \sum_{m=0}^\infty \left[ c_m \sin \left(\frac{m\pi}{Y}y \right)+ d_m \cos\left(\frac{m\pi}{Y}y \right) \right]\\ \qquad\qquad\qquad &\times \sum_{r=0}^\infty \left[ f_r \sin \left(\frac{r\pi}{Z}z\right)+ g_r \cos\left(\frac{r\pi}{Z}z \right) \right]\times \sum_{s=0}^\infty \left[ h_s \sin \left(\frac{s\pi}{T}t\right)+ j_s \cos\left(\frac{s\pi}{T}t \right) \right] \end{aligned} ϕ ( t , x , y , z ) = ​ n = 0 ∑ ∞ ​ [ a n ​ sin ( X nπ ​ x ) + b n ​ cos ( X nπ ​ x ) ] × m = 0 ∑ ∞ ​ [ c m ​ sin ( Y mπ ​ y ) + d m ​ cos ( Y mπ ​ y ) ] × r = 0 ∑ ∞ ​ [ f r ​ sin ( Z r π ​ z ) + g r ​ cos ( Z r π ​ z ) ] × s = 0 ∑ ∞ ​ [ h s ​ sin ( T s π ​ t ) + j s ​ cos ( T s π ​ t ) ] ​
+
+만약 X μ X^\mu X μ 의 크기를 무한대로 보내서, 위치, 시간의 변수가 존재할 수 있는 공간을 실수 전체 영역으로 확장하면, 우리가 익히 아는 푸리에 변환이 된다. 시간 변수를 제외한 위치변수에 대해서 푸리에 변환으로 나타내면 다음과 같이 표현된다.
+
+ϕ ( t , x , y , z ) = lim ⁡ T → ∞ ∑ s = − ∞ ∞ ∭ d 3 p ( 2 π ) 3 ϕ ( p ) D s e i ℏ p ⋅ x e − i ℏ E s t \displaystyle \phi(t,x,y,z)=\lim_{T\to \infty}\sum_{s=-\infty}^{\infty}\iiint \frac{d^3 \bold{p}}{(2\pi)^3}\phi(\bold p) D_s e^{\frac{i}{\hbar}\bold p\cdot \bold x} e^{-\frac{i}{\hbar} E_s t} ϕ ( t , x , y , z ) = T → ∞ lim ​ s = − ∞ ∑ ∞ ​ ∭ ( 2 π ) 3 d 3 p ​ ϕ ( p ) D s ​ e ℏ i ​ p ⋅ x e − ℏ i ​ E s ​ t
+
+어디까지나 임의의 p \bold{p} p 와 E E E 에 관한 일반적인 푸리에 변환이기 때문에, 구성된 (불완전한) 푸리에 변환식이 항상 아인슈타인의 에너지-운동량 관계식을 만족하는 것은 아니다.
+( − H ^ 2 + P ^ 2 + m 2 ) ϕ ( t , x , y , z ) ≠ 0 \displaystyle (-\hat{\mathcal{H}}^2 +\hat P^2 +m^2)\phi(t,x,y,z) \neq 0 ( − H ^ 2 + P ^ 2 + m 2 ) ϕ ( t , x , y , z )  = 0
+
+하지만 우리가 알고 있는 한 상대성 이론의 에너지-운동량 관계식은 법칙으로써 작동한다는 것을 알고 있고, 항상 만족하길 바라기 때문에 시간의 계수항( D s D_s D s ​ )이 E 2 = ( P ) 2 + m 2 E^2 = \left(\bold P\right)^2 + m^2 E 2 = ( P ) 2 + m 2 을 만족하도록 조정해 줄 수 있는 특수한 함수가 될 필요가 있다는 것을 알 수 있다. 어떤 P \bold P P 와 E E E 가 주어져도, 항상 에너지-운동량 관계식이 성립할 수 있도록 조정해 줄 수 있는 함수는 디랙 델타 함수 다.
+lim ⁡ T → ∞ ∑ s = − ∞ ∞ D s e − i ℏ E s t = ∫ d E δ [ E 2 − ( p 2 + m 2 ) ) ] ϕ 0 ( E ) e − i ℏ E t ⟹ ϕ ( t , x , y , z ) = ∫ d 3 p d E ( 2 π ) 3 ϕ ( p ) ϕ ( E ) δ ( E 2 − p 2 − m 2 ) e i ℏ ( p ⋅ x − E t ) \displaystyle \begin{aligned} \lim_{T \to \infty}\sum_{s=-\infty}^{\infty} D_s e^{-\frac{i}{\hbar} E_s t} = &\int dE\,\, \delta \left[E^2 - (\bold p^2 +m^2))\right] \phi_0(E) e^{-\frac{i}{\hbar} E t}\\ \qquad\qquad\qquad \Longrightarrow \quad &\phi(t,x,y,z) = \int \frac{d^3 p \, dE}{(2\pi)^3}\phi(\bold p)\phi(E) \delta (E^2 - \bold p^2 -m^2) e^{\frac{i}{\hbar} \left(\bold p\cdot \bold x- E t\right)} \end{aligned} T → ∞ lim ​ s = − ∞ ∑ ∞ ​ D s ​ e − ℏ i ​ E s ​ t = ⟹ ​ ∫ d E δ [ E 2 − ( p 2 + m 2 )) ] ϕ 0 ​ ( E ) e − ℏ i ​ E t ϕ ( t , x , y , z ) = ∫ ( 2 π ) 3 d 3 p d E ​ ϕ ( p ) ϕ ( E ) δ ( E 2 − p 2 − m 2 ) e ℏ i ​ ( p ⋅ x − E t ) ​
+
+여기서 ϕ ( p ) ϕ 0 ( E ) \phi(\bold p) \phi_0 (E) ϕ ( p ) ϕ 0 ​ ( E ) 는 운동량 p \bold p p 와 E E E 를 가지는 평면파 ( exp ⁡ ( i ℏ [ p ⋅ x − E t ] ) \left(\exp(\dfrac{i}{\hbar}\left[\bold p \cdot \bold x - E t\right]\right) ( exp ( ℏ i ​ [ p ⋅ x − E t ] ) 의 진폭이다. 다음과 같이 묶어서 에너지,운동량에 따르는 함수로 표현할 것이다.
+
+ϕ ( p ) ϕ 0 ( E ) = ϕ ( E , p ) \displaystyle \phi(\bold p) \phi_0 (E) = \phi(E, {\bold p}) ϕ ( p ) ϕ 0 ​ ( E ) = ϕ ( E , p )
+
+그런데 아인슈타인의 에너지-운동량관계가 성립하도록 집어 넣은 디랙 델타 함수의 꼴을 보면, 음의 에너지 값과 양의 에너지 값을 허용한다는 것을 알 수 있다. 따라서 디랙 델타 함수를 지우고 운동량 적분의 관계식으로 나타내면 다음과 같이 두 개의 항으로 쪼개지게 된다. ϕ ( t , x , y , z ) = ∫ d 3 p ( 2 π ) 3 1 2 E p [ ϕ ( E p , p ) e i ℏ ( p ⋅ x − E p t ) + ϕ ( − E p , − p ) e − i ℏ ( p ⋅ x − E p t ) ] \displaystyle \begin{aligned} \phi(t,x,y,z) = \int \frac{d^3 \bold p}{(2\pi)^3}\frac{1}{2E_p}\left[\phi(E_p, \bold p) e^{\frac{i}{\hbar}\left(\bold p \cdot \bold x - E_p t \right)} + \phi(-E_p, -\bold p) e^{-\frac{i}{\hbar}\left(\bold p \cdot \bold x - E_p t \right)}\right] \end{aligned} ϕ ( t , x , y , z ) = ∫ ( 2 π ) 3 d 3 p ​ 2 E p ​ 1 ​ [ ϕ ( E p ​ , p ) e ℏ i ​ ( p ⋅ x − E p ​ t ) + ϕ ( − E p ​ , − p ) e − ℏ i ​ ( p ⋅ x − E p ​ t ) ] ​
+
+이때 운동량 p \bold p p 에 대응되는 에너지를 E p = p 2 + m 2 E_p =\sqrt{{\bold p}^2 +m^2} E p ​ = p 2 + m 2 ​ 로 나타내었다.
+
+위에서 선보인 방정식은 상대론적 양자장론에서 쓰이는 장의 (가장 단순하면서)일반적인 형태이다. 만약 클라인-고든 방정식 만을 만족한다면 위의 방정식을 그대로 쓰게 되고, 디랙 방정식을 만족하면 ϕ ( E p , p ) \phi(E_p,\bold p) ϕ ( E p ​ , p ) 가 양자역학에서 봐온 스피너(같은 변환에 대해 다른 방향으로 변환되는 1/2 스피너 두개의 결합상태)로 바뀌게 되고, 전자기파의 경우, 맥스웰 방정식을 만족한다는 특징과 연결되어 편극벡터가 된다. [7]
+
+한편, 만약 ϕ \phi ϕ 가 실수라면, 즉 켤레 복소수 ϕ ∗ \phi^* ϕ ∗ 가 ϕ \phi ϕ 와 같다면 ϕ ( − E p , − p ) = ϕ ∗ ( E p , p ) \phi(-E_p, -\bold p) = \phi^*(E_p, \bold p) ϕ ( − E p ​ , − p ) = ϕ ∗ ( E p ​ , p ) 임을 쉽게 알 수 있다. 이에 따라 다음과 같이 쓸 수 있다.
+
+ϕ ( t , x ) = ∫ d 3 p ( 2 π ) 3 1 2 E p [ a E p , p e i ( p ⋅ x − E p t ) + a E p , p ∗ e − i ( p ⋅ x − E p t ) ] \displaystyle \phi(t, \bold{x}) = \int \frac{d^3 \bold p}{(2\pi)^3} \frac{1}{\sqrt{2 E_p}} \left[ a_{E_p, \bold{p}} e^{ i \left(\bold{p} \cdot \bold{x} - E_p t \right) } + a^*_{E_p, \bold{p}} e^{ -i \left(\bold{p} \cdot \bold{x} - E_p t \right)} \right] ϕ ( t , x ) = ∫ ( 2 π ) 3 d 3 p ​ 2 E p ​ ​ 1 ​ [ a E p ​ , p ​ e i ( p ⋅ x − E p ​ t ) + a E p ​ , p ∗ ​ e − i ( p ⋅ x − E p ​ t ) ]
+
+여기서 a E p , p = 1 2 E p ϕ ( E p , p ) a_{E_p, \bold{p}} = \frac{1}{\sqrt{2 E_p}} \phi(E_p, \bold{p}) a E p ​ , p ​ = 2 E p ​ ​ 1 ​ ϕ ( E p ​ , p ) 로 표기하기로 한다. (그리고 여기서부터 자연 단위계 (즉, c = ℏ = ε 0 = μ 0 = 1 c = \hbar = \varepsilon_0 = \mu_0 = 1 c = ℏ = ε 0 ​ = μ 0 ​ = 1 )를 쓰기로 한다. 왜 그냥 ϕ ( E p , p ) \phi(E_p, \bold{p}) ϕ ( E p ​ , p ) 가 아닌 1 2 E p ϕ ( E p , p ) \frac{1}{\sqrt{2 E_p}} \phi(E_p, \bold{p}) 2 E p ​ ​ 1 ​ ϕ ( E p ​ , p ) 로 a a a 를 정했는지는 따로 이유가 있고, 이는 나중에 설명하기로 하겠다. 그리고 여기서 사실 a E p , p ∗ a^*_{E_p, \bold{p}} a E p ​ , p ∗ ​ 가 양의 에너지 해 에 해당하고 a E p , p a_{E_p, \bold{p}} a E p ​ , p ​ 가 음의 에너지 해 에 해당한다는 것도 기억해 두자. 표기했던 것과는 반대인 것 같아 보이지만 결국 붙어 있는 지수 함수 부분 안의 부호에 의하여 결정된 표기이다. 나중에 이들에 대한 양자장론적인 해석을 하도록 하겠다.
+
+한편, 이상하게 들릴지도 모르겠지만 주어진 장이 실수가 아닐 수도 있다. 이때 다음과 같이 표기할 수도 있다.
+
+ϕ ( t , x ) = ∫ d 3 p ( 2 π ) 3 1 2 E p [ a E p , p e i ( p ⋅ x − E p t ) + b E p , p ∗ e − i ( p ⋅ x − E p t ) ] ϕ ∗ ( t , x ) = ∫ d 3 p ( 2 π ) 3 1 2 E p [ b E p , p e i ( p ⋅ x − E p t ) + a E p , p ∗ e − i ( p ⋅ x − E p t ) ] \displaystyle \begin{aligned} \phi(t, \bold{x}) = \int \frac{d^3 \bold p}{(2\pi)^3} \frac{1}{\sqrt{2 E_p}} \left[ a_{E_p, \bold{p}} e^{ i \left(\bold{p} \cdot \bold{x} - E_p t \right) } + b^*_{E_p, \bold{p}} e^{ -i \left(\bold{p} \cdot \bold{x} - E_p t \right)} \right]\\ \phi^*(t, \bold{x}) = \int \frac{d^3 \bold p}{(2\pi)^3} \frac{1}{\sqrt{2 E_p}} \left[ b_{E_p, \bold{p}} e^{ i \left(\bold{p} \cdot \bold{x} - E_p t \right) } + a^*_{E_p, \bold{p}} e^{ -i \left(\bold{p} \cdot \bold{x} - E_p t \right)} \right] \end{aligned} ϕ ( t , x ) = ∫ ( 2 π ) 3 d 3 p ​ 2 E p ​ ​ 1 ​ [ a E p ​ , p ​ e i ( p ⋅ x − E p ​ t ) + b E p ​ , p ∗ ​ e − i ( p ⋅ x − E p ​ t ) ] ϕ ∗ ( t , x ) = ∫ ( 2 π ) 3 d 3 p ​ 2 E p ​ ​ 1 ​ [ b E p ​ , p ​ e i ( p ⋅ x − E p ​ t ) + a E p ​ , p ∗ ​ e − i ( p ⋅ x − E p ​ t ) ] ​
+
+이 경우 ϕ ( − E p , − p ) = ϕ ∗ ( E p , p ) \phi(-E_p, -\bold p) = \phi^*(E_p, \bold p) ϕ ( − E p ​ , − p ) = ϕ ∗ ( E p ​ , p ) 가 일반적으로 성립하지 않으므로 1 2 E p ϕ ∗ ( E p , p ) \frac{1}{\sqrt{2 E_p}} \phi^*(E_p, \bold p) 2 E p ​ ​ 1 ​ ϕ ∗ ( E p ​ , p ) 에 해당하는 것을 b E p , p ∗ b^*_{E_p, \bold{p}} b E p ​ , p ∗ ​ 로 표기하기로 한다. 이번에도 그냥 b b b 가 아닌 b ∗ b^* b ∗ 로 표기하는 이유는 따로 있고, 이 역시 아래에서 설명이 되어있다.
+
+5. 장(field)의 양자화 [편집]
+
+5.1. 정규양자화 [편집]
+이제 장을 양자화해 보도록 하자. 장이 어떤 '물리량'인 만큼 양자역학에서 으레 그렇듯 사실 슈뢰딩거 방정식에서 전자를 다룬 방식을 보면 장 = 파동함수 혹은 상태로 보고 접근하는 것이 옳아 보인다. 하지만 이러한 접근법은 문제가 있다.
+
+맨 먼저 예로 들 수 있는 것으로, 파동 함수로 기술하기 위해서는 초기 상태와 나중상태가 똑같게 유지 되어야 한다. 이게 대수냐고 할 수 있겠지만 사실 이렇게 되면 광자가 흡수 혹은 방출되는 상황(광자 수가 늘거나 줄어드는 상황)을 잘 설명하지 못한다. [8] 애초부터 전자기 상호작용을 제대로 설명하지 못하는 꼴인 셈이다. 그 외에도 음의 에너지 해 문제도 유명한데, 폴 디랙 이 디랙의 바다 개념으로 해결했다고 하지만 [9] [10] 이건 오로지 페르미온에만 해당하는 사항이다.
+
+하지만 이것들 말고도 더 심각한 문제가 있는데, 그것은 바로 인과율 위반 이다. 상대성 이론 을 적용하여 어느 위치와 시간에서 표현된 양자상태가 다른 위치와 시간의 양자 상태로 전이 [11] 되는 상황을 풀어 본다고 하자. 여기서 두 양자 상태는 같은 입자라 가정하고 전이가 시작되는 시간-위치와 전이하려는 시간-위치의 관계가 상태성이론에서 언급하는 space-like proper time [12] 을 만족할 때 전이진폭(전이할 확률의 진폭)값은 e − m ∣ τ ∣ e^{-m\left|\tau\right|} e − m ∣ τ ∣ 에 비례한다. 굉장히 작지만 분명히 0이 아닌 이 계산값은 심각한 문제를 제기하는데, 이 결과는 설사 space-like proper time [13] 이 성립하는 두 시간-위치 좌표를 설정해도 입자가 이동(전이)할 수 있다는 것을 의미하기 때문에, 모든 물체는 빛의 속도를 뛰어 넘어 이동할 수 없다는 제한을 정면으로 위반한다. 그러나 양자장론에 따라 장에 따라 기술하면 이러한 인과율 위반 문제는 말끔하게 해결된다. 양자장론에서 어떤 입자의 두 시간-위치 좌표간의 proper time이 음수가 되면(즉, space-like proper time이 되면) 전이진폭은 정확히 0이 되어, 인과율을 위반하는 문제를 완벽하게 허용하지 않는다. [14]
+
+이러한 배경에 입각하여 실수 스칼라 장을 양자화해 보도록 하자. 위에서 구한 ϕ ( t , x ) \phi(t, \bold{x}) ϕ ( t , x ) 의 꼴을 자세히 보면 사실 다른 건 건들 것도 없고 a E p , p a_{E_p, \bold{p}} a E p ​ , p ​ 만 연산자로 취급하는 것으로 충분하다는 것을 알 수 있다. (그런 이유로 a ∗ a^* a ∗ 를 a † a^\dagger a † 로 표기한다.)
+
+양자역학에서 새로운 연산자들을 만나면 항상 이들의 교환 관계(commutative relation)를 따진다. 이때 임의의 t , x , y t, \bold{x}, \bold{y} t , x , y 에 대하여 [ ϕ ( t , x ) , ϕ ( t , y [\phi(t, \bold{x}), \phi(t, \bold{y} [ ϕ ( t , x ) , ϕ ( t , y )]는 0이어야 할 것이다. 같은 시간에 서로 다른 두 위치는 전혀 상관이 없어야 하기 때문이다. 그 어떤 정보도 빛의 속력보다 빠르게 전달될 수 없다는 것을 상기하면 이해가 빠를 것이다. 이제 이 식에 위에서 구한 ϕ ( t , x ) \phi(t, \bold{x}) ϕ ( t , x ) 꼴을 대입해 보면 다음을 얻는다.
+[ ϕ ( t , x ) , ϕ ( t , y ) ] = [ ∫ d 3 p ( 2 π ) 3 1 2 E p ( a E p , p e i ( p ⋅ y − E p t ) + a E p , p † e − i ( p ⋅ x − E p t ) ) , ∫ d 3 q ( 2 π ) 3 1 2 E q ( a E q , q e i ( q ⋅ y − E q t ) + a E q , q † e − i ( q ⋅ y − E q t ) ) ] = ∫ d 3 p ( 2 π ) 3 1 2 E p ∫ d 3 q ( 2 π ) 3 1 2 E q ( e i ( p ⋅ y − E p t ) e i ( q ⋅ y − E q t ) [ a E p , p , a E q , q ] + e − i ( p ⋅ x − E p t ) e − i ( q ⋅ y − E q t ) [ a E p , p † , a E q , q † ] ) + ∫ d 3 p ( 2 π ) 3 1 2 E p ∫ d 3 q ( 2 π ) 3 1 2 E q ( e i ( p ⋅ y − E p t ) e − i ( q ⋅ y − E q t ) [ a E p , p , a E q , q † ] + e − i ( p ⋅ x − E p t ) e i ( q ⋅ y − E q t ) [ a E p , p † , a E q , q ] ) \displaystyle \begin{aligned} &\left[\phi(t, \bold{x}), \phi(t, \bold{y})\right]\\ &= \left[ \int \frac{d^3 \bold{p}}{(2\pi)^3} \frac{1}{\sqrt{2 E_p}} \left( a_{E_p, \bold{p}} e^{ i \left(\bold{p} \cdot \bold{y} - E_p t \right) } + a^\dagger_{E_p, \bold{p}} e^{ -i \left(\bold{p} \cdot \bold{x} - E_p t \right)} \right), \int \frac{d^3 \bold{q}}{(2\pi)^3} \frac{1}{\sqrt{2 E_q}} \left( a_{E_q, \bold{q}} e^{ i \left(\bold{q}\cdot \bold{y} - E_q t \right) } + a^\dagger_{E_q, \bold{q}} e^{ -i \left(\bold{q} \cdot \bold{y} - E_q t \right)} \right) \right]\\ &= \int \frac{d^3 \bold{p}}{(2\pi)^3} \frac{1}{\sqrt{2 E_p}} \int \frac{d^3 \bold{q}}{(2\pi)^3} \frac{1}{\sqrt{2 E_q}} \left( e^{ i \left(\bold{p} \cdot \bold{y} - E_p t \right) } e^{ i \left(\bold{q} \cdot \bold{y} - E_q t \right) } \left[ a_{E_p, \bold{p}}, a_{E_q, \bold{q}} \right] + e^{ -i \left(\bold{p} \cdot \bold{x} - E_p t \right)} e^{ -i \left(\bold{q} \cdot \bold{y} - E_q t \right)} \left[ a^\dagger_{E_p, \bold{p}}, a^\dagger_{E_q, \bold{q}} \right] \right)\\ &\;\;\; + \int \frac{d^3 \bold{p}}{(2\pi)^3} \frac{1}{\sqrt{2 E_p}} \int \frac{d^3 \bold{q}}{(2\pi)^3} \frac{1}{\sqrt{2 E_q}} \left( e^{ i \left(\bold{p} \cdot \bold{y} - E_p t \right) } e^{ -i \left(\bold{q} \cdot \bold{y} - E_q t \right)} \left[ a_{E_p, \bold{p}}, a^\dagger_{E_q, \bold{q}} \right] + e^{ -i \left(\bold{p} \cdot \bold{x} - E_p t \right)} e^{ i \left(\bold{q} \cdot \bold{y} - E_q t \right) } \left[ a^\dagger_{E_p, \bold{p}}, a_{E_q, \bold{q}} \right] \right) \end{aligned} ​ [ ϕ ( t , x ) , ϕ ( t , y ) ] = [ ∫ ( 2 π ) 3 d 3 p ​ 2 E p ​ ​ 1 ​ ( a E p ​ , p ​ e i ( p ⋅ y − E p ​ t ) + a E p ​ , p † ​ e − i ( p ⋅ x − E p ​ t ) ) , ∫ ( 2 π ) 3 d 3 q ​ 2 E q ​ ​ 1 ​ ( a E q ​ , q ​ e i ( q ⋅ y − E q ​ t ) + a E q ​ , q † ​ e − i ( q ⋅ y − E q ​ t ) ) ] = ∫ ( 2 π ) 3 d 3 p ​ 2 E p ​ ​ 1 ​ ∫ ( 2 π ) 3 d 3 q ​ 2 E q ​ ​ 1 ​ ( e i ( p ⋅ y − E p ​ t ) e i ( q ⋅ y − E q ​ t ) [ a E p ​ , p ​ , a E q ​ , q ​ ] + e − i ( p ⋅ x − E p ​ t ) e − i ( q ⋅ y − E q ​ t ) [ a E p ​ , p † ​ , a E q ​ , q † ​ ] ) + ∫ ( 2 π ) 3 d 3 p ​ 2 E p ​ ​ 1 ​ ∫ ( 2 π ) 3 d 3 q ​ 2 E q ​ ​ 1 ​ ( e i ( p ⋅ y − E p ​ t ) e − i ( q ⋅ y − E q ​ t ) [ a E p ​ , p ​ , a E q ​ , q † ​ ] + e − i ( p ⋅ x − E p ​ t ) e i ( q ⋅ y − E q ​ t ) [ a E p ​ , p † ​ , a E q ​ , q ​ ] ) ​
+
+여기서 마지막 줄의 두 항이 사실상 부호 빼고 같다는 걸 보자. p \bold{p} p , q \bold{q} q 둘 다 적분 더미 변수이고 [ A , B ] = − [ B , A ] [A, B] = -[B, A] [ A , B ] = − [ B , A ] 인 걸 이용하면 된다. 한편 남는 바로 윗 줄은 딱히 0이 될 여지가 없어 보인다. 그럼에도 이 식이 0이려면 모든 p \bold{p} p , q \bold{q} q 에 대하여 다음이 성립해야 할 수밖에 없다는 것을 알 수 있다.
+
+[ a E p , p , a E q , q ] = 0 , [ a E p , p † , a E q , q † ] = 0 \displaystyle \left[ a_{E_p, \bold{p}}, a_{E_q, \bold{q}} \right] = 0, \left[ a^\dagger_{E_p, \bold{p}}, a^\dagger_{E_q, \bold{q}} \right] = 0 [ a E p ​ , p ​ , a E q ​ , q ​ ] = 0 , [ a E p ​ , p † ​ , a E q ​ , q † ​ ] = 0 .
+
+그러면 이제 [ a E p , p , a E q , q † ] \left[ a_{E_p, \bold{p}}, a^\dagger_{E_q, \bold{q}} \right] [ a E p ​ , p ​ , a E q ​ , q † ​ ] 를 구해보면 좋을 것 같아 보인다. 이걸 위해 정준켤레와 교환자가 사용된다. 정규양자화에 따르면 주어진 고전역학 시스템의 모든 푸아송 괄호들은 양자역학 시스템에서 연산자들의 교환 관계와 대응하게 된다. 즉, a , b a, b a , b 를 고전역햑 시스템에서의 어떤 두 물리량이라고 하고 A , B A, B A , B 를 이들 각각에 해당하는 양자역학 시스템에서의 두 연산자라고 했을 때, 푸아송 괄호 { a , b } \{a, b\} { a , b } 는 교환자 1 i ℏ [ A , B ] \frac{1}{i\hbar} [A, B] i ℏ 1 ​ [ A , B ] 에 대응한다. 이제 위에서 소개한 푸아송 괄호관계를 통해 다음을 알 수 있다.
+
+[ ϕ ( t , x ) , π ϕ ( t , y ) ] = i δ 3 ( x − y ) \displaystyle \left[\phi(t, \bold{x}), \pi_\phi(t, \bold{y})\right] = i\delta^3( \bold{x} - \bold{y} ) [ ϕ ( t , x ) , π ϕ ​ ( t , y ) ] = i δ 3 ( x − y ) .
+
+여기서 이미 π ϕ = ∂ t ϕ \pi_\phi = \partial_t \phi π ϕ ​ = ∂ t ​ ϕ 임을 알고 있다. 이로부터 다음을 계산할 수 있다.
+[ ϕ ( t , x ) , π ϕ ( t , y ) ] = [ ϕ ( t , x ) , ∂ t ϕ ( t , y ) ] = [ ∫ d 3 p ( 2 π ) 3 1 2 E p ( a E p , p e i ( p ⋅ x − E p t ) + a E p , p † e − i ( p ⋅ x − E p t ) ) , ∫ d 3 q ( 2 π ) 3 1 2 E q ( a E q , q ( ∂ t e i ( q ⋅ y − E q t ) ) + a E q , q † ( ∂ t e − i ( q ⋅ y − E q t ) ) ) ] = ∫ d 3 p ( 2 π ) 3 1 2 E p d 3 q ( 2 π ) 3 i E q 2 E q e i ( p ⋅ x − E p t ) e − i ( q ⋅ y − E q t ) [ a E p , p , a E q , q † ] + ∫ d 3 p ( 2 π ) 3 1 2 E p d 3 q ( 2 π ) 3 − i E q 2 E q e − i ( p ⋅ x − E p t ) e i ( q ⋅ y − E q t ) [ a E p , p † , a E q , q ] = i ∫ d 3 p ( 2 π ) 3 d 3 q ( 2 π ) 3 1 2 ( E p E q + E q E p ) e i ( p ⋅ x − q ⋅ y ) − i ( E p − E q ) t [ a E p , p , a E q , q † ] \displaystyle \begin{aligned} &\left[\phi(t, \bold{x}), \pi_\phi(t, \bold{y} ) \right] = \left[\phi(t, \bold{x} ), \partial_t \phi(t, \bold{y} )\right]\\ &= \left[ \int \frac{d^3 \bold{p}}{(2\pi)^3} \frac{1}{\sqrt{2 E_p}} \left( a_{E_p, \bold{p}} e^{ i \left(\bold{p} \cdot \bold{x} - E_p t \right) } + a^\dagger_{E_p, \bold{p}} e^{ -i \left(\bold{p} \cdot \bold{x} - E_p t \right)} \right), \int \frac{d^3 \bold{q}}{(2\pi)^3} \frac{1}{\sqrt{2 E_q}} \left( a_{E_q, \bold{q} } ( \partial_t e^{ i \left(\bold{q} \cdot \bold{y} - E_q t \right) } ) + a^\dagger_{E_q, \bold{q} } ( \partial_t e^{ -i \left(\bold{q} \cdot \bold{y} - E_q t \right)} ) \right) \right]\\ &= \int \frac{d^3 \bold{p}}{(2\pi)^3} \frac{1}{\sqrt{2 E_p}} \frac{d^3 \bold{q}}{(2\pi)^3} \frac{iE_q}{\sqrt{2 E_q}} e^{ i \left(\bold{p} \cdot \bold{x} - E_p t \right) } e^{ -i \left(\bold{q} \cdot \bold{y} - E_q t \right) } \left[ a_{E_p, \bold{p}}, a_{E_q, \bold{q}}^\dagger \right]\\ &\;\;\;+ \int \frac{d^3 \bold{p}}{(2\pi)^3} \frac{1}{\sqrt{2 E_p}} \frac{d^3 \bold{q}}{(2\pi)^3} \frac{-iE_q}{\sqrt{2 E_q}} e^{ -i \left(\bold{p} \cdot \bold{x} - E_p t \right) } e^{ i \left(\bold{q} \cdot \bold{y} - E_q t \right) } \left[ a_{E_p, \bold{p}}^\dagger, a_{E_q, \bold{q}} \right]\\ &=i \int \frac{d^3 \bold{p}}{(2\pi)^3} \frac{d^3 \bold{q}}{(2\pi)^3} \frac{1}{2} \left( \sqrt{\frac{E_p}{E_q}} + \sqrt{\frac{E_q}{E_p}} \right) e^{ i \left( \bold{p} \cdot \bold{x} - \bold{q} \cdot \bold{y} \right) - i( E_p - E_q ) t } \left[ a_{E_p, \bold{p}}, a_{E_q, \bold{q}}^\dagger \right] \end{aligned} ​ [ ϕ ( t , x ) , π ϕ ​ ( t , y ) ] = [ ϕ ( t , x ) , ∂ t ​ ϕ ( t , y ) ] = [ ∫ ( 2 π ) 3 d 3 p ​ 2 E p ​ ​ 1 ​ ( a E p ​ , p ​ e i ( p ⋅ x − E p ​ t ) + a E p ​ , p † ​ e − i ( p ⋅ x − E p ​ t ) ) , ∫ ( 2 π ) 3 d 3 q ​ 2 E q ​ ​ 1 ​ ( a E q ​ , q ​ ( ∂ t ​ e i ( q ⋅ y − E q ​ t ) ) + a E q ​ , q † ​ ( ∂ t ​ e − i ( q ⋅ y − E q ​ t ) ) ) ] = ∫ ( 2 π ) 3 d 3 p ​ 2 E p ​ ​ 1 ​ ( 2 π ) 3 d 3 q ​ 2 E q ​ ​ i E q ​ ​ e i ( p ⋅ x − E p ​ t ) e − i ( q ⋅ y − E q ​ t ) [ a E p ​ , p ​ , a E q ​ , q † ​ ] + ∫ ( 2 π ) 3 d 3 p ​ 2 E p ​ ​ 1 ​ ( 2 π ) 3 d 3 q ​ 2 E q ​ ​ − i E q ​ ​ e − i ( p ⋅ x − E p ​ t ) e i ( q ⋅ y − E q ​ t ) [ a E p ​ , p † ​ , a E q ​ , q ​ ] = i ∫ ( 2 π ) 3 d 3 p ​ ( 2 π ) 3 d 3 q ​ 2 1 ​ ( E q ​ E p ​ ​ ​ + E p ​ E q ​ ​ ​ ) e i ( p ⋅ x − q ⋅ y ) − i ( E p ​ − E q ​ ) t [ a E p ​ , p ​ , a E q ​ , q † ​ ] ​
+
+여기서 [ a E p , p , a E q , q ] = 0 , [ a E p , p † , a E q , q † ] = 0 \left[ a_{E_p, \bold{p}}, a_{E_q, \bold{q}} \right] = 0, \left[ a^\dagger_{E_p, \bold{p}}, a^\dagger_{E_q, \bold{q}} \right] = 0 [ a E p ​ , p ​ , a E q ​ , q ​ ] = 0 , [ a E p ​ , p † ​ , a E q ​ , q † ​ ] = 0 을 썼고 두번째 적분의 dummy 변수 p , q \bold{p}, \bold{q} p , q 를 바꿨다.
+
+지금 원하는 건 이렇게 계산한 [ ϕ ( t , x ) , π ϕ ( t , y [\phi(t, \bold{x}), \pi_\phi(t, \bold{y} [ ϕ ( t , x ) , π ϕ ​ ( t , y )]가 정준양자화의 결과인 i δ 3 ( x − y ) i\delta^3(\bold{x} - \bold{y}) i δ 3 ( x − y ) 와 같은 것이다. 이것과 좀 전의 결과를 비교하기 위해 델타 함수를 좀 더 비슷한 꼴로 쓸 필요가 있다. 다음이 잘 알려져 있다.
+
+δ 3 ( x − y ) = ∫ d 3 p ( 2 π ) 3 e i p ⋅ ( x − y ) \displaystyle \delta^3(\bold{x} - \bold{y}) = \int \frac{d^3 \bold{p}}{(2\pi)^3} e^{i \bold{p} \cdot ( \bold{x} - \bold{y} )} δ 3 ( x − y ) = ∫ ( 2 π ) 3 d 3 p ​ e i p ⋅ ( x − y ) .
+
+이걸 앞의 결과와 비교해 보자. 이때 피적분함수 부분에서 p = q \bold{p} = \bold{q} p = q 이기만 하면 이 둘이 완전히 똑같아진다는 것을 알 수 있다. 이로부터 다음이 만족되어야 함을 알 수 있다.
+
+[ a E p , p , a E q , q † ] = ( 2 π ) 3 δ 3 ( p − q ) \displaystyle \left[ a_{E_p, \bold{p}}, a_{E_q, \bold{q}}^\dagger \right] = (2 \pi)^3 \delta^3(\bold{p} - \bold{q}) [ a E p ​ , p ​ , a E q ​ , q † ​ ] = ( 2 π ) 3 δ 3 ( p − q ) .
+
+이렇게 해서 a E p , p a_{E_p, \bold{p}} a E p ​ , p ​ 와 a E p , p † a_{E_p, \bold{p}}^\dagger a E p ​ , p † ​ 의 교환 관계를 파악했다. 이걸 이용해서 이 연산자들이 갖는 물리적 의미를 찾을 수 있다. 물리적 의미를 보고자 한다면 라그랑지안 혹은 해밀토니안 을 봐야 한다. 일단 우리는 에너지와 운동량에도 관심이 있으니, 해밀토니안 연산자를 자세히 들여다 볼 필요가 있겠다. 해밀토니안은 이미 알고 있는 라그랑지안으로부터 바로 얻을 수 있다.
+
+H = ∂ L ∂ ( ∂ t ϕ ) ( ∂ t ϕ ) − L = ∫ d 3 x ( ∂ L ∂ ( ∂ t ϕ ) ( ∂ t ϕ ) − L ) \displaystyle \mathcal{H} = \frac{\partial \mathscr{L}}{\partial ( \partial_t \phi )} ( \partial_t \phi ) - \mathscr{L} = \int d^3 x \left( \frac{\partial \mathscr{L}}{\partial ( \partial_t \phi )} ( \partial_t \phi ) - \mathscr{L} \right) H = ∂ ( ∂ t ​ ϕ ) ∂ L ​ ( ∂ t ​ ϕ ) − L = ∫ d 3 x ( ∂ ( ∂ t ​ ϕ ) ∂ L ​ ( ∂ t ​ ϕ ) − L )
+= ∫ d 3 x 1 2 ( π 2 + ( ∇ ϕ ) 2 + m 2 ϕ 2 ) \displaystyle = \int d^3 x \displaystyle \frac{1}{2} ( \pi^2 + ( \bold{\nabla} \phi )^2 + m^2 \phi^2 ) = ∫ d 3 x 2 1 ​ ( π 2 + ( ∇ ϕ ) 2 + m 2 ϕ 2 )
+
+식 전개를 간편하게 하기 위해 ϕ \phi ϕ 와 π \pi π 를 다음과 같이 써 보도록 하자.
+ϕ ( t , x ) = ∫ d 3 p ( 2 π ) 3 1 2 E p ( a E p , p ( t ) + a E p , − p ( t ) † ) e i p ⋅ x , π ( t , x ) = − i ∫ d 3 p ( 2 π ) 3 E p 2 ( a E p , p ( t ) − a E p , − p ( t ) † ) e i p ⋅ x ⁣ ( a E p , p ( t ) = a E p , p e − i E p t ) \displaystyle \begin{aligned} &\phi(t, x) = \int \frac{d^3 p}{(2 \pi)^3} \sqrt{\frac{1}{2E_p}} ( a_{E_p, \bold{p}}(t) + a_{E_p, -\bold{p}}(t)^\dagger ) e^{i \bold{p} \cdot \bold{x}}, \\ &\pi(t, x) = -i \int \frac{d^3 p}{(2 \pi)^3} \sqrt{\frac{E_p}{2}} ( a_{E_p, \bold{p}}(t) - a_{E_p, -\bold{p}}(t)^\dagger ) e^{i \bold{p} \cdot \bold{x}}\\ &\! \left( a_{E_p, \bold{p}}(t) = a_{E_p, \bold{p}} e^{-i E_p t} \right) \end{aligned} ​ ϕ ( t , x ) = ∫ ( 2 π ) 3 d 3 p ​ 2 E p ​ 1 ​ ​ ( a E p ​ , p ​ ( t ) + a E p ​ , − p ​ ( t ) † ) e i p ⋅ x , π ( t , x ) = − i ∫ ( 2 π ) 3 d 3 p ​ 2 E p ​ ​ ​ ( a E p ​ , p ​ ( t ) − a E p ​ , − p ​ ( t ) † ) e i p ⋅ x ( a E p ​ , p ​ ( t ) = a E p ​ , p ​ e − i E p ​ t ) ​
+
+이걸 해밀토니안에 대입해 보자.
+H = ∫ d 3 x ∫ d 3 p d 3 q ( 2 π ) 6 1 2 ( − E p E q 2 ( a E p , p ( t ) − a E p , − p ( t ) † ) ( a E q , q ( t ) − a E q , − q ( t ) † ) ) e i ( p + q ) ⋅ x + ( − p ⋅ q + m 2 2 E p E q ( a E p , p ( t ) + a E p , − p ( t ) † ) ( a E q , q ( t ) + a E q , − q ( t ) † ) ) e i ( p + q ) ⋅ x = ∫ d 3 p ( 2 π ) 3 E p 4 − ( a E p , p ( t ) − a E p , − p ( t ) † ) ( a E p , − p ( t ) − a E p , p ( t ) † ) + E p 4 ( a E p , p ( t ) + a E p , − p ( t ) † ) ( a E p , − p ( t ) + a E p , p ( t ) † ) = ∫ d 3 p ( 2 π ) 3 E p 2 ( a E p , p ( t ) a E p , p ( t ) † + a E p , − p ( t ) † a E p , − p ( t ) ) = ∫ d 3 p ( 2 π ) 3 E p 2 ( a E p , p a E p , p † + a E p , p † a E p , p ) = ∫ d 3 p ( 2 π ) 3 E p ( a E p , p † a E p , p + 1 2 [ a E p , p , a E p , p † ] ) \displaystyle \begin{aligned} \mathcal{H} &= \int d^3 x \int \frac{d^3 p \; d^3 q}{(2 \pi)^6} \frac{1}{2} \left( -\frac{\sqrt{E_p E_q}}{2} ( a_{E_p, \bold{p}}(t) - a_{E_p, -\bold{p}}(t)^\dagger )( a_{E_q, \bold{q}}(t) - a_{E_q, -\bold{q}}(t)^\dagger ) \right) e^{i (\bold{p} + \bold{q}) \cdot \bold{x}} \\ &+ \left( \frac{-\bold{p} \cdot \bold{q} + m^2}{2\sqrt{E_p E_q}} ( a_{E_p, \bold{p}}(t) + a_{E_p, -\bold{p}}(t)^\dagger )( a_{E_q, \bold{q}}(t) + a_{E_q, -\bold{q}}(t)^\dagger ) \right) e^{i (\bold{p} + \bold{q}) \cdot \bold{x}} \\ &= \int \frac{d^3 p}{(2 \pi)^3} \frac{E_p}{4} -( a_{E_p, \bold{p}}(t) - a_{E_p, -\bold{p}}(t)^\dagger )( a_{E_p, -\bold{p}}(t) - a_{E_p, \bold{p}}(t)^\dagger ) \\ &+ \frac{E_p}{4} ( a_{E_p, \bold{p}}(t) + a_{E_p, -\bold{p}}(t)^\dagger )( a_{E_p, -\bold{p}}(t) + a_{E_p, \bold{p}}(t)^\dagger ) \\ &= \int \frac{d^3 p}{(2 \pi)^3} \frac{E_p}{2} \left( a_{E_p, \bold{p}}(t) a_{E_p, \bold{p}}(t)^\dagger + a_{E_p, -\bold{p}}(t)^\dagger a_{E_p, -\bold{p}}(t) \right) \\ &= \int \frac{d^3 p}{(2 \pi)^3} \frac{E_p}{2} \left( a_{E_p, \bold{p}} a_{E_p, \bold{p}}^\dagger + a_{E_p, \bold{p}}^\dagger a_{E_p, \bold{p}} \right) \\ &= \int \frac{d^3 p}{(2 \pi)^3} E_p \left( a_{E_p, \bold{p}}^\dagger a_{E_p, \bold{p}} + \frac{1}{2} [ a_{E_p, \bold{p}}, a_{E_p, \bold{p}}^\dagger ] \right) \end{aligned} H ​ = ∫ d 3 x ∫ ( 2 π ) 6 d 3 p d 3 q ​ 2 1 ​ ( − 2 E p ​ E q ​ ​ ​ ( a E p ​ , p ​ ( t ) − a E p ​ , − p ​ ( t ) † ) ( a E q ​ , q ​ ( t ) − a E q ​ , − q ​ ( t ) † ) ) e i ( p + q ) ⋅ x + ( 2 E p ​ E q ​ ​ − p ⋅ q + m 2 ​ ( a E p ​ , p ​ ( t ) + a E p ​ , − p ​ ( t ) † ) ( a E q ​ , q ​ ( t ) + a E q ​ , − q ​ ( t ) † ) ) e i ( p + q ) ⋅ x = ∫ ( 2 π ) 3 d 3 p ​ 4 E p ​ ​ − ( a E p ​ , p ​ ( t ) − a E p ​ , − p ​ ( t ) † ) ( a E p ​ , − p ​ ( t ) − a E p ​ , p ​ ( t ) † ) + 4 E p ​ ​ ( a E p ​ , p ​ ( t ) + a E p ​ , − p ​ ( t ) † ) ( a E p ​ , − p ​ ( t ) + a E p ​ , p ​ ( t ) † ) = ∫ ( 2 π ) 3 d 3 p ​ 2 E p ​ ​ ( a E p ​ , p ​ ( t ) a E p ​ , p ​ ( t ) † + a E p ​ , − p ​ ( t ) † a E p ​ , − p ​ ( t ) ) = ∫ ( 2 π ) 3 d 3 p ​ 2 E p ​ ​ ( a E p ​ , p ​ a E p ​ , p † ​ + a E p ​ , p † ​ a E p ​ , p ​ ) = ∫ ( 2 π ) 3 d 3 p ​ E p ​ ( a E p ​ , p † ​ a E p ​ , p ​ + 2 1 ​ [ a E p ​ , p ​ , a E p ​ , p † ​ ] ) ​
+
+이거 어디서 많이 보지 않았는가? 다름 아닌 조화진동자 의 해밀토니안과 비슷하게 생겼다 . 더군다나 앞에서 보인 식 [ a E p , p , a E q , q † ] = ( 2 π ) 3 δ 3 ( p − q ) \left[ a_{E_p, \bold{p}}, a_{E_q, \bold{q}}^\dagger \right] = (2 \pi)^3 \delta^3(\bold{p} - \bold{q}) [ a E p ​ , p ​ , a E q ​ , q † ​ ] = ( 2 π ) 3 δ 3 ( p − q ) 도 (사소한 상수배인 ( 2 π ) 3 (2 \pi)^3 ( 2 π ) 3 를 제외하면) 조화진동자에서 본 것이다. (학부 양자역학 시간 때 배우기로는 [ a , a † ] = 1 [a, a^\dagger] = 1 [ a , a † ] = 1 인 것만 배웠는데, 일반적인 n차원 조화진동자 문제를 같은 방법으로 풀면 n개의 a i , a i † a_i, a_i^\dagger a i ​ , a i † ​ , 그리고 교환 관계 [ a i , a j † ] = δ i j [a_i, a_j^\dagger] = \delta_{ij} [ a i ​ , a j † ​ ] = δ ij ​ 를 얻게 될 것이다. 이것의 일반화로 보면 될 것이다.) 사실 이로 미루어 볼 때 a E p , p † a_{E_p, \bold{p}}^\dagger a E p ​ , p † ​ 와 a E p , p a_{E_p, \bold{p}} a E p ​ , p ​ 를 각각 생성자(creator)와 소멸자(annihilator)로 간주할 수 있을 것으로 보인다. 이때 조화진동자 문제에서 ( a † ) n ∣ 0 ⟩ (a^\dagger)^n | 0 \rangle ( a † ) n ∣0 ⟩ 이 n번째 에너지 준위의 상태에 해당함이 이미 잘 알려져 있다. 이제 H \mathcal{H} H 를 ( a E p , p † ) n ∣ 0 ⟩ (a_{E_p, \bold{p}}^\dagger)^n | 0 \rangle ( a E p ​ , p † ​ ) n ∣0 ⟩ 에 적용하면 어떤 결과가 나오는가를 보자. 조화진동자에서와 같이 우리는 모든 p \bold{p} p 에 대해 a E p , p ∣ 0 ⟩ = 0 a_{E_p, \bold{p}} | 0 \rangle = 0 a E p ​ , p ​ ∣0 ⟩ = 0 라고 가정할 것이다. 그리고 [ A , B C ] = [ A , B ] C + B [ A , C ] [A, BC] = [A, B]C + B[A, C] [ A , B C ] = [ A , B ] C + B [ A , C ] 를 쓰려고 한다. 이를 통해 만약 [ A , B ] = c 1 [A, B] = c1 [ A , B ] = c 1 로 c c c 가 어떤 수이면 [ A , B n ] = c n B n − 1 [A, B^n] = cnB^{n - 1} [ A , B n ] = c n B n − 1 임을 알 수 있다. [15] 이들을 이용해 보자. 다만 후술할 문제로 인해 먼저 H \mathcal{H} H 의 첫 번째 항만 고려해 보자.
+( ∫ d 3 q ( 2 π ) 3 E q a E q , q † a E q , q ) ( a E p , p † ) n ∣ 0 ⟩ = ( ∫ d 3 q ( 2 π ) 3 E q a E q , q † a E q , q ( a E p , p † ) n ) ∣ 0 ⟩ = ( ∫ d 3 q ( 2 π ) 3 E q a E q , q † ( ( a E p , p † ) n a E q , q + [ a E q , q , ( a E p , p † ) n ] ) ) ∣ 0 ⟩ = ( ∫ d 3 q ( 2 π ) 3 E q a E q , q † ( n ( 2 π ) 3 δ 3 ( p − q ) ( a E p , p † ) n − 1 ) ) ∣ 0 ⟩ = E p a E p , p † ( n ( a E p , p † ) n − 1 ) ∣ 0 ⟩ = n E p ( ( a E p , p † ) n ∣ 0 ⟩ ) \displaystyle \begin{aligned} \left( \int \frac{d^3 q}{(2 \pi)^3} E_q a_{E_q, \bold{q}}^\dagger a_{E_q, \bold{q}} \right) &(a_{E_p, \bold{p}}^\dagger)^n | 0 \rangle = \left( \int \frac{d^3 q}{(2 \pi)^3} E_q a_{E_q, \bold{q}}^\dagger a_{E_q, \bold{q}} (a_{E_p, \bold{p}}^\dagger)^n \right) | 0 \rangle \\ &= \left( \int \frac{d^3 q}{(2 \pi)^3} E_q a_{E_q, \bold{q}}^\dagger \left( (a_{E_p, \bold{p}}^\dagger)^n a_{E_q, \bold{q}} + \left[ a_{E_q, \bold{q}}, (a_{E_p, \bold{p}}^\dagger)^n \right] \right) \right) | 0 \rangle \\ &= \left( \int \frac{d^3 q}{(2 \pi)^3} E_q a_{E_q, \bold{q}}^\dagger \left( n (2 \pi)^3 \delta^3(\bold{p} - \bold{q}) (a_{E_p, \bold{p}}^\dagger)^{n - 1} \right) \right) | 0 \rangle \\ &= E_p a_{E_p, \bold{p}}^\dagger \left( n (a_{E_p, \bold{p}}^\dagger)^{n - 1} \right) | 0 \rangle \\ &= nE_p \left( (a_{E_p, \bold{p}}^\dagger)^n | 0 \rangle \right) \end{aligned} ( ∫ ( 2 π ) 3 d 3 q ​ E q ​ a E q ​ , q † ​ a E q ​ , q ​ ) ​ ( a E p ​ , p † ​ ) n ∣0 ⟩ = ( ∫ ( 2 π ) 3 d 3 q ​ E q ​ a E q ​ , q † ​ a E q ​ , q ​ ( a E p ​ , p † ​ ) n ) ∣0 ⟩ = ( ∫ ( 2 π ) 3 d 3 q ​ E q ​ a E q ​ , q † ​ ( ( a E p ​ , p † ​ ) n a E q ​ , q ​ + [ a E q ​ , q ​ , ( a E p ​ , p † ​ ) n ] ) ) ∣0 ⟩ = ( ∫ ( 2 π ) 3 d 3 q ​ E q ​ a E q ​ , q † ​ ( n ( 2 π ) 3 δ 3 ( p − q ) ( a E p ​ , p † ​ ) n − 1 ) ) ∣0 ⟩ = E p ​ a E p ​ , p † ​ ( n ( a E p ​ , p † ​ ) n − 1 ) ∣0 ⟩ = n E p ​ ( ( a E p ​ , p † ​ ) n ∣0 ⟩ ) ​
+
+즉, ( a E p , p † ) n ∣ 0 ⟩ (a_{E_p, \bold{p}}^\dagger)^n | 0 \rangle ( a E p ​ , p † ​ ) n ∣0 ⟩ 는 다름 아닌 해밀토니안의 교유 상태이다. 특히 그 고유값, 즉 이 상태가 갖는 에너지는 (무시한 상수항을 제외하면) n E p nE_p n E p ​ 와 같다는 것을 알 수 있다. 여기서 뭔가 짐작이 가지만 하나만 더 들여다 보자. 운동량 연산자를 이 상태에 적용해 보도록 하자. 운동량 연산자는 다음과 같이 써질 수 있음을 알 수 있다.
+
+P i = ∂ L ∂ ( ∂ t ϕ ) ∂ i ϕ = ∫ d 3 x ( ∂ L ∂ ( ∂ t ϕ ) ∂ i ϕ ) \displaystyle P_i = \frac{\partial \mathscr{L}}{\partial (\partial_t \phi)} \partial_i \phi = \int d^3 x \left( \frac{\partial \mathscr{L}}{\partial (\partial_t \phi)} \partial_i \phi \right) P i ​ = ∂ ( ∂ t ​ ϕ ) ∂ L ​ ∂ i ​ ϕ = ∫ d 3 x ( ∂ ( ∂ t ​ ϕ ) ∂ L ​ ∂ i ​ ϕ )
+= − ∫ d 3 x π ϕ ( x ) ∂ i ϕ ( x ) . \displaystyle = -\int d^3 x \pi_\phi(x) \partial_i \phi(x). = − ∫ d 3 x π ϕ ​ ( x ) ∂ i ​ ϕ ( x ) .
+
+이제 여기에 위에 적어둔 π ( x ) = π ϕ ( x ) \pi(x) = \pi_\phi(x) π ( x ) = π ϕ ​ ( x ) 와 ϕ ( x ) \phi(x) ϕ ( x ) 를 대입하여 다음을 얻을 수 있다.
+P i = ∫ d 3 x ∫ d 3 p d 3 q ( 2 π ) 6 ( − i E p 2 ( a E p , p ( t ) − a E p , − p ( t ) † ) e i p ⋅ x ) ( 1 2 E q ( a E q , q ( t ) + a E q , − q ( t ) † ) ( i q i ) e i q ⋅ x ) = 1 2 ∫ d 3 x ∫ d 3 p d 3 q ( 2 π ) 6 q i ( a E p , p ( t ) − a E p , − p ( t ) † ) ( a E q , q ( t ) + a E q , − q ( t ) † ) e i ( p + q ) ⋅ x = 1 2 ∫ d 3 p ( 2 π ) 3 p i ( a E p , p ( t ) a E p , − p ( t ) − a E p , − p ( t ) † a E p , − p ( t ) + a E p , p ( t ) a E p , p ( t ) † − a E p , − p ( t ) † a E p , p ( t ) † ) = 1 4 ∫ d 3 p ( 2 π ) 3 p i ( a E p , p ( t ) a E p , − p ( t ) − a E p , − p ( t ) † a E p , − p ( t ) + a E p , p ( t ) a E p , p ( t ) † − a E p , − p ( t ) † a E p , p ( t ) † ) + 1 4 ∫ d 3 p ( 2 π ) 3 ( − p i ) ( a E p , − p ( t ) a E p , p ( t ) − a E p , p ( t ) † a E p , p ( t ) + a E p , − p ( t ) a E p , − p ( t ) † − a E p , p ( t ) † a E p , − p ( t ) † ) = 1 4 ∫ d 3 p ( 2 π ) 3 p i [ ( [ a E p , p ( t ) , a E p , − p ( t ) ] − 2 a E p , − p ( t ) † a E p , − p ( t ) + 2 a E p , p ( t ) a E p , p ( t ) † − [ a E p , − p ( t ) † , a E p , p ( t ) † ] ) = 1 2 ∫ d 3 p ( 2 π ) 3 p i ( a E p , p ( t ) a E p , p ( t ) † − a E p , − p ( t ) † a E p , − p ( t ) ) = 1 2 ∫ d 3 p ( 2 π ) 3 p i ( a E p , p a E p , p † + a E p , p † a E p , p ) = ∫ d 3 p ( 2 π ) 3 p i ( a E p , p † a E p , p + 1 2 [ a E p , p , a E p , p † ] ) = ∫ d 3 p ( 2 π ) 3 p i a E p , p † a E p , p \displaystyle \begin{aligned} P_i &= \int d^3 x \int \frac{d^3 p \; d^3 q}{(2 \pi)^6} \left( -i \sqrt{\frac{E_p}{2}} ( a_{E_p, \bold{p}}(t) - a_{E_p, -\bold{p}}(t)^\dagger ) e^{i \bold{p} \cdot \bold{x}} \right) \left( \sqrt{\frac{1}{2E_q}} ( a_{E_q, \bold{q}}(t) + a_{E_q, -\bold{q}}(t)^\dagger ) (iq_i) e^{i \bold{q} \cdot \bold{x}} \right) \\ &= \frac{1}{2} \int d^3 x \int \frac{d^3 p \; d^3 q}{(2 \pi)^6} q_i \left( a_{E_p, \bold{p}}(t) - a_{E_p, -\bold{p}}(t)^\dagger \right) \left( a_{E_q, \bold{q}}(t) + a_{E_q, -\bold{q}}(t)^\dagger \right) e^{i (\bold{p} + \bold{q}) \cdot \bold{x}} \\ &= \frac{1}{2} \int \frac{d^3 p}{(2 \pi)^3} p_i \left( a_{E_p, \bold{p}}(t) a_{E_p, -\bold{p}}(t) - a_{E_p, -\bold{p}}(t)^\dagger a_{E_p, -\bold{p}}(t) + a_{E_p, \bold{p}}(t) a_{E_p, \bold{p}}(t)^\dagger - a_{E_p, -\bold{p}}(t)^\dagger a_{E_p, \bold{p}}(t)^\dagger \right) \\ &= \frac{1}{4} \int \frac{d^3 p}{(2 \pi)^3} p_i \left( a_{E_p, \bold{p}}(t) a_{E_p, -\bold{p}}(t) - a_{E_p, -\bold{p}}(t)^\dagger a_{E_p, -\bold{p}}(t) + a_{E_p, \bold{p}}(t) a_{E_p, \bold{p}}(t)^\dagger - a_{E_p, -\bold{p}}(t)^\dagger a_{E_p, \bold{p}}(t)^\dagger \right) \\ &\;\; + \frac{1}{4} \int \frac{d^3 p}{(2 \pi)^3} (-p_i) \left( a_{E_p, -\bold{p}}(t) a_{E_p, \bold{p}}(t) - a_{E_p, \bold{p}}(t)^\dagger a_{E_p, \bold{p}}(t) + a_{E_p, -\bold{p}}(t) a_{E_p, -\bold{p}}(t)^\dagger - a_{E_p, \bold{p}}(t)^\dagger a_{E_p, -\bold{p}}(t)^\dagger \right) \\ &= \frac{1}{4} \int \frac{d^3 p}{(2 \pi)^3} p_i [\left( \left[ a_{E_p, \bold{p}}(t), a_{E_p, -\bold{p}}(t) \right] - 2a_{E_p, -\bold{p}}(t)^\dagger a_{E_p, -\bold{p}}(t) + 2a_{E_p, \bold{p}}(t) a_{E_p, \bold{p}}(t)^\dagger - \left[ a_{E_p, -\bold{p}}(t)^\dagger, a_{E_p, \bold{p}}(t)^\dagger \right] \right) \\ &= \frac{1}{2} \int \frac{d^3 p}{(2 \pi)^3} p_i \left( a_{E_p, \bold{p}}(t) a_{E_p, \bold{p}}(t)^\dagger - a_{E_p, -\bold{p}}(t)^\dagger a_{E_p, -\bold{p}}(t) \right) \\ &= \frac{1}{2} \int \frac{d^3 p}{(2 \pi)^3} p_i \left( a_{E_p, \bold{p}} a_{E_p, \bold{p}}^\dagger + a_{E_p, \bold{p}}^\dagger a_{E_p, \bold{p}} \right) \\ &= \int \frac{d^3 p}{(2 \pi)^3} p_i \left( a_{E_p, \bold{p}}^\dagger a_{E_p, \bold{p}} + \frac{1}{2} \left[ a_{E_p, \bold{p}}, a_{E_p, \bold{p}}^\dagger \right] \right) \\ &= \int \frac{d^3 p}{(2 \pi)^3} p_i a_{E_p, \bold{p}}^\dagger a_{E_p, \bold{p}} \end{aligned} P i ​ ​ = ∫ d 3 x ∫ ( 2 π ) 6 d 3 p d 3 q ​ ( − i 2 E p ​ ​ ​ ( a E p ​ , p ​ ( t ) − a E p ​ , − p ​ ( t ) † ) e i p ⋅ x ) ( 2 E q ​ 1 ​ ​ ( a E q ​ , q ​ ( t ) + a E q ​ , − q ​ ( t ) † ) ( i q i ​ ) e i q ⋅ x ) = 2 1 ​ ∫ d 3 x ∫ ( 2 π ) 6 d 3 p d 3 q ​ q i ​ ( a E p ​ , p ​ ( t ) − a E p ​ , − p ​ ( t ) † ) ( a E q ​ , q ​ ( t ) + a E q ​ , − q ​ ( t ) † ) e i ( p + q ) ⋅ x = 2 1 ​ ∫ ( 2 π ) 3 d 3 p ​ p i ​ ( a E p ​ , p ​ ( t ) a E p ​ , − p ​ ( t ) − a E p ​ , − p ​ ( t ) † a E p ​ , − p ​ ( t ) + a E p ​ , p ​ ( t ) a E p ​ , p ​ ( t ) † − a E p ​ , − p ​ ( t ) † a E p ​ , p ​ ( t ) † ) = 4 1 ​ ∫ ( 2 π ) 3 d 3 p ​ p i ​ ( a E p ​ , p ​ ( t ) a E p ​ , − p ​ ( t ) − a E p ​ , − p ​ ( t ) † a E p ​ , − p ​ ( t ) + a E p ​ , p ​ ( t ) a E p ​ , p ​ ( t ) † − a E p ​ , − p ​ ( t ) † a E p ​ , p ​ ( t ) † ) + 4 1 ​ ∫ ( 2 π ) 3 d 3 p ​ ( − p i ​ ) ( a E p ​ , − p ​ ( t ) a E p ​ , p ​ ( t ) − a E p ​ , p ​ ( t ) † a E p ​ , p ​ ( t ) + a E p ​ , − p ​ ( t ) a E p ​ , − p ​ ( t ) † − a E p ​ , p ​ ( t ) † a E p ​ , − p ​ ( t ) † ) = 4 1 ​ ∫ ( 2 π ) 3 d 3 p ​ p i ​ [ ( [ a E p ​ , p ​ ( t ) , a E p ​ , − p ​ ( t ) ] − 2 a E p ​ , − p ​ ( t ) † a E p ​ , − p ​ ( t ) + 2 a E p ​ , p ​ ( t ) a E p ​ , p ​ ( t ) † − [ a E p ​ , − p ​ ( t ) † , a E p ​ , p ​ ( t ) † ] ) = 2 1 ​ ∫ ( 2 π ) 3 d 3 p ​ p i ​ ( a E p ​ , p ​ ( t ) a E p ​ , p ​ ( t ) † − a E p ​ , − p ​ ( t ) † a E p ​ , − p ​ ( t ) ) = 2 1 ​ ∫ ( 2 π ) 3 d 3 p ​ p i ​ ( a E p ​ , p ​ a E p ​ , p † ​ + a E p ​ , p † ​ a E p ​ , p ​ ) = ∫ ( 2 π ) 3 d 3 p ​ p i ​ ( a E p ​ , p † ​ a E p ​ , p ​ + 2 1 ​ [ a E p ​ , p ​ , a E p ​ , p † ​ ] ) = ∫ ( 2 π ) 3 d 3 p ​ p i ​ a E p ​ , p † ​ a E p ​ , p ​ ​
+
+여기서 위와는 다르게 p i p_i p i ​ 때문에 적분 변수의 부호를 바꾸면 전체적으로 부호가 바뀌게 되는 셈이라는 것을 자주 사용했다는 것을 알아두자. 특히 마지막에 없어진 항은 사실 상수이며 여기서 방금 설명한 것을 적용시켜서 없앨 수 있다는 것을 알 수 있다. 아무튼 결과만 보면 위의 해밀토니안에서 얻은 결과와 (상수항을 제외하면) 완전히 같은 결과이다. 그래서 같은 이유로 ( a E p , p † ) n ∣ 0 ⟩ (a_{E_p, \bold{p}}^\dagger)^n | 0 \rangle ( a E p ​ , p † ​ ) n ∣0 ⟩ 는 고유값이 n p i np_i n p i ​ 인 P i P_i P i ​ 의 고유상태인 것을 알 수 있다. 결국 ( a E p , p † ) n ∣ 0 ⟩ (a_{E_p, \bold{p}}^\dagger)^n | 0 \rangle ( a E p ​ , p † ​ ) n ∣0 ⟩ 는 에너지와 운동량 모두에 대한 고유값임을 알 수 있다. 사실 식을 좀 더 들여다 보면
+
+a E p 1 , p 1 † a E p 2 , p 2 † a E p 3 , p 3 † ⋯ a E p m , p m † ∣ 0 ⟩ \displaystyle a_{E_{p_1}, \bold{p}_1}^\dagger a_{E_{p_2}, \bold{p}_2}^\dagger a_{E_{p_3}, \bold{p}_3}^\dagger \cdots a_{E_{p_m}, \bold{p}_m}^\dagger | 0 \rangle a E p 1 ​ ​ , p 1 ​ † ​ a E p 2 ​ ​ , p 2 ​ † ​ a E p 3 ​ ​ , p 3 ​ † ​ ⋯ a E p m ​ ​ , p m ​ † ​ ∣0 ⟩
+
+이 상태는 H \mathcal{H} H 와 P i P_i P i ​ 모두의 공통 고유상태이며, 그 고유값은 각각 E p 1 + E p 2 + ⋯ + E p m E_{p_1} + E_{p_2} + \cdots + E_{p_m} E p 1 ​ ​ + E p 2 ​ ​ + ⋯ + E p m ​ ​ , ( p 1 ) i + ( p 2 ) i + ⋯ + ( p m ) i (\bold{p}_1)^i + (\bold{p}_2)^i + \cdots + (\bold{p}_m)^i ( p 1 ​ ) i + ( p 2 ​ ) i + ⋯ + ( p m ​ ) i 임을 알 수 있다. 한편, 이로부터 다음은 분명하다. 상태 a E p 1 , p 1 † a E p 2 , p 2 † ⋯ a E p m , p m † ∣ 0 ⟩ a_{E_{p_1}, \bold{p}_1}^\dagger a_{E_{p_2}, \bold{p}_2}^\dagger \cdots a_{E_{p_m}, \bold{p}_m}^\dagger | 0 \rangle a E p 1 ​ ​ , p 1 ​ † ​ a E p 2 ​ ​ , p 2 ​ † ​ ⋯ a E p m ​ ​ , p m ​ † ​ ∣0 ⟩ 에 연산자 a E p , p † a_{E_p, \bold{p}}^\dagger a E p ​ , p † ​ 를 적용시켜서 얻은 상태는 물론 H \mathcal{H} H , P i P_i P i ​ 모두의 공통 고유상태이며, 그 고유값은 에너지와 운동량이 각각 E p E_p E p ​ , p \bold{p} p 만큼 더 커진 상태인 것이다. 그리고 뭔가 하나 더 생긴 거고. 이로부터 물리학자들은 a E p , p † a_{E_p, \bold{p}}^\dagger a E p ​ , p † ​ 를 생성자(creator) 라고 부른다. 그리고 이름 그대로 이 연산자는 해당 에너지와 운동량을 가진 입자 하나를 더 포함한 상태로 바꿔 주는 역할, 즉 입자를 만들어내는 연산자 가 된다는 것이다.
+
+한편, 앞에서 a E p , p a_{E_p, \bold{p}} a E p ​ , p ​ 를 ( a E p , p † ) n ∣ 0 ⟩ (a_{E_p, \bold{p}}^\dagger)^n | 0 \rangle ( a E p ​ , p † ​ ) n ∣0 ⟩ 에다 적용한 걸 생각해 보면 (사실 a E p , p † a E p , p a_{E_p, \bold{p}}^\dagger a_{E_p, \bold{p}} a E p ​ , p † ​ a E p ​ , p ​ 를 적용했지만 사실 앞에서 우리가 한 것은 a E p , p a_{E_p, \bold{p}} a E p ​ , p ​ 를 적용하고 정리한 결과에 a E p , p † a_{E_p, \bold{p}}^\dagger a E p ​ , p † ​ 를 갖다 붙인 것에 불과하다) a E p , p a_{E_p, \bold{p}} a E p ​ , p ​ 연산자는 ( a E p , p † ) n \left( a_{E_p, \bold{p}}^\dagger \right)^n ( a E p ​ , p † ​ ) n 의 지수를 하나 내려주는 역할을 한다고 볼 수 있다. 어떻게 보면 생성자로 생성시킨 것들 중에서 하나를 없애는 역할을 한다고 볼 수 있는 것. 그래서 물리학자들은 이 연산자를 가리켜 소멸자(annihilator) 라고 부른다. 사실 앞서 말한 조화진동 시스템에서 붙인 이름들을 거의 그대로 가져온 셈.
+
+여기에서 중요한 결론 하나를 내릴 수 있다. 앞서 강조한 것 중 하나로 a E p , p † a_{E_p, \bold{p}}^\dagger a E p ​ , p † ​ 와 a E p , p a_{E_p, \bold{p}} a E p ​ , p ​ 가 각각 양의 에너지 해와 음의 에너지 해에 대응한다는 게 있었다. 고전적인 혹은 양자장론적 방법이 아닌 이전의 해석으로는 이들 모두가 어떤 물리적인 실체에 해당해야 하며 따라서 '양의 에너지를 가진 입자와 음의 에너지를 가진 입자 모두가 존재'해야 했다는 것이다. 그런데 양자장론적인 접근 방식에 따르면 이들 해는 단지 입자 수를 올려주고(creator) 내려주는(annihilator) 역할을 할 뿐이라는 것을 알 수 있다. 그리고 이때 해당하는 입자들은 전부 양의 에너지를 가지고 있다. 즉, 음의 에너지를 가진 입자가 들어설 여지가 사라져 버린 셈이다. 결론적으로 양자장론적 해석을 쓰면 음의 에너지 문제가 풀리는 걸 넘어서 아예 처음부터 존재하지 않게 되어 버리는 셈 이 된다! 심지어 지금 우리가 다루고 있는 입자는 보손 입자로, 디랙의 바다 같은 걸 생각할 수 없는 상황이다. 후술하겠지만 물론 반정수 스피너 입자를 다룰 때에도 똑같은 결론이 나오긴 한다. 이렇게 해서 정수 스핀을 가진 입자도 상대론적으로 안전하게 다룰 수 있게 되었다.
+
+이제 미뤄뒀던 이야기 하나를 해 보자. 해밀토니안 H = ∫ d 3 p ( 2 π ) 3 E p ( a E p , p † a E p , p + 1 2 [ a E p , p , a E p , p † ] ) \displaystyle \mathcal{H} = \int \dfrac{d^3 p}{(2 \pi)^3} E_p \left( a_{E_p, \bold{p}}^\dagger a_{E_p, \bold{p}} + \dfrac{1}{2} [ a_{E_p, \bold{p}}, a_{E_p, \bold{p}}^\dagger ] \right) H = ∫ ( 2 π ) 3 d 3 p ​ E p ​ ( a E p ​ , p † ​ a E p ​ , p ​ + 2 1 ​ [ a E p ​ , p ​ , a E p ​ , p † ​ ] ) 에서 H = ∫ d 3 p ( 2 π ) 3 E p a E p , p † a E p , p \displaystyle \mathcal{H} = \int \dfrac{d^3 p}{(2 \pi)^3} E_p a_{E_p, \bold{p}}^\dagger a_{E_p, \bold{p}} H = ∫ ( 2 π ) 3 d 3 p ​ E p ​ a E p ​ , p † ​ a E p ​ , p ​ 만 다뤘었다. 사실 당장 두 번째 항을 무시해도 괜찮다. 그러고 보면 [ a E p , p , a E p , p † ] = δ 3 ( p − p ) = δ 3 ( 0 ) [ a_{E_p, \bold{p}}, a_{E_p, \bold{p}}^\dagger ] = \delta^3(\bold{p} - \bold{p}) = \delta^3(0) [ a E p ​ , p ​ , a E p ​ , p † ​ ] = δ 3 ( p − p ) = δ 3 ( 0 ) 은 그냥 상수이고, 따라서 입자의 개수와는 전혀 관계 없는 값이다. 심지어 그냥 해밀토니안을 ∣ 0 ⟩| 0 \rangle ∣0 ⟩ 에다 적용시켜도 살아있는 양이고. 아니, 오히려 ∣ 0 ⟩| 0 \rangle ∣0 ⟩ 에 적용시키면 이 상수만 살아남는다. 그래서 이 상수로부터 오는 '에너지'를 진공이 기본적으로 갖는 에너지로 볼 수도 있을 것이다. 이를 진공 에너지 라고 부를 건데, 문제가 있다. 그 값이 δ 3 ( 0 ) \delta^3(0) δ 3 ( 0 ) , 즉 무한대 인 것도 모자라 전 운동량 공간에 대한 삼중적분까지 해댄 값이다. 진공에 내재된 에너지가 무한대라는 이상한 결과가 나온 것이다. 뭐, 그래도 진공 그 자체의 에너지는 사실 별로 관심이 없고 입자들의 에너지에만 관심이 있으니 이런 이상한 값은 무시해도 될 것 같긴 하다. 실제로 표준모형에는 중력이 없고, 이로 인해 진공의 에너지는 물리적으로 별로 중요하지 않고, 실제로 표준모형은 잘 작동한다. 하지만 만약 중력을 포함하게 된다면 이 문제를 더 이상 무시할 수 없게 된다. 일반 상대성 이론에 따르면 에너지 분포는 시공간을 휘게 한다. 따라서 진공 에너지 자체도 시공간의 왜곡에 영향을 줄 것이기 때문이다. 그런데 지금 진공 에너지 자체는 말도 안 되는 값을 갖고 있어서 못 써먹을 수준이다. 다행히도 조절(regularization) 기법을 잘 이용하면 무한대를 '적절히' 제거할 수 있긴 하다. 그래서 얻은 예측값은 관측으로부터 얻어진 진공 에너지의 10 120 배나 된다! 가히 역사상 가장 틀린 예측 이다! 그래서 표준모형이 완성하고 양자중력을 찾으려고 하는 노력이 이어지면서 이 문제 역시 양자중력이 풀어야 할 숙제로 남게 된 것이다. 물론 (이 문서에서 다루려고 하는) 양자장론에서 이 문제는 별로 중요하지 않으므로 당장은 넘어가겠지만...
+
+5.2. 스피너 장 [편집]
+지금까지 실수 스칼라 장의 정규양자화를 다뤘었다. 이와 똑같은 기법을 다른 종류의 장, 즉 복소 스칼라 장과 디랙 스피너 장, 그리고 벡터 장에도 적용시킬 수 있다. 다만 위와 같은 디테일한 계산은 많이 생략하고 결과만 소개하는 식으로 서술하려고 한다. 증명은 연습문제로
+
+복소 스칼라 장도 중요한 대상이지만 사실 수학적으로 많은 부분이 디랙 장과 겹치는 게 많아 디랙 장의 결과만 간단히 기술하고자 한다. 가장 간단한 (즉 자유 입자의 경우에 해당하는) 디랙 방정식을 만족하는 디랙 장 ψ ( t , x ) \psi(t, \bold{x}) ψ ( t , x ) 를 스칼라 장의 경우와 같은 꼴로 표현할 수 있는데, 그 꼴은 다음과 같게 된다.
+ψ ( t , x ) = ∫ d 3 p ( 2 π ) 3 1 2 E p ∑ s ( a E p , p s u s ( p ) e i ( p ⋅ x − E p t ) + b E p , p s † v s ( p ) e − i ( p ⋅ x − E p t ) ) \displaystyle \begin{aligned} \psi(t, \bold{x}) = \int \frac{d^3 \bold p}{(2\pi)^3} \frac{1}{\sqrt{2 E_p}} \sum_s \left( a^s_{E_p, \bold{p}} u^s(p) e^{ i \left(\bold{p} \cdot \bold{x} - E_p t \right) } + b^{s\dagger}_{E_p, \bold{p}} v^s(p) e^{ -i \left(\bold{p} \cdot \bold{x} - E_p t \right)} \right) \end{aligned} ψ ( t , x ) = ∫ ( 2 π ) 3 d 3 p ​ 2 E p ​ ​ 1 ​ s ∑ ​ ( a E p ​ , p s ​ u s ( p ) e i ( p ⋅ x − E p ​ t ) + b E p ​ , p s † ​ v s ( p ) e − i ( p ⋅ x − E p ​ t ) ) ​
+
+여기서 앞과 크게 두 가지가 달라졌음을 알 수 있다. 첫 번째로 a † a^\dagger a † 대신에 b † b^\dagger b † 가 들어간 것이다. 이는 일반적으로 디랙 장이 실수 장은 아니기 때문 에 생기는 것이다. 즉, ϕ ( t , x ) ∗ ≠ ϕ ( t , x ) \phi(t, \bold{x})^* \neq \phi(t, \bold{x}) ϕ ( t , x ) ∗  = ϕ ( t , x ) 라서 이렇게 둬야 한다는 것이다. 두 번째로 u s ( p ) u^s(p) u s ( p ) , v s ( p ) v^s(p) v s ( p ) 가 추가되고 그에 따라 s s s 에 대한 합이 추가되었다는 것이다. 여기서 u s ( p ) , v s ( p ) u^s(p), v^s(p) u s ( p ) , v s ( p ) 는 각각 디랙 방정식의 운동량 공간 버전을 푼 해들이다. 그리고 디랙 방정식의 운동량 버전은 다음과 같다.
+
+( γ μ p μ − m ) u ( p ) = 0 , ( γ μ p μ + m ) v ( p ) = 0. \displaystyle (\gamma^\mu p_\mu - m)u(p) = 0, \;\;\;\; (\gamma^\mu p_\mu + m)v(p) = 0. ( γ μ p μ ​ − m ) u ( p ) = 0 , ( γ μ p μ ​ + m ) v ( p ) = 0.
+
+첫 번째 방정식은 단순히 i ∂ ∂ t i\dfrac{\partial}{\partial t} i ∂ t ∂ ​ , i ∂ ∂ x i i\dfrac{\partial}{\partial x^i} i ∂ x i ∂ ​ 를 각각 E = p 0 E = p^0 E = p 0 , p i p_i p i ​ 로 바꾼 것에 지나지 않는다. 두 번째는 무엇인가 싶을텐데, 별 건 아니고 디랙 방정식 전체에 Hermitian 켤레를 취한 것에다 똑같은 조작을 가한 것이다. 어쨌든 디랙 스피너 장은 복소 장이라서 복소 켤레(Hermitian 켤레)도 고려할 필요가 있긴 하다. 하지만 무엇보다도 음의 에너지 해를 따로 기술하기 위한 것도 있다. 실제로 ( γ μ p μ + m ) v ( p ) = 0 (\gamma^\mu p_\mu + m)v(p) = 0 ( γ μ p μ ​ + m ) v ( p ) = 0 를 만족하는 해인 v ( p ) v(p) v ( p ) 는 음의 에너지를 갖는 해의 계수에 해당한다는 것을 확인할 수 있다. 한편, 사실 위 방정식들의 해 u ( p ) u(p) u ( p ) , v ( p ) v(p) v ( p ) 는 각각 2개씩 존재한다는 것을 확인할 수 있다. u s ( p ) u^s(p) u s ( p ) , v s ( p ) v^s(p) v s ( p ) ( s = 1 , 2 s = 1, 2 s = 1 , 2 )는 이러한 해 두 개를 표현한 것이고.
+
+이제 실수 스칼라 장에 행했던 양자화를 진행해 보자. 그럴려면 앞에서와 같이 장의 정준켤레가 필요하다. 디랙 스피너 장의 라그랑지언은 다음과 같다.
+
+L = i ψ ˉ γ μ ∂ μ ψ − m ψ ˉ ψ . \displaystyle \mathscr{L} = i\bar{\psi} \gamma^\mu \partial_\mu \psi - m\bar{\psi} \psi. L = i ψ ˉ ​ γ μ ∂ μ ​ ψ − m ψ ˉ ​ ψ .
+
+이로부터 정준켤레는 π ψ = ∂ L ∂ ψ ˙ = i ψ ‾ γ 0 = i ψ † \displaystyle \pi_\psi = \frac{\partial \mathscr{L}}{\partial \dot{\psi}} = i \overline{\psi} \gamma^0 = i \psi^\dagger π ψ ​ = ∂ ψ ˙ ​ ∂ L ​ = i ψ ​ γ 0 = i ψ † 임을 알 수 있다. 이제 앞의 ψ \psi ψ 를 여기에 대입하여 π ψ \pi_\psi π ψ ​ 의 적분 꼴을 얻을 수 있을 것이다.
+
+여기서 u s ( p ) u^s(p) u s ( p ) 와 v s ( p ) v^s(p) v s ( p ) 간의 항등식들 다수와 복잡한 계산이 필요한 이유로 계산은 생략하기로 하고 결과만 제시하겠다. 그래서 [ ψ , π ψ ] [\psi, \pi_\psi] [ ψ , π ψ ​ ] 를 계산해 볼 수 있겠는데, 여기서 이 결과가 i δ 3 ( x − y ) i\delta^3(\bold{x} - \bold{y}) i δ 3 ( x − y ) 와 같기를 기대하겠지만 실제로는 이와 같이 안 나온다는 것을 알 수 있다. 오히려 이걸 가정하면 인과율 이 위배되는 것 같은 결과를 얻게 된다. [16] 다만 이걸 가지고 이리저리 굴리다 보면 [ ψ ( x ) , π ψ ( y [\psi(\bold{x}), \pi_\psi(\bold{y} [ ψ ( x ) , π ψ ​ ( y )] 말고 { ψ ( x ) , π ψ ( y ) } ≡ ψ ( x ) π ψ ( y ) + π ψ ( y ) ψ ( x ) \{\psi(\bold{x}), \pi_\psi(\bold{y})\} \equiv \psi(\bold{x}) \pi_\psi(\bold{y}) + \pi_\psi(\bold{y}) \psi(\bold{x}) { ψ ( x ) , π ψ ​ ( y )} ≡ ψ ( x ) π ψ ​ ( y ) + π ψ ​ ( y ) ψ ( x ) 가 i δ 3 ( x − y ) i\delta^3(\bold{x} - \bold{y}) i δ 3 ( x − y ) 와 같아야 한다는 것을 알 수 있다. 그리고 { ψ ( x ) , ψ ( y ) } = 0 \{\psi(\bold{x}), \psi(\bold{y})\} = 0 { ψ ( x ) , ψ ( y )} = 0 , { π ψ ( x ) , π ψ ( y ) } = 0 \{\pi_\psi(\bold{x}), \pi_\psi(\bold{y})\} = 0 { π ψ ​ ( x ) , π ψ ​ ( y )} = 0 인 것 또한 필요하다. 바로 여기서 반정수 스핀을 갖는 입자들이 페르미온이어야 한다는 것 을 알 수 있는 것이다. 사실 같은 상태의 입자가 한 곳에 동시에 있을 수 없다는 것과 스핀과는 전혀 관계가 없는 것인데, 여기서 한 경우가 증명된 것이다. 참고로, 일반적으로 반정수 스핀을 갖는 입자들이 페르미온이어야 하고 정수 스핀을 갖는 입자들이 보손이어야 하는 것을 상대론적 양자역학에서 인과율을 요구했을 때 수학적으로 증명 할 수 있는데 [17] , 이 정리를 스핀-통계 정리(spin-statistics theorem)이라고 부르고, 그 엄밀한 증명을 Streater, Wightman, PCT, Spin and Statistics and All That (1964)에서 찾을 수 있다.
+
+물론 이렇게 되면 스피너의 경우에서도 위와 똑같이 음의 에너지 문제로부터 자유롭게 된다. 그러면 이미 실험으로도 관측된 반입자는 여기서 뭘까? 이미 그 답을 우리는 봤다. a † a^\dagger a † 대신에 b † b^\dagger b † 가 들어가 있는 것을 봤다. 그러니까 a , a † a, a^\dagger a , a † 랑 뭔가 비슷해 보이는 b , b † b, b^\dagger b , b † 이 한 쌍이 새로 추가되었다는 거다. 물론 이 녀석들도 a , a † a, a^\dagger a , a † 처럼 입자를 소멸하고 생성한다. 이 녀석들이 만들고 없애는 입자가 바로 반입자 인 것이다. 어떻게 보면 그냥 입자랑 다를 것도 없어 보이는데, 사실 그게 맞는다. 상호작용이 없으면 이 둘이 엮일 일은 없다. 다시 말해, 상호작용이 없으면 전자와 양전자가 마주쳐도 소멸은커녕 아무 일 없이 그냥 지나쳐 간다는 의미다. 한편 디랙 장에 상호작용이 있으면 항상 입자와 반입자가 상호작용에 해당하는 어떤 장과 엮여 있는데 [18] 이로부터 쌍소멸 및 쌍생성이 생기는 것이다. [19] 이런 식으로 양자장론에서도 자연스럽게 반입자가 튀어나오고, 다만 디랙의 바다 같은 걸 도입하지 않아도 충분히 모든 걸 자연스럽게 설명할 수 있다는 것이다.
+
+6. 인과율 문제: 파동함수기반 양자역학 vs 양자장론 [편집]
+앞선 문단에서 양자장론은 파동함수 기반 양자역학과 달리 인과율 문제를 해결한다고 소개하였다.
+
+이 시각에서 보면, 거시 세계에서 잘 작동하는 특수 상대성 이론을 파동함수 기반 양자역학이 잘 설명하지 못하는 것으로 보인다. 하지만 양자역학이 인과율 문제를 해결하지 못하는 까닭은 양자역학이 문제가 있어서가 아닌 양자장론과 근본적인 시각의 차이가 있기 때문이다. 이 점에 대해서 개략적으로 소개하려 한다.
+
+파동함수 기반 양자역학에서, 특정 시간과 위치 ( t 0 , x 0 ) (t_0,\bold x_0) ( t 0 ​ , x 0 ​ ) 에서 ( t , x ) (t, \bold x) ( t , x ) 로 이동(또는 전파)할 때, 전파될 확률을 나타내는 양(혹은 확률 진폭 함수)인 전파인자 (propagator) K K K 는 다음과 같이 쓰이며,
+K ( t , x ; t 0 , x 0 ) = ⟨ x ∣ e − i ℏ H ^ ( t − t 0 ) ∣ x 0 ⟩ K ( t , x ; t 0 , x 0 ) = ∫ d 3 p ⟨ x ∣ e − i ℏ H ^ ( t − t 0 ) ∣ p ⟩ ⟨ p ∣ x 0 ⟩ K ( t , x ; t 0 , x 0 ) = 1 ( 2 π ) 3 ∫ d 3 p e i p ⋅ ( x − x 0 ) e − i ℏ E ( p ) ( t − t 0 ) \displaystyle \begin{aligned} K(t,\bold x ; t_0, \bold x_0) &= \langle \bold x| e^{-\frac i \hbar \hat H (t-t_0)} | \bold x_0 \rangle \\ \phantom{K(t,\bold x ; t_0, \bold x_0)} &= \int d^3 \bold p \langle \bold x| e^{-\frac i \hbar \hat H (t-t_0)}|\bold p\rangle\langle \bold p | \bold x_0 \rangle \\ \phantom{K(t,\bold x ; t_0, \bold x_0)} &= \frac1{(2\pi)^3}\int d^3 \bold p \,e^{i\bold p \cdot (\bold x - \bold x_0)}e^{-\frac i \hbar E(\bold p) (t-t_0)} \end{aligned} K ( t , x ; t 0 ​ , x 0 ​ ) K ( t , x ; t 0 ​ , x 0 ​ ) K ( t , x ; t 0 ​ , x 0 ​ ) ​ = ⟨ x ∣ e − ℏ i ​ H ^ ( t − t 0 ​ ) ∣ x 0 ​ ⟩ = ∫ d 3 p ⟨ x ∣ e − ℏ i ​ H ^ ( t − t 0 ​ ) ∣ p ⟩ ⟨ p ∣ x 0 ​ ⟩ = ( 2 π ) 3 1 ​ ∫ d 3 p e i p ⋅ ( x − x 0 ​ ) e − ℏ i ​ E ( p ) ( t − t 0 ​ ) ​
+
+다음과 같이 모든 파동함수의 전파를 나타내는 데 사용한다.
+
+Ψ ( t , x ) = ∫ d 3 x 0 K ( t , x ; t 0 , x 0 ) Ψ ( t 0 , x 0 ) \displaystyle \Psi(t,\bold x) = \int d^3 x_0 K(t,\bold x ; t_0, \bold x_0) \Psi(t_0, \bold x_0) Ψ ( t , x ) = ∫ d 3 x 0 ​ K ( t , x ; t 0 ​ , x 0 ​ ) Ψ ( t 0 ​ , x 0 ​ )
+
+특수상대론을 고려하지 않고 위치 에너지에 속박되어 있지 않은 자유 입자의 파동함수에 대해서 전파인자를 계산해 보면
+K ( t , x ; t 0 , x 0 ) = ( m 2 π i ( t − t 0 ) ) 3 2 exp ⁡ ( i m ( x − x 0 ) 2 2 ( t − t 0 ) ) \displaystyle \begin{aligned} K(t,\bold x ; t_0, \bold x_0) = \left(\frac{m}{2\pi i (t-t_0)} \right)^{\frac{3}{2}} \exp\left( i \frac{m(\bold x-\bold x_0)^2}{2(t-t_0)}\right) \end{aligned} K ( t , x ; t 0 ​ , x 0 ​ ) = ( 2 π i ( t − t 0 ​ ) m ​ ) 2 3 ​ exp ( i 2 ( t − t 0 ​ ) m ( x − x 0 ​ ) 2 ​ ) ​
+
+이며, 특수상대론을 고려하여 정지 질량 에너지까지 고려한 전파인자는 다음과 같이 쓰인다.
+K ( t , x ; t 0 , x 0 ) = 1 2 π 2 ( x − x 0 ) 2 ∫ d p p sin ⁡ [ p ⋅ ( x − x 0 ) ] e − i ( t − t 0 ) p 2 + m 2 \displaystyle \begin{aligned} K(t,\bold x ; t_0, \bold x_0) = \frac1{2\pi^2(\bold x - \bold x_0)^2} \int dp \, p \sin\left[\bold p \cdot (\bold x - \bold x_0)\right] e^{-i (t-t_0) \sqrt{\bold p^2 +m^2}} \end{aligned} K ( t , x ; t 0 ​ , x 0 ​ ) = 2 π 2 ( x − x 0 ​ ) 2 1 ​ ∫ d p p sin [ p ⋅ ( x − x 0 ​ ) ] e − i ( t − t 0 ​ ) p 2 + m 2 ​ ​
+
+이 방정식에 space-like를 부여하여 계산을 수행하면 앞서 소개한 space-like proper time이 성립하는 좌표계 사이에서 전파 될 확률은 0이 아니라는 것을 확인 할 수 있다.
+
+여기서 주목할 부분은 바로 전파인자가 위치 양자 상태로 표현된다는 점이다. 위치 양자 상태는 말 그대로 고유값이 위치인 양자 상태만을 의미하며, 이 양자 상태 안에는 위치를 측정할 수 있는 모든 대상 [20] 에 대한 무수한 정보가 중첩의 형태로 존재한다. 하지만 이 양자 상태는 전이를 다루기 위한 정보 중에서 중요한 한 정보를 빠뜨리고 있는데 그것이 바로 시간이다. [21] 이 때문에 전파인자는 구조적으로 위치의 변화에 따른 전파와 시간의 변화에 따른 전파로 나눠서 기술한다.
+
+위치의 전파(병진 좌표 이동)를 나타내는 항이자 운동량 적분을 가하여 위치에 대한 디랙 델타 함수가 되는 exp ⁡ [ − i ℏ p ⋅ ( x − x 0 \exp[-\dfrac i\hbar \bold p\cdot (\bold x-\bold x_0 exp [ − ℏ i ​ p ⋅ ( x − x 0 ​ )]는 시간의 여부와 관계가 없다. 이 항만 떼어놓고 해석하자면, 머나먼 과거에서 머나먼 미래 사이에서 일어나는 모든 위치변수에 대한 전파를 나타낸다. 시간의 전파를 나타내는 항인 − exp ⁡ [ i ℏ E ( p ) ( t − t 0 -\exp[\dfrac i\hbar E(\bold p ) (t-t_0 − exp [ ℏ i ​ E ( p ) ( t − t 0 ​ )]는 위치에 관계없이 주어진 시간동안 일어나는 모든 전파를 나타낸다.
+
+예를 들어 거대한 중성자 덩어리가 있다라 하자. 중성자는 반감기가 10분가량 되는 입자로, 베타붕괴를 일으키며 양성자가 된다. 모아놓은 중성자는 시간이 지날수록 양성자로 변하며, 확률적으로 10분 뒤에는 중성자가 절반 남아있고 나머지는 모두 양성자로 바뀌게 된다. 입자란 것이 한번 변하고 나서 그대로 머문다면 양성자의 위치를 측정하는 것으로 베타붕괴를 일으킨 중성자가 어느 위치에 있었는지 알 수 있겠지만, 양성자에 베타붕괴를 일으키고 난 후에 등장하는 반중성미자와 만나 다시 중성자가 되는 역베타붕괴 반응을 일으킬 수 있다. 이 확률은 상당히 낮긴 하지만 일어날 수 있으며, 역베타붕괴의 등장으로 10분 뒤에 남아있는 중성자중에서 베타붕괴를 일으키지 않고 남아있는 중성자인지, 아니면 베타붕괴 후에 다시 역베타붕괴를 일으켜 돌아온 중성자인지 알 수 없다.
+
+중성자들의 붕괴 과정을 파동함수 기반 양자역학에서 풀이를 시도하려 하면 중성자들이 10분 뒤의 미래에 얼마나 많이 중성자들로 전파되어 있는가를 나타내는 전파 연산자와 중성자에서 양성자로 변화한 전이 진폭으로 나타난다. 이때 중성자-중성자 전파 연산자는 베타붕괴와 역베타붕괴를 몇 번 반복하든 관계 없이 최종적으로 남아있는 중성자들에 대해서 기술하며, 이 과정에서 독립적으로 존재하는 space-like proper time의 관계를 갖는 중성자끼리 연결지어, 마치 특수상대성이론의 해석을 정면으로 부정하는 것 처럼 보이는 수식이 등장하게 된다.
+
+막상 이 결론만 놓고 보면, 양자역학적으로 space-like하게 떨어진 두 지점 간에 어떤 정보의 전달이 초광속으로 일어난 것으로 보이고 이는 상대론 상으로 허용이 안 되는 인과율 오류가 발생하고 더군다나 위에서 서술된 위치의 전파와 시간에 대한 전파가 완전히 따로 논다는 것으로부터 space-like하게 떨어져 있든 말든 전파인자가 0이 아닐 수 있다는 것으로 보이기까지 해서 gauge가 아닌 상대론적 시공간에서의 locality가 깨지는 것을 방관하는 것으로 보일수도 있다.
+
+하지만, 엄연히 말하자면 방관할수밖에 없다. 상대성이론은 잘 정의되는 실체 한개에 대한 기술을 하는 물리이론이고, 파동함수기반 양자역학은 다수의 대상에 대한 이론이라는 점이다. 확률이란 개념이 필요하기 위한 조건 중 하나는 대상이 무수히 많이 있다는 것(혹은 측정의 행위가 무수히 이루어지는 상황)이다. 코펜하겐 해석에 입각해서 양자역학의 파동함수를 재평가해보면 완전한 단일 입자의 추적 가능한 정보를 주지 못함을 알 수 있다. 대표적으로 양자역학에서 군속도(group velocity)와 상속도(phase velocity)가 일치하지 않는 상황을 해결하기 위해 어떤 풀이를 시도하려 했는지를 떠올려보자. 즉 파동함수는 자동으로 다수의 대상을 하나의 계로 묶어 설명하며 이 때문에 파동함수 기반의 양자역학에서는 관점의 문제로 입자 한 개에 대한 인과율문제를 애초부터 풀수 없는 문제를 갖는다.
+
+반면, 양자장론의 장은 단순하게 말하면 그 양자 장의 유무에 대한 여부를 결정하는 연산자이며, 장은 같은 질량을 갖는 평면파들을 운동량이나 에너지의 구분없이 모아 놓은 상태이다. 이말은 양자장 하나에 그 입자의 운동량에 따른 고유상태들이 중첩되어(덧셈으로 양자상태들을 합쳐놓은)있기에, 고윳값 문제로 접근하기가 힘들다. 대신 양자 장이 연산자로 작용하는 양자 상태는 위치와 시간, 그리고 운동량을 고유치로 주는 양자상태가 아닌 조화진동자 운동의 양자상태이며, 시간-위치와 에너지-운동량의 정보는 평면파의 전파를 나타내는 지수함수 exp ⁡ [ i ℏ ( p ⋅ x − E t ) ] \exp\left[\dfrac{i}{\hbar}(\bold p\cdot \bold x - E t)\right] exp [ ℏ i ​ ( p ⋅ x − E t ) ] 로 나타나며 이 값은 양자 장의 진공 상태에 어떠한 연산작용도 하지 않는다. 즉, 파동 함수와 달리 양자 장에서 위치와 시간, 그리고 에너지와 운동량은 고유치가 아니라 양자 상태를 구분하는 일종의 이름표처럼 작동한다. [22] 대신 질량이라는 값 또는 proper time을 기준으로 모아 놓았다는 특징 때문에 스칼라 장의 전파 연산자는 (앞선 문단에서 소개했듯이) 다음과 같이 표현되며
+K ( t , x ; t 0 x 0 ) = [ ϕ ( t , x ) , ϕ ( t 0 , x 0 ) ] = ∫ d 3 p ( 2 π ) 3 2 E p [ e i [ p ⋅ ( x − x 0 ) − E p ( t − t 0 ) ] − e − i [ p ⋅ ( x − x 0 ) − E p ( t − t 0 ) ] ] \displaystyle \begin{aligned} K(t,\bold x ; t_0 \bold x_0)&=\left[\phi(t, \bold x)\,,\, \phi(t_0, \bold x_0)\right] \\ &= \int\frac{d^3\bold p}{(2\pi)^3 2E_p}\left[e^{i\left[\bold p\cdot(\bold x-\bold x_0) - E_p (t-t_0)\right]}-e^{-i\left[\bold p\cdot(\bold x-\bold x_0) - E_p (t-t_0)\right]}\right] \end{aligned} K ( t , x ; t 0 ​ x 0 ​ ) ​ = [ ϕ ( t , x ) , ϕ ( t 0 ​ , x 0 ​ ) ] = ∫ ( 2 π ) 3 2 E p ​ d 3 p ​ [ e i [ p ⋅ ( x − x 0 ​ ) − E p ​ ( t − t 0 ​ ) ] − e − i [ p ⋅ ( x − x 0 ​ ) − E p ​ ( t − t 0 ​ ) ] ] ​
+
+space-like proper time을 부여하면 0이 된다. 수식상 입자의 전파 부분은 +지수 함수 부분이고 반입자의 전파 부분은 -지수 함수 부분으로, space-like proper time에 따른 입자의 전파와 반입자의 전파가 정확하게 서로를 지워 실질적으로 일어나지 않았다라는 해석이 가능해지는 것이다.
+
+한가지 예로 양자장론이 파동함수 기반 양자역학의 도움을 받는 경우에 대해서 소개하고자 한다. 불안정한 입자의 전파 연산자를 계산할 때는 양자장론을 활용해 계산하는 것 보다 파동함수 기반 양자역학을 추가로 고려하여 보정하는 것이 편리할 수 있다. 양성자와 같이 반감기가 어마무시하게 긴 입자의 전파인자는 다음과 같이 표현되나
+
+K p ( t , x ; t 0 , x 0 ) = ∫ d 4 p γ ⋅ p + m p p 2 − m p \displaystyle K_p(t,\bold x; t_0 ,\bold x_0) =\int d^4p \frac{\gamma \cdot p +m_p}{p^2 - m_p} K p ​ ( t , x ; t 0 ​ , x 0 ​ ) = ∫ d 4 p p 2 − m p ​ γ ⋅ p + m p ​ ​
+
+중성자와 같이 불안정한 입자를 양자 장으로 풀어서 전파인자를 찾으려 하면, 전파되는 도중에서 다른 입자로 붕괴하여 중성자의 개수가 줄어드는 상황을 반영해야 한다. 이때 양자장론에 입각하여 전파인자를 구하는 과정은 복잡하고 많은 시간을 요구한다. [23] [변명2] 하지만 파동함수 기반 양자역학에서는 불안정한 입자의 전파 인자에 안정적인 전파 인자에 반감기를 고려한 지수함수를 곱한 것으로 구한다는 논리를 활용하여, 양자장론에서 직접 계산을 하지 않고도 근사적으로 수식을 표현할 수 있다.
+
+P n ( t ) = e − Γ n t ∫ d 3 x ∣ Ψ n ( x , t ) ∣ 2 P_n(t)= e^{-\Gamma_n t }\int d^3 \bold x \left|\Psi_n(x, t)\right|^2 P n ​ ( t ) = e − Γ n ​ t ∫ d 3 x ∣ Ψ n ​ ( x , t ) ∣ 2
+
+여기서 Γ n \Gamma_n Γ n ​ 은 중성자의 붕괴 폭이며 붕괴 폭의 역수가 반감기이다. 이를 통해서 붕괴하지 않고 전파하는 양자 상태의 전파인자에 exp ⁡ [ − 1 2 Γ n τ ] \exp\left[-\frac12 \Gamma_n \tau\right] exp [ − 2 1 ​ Γ n ​ τ ] 를 추가로 곱하여 전파 연산자를 재정의하여, 안정적인 입자의 전파 연산자의 형태로 조정할 수 있으며, 이 수식의 질량 부분은 m n − i 2 Γ n m_n-\dfrac i2 \Gamma_n m n ​ − 2 i ​ Γ n ​ 인 것과 같다는 결론을 얻을 수 있다. 수정된 질량(또는 유효 질량)항을 활용해 양자장론의 중성자 전파인자를 다음과 같이 근사적으로 쓸 수 있다.
+
+K n ( t , x ; t 0 , x 0 ) ≅ ∫ d 4 p γ ⋅ p + m n p 2 − m n + i m n Γ n \displaystyle K_n(t,\bold x; t_0 ,\bold x_0) \cong \int d^4p \frac{\gamma \cdot p +m_n}{p^2 - m_n+im_n \Gamma_n} K n ​ ( t , x ; t 0 ​ , x 0 ​ ) ≅ ∫ d 4 p p 2 − m n ​ + i m n ​ Γ n ​ γ ⋅ p + m n ​ ​
+
+좀 더 정밀한 분석을 하려면 전파인자의 분모에 붕괴폭의 2차 승과 3차 승을 추가로 고려할 필요가 있다.
+
+7. 교재 [편집]
+자세한 내용은 양자장론/교재 문서를 참고하십시오.
+
+8. 둘러보기 [편집]
+리처드 파인만
+관련 문서
+[ 펼치기 · 접기 ] 연구 분야 & 업적 | 입자이론 | 양자전기역학 ( 경로적분 , 파인만 다이어그램 , 파인만 매개변수화 )
+강한 상호 작용 ( 쿼크 )
+핵이론 | 맨해튼 계획 ( 베테-파인만 방정식 )
+양자물리론 | 양자역학 ( 헬만-파인만 정리 )
+양자정보과학 ( 양자컴퓨터의 공리 )
+응집이론 | 초유동체
+행적 및 활동 | 행적 · 활동
+소속 | 로스 앨러모스 국립 연구소 · 코넬 대학교 · 캘리포니아 공과대학교
+관련 학자 | 폴 디랙 · 한스 베테 · 존 폰 노이만 · 줄리어스 로버트 오펜하이머 · 엔리코 페르미 · 도모나가 신이치로 · 줄리언 슈윙거 · 프리먼 다이슨 · 머리 겔만 · 스티븐 울프럼 · 피터 쇼어
+출판 | 출판 기록 · 파인만의 물리학 강의
+기타 | 파인만 알고리즘 · 파인만 포인트 · 확률컴퓨터 · 확률미적분학 · 경로적분/응용 · 나노머신 · STS-51-L · 트리니티 실험 · 파인마늄 · 파인만 기법
+
+[ 인천남동구인테리어 태영데코
+www.tydeco.co.kr v-if
+욕실인테리어.실내인테리어.착한가격,도배/장판.페인트.샤시.책임견적시공전문업체
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 예스온 온수패널 제조
+www.yes-on.kr v-if
+20년 제조 노하우 온수판넬, 공장 직공급으로 합리적 가격
+
+]
+
+[1] 두 개 입자가 서로 부딪친 후 충돌했던 입자와 다른 입자들 - 종류와 갯수 모두 달라질 수 있다.- 이 나오는 과정. [2] 대표적으로 각운동량 연산자. [3] 상태를 만들고 지운다는 성질까지만 같고, 교환연산관계는 똑같지 않다. [4] 실제로 진공이 아무것도 없는 상태가 아니라는 것을 증명한 실험이 있다. 카시미르 효과 참조. [5] 만들어진 입자에 대해서 정규화를 설정할 때 정규화 계수를 1로 설정할 수 없다는 것을 난점으로 보는 사람도 있다. 하지만 실은 난점이라 말하기 힘들다. 왜냐하면 장론을 사용하는 대표적인 상황은 얼마만큼 확률적으로 전파되냐(바뀌냐)를 분석하는 것이기 때문이다. 정규화 계수가 1이 아니더라도 충분히 1인 전이진폭을 유도할 수 있어 큰 문제가 되지 않는다. [6] 스핀 1/2인 양자상태는 통계적으로 페르미-디락 통계를 따르므로, 반교환자를 고려하는 것이 올바르게 작동할 것이라는 추측을 해 볼 수 있다. 다만 양자장론에서는 두 양자장이 fermion이라면 교환관계가 무조건 반교환자를 따른다는 점으로부터, 양자장론에서의 디락장은 에너지나 운동량이나 스핀 방향성분에 관계없이 근원적인 부분에서 fermion이라는 것을 요구한다는 것이 특기할 점이다. [7] 더 나아가, 손잡이에 따른 대칭성을 추가로 더 고려하게 되면,( S U L ( 2 ) ⊗ U Y ( 1 ) SU_L(2)\otimes U_Y(1) S U L ​ ( 2 ) ⊗ U Y ​ ( 1 ) ) 게이지 장에 대한 정보를 얻을 수 있으며, 힘을 매게하는 게이지 장은 전자기파와 같은 형식을 공유하게 된다. 만약 색전하( S U c ( 3 ) SU_c(3) S U c ​ ( 3 ) )의 대칭성을 고려하면 글루온을 찾을 수 있으며 이 또한 전자기파와 비슷한 형태로 쓰여진다. 이 모든 것을 아울러서, 상대론적 양자장론상에 등장하는 (거의) 모든 종류의 상호작용과 입자들을 정립한 것이 표준모형이다. [8] 물론 광자가 튀어나오는 상황을 기술 할 때, 초기 상태에서 부터 광자의 양자상태가 존재하지만 진폭이 0이었다가 나중상태에서 광자의 양자상태 진폭이 0이 아닌 값을 가지게 하여 기술할 수 있다. [9] 사실 이 관점도 가만 뜯어보면 이상한 점이 여럿 보인다. 그중 하나를 들자면, 입자와 반입자가 만났을 때 둘의 질량 만큼의 에너지가 '방출'된다고 하고 이게 광자의 형태로 주로 나온다는 설명이다. 이게 뭐가 문제냐면, 디랙 방정식은 그 자체로 자유 입자, 즉 어떠한 상호작용도 없는 입자는 기술하는 방정식으로 전자기 상호작용도 물론 하지도 않는 입자를 기술하는 건데, 디랙의 바다에서는 느닷없이 광자가 튀어나오는, 그러니까 상호작용 자체가 필요한 현상이 일어난다. [10] 다른 관점에서 바라보면, 모든 현상은 에너지가 낮은 쪽으로 이동하려는 경향이 있다. 디랙 바다가 텅텅 비어 있다면 − ∞ -\infty − ∞ 인 양자상태로 전이가 일어날 것이며 무한히 큰 에너지의 광자가 나오게 된다. 이것도 valance band에 전자가 꽉 차 있고 conduction band에 전자가 조금 있는 반도체의 band structure와 비슷하게 기술하면 문제를 해결할 것 처럼 보이긴 하나, 마찬가지로 음의 에너지에 전자가 꽉 차 있어야 하는 상황과 마주하게 된다. [11] 이동이 될 수 있고, 다른 양자상태를 거쳤다가 갈 수도 있다. [12] c 2 τ 2 = c 2 t 2 − x 2 c^2\tau^2 = c^2 t^2 - \bold x^2 c 2 τ 2 = c 2 t 2 − x 2 으로 알려진 상대성이론의 proper time이며, space-like proper time은 c 2 τ 2 < 0 c^2\tau^2 <0 c 2 τ 2 < 0 이다. [13] τ 2 \tau^2 τ 2 가 음수이며, 두 시간-위치좌표는 입자가 이동하는 상황이 아닌 독립적인 두 event가 있음을 나타낸다. [14] M. E. Peskin, D. V. Schroeder, An introduction to Quantum Field Theory, Westview(1995), Sec.2.1(13p): 아예 제목부터 "The necessity of the Field Viewpoint"(장의 관점으로 봐야 할 필요성)이다. [15] 미분과 비슷해 보이지 않은가? 실제로 바로 앞의 식이 다름 아닌 라이프니츠 규칙(Leibniz rule)이다. 그리고 우리가 아는 그 미분은 라이프니츠 룰을 만족하는 선형 연산자로 추상화할 수 있다. 특히 미분기하학을 본다든가 쟈코비 항등식(Jacobi identity)을 본다드가 하면 리 대수는 미분의 추상화 중 하나로도 간주할 수 있다. [16] Peskin, Schroeder, An Introduction to Quantum Field Theory, Sec. 3.5를 보자. [17] 거꾸로 말하자면 이들 중 하나가 성립하지 않는다면 스핀-통계 정리가 성립하지 않을 수 있다는 것이다. 인과율이야 절대 깨져서는 안 되는 것이니 이건 논외로 하더라도 상대론적 양자역학이 성립하지 않는 상황 역시 와닿지 않을 텐데, 다른 게 아니라 응집물리 같은 데에서 다루는 2차원 물질들이 그 예이다. 근본적으로 뜰어보면 결국 상대론적 양자역학을 만족하겠지만 좀 더 거국적으로 크게 봐서 모델링을 하면 어떤 입자들이 스핀과 상관 없이 엉뚱한 교환 관계를 갖고 있음을, 심지어 페르미온도 보존도 아닌 이상한 통계를 따른다는 것을 볼 수 있다. 애니온(anyon)을 참고할 것. [18] 유니타리함을 유지하기 위해 이는 반드시 필요한 것이다. [19] 여기서 얻을 수 있는 흥미로운 성질로, 중성미자와 반중성미자는 만나도 쉽게 쌍소멸하지 못한다. 쌍소멸을 하려면 중성미자가 상호작용을 해야 한다는 건데, 중성미자가 할 수 있는 상호작용은 약한 상호작용 뿐이며, 이 상호작용은 알려진 대로 그 반응 확률이 작다. (물론 Z의 질량에 가깝거나 혹은 그보다 더 큰 에너지를 갖고 있으면 이야기가 달라진다.) 게다가 이 경우엔 광자 두 개로 붕괴하지도 않고 렙톤-반렙톤 쌍 혹은 쿼크-반쿼크 쌍으로 나오게 된다. 여러 모로 흔히 알려진 쌍소멸 반응과는 다른 양상이다. [20] 이 모든 대상에서는 점입자와 같은 존재나 파동도 포함되지만, 강체와 같이 무게중심을 기준으로 설명되는 대상도 포함된다. [21] 시간을 고유값으로 주는 양자상태로 나타내지 못하는 까닭은 시간은 공간과 달리 등방적이지 못하는 물리량이기 때문이다. 그리고 엔트로피는 어떤 물리현상을 거치든 간에 관계없이 일정하거나 늘어나기 때문에 시간은 특정한 방향으로만 값이 커져야만 엔트로피를 설명할 수 있다. [22] 물론 양자 장에서 시간-위치를 연산자로 작용하여 끌어내는 양자 장을 연구하는 사람이 있다는 것으로 알고 있으나, 정확한 사정은 모르므로 이에 대한 첨부 부탁드립니다. [23] 그런데 양자장론을 처음부터 작정하고 제대로 다루는 교재들을 보면 (예를 들어 Peskin, Weinberg, 특히 Peskin의 chap 4.5, chap 7.5) 다름 아닌 여기서 말한 복잡하고 많은 시간을 요구하는 방식만 소개한다. 꽤 복잡한 논의가 필요하며 심지어 next-leading order에서의 optical theorem도 동원하기도 한다. 하지만 순전히 양자장론의 논의 만으로 하단에 서술되는 내용의 도움 없이 모든 것이 설명된다는 것을 볼 수 있다. [변명2] 양자장론을 실제현상에 적용하기 위해서는 상호작용 가능한 모든 경우에 대해서 계산할 필요가 있다. 하지만 아주 많은 시간을 들여 수 많은 계산을 하는 것은 물리적 실체의 분석을 더욱 어렵게 만들 수도 있고, 들인 노력에 비해 얻는 결과가 그다지 중요하지 않을 수도 있다. 이 문단에서 소개한 내용은 정확한 계산 없이 근사적으로 맞는 빠른 계산 방법과 논리 전개방법을 소개한 것이다. 물리적 실체를 분석할 때에는 근간이 되는 논리를 최대한 유지한 채 계산양을 줄이면서 식이나 내용이 가지는 의미를 파악하는 것이 중요하다. 예를 든 optical theorem은 (2018년도 기준으로) 충돌기 실험장치의 검측장치가 상대적으로 입자들의 충돌 방향과 수직 방향으로 관측장치가 두텁게 있고, 정면 방향은 기계 특성상 얇고 정밀도가 조금 떨어져서 쓰기가 힘든 정리라 볼 수 있다. 하지만 정리가 가지는 물리적인 의미만을 살펴보면, S matrix의 unitarity(Tree diagram의 전이 확률은 1보다 클 수 없고, 전이진폭은 exp(imaginary number)로 표현되어야 한다)가 지켜질 때 만족하는 조건을 나타낸다(이 또한 Tree diagram인 경우에만). 이 정리의 특징을 이용해서 S-matrix의 unitarity가 지켜지는 상황에서 어떤 상호작용을 하는지는 알지만 질량을 모르는 입자의 질량 상한치를 정할 수 있으며, 이 정리를 활용해서 힉스의 질량상한치를 구했다. 이를 통해서 힉스를 발견할 가능성이 있는 충돌 에너지 영역이 결정되었으며, LHC를 제작할 당시의 이유로 쓰였다. 이에 관한 자세한 내용은 Fermi lab의 아카이브에서 이휘소 박사가 쓴 논문을 참조. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

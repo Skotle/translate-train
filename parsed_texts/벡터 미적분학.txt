@@ -1,0 +1,133 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 벡터 미적분학
+최근 수정 시각: 2026-03-15 17:13:26 [ [ [ ] [ [ 6 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 미적분
+- 미분 기하학
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+선형대수학
+Linear Algebra
+[ 펼치기 · 접기 ] ▲ 대수학
+기본 대상 | 일차함수 · 벡터 · 행렬 · 선형 변환
+대수적 구조 | 가군(모듈) · 벡터 공간 · 내적 공간 · 노름 공간
+선형 연산자 | 기본 개념 | 연립방정식 ( 1차 · 2차 ) · 행렬곱 · 단위행렬 · 역행렬 과 크라메르 공식 · 가역행렬 · 전치행렬 · 행렬식 ( 라플라스 전개 ) · 주대각합
+선형계 | 기본행연산 과 기본행렬 · 가우스-조르당 소거법 · 행사다리꼴 · 행렬표현 · 라그랑주 보간법
+주요 정리 | 선형대수학의 기본정리 · 차원 정리 · 가역행렬의 기본정리 · 스펙트럼 정리
+기타 | 제곱근행렬 · 멱등행렬 · 멱영행렬 · 대칭행렬 · 에르미트 행렬 · 야코비 행렬 · 방데르몽드 행렬 · 아다마르 행렬 변환 · 노름(수학) · 벡터장
+벡터공간의 분해 | 행렬의 닮음(상사) · 고유치 문제 · 케일리-해밀턴 정리 · 대각화 ( 대각행렬 ) · 삼각화 · 조르당 분해
+벡터의 연산 | 노름 · 거리함수 · 내적 · 외적 ( 신발끈 공식 ) · 다중선형형식 · ∇ · 크로네커 델타
+내적공간 | 그람-슈미트 과정 · 수반 연산자 ( 에르미트 내적 )
+다중선형대수 | 텐서 · 텐서곱 · 레비치비타 기호
+
+1 . 개요 2 . 내용 2.1 . 벡터해석의 응용 3 . 역사
+
+1. 개요 [편집]
+벡터 미적분학 (vector calculus)은 벡터 함수 와 다변수 함수 의 모델링 을 다루는 학문이다. [1] [2] 과학 특히 물리학이나 [나] 공학적으로는 다변수 함수와 관련해서 주요한 미분 개념인 편미분을 사용해 편미분방정식을 고안함으로서 접선 (tangent line)과 접평면 (tangent plane)의 식을 계산하고 벡터장(vector Field) 모델을 구현 및 해석할 수 있다. [4] [가] [6] [7] 수학적으로는 그린 정리 와 발산 정리 (divergence theorem)에 접근하고 이어서 스토크스 정리 를 이해할 수 있다. 또한 유체역학 , 기계공학 , 열역학 등에서 열 방정식 , 적분방정식 , 슈뢰딩거 방정식 , 나비에-스토크스 방정식 , 수치해석학 (numerical analysis) 등 과학, 공학, 수학 전문분야를 보다 깊이있게 이해하고 응용해 볼 수 있다. 또한 벡터미적분학은 전자장 을 해석하는 데 근간이 된다고 할 수 있다.
+
+벡터 미적분학의 연장선상에서 스칼라(0차텐서)와 벡터(1차텐서) 미적분의 응용은 행렬(2차텐서,Rank2)및 고차원텐서와 관련해서 현대 텐서 미적분학의 주요한 근간을 이루며 이는 현대 중력 (gravitation)이론을 깊이있게 이해할 수 있도록 해준다. [8] [9] [가]
+
+수학과, 물리학과, 공과대학에 진학한다면 공업수학, 수리물리학 등 과목에서 기초적인 내용을 배우는 경우가 많다.
+
+2. 내용 [편집]
+단원 | 주제
+1. 벡터 | 차원과 공간 그리고 변환(transformation), 좌표계 , 레벨 커브 (Level Curves)
+2. 다변수함수와 편미분 | 다변수함수 , 편미분 , gnuplot
+3. 최대값최소값 문제 | 최대최소정리 , 임계점 (critical point), 최소제곱법 (OLS), 접평면 (Tangent plane), 2차 편도함수 판정법 (2nd Partial Derivative Test), 연쇄 법칙
+4. 구배와 벡터장 그리고 방향미분 | 기울기 , 델 연산자 (the Del Operator), 벡터장 , 방향편미분 (방향편도함수), 라그랑주 승수법
+5. 편미분방정식(PDE)의 확장 | 이중적분 , 변수 변환 (Change of Variables), 자코비 행렬 , 그린 정리 , 뇌터 정리
+
+2.1. 벡터해석의 응용 [편집]
+단원 | 주제
+6. 유체역학(FM)과 물(water) | 베르누이 정리 , 레이놀즈 수송 정리 (RTT), 켈빈-스토크스 정리 , 스트레스 텐서 ( 응력/응용 ), 나비에-스토크스 방정식 (NSE), 전산유체역학 (CFD)
+7. 행렬과 텐서 그리고 중력(Gravity) | 자코비 공식 , 힐베르트 작용 , 크리스토펠 기호 , 리만 곡률 텐서 , 공변미분 , 비앙키 항등식
+8. RANK2 (지구와 우주) | 스트레스-에너지 텐서 , TOV 방정식 , 옙센 정리 , 아인슈타인 방정식
+
+물리학에서 많이 쓰이는 벡터를 직접 다루는 만큼 그 응용의 범위가 넓으며, 고전역학에서부터 상대성 이론까지 쓰이지 않는 곳이 없다.
+
+3. 역사 [편집]
+역사적으로 17세기 아이작 뉴턴 (Newton,I)부터 19세기 윌리엄 로원 해밀턴 (Hamilton,W.R.)에 이르기까지 벡터 의 주요 개념들(기울기, 발산 , 회전 등)이 물리학 특히 유체역학 과 관련된 개념의 수학적 기술에서 주요하게 등장하고 다루어져 왔다는 것은 벡터의 정보처리 능력면에서 물리적 현상과 수학적 기술의 연결성을 잘 시사한다고 할 수 있다. 이러한 벡터의 성질은 텐서 개념으로 발전하였다. [나] [12]
+아래에 벡터 개념의 구현한 기록물을 시대순서와 상관없이 연대순으로 나열해보면
+
+1827년 오귀스탱루이 코시 의 스트레스 텐서 표현식
+{ p c o s λ = A c o s α + F c o s β + E c o s γ p c o s μ = F c o s α + B c o s β + D c o s γ p c o s ν = E c o s α + D c o s β + C c o s γ } = { A F E F B D E D C } \begin{Bmatrix} p cos \lambda = A cos \alpha + F cos \beta + E cos \gamma \\ p cos \mu = F cos \alpha + B cos \beta + D cos \gamma \\ p cos \nu = E cos \alpha + D cos \beta + C cos \gamma \end{Bmatrix} = \begin{Bmatrix} A & F & E \\ F& B & D \\ E & D & C \end{Bmatrix} ⎩ ⎨ ⎧ ​ p cos λ = A cos α + F cos β + E cos γ p cos μ = F cos α + B cos β + D cos γ p cos ν = E cos α + D cos β + C cos γ ​ ⎭ ⎬ ⎫ ​ = ⎩ ⎨ ⎧ ​ A F E ​ F B D ​ E D C ​ ⎭ ⎬ ⎫ ​
+나비에-스토크스 방정식은 코시 스트레스 텐서의 라플라시안 연산자를 잘 보여줄뿐만 아니라 벡터(rank1)가 텐서(rank2)로 다루어지는 물리적 현상을 기하학적으로도 행렬로 표현되는 과정을 이해할 수 있게 해준다.
+
+1861년 헤르만 한켈(Hermann Hankel)이 그린 정리를 사용해 켈빈-스토크스 정리를 증명하였다.
+∫ ( ξ d x + η d y + ζ d z ) \displaystyle \int ( \xi \,{\rm d}x +\eta \,{\rm d}y +\zeta \,{\rm d}z) \quad ∫ ( ξ d x + η d y + ζ d z )
+∫ ∂ S S ⋅ d C = ∬ S ( ∇ × S ) ⋅ d A \displaystyle \int_{\partial S} S \cdot dC = \iint_{S} \left( \nabla \times S \right) \cdot dA ∫ ∂ S ​ S ⋅ d C = ∬ S ​ ( ∇ × S ) ⋅ d A
+켈빈-스토크스 정리는 그린정리와 발산정리로부터 벡터의 컬(curl,회전) 성질을 잘 보여준다.
+
+1903년 오스본 레이놀즈의 레이놀즈 수송 정리(RTT) 표현식
+d d t [ Σ ( Q d S ) ] = Σ ( d S d Q d t ) + ∭ { d d x ( u ‾ Q ) + d d y ( v ‾ Q ) + d d z ( w ‾ Q ) } d x d y d z \dfrac{d}{dt}\left[\Sigma (QdS)\right] = \Sigma \left( dS\dfrac{dQ}{dt} \right) + \iiint \begin{Bmatrix} \dfrac{d}{dx}\left(\overline{u}Q \right) + \dfrac{d}{dy}\left(\overline{v}Q \right) +\dfrac{d}{dz}\left(\overline{w}Q \right) \end{Bmatrix}dxdydz \quad d t d ​ [ Σ ( Q d S ) ] = Σ ( d S d t d Q ​ ) + ∭ { d x d ​ ( u Q ) + d y d ​ ( v Q ) + d z d ​ ( w Q ) ​ } d x d y d z
+발산(divergence)과 물질 시간 도함수의 주요한 물리적 수학적 벡터 표현을 담고 있다. [ 남동구컴퓨터수리 쿠팡
+www.coupang.com v-if
+[ [ 로켓프레시 ] [ 골드박스 ] [ 로켓직구 ] [ 로켓배송 ] ]
+세련된 남동구컴퓨터수리, 감성 가득한 디자인으로 식탁 분위기를 바꿔보세요.
+
+] | [ 전국24시 출장비0원 컴닥터
+www.컴닥터본사.kr v-if
+[ [ 홈페이지접수 ] [ 온라인문의 ] [ 체인점찾기 ] [ 서비스요금 ] ]
+전국 대표 컴닥터 컴퓨터수리 데이터복구 20분 무료 출장 서비스, A/S안심서비스
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+]
+
+[1] [한화토탈에너지스] 벡터, 너 참 신기하다! https://www.chemi-in.com/675 [2] [칸아카데미] 벡터 함수란? https://ko.khanacademy.org/math/differential-calculus/dc-adv-funcs/dc-vector-valued-func/v/position-vector-valued-functions [나] 3.1 3.2 한국수학사학회지 제20권 제2호(2007년 5월), 59-72, 벡터 개념의 강의적 체계순서에 관하여 ,박홍경,김태완,남영만 https://koreascience.kr/article/JAKO200721138196900.pdf [4] Vector Calculus, Michael Corral (Schoolcraft College) PDF LastEedition 2022(original 2008) GNU GFDL https://www.mecmath.net/ [가] 5.1 5.2 Basics of Fluid Mechanics ,Genick Bar-Meir 2014 GFDL https://open.umn.edu/opentextbooks/textbooks/85 [6] 구텐베르크 프로젝트 - Calculus Made Easy , Silvanus P. Thompson 1914 ,THE MACMILLAN CO. https://www.gutenberg.org/files/33283/33283-pdf.pdf [7] 구텐베르크 프로젝트 - Elementary Illustrations of the Differential and Integral Calculus by De Morgan 1899 Kegan Paul, Trench, Tr ̈ubner & Co., Ltd., London https://www.gutenberg.org/files/39041/39041-pdf.pdf [8] [직역:매트릭스 그리고 텐서 미적분학 ] Matrix And Tensor Calculus:WITH APPLICATIONS TO MECHANICS, ELASTICITY, and AERONAUTICS , ARISTOTLE D. MICHAL(애리스토틀 D. 미할) 1947,New York: J. Wiley, (P99)17.RlEMANN-CHRISTOFFEL TENSOR §The Riemann-Christoffel Curvature Tensor. https://archive.org/details/in.ernet.dli.2015.212664/page/n21/mode/2up [9] Tensor Calculus , J. L. Synge, A. Schild 1949 https://archive.org/details/TensorCalculusByJLSYNGEANDA.SCHILD/page/n7/mode/2up [12] The Method of Fluxions and Infinite Series: With Its Application to the Geometry of Curve-lines (직역)유동의 방법와 무한 급수: 곡선의 기하학에 적용 1736 https://books.google.co.kr/books?id=WyQOAAAAQAAJ&printsec=frontcover&hl=ko&source=gbs_ge_summary_r&cad=0 ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

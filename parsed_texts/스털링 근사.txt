@@ -1,0 +1,213 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 스털링 근사
+최근 수정 시각: 2026-04-13 11:21:47 [ [ [ ] [ [ 6 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 해석학(수학)
+- 공식
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+위: ━ 감마 함수와 ╍ 스털링 근사의 비교
+아래: ━ 상대 오차
+
+1 . 개요 2 . 증명 2.1 . 라플라스 방법 2.2 . 간단한 증명 2.3 . 다른 증명 1 2.4 . 다른 증명 2 3 . 예시 4 . 출처 및 참고 문헌 5 . 관련 문서
+
+1. 개요 [편집]
+스털링 근사는 계승 , 나아가 감마 함수 에 대한 근삿값 을 구할 수 있도록 하는 식으로, 스털링 공식 이라고도 한다. 제1종 스털링 수 , 제2종 스털링 수 의 제임스 스털링(James Stirling, 1692~1770)이 연구한 개념이다. 일반적으로는 아래와 같은 식으로 표현되며 n ! ≈ 2 π n ( n e ) n ln ⁡ ( n ! ) ≈ n ln ⁡ n − n \begin{aligned} n! &\approx \sqrt{2\pi n} \Bigl( \frac ne \Bigr)^n \\ \ln(n!) &\approx n\ln n-n \end{aligned} n ! ln ( n !) ​ ≈ 2 π n ​ ( e n ​ ) n ≈ n ln n − n ​
+
+원하는 수준의 근사 정도에 따라 아래의 식에서 원하는 항까지 사용할 수 있으며, 테일러 급수 와 비슷하게 스털링 급수(Stirling's series) 라고도 불린다. 단, 이 급수는 어디까지나 점근 급수이기 때문에 항을 무조건 많이 사용한다고 해서 원래 함숫값과의 차이가 무한정 작아지지는 않는다. n ! ≈ 2 π n ( n e ) n ( 1 + 1 12 n + 1 288 n 2 − 139 51840 n 3 − 571 2488320 n 4 + 163879 209018880 n 5 + ⋯ ) ln ⁡ ( n ! ) ≈ n ln ⁡ n − n + 1 2 ln ⁡ n + 1 2 ln ⁡ 2 π + 1 12 n − 1 360 n 3 + 1 1260 n 5 − 1 1680 n 7 + ⋯ \begin{aligned} n! &\approx \sqrt{2\pi n} \Bigl( \frac ne \Bigr)^n \biggl( 1 +\frac1{12n} +\frac1{288n^2} -\frac{139}{51840n^3} -\frac{571}{2488320n^4} +\frac{163879}{209018880n^5} +\cdots \biggr) \\ \ln(n!) &\approx n \ln n -n +\frac12 \ln n +\frac12 \ln{2\pi} +\frac1{12n} -\frac1{360n^3} +\frac1{1260n^5} -\frac1{1680n^7} +\cdots \end{aligned} n ! ln ( n !) ​ ≈ 2 π n ​ ( e n ​ ) n ( 1 + 12 n 1 ​ + 288 n 2 1 ​ − 51840 n 3 139 ​ − 2488320 n 4 571 ​ + 209018880 n 5 163879 ​ + ⋯ ) ≈ n ln n − n + 2 1 ​ ln n + 2 1 ​ ln 2 π + 12 n 1 ​ − 360 n 3 1 ​ + 1260 n 5 1 ​ − 1680 n 7 1 ​ + ⋯ ​
+
+식에서 예상할 수 있듯이, 작은 수에서는 오차가 크다.
+
+2. 증명 [편집]
+이하 증명에서는 스털링 급수 자체가 아닌 근사식 n ! ≈ 2 π n ( n e ) n n! \approx \sqrt{2\pi n}\Bigl(\cfrac ne\Bigr)^n n ! ≈ 2 π n ​ ( e n ​ ) n , ln ⁡ ( n ! ) ≈ n ln ⁡ n − n \ln(n!) \approx n\ln n-n ln ( n !) ≈ n ln n − n 만 증명한다.
+
+2.1. 라플라스 방법 [편집]
+감마 함수 는 Γ ( z ) ≡ ∫ 0 ∞ t z − 1 e − t d t \displaystyle \Gamma\left(z\right) \equiv \int_0^\infty t^{z-1}e^{-t} \, dt Γ ( z ) ≡ ∫ 0 ∞ ​ t z − 1 e − t d t 으로 정의되며, 0 또는 양의 정수 n n n 에 대해 n ! = Γ ( n + 1 ) n! = \Gamma\left(n+1\right) n ! = Γ ( n + 1 ) 이 성립한다. 적분기호 안의 피적분함수를 지수함수 형태로 잘 정리하면
+
+t n e − t = e n ln ⁡ t − t \displaystyle t^ne^{-t} = e^{n\ln{t} - t} t n e − t = e n l n t − t
+
+이므로, 감마함수는 e f ( x ) e^{f\left(x\right)} e f ( x ) 꼴 함수로 볼 수 있고, 적분구간의 양 끝 점이 0에 수렴하기 때문에 n이 충분히 클 경우 라플라스 방법을 이용해 효과적으로 근사할 수 있다.
+
+t n e − t t^ne^{-t} t n e − t 는 t = n t = n t = n 에서 최댓값을 가지므로, 지수의 로그함수를 t = n t = n t = n 에서 테일러 전개하면
+
+ln ⁡ t = ln ⁡ n + ( t − n ) n − ( t − n ) 2 2 n 2 + ⋯ \displaystyle \ln{t} = \ln{n} + \frac{\left(t-n\right)}{n} - \frac{\left(t-n\right)^2}{2n^2} + \cdots ln t = ln n + n ( t − n ) ​ − 2 n 2 ( t − n ) 2 ​ + ⋯
+
+따라서
+
+t n e − t = e n ln ⁡ t − t = e − t + n ln ⁡ n + t − n − ( t − n ) 2 / 2 n + ⋯ = e n ln ⁡ n − n e − ( t − n ) 2 / 2 n + ⋯ ≈ n n e − n e − ( t − n ) 2 / 2 n \displaystyle \begin{aligned} t^ne^{-t} &= e^{n\ln{t} - t} \\ &= e^{- t + n\ln{n} + t - n - \left(t-n\right)^2/2n + \cdots} \\ &= e^{n\ln{n} - n} e^{- \left(t-n\right)^2/2n + \cdots} \\ &\approx n^ne^{-n}e^{- \left(t-n\right)^2/2n} \end{aligned} t n e − t ​ = e n l n t − t = e − t + n l n n + t − n − ( t − n ) 2 /2 n + ⋯ = e n l n n − n e − ( t − n ) 2 /2 n + ⋯ ≈ n n e − n e − ( t − n ) 2 /2 n ​
+
+이므로, 피적분 함수를 가우시안 꼴로 근사할 수 있다.
+
+n ! ≈ n n e − n ∫ − ∞ ∞ e ( t − n ) 2 / 2 n d t = 2 π n n n e − n \displaystyle \begin{aligned} n! &\approx n^ne^{-n}\int_{-\infty}^\infty e^{\left(t-n\right)^2/2n} \, dt \\ &= \sqrt{2\pi n}n^ne^{-n} \end{aligned} n ! ​ ≈ n n e − n ∫ − ∞ ∞ ​ e ( t − n ) 2 /2 n d t = 2 π n ​ n n e − n ​
+
+2.2. 간단한 증명 [편집]
+이항 분포 B ( x ; n , p ) {\rm B}(x;\,n,\,p) B ( x ; n , p ) 가 n → ∞ n\to\infty n → ∞ 일 때 푸아송 분포 f ( x ; λ ) f(x;\,\lambda) f ( x ; λ ) (단, p → 0 p\to0 p → 0 , n p → λ np\to\lambda n p → λ , n p ( 1 − p ) → λ np(1-p)\to\lambda n p ( 1 − p ) → λ ) 및 정규 분포 N ( x ; μ , σ 2 ) {\rm N}{\left(x;\,\mu,\,\sigma^2\right)} N ( x ; μ , σ 2 ) (단, n p → μ np\to\mu n p → μ , n p ( 1 − p ) → σ 2 np(1-p) \to \sigma^2 n p ( 1 − p ) → σ 2 )으로 근사 가능하다는 점을 이용한다. f ( x ; λ ) = λ x e − λ λ ! N ( x ; μ , σ 2 ) = 1 2 π σ 2 exp ⁡ { − ( x − μ ) 2 2 σ 2 } \begin{aligned} f(x;\,\lambda) &= \frac{\lambda^xe^{-\lambda}}{\lambda!} \\ N(x;\,\mu,\,\sigma^2) &= \frac1{\sqrt{2\pi\sigma^2}}\exp{\left\{-\frac{(x-\mu)^2}{2\sigma^2}\right\}}\end{aligned} f ( x ; λ ) N ( x ; μ , σ 2 ) ​ = λ ! λ x e − λ ​ = 2 π σ 2 ​ 1 ​ exp { − 2 σ 2 ( x − μ ) 2 ​ } ​
+
+이고 푸아송 분포에서는 평균과 분산이 모두 λ \lambda λ 이므로 λ x e − λ λ ! ≈ 1 2 π λ exp ⁡ { − ( x − λ ) 2 2 λ } \dfrac{\lambda^xe^{-\lambda}}{\lambda!} \approx \dfrac1{\sqrt{2\pi\lambda}}\exp{\left\{-\dfrac{(x-\lambda)^2}{2\lambda}\right\}} λ ! λ x e − λ ​ ≈ 2 π λ ​ 1 ​ exp { − 2 λ ( x − λ ) 2 ​ }
+
+x = λ x=\lambda x = λ 를 대입하면 지수함수 부분이 1이 되므로 λ λ e − λ λ ! ≈ 1 2 π λ λ ! ≈ 2 π λ ( λ e ) λ ∴ n ! ≈ 2 π n ( n e ) n \begin{aligned} \dfrac{\lambda^\lambda e^{-\lambda}}{\lambda!} &\approx \dfrac1{\sqrt{2\pi\lambda}} \\ \lambda! &\approx \sqrt{2\pi\lambda}{\left(\frac\lambda e\right)}^\lambda \end{aligned} \\ \therefore n! \approx \sqrt{2\pi n}{\left(\dfrac ne\right)}^n λ ! λ λ e − λ ​ λ ! ​ ≈ 2 π λ ​ 1 ​ ≈ 2 π λ ​ ( e λ ​ ) λ ​ ∴ n ! ≈ 2 π n ​ ( e n ​ ) n
+
+위 근사는 다음 극한과 동치이며 lim ⁡ n → ∞ n ! 2 π n ( n e ) n = 1 \lim\limits_{n\to\infty}\dfrac{n!}{\sqrt{2\pi n}{\left(\dfrac ne\right)}^n} = 1 n → ∞ lim ​ 2 π n ​ ( e n ​ ) n n ! ​ = 1
+
+분자와 분모에 자연로그 를 취해도 결과값은 1로 일정하므로, 자연로그 의 비로 변형한 뒤 분자와 분모를 n ln ⁡ n − n n\ln n-n n ln n − n 으로 나누면 lim ⁡ n → ∞ ln ⁡ ( n ! ) n ln ⁡ n − n n ln ⁡ n − n + 1 2 ln ⁡ ( 2 π n ) n ln ⁡ n − n = lim ⁡ n → ∞ ln ⁡ ( n ! ) n ln ⁡ n − n 1 + ln ⁡ ( 2 π n ) 2 ( n ln ⁡ n − n ) = 1 \begin{aligned} \lim_{n\to\infty} \frac{\dfrac{\ln(n!)}{n\ln n-n}}{\dfrac{n\ln n-n+\dfrac12\ln(2\pi n)}{n\ln n-n}} &= \lim_{n\to\infty} \frac{\dfrac{\ln(n!)}{n\ln n-n}}{1+\dfrac{\ln(2\pi n)}{2(n\ln n-n)}} \\ &= 1\end{aligned} n → ∞ lim ​ n ln n − n n ln n − n + 2 1 ​ ln ( 2 π n ) ​ n ln n − n ln ( n !) ​ ​ ​ = n → ∞ lim ​ 1 + 2 ( n ln n − n ) ln ( 2 π n ) ​ n ln n − n ln ( n !) ​ ​ = 1 ​
+
+분모의 제2항은 로피탈의 정리 를 쓰면 lim ⁡ n → ∞ ln ⁡ ( 2 π n ) 2 ( n ln ⁡ n − n ) = l’H o ˆ pital lim ⁡ n → ∞ 1 n 2 ln ⁡ n = 0 \begin{aligned} \lim_{n\to\infty}\frac{\ln(2\pi n)}{2(n\ln n-n)} &\xlongequal{\textsf{l'H\^opital}} \lim_{n\to\infty}\frac{\dfrac1n}{2\ln n} \\ &= 0\end{aligned} n → ∞ lim ​ 2 ( n ln n − n ) ln ( 2 π n ) ​ ​ l’H o ˆ pital n → ∞ lim ​ 2 ln n n 1 ​ ​ = 0 ​
+
+따라서 lim ⁡ n → ∞ ln ⁡ ( n ! ) n ln ⁡ n − n = 1 \lim\limits_{n\to\infty}\dfrac{\ln(n!)}{n\ln n-n} = 1 n → ∞ lim ​ n ln n − n ln ( n !) ​ = 1 이므로 ln ⁡ ( n ! ) ≈ n ln ⁡ n − n \ln(n!) \approx n\ln n-n ln ( n !) ≈ n ln n − n 이다.
+참고로 일반적으로 활용되는 근사는 ln ⁡ ( n ! ) ≈ n ln ⁡ n − n \ln(n!) \approx n\ln n-n ln ( n !) ≈ n ln n − n 이지만, 좀 덜 정밀한 근사를 써도 된다면 ln ⁡ ( n ! ) ≈ n ln ⁡ n \ln(n!) \approx n\ln n ln ( n !) ≈ n ln n 도 쓸 수 있다. 이 역시 같은 방법으로 증명이 가능하다.
+
+2.3. 다른 증명 1 [편집]
+자연로그 의 그래프에 대하여, 이산적인 넓이 1 ⋅ ln ⁡ m 1{\cdot}\ln m 1 ⋅ ln m 과 정적분의 부등식 관계를 보면 ∫ m − 1 m ln ⁡ x d x < { m − ( m − 1 ) } ln ⁡ m ∫ m m + 1 ln ⁡ x d x > { ( m + 1 ) − m } ln ⁡ m ∴ ∫ m − 1 m ln ⁡ x d x < ln ⁡ m < ∫ m m + 1 ln ⁡ x d x \begin{aligned} \int_{m-1}^m\ln x{\rm\,d}x &< \{m-(m-1)\}\ln m \\ \int_m^{m+1}\ln x{\rm\,d}x &> \{(m+1)-m\}\ln m \end{aligned} \\ \displaystyle\therefore \int_{m-1}^m\ln x{\rm\,d}x < \ln m < \int_m^{m+1}\ln x{\rm\,d}x ∫ m − 1 m ​ ln x d x ∫ m m + 1 ​ ln x d x ​ < { m − ( m − 1 )} ln m > {( m + 1 ) − m } ln m ​ ∴ ∫ m − 1 m ​ ln x d x < ln m < ∫ m m + 1 ​ ln x d x
+
+이제 이것을 1 ≤ m ≤ n 1\le m\le n 1 ≤ m ≤ n 범위에서 모두 더하면 ∫ 0 n ln ⁡ x d x = n ln ⁡ n − n < ln ⁡ ( n ! ) < ∫ 1 n + 1 ln ⁡ x d x = ( n + 1 ) ln ⁡ ( n + 1 ) − n \displaystyle \int_0^n\ln x{\rm\,d}x = n\ln n-n < \ln(n!) < \int_1^{n+1}\ln x{\rm\,d}x = (n+1)\ln(n+1)-n ∫ 0 n ​ ln x d x = n ln n − n < ln ( n !) < ∫ 1 n + 1 ​ ln x d x = ( n + 1 ) ln ( n + 1 ) − n [1]
+
+각 변을 ∣ n ln ⁡ n − n ∣|n\ln n-n| ∣ n ln n − n ∣ 으로 나누면 n ln ⁡ n − n ∣ n ln ⁡ n − n ∣ < ln ⁡ ( n ! ) ∣ n ln ⁡ n − n ∣ < ( n + 1 ) ln ⁡ ( n + 1 ) − n ∣ n ln ⁡ n − n ∣ \dfrac{n\ln n-n}{|n\ln n-n|}<\dfrac{\ln(n!)}{|n\ln n-n|} < \dfrac{(n+1)\ln(n+1)-n}{|n\ln n-n|} ∣ n ln n − n ∣ n ln n − n ​ < ∣ n ln n − n ∣ ln ( n !) ​ < ∣ n ln n − n ∣ ( n + 1 ) ln ( n + 1 ) − n ​
+
+이제 n → ∞ n\to\infty n → ∞ 의 극한을 취하면 좌변은 1로 수렴하고, 우변에 대해서는 로피탈의 정리 를 이용하면 lim ⁡ n → ∞ ( n + 1 ) ln ⁡ ( n + 1 ) − n ∣ n ln ⁡ n − n ∣ = l’H o ˆ pital lim ⁡ n → ∞ ln ⁡ ( n + 1 ) ∣ ln ⁡ n ∣ = l’H o ˆ pital lim ⁡ n → ∞ 1 n + 1 ∣ 1 n ∣ = 1 \begin{aligned} \lim_{n\to\infty} \frac{(n+1)\ln(n+1)-n}{|n\ln n-n|} &\xlongequal{\textsf{l'H\^opital}} \lim_{n\to\infty} \frac{\ln(n+1)}{|\ln n|} \\ &\xlongequal{\textsf{l'H\^opital}} \lim_{n\to\infty} \frac{\dfrac1{n+1}}{\left|\dfrac1n\right|} \\ &= 1\end{aligned} n → ∞ lim ​ ∣ n ln n − n ∣ ( n + 1 ) ln ( n + 1 ) − n ​ ​ l’H o ˆ pital n → ∞ lim ​ ∣ ln n ∣ ln ( n + 1 ) ​ l’H o ˆ pital n → ∞ lim ​ ​ n 1 ​ ​ n + 1 1 ​ ​ = 1 ​
+
+로서 역시 1로 수렴하므로 ln ⁡ ( n ! ) n ln ⁡ n − n ≈ 1 \cfrac{\ln(n!)}{n\ln n-n} \approx 1 n ln n − n ln ( n !) ​ ≈ 1 , 즉 ln ⁡ ( n ! ) ≈ n ln ⁡ n − n \ln(n!) \approx n\ln n-n ln ( n !) ≈ n ln n − n 이다.
+
+이제 수열 a n a_n a n ​ 을 다음과 같이 정의하자. a n = ln ⁡ n ! n ( n e ) n = ln ⁡ ( n ! ) − ( n + 1 2 ) ln ⁡ n + n \begin{aligned} a_n &= \ln\frac{n!}{\sqrt n{\left(\dfrac ne\right)}^n} \\ &= \ln(n!) - {\left(n+\frac12\right)}\ln n + n\end{aligned} a n ​ ​ = ln n ​ ( e n ​ ) n n ! ​ = ln ( n !) − ( n + 2 1 ​ ) ln n + n ​
+
+그리고 a n − a n + 1 a_n-a_{n+1} a n ​ − a n + 1 ​ 은 다음과 같이 되는데 a n − a n + 1 = ln ⁡ ( n ! ) − ln ⁡ { ( n + 1 ) ! } − ( n + 1 2 ) ln ⁡ n + ( n + 1 2 + 1 ) ln ⁡ ( n + 1 ) + n − ( n + 1 ) = ln ⁡ ( n ! ) + ln ⁡ ( n + 1 ) − ln ⁡ { ( n + 1 ) ! } + ( n + 1 2 ) ln ⁡ n + 1 n − 1 = ( n + 1 2 ) ln ⁡ n + 1 n − 1 = 2 n + 1 2 ln ⁡ n + 1 n − 1 \begin{aligned} a_n-a_{n+1} &= \ln(n!)-\ln\{(n+1)!\} - {\left(n+\frac12\right)}\ln n + {\left(n+\frac12+1\right)}\ln(n+1)+n-(n+1) \\ &= \ln(n!) + \ln(n+1) - \ln\{(n+1)!\} + {\left(n+\frac12\right)}\ln\frac{n+1}n - 1 \\ &= {\left(n+\frac12\right)}\ln\frac{n+1}n-1 \\ &= \frac{2n+1}2\ln\frac{n+1}n-1\end{aligned} a n ​ − a n + 1 ​ ​ = ln ( n !) − ln {( n + 1 )!} − ( n + 2 1 ​ ) ln n + ( n + 2 1 ​ + 1 ) ln ( n + 1 ) + n − ( n + 1 ) = ln ( n !) + ln ( n + 1 ) − ln {( n + 1 )!} + ( n + 2 1 ​ ) ln n n + 1 ​ − 1 = ( n + 2 1 ​ ) ln n n + 1 ​ − 1 = 2 2 n + 1 ​ ln n n + 1 ​ − 1 ​
+
+자연로그의 진수부분은 다음과 같이 고쳐쓸 수 있고 n + 1 n = 2 n + 2 2 n = 2 n + 1 + 1 2 n + 1 − 1 = 1 + 1 2 n + 1 1 − 1 2 n + 1 \begin{aligned}\frac{n+1}n &= \frac{2n+2}{2n} \\ &= \frac{2n+1+1}{2n+1-1} \\ &= \frac{1+\dfrac1{2n+1}}{1-\dfrac1{2n+1}}\end{aligned} n n + 1 ​ ​ = 2 n 2 n + 2 ​ = 2 n + 1 − 1 2 n + 1 + 1 ​ = 1 − 2 n + 1 1 ​ 1 + 2 n + 1 1 ​ ​ ​
+
+1 2 n + 1 = x \cfrac1{2n+1}=x 2 n + 1 1 ​ = x 라 놓으면 a n − a n + 1 a_n-a_{n+1} a n ​ − a n + 1 ​ 의 제1항은 artanh ⁡ x = 1 2 ln ⁡ ( 1 + x 1 − x ) \operatorname{artanh}x = \cfrac12\ln\biggl(\cfrac{1+x}{1-x}\biggr) artanh x = 2 1 ​ ln ( 1 − x 1 + x ​ ) 꼴이 된다는 것을 알 수 있다. a n − a n + 1 = 1 2 x ln ⁡ ( 1 + x 1 − x ) − 1 a_n-a_{n+1} = \dfrac1{2x}\ln{\left(\dfrac{1+x}{1-x}\right)}-1 a n ​ − a n + 1 ​ = 2 x 1 ​ ln ( 1 − x 1 + x ​ ) − 1
+
+그러면 0 < x ≤ 1 3 < 1 0<x\le \cfrac13<1 0 < x ≤ 3 1 ​ < 1 이므로 자연로그에 대해 무한급수 를 적용할 수 있고 a n − a n + 1 = 1 2 x ln ⁡ ( 1 + x 1 − x ) − 1 = 1 x ∑ n = 0 ∞ x 2 n + 1 2 n + 1 − 1 = ∑ n = 1 ∞ x 2 n + 1 2 n + 1 = 1 3 x 2 + 1 5 x 4 + 1 7 x 6 + ⋯ < 1 3 { 1 ( 2 n + 1 ) 2 + 1 ( 2 n + 1 ) 4 + 1 ( 2 n + 1 ) 6 + ⋯ } \begin{aligned} a_n-a_{n+1} &= \frac1{2x}\ln{\left(\frac{1+x}{1-x}\right)}-1 \\ &= \frac1x\sum_{n=0}^\infty\frac{x^{2n+1}}{2n+1}-1 \\ &= \sum_{n=1}^\infty\frac{x^{2n+1}}{2n+1} \\ &= \frac13x^2 + \frac15x^4 + \frac17x^6 + \cdots \\ &< \frac13{\left\{\frac1{(2n+1)^2} + \frac1{(2n+1)^4} + \frac1{(2n+1)^6} + \cdots\right\}}\end{aligned} a n ​ − a n + 1 ​ ​ = 2 x 1 ​ ln ( 1 − x 1 + x ​ ) − 1 = x 1 ​ n = 0 ∑ ∞ ​ 2 n + 1 x 2 n + 1 ​ − 1 = n = 1 ∑ ∞ ​ 2 n + 1 x 2 n + 1 ​ = 3 1 ​ x 2 + 5 1 ​ x 4 + 7 1 ​ x 6 + ⋯ < 3 1 ​ { ( 2 n + 1 ) 2 1 ​ + ( 2 n + 1 ) 4 1 ​ + ( 2 n + 1 ) 6 1 ​ + ⋯ } ​
+
+0 < x ≤ 1 3 0<x\le\cfrac13 0 < x ≤ 3 1 ​ 이므로 a n − a n + 1 > 0 a_n-a_{n+1}>0 a n ​ − a n + 1 ​ > 0 에서 a n > a n + 1 a_n>a_{n+1} a n ​ > a n + 1 ​ , 즉 수열 { a n } \{a_n\} { a n ​ } 은 단조 감소함을 알 수 있고, 상기 마지막 부등식에 대해서 a n − a n + 1 < 1 3 1 ( 2 n + 1 ) 2 1 − 1 ( 2 n + 1 ) 2 = 1 3 1 4 n 2 + 4 n = 1 12 ( 1 n − 1 n + 1 ) \begin{aligned} a_n-a_{n+1} &< \frac13\frac{\dfrac1{(2n+1)^2}}{1-\dfrac1{(2n+1)^2}} \\ &= \frac13\frac1{4n^2+4n} = \frac1{12}{\left(\frac1n-\frac1{n+1}\right)}\end{aligned} a n ​ − a n + 1 ​ ​ < 3 1 ​ 1 − ( 2 n + 1 ) 2 1 ​ ( 2 n + 1 ) 2 1 ​ ​ = 3 1 ​ 4 n 2 + 4 n 1 ​ = 12 1 ​ ( n 1 ​ − n + 1 1 ​ ) ​
+
+이므로 부등식을 고쳐쓰면 a n − 1 12 n < a n + 1 − 1 12 ( n + 1 ) a_n-\dfrac1{12n} < a_{n+1}-\dfrac1{12(n+1)} a n ​ − 12 n 1 ​ < a n + 1 ​ − 12 ( n + 1 ) 1 ​
+
+이므로 수열 { a n − 1 12 n } \biggl\{a_n-\dfrac1{12n}\biggr\} { a n ​ − 12 n 1 ​ } 은 단조 증가하는 수열이다. 이때, a n − ( a n − 1 12 n ) = 1 12 n a_n - \biggl(a_n-\cfrac1{12n}\biggr) = \cfrac1{12n} a n ​ − ( a n ​ − 12 n 1 ​ ) = 12 n 1 ​ 은 0으로 수렴하므로 두 수열은 같은 값으로 수렴한다. 이 값을 a a a 라고 하면 lim ⁡ n → ∞ ln ⁡ n ! n ( n e ) n = a lim ⁡ n → ∞ n ! n ( n e ) n = e a \begin{aligned} \lim_{n\to\infty}\ln\frac{n!}{\sqrt n{\left(\dfrac ne\right)}^n} &= a \\ \lim_{n\to\infty}\frac{n!}{\sqrt n{\left(\dfrac ne\right)}^n} &= e^a\end{aligned} n → ∞ lim ​ ln n ​ ( e n ​ ) n n ! ​ n → ∞ lim ​ n ​ ( e n ​ ) n n ! ​ ​ = a = e a ​
+
+이제 다음 월리스 곱 을 고려하자. ∏ k = 1 ∞ ( 2 n ) 2 ( 2 k − 1 ) ( 2 k + 1 ) = lim ⁡ n → ∞ 2 ⋅ 2 ⋅ 4 ⋅ 4 ⋅ 6 ⋅ 6 ⋅ ⋯ ( 2 n ) 2 1 ⋅ 3 ⋅ 3 ⋅ 5 ⋅ 5 ⋅ ⋯ ( 2 n − 1 ) 2 ( 2 n + 1 ) = π 2 \begin{aligned} \prod_{k=1}^\infty \frac{(2n)^2}{(2k-1)(2k+1)} &= \lim_{n\to\infty}\frac{2{\cdot}2{\cdot}4{\cdot}4{\cdot}6{\cdot}6{\cdot}\cdots(2n)^2}{1{\cdot}3{\cdot}3{\cdot}5{\cdot}5{\cdot}\cdots(2n-1)^2(2n+1)} \\ &= \frac\pi2 \end{aligned} k = 1 ∏ ∞ ​ ( 2 k − 1 ) ( 2 k + 1 ) ( 2 n ) 2 ​ ​ = n → ∞ lim ​ 1 ⋅ 3 ⋅ 3 ⋅ 5 ⋅ 5 ⋅ ⋯ ( 2 n − 1 ) 2 ( 2 n + 1 ) 2 ⋅ 2 ⋅ 4 ⋅ 4 ⋅ 6 ⋅ 6 ⋅ ⋯ ( 2 n ) 2 ​ = 2 π ​ ​
+
+그럼 다음 무한곱 역시 월리스 곱 과 같은 값으로 수렴함을 알 수 있다. lim ⁡ n → ∞ ∏ k = 1 n ( 2 k ) 2 ( 2 k − 1 ) 2 1 2 n = lim ⁡ n → ∞ ∏ k = 1 n ( 2 k ) 2 ( 2 k − 1 ) ( 2 k + 1 ) 2 n + 1 1 ⋅ 2 n = lim ⁡ n → ∞ ∏ k = 1 n ( 2 k ) 2 ( 2 k − 1 ) ( 2 k + 1 ) ⋅ lim ⁡ n → ∞ 2 n + 1 2 n = π 2 \begin{aligned} \lim_{n\to\infty}\prod_{k=1}^n \frac{(2k)^2}{(2k-1)^2}\frac1{2n} &= \lim_{n\to\infty}\prod_{k=1}^n \frac{(2k)^2}{(2k-1)(2k+1)}\frac{2n+1}{1{\cdot}2n} \\ &= \lim_{n\to\infty}\prod_{k=1}^n \frac{(2k)^2}{(2k-1)(2k+1)}{\cdot}\lim_{n\to\infty}\frac{2n+1}{2n} \\ &= \frac\pi2\end{aligned} n → ∞ lim ​ k = 1 ∏ n ​ ( 2 k − 1 ) 2 ( 2 k ) 2 ​ 2 n 1 ​ ​ = n → ∞ lim ​ k = 1 ∏ n ​ ( 2 k − 1 ) ( 2 k + 1 ) ( 2 k ) 2 ​ 1 ⋅ 2 n 2 n + 1 ​ = n → ∞ lim ​ k = 1 ∏ n ​ ( 2 k − 1 ) ( 2 k + 1 ) ( 2 k ) 2 ​ ⋅ n → ∞ lim ​ 2 n 2 n + 1 ​ = 2 π ​ ​
+
+따라서 주어진 무한곱의 제곱근은 π 2 \sqrt{\cfrac\pi2} 2 π ​ ​ 로 수렴하는 것을 알 수 있고 lim ⁡ n → ∞ ∏ k = 1 n 2 k ( 2 k − 1 ) 2 n = lim ⁡ n → ∞ ∏ k = 1 n ( 2 k ) 2 ( 2 k − 1 ) ( 2 k ) 2 n = lim ⁡ n → ∞ 2 2 n ( n ! ) 2 2 n ( 2 n ) ! = π 2 \begin{aligned} \lim_{n\to\infty}\prod_{k=1}^n \frac{2k}{(2k-1)\sqrt{2n}} &= \lim_{n\to\infty} \prod_{k=1}^n \frac{(2k)^2}{(2k-1)(2k)\sqrt{2n}} \\ &= \lim_{n\to\infty}\frac{2^{2n}(n!)^2}{\sqrt{2n}(2n)!} \\ &= \sqrt{\frac\pi2}\end{aligned} n → ∞ lim ​ k = 1 ∏ n ​ ( 2 k − 1 ) 2 n ​ 2 k ​ ​ = n → ∞ lim ​ k = 1 ∏ n ​ ( 2 k − 1 ) ( 2 k ) 2 n ​ ( 2 k ) 2 ​ = n → ∞ lim ​ 2 n ​ ( 2 n )! 2 2 n ( n ! ) 2 ​ = 2 π ​ ​ ​
+
+계승 으로 나타낸 식의 분자, 분모를 2 n ( 2 n e ) 2 n \sqrt{2n}\biggl(\cfrac{2n}e\biggr)^{2n} 2 n ​ ( e 2 n ​ ) 2 n 으로 나누면 앞서 구했던 e a n e^{a_n} e a n ​ 의 수렴값 e a e^a e a 로 나타낼 수 있다. lim ⁡ n → ∞ 2 2 n ( n ! ) 2 2 n ( 2 n e ) 2 n 2 n ( 2 n ) ! 2 n ( 2 n e ) 2 n = lim ⁡ n → ∞ 2 2 n 2 ⋅ 2 2 n { n ! n ( n e ) n } 2 ( 2 n ) ! 2 n ( 2 n e ) 2 n = e 2 a 2 e a = e a 2 = π 2 ∴ e a = 2 π \begin{aligned} \lim_{n\to\infty}\frac{\dfrac{2^{2n}(n!)^2}{\sqrt{2n}{\left(\dfrac{2n}e\right)}^{2n}}}{\dfrac{\sqrt{2n}(2n)!}{\sqrt{2n}{\left(\dfrac{2n}e\right)}^{2n}}} &= \lim_{n\to\infty}\frac{\dfrac{\cancel{2^{2n}}}{2{\cdot}\cancel{2^{2n}}}{\left\{\dfrac{n!}{\sqrt n{\left(\dfrac ne\right)}^n}\right\}}^2}{\dfrac{(2n)!}{\sqrt{2n}{\left(\dfrac{2n}e\right)}^{2n}}} \\ &= \frac{e^{2a}}{2e^a} = \frac{e^a}2 = \sqrt{\frac\pi2} \\ \therefore e^a &= \sqrt{2\pi}\end{aligned} n → ∞ lim ​ 2 n ​ ( e 2 n ​ ) 2 n 2 n ​ ( 2 n )! ​ 2 n ​ ( e 2 n ​ ) 2 n 2 2 n ( n ! ) 2 ​ ​ ∴ e a ​ = n → ∞ lim ​ 2 n ​ ( e 2 n ​ ) 2 n ( 2 n )! ​ 2 ⋅ 2 2 n 2 2 n ​ ⎩ ⎨ ⎧ ​ n ​ ( e n ​ ) n n ! ​ ⎭ ⎬ ⎫ ​ 2 ​ = 2 e a e 2 a ​ = 2 e a ​ = 2 π ​ ​ = 2 π ​ ​
+
+따라서 lim ⁡ n → ∞ n ! n ( n e ) n = 2 π ∴ n ! ≈ 2 π n ( n e ) n \lim\limits_{n\to\infty}\dfrac{n!}{\sqrt n{\left(\dfrac ne\right)}^n} = \sqrt{2\pi} \\ \therefore n! \approx \sqrt{2\pi n}{\left(\dfrac ne\right)}^n n → ∞ lim ​ n ​ ( e n ​ ) n n ! ​ = 2 π ​ ∴ n ! ≈ 2 π n ​ ( e n ​ ) n
+
+2.4. 다른 증명 2 [편집]
+이 문단에서는 다음 식만 증명할 것이다. n ! ≈ 2 π n ( n e ) n n! \approx \sqrt{2\pi n} \Bigl( \dfrac ne \Bigr)^n n ! ≈ 2 π n ​ ( e n ​ ) n
+
+먼저 다음 3가지의 참고식들을 증명한 다음, 이 참고식들을 사용하여 스털링 근사식을 증명할 것이다. 증명 과정 중 참고식을 사용한 경우, 등호 위에다가 해당 참고식의 알파벳을 적을 것이다. (예: = A \xlongequal A A ) - 참고식 A A A ∫ k − 1 n k n ( k n − x ) d x = 1 2 n 2 \begin{aligned} \int_{\frac{k-1}n}^{\frac kn} \biggl( \frac kn -x \biggr) {\rm\,d}x = \frac1{2n^2} \end{aligned} ∫ n k − 1 ​ n k ​ ​ ( n k ​ − x ) d x = 2 n 2 1 ​ ​
+
+[증명] ∫ k − 1 n k n ( k n − x ) d x = [ k n x − 1 2 x 2 ] k − 1 n k n = k n ( k n − k − 1 n ) − 1 2 ( k 2 n 2 − k 2 − 2 k + 1 n 2 ) = k n 2 − 2 k − 1 2 n 2 = 1 2 n 2 \begin{aligned} \int_{\frac{k-1}n}^{\frac kn} \biggl( \frac kn -x \biggr) {\rm\,d}x &= \biggl[ \frac knx -\frac12x^2 \biggr]_{\frac{k-1}n}^{\frac kn} \\ &= \frac kn \biggl( \frac kn -\frac{k-1}n \biggr) -\frac12 \biggl( \frac{k^2}{n^2} -\frac{k^2-2k+1}{n^2} \biggr) \\ &= \frac k{n^2} -\frac{2k-1}{2n^2} \\ &= \frac1{2n^2} \end{aligned} ∫ n k − 1 ​ n k ​ ​ ( n k ​ − x ) d x ​ = [ n k ​ x − 2 1 ​ x 2 ] n k − 1 ​ n k ​ ​ = n k ​ ( n k ​ − n k − 1 ​ ) − 2 1 ​ ( n 2 k 2 ​ − n 2 k 2 − 2 k + 1 ​ ) = n 2 k ​ − 2 n 2 2 k − 1 ​ = 2 n 2 1 ​ ​
+- 참고식 B B B lim ⁡ n → ∞ ( 2 n ) ! n ! ⋅ n n ( e 4 ) n = 2 \begin{aligned} \lim_{n\to\infty} \frac{(2n)!}{n!{\cdot}n^n} \Bigl( \frac e4 \Bigr)^n = \sqrt2 \end{aligned} n → ∞ lim ​ n ! ⋅ n n ( 2 n )! ​ ( 4 e ​ ) n = 2 ​ ​
+
+[증명]
+f ( x ) = ln ⁡ ( 1 + x ) f(x)=\ln(1+x) f ( x ) = ln ( 1 + x ) 이라고 할 때, k − 1 n ≤ x ≤ k n \cfrac{k-1}n \le x \le \cfrac kn n k − 1 ​ ≤ x ≤ n k ​ 인 x x x 에 대해 f ′ ( x ) = 1 1 + x f'(x) = \cfrac1{1+x} f ′ ( x ) = 1 + x 1 ​ 의 최솟값과 최댓값은 각각 1 1 + k n \cfrac1{1+\frac kn} 1 + n k ​ 1 ​ 과 1 1 + k − 1 n \cfrac1{1+\frac{k-1}n} 1 + n k − 1 ​ 1 ​ 이다. 따라서 다음 부등식이 성립한다. 1 1 + k n ≤ f ( k n ) − f ( x ) k n − x ≤ 1 1 + k − 1 n ⇒ 1 1 + k n ≤ ln ⁡ ( 1 + k n ) − ln ⁡ ( 1 + x ) k n − x ≤ 1 1 + k − 1 n \begin{gathered} &\frac1{1+\frac kn} \le \frac{f\bigl(\frac kn\bigr) - f(x)}{\frac kn - x} \le \frac1{1+\frac{k-1}n} \\ \Rightarrow &\frac1{1+\frac kn} \le \frac{\ln\bigl(1+\frac kn\bigr) - \ln(1+x)}{\frac kn - x} \le \frac1{1+\frac{k-1}n}\end{gathered} ⇒ ​ 1 + n k ​ 1 ​ ≤ n k ​ − x f ( n k ​ ) − f ( x ) ​ ≤ 1 + n k − 1 ​ 1 ​ 1 + n k ​ 1 ​ ≤ n k ​ − x ln ( 1 + n k ​ ) − ln ( 1 + x ) ​ ≤ 1 + n k − 1 ​ 1 ​ ​
+
+각 변에 k n − x \cfrac kn-x n k ​ − x 를 곱하면 다음과 같다. 1 1 + k n ( k n − x ) ≤ ln ⁡ ( 1 + k n ) − ln ⁡ ( 1 + x ) ≤ 1 1 + k − 1 n ( k n − x ) \dfrac1{1+\frac kn} \biggl( \dfrac kn -x \biggr) \le \ln\biggl(1+\dfrac kn\biggr) - \ln(1+x) \le \dfrac1{1+\frac{k-1}n} \biggl( \dfrac kn -x \biggr) 1 + n k ​ 1 ​ ( n k ​ − x ) ≤ ln ( 1 + n k ​ ) − ln ( 1 + x ) ≤ 1 + n k − 1 ​ 1 ​ ( n k ​ − x )
+
+각 변에 n n n 을 곱하고 k − 1 n \cfrac{k-1}n n k − 1 ​ 부터 k n \cfrac kn n k ​ 까지 적분하자. 적분 과정 중 참고식 A A A 를 사용하였다. n 1 + k n ∫ k − 1 n k n ( k n − x ) d x ≤ ∫ k − 1 n k n n { ln ⁡ ( 1 + k n ) − ln ⁡ ( 1 + x ) } d x ≤ n 1 + k − 1 n ∫ k − 1 n k n ( k n − x ) d x ⇒ A 1 1 + k n 1 2 n ≤ ∫ k − 1 n k n n { ln ⁡ ( 1 + k n ) − ln ⁡ ( 1 + x ) } d x ≤ 1 1 + k − 1 n 1 2 n \begin{gathered} &\frac n{1+\frac kn} \int_{\frac{k-1}n}^{\frac kn} \biggl( \frac kn -x \biggr) {\rm\,d}x \le \int_{\frac{k-1}n}^{\frac kn} n\biggl\{ \ln\biggl(1+\frac kn\biggr) - \ln(1+x) \biggr\} {\rm\,d}x \le \frac n{1+\frac{k-1}n} \int_{\frac{k-1}n}^{\frac kn} \biggl( \frac kn -x \biggr) {\rm\,d}x \\ \xRightarrow A &\frac1{1+\frac kn} \frac1{2n} \le \int_{\frac{k-1}n}^{\frac kn} n\biggl\{ \ln\biggl(1+\frac kn\biggr) - \ln(1+x) \biggr\} {\rm\,d}x \le \frac1{1+\frac{k-1}n} \frac1{2n} \end{gathered} A ​ ​ 1 + n k ​ n ​ ∫ n k − 1 ​ n k ​ ​ ( n k ​ − x ) d x ≤ ∫ n k − 1 ​ n k ​ ​ n { ln ( 1 + n k ​ ) − ln ( 1 + x ) } d x ≤ 1 + n k − 1 ​ n ​ ∫ n k − 1 ​ n k ​ ​ ( n k ​ − x ) d x 1 + n k ​ 1 ​ 2 n 1 ​ ≤ ∫ n k − 1 ​ n k ​ ​ n { ln ( 1 + n k ​ ) − ln ( 1 + x ) } d x ≤ 1 + n k − 1 ​ 1 ​ 2 n 1 ​ ​
+
+각 변을 k = 1 k=1 k = 1 부터 k = n k=n k = n 까지 더하자. 1 2 ∑ k = 1 n 1 1 + k n 1 n ≤ ∑ k = 1 n ∫ k − 1 n k n n { ln ⁡ ( 1 + k n ) − ln ⁡ ( 1 + x ) } d x ≤ 1 2 ∑ k = 1 n 1 1 + k − 1 n 1 n \displaystyle \frac12 \sum_{k=1}^n \frac1{1+\frac kn} \frac1n \le \sum_{k=1}^n \int_{\frac{k-1}n}^{\frac kn} n\biggl\{ \ln\biggl(1+\frac kn\biggr) - \ln(1+x) \biggr\} {\rm\,d}x \le \frac12 \sum_{k=1}^n \frac1{1+\frac{k-1}n} \frac1n 2 1 ​ k = 1 ∑ n ​ 1 + n k ​ 1 ​ n 1 ​ ≤ k = 1 ∑ n ​ ∫ n k − 1 ​ n k ​ ​ n { ln ( 1 + n k ​ ) − ln ( 1 + x ) } d x ≤ 2 1 ​ k = 1 ∑ n ​ 1 + n k − 1 ​ 1 ​ n 1 ​
+
+각 변에 n → ∞ n\to\infty n → ∞ 의 극한을 취하면 다음과 같다. 1 2 lim ⁡ n → ∞ ∑ k = 1 n 1 1 + k n 1 n ≤ lim ⁡ n → ∞ ∑ k = 1 n ∫ k − 1 n k n n { ln ⁡ ( 1 + k n ) − ln ⁡ ( 1 + x ) } d x ≤ 1 2 lim ⁡ n → ∞ ∑ k = 1 n 1 1 + k − 1 n 1 n \begin{aligned} \frac12 \lim_{n\to\infty} \sum_{k=1}^n \frac1{1+\frac kn} \frac1n \le \lim_{n\to\infty} \sum_{k=1}^n \int_{\frac{k-1}n}^{\frac kn} n\biggl\{ \ln\biggl(1+\frac kn\biggr) - \ln(1+x) \biggr\} {\rm\,d}x \le \frac12 \lim_{n\to\infty} \sum_{k=1}^n \frac1{1+\frac{k-1}n} \frac1n \end{aligned} 2 1 ​ n → ∞ lim ​ k = 1 ∑ n ​ 1 + n k ​ 1 ​ n 1 ​ ≤ n → ∞ lim ​ k = 1 ∑ n ​ ∫ n k − 1 ​ n k ​ ​ n { ln ( 1 + n k ​ ) − ln ( 1 + x ) } d x ≤ 2 1 ​ n → ∞ lim ​ k = 1 ∑ n ​ 1 + n k − 1 ​ 1 ​ n 1 ​ ​
+
+가운데 변을 정리하자. ∑ k = 1 n ∫ k − 1 n k n n { ln ⁡ ( 1 + k n ) − ln ⁡ ( 1 + x ) } d x = ∑ k = 1 n ∫ k − 1 n k n n ln ⁡ ( 1 + k n ) d x − ∑ k = 1 n ∫ k − 1 n k n n ln ⁡ ( 1 + x ) d x = ∑ k = 1 n n ln ⁡ ( 1 + k n ) ⁣ ∫ k − 1 n k n d x − ∫ 0 1 n ln ⁡ ( 1 + x ) d x = ∑ k = 1 n n ln ⁡ ( 1 + k n ) 1 n − n [ ( 1 + x ) ln ⁡ ( 1 + x ) − x ] 0 1 = ∑ k = 1 n ln ⁡ ( n + k n ) − n ( 2 ln ⁡ 2 − 1 ) = ln ⁡ ( n + 1 n n + 2 n ⋯ n + n n ) − n ln ⁡ 4 e = ln ⁡ { ( 2 n ) ! n ! ⋅ n n } − ln ⁡ ( 4 e ) ⁣ n = ln ⁡ { ( 2 n ) ! n ! ⋅ n n ( e 4 ) ⁣ n } \begin{aligned} &\sum_{k=1}^n \int_{\frac{k-1}n}^{\frac kn} n\biggl\{ \ln\biggl(1+\frac kn\biggr) - \ln(1+x) \biggr\}{\rm\,d}x \\ = &\sum_{k=1}^n \int_{\frac{k-1}n}^{\frac kn} n\ln\biggl(1+\frac kn\biggr){\rm\,d}x - \sum_{k=1}^n \int_{\frac{k-1}n}^{\frac kn} n\ln(1+x){\rm\,d}x \\ = &\sum_{k=1}^n n\ln\biggl(1+\frac kn\biggr) \!\int_{\frac{k-1}n}^{\frac kn}{\rm\,d}x -\int_0^1 n\ln(1+x){\rm\,d}x \\ = &\sum_{k=1}^n n\ln\biggl(1+\frac kn\biggr) \frac1n -n \biggl[ (1+x)\ln(1+x)-x \biggr]_0^1 \\ = &\sum_{k=1}^n \ln\biggl(\frac{n+k}n\biggr) -n(2\ln2-1) \\ = &\ln \biggl( \frac{n+1}n \frac{n+2}n \cdots \frac{n+n}n \biggr) -n\ln\frac4e \\ = &\ln \biggl\{ \frac{(2n)!}{n!{\cdot}n^n} \biggr\} -\ln \biggl( \frac4e \biggr)^{\!n} \\ = &\ln \biggl\{ \frac{(2n)!}{n!{\cdot}n^n} \Bigl( \frac e4 \Bigr)^{\!n} \biggr\} \end{aligned} = = = = = = = ​ k = 1 ∑ n ​ ∫ n k − 1 ​ n k ​ ​ n { ln ( 1 + n k ​ ) − ln ( 1 + x ) } d x k = 1 ∑ n ​ ∫ n k − 1 ​ n k ​ ​ n ln ( 1 + n k ​ ) d x − k = 1 ∑ n ​ ∫ n k − 1 ​ n k ​ ​ n ln ( 1 + x ) d x k = 1 ∑ n ​ n ln ( 1 + n k ​ ) ∫ n k − 1 ​ n k ​ ​ d x − ∫ 0 1 ​ n ln ( 1 + x ) d x k = 1 ∑ n ​ n ln ( 1 + n k ​ ) n 1 ​ − n [ ( 1 + x ) ln ( 1 + x ) − x ] 0 1 ​ k = 1 ∑ n ​ ln ( n n + k ​ ) − n ( 2 ln 2 − 1 ) ln ( n n + 1 ​ n n + 2 ​ ⋯ n n + n ​ ) − n ln e 4 ​ ln { n ! ⋅ n n ( 2 n )! ​ } − ln ( e 4 ​ ) n ln { n ! ⋅ n n ( 2 n )! ​ ( 4 e ​ ) n } ​
+
+좌변과 우변의 극한을 각각 계산하자. 계산 과정에서 정적분의 정의 에 관한 식을 사용하였다. 1 2 lim ⁡ n → ∞ ∑ k = 1 n 1 1 + k n 1 n = 1 2 ∫ 0 1 1 1 + x d x = 1 2 [ ln ⁡ ∣ 1 + x ∣ ] 0 1 = 1 2 ln ⁡ 2 = ln ⁡ 2 1 2 lim ⁡ n → ∞ ∑ k = 1 n 1 1 + k − 1 n 1 n = 1 2 lim ⁡ n → ∞ ∑ k = 0 n − 1 1 1 + k n 1 n = 1 2 ∫ 0 1 1 1 + x d x = ln ⁡ 2 \begin{aligned} \frac12 \lim_{n\to\infty} \sum_{k=1}^n \frac1{1+\frac kn} \frac1n &= \frac12 \int_0^1 \frac1{1+x}{\rm\,d}x \\ &= \frac12 \biggl[ \ln{|1+x|} \biggr]_0^1 \\ &= \frac12 \ln2 \\ &= \ln\sqrt2 \\ \frac12 \lim_{n\to\infty} \sum_{k=1}^n \frac1{1+\frac{k-1}n} \frac1n &= \frac12 \lim_{n\to\infty} \sum_{k=0}^{n-1} \frac1{1+\frac kn} \frac1n \\ &= \frac12 \int_0^1 \frac1{1+x}{\rm\,d}x \\ &= \ln\sqrt2 \end{aligned} 2 1 ​ n → ∞ lim ​ k = 1 ∑ n ​ 1 + n k ​ 1 ​ n 1 ​ 2 1 ​ n → ∞ lim ​ k = 1 ∑ n ​ 1 + n k − 1 ​ 1 ​ n 1 ​ ​ = 2 1 ​ ∫ 0 1 ​ 1 + x 1 ​ d x = 2 1 ​ [ ln ∣1 + x ∣ ] 0 1 ​ = 2 1 ​ ln 2 = ln 2 ​ = 2 1 ​ n → ∞ lim ​ k = 0 ∑ n − 1 ​ 1 + n k ​ 1 ​ n 1 ​ = 2 1 ​ ∫ 0 1 ​ 1 + x 1 ​ d x = ln 2 ​ ​
+
+따라서 위의 부등식은 아래와 같이 정리할 수 있다. ln ⁡ 2 ≤ lim ⁡ n → ∞ ln ⁡ { ( 2 n ) ! n ! ⋅ n n ( e 4 ) n } ≤ ln ⁡ 2 \ln\sqrt2 \le \lim\limits_{n\to\infty} \ln \biggl\{ \dfrac{(2n)!}{n!{\cdot}n^n} \Bigl( \dfrac e4 \Bigr)^n \biggr\} \le \ln\sqrt2 ln 2 ​ ≤ n → ∞ lim ​ ln { n ! ⋅ n n ( 2 n )! ​ ( 4 e ​ ) n } ≤ ln 2 ​
+
+조임 정리 에 따라 다음 극한이 성립한다. lim ⁡ n → ∞ ln ⁡ { ( 2 n ) ! n ! ⋅ n n ( e 4 ) n } = ln ⁡ 2 ∴ lim ⁡ n → ∞ ( 2 n ) ! n ! ⋅ n n ( e 4 ) n = 2 \begin{aligned} \lim_{n\to\infty} \ln \biggl\{ \frac{(2n)!}{n!{\cdot}n^n} \Bigl( \frac e4 \Bigr)^n \biggr\} &= \ln\sqrt2 \\ \therefore \lim_{n\to\infty} \frac{(2n)!}{n!{\cdot}n^n} \Bigl( \frac e4 \Bigr)^n &= \sqrt2 \end{aligned} n → ∞ lim ​ ln { n ! ⋅ n n ( 2 n )! ​ ( 4 e ​ ) n } ∴ n → ∞ lim ​ n ! ⋅ n n ( 2 n )! ​ ( 4 e ​ ) n ​ = ln 2 ​ = 2 ​ ​
+- 참고식 C C C lim ⁡ n → ∞ 4 n ( n ! ) 2 n ( 2 n ) ! = π \begin{aligned} \lim_{n\to\infty} \frac{4^n (n!)^2}{\sqrt n (2n)!} = \sqrt\pi \end{aligned} n → ∞ lim ​ n ​ ( 2 n )! 4 n ( n ! ) 2 ​ = π ​ ​
+
+[증명]
+월리스 곱 으로부터 시작한다. π 2 = lim ⁡ n → ∞ 2 ⋅ 2 1 ⋅ 3 ⋅ 4 ⋅ 4 3 ⋅ 5 ⋯ 2 n ⋅ 2 n ( 2 n − 1 ) ⋅ ( 2 n + 1 ) = lim ⁡ n → ∞ 2 2 ⋅ 4 2 ⋯ ( 2 n ) 2 1 ⋅ 3 2 ⋅ 5 2 ⋯ ( 2 n − 1 ) 2 ⋅ ( 2 n + 1 ) = lim ⁡ n → ∞ 2 2 ⋅ 4 2 ⋯ ( 2 n ) 2 1 ⋅ 3 2 ⋅ 5 2 ⋯ ( 2 n − 1 ) 2 ⋅ ( 2 n ) π = lim ⁡ n → ∞ 2 2 ⋅ 4 2 ⋯ ( 2 n ) 2 1 ⋅ 3 2 ⋅ 5 2 ⋯ ( 2 n − 1 ) 2 ⋅ n π = lim ⁡ n → ∞ 2 ⋅ 4 ⋯ ( 2 n ) 1 ⋅ 3 ⋅ 5 ⋯ ( 2 n − 1 ) ⋅ n = lim ⁡ n → ∞ 2 ⋅ 4 ⋯ ( 2 n ) 2 ⋅ 4 ⋯ ( 2 n ) 2 ⋅ 4 ⋯ ( 2 n ) 1 ⋅ 3 ⋅ 5 ⋯ ( 2 n − 1 ) 1 n = lim ⁡ n → ∞ ( 2 n n ! ) 2 ( 2 n ) ! 1 n = lim ⁡ n → ∞ 4 n ( n ! ) 2 n ( 2 n ) ! ∴ π = lim ⁡ n → ∞ 4 n ( n ! ) 2 n ( 2 n ) ! \begin{aligned} \frac\pi2 &= \lim_{n\to\infty} \frac{2\cdot2}{1\cdot3} \cdot \frac{4\cdot4}{3\cdot5} \cdots \frac{2n\cdot2n}{(2n-1)\cdot(2n+1)} \\ &= \lim_{n\to\infty} \frac{2^2 \cdot 4^2 \cdots (2n)^2}{1 \cdot 3^2 \cdot 5^2 \cdots (2n-1)^2 \cdot (2n+1)} \\ &= \lim_{n\to\infty} \frac{2^2 \cdot 4^2 \cdots (2n)^2}{1 \cdot 3^2 \cdot 5^2 \cdots (2n-1)^2 \cdot (2n)} \\ \pi &= \lim_{n\to\infty} \frac{2^2 \cdot 4^2 \cdots (2n)^2}{1 \cdot 3^2 \cdot 5^2 \cdots (2n-1)^2 \cdot n} \\ \sqrt\pi &= \lim_{n\to\infty} \frac{2 \cdot 4 \cdots (2n)}{1 \cdot 3 \cdot 5 \cdots (2n-1) \cdot \sqrt n} \\ &= \lim_{n\to\infty} \frac{2 \cdot 4 \cdots (2n)}{2 \cdot 4 \cdots (2n)} \frac{2 \cdot 4 \cdots (2n)}{1 \cdot 3 \cdot 5 \cdots (2n-1)} \frac1{\sqrt n} \\ &= \lim_{n\to\infty} \frac{(2^n n!)^2}{(2n)!} \frac1{\sqrt n} \\ &= \lim_{n\to\infty} \frac{4^n (n!)^2}{\sqrt n (2n)!} \\ \therefore \sqrt\pi &= \lim_{n\to\infty} \frac{4^n (n!)^2}{\sqrt n (2n)!} \end{aligned} 2 π ​ π π ​ ∴ π ​ ​ = n → ∞ lim ​ 1 ⋅ 3 2 ⋅ 2 ​ ⋅ 3 ⋅ 5 4 ⋅ 4 ​ ⋯ ( 2 n − 1 ) ⋅ ( 2 n + 1 ) 2 n ⋅ 2 n ​ = n → ∞ lim ​ 1 ⋅ 3 2 ⋅ 5 2 ⋯ ( 2 n − 1 ) 2 ⋅ ( 2 n + 1 ) 2 2 ⋅ 4 2 ⋯ ( 2 n ) 2 ​ = n → ∞ lim ​ 1 ⋅ 3 2 ⋅ 5 2 ⋯ ( 2 n − 1 ) 2 ⋅ ( 2 n ) 2 2 ⋅ 4 2 ⋯ ( 2 n ) 2 ​ = n → ∞ lim ​ 1 ⋅ 3 2 ⋅ 5 2 ⋯ ( 2 n − 1 ) 2 ⋅ n 2 2 ⋅ 4 2 ⋯ ( 2 n ) 2 ​ = n → ∞ lim ​ 1 ⋅ 3 ⋅ 5 ⋯ ( 2 n − 1 ) ⋅ n ​ 2 ⋅ 4 ⋯ ( 2 n ) ​ = n → ∞ lim ​ 2 ⋅ 4 ⋯ ( 2 n ) 2 ⋅ 4 ⋯ ( 2 n ) ​ 1 ⋅ 3 ⋅ 5 ⋯ ( 2 n − 1 ) 2 ⋅ 4 ⋯ ( 2 n ) ​ n ​ 1 ​ = n → ∞ lim ​ ( 2 n )! ( 2 n n ! ) 2 ​ n ​ 1 ​ = n → ∞ lim ​ n ​ ( 2 n )! 4 n ( n ! ) 2 ​ = n → ∞ lim ​ n ​ ( 2 n )! 4 n ( n ! ) 2 ​ ​
+
+여기까지 왔으면 이제 스털링 근사식의 증명은 매우 쉽다. lim ⁡ n → ∞ n ! n n e − n n = lim ⁡ n → ∞ e n n ! n n n = lim ⁡ n → ∞ ( 2 n ) ! n ! ⋅ 4 n e n n ! n n n 4 n n ! ( 2 n ) ! = lim ⁡ n → ∞ ( 2 n ) ! n ! ⋅ n n ( e 4 ) ⁣ n 4 n ( n ! ) 2 n ( 2 n ) ! = lim ⁡ n → ∞ ( 2 n ) ! n ! ⋅ n n ( e 4 ) ⁣ n ⋅ lim ⁡ n → ∞ 4 n ( n ! ) 2 n ( 2 n ) ! = B , C 2 ⋅ π = 2 π ∴ n ! ≈ n n e − n n 2 π = 2 π n ( n e ) ⁣ n \begin{aligned} \lim_{n\to\infty} \frac{n!}{n^n e^{-n} \sqrt n} &= \lim_{n\to\infty} \frac{e^n n!}{n^n \sqrt n} \\ &= \lim_{n\to\infty} \frac{(2n)!}{n!{\cdot}4^n} \frac{e^n n!}{n^n \sqrt n} \frac{4^n n!}{(2n)!} \\ &= \lim_{n\to\infty} \frac{(2n)!}{n!{\cdot}n^n} \Bigl( \frac e4 \Bigr)^{\!n} \frac{4^n (n!)^2}{\sqrt n (2n)!} \\ &= \lim_{n\to\infty} \frac{(2n)!}{n!{\cdot}n^n} \Bigl( \frac e4 \Bigr)^{\!n} \cdot \lim_{n\to\infty} \frac{4^n (n!)^2}{\sqrt n (2n)!} \\ &\xlongequal{B,\,C} \sqrt2 \cdot \sqrt\pi = \sqrt{2\pi} \\ \therefore n! &\approx n^n e^{-n} \sqrt n \sqrt{2\pi} = \sqrt{2\pi n} \Bigl( \dfrac ne \Bigr)^{\!n} \end{aligned} n → ∞ lim ​ n n e − n n ​ n ! ​ ∴ n ! ​ = n → ∞ lim ​ n n n ​ e n n ! ​ = n → ∞ lim ​ n ! ⋅ 4 n ( 2 n )! ​ n n n ​ e n n ! ​ ( 2 n )! 4 n n ! ​ = n → ∞ lim ​ n ! ⋅ n n ( 2 n )! ​ ( 4 e ​ ) n n ​ ( 2 n )! 4 n ( n ! ) 2 ​ = n → ∞ lim ​ n ! ⋅ n n ( 2 n )! ​ ( 4 e ​ ) n ⋅ n → ∞ lim ​ n ​ ( 2 n )! 4 n ( n ! ) 2 ​ B , C 2 ​ ⋅ π ​ = 2 π ​ ≈ n n e − n n ​ 2 π ​ = 2 π n ​ ( e n ​ ) n ​
+
+3. 예시 [편집]
+15000 ! 15000! 15000 ! 의 근삿값을 구해보자. 15000 ! ≈ 2 π × 15000 ( 15000 e ) 15000 ≈ 2.74 × 10 56129 \begin{aligned} 15000! &\approx \sqrt{2\pi \times 15000} \biggl( \frac{15000}e \biggr)^{15000} \\ &\approx 2.74 \times {10}^{56129} \end{aligned} 15000 ! ​ ≈ 2 π × 15000 ​ ( e 15000 ​ ) 15000 ≈ 2.74 × 10 56129 ​
+
+4. 출처 및 참고 문헌 [편집]
+- 다른 증명 1의 출처
+- 스털링 근사 공식의 엄밀한 증명
+- 히토쓰마쓰 신의 증명(1978)
+
+5. 관련 문서 [편집]
+- 오일러-매클로린 공식 - 1 / x 1/x 1/ x 에 이 공식을 적용하여 스털링 근사식을 이끌어낼 수 있다.
+- 벤더스키-아담칙 상수
+- 확률질량함수 (pmf)
+- 조합
+
+[ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 남동구퀵서비스 하나로퀵
+1577-3410.com
+[ [ 하나로퀵업체 ] [ 화물퀵서비스 ] [ 법인신청접수 ] [ 하나로퀵후기 ] ]
+5분내출발 오토바이서류퀵서비스 빠른퀵배송 심부름 실명제퀵기사 퀵하세요.
+
+] | [ 남동구퀵배송 퀵브라더스
+www.1599-8330.com v-if
+[ [ 착한요금 ] [ 전국배송 ] [ ktx특송퀵 ] [ 버스.항공퀵 ] ]
+전국 어디든지 구석구석 당일배송, 저렴한요금, 카드결제OK, 친절상담, 인천공항
+
+]
+
+[1] 좌변은 이상적분인데 lim ⁡ n → + 0 ( n ln ⁡ n ) = 0 \lim\limits_{n\to+0}(n\ln n) = 0 n → + 0 lim ​ ( n ln n ) = 0 인 것은 로피탈의 정리 를 쓰면 어렵지 않게 보일 수 있다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

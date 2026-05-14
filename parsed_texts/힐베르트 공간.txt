@@ -1,0 +1,670 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 힐베르트 공간
+최근 수정 시각: 2026-04-06 11:28:21 [ [ [ ] [ [ 11 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 함수해석학
+- 선형대수학
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 정의 2.1 . 내적공간 2.2 . 힐베르트 공간 2.3 . 선형 부분공간 2.4 . 정규직교기저 2.5 . 동형사상 3 . 연산 3.1 . 직합 3.2 . 텐서곱 4 . 성질 4.1 . 내적공간의 성질 4.2 . 부분공간의 성질 4.2.1 . 부분공간의 생성 4.2.2 . 거리 최소원의 존재 4.2.3 . 직교 여집합 및 정사영 4.3 . 정규직교기저의 성질 4.3.1 . 정규직교집합과 기저 4.3.2 . 차원과 동형 4.3.3 . 컴팩트 집합 의 조건 4.4 . 연속 쌍대공간 의 성질 4.4.1 . 리즈 표현 정리 4.4.2 . 자기 쌍대성 5 . 작용소 5.1 . 기본 성질 5.1.1 . 유계 작용소 C*-대수 5.1.2 . 작용소의 핵과 상 5.1.3 . 작용소의 가역성 5.2 . 수반 작용소 5.2.1 . 수반 작용소의 성질 5.2.2 . 에르미트 작용소 5.3 . 사영 5.3.1 . 불변 및 축소 부분공간 5.3.2 . 사영의 연산 5.4 . 컴팩트 작용소 5.4.1 . 유한계수 작용소 5.4.2 . 컴팩트 작용소 5.5 . 작용소의 스펙트럼 5.5.1 . 스펙트럼의 성질 5.5.2 . 스펙트럼 정리 6 . 예시 7 . 적용 7.1 . 양자역학 7.2 . 푸리에 해석 7.3 . 편미분방정식 8 . 역사
+
+1. 개요 [편집]
+힐베르트 공간 (힐베르트 空 間 , Hilbert space, 독일어 : Hilbertraum)은 완비성 을 갖춘 내적공간 이다.
+
+완비성은 공간에서의 코시열 이 수렴하는 성질로, 힐베르트 공간 안에서 극한 을 다룰 수 있게 한다. 내적은 두 벡터의 순서쌍에 스칼라 값을 대응시키도록 정의된 반쌍선형 형식 으로 힐베르트 공간에 벡터의 크기, 벡터 사이의 거리 및 직교성의 개념을 부여하여 유한차원에서 성립하는 기하적 성질이 무한차원으로 일반화될 수 있게 한다. 즉 힐베르트 공간은 유클리드 공간 에서 성립하는 개념인 원소의 크기, 두 원소 사이의 거리와 직교성 등의 개념을 무한차원으로 일반화한 것이다.
+
+힐베르트 공간은 함수해석학 , 푸리에 해석 , 미분방정식 , 양자역학 , 제어 이론 등 다양한 수학과 과학 분야에서 중요하게 활용된다.
+
+2. 정의 [편집]
+
+2.1. 내적공간 [편집]
+X X X 가 체 K ∈ { R , C } \mathbb{K\in\{R,C\}} K ∈ { R , C } 위의 벡터공간 일 때, 모든 x , y , z ∈ X x,y,z\in X x , y , z ∈ X 와 α , β ∈ K \alpha,\beta\in\mathbb{K} α , β ∈ K 에 대하여 다음을 만족시키는 사상 < ⋅ , ⋅ > : X × X → K \left<\cdot,\cdot\right>:X\times X\to\mathbb{K} ⟨ ⋅ , ⋅ ⟩ : X × X → K 를 X X X 의 반내적 (semi-inner product)이라고 한다. - < α x + β y , z > = α < x , z > + β < y , z > \left<\alpha x+\beta y,z\right>=\alpha \left<x,z\right>+\beta \left<y,z\right> ⟨ α x + β y , z ⟩ = α ⟨ x , z ⟩ + β ⟨ y , z ⟩
+- < x , y > = < y , x > ‾ \left<x,y\right>=\overline{\left<y,x\right>} ⟨ x , y ⟩ = ⟨ y , x ⟩ ​
+- < x , x > ≥ 0 \left<x, x\right>\ge 0 ⟨ x , x ⟩ ≥ 0
+
+X X X 의 내적 (inner product)은 다음을 만족시키는 반내적이다. - < x , x > = 0 \left<x, x\right>=0 ⟨ x , x ⟩ = 0 이면 x = 0 x=0 x = 0 이다.
+
+벡터공간 X X X 가 내적 < ⋅ , ⋅ > \left<\cdot,\cdot\right> ⟨ ⋅ , ⋅ ⟩ 를 갖추었을 때, 범함수 ∥ ⋅ ∥ : X → K \|\cdot\|:X\to\mathbb{K} ∥ ⋅ ∥ : X → K 를 ∥ x ∥ = < x , x > \|x\|=\sqrt{\left<x,x\right>} ∥ x ∥ = ⟨ x , x ⟩ ​ 로 정의하면 범함수 ∥ ⋅ ∥ \|\cdot\| ∥ ⋅ ∥ 는 코시-슈바르츠 부등식
+∣ < x , y > ∣ ≤ ∥ x ∥ ∥ y ∥ ∀ x , y ∈ X|\left<x, y\right>|\le\|x\|\|y\|\quad \forall x, y\in X ∣ ⟨ x , y ⟩ ∣ ≤ ∥ x ∥∥ y ∥ ∀ x , y ∈ X 를 만족시킨다. 극화 항등식
+∥ x + y ∥ 2 = < x + y , x + y > = ∥ x ∥ 2 + 2 Re ⁡ ( < x , y > ) + ∥ y ∥ 2 , \begin{aligned}\|x+y\|^2&=\left<x+y,x+y\right>\\ &=\|x\|^2+2\operatorname{Re}(\left<x,y\right>)+\|y\|^2,\\ \end{aligned} ∥ x + y ∥ 2 ​ = ⟨ x + y , x + y ⟩ = ∥ x ∥ 2 + 2 Re ( ⟨ x , y ⟩ ) + ∥ y ∥ 2 , ​ 과 등식
+( ∥ x ∥ + ∥ y ∥ ) 2 = ∥ x ∥ 2 + 2 ∥ x ∥ ∥ y ∥ + ∥ y ∥ 2 (\|x\|+\|y\|)^2=\|x\|^2+2\|x\|\|y\|+\|y\|^2 ( ∥ x ∥ + ∥ y ∥ ) 2 = ∥ x ∥ 2 + 2∥ x ∥∥ y ∥ + ∥ y ∥ 2 및 코시-슈바르츠 부등식에 의해 ∥ ⋅ ∥ \|\cdot\| ∥ ⋅ ∥ 은 삼각 부등식을 만족시켜 벡터공간 X X X 위의 노름 이다. 따라서 함수 d : X × X → [ 0 , ∞ ) d:X\times X\to[0,\infty) d : X × X → [ 0 , ∞ ) 를
+d ( x , y ) = ∥ x − y ∥ d(x,y)=\|x-y\| d ( x , y ) = ∥ x − y ∥ 로 정의하면 d d d 는 벡터공간 X X X 위의 거리함수 이다. 이와 같이 내적을 갖춘 벡터공간 X X X 는 거리공간 으로, 이를 내적공간 (inner product space) 또는 예비 힐베르트 공간 (pre-Hilbert space)라고 한다.
+
+2.2. 힐베르트 공간 [편집]
+체 K \mathbb{K} K 위의 힐베르트 공간 (Hilbert space) H H H 는 완비 내적공간이다. 이는 H H H 가 내적을 갖춘 K \mathbb{K} K - 바나흐 공간 임과 동치이다. X X X 가 내적 < ⋅ , ⋅ > X \left<\cdot,\cdot\right>_X ⟨ ⋅ , ⋅ ⟩ X ​ 를 갖춘 내적공간이고 X X X 의 완비화를 H H H 라고 할 때, 완비거리공간 H H H 를 유도하는 H H H 의 내적 < ⋅ , ⋅ > H \left<\cdot,\cdot\right>_H ⟨ ⋅ , ⋅ ⟩ H ​ 가 존재하며, 이는 < ⋅ , ⋅ > X \left<\cdot,\cdot\right>_X ⟨ ⋅ , ⋅ ⟩ X ​ 의 확장이다. 즉, 힐베르트 공간은 내적공간의 완비화이다.
+
+2.3. 선형 부분공간 [편집]
+체 K \mathbb{K} K 위의 힐베르트 공간 H H H 의 부분집합 M M M 이 모든 x , y ∈ M x,y\in M x , y ∈ M 와 α , β ∈ K \alpha,\beta\in\mathbb{K} α , β ∈ K 에 대하여
+α x + β y ∈ M \alpha x+\beta y \in M α x + β y ∈ M 를 만족시키면 M M M 을 H H H 의 선형다양체 (linear manifold)라고 하며, H H H 의 닫힌 선형다양체를 선형 부분공간 (linear subspace) 또는 그저 부분공간 (subspace)이라고 한다. M M M 이 H H H 의 선형 부분공간인 경우, M ≤ H M\le H M ≤ H 로 나타낸다. 힐베르트 공간 H H H 의 선형다양체 M M M 이 닫힌 공간이 아니면 M M M 은 완비성을 갖추지 못해 힐베르트 공간이 아니다. 따라서 힐베르트 공간의 부분공간을 다룰 때에는 완비성을 갖출 수 있도록 닫힌 집합임을 추가로 가정한다.
+
+선형다양체의 정의에서 α = t ( 0 ≤ t ≤ 1 ) , β = 1 − t \alpha=t(0\le t\le1), \beta=1-t α = t ( 0 ≤ t ≤ 1 ) , β = 1 − t 라 하면 임의의 x , y ∈ M x, y\in M x , y ∈ M 에 대하여 t x + ( 1 − t ) y ∈ M tx+(1-t)y\in M t x + ( 1 − t ) y ∈ M 이므로 선형다양체와 선형 부분공간은 볼록 집합이다.
+
+X X X 의 부분집합 W W W 에 대하여 W W W 를 포함하는 선형 부분공간의 임의의 교집합은 선형 부분공간이다. 이는 W W W 를 포함하는 X X X 의 가장 작은 선형 부분공간으로, 이를 ∨ W \vee W ∨ W 로 나타낸다.
+
+2.4. 정규직교기저 [편집]
+내적공간 X X X 의 두 원소 x , y x, y x , y 가 < x , y > = 0 \left<x,y\right>=0 ⟨ x , y ⟩ = 0 를 만족시키면 x , y x, y x , y 는 서로 직교 (orthogonal)라 하며, x ⊥ y x\perp y x ⊥ y 로 나타낸다. 직교성은 두 벡터 사이에서 뿐만 아니라 벡터와 집합, 집합과 집합 사이에서도 정의된다. - X X X 의 부분집합 A A A 에 대하여 벡터 x x x 가 A A A 에 속하는 임의의 벡터 y y y 와 직교하면 x x x 와 A A A 는 직교라 하고 x ⊥ A x\perp A x ⊥ A 로 나타낸다.
+- X X X 의 부분집합 A , B A, B A , B 와 임의의 x ∈ A , y ∈ B x\in A, y\in B x ∈ A , y ∈ B 에 대하여 x x x 와 y y y 가 직교하면 A A A 와 B B B 는 직교라 하고 A ⊥ B A\perp B A ⊥ B 로 나타낸다.
+
+힐베르트 공간 H H H 의 부분집합 A ⊆ H A\subseteq H A ⊆ H 에 대하여 다음과 같이 정의된 H H H 의 부분집합 A ⊥ A^\perp A ⊥ 를 A A A 의 직교여공간 (직교여집합, orthogonal complement)이라 한다.
+A ⊥ = { x ∈ H : x ⊥ A } A^\perp=\left\{x\in H:x\perp A\right\} A ⊥ = { x ∈ H : x ⊥ A } 직교여공간은 힐베르트 공간 H H H 의 부분공간이다.
+
+힐베르트 공간 H H H 의 부분집합 E E E 의 모든 벡터가 단위 벡터이고 서로 직교하면 H H H 는 정규직교 (orthonormal) 집합이라고 한다. 정규직교집합 E E E 가 ∨ E = H \vee E=H ∨ E = H 를 만족시키면 E E E 를 H H H 의 정규직교기저 (orthonormal basis) 또는 그저 기저 (basis)라고 한다. 힐베르트공간 H H H 의 정규직교기저의 기수 (cardinality)를 H H H 의 차원 (dimension)이라 하며, dim ⁡ H \dim H dim H 로 나타낸다.
+
+힐베르트 공간의 정규직교기저는 유한차원 벡터공간의 정규직교기저를 일반화한 개념으로, 벡터공간으로서 지니는 하멜 기저와 구분된다. 힐베르트 공간 H H H 의 정규직교기저는 일반적으로 벡터공간 H H H 로서의 하멜 기저와 같지 않으며, 정규직교기저의 기수는 하멜 기저의 기수보다 작거나 같다. 힐베르트 공간의 기저는 일반적으로 정규직교기저를 지칭하며, 이 문서에서 또한 힐베르트 공간의 기저는 하멜 기저가 아닌 정규직교기저를 의미한다.
+
+2.5. 동형사상 [편집]
+두 힐베르트 공간이 동형 (isomorphic)이기 위해서는 두 힐베르트 공간 사이에 선형성과 내적으로부터 유도된 거리 구조를 보존하는 전단사 사상이 존재해야 한다. 여기서 선형성을 보존하는 사상을 선형사상 (linear map) 또는 선형변환 (linear transformation), 거리 구조를 보존하는 사상을 등거리변환 (isometry)이라 한다. 두 힐베르트 공간 H , K H, K H , K 사이의 선형사상이 등거리변환이기 위해서는 거리를 유도하는 내적을 보존하는 것만으로 충분하다. 즉, 선형사상 A : H → K A:H\to K A : H → K 가 등거리변환일 필요충분조건은
+< A ( x ) , A ( y ) > = < x , y > ∀ x , y ∈ H \left<A(x), A(y)\right>=\left<x,y\right> \quad \forall x, y \in H ⟨ A ( x ) , A ( y ) ⟩ = ⟨ x , y ⟩ ∀ x , y ∈ H 이다. 선형 등거리변환은 내적을 보존하므로 단사임이 보장되고, 이에 따라 힐베르트 공간 H , K H, K H , K 사이의 동형사상 (isomorphism)을 전사 선형 등거리변환 U : H → K U:H\to K U : H → K 로 정의한다. 증명
+( ⇒ ) (\Rightarrow) ( ⇒ ) 임의의 x ∈ H x\in H x ∈ H 에 대하여 ∥ A ( x ) ∥ 2 = ∥ x ∥ 2 \|A(x)\|^2=\|x\|^2 ∥ A ( x ) ∥ 2 = ∥ x ∥ 2 이므로 A A A 는 등거리변환이다.
+
+( ⇐ ) (\Leftarrow) ( ⇐ ) A A A 가 등거리변환이므로 x , y ∈ H x, y\in H x , y ∈ H 와 α ∈ K \alpha\in\mathbb{K} α ∈ K 에 대하여 ∥ x + α y ∥ 2 = ∥ A ( x ) + α A ( y ) ∥ 2 \|x+\alpha y\|^2=\|A(x)+\alpha A(y)\|^2 ∥ x + α y ∥ 2 = ∥ A ( x ) + α A ( y ) ∥ 2 이다. 즉
+∥ x ∥ 2 + 2 Re ⁡ α ‾ < x , y > + ∣ α ∣ 2 ∥ y ∥ = ∥ A ( x ) ∥ 2 + 2 Re ⁡ α ‾ < A ( x ) , A ( y ) > + ∣ α ∣ 2 ∥ A ( y ) ∥ \|x\|^2+2\operatorname{Re}\overline{\alpha}\left<x,y\right>+|\alpha|^2\|y\|=\|A(x)\|^2+2\operatorname{Re}\overline{\alpha}\left<A(x),A(y)\right>+|\alpha|^2\|A(y)\| ∥ x ∥ 2 + 2 Re α ⟨ x , y ⟩ + ∣ α ∣ 2 ∥ y ∥ = ∥ A ( x ) ∥ 2 + 2 Re α ⟨ A ( x ) , A ( y ) ⟩ + ∣ α ∣ 2 ∥ A ( y ) ∥ 이다. ∥ A ( x ) ∥ = ∥ x ∥ , ∥ A ( y ) ∥ = ∥ y ∥ \|A(x)\|=\|x\|, \|A(y)\|=\|y\| ∥ A ( x ) ∥ = ∥ x ∥ , ∥ A ( y ) ∥ = ∥ y ∥ 이므로 위 등식은 Re ⁡ α ‾ < x , y > = Re ⁡ α ‾ < A ( x ) , A ( y ) > \operatorname{Re}\overline{\alpha}\left<x,y\right>=\operatorname{Re}\overline{\alpha}\left<A(x),A(y)\right> Re α ⟨ x , y ⟩ = Re α ⟨ A ( x ) , A ( y ) ⟩ 이다. α = 1 \alpha=1 α = 1 이면 Re ⁡ < x , y > = Re ⁡ < A ( x ) , A ( y ) > \operatorname{Re}\left<x,y\right>=\operatorname{Re}\left<A(x),A(y)\right> Re ⟨ x , y ⟩ = Re ⟨ A ( x ) , A ( y ) ⟩ 이고, α = i \alpha=i α = i 이면 Im ⁡ z = Re ⁡ ( − i z ) \operatorname{Im}z=\operatorname{Re}(-iz) Im z = Re ( − i z ) 에 따라 Im ⁡ < x , y > = Im ⁡ < A ( x ) , A ( y ) > \operatorname{Im}\left<x,y\right>=\operatorname{Im}\left<A(x),A(y)\right> Im ⟨ x , y ⟩ = Im ⟨ A ( x ) , A ( y ) ⟩ 이다. 즉, 두 내적의 각 실수부와 허수부가 서로 같으므로 A A A 는 내적을 보존한다.
+
+3. 연산 [편집]
+
+3.1. 직합 [편집]
+두 힐베르트 공간 H , K H, K H , K 에 대하여 벡터공간으로서의 직합 H ⊕ K H\oplus K H ⊕ K 에 다음과 같은 내적을 부여하여 힐베르트 공간의 직합 을 구성할 수 있다.
+< x 1 ⊕ y 1 , x 2 ⊕ , y 2 > = < x 1 , x 2 > H + < y 1 , y 2 > K \left<x_1\oplus y_1,x_2\oplus, y_2\right>=\left<x_1,x_2\right>_{H}+\left<y_1,y_2\right>_K ⟨ x 1 ​ ⊕ y 1 ​ , x 2 ​ ⊕ , y 2 ​ ⟩ = ⟨ x 1 ​ , x 2 ​ ⟩ H ​ + ⟨ y 1 ​ , y 2 ​ ⟩ K ​ 힐베르트 공간의 직합은 유한합 뿐만 아니라 임의의 합에서도 정의 가능하다. 힐베르트 집합렬 { H n } n = 1 ∞ \{H_n\}_{n=1}^\infty { H n ​ } n = 1 ∞ ​ 에 대하여 벡터공간 H H H 를
+H = { ( x n ) n = 1 ∞ : x n ∈ H n , ∑ n = 1 ∞ ∥ x n ∥ H n 2 < ∞ } \displaystyle {H=\left\{(x_n)_{n=1}^\infty:x_n\in H_n,\ \sum_{n=1}^\infty \|x_n\|_{H_n}^2<\infty\right\}} H = { ( x n ​ ) n = 1 ∞ ​ : x n ​ ∈ H n ​ , n = 1 ∑ ∞ ​ ∥ x n ​ ∥ H n ​ 2 ​ < ∞ } 라 하자. x = ( x n ) n = 1 ∞ , y = ( y n ) n = 1 ∞ ∈ H x=(x_n)_{n=1}^\infty, y=(y_n)_{n=1}^\infty\in H x = ( x n ​ ) n = 1 ∞ ​ , y = ( y n ​ ) n = 1 ∞ ​ ∈ H 에 대하여
+< x , y > = ∑ n = 1 ∞ < x n , y n > H n \displaystyle\left<x,y\right>=\sum_{n=1}^\infty \left<x_n, y_n\right>_{H_n} ⟨ x , y ⟩ = n = 1 ∑ ∞ ​ ⟨ x n ​ , y n ​ ⟩ H n ​ ​ 라 하면 < ⋅ , ⋅ > \left<\cdot,\cdot\right> ⟨ ⋅ , ⋅ ⟩ 는 H H H 의 내적이며, 내적공간 H H H 는 힐베르트 공간이다. 증명
+x = ( x n ) n = 1 ∞ , y = ( y n ) n = 1 ∞ ∈ H x=(x_n)_{n=1}^\infty, y=(y_n)_{n=1}^\infty\in H x = ( x n ​ ) n = 1 ∞ ​ , y = ( y n ​ ) n = 1 ∞ ​ ∈ H 에 대하여 코시-슈바르츠 부등식에 의해
+∑ n = 1 ∞ ∣ < x n , y n > H n ∣ ≤ ∑ n = 1 ∞ ∥ x n ∥ H n ∥ y n ∥ H n ≤ ( ∑ n = 1 ∞ ∥ x n ∥ H n 2 ) 1 / 2 ( ∑ n = 1 ∞ ∥ y n ∥ H n 2 ) 1 / 2 < ∞ \displaystyle\sum_{n=1}^\infty|\left<x_n, y_n\right>_{H_n}|\le \sum_{n=1}^\infty\|x_n\|_{H_n}\|y_n\|_{H_n}\le\left(\sum_{n=1}^\infty \|x_n\|_{H_n}^2\right)^{1/2}\left(\sum_{n=1}^\infty \|y_n\|_{H_n}^2\right)^{1/2}<\infty n = 1 ∑ ∞ ​ ∣ ⟨ x n ​ , y n ​ ⟩ H n ​ ​ ∣ ≤ n = 1 ∑ ∞ ​ ∥ x n ​ ∥ H n ​ ​ ∥ y n ​ ∥ H n ​ ​ ≤ ( n = 1 ∑ ∞ ​ ∥ x n ​ ∥ H n ​ 2 ​ ) 1/2 ( n = 1 ∑ ∞ ​ ∥ y n ​ ∥ H n ​ 2 ​ ) 1/2 < ∞ 이므로 < x , y > \left<x,y\right> ⟨ x , y ⟩ 는 절대수렴하여 내적의 조건을 만족시킨다. H H H 의 코시열 { x k } k = 1 ∞ \{x_k\}_{k=1}^\infty { x k ​ } k = 1 ∞ ​ 에 대하여 x k = ( x n , k ) n = 1 ∞ x_k=(x_{n,k})_{n=1}^\infty x k ​ = ( x n , k ​ ) n = 1 ∞ ​ 라 할 때, 각 n ∈ N n\in\mathbb{N} n ∈ N 에 대하여
+∥ x n , k − x n , l ∥ H n 2 ≤ ∑ n = 1 ∞ ∥ x n , k − x n , l ∥ H n 2 \displaystyle\|x_{n,k}-x_{n,l}\|^2_{H_n}\le\sum_{n=1}^\infty\|x_{n,k}-x_{n,l}\|_{H_n}^2 ∥ x n , k ​ − x n , l ​ ∥ H n ​ 2 ​ ≤ n = 1 ∑ ∞ ​ ∥ x n , k ​ − x n , l ​ ∥ H n ​ 2 ​ 이므로 k , l → ∞ k, l\to\infty k , l → ∞ 에 따라 ∥ x n , k − x n , l ∥ H n → 0 \|x_{n,k}-x_{n,l}\|_{H_n}\to 0 ∥ x n , k ​ − x n , l ​ ∥ H n ​ ​ → 0 이다. 따라서 { x n , k } k = 1 ∞ \{x_{n,k}\}_{k=1}^\infty { x n , k ​ } k = 1 ∞ ​ 는 H n H_n H n ​ 의 코시열이고 극한 x n x_n x n ​ 을 갖는다. H H H 의 코시열 { x k } k = 1 ∞ \{x_k\}_{k=1}^\infty { x k ​ } k = 1 ∞ ​ 가 x = ( x n ) n = 1 ∞ x=(x_n)_{n=1}^\infty x = ( x n ​ ) n = 1 ∞ ​ 로 수렴함을 보인다. { x k } k = 1 ∞ \{x_k\}_{k=1}^\infty { x k ​ } k = 1 ∞ ​ 가 코시열이므로 임의의 ϵ > 0 \epsilon>0 ϵ > 0 에 대하여 K < k , l K<k, l K < k , l 일 때
+∑ n = 1 ∞ ∥ x n , k − x n , l ∥ H n < ϵ \displaystyle\sum_{n=1}^\infty\|x_{n, k}-x_{n, l}\|_{H_n}<\epsilon n = 1 ∑ ∞ ​ ∥ x n , k ​ − x n , l ​ ∥ H n ​ ​ < ϵ 을 만족시키는 K > 0 K>0 K > 0 가 존재한다. 임의의 N N N 에 대하여
+∑ n = 1 N ∥ x n , k − x n , l ∥ H n ≤ ∑ n = 1 ∞ ∥ x n , k − x n , l ∥ H n < ϵ \displaystyle\sum_{n=1}^N\|x_{n, k}-x_{n, l}\|_{H_n}\le{\sum_{n=1}^\infty\|x_{n, k}-x_{n, l}\|_{H_n}}<\epsilon n = 1 ∑ N ​ ∥ x n , k ​ − x n , l ​ ∥ H n ​ ​ ≤ n = 1 ∑ ∞ ​ ∥ x n , k ​ − x n , l ​ ∥ H n ​ ​ < ϵ 이고, l → ∞ l\to\infty l → ∞ 에 따라 x n , l → x n x_{n,l}\to x_n x n , l ​ → x n ​ 이므로
+∑ n = 1 N ∥ x n , k − x n ∥ H n < ϵ \displaystyle\sum_{n=1}^N\|x_{n, k}-x_n\|_{H_n}<\epsilon n = 1 ∑ N ​ ∥ x n , k ​ − x n ​ ∥ H n ​ ​ < ϵ 이다. N N N 은 임의의 자연수이므로 N → ∞ N\to\infty N → ∞ 에 따라 ∥ x k − x ∥ H < ϵ \|x_{k}-x\|_H<\epsilon ∥ x k ​ − x ∥ H ​ < ϵ 을 얻는다.
+
+힐베르트 공간 H H H 의 두 부분공간 M , N M, N M , N 이 서로 직교하면 M ⊕ N M\oplus N M ⊕ N 은 M ∨ N M\vee N M ∨ N 과 동형사상 U ( x ⊕ y ) = x + y U(x\oplus y)=x+y U ( x ⊕ y ) = x + y 에 의해 동형이다. 이를 일반화하여 힐베르트 공간 H H H 의 쌍마다 직교하는 부분공간열 { M i } \{M_i\} { M i ​ } 에 대하여 ⨁ i M i : = ⋁ i M i \bigoplus_i M_i:=\bigvee_i M_i ⨁ i ​ M i ​ := ⋁ i ​ M i ​ 로 정의한다. 또한 두 부분공간 M , N M, N M , N 에 대하여 M ⊖ N : = M ∩ N ⊥ M\ominus N:=M\cap N^\perp M ⊖ N := M ∩ N ⊥ 로 정의한다.
+
+3.2. 텐서곱 [편집]
+두 K \mathbb{K} K -힐베르트 공간 H , K H, K H , K 에 대하여
+F ( H , K ) = { ∑ k = 1 n α k ( x k , y k ) : ( x , y ) ∈ H × K , α k ∈ K } \displaystyle\mathcal{F}(H,K)=\left\{\sum_{k=1}^n\alpha_k(x_k, y_k):(x, y)\in H\times K, \alpha_k\in\mathbb{K}\right\} F ( H , K ) = { k = 1 ∑ n ​ α k ​ ( x k ​ , y k ​ ) : ( x , y ) ∈ H × K , α k ​ ∈ K } 라 하자. 즉, F ( H , K ) \mathcal{F}(H, K) F ( H , K ) 는 곱집합 H × K H\times K H × K 의 원소의 유한 선형결합 집합이다. 또한 집합 N ( H , K ) \mathcal{N}(H,K) N ( H , K ) 를
+N ( H , K ) = span ⁡ { ∑ k , l = 1 n α k β l ( x k , y l ) − ( ∑ k = 1 n α k x k , ∑ l = 1 n β k y k ) } \displaystyle\mathcal{N}(H,K)=\operatorname{span}\left\{\sum_{k,l=1}^n\alpha_k\beta_l(x_k, y_l)-\left(\sum_{k=1}^n\alpha_k x_k, \sum_{l=1}^n\beta_k y_k\right)\right\} N ( H , K ) = span ⎩ ⎨ ⎧ ​ k , l = 1 ∑ n ​ α k ​ β l ​ ( x k ​ , y l ​ ) − ( k = 1 ∑ n ​ α k ​ x k ​ , l = 1 ∑ n ​ β k ​ y k ​ ) ⎭ ⎬ ⎫ ​ 할 때, H ⊗ K = F ( H , K ) / N ( H , K ) H\otimes K=\mathcal{F}(H, K)/\mathcal{N}(H, K) H ⊗ K = F ( H , K ) / N ( H , K ) 라 하고 x ∈ H , y ∈ K x\in H, y\in K x ∈ H , y ∈ K 에 대하여 x ⊗ y x\otimes y x ⊗ y 를 ( x , y ) (x, y) ( x , y ) 의 H ⊗ K H\otimes K H ⊗ K 에서 동치류라 하자. H ⊗ K H\otimes K H ⊗ K 위에 대칭 반쌍선형 형식 < ⋅ , ⋅ > \left<\cdot, \cdot\right> ⟨ ⋅ , ⋅ ⟩ 을
+< x 1 ⊗ y 1 , x 2 ⊗ y 2 > = < x 1 , x 2 > H < y 1 , y 2 > K \left<x_1\otimes y_1,x_2\otimes y_2 \right>=\left<x_1,x_2\right>_H\left<y_1,y_2\right>_K ⟨ x 1 ​ ⊗ y 1 ​ , x 2 ​ ⊗ y 2 ​ ⟩ = ⟨ x 1 ​ , x 2 ​ ⟩ H ​ ⟨ y 1 ​ , y 2 ​ ⟩ K ​ 로 정의하면 < ⋅ , ⋅ > \left<\cdot, \cdot\right> ⟨ ⋅ , ⋅ ⟩ 는 H ⊗ K H\otimes K H ⊗ K 의 내적이다.
+
+두 힐베르트 공간 H , K H, K H , K 의 기저가 각각 { e k } , { f l } \{e_k\}, \{f_l\} { e k ​ } , { f l ​ } 일 때, H , K H, K H , K 의 텐서곱 H ⊗ K H\otimes K H ⊗ K 의 기저는 { e k ⊗ f l } \{e_k\otimes f_l\} { e k ​ ⊗ f l ​ } 이다.
+
+4. 성질 [편집]
+
+4.1. 내적공간의 성질 [편집]
+K \mathbb{K} K -힐베르트 공간 H H H 의 내적 < ⋅ , ⋅ > : H × H → K \left<\cdot,\cdot\right>:H\times H\to \mathbb{K} ⟨ ⋅ , ⋅ ⟩ : H × H → K 는 연속사상이다. 즉, 내적은 H H H 의 그물의 수렴성을 보존한다.
+
+피타고라스 정리 는 내적공간에서 일반화된다. 내적공간 X X X 의 벡터 x 1 , … , x n x_1, \ldots, x_n x 1 ​ , … , x n ​ 이 쌍마다 직교하면 다음이 성립한다.
+∥ ∑ k = 1 n x k ∥ 2 = ∑ k = 1 n ∥ x k ∥ 2 \displaystyle\left\|\sum_{k=1}^n x_k \right\|^2=\sum_{k=1}^n \|x_k\|^2 ​ k = 1 ∑ n ​ x k ​ ​ 2 = k = 1 ∑ n ​ ∥ x k ​ ∥ 2 유클리드 평면에서 성립하는 평행사변형 법칙 또한 내적공간에서 일반화된다. 내적공간 X X X 의 벡터 x , y ∈ X x, y\in X x , y ∈ X 에 대하여 다음이 성립한다.
+2 ( ∥ x ∥ 2 + ∥ y ∥ 2 ) = ∥ x + y ∥ 2 + ∥ x − y ∥ 2 2(\|x\|^2+\|y\|^2)=\|x+y\|^2+\|x-y\|^2 2 ( ∥ x ∥ 2 + ∥ y ∥ 2 ) = ∥ x + y ∥ 2 + ∥ x − y ∥ 2 평행사변형 법칙은 노름이 내적으로부터 유도되었음을 판별하는 필요충분조건이다. 즉, 평행사변형 법칙을 만족시키는 노름공간은 내적공간이다.
+
+4.2. 부분공간의 성질 [편집]
+
+4.2.1. 부분공간의 생성 [편집]
+힐베르트 공간 H H H 의 부분집합 W ⊆ H W\subseteq H W ⊆ H 에 대하여 W W W 로 생성된 선형 부분공간은 W W W 로 생성된 선형다양체의 완비화와 같다. 즉, W ( ≠ ∅ ) ⊆ H W(\ne\varnothing)\subseteq H W (  = ∅ ) ⊆ H 에 대하여 M = ⋁ W , N = span ⁡ W M=\bigvee W, N=\operatorname{span}W M = ⋁ W , N = span W 라 하면 M = N ‾ M=\overline{N} M = N 이다. 증명
+W ⊆ N W\subseteq N W ⊆ N 이고 M M M 은 W W W 를 포함하는 최소 선형 부분공간이므로 M ⊆ N ‾ M\subseteq\overline{N} M ⊆ N 이다. 반대로 M M M 은 선형다양체이므로 N ⊆ M N \subseteq M N ⊆ M 이다. M M M 은 닫힌집합이므로 N ‾ ⊆ M \overline{N}\subseteq M N ⊆ M 이다.
+
+4.2.2. 거리 최소원의 존재 [편집]
+힐베르트 공간의 부분공간은 임의의 벡터와 그 부분공간의 거리가 최소가 되도록 하는 원소를 갖는다. 이는 힐베르트 공간의 완비성으로부터 유도되는 것으로, 내적공간과 힐베르트 공간을 구분짓는 성질이다. K K K 가 힐베르트 공간 H H H 의 공집합 이 아닌 닫힌 볼록 집합이면 임의의 x ∈ H x\in H x ∈ H 에 대하여 ∥ x − y ∥ = d ( x , K ) \|x-y\|=d(x, K) ∥ x − y ∥ = d ( x , K ) 를 만족시키는 유일한 y ∈ K y\in K y ∈ K 가 존재한다. 여기서 부분집합 A ⊆ H A\subseteq H A ⊆ H 에 대하여 d ( x , A ) = inf ⁡ { ∥ x − a ∥ : a ∈ A } d(x, A)=\inf\{\|x-a\|:a\in A\} d ( x , A ) = in f { ∥ x − a ∥ : a ∈ A } 이다. 증명
+D = d ( x , a ) D=d(x, a) D = d ( x , a ) 라 하면 ∥ x − y n ∥ → D \|x-y_n\|\to D ∥ x − y n ​ ∥ → D 인 K K K 의 열 { y n } \{y_n\} { y n ​ } 이 존재한다. K K K 는 볼록집합이므로
+y n + y m 2 ∈ K \dfrac{y_n+y_m}{2}\in K 2 y n ​ + y m ​ ​ ∈ K , ∥ x − y n + y m 2 ∥ ≥ D \left\|x-\dfrac{y_n+y_m}{2}\right\|\ge D ​ x − 2 y n ​ + y m ​ ​ ​ ≥ D 이다. 평행사변형 법칙에 의해
+∥ y n − y m ∥ 2 = ∥ ( y n − x ) − ( y m − x ) ∥ 2 = 2 ( ∥ y n − x ∥ 2 + ∥ y m − x ∥ 2 ) − 4 ∥ x − y n + y m 2 ∥ 2 \displaystyle \|y_n-y_m\|^2=\|(y_n-x)-(y_m-x)\|^2\\ =2(\|y_n-x\|^2+\|y_m-x\|^2)-4\left\|x-\dfrac{y_n+y_m}{2}\right\|^2 ∥ y n ​ − y m ​ ∥ 2 = ∥ ( y n ​ − x ) − ( y m ​ − x ) ∥ 2 = 2 ( ∥ y n ​ − x ∥ 2 + ∥ y m ​ − x ∥ 2 ) − 4 ​ x − 2 y n ​ + y m ​ ​ ​ 2 이므로 n , m → ∞ n, m\to\infty n , m → ∞ 에 따라 ∥ y n − y m ∥ → 0 \|y_n-y_m\|\to0 ∥ y n ​ − y m ​ ∥ → 0 으로 { y n } \{y_n\} { y n ​ } 은 코시열이다. H H H 가 힐베르트 공간, K K K 가 H H H 의 닫힌 부분집합이므로 { y n } \{y_n\} { y n ​ } 의 극한 y y y 가 K K K 에 존재한다. 삼각 부등식에 의해
+∥ x − y n ∥ = ∥ x − y + y − y n ∥ ≤ ∥ x − y ∥ + ∥ y − y n ∥ \begin{aligned} \|x-y_n\|&=\|x-y+y-y_n\|\\ &\le\|x-y\|+\|y-y_n\| \end{aligned} ∥ x − y n ​ ∥ ​ = ∥ x − y + y − y n ​ ∥ ≤ ∥ x − y ∥ + ∥ y − y n ​ ∥ ​ 이므로 n → ∞ n\to\infty n → ∞ 에 따라 ∥ x − y n ∥ → D \|x-y_n\|\to D ∥ x − y n ​ ∥ → D 로, ∥ x − y ∥ = D \|x-y\|=D ∥ x − y ∥ = D 이다. y ′ ( ≠ y ) y^\prime(\ne y) y ′ (  = y ) 을 ∥ x − y ′ ∥ = D \|x-y^\prime\|=D ∥ x − y ′ ∥ = D 인 K K K 의 벡터라 하자. K K K 는 볼록집합이므로 ( y + y ′ ) / 2 ∈ K {(y+y^\prime)/2\in K} ( y + y ′ ) /2 ∈ K 이고, 평행사변형 법칙에 의해
+∥ y + y ′ 2 ∥ 2 < 1 4 ( ∥ 2 x − ( y + y ′ ) ∥ 2 + ∥ y − y ′ ∥ 2 ) = 1 2 ( ∥ x − y ∥ 2 + ∥ x − y ′ ∥ 2 ) = D 2 \displaystyle\begin{aligned} &\left\|\frac{y+y^\prime}{2}\right\|^2\\ <&\frac{1}{4}(\|2x-(y+y^\prime)\|^2+\|y-y^\prime\|^2)\\ =&\frac{1}{2}(\|x-y\|^2+\|x-y^\prime\|^2)\\ =&D^2 \end{aligned} < = = ​ ​ 2 y + y ′ ​ ​ 2 4 1 ​ ( ∥2 x − ( y + y ′ ) ∥ 2 + ∥ y − y ′ ∥ 2 ) 2 1 ​ ( ∥ x − y ∥ 2 + ∥ x − y ′ ∥ 2 ) D 2 ​ 으로, ∥ x − ( y + y ′ ) / 2 ∥ < D \|x-(y+y^\prime)/2\|<D ∥ x − ( y + y ′ ) /2∥ < D 이다. 이는 ∥ x − ( y + y ′ ) / 2 ∥ ≥ D \|x-(y+y^\prime)/2\|\ge D ∥ x − ( y + y ′ ) /2∥ ≥ D 에 모순으로, y = y ′ y=y^\prime y = y ′ 이다.
+
+선형 부분공간은 닫힌 볼록 집합이므로 위 성질을 만족시키며, 직교성과 관련된 성질이 추가로 성립한다. 힐베르트 공간 H H H 의 선형 부분공간 M M M 과 벡터 x ∈ H x\in H x ∈ H 에 대하여 y 0 y_0 y 0 ​ 가 d ( x , M ) = ∥ x − y 0 ∥ d(x, M)=\|x-y_0\| d ( x , M ) = ∥ x − y 0 ​ ∥ 를 만족시키는, M M M 의 유일한 벡터일 필요충분조건은 ( x − y 0 ) ⊥ M (x-y_0)\perp M ( x − y 0 ​ ) ⊥ M 이다. 증명
+( ⇒ ) (\Rightarrow) ( ⇒ ) y ∈ M y\in M y ∈ M 에 대하여 y + y 0 ∈ M y+y_0\in M y + y 0 ​ ∈ M 이므로 삼각부등식에 의해
+∥ x − y 0 ∥ 2 ≤ ∥ x − ( y + y 0 ) ∥ 2 = ∥ ( x − y 0 ) − y ∥ 2 = ∥ x − y 0 ∥ 2 − 2 Re ⁡ < x − y 0 , y > + ∥ y ∥ 2 \begin{aligned} &\|x-y_0\|^2\\ &\le\|x-(y+y_0)\|^2\\ &=\|(x-y_0)-y\|^2\\ &=\|x-y_0\|^2-2\operatorname{Re}\left<x-y_0,y\right>+\|y\|^2 \end{aligned} ​ ∥ x − y 0 ​ ∥ 2 ≤ ∥ x − ( y + y 0 ​ ) ∥ 2 = ∥ ( x − y 0 ​ ) − y ∥ 2 = ∥ x − y 0 ​ ∥ 2 − 2 Re ⟨ x − y 0 ​ , y ⟩ + ∥ y ∥ 2 ​ 이므로 임의의 y ∈ M y\in M y ∈ M 에 대하여
+2 Re ⁡ < x − y 0 , y > ≤ ∥ y ∥ 2 ⋯ ( ∗ ) 2\operatorname{Re}\left<x-y_0,y\right>\le \|y\|^2\quad\cdots(*) 2 Re ⟨ x − y 0 ​ , y ⟩ ≤ ∥ y ∥ 2 ⋯ ( ∗ ) 이다. < x − y 0 , y > = r e i θ ( r ≥ 0 ) \left<x-y_0,y\right>=re^{i\theta}(r\ge0) ⟨ x − y 0 ​ , y ⟩ = r e i θ ( r ≥ 0 ) 인 θ \theta θ 에 대하여 t e i θ y ∈ M te^{i\theta}y\in M t e i θ y ∈ M 에 부등식 ( ∗ ) (*) ( ∗ ) 를 적용하면 부등식의 좌변은
+2 Re ⁡ < x − y 0 , t e i θ y > = 2 Re ⁡ ( t e − i θ < x − y 0 , y > ) = 2 Re ⁡ ( t e − i θ r e i θ ) = 2 t r 2\operatorname{Re}\left<x-y_0,te^{i\theta}y\right>=2\operatorname{Re}(te^{-i\theta}\left<x-y_0,y\right>)=2\operatorname{Re}(te^{-i\theta}re^{i\theta})=2tr 2 Re ⟨ x − y 0 ​ , t e i θ y ⟩ = 2 Re ( t e − i θ ⟨ x − y 0 ​ , y ⟩ ) = 2 Re ( t e − i θ r e i θ ) = 2 t r 이고 부등식의 우변은 t 2 ∥ y ∥ 2 t^2 \|y\|^2 t 2 ∥ y ∥ 2 으로,
+2 t r ≤ t 2 ∥ y ∥ 2 2tr\le t^2\|y\|^2 2 t r ≤ t 2 ∥ y ∥ 2 을 얻는다. t → 0 t\to 0 t → 0 에 따라 r = 0 r=0 r = 0 이므로 < x − y 0 , y > = 0 \left<x-y_0,y\right>=0 ⟨ x − y 0 ​ , y ⟩ = 0 , 즉 x − y 0 ⊥ y x-y_0\perp y x − y 0 ​ ⊥ y 이다. y y y 는 M M M 의 임의의 벡터이므로 x − y 0 ⊥ M x-y_0\perp M x − y 0 ​ ⊥ M 이다.
+
+( ⇐ ) (\Leftarrow) ( ⇐ ) 임의의 y ∈ M y\in M y ∈ M 에 대하여 y 0 − y ∈ M y_0-y\in M y 0 ​ − y ∈ M 이므로 x − y 0 ⊥ y 0 − y x-y_0\perp y_0-y x − y 0 ​ ⊥ y 0 ​ − y 이다. 따라서 피타고라스 정리에 의해
+∥ x − y ∥ 2 = ∥ ( x − y 0 ) + ( y 0 − y ) ∥ 2 = ∥ x − y 0 ∥ 2 + ∥ y 0 − y ∥ 2 ≥ ∥ x − y 0 ∥ 2 \begin{aligned} \|x-y\|^2&=\|(x-y_0)+(y_0-y)\|^2\\ &=\|x-y_0\|^2+\|y_0-y\|^2\\ &\ge\|x-y_0\|^2\end{aligned} ∥ x − y ∥ 2 ​ = ∥ ( x − y 0 ​ ) + ( y 0 ​ − y ) ∥ 2 = ∥ x − y 0 ​ ∥ 2 + ∥ y 0 ​ − y ∥ 2 ≥ ∥ x − y 0 ​ ∥ 2 ​ 이다. 즉, ∥ x − y 0 ∥ = d ( x , M ) \|x-y_0\|=d(x, M) ∥ x − y 0 ​ ∥ = d ( x , M ) 이다.
+
+4.2.3. 직교 여집합 및 정사영 [편집]
+K \mathbb{K} K -힐베르트 공간 H H H 의 공집합이 아닌 부분집합 A A A 에 대하여 A ⊥ A^\perp A ⊥ 은 H H H 의 선형부분공간이다. 임의의 x , y ∈ A ⊥ , a ∈ A x, y\in A^\perp, a\in A x , y ∈ A ⊥ , a ∈ A 와 α , β ∈ K \alpha, \beta\in\mathbb{K} α , β ∈ K 에 대하여
+< α x + β y , z > = α < x , z > = β < y , z > = 0 \left<\alpha x+\beta y, z\right>=\alpha\left<x, z\right>=\beta\left<y,z\right>=0 ⟨ α x + β y , z ⟩ = α ⟨ x , z ⟩ = β ⟨ y , z ⟩ = 0 이므로 A ⊥ A^\perp A ⊥ 는 H H H 의 선형다양체이다. 또한 { x n } \{x_n\} { x n ​ } 을 x x x 로 수렴하는 A ⊥ A^\perp A ⊥ 의 열이라고 하면 내적은 연속사상이므로 임의의 a ∈ A a\in A a ∈ A 에 대하여
+< x , a > = < lim ⁡ n → ∞ x n , a > = lim ⁡ n → ∞ < x n , y > = 0 \displaystyle\left<x, a\right>=\left<\lim_{n\to\infty}x_n,a\right>=\lim_{n\to\infty}\left<x_n,y\right>=0 ⟨ x , a ⟩ = ⟨ n → ∞ lim ​ x n ​ , a ⟩ = n → ∞ lim ​ ⟨ x n ​ , y ⟩ = 0 이므로 x ∈ A ⊥ x\in A^\perp x ∈ A ⊥ 이다. 즉, A ⊥ A^\perp A ⊥ 는 닫힌집합이다.
+
+힐베르트 공간 H H H 의 부분집합 A , B ⊆ H A, B\subseteq H A , B ⊆ H 에 대하여 다음이 성립한다. - A ∩ A ⊥ = { 0 } A\cap A^\perp=\{0\} A ∩ A ⊥ = { 0 }
+- A ⊆ ( A ⊥ ) ⊥ A\subseteq (A^\perp)^\perp A ⊆ ( A ⊥ ) ⊥
+- A ⊆ B ⇒ A ⊥ ⊇ B ⊥ A\subseteq B \Rightarrow A^\perp\supseteq B^\perp A ⊆ B ⇒ A ⊥ ⊇ B ⊥
+- A ⊥ = ( ( A ⊥ ) ⊥ ) ⊥ A^\perp=((A^\perp)^\perp)^\perp A ⊥ = (( A ⊥ ) ⊥ ) ⊥
+
+증명 - x ∈ A ∩ A ⊥ = ∅ x\in A\cap A^\perp=\varnothing x ∈ A ∩ A ⊥ = ∅ 라 하면 < x , x > = 0 \left<x, x\right>=0 ⟨ x , x ⟩ = 0 이므로 내적의 정의에 의해 x = 0 x=0 x = 0 이다.
+- 임의의 x ∈ A , y ∈ A ⊥ x\in A, y\in A^\perp x ∈ A , y ∈ A ⊥ 에 대하여 < x , y > = 0 \left<x, y\right>=0 ⟨ x , y ⟩ = 0 이므로 x ∈ ( A ⊥ ) ⊥ x\in (A^\perp)^\perp x ∈ ( A ⊥ ) ⊥ 로 A ⊆ ( A ⊥ ) ⊥ A\subseteq(A^\perp)^\perp A ⊆ ( A ⊥ ) ⊥ 이다.
+- a ∈ A , b ∈ B ⊥ a\in A, b\in B^\perp a ∈ A , b ∈ B ⊥ 에 대하여 a ∈ B a\in B a ∈ B 이므로 < a , b > = 0 \left<a, b\right>=0 ⟨ a , b ⟩ = 0 이다. 따라서 b ∈ A ⊥ b\in A^\perp b ∈ A ⊥ 로, B ⊥ ⊆ A ⊥ B^\perp\subseteq A^\perp B ⊥ ⊆ A ⊥ 이다.
+- A ⊥ A^\perp A ⊥ 에 대하여 (a)를 적용하면 A ⊥ ⊆ ( ( A ⊥ ) ⊥ ) ⊥ A^\perp\subseteq((A^\perp)^\perp)^\perp A ⊥ ⊆ (( A ⊥ ) ⊥ ) ⊥ 이다. A ⊆ ( A ⊥ ) ⊥ A\subseteq (A^\perp)^\perp A ⊆ ( A ⊥ ) ⊥ 에 (b)를 적용하면 A ⊥ ⊇ ( ( A ⊥ ) ⊥ ) ⊥ A^\perp\supseteq((A^\perp)^\perp)^\perp A ⊥ ⊇ (( A ⊥ ) ⊥ ) ⊥ 이다. 따라서 A ⊥ = ( ( A ⊥ ) ⊥ ) ⊥ A^\perp=((A^\perp)^\perp)^\perp A ⊥ = (( A ⊥ ) ⊥ ) ⊥ 이다.
+
+특히, 부분공간 M ≤ H M\le H M ≤ H 에 대하여 ( M ⊥ ) ⊥ = M (M^\perp)^\perp=M ( M ⊥ ) ⊥ = M 이며, M + M ⊥ = H M+M^\perp=H M + M ⊥ = H 이다. 증명
+M ⊊ ( M ⊥ ) ⊥ M\subsetneq (M^\perp)^\perp M ⊊ ( M ⊥ ) ⊥ 라고 가정하면 x ∈ ( M ⊥ ) ⊥ ∖ M x\in (M^\perp)^\perp\setminus M x ∈ ( M ⊥ ) ⊥ ∖ M 에 대하여 x − y 0 ⊥ M x-y_0\perp M x − y 0 ​ ⊥ M 인 y 0 ∈ M ⊂ ( M ⊥ ) ⊥ ( y ≠ 0 ) y_0\in M\subset(M^\perp)^\perp(y\ne0) y 0 ​ ∈ M ⊂ ( M ⊥ ) ⊥ ( y  = 0 ) 이 존재한다. x − y 0 ∈ ( M ⊥ ) ⊥ x-y_0\in(M^\perp)^\perp x − y 0 ​ ∈ ( M ⊥ ) ⊥ 이므로 M ⊥ ∩ ( M ⊥ ) ⊥ ≠ { 0 } M^\perp\cap(M^\perp)^\perp\ne\{0\} M ⊥ ∩ ( M ⊥ ) ⊥  = { 0 } 이다. 이는 모순으로, M = ( M ⊥ ) ⊥ M= (M^\perp)^\perp M = ( M ⊥ ) ⊥ 이다.
+
+H H H 의 두 부분공간 M , N M, N M , N 에 대하여 M + N M+N M + N 이 닫혀있음을 보인다. M + N M+N M + N 의 벡터열 { z n } \{z_n\} { z n ​ } 에 대하여 z n = x n + y n , x n ∈ M , y n ∈ N z_n=x_n+y_n, x_n\in M, y_n\in N z n ​ = x n ​ + y n ​ , x n ​ ∈ M , y n ​ ∈ N 이라 하자. { z n } \{z_n\} { z n ​ } 이 z ∈ H z\in H z ∈ H 로 수렴한다고 하면 피타고라스 정리에 의해 ∥ z n − z m ∥ 2 = ∥ x n − x m ∥ 2 + ∥ y n − y m ∥ 2 \|z_n-z_m\|^2=\|x_n-x_m\|^2+\|y_n-y_m\|^2 ∥ z n ​ − z m ​ ∥ 2 = ∥ x n ​ − x m ​ ∥ 2 + ∥ y n ​ − y m ​ ∥ 2 이고 { z n } \{z_n\} { z n ​ } 이 코시열이므로 { x n } , { y n } \{x_n\}, \{y_n\} { x n ​ } , { y n ​ } 은 각각 부분공간 M , N M, N M , N 의 코시열로 x ∈ M , y ∈ N x\in M, y\in N x ∈ M , y ∈ N 으로 수렴한다. 따라서 z n = x n + y n → x + y ∈ M + N z_n=x_n+y_n\to x+y\in M+N z n ​ = x n ​ + y n ​ → x + y ∈ M + N 이다. 따라서 M + N M+N M + N 은 닫힌 집합이다.
+
+부분공간 M M M 에 대하여 M + M ⊥ = N M+M^\perp=N M + M ⊥ = N 이라 하면 N N N 은 닫한집합이다. M , M ⊥ ⊆ N M, M^\perp\subseteq N M , M ⊥ ⊆ N 이므로 N ⊥ ⊆ M ⊥ , N ⊥ ⊆ M = ( M ⊥ ) ⊥ N^\perp\subseteq M^\perp, N^\perp\subseteq M=(M^\perp)^\perp N ⊥ ⊆ M ⊥ , N ⊥ ⊆ M = ( M ⊥ ) ⊥ 이다. 따라서 N ⊥ = { 0 } N^\perp=\{0\} N ⊥ = { 0 } 으로, N = H N=H N = H 이다.
+
+일반 집합의 여집합에 대한 드 모르간의 법칙 과 유사한 성질이 직교 여집합에도 존재한다. 힐베르트 공간 H H H 의 부분공간들의 집합 { M i : i ∈ I } \{M_i:i\in I\} { M i ​ : i ∈ I } 에 대하여 다음이 성립한다.
+⋂ i ∈ I M i ⊥ = ( ⋁ i ∈ I M i ) ⊥ , ( ⋂ i ∈ I M i ) ⊥ = ⋁ i ∈ I M i ⊥ \displaystyle{\bigcap_{i\in I} M_i^\perp=\left(\bigvee_{i\in I}M_i\right)^\perp},\quad {\left(\bigcap_{i\in I} M_i\right)^\perp=\bigvee_{i\in I}M_i^\perp} i ∈ I ⋂ ​ M i ⊥ ​ = ( i ∈ I ⋁ ​ M i ​ ) ⊥ , ( i ∈ I ⋂ ​ M i ​ ) ⊥ = i ∈ I ⋁ ​ M i ⊥ ​ 증명
+임의의 y ∈ ⋁ i ∈ I M i y\in\bigvee_{i\in I}M_i y ∈ ⋁ i ∈ I ​ M i ​ 에 대하여 { y n } \{y_n\} { y n ​ } 을 y y y 로 수렴하는 ⋃ i ∈ I M i \bigcup_{i\in I}M_i ⋃ i ∈ I ​ M i ​ 의 벡터열이라 하자. 임의의 x ∈ ⋂ i ∈ I M i ⊥ x\in\bigcap_{i\in I} M_i^\perp x ∈ ⋂ i ∈ I ​ M i ⊥ ​ 및 i ∈ I i\in I i ∈ I 대하여 x ⊥ M i x\perp M_i x ⊥ M i ​ 이므로 각 n ∈ N n\in\mathbb{N} n ∈ N 에 대하여 < x , y n > = 0 \left<x, y_n\right>=0 ⟨ x , y n ​ ⟩ = 0 이다. 내적은 연속사상이므로 < x , y > = 0 \displaystyle\left<x, y\right>=0 ⟨ x , y ⟩ = 0 이다. 따라서 ⋂ i ∈ I M i ⊥ ⊆ ( ⋁ i ∈ I M i ) ⊥ \bigcap_{i\in I} M_i^\perp\subseteq\left(\bigvee_{i\in I}M_i\right)^\perp ⋂ i ∈ I ​ M i ⊥ ​ ⊆ ( ⋁ i ∈ I ​ M i ​ ) ⊥ 이다. 반대로 x x x 를 ( ⋁ i ∈ I M i ) ⊥ \left(\bigvee_{i\in I}M_i\right)^\perp ( ⋁ i ∈ I ​ M i ​ ) ⊥ 의 임의의 벡터라 하자. 임의의 i ∈ I i\in I i ∈ I 에 대하여 M i ⊆ ⋁ i ∈ I M i M_i\subseteq\bigvee_{i\in I}M_i M i ​ ⊆ ⋁ i ∈ I ​ M i ​ 이므로 x ⊥ M i x \perp M_i x ⊥ M i ​ 이다. 즉, x ∈ ⋂ i ∈ I M i ⊥ x\in \bigcap_{i\in I}M_i^\perp x ∈ ⋂ i ∈ I ​ M i ⊥ ​ 으로 ⋂ i ∈ I M i ⊥ ⊇ ( ⋁ i ∈ I M i ) ⊥ \bigcap_{i\in I} M_i^\perp\supseteq\left(\bigvee_{i\in I}M_i\right)^\perp ⋂ i ∈ I ​ M i ⊥ ​ ⊇ ( ⋁ i ∈ I ​ M i ​ ) ⊥ 이다. 두 번째 식 또한 같은 방법으로 증명한다.
+
+유클리드 공간에서 성립하는 직교 정사영에 대한 성질은 힐베르트 공간의 부분공간에 대하여 일반화된다. K \mathbb{K} K - 힐베르트 공간 H H H 의 부분공간 M M M 과 x ∈ M c x\in M^c x ∈ M c 에 대하여 x − y 0 ⊥ M x-y_0\perp M x − y 0 ​ ⊥ M 인 y 0 ∈ M y_0\in M y 0 ​ ∈ M 가 유일하게 존재하므로 대응 P M : H → M , P M ( x ) = y 0 P_M:H\to M, P_M(x)=y_0 P M ​ : H → M , P M ​ ( x ) = y 0 ​ 는 사상이다. 이를 H H H 에서 M M M 위로의 직교 정사영 (orghogonal projection)이라 한다. 직교 정사영은 다음과 같은 성질을 갖는다. - P M P_M P M ​ 은 H H H 의 선형변환이다.
+- 임의의 x ∈ H x\in H x ∈ H 에 대하여 ∥ P M ( x ) ∥ ≤ ∥ x ∥ \|P_M(x)\|\le\|x\| ∥ P M ​ ( x ) ∥ ≤ ∥ x ∥ 이다.
+- P M ∘ P M = P M P_M\circ P_M=P_M P M ​ ∘ P M ​ = P M ​ 이다.
+- ker ⁡ P M = M ⊥ , Im ⁡ P M = M \ker P_M=M^\perp, \operatorname{Im} P_M=M ker P M ​ = M ⊥ , Im P M ​ = M 이다.
+
+증명 - 임의의 x , y ∈ H , α , β ∈ K x, y\in H, \alpha, \beta\in \mathbb{K} x , y ∈ H , α , β ∈ K 에 대하여 P M ( x ) = z x , P M ( y ) = z y P_M(x)=z_x, P_M(y)=z_y P M ​ ( x ) = z x ​ , P M ​ ( y ) = z y ​ 라 하면 임의의 z ∈ M z\in M z ∈ M 에 대하여
+< ( α x + β y ) − ( α z x + β z y ) , z > = α < x − z x , z > + β < y − z y , z > = 0 \left<(\alpha x+\beta y)-(\alpha z_x+\beta z_y) , z\right>=\alpha\left<x-z_x,z\right>+\beta\left<y-z_y,z\right>=0 ⟨ ( α x + β y ) − ( α z x ​ + β z y ​ ) , z ⟩ = α ⟨ x − z x ​ , z ⟩ + β ⟨ y − z y ​ , z ⟩ = 0 이므로 ( α x + β y ) − ( α z x + β z y ) ⊥ M (\alpha x+\beta y)-(\alpha z_x+\beta z_y)\perp M ( α x + β y ) − ( α z x ​ + β z y ​ ) ⊥ M 이다. 따라서
+P M ( α x + β y ) = α z x + β z y = α P M ( x ) + β P M ( y ) P_M(\alpha x+\beta y)=\alpha z_x+\beta z_y=\alpha P_M(x)+\beta P_M(y) P M ​ ( α x + β y ) = α z x ​ + β z y ​ = α P M ​ ( x ) + β P M ​ ( y ) 로, P M P_M P M ​ 은 선형변환이다.
+- x ∈ H x\in H x ∈ H 에 대하여 x = ( x − P M ( x ) ) + P M ( x ) x=(x-P_M(x))+P_M(x) x = ( x − P M ​ ( x )) + P M ​ ( x ) 이고 P M ( x ) ∈ M , x − P M ( x ) ∈ M ⊥ P_M(x)\in M, x-P_M(x)\in M^\perp P M ​ ( x ) ∈ M , x − P M ​ ( x ) ∈ M ⊥ 이므로 피타고라스 정리에 의해
+∥ x ∥ 2 = ∥ x − P M ( x ) ∥ 2 + ∥ P M ( x ) ∥ 2 ≥ ∥ P M ( x ) ∥ 2 \|x\|^2=\|x-P_M(x)\|^2+\|P_M(x)\|^2\ge\|P_M(x)\|^2 ∥ x ∥ 2 = ∥ x − P M ​ ( x ) ∥ 2 + ∥ P M ​ ( x ) ∥ 2 ≥ ∥ P M ​ ( x ) ∥ 2 이다.
+- y ∈ M y\in M y ∈ M 이면 P M ( y ) = y P_M(y)=y P M ​ ( y ) = y 이므로 임의의 x ∈ H x\in H x ∈ H 에 대하여 y = P M ( x ) y=P_M(x) y = P M ​ ( x ) 라 하면 ( P M ∘ P M ) ( x ) = P M ( y ) = y = P M ( x ) (P_M\circ P_M)(x)=P_M(y)=y=P_M(x) ( P M ​ ∘ P M ​ ) ( x ) = P M ​ ( y ) = y = P M ​ ( x ) 이다.
+- 임의의 x ∈ ker ⁡ P M x\in \ker P^M x ∈ ker P M 와 y ∈ M y\in M y ∈ M 에 대하여 < x − P M ( x ) , y > = 0 \left<x-P_M(x), y\right>=0 ⟨ x − P M ​ ( x ) , y ⟩ = 0 에서
+< x , y > − < P M ( x ) , y > = < x , y > = 0 \left<x,y\right>-\left<P_M(x),y\right>=\left<x, y\right>=0 ⟨ x , y ⟩ − ⟨ P M ​ ( x ) , y ⟩ = ⟨ x , y ⟩ = 0 이므로 x ∈ M ⊥ x\in M^\perp x ∈ M ⊥ 이다. 반대로, 임의의 x ∈ M ⊥ x\in M^\perp x ∈ M ⊥ 와 y ∈ M y\in M y ∈ M 에 대하여 < x − P M ( x ) , y > = 0 \left<x-P_M(x), y\right>=0 ⟨ x − P M ​ ( x ) , y ⟩ = 0 에서
+< x , y > − < P M ( x ) , y > = − < P M ( x ) , y > = 0 \left<x,y\right>-\left<P_M(x),y\right>=-\left<P_M(x), y\right>=0 ⟨ x , y ⟩ − ⟨ P M ​ ( x ) , y ⟩ = − ⟨ P M ​ ( x ) , y ⟩ = 0 이므로 x ∈ ker ⁡ P M x\in \ker P_M x ∈ ker P M ​ 이다. 따라서 M ⊥ = ker ⁡ P M M^\perp = \ker P_M M ⊥ = ker P M ​ 이다.
+
+4.3. 정규직교기저의 성질 [편집]
+
+4.3.1. 정규직교집합과 기저 [편집]
+모든 벡터공간은 극대 선형 독립 집합인 하멜 기저를 갖는다. 힐베르트 공간은 하멜 기저뿐만 아니라 직교성을 이용해 정의되는 정규직교기저를 가지며, 특히 무한차원 힐베르트 공간에서 하멜기저와 정규직교기저는 서로 구분된다. 힐베르트 공간에서의 기저는 정규직교기저를 칭한다.
+
+힐베르트 공간 H H H 의 기저의 존재성은 그람-슈미트 직교화 과정 (Gram-Schmidt orthgonalization process)과 초른의 보조정리 를 이용해 밝힐 수 있다. 그람-슈미트 직교화 과정을 통하여 가산 선형독립 집합 { x n : n ∈ N } \{x_n:n\in\mathbb{N}\} { x n ​ : n ∈ N } 에서 정규직교집합 { e n : n ∈ N } \{e_n:n\in\mathbb{N}\} { e n ​ : n ∈ N } 을 구성한다. E 0 ⊂ H E_0\subset H E 0 ​ ⊂ H 가 정규직교집합일 때, E 0 E_0 E 0 ​ 를 포함하는 정규직교집합의 족을 E \mathcal{E} E 라 하면 E \mathcal{E} E 는 집합의 포함관계를 부분순서로 갖는다. E \mathcal{E} E 의 전순서 부분족 F \mathcal{F} F 는 ⋃ F ∈ F F \bigcup_{F\in\mathcal{F}}F ⋃ F ∈ F ​ F 를 상계로 가지므로 초른의 보조정리에 의해 E \mathcal{E} E 는 극대원 E E E 를 갖는다. E E E 가 극대 정규직교집합이므로 E ⊥ = { 0 } E^\perp=\{0\} E ⊥ = { 0 } 이다. E ⊂ ∨ E E\subset \vee E E ⊂ ∨ E 이므로 E ⊥ ⊃ ( ∨ E ) ⊥ E^\perp \supset (\vee E)^\perp E ⊥ ⊃ ( ∨ E ) ⊥ 로 ( ∨ E ) ⊥ = { 0 } (\vee E)^\perp=\{0\} ( ∨ E ) ⊥ = { 0 } 이다. ∨ E + ( ∨ E ) ⊥ = H \vee E +(\vee E)^\perp =H ∨ E + ( ∨ E ) ⊥ = H 이므로 ∨ E = H \vee E =H ∨ E = H 이다. 즉, E E E 는 H H H 의 기저이다.
+
+베셀 부등식 (Bessel's inequality)은 힐베르트 공간의 기저의 성질을 설명하는 데에 유용하게 활용된다. 정규직교집합 { e n : n ∈ N } \{e_n:n\in\mathbb{N}\} { e n ​ : n ∈ N } 과 x ∈ H x\in H x ∈ H 에 대하여 다음이 성립한다.
+∑ n = 1 ∞ ∣ < x , e n > ∣ 2 ≤ ∥ x ∥ 2 \displaystyle\sum_{n=1}^\infty |\left<x,e_n\right>|^2\le\|x\|^2 n = 1 ∑ ∞ ​ ∣ ⟨ x , e n ​ ⟩ ∣ 2 ≤ ∥ x ∥ 2 증명
+x n = x − ∑ k = 1 n < x , e k > e k x_n=x-\sum_{k=1}^n\left<x,e_k\right>e_k x n ​ = x − ∑ k = 1 n ​ ⟨ x , e k ​ ⟩ e k ​ 라 하면 각 1 ≤ l ≤ n 1\le l\le n 1 ≤ l ≤ n 에 대하여
+< x n , e l > = < x , e l > − ∑ k = 1 n < < x , e k > e k , e l > = < x , e l > − ∑ k = 1 n ( < x , e k > < e k , e l > ) = < x , e l > − < x , e l > < e l , e l > = < x , e l > − < x , e l > ⋅ 1 = 0 \displaystyle\begin{aligned}\left<x_n,e_l\right>&=\left<x,e_l\right>-\sum_{k=1}^n\left<\left<x,e_k\right>e_k, e_l\right>\\ &=\left<x,e_l\right>-\sum_{k=1}^{n}(\left<x,e_k\right>\left<e_k,e_l\right>)\\ &=\left<x,e_l\right>-\left<x,e_l\right>\left<e_l,e_l\right>\\ &=\left<x,e_l\right>-\left<x,e_l\right>\cdot1\\ &=0\end{aligned} ⟨ x n ​ , e l ​ ⟩ ​ = ⟨ x , e l ​ ⟩ − k = 1 ∑ n ​ ⟨ ⟨ x , e k ​ ⟩ e k ​ , e l ​ ⟩ = ⟨ x , e l ​ ⟩ − k = 1 ∑ n ​ ( ⟨ x , e k ​ ⟩ ⟨ e k ​ , e l ​ ⟩ ) = ⟨ x , e l ​ ⟩ − ⟨ x , e l ​ ⟩ ⟨ e l ​ , e l ​ ⟩ = ⟨ x , e l ​ ⟩ − ⟨ x , e l ​ ⟩ ⋅ 1 = 0 ​ 이므로 x n ⊥ e l x_n\perp e_l x n ​ ⊥ e l ​ 이다. 따라서 피타고라스 정리에 의해
+∥ x ∥ 2 = ∥ x n ∥ 2 + ∥ ∑ k = 1 n < x , e k > e k ∥ 2 = ∥ x n ∥ 2 + ∑ k = 1 n ∣ < x , e k > ∣ 2 ≥ ∑ k = 1 n ∣ < x , e k > ∣ 2 \displaystyle\begin{aligned} \|x\|^2&=\|x_n\|^2+\left\|\sum_{k=1}^n \left<x,e_k\right>e_k\right\|^2\\ &=\|x_n\|^2+\sum_{k=1}^n|\left<x,e_k\right>|^2\\ &\ge \sum_{k=1}^n |\left<x,e_k\right>|^2 \end{aligned} ∥ x ∥ 2 ​ = ∥ x n ​ ∥ 2 + ​ k = 1 ∑ n ​ ⟨ x , e k ​ ⟩ e k ​ ​ 2 = ∥ x n ​ ∥ 2 + k = 1 ∑ n ​ ∣ ⟨ x , e k ​ ⟩ ∣ 2 ≥ k = 1 ∑ n ​ ∣ ⟨ x , e k ​ ⟩ ∣ 2 ​ 이다. 따라서 n → ∞ n\to\infty n → ∞ 에 따라 위 명제가 성립한다.
+
+베셀 부등식에 따라 힐베르트 공간 H H H 의 벡터 x ∈ H x\in H x ∈ H 와 정규직교집합 E E E 에 대하여 < x , e > ≠ 0 \left<x, e\right>\ne 0 ⟨ x , e ⟩  = 0 을 만족시키는 e ∈ E e\in E e ∈ E 의 기수는 최대 가산이며, 따라서 임의의 기수를 갖는 정규직교집합 E E E 에 대하여 ∑ e ∈ E < x , e > 2 ≤ ∥ x ∥ 2 \sum_{e\in E}\left<x,e\right>^2 \le \|x\|^2 ∑ e ∈ E ​ ⟨ x , e ⟩ 2 ≤ ∥ x ∥ 2 이 성립한다. 이때 비가산 기수의 정규직교집합 E E E 에 대하여 ∑ e ∈ E < x , e > \sum_{e\in E}\left<x, e\right> ∑ e ∈ E ​ ⟨ x , e ⟩ 는 포함관계에 대한 유향집합 F = { F ⊂ E : ∣ F ∣ < ∞ } \mathcal{F}=\{F\subset E:|F|<\infty\} F = { F ⊂ E : ∣ F ∣ < ∞ } 에 대하여 x F = ∑ k ∈ F x k x_F=\sum_{k\in F} x_k x F ​ = ∑ k ∈ F ​ x k ​ 로 정의된 그물 { x F } F ∈ F \{x_F\}_{F\in\mathcal{F}} { x F ​ } F ∈ F ​ 의 극한을 뜻한다. 이에 따라 그물 ∑ e ∈ E < x , e > e \sum_{e\in E}\left<x,e\right>e ∑ e ∈ E ​ ⟨ x , e ⟩ e 는 수렴한다. 증명
+각 자연수 n n n 에 대하여 E n = { e ∈ E : ∣ < x , e > ∣ ≥ n − 1 } E_n=\{e\in E : |\left<x,e\right>|\ge n^{-1}\} E n ​ = { e ∈ E : ∣ ⟨ x , e ⟩ ∣ ≥ n − 1 } 이라 할 때, ∣ E n ∣ = ∞|E_n|=\infty ∣ E n ​ ∣ = ∞ 이면 ∑ e ∈ E n ∣ < x , e > ∣ 2 \sum_{e\in E_n}|\left<x,e\right>|^2 ∑ e ∈ E n ​ ​ ∣ ⟨ x , e ⟩ ∣ 2 이 발산하여 베셀 부등식에 모순이므로 ∣ E n ∣ < ∞|E_n|<\infty ∣ E n ​ ∣ < ∞ 이다. { e ∈ E : < x , e > ≠ 0 } = ⋃ n = 1 ∞ E n \{e\in E:\left<x,e\right>\ne0\}=\bigcup_{n=1}^\infty E_n { e ∈ E : ⟨ x , e ⟩  = 0 } = ⋃ n = 1 ∞ ​ E n ​ 이므로 { e ∈ E : < x , e > ≠ 0 } \{e\in E:\left<x,e\right>\ne0\} { e ∈ E : ⟨ x , e ⟩  = 0 } 의 기수는 최대 가산이다.
+
+x ∈ H x\in H x ∈ H 에 대하여 { e 1 , e 2 , … } = { e ∈ E : < x , e > ≠ 0 } \{e_1, e_2, \ldots\}=\{e\in E:\left<x,e\right>\ne0\} { e 1 ​ , e 2 ​ , … } = { e ∈ E : ⟨ x , e ⟩  = 0 } 이라 하자. ∑ n = 1 ∞ ∣ < x , e n > ∣ 2 ≤ ∥ x ∥ 2 < ∞ \sum_{n=1}^\infty |\left<x, e_n\right>|^2\le \|x\|^2<\infty ∑ n = 1 ∞ ​ ∣ ⟨ x , e n ​ ⟩ ∣ 2 ≤ ∥ x ∥ 2 < ∞ 이므로 임의의 ϵ > 0 \epsilon>0 ϵ > 0 에 대하여 ∑ n = N ∞ ∣ < x , e n > ∣ 2 < ϵ 2 \sum_{n=N}^\infty |\left<x, e_n\right>|^2<\epsilon^2 ∑ n = N ∞ ​ ∣ ⟨ x , e n ​ ⟩ ∣ 2 < ϵ 2 을 만족시키는 N ∈ N N\in\mathbb{N} N ∈ N 이 존재한다. F 0 = { e 1 , … , e N − 1 } F_0=\{e_1,\ldots,e_{N-1}\} F 0 ​ = { e 1 ​ , … , e N − 1 ​ } 에 대하여 F , G ∈ F F, G\in\mathcal{F} F , G ∈ F 가 모두 F 0 F_0 F 0 ​ 를 포함하는 유한집합이면 K = F △ G K=F\triangle G K = F △ G 라 할 때,
+∥ x F − x G ∥ = ∑ e ∈ K ∣ < x , e > ∣ 2 ≤ ∑ n = N ∞ ∣ < x , e n > ∣ 2 < ϵ 2 \displaystyle\begin{aligned}\|x_F-x_G\|&=\sum_{e\in K}|\left<x,e\right>|^2\\ &\le \sum_{n=N}^\infty |\left<x, e_n\right>|^2\\ &<\epsilon^2 \end{aligned} ∥ x F ​ − x G ​ ∥ ​ = e ∈ K ∑ ​ ∣ ⟨ x , e ⟩ ∣ 2 ≤ n = N ∑ ∞ ​ ∣ ⟨ x , e n ​ ⟩ ∣ 2 < ϵ 2 ​ 이다. 따라서 { x F } F ∈ F \{x_F\}_{F\in\mathcal{F}} { x F ​ } F ∈ F ​ 는 H H H 의 코시 그물이고 H H H 는 완비공간이므로 ∑ e ∈ E < x , e > \sum_{e\in E}\left<x, e\right> ∑ e ∈ E ​ ⟨ x , e ⟩ 는 수렴한다. 특히, F 0 ⊆ F F_0\subseteq F F 0 ​ ⊆ F 일 때,
+∥ x F − ∑ n = 1 ∞ < x , e n > e n ∥ 2 ≤ ∑ n = N ∞ ∣ < x , e n > ∣ 2 \displaystyle\left\|x_F-\sum_{n=1}^\infty \left<x,e_n\right>e_n\right\|^2\le\sum_{n=N}^\infty|\left<x,e_n\right>|^2 ​ x F ​ − n = 1 ∑ ∞ ​ ⟨ x , e n ​ ⟩ e n ​ ​ 2 ≤ n = N ∑ ∞ ​ ∣ ⟨ x , e n ​ ⟩ ∣ 2 이므로 ∑ e ∈ E < x , e > e \sum_{e\in E}\left<x,e\right>e ∑ e ∈ E ​ ⟨ x , e ⟩ e 는 ∑ n = 1 ∞ < x , e n > e n \sum_{n=1}^\infty\left<x,e_n\right>e_n ∑ n = 1 ∞ ​ ⟨ x , e n ​ ⟩ e n ​ 으로 수렴한다.
+
+힐베르트 공간 H H H 의 정규직교집합 E E E 에 대하여 다음은 서로 동치다. - E E E 는 H H H 의 기저이다. 즉, ∨ E = H \vee E =H ∨ E = H 이다.
+- x ∈ H x\in H x ∈ H 에 대하여 x ⊥ E x\perp E x ⊥ E 이면 x = 0 x=0 x = 0 이다.
+- (Fourier-Bessel expansion) x ∈ H x\in H x ∈ H 에 대하여 x = ∑ e ∈ E < x , e > e x=\sum_{e\in E}\left<x, e\right>e x = ∑ e ∈ E ​ ⟨ x , e ⟩ e 이다.
+- x , y ∈ H x, y\in H x , y ∈ H 에 대하여 < x , y > = ∑ e ∈ E < x , e > < e , y > \left<x, y\right>=\sum_{e\in E}\left<x, e\right>\left<e, y\right> ⟨ x , y ⟩ = ∑ e ∈ E ​ ⟨ x , e ⟩ ⟨ e , y ⟩ 이다.
+- (Parseval's identity) x ∈ H x\in H x ∈ H 에 대하여 ∥ x ∥ 2 = ∑ e ∈ E ∣ < x , e > ∣ 2 \|x\|^2=\sum_{e\in E}|\left<x, e\right>|^2 ∥ x ∥ 2 = ∑ e ∈ E ​ ∣ ⟨ x , e ⟩ ∣ 2
+- E E E 는 H H H 의 극대 정규직교집합이다.
+
+증명
+( a. ⇒ b. ) (\text{a.}\Rightarrow\text{b.}) ( a. ⇒ b. ) y ∈ E ⊥ y\in E^\perp y ∈ E ⊥ 에 대하여 A : H → H A:H\to H A : H → H 를 A ( x ) = < x , y > A(x)=\left<x, y \right> A ( x ) = ⟨ x , y ⟩ 로 정의하면 A ( E ) = { 0 } A(E)=\{0\} A ( E ) = { 0 } 이다. 내적은 연속사상이고 E E E 는 조밀하므로 A ( H ) = { 0 } A(H)=\{0\} A ( H ) = { 0 } 이다. 즉, y ∈ H ⊥ y\in H^\perp y ∈ H ⊥ 로, y = 0 y=0 y = 0 이다.
+
+( b. ⇒ c. ) (\text{b.}\Rightarrow\text{c.}) ( b. ⇒ c. ) y = x − ∑ e ∈ E < x , e > e y=x-\sum_{e\in E}\left<x,e\right>e y = x − ∑ e ∈ E ​ ⟨ x , e ⟩ e 라 하자. < x , e m > ≠ 0 \left<x,e_m\right>\ne0 ⟨ x , e m ​ ⟩  = 0 인 각 e m ∈ E ( m = 1 , 2 , … ) e_m\in E(m=1, 2, \ldots) e m ​ ∈ E ( m = 1 , 2 , … ) 에 대하여 < y , e m > = < x , e m > − < ∑ e ∈ E < x , e > e , e m > \left<y,e_m\right>=\left<x,e_m\right>-\left<\sum_{e\in E}\left<x,e\right>e,e_m\right> ⟨ y , e m ​ ⟩ = ⟨ x , e m ​ ⟩ − ⟨ ∑ e ∈ E ​ ⟨ x , e ⟩ e , e m ​ ⟩ 이고
+< ∑ e ∈ E < x , e > e , e m > = < ∑ n = 1 ∞ < x , e n > e n , e 0 > = ∑ n = 1 ∞ ( < x , e n > < e n , e m > ) = < x , e m > \displaystyle\begin{aligned}\left<\sum_{e\in E}\left<x,e\right>e,e_m\right>&=\left<\sum_{n=1}^\infty\left<x,e_n\right>e_n,e_0\right>\\ &=\sum_{n=1}^\infty(\left<x,e_n\right>\left<e_n,e_m\right>)\\ &=\left<x,e_m\right>\end{aligned} ⟨ e ∈ E ∑ ​ ⟨ x , e ⟩ e , e m ​ ⟩ ​ = ⟨ n = 1 ∑ ∞ ​ ⟨ x , e n ​ ⟩ e n ​ , e 0 ​ ⟩ = n = 1 ∑ ∞ ​ ( ⟨ x , e n ​ ⟩ ⟨ e n ​ , e m ​ ⟩ ) = ⟨ x , e m ​ ⟩ ​ 이므로 < y , e m > = 0 \left<y, e_m\right>=0 ⟨ y , e m ​ ⟩ = 0 이다. 또한 e 0 ∈ E e_0\in E e 0 ​ ∈ E 에 대하여 < x , e 0 > = 0 \left<x,e_0\right>=0 ⟨ x , e 0 ​ ⟩ = 0 인 경우 < ∑ n = 1 ∞ < x , e n > e n , e 0 > = 0 \left<\sum_{n=1}^\infty\left<x,e_n\right>e_n,e_0\right>=0 ⟨ ∑ n = 1 ∞ ​ ⟨ x , e n ​ ⟩ e n ​ , e 0 ​ ⟩ = 0 이므로 < y , e 0 > = 0 \left<y,e_0\right>=0 ⟨ y , e 0 ​ ⟩ = 0 으로 y ∈ E ⊥ y\in E^\perp y ∈ E ⊥ 이다. 즉, x = ∑ e ∈ E < x , e > e x=\sum_{e\in E}\left<x,e\right>e x = ∑ e ∈ E ​ ⟨ x , e ⟩ e 이다.
+
+( c. ⇒ d. ) (\text{c.}\Rightarrow\text{d.}) ( c. ⇒ d. ) x , y ∈ X x, y\in X x , y ∈ X 에 대하여 x = ∑ e ∈ E < x , e > e x=\sum_{e\in E}\left<x,e\right>e x = ∑ e ∈ E ​ ⟨ x , e ⟩ e 이고 사상 x → < x , y > x\to\left<x, y\right> x → ⟨ x , y ⟩ 는 선형 연속이므로 < x , y > = < ∑ e ∈ E < x , e > e , y > = ∑ e ∈ E < x , e > < e , y > \left<x,y\right>=\left<\sum_{e\in E}\left<x, e\right>e,y\right>=\sum_{e\in E}\left<x, e\right>\left<e, y\right> ⟨ x , y ⟩ = ⟨ ∑ e ∈ E ​ ⟨ x , e ⟩ e , y ⟩ = ∑ e ∈ E ​ ⟨ x , e ⟩ ⟨ e , y ⟩ 이다.
+
+( d. ⇒ e. ) (\text{d.}\Rightarrow\text{e.}) ( d. ⇒ e. ) ∥ x ∥ 2 = < x , x > \|x\|^2=\left<x, x\right> ∥ x ∥ 2 = ⟨ x , x ⟩ 에서 유도된다.
+
+( e. ⇒ f. ) (\text{e.}\Rightarrow\text{f.}) ( e. ⇒ f. ) E E E 가 극대 정규직교집합이 아니라고 가정하면 e 0 ⊥ E e_0\perp E e 0 ​ ⊥ E 인 단위벡터 e 0 ∈ H e_0\in H e 0 ​ ∈ H 가 존재한다. e. \text{e.} e. 에 의해 ∥ e 0 ∥ 2 = 0 \|e_0\|^2=0 ∥ e 0 ​ ∥ 2 = 0 이므로 이는 모순이다. 따라서 E E E 는 극대 정규직교집합이다.
+
+( f. ⇒ a. ) (\text{f.}\Rightarrow\text{a.}) ( f. ⇒ a. ) 상술한 기저의 존재성 증명 참조.
+
+4.3.2. 차원과 동형 [편집]
+유한차원의 경우처럼 힐베르트 공간의 기저들은 동일한 기수를 가지며, 이 성질을 이용하여 힐베르트 공간의 차원을 기저의 기수로 정의한다. 힐베르트 공간의 기저는 조밀한 집합이므로 힐베르트 공간이 분리 가능 공간 일 필요충분조건은 기저의 기수가 가산인 것이다. 증명
+힐베르트 공간 H H H 에 대하여 E , F E, F E , F 를 H H H 의 두 기저라 하자. ζ = card ⁡ E , η = card ⁡ F \zeta=\operatorname{card}E, \eta=\operatorname{card}F ζ = card E , η = card F 라 하면 ζ , η < ∞ \zeta, \eta<\infty ζ , η < ∞ 일 때 E , F E, F E , F 는 하멜 기저를 이루므로 ζ = η \zeta=\eta ζ = η 이다. ζ , η \zeta, \eta ζ , η 가 무한할 때 각 e ∈ E e\in E e ∈ E 에 대하여 F e = { f ∈ F : < e , f > ≠ 0 } F_e=\{f\in F:\left<e,f\right>\ne0\} F e ​ = { f ∈ F : ⟨ e , f ⟩  = 0 } 이라 하면 F e F_e F e ​ 는 가산이다. 각 f f f 에 대하여 f ∈ F e f\in F_e f ∈ F e ​ 인 e ∈ E e\in E e ∈ E 가 적어도 하나 존재하므로 F = ⋃ e ∈ E F e F=\bigcup_{e\in E}F_e F = ⋃ e ∈ E ​ F e ​ 이다. 따라서 η ≤ ζ ⋅ ℵ 0 = ζ \eta \le \zeta \cdot \aleph_0=\zeta η ≤ ζ ⋅ ℵ 0 ​ = ζ 이고 같은 방법으로 ζ ≤ η \zeta \le \eta ζ ≤ η 이다. 따라서 η = ζ \eta=\zeta η = ζ 이다.
+
+무한차원 힐베르트 공간 H H H 의 유한차원 선형다양체 W W W 는 부분공간을 이룬다. 증명
+W W W 가 유한차원이므로 정규직교기저 B 0 = { e 1 , … e m } B_0=\{e_1,\ldots e_m\} B 0 ​ = { e 1 ​ , … e m ​ } 을 갖는다. B 0 B_0 B 0 ​ 를 포함하는 H H H 의 기저를 B = { e i } i ∈ I B=\{e_i\}_{i\in I} B = { e i ​ } i ∈ I ​ 라 하자. W W W 의 점렬 { x n } n = 1 ∞ \{x_n\}_{n=1}^\infty { x n ​ } n = 1 ∞ ​ 이 x ∈ H x\in H x ∈ H 로 수렴한다고 하자. 임의의 e i ∈ B ∖ B 0 e_i\in B\setminus B_0 e i ​ ∈ B ∖ B 0 ​ 에 대하여 E i w = < w , e i > E_iw=\left<w, e_i\right> E i ​ w = ⟨ w , e i ​ ⟩ 라 하면 내적은 극한을 보존하므로 E i x = lim ⁡ n → ∞ < x n , e i > = 0 E_ix=\lim_{n\to\infty}\left<x_n,e_i\right>=0 E i ​ x = lim n → ∞ ​ ⟨ x n ​ , e i ​ ⟩ = 0 이다. 따라서 x ∈ W x\in W x ∈ W 이다.
+
+유한차원과 마찬가지로 두 힐베르트 공간이 동형일 필요충분조건은 두 힐베르트 공간이 동일한 차원을 갖는 것이다. 즉, 힐베르트 공간은 각 차원마다 (동형으로서)유일하다. 특히, 임의의 힐베르트 공간은 그 기저 E E E 에 대하여 l 2 ( E ) l^2(E) l 2 ( E ) 와 동형이다. 증명
+( ⇒ ) (\Rightarrow) ( ⇒ ) 힐베르트 공간 H , K H, K H , K 에 대하여 U : H → K U:H\to K U : H → K 를 동형사상, E E E 를 H H H 의 기저라 하자. F = U ( E ) F=U(E) F = U ( E ) 라 하면 각 A ( e ) , A ( e ′ ) ∈ F A(e), A(e^\prime)\in F A ( e ) , A ( e ′ ) ∈ F 에 대하여 ∥ A ( e ) ∥ = ∥ e ∥ = 1 \|A(e)\|=\|e\|=1 ∥ A ( e ) ∥ = ∥ e ∥ = 1 이고 < A ( e ) , A ( e ′ ) > = < e , e ′ > = 0 \left<A(e),A(e^\prime)\right>=\left<e, e^\prime\right>=0 ⟨ A ( e ) , A ( e ′ ) ⟩ = ⟨ e , e ′ ⟩ = 0 이므로 A ( E ) A(E) A ( E ) 는 정규직교집합이다. 또한 A ( f ) ∈ A ( H ) ⊥ A(f)\in A(H)^\perp A ( f ) ∈ A ( H ) ⊥ 라 하면 임의의 A ( e ) ∈ A ( E ) A(e)\in A(E) A ( e ) ∈ A ( E ) 에 대하여 0 = < A ( e ) , A ( f ) > = < e , f > 0=\left<A(e), A(f)\right>=\left<e, f\right> 0 = ⟨ A ( e ) , A ( f ) ⟩ = ⟨ e , f ⟩ 이므로 f = 0 f=0 f = 0 으로, A ( f ) = 0 A(f)=0 A ( f ) = 0 이다. 즉, A ( E ) ⊥ = { 0 } A(E)^\perp=\{0\} A ( E ) ⊥ = { 0 } 으로 A ( E ) A(E) A ( E ) 는 K K K 의 기저이고, 따라서 dim ⁡ H = dim ⁡ K \dim H=\dim K dim H = dim K 이다.
+
+( ⇐ ) (\Leftarrow) ( ⇐ ) 힐베르트 공간 H H H 에 대하여 E E E 를 H H H 의 기저라 하자. x ∈ H x\in H x ∈ H 에 대하여 x ^ : E → K \widehat{x}:E\to\mathbb{K} x : E → K 를 x ^ ( e ) = < x , e > \widehat{x}(e)=\left<x,e\right> x ( e ) = ⟨ x , e ⟩ 로 정의한다. ∥ x ∥ 2 = ∑ e ∈ E < x , e > 2 \|x\|^2=\sum_{e\in E}\left<x,e\right>^2 ∥ x ∥ 2 = ∑ e ∈ E ​ ⟨ x , e ⟩ 2 (Persival's identity)에서 ∣ x ^ ( e ) ∣ ≤ ∥ x ∥|\widehat{x}(e)|\le \|x\| ∣ x ( e ) ∣ ≤ ∥ x ∥ 이므로 x ^ ∈ l 2 ( E ) \widehat{x}\in l^2(E) x ∈ l 2 ( E ) 와
+∥ x ^ ∥ l 2 ( E ) = ∑ e ∈ E ∣ x ^ ( e ) ∣ 2 = ∥ x ∥ \displaystyle\|\widehat{x}\|_{l^2(E)}=\sqrt{\sum_{e\in E}|\widehat{x}(e)|^2}=\|x\| ∥ x ∥ l 2 ( E ) ​ = e ∈ E ∑ ​ ∣ x ( e ) ∣ 2 ​ = ∥ x ∥ 가 성립한다. 따라서 사상 U : H → l 2 ( E ) U:H\to l^2(E) U : H → l 2 ( E ) 를 U ( x ) = x ^ U(x)=\widehat{x} U ( x ) = x 로 정의하면 U U U 는 선형 등거리 사상이다. E E E 의 모든 유한 부분집합족을 F \mathcal{F} F 라 하자. 임의의 f ∈ l 2 ( E ) f\in l^2(E) f ∈ l 2 ( E ) 에 대하여 x F = ∑ e k ∈ F ∈ F f ( e k ) e k x_F=\sum_{e_k\in F\in \mathcal{F}}f(e_k)e_k x F ​ = ∑ e k ​ ∈ F ∈ F ​ f ( e k ​ ) e k ​ 라 하면 각 e k ∈ F e_k\in F e k ​ ∈ F 에 대하여 x ^ F ( e k ) = f ( e k ) \widehat{x}_F(e_k)=f(e_k) x F ​ ( e k ​ ) = f ( e k ​ ) 이므로
+∑ e k ∈ F ∈ F ∣ x ^ F ( e k ) ∣ 2 = ∑ e k ∈ F ∈ F ∣ f ( e k ) ∣ 2 \displaystyle\sum_{e_k\in F\in\mathcal{F}}|\widehat{x}_F(e_k)|^2=\sum_{e_k\in F\in\mathcal{F}}|f(e_k)|^2 e k ​ ∈ F ∈ F ∑ ​ ∣ x F ​ ( e k ​ ) ∣ 2 = e k ​ ∈ F ∈ F ∑ ​ ∣ f ( e k ​ ) ∣ 2 이며, 그물 ∑ e k ∈ F ∈ F ∣ x ^ F ( e k ) ∣ 2 \sum_{e_k\in F\in\mathcal{F}}|\widehat{x}_F(e_k)|^2 ∑ e k ​ ∈ F ∈ F ​ ∣ x F ​ ( e k ​ ) ∣ 2 는 ∥ f ∥ l 2 ( E ) 2 \|f\|_{l^2(E)}^2 ∥ f ∥ l 2 ( E ) 2 ​ 으로 수렴한다. 따라서 U ( H ) U(H) U ( H ) 는 l 2 ( E ) l^2(E) l 2 ( E ) 의 조밀한 집합이다. 또한 U U U 는 등거리 사상이므로 내적을 보존하고, 내적은 극한을 보존하므로 U ( H ) U(H) U ( H ) 는 닫힌 집합이다. 즉, U ( H ) = l 2 ( E ) U(H)=l^2(E) U ( H ) = l 2 ( E ) 이다. 힐베르트 공간 K K K 의 기저가 F F F 이고 dim ⁡ H = dim ⁡ K \dim H=\dim K dim H = dim K 이면 card ⁡ H = card ⁡ K \operatorname{card} H=\operatorname{card} K card H = card K 이다. 따라서 일대일 대응 φ : F → E \varphi:F\to E φ : F → E 가 존재하고, U : l 2 ( E ) → l 2 ( F ) U:l^2(E)\to l^2(F) U : l 2 ( E ) → l 2 ( F ) 를 U ( f ) = f ∘ φ − 1 U(f)=f\circ\varphi^{-1} U ( f ) = f ∘ φ − 1 라 하면 U U U 는
+∥ U ( f ) ∥ l 2 ( F ) 2 = ∑ f ∈ F ∣ f ( φ − 1 ( f ) ) ∣ 2 = ∑ e ∈ E ∣ f ( e ) ∣ 2 = ∥ f ∥ l 2 ( E ) 2 \displaystyle\|U(f)\|_{l^2(F)}^2=\sum_{f\in F}|f(\varphi^{-1}(f))|^2=\sum_{e\in E}|f(e)|^2=\|f\|_{l^2(E)}^2 ∥ U ( f ) ∥ l 2 ( F ) 2 ​ = f ∈ F ∑ ​ ∣ f ( φ − 1 ( f )) ∣ 2 = e ∈ E ∑ ​ ∣ f ( e ) ∣ 2 = ∥ f ∥ l 2 ( E ) 2 ​ 이므로 등거리 사상이다. 또한 각 g ∈ l 2 ( F ) g\in l^2(F) g ∈ l 2 ( F ) 에 대하여 f = g ∘ φ ∈ l 2 ( E ) f=g\circ\varphi\in l^2(E) f = g ∘ φ ∈ l 2 ( E ) 가 존재하므로 U U U 는 동형사상이다. 따라서 차원이 같은 힐베르트 공간은 서로 동형이다.
+
+4.3.3. 컴팩트 집합 의 조건 [편집]
+거리공간 의 컴팩트성은 점렬 컴팩트성과 동치이다. 즉, 거리공간 X X X 의 부분집합 K K K 가 컴팩트일 필요충분조건은 K K K 의 임의의 점렬 { x n } n = 1 ∞ \{x_n\}_{n=1}^\infty { x n ​ } n = 1 ∞ ​ 이 K K K 의 한 점으로 수렴하는 부분점렬 { x n k } k = 1 ∞ \{x_{n_k}\}_{k=1}^\infty { x n k ​ ​ } k = 1 ∞ ​ 를 갖는 것이다. 이에 따라 거리공간의 컴팩트 집합은 닫힌 유계집합이며, 유한차원 내적공간의 경우 하이네-보렐 정리 에 의해 그 역 또한 참이다.
+
+그러나 무한차원 내적 공간에서는 닫힌 유계 조건만으로 컴팩트성을 보장할 수 없다. 예를 들어, 무한차원 힐베르트 공간 H H H 의 단위구 { x ∈ H : ∥ x ∥ H ≤ 1 } \{x\in H:\|x\|_H\le1\} { x ∈ H : ∥ x ∥ H ​ ≤ 1 } 는 유계 닫힌 집합이지만 정규직교기저의 유한 덮개가 존재하지 않아 컴팩트 집합이 아니다. [1]
+
+상술한 바와 같이 무한차원 힐베르트 공간에서 하이네-보렐 정리는 성립하지 않으나, 유한차원 근사 조건을 추가하여 컴팩트성의 동치 명제를 얻을 수 있다. 이는 힐베르트 공간에서 수렴하는 점렬의 다음 성질을 이용한 것이다. 힐베르트 공간 H H H 의 점렬 { x n } n = 1 ∞ \{x_n\}_{n=1}^\infty { x n ​ } n = 1 ∞ ​ 가 x x x 로 수렴하면 임의의 정규직교점렬 { e k } k = 1 ∞ \{e_k\}_{k=1}^\infty { e k ​ } k = 1 ∞ ​ 에 대하여 임의의 ϵ > 0 \epsilon>0 ϵ > 0 이 주어졌을 때 다음을 만족시키는 자연수 N N N 이 존재한다.
+∑ k = N + 1 ∞ ∣ < x n , e k > ∣ 2 < ϵ 2 ∀ n \displaystyle\sum_{k=N+1}^\infty|\left<x_n,e_k\right>|^2 <\epsilon^2\quad \forall n k = N + 1 ∑ ∞ ​ ∣ ⟨ x n ​ , e k ​ ⟩ ∣ 2 < ϵ 2 ∀ n 이는 분리가능 힐베르트 공간, 즉 가산 기저를 갖는 힐베르트 공간의 경우 x x x 로 수렴하는 푸리에-베셀 급수열이 균등수렴함을 의미한다. 이 성질은 분리 가능 힐베르트 공간에서 컴팩트성의 필요조건 또한 구성한다. 분리가능 힐베르트 공간 H H H 의 부분집합 K K K 가 컴팩트일 필요충분조건은 K K K 가 유계 닫힌집합이며, H H H 의 임의의 기저에 대한 푸리에-베셀 급수열이 균등수렴하는 것이다.
+
+위 조건은 비가산 차원의 힐베르트 공간으로 일반화 가능하다. 힐베르트 공간 H H H 의 부분집합 K K K 가 컴팩트일 필요충분조건은 K K K 가 유계 닫힌집합이며, 임의의 ϵ > 0 \epsilon>0 ϵ > 0 에 대하여 다음을 만족시키는 유한차원 부분공간 W ⊂ H W\subset H W ⊂ H 가 존재하는 것이다.
+sup ⁡ x ∈ K inf ⁡ w ∈ W ∥ x − w ∥ H < ϵ \displaystyle\sup_{x\in K}\inf_{w\in W}\|x-w\|_H <\epsilon\quad x ∈ K sup ​ w ∈ W in f ​ ∥ x − w ∥ H ​ < ϵ 이는 K K K 의 임의의 점과 유한차원 부분공간 W W W 사이의 거리가 충분히 작음을 의미한다.
+
+4.4. 연속 쌍대공간 의 성질 [편집]
+
+4.4.1. 리즈 표현 정리 [편집]
+유한차원 K \mathbb{K} K -내적공간 V V V 의 선형범함수 L : V → K L:V\to\mathbb{K} L : V → K 는 어떤 벡터 w 0 ∈ V w_0\in V w 0 ​ ∈ V 에 대하여 L ( v ) = < v , w 0 > L(v)=\left<v,w_0\right> L ( v ) = ⟨ v , w 0 ​ ⟩ 로 유일하게 표현된다. 일반적인 힐베르트 공간에서도 이와 같은 성질이 성립한다. 힐베르트 공간의 리즈 표현 정리 (Riesz representation thm. on Hilbert space) K \mathbb{K} K -힐베르트 공간 H H H 의 유계 선형범함수 L : H → K L:H\to\mathbb{K} L : H → K 에 대하여 다음을 만족시키는 유일한 벡터 x 0 ∈ H x_0\in H x 0 ​ ∈ H 가 존재한다.
+L ( x ) = < x , x 0 > ∀ x ∈ H L(x)=\left<x,x_0\right>\quad\forall x\in H L ( x ) = ⟨ x , x 0 ​ ⟩ ∀ x ∈ H 또한, ∥ L ∥ = ∥ x 0 ∥ \|L\|=\|x_0\| ∥ L ∥ = ∥ x 0 ​ ∥ 가 성립한다.
+
+증명
+M = ker ⁡ L M=\ker L M = ker L 이라 하자. L L L 은 유계이므로 연속이고, 따라서 M M M 은 H H H 의 부분공간이다. M = H M=H M = H 인 경우 임의의 x ∈ H x\in H x ∈ H 에 대하여 L ( x ) = 0 L(x)=0 L ( x ) = 0 이므로 L ( x ) = < x , 0 > L(x)=\left<x,0\right> L ( x ) = ⟨ x , 0 ⟩ 이다. M ⊊ H M\subsetneq H M ⊊ H 인 경우, M ⊥ M^\perp M ⊥ 는 영이 아닌 벡터 y 0 y_0 y 0 ​ 를 포함한다. α = L ( y 0 ) \alpha=L(y_0) α = L ( y 0 ​ ) 에 대하여 α − 1 y 0 ∈ M − 1 , L ( α − 1 y 0 ) = 1 \alpha^{-1}y_0\in M^{-1}, L(\alpha^{-1}y_0)=1 α − 1 y 0 ​ ∈ M − 1 , L ( α − 1 y 0 ​ ) = 1 이므로 L ( y 0 ) = 1 L(y_0)=1 L ( y 0 ​ ) = 1 이라 가정할 수 있다. x ∈ H x\in H x ∈ H 에 대하여 L ( x − L ( x ) y 0 ) = L ( x ) − L ( x ) L ( y 0 ) = 0 L(x-L(x)y_0)=L(x)-L(x)L(y_0)=0 L ( x − L ( x ) y 0 ​ ) = L ( x ) − L ( x ) L ( y 0 ​ ) = 0 이므로 x − L ( x ) y 0 ∈ M x-L(x)y_0\in M x − L ( x ) y 0 ​ ∈ M 이다. 따라서 x 0 = ∥ y 0 ∥ − 2 y 0 x_0=\|y_0\|^{-2}y_0 x 0 ​ = ∥ y 0 ​ ∥ − 2 y 0 ​ 라 하면 임의의 x ∈ H x\in H x ∈ H 대하여
+0 = < x − L ( x ) y 0 , y 0 > = < x , y 0 > − L ( x ) ∥ y 0 ∥ 2 \begin{aligned} 0&=\left<x-L(x) y_0, y_0\right>\\ &=\left<x,y_0\right>-L(x)\|y_0\|^2 \end{aligned} 0 ​ = ⟨ x − L ( x ) y 0 ​ , y 0 ​ ⟩ = ⟨ x , y 0 ​ ⟩ − L ( x ) ∥ y 0 ​ ∥ 2 ​ 에서 L ( x ) = < x , x 0 > L(x)=\left<x,x_0\right> L ( x ) = ⟨ x , x 0 ​ ⟩ 를 얻는다. x 0 ′ x_0^\prime x 0 ′ ​ 이 L ( x ) = < x , x 0 ′ > L(x)=\left<x, x_0^\prime\right> L ( x ) = ⟨ x , x 0 ′ ​ ⟩ 을 만족시킨다 가정하면 임의의 x ∈ H x\in H x ∈ H 에 대하여 < x , x 0 − x 0 ′ > = 0 \left<x, x_0-x_0^\prime\right>=0 ⟨ x , x 0 ​ − x 0 ′ ​ ⟩ = 0 이므로 x 0 − x 0 ′ ⊥ H x_0-x_0^\prime\perp H x 0 ​ − x 0 ′ ​ ⊥ H 이다. 따라서 < x 0 − x 0 ′ , x 0 − x 0 ′ > = 0 \left<x_0-x_0^\prime,x_0-x_0^\prime\right>=0 ⟨ x 0 ​ − x 0 ′ ​ , x 0 ​ − x 0 ′ ​ ⟩ = 0 으로, x 0 = x 0 ′ x_0=x_0^\prime x 0 ​ = x 0 ′ ​ 이다. 코시-슈바르츠 부등식에 의해 ∣ L ( x ) ∣ = ∣ < x , x 0 > ∣ ≤ ∥ x ∥ ∥ x 0 ∥|L(x)|=|\left<x, x_0\right>|\le\|x\|\|x_0\| ∣ L ( x ) ∣ = ∣ ⟨ x , x 0 ​ ⟩ ∣ ≤ ∥ x ∥∥ x 0 ​ ∥ 이므로 ∥ L ∥ ≤ ∥ x 0 ∥ \|L\|\le \|x_0\| ∥ L ∥ ≤ ∥ x 0 ​ ∥ 이고, L ( x 0 / ∥ x 0 ∥ ) = ∥ x 0 ∥ L(x_0/\|x_0\|)=\|x_0\| L ( x 0 ​ /∥ x 0 ​ ∥ ) = ∥ x 0 ​ ∥ 이므로 ∥ L ∥ = ∥ x 0 ∥ \|L\|=\|x_0\| ∥ L ∥ = ∥ x 0 ​ ∥ 이다.
+
+4.4.2. 자기 쌍대성 [편집]
+힐베르트 공간 H H H 의 노름공간 H ∗ H^* H ∗ 에 대하여 유계 선형범함수 L ∈ H ∗ L\in H^* L ∈ H ∗ 을 그 리즈 표현 정리에 의한 벡터 x x x 로 대응시키는 사상을 U U U 라 하면 U U U 는 H ∗ H^* H ∗ 와 H H H 사이의 동형사상이다. 즉, 힐베르트 공간의 연속 쌍대공간은 자기 자신이다. 그러나 그 역은 성립하지 않는다.
+
+5. 작용소 [편집]
+
+5.1. 기본 성질 [편집]
+
+5.1.1. 유계 작용소 C*-대수 [편집]
+일반적인 노름 공간 의 연속 선형범함수와 마찬가지로, 두 K \mathbb{K} K -힐베르트 공간 H , K H, K H , K 사이의 선형변환 A : H → K A:H\to K A : H → K 에 대하여 다음은 동치이다. - A A A 는 연속이다.
+- A A A 는 0 0 0 에서 연속이다.
+- 임의의 x ∈ H x\in H x ∈ H 에 대하여 ∥ A x ∥ K ≤ C ∥ x ∥ H \|Ax\|_K\ \le C\|x\|_H ∥ A x ∥ K ​ ≤ C ∥ x ∥ H ​ 를 만족시키는 상수 C > 0 C>0 C > 0 가 존재한다.
+
+또한 A A A 의 작용소 노름도 같은 방식으로 정의한다.
+∥ A ∥ = sup ⁡ { ∥ A x ∥ K : ∥ x ∥ H = 1 } = sup ⁡ { ∥ A x ∥ K : ∥ x ∥ H ≤ 1 } = sup ⁡ { ∥ A x ∥ K / ∥ x ∥ H : x ≠ 0 } = inf ⁡ { C > 0 : ∥ A x ∥ K ≤ C ∥ x ∥ H } \begin{aligned}\|A\|&=\sup\{\|Ax\|_K:\|x\|_H=1\}\\ &=\sup\{\|Ax\|_K:\|x\|_H\le 1\}\\ &=\sup\{\|Ax\|_K/\|x\|_H:x \ne0\}\\ &=\inf\{C>0:\|Ax\|_K\ \le C\|x\|_H\} \end{aligned} ∥ A ∥ ​ = sup { ∥ A x ∥ K ​ : ∥ x ∥ H ​ = 1 } = sup { ∥ A x ∥ K ​ : ∥ x ∥ H ​ ≤ 1 } = sup { ∥ A x ∥ K ​ /∥ x ∥ H ​ : x  = 0 } = in f { C > 0 : ∥ A x ∥ K ​ ≤ C ∥ x ∥ H ​ } ​ H , K H, K H , K 사이의 유계 선형변환의 집합을 B ( H , K ) \mathcal{B}(H,K) B ( H , K ) 로 나타낸다. 특히, K = H K=H K = H 인 경우 B ( H ) \mathcal{B}(H) B ( H ) 로 표기한다. B ( H , K ) \mathcal{B}(H,K) B ( H , K ) 는 작용소의 합 및 스칼라 곱, 작용소의 합성 연산에 대한 K \mathbb{K} K -결합 대수 이며 동시에 작용소 노름에 대한 완비성을 갖춘 바나흐 공간 으로, 바나흐 대수 이다. 특히 바나흐 대수 B ( H , K ) \mathcal{B}(H,K) B ( H , K ) 는 후술할 작용소의 수반 연산으로 정의된 대합(involution)연산에 닫혀있어 C ∗ C^* C ∗ -대수 이다. 이때, H , K H, K H , K 가 모두 힐베르트 공간이더라도 B ( H , K ) \mathcal{B}(H,K) B ( H , K ) 가 힐베르트 공간임은 보장되지 않는다.
+
+부분공간 M ≤ H M\le H M ≤ H 에 대하여 H = M ⊕ M ⊥ H=M\oplus M^\perp H = M ⊕ M ⊥ 이므로 A ∈ B ( H ) A\in \mathcal{B}(H) A ∈ B ( H ) 는 다음과 같은 작용소 행렬 표현을 갖는다.
+A = [ W X Y Z ] A=\begin{bmatrix}W&X\\Y&Z\end{bmatrix} A = [ W Y ​ X Z ​ ] 여기서 W ∈ B ( M ) , X ∈ B ( M ⊥ , M ) , Y ∈ B ( M , M ⊥ ) , Z ∈ B ( M ⊥ ) W\in\mathcal{B}(M), X\in\mathcal{B}(M^\perp, M),Y\in\mathcal{B}(M, M^\perp), Z\in\mathcal{B}(M^\perp) W ∈ B ( M ) , X ∈ B ( M ⊥ , M ) , Y ∈ B ( M , M ⊥ ) , Z ∈ B ( M ⊥ ) 이다.
+
+5.1.2. 작용소의 핵과 상 [편집]
+작용소 A ∈ B ( H , K ) A\in \mathcal{B}(H, K) A ∈ B ( H , K ) 의 핵 (kernel) ker ⁡ A \ker A ker A 와 상 (range) ran ⁡ A \operatorname{ran} A ran A 는 각각 다음 집합을 의미한다.
+ker ⁡ A = { x ∈ H : A x = 0 } ran ⁡ A = { y ∈ K : y = A x for some x ∈ H } = A ( H ) \ker A=\{x\in H:Ax=0\}\\ \operatorname{ran}A=\{y\in K: y=Ax\text{ for some }x\in H\}=A(H) ker A = { x ∈ H : A x = 0 } ran A = { y ∈ K : y = A x for some x ∈ H } = A ( H ) 임의의 A ∈ B ( H , K ) A\in\mathcal{B}(H,K) A ∈ B ( H , K ) 에 대하여 ker ⁡ A \ker A ker A 는 H H H 의 부분공간이다. x , y ∈ ker ⁡ A , α ∈ K x, y\in \ker A, \alpha\in\mathbb{K} x , y ∈ ker A , α ∈ K 에 대하여
+A ( α x + y ) = α A x + A y = 0 A(\alpha x+y)=\alpha Ax+Ay=0 A ( α x + y ) = α A x + A y = 0 이므로 α x + y ∈ ker ⁡ A \alpha x+y \in \ker A α x + y ∈ ker A 으로 ker ⁡ A \ker A ker A 는 H H H 의 선형 다양체이고, x ∈ H x\in H x ∈ H 로 수렴하는 ker ⁡ A \ker A ker A 의 점렬 { x n } n = 1 ∞ \{x_n\}_{n=1}^\infty { x n ​ } n = 1 ∞ ​ 에 대하여
+A x = A ( lim ⁡ n → ∞ x n ) = lim ⁡ n → ∞ A x n = 0 \displaystyle Ax=A\left(\lim_{n\to\infty}x_n\right)=\lim_{n\to \infty}Ax_n=0 A x = A ( n → ∞ lim ​ x n ​ ) = n → ∞ lim ​ A x n ​ = 0 이므로 x ∈ ker ⁡ A x\in \ker A x ∈ ker A 으로 ker ⁡ A \ker A ker A 는 닫힌 부분공간이다.
+
+반면 작용소의 상은 부분공간임이 보장되지 않는다. l 2 l^2 l 2 의 벡터 a = ( 1 / n ) n = 1 ∞ a=(1/n)_{n=1}^\infty a = ( 1/ n ) n = 1 ∞ ​ 에 대하여 A : l 2 → l 2 A:l^2\to l^2 A : l 2 → l 2 를 A x = a x Ax=ax A x = a x 라 하면 A A A 는 선형사상이고 횔더 부등식 과 바젤 합 의해
+∥ A x ∥ l 2 = ∥ a x ∥ l 2 ≤ ∥ a ∥ l 2 ∥ x ∥ l 2 ≤ π 2 6 ∥ x ∥ l 2 \displaystyle\begin{aligned} \|A_x\|_{l^2}&=\|ax\|_{l^2}\\ &\le \|a\|_{l^2}\|x\|_{l^2}\\ &\le\frac{\pi^2}{6}\|x\|_{l^2} \end{aligned} ∥ A x ​ ∥ l 2 ​ ​ = ∥ a x ∥ l 2 ​ ≤ ∥ a ∥ l 2 ​ ∥ x ∥ l 2 ​ ≤ 6 π 2 ​ ∥ x ∥ l 2 ​ ​ 이므로 A ∈ B ( l 2 ) A\in \mathcal{B}(l^2) A ∈ B ( l 2 ) 이다. ran ⁡ A \operatorname{ran}A ran A 의 점렬 { y n } n = 1 ∞ \{y_n\}_{n=1}^\infty { y n ​ } n = 1 ∞ ​ 를
+y n = ( 1 , 1 2 , … , 1 n , 0 , 0 , … ) = A ( 1 , 1 , … , 1 , 0 , 0 , … ) \displaystyle\begin{aligned} y_n&=\left(1,\frac{1}{2},\ldots,\frac{1}{n},0,0,\ldots\right)\\ &=A(1,1,\ldots,1,0,0,\ldots)\end{aligned} y n ​ ​ = ( 1 , 2 1 ​ , … , n 1 ​ , 0 , 0 , … ) = A ( 1 , 1 , … , 1 , 0 , 0 , … ) ​ 로 정의하면 { y n } n = 1 ∞ \{y_n\}_{n=1}^\infty { y n ​ } n = 1 ∞ ​ 은 y = ( 1 / n ) n = 1 ∞ y=(1/n)_{n=1}^\infty y = ( 1/ n ) n = 1 ∞ ​ 로 수렴한다. 그러나 어떤 x ∈ l 2 x\in l^2 x ∈ l 2 에 대하여 y = a x y=ax y = a x 라 하면 x = ( 1 , 1 , … ) x=(1,1,\ldots) x = ( 1 , 1 , … ) 이고 이는 l 2 l^2 l 2 의 원소가 아니므로 모순이다. 따라서 y ∉ ran ⁡ A y\notin\operatorname{ran}A y ∈ / ran A 이다.
+
+작용소의 상이 닫힌 부분공간을 이룰 조건은 다음과 같다. 작용소 A ∈ B ( H , K ) A\in\mathcal{B}(H, K) A ∈ B ( H , K ) 에 대하여
+∥ A x ∥ K ≥ α ∥ x ∥ H ∀ x ∈ H \|Ax\|_K\ge\alpha\|x\|_H\quad\forall x\in H ∥ A x ∥ K ​ ≥ α ∥ x ∥ H ​ ∀ x ∈ H 를 만족시키는 α > 0 \alpha>0 α > 0 가 존재하면 ran ⁡ A \operatorname{ran} A ran A 는 K K K 의 닫힌집합이다. 증명
+ran ⁡ A \operatorname{ran} A ran A 의 작용소열 { y n } n = 1 ∞ \{y_n\}_{n=1}^\infty { y n ​ } n = 1 ∞ ​ 이 y ∈ K y\in K y ∈ K 로 수렴한다고 하자. 각 n ∈ N n\in\mathbb{N} n ∈ N 에 대하여 y n = A x n ( x n ∈ H ) y_n=Ax_n(x_n\in H) y n ​ = A x n ​ ( x n ​ ∈ H ) 라 하면 임의의 m , n ∈ N m, n\in\mathbb{N} m , n ∈ N 에 대하여여
+∥ y m − y n ∥ K = ∥ A ( x m − x n ) ∥ K ≥ α ∥ x m − x n ∥ H \|y_m-y_n\|_K=\|A(x_m-x_n)\|_K\ge\alpha\|x_m-x_n\|_H ∥ y m ​ − y n ​ ∥ K ​ = ∥ A ( x m ​ − x n ​ ) ∥ K ​ ≥ α ∥ x m ​ − x n ​ ∥ H ​ 이므로 H H H 의 점렬 { x n } n = 1 ∞ \{x_n\}_{n=1}^\infty { x n ​ } n = 1 ∞ ​ 은 코시열로, 극한 x ∈ H x\in H x ∈ H 를 갖는다. y = A x y=Ax y = A x 라 하면
+lim ⁡ n → ∞ y n = lim ⁡ n → ∞ A ( x n ) = A ( lim ⁡ n → ∞ x n ) = A x = y \displaystyle \lim_{n\to\infty}y_n=\lim_{n\to\infty}A(x_n)=A\left(\lim_{n\to\infty}x_n\right)=Ax=y n → ∞ lim ​ y n ​ = n → ∞ lim ​ A ( x n ​ ) = A ( n → ∞ lim ​ x n ​ ) = A x = y 이므로 y ∈ ran ⁡ A y\in\operatorname{ran} A y ∈ ran A 이다. 즉, ran ⁡ A \operatorname{ran}A ran A 는 닫힌집합이다.
+
+이 때, x ≠ 0 x\ne 0 x  = 0 이면 ∥ A x ∥ K > 0 \|Ax\|_K>0 ∥ A x ∥ K ​ > 0 이므로 x ∉ ker ⁡ A x\notin\ker A x ∈ / ker A 이다. 즉, ker ⁡ A = { 0 } \ker A=\{0\} ker A = { 0 } 으로 A A A 는 단사 이다.
+
+5.1.3. 작용소의 가역성 [편집]
+작용소 A ∈ B ( H , K ) A\in\mathcal{B}(H, K) A ∈ B ( H , K ) 와 항등작용소 I ∈ B ( H , K ) I\in\mathcal{B}(H, K) I ∈ B ( H , K ) 에 대하여 A S = S A = I AS=SA=I A S = S A = I 를 만족시키는 작용소 S ∈ B ( H , K ) S\in\mathcal{B}(H, K) S ∈ B ( H , K ) 가 존재하면 A A A 를 가역 (invertible)이라 한다. 이때 S S S 를 A A A 의 역원 (inverse)이라 하고 S = A − 1 S=A^{-1} S = A − 1 로 나타낸다.
+
+힐베르트 공간 H H H 의 조밀한 부분공간은 H H H 와 같으므로 작용소 A ∈ B ( H , K ) A\in\mathcal{B}(H, K) A ∈ B ( H , K ) 가 가역일 필요충분조건은 ran ⁡ A \operatorname{ran} A ran A 가 K K K 의 조밀한 부분집합이고,
+∥ A x ∥ K ≥ α ∥ x ∥ H ∀ x ∈ H \|Ax\|_K\ge \alpha\|x\|_H\quad\forall x\in H ∥ A x ∥ K ​ ≥ α ∥ x ∥ H ​ ∀ x ∈ H 를 만족시키는 α > 0 \alpha>0 α > 0 가 존재하는 것이다.
+
+작용소의 가역성은 등비급수와 유사한 성질을 갖는다. 작용소 A ∈ B ( H ) A\in\mathcal{B}(H) A ∈ B ( H ) 에 대하여 ∥ I − A ∥ < 1 \|I-A\|<1 ∥ I − A ∥ < 1 이면 A A A 는 가역이고
+∑ n = 0 ∞ ( I − A ) n = A − 1 \displaystyle \sum_{n=0}^\infty (I-A)^n=A^{-1} n = 0 ∑ ∞ ​ ( I − A ) n = A − 1 가 성립한다. 증명
+∥ I − A ∥ = c \|I-A\|=c ∥ I − A ∥ = c 라 하면 ∑ n = 0 ∞ ∥ I − A ∥ n = 1 / ( 1 − c ) \sum_{n=0}^\infty \|I-A\|^n=1/(1-c) ∑ n = 0 ∞ ​ ∥ I − A ∥ n = 1/ ( 1 − c ) 이다. 즉, ∑ n = 0 ∞ ( I − A ) n \sum_{n=0}^\infty (I-A)^n ∑ n = 0 ∞ ​ ( I − A ) n 은 절대수렴 급수이다. B ( H ) \mathcal{B}(H) B ( H ) 는 바나흐 공간이므로 ∑ n = 0 ∞ ( I − A ) n \sum_{n=0}^\infty (I-A)^n ∑ n = 0 ∞ ​ ( I − A ) n 는 S ∈ B ( H ) S\in\mathcal{B}(H) S ∈ B ( H ) 로 수렴한다. 이 때, ∥ ( I − A ) n ∥ → 0 \|(I-A)^n\|\to 0 ∥ ( I − A ) n ∥ → 0 이므로 ( I − A ) n → 0 (I-A)^n\to 0 ( I − A ) n → 0 이다. A A A 는 선형사상이므로 임의의 n ∈ N n\in\mathbb{N} n ∈ N 에 대하여
+A [ ∑ k = 0 n ( I − A ) k ] = ∑ k = 0 n A ( I − A ) k = [ ∑ k = 0 n ( I − A ) k ] A \displaystyle A\left[\sum_{k=0}^n(I-A)^k\right]=\sum_{k=0}^nA(I-A)^k=\left[\sum_{k=0}^n(I-A)^k\right]A A [ k = 0 ∑ n ​ ( I − A ) k ] = k = 0 ∑ n ​ A ( I − A ) k = [ k = 0 ∑ n ​ ( I − A ) k ] A 이다.
+∑ k = 0 n A ( I − A ) k = I − ( I − A ) n + 1 \displaystyle \sum_{k=0}^nA(I-A)^k=I-(I-A)^{n+1} k = 0 ∑ n ​ A ( I − A ) k = I − ( I − A ) n + 1 이고 A A A 는 연속이므로 A S = S A = I AS=SA=I A S = S A = I 이다. 즉, S = A − 1 S=A^{-1} S = A − 1 이다.
+
+위 성질을 이용하여 B ( H ) \mathcal{B}(H) B ( H ) 의 가역 작용소 집합이 B ( H ) \mathcal{B}(H) B ( H ) 의 열린집합임을 보일 수 있다. 증명
+A 0 ∈ B ( H ) A_0\in\mathcal{B}(H) A 0 ​ ∈ B ( H ) 가 가역이라고 하자. r = ∥ A 0 − 1 ∥ − 1 r=\|A_0^{-1}\|^{-1} r = ∥ A 0 − 1 ​ ∥ − 1 에 대하여 A ∈ B ( H ) A\in\mathcal{B}(H) A ∈ B ( H ) 가 ∥ A − A 0 ∥ < r \|A-A_0\|<r ∥ A − A 0 ​ ∥ < r 이면
+∥ A A 0 − 1 − I ∥ ≤ ∥ A − A 0 ∥ ∥ A 0 − 1 ∥ < 1 \|AA_0^{-1}-I\|\le\|A-A_0\|\|A_0^{-1}\|<1 ∥ A A 0 − 1 ​ − I ∥ ≤ ∥ A − A 0 ​ ∥∥ A 0 − 1 ​ ∥ < 1 이므로 A A 0 − 1 AA_0^{-1} A A 0 − 1 ​ 은 가역이다. 즉, A A A 는 가역이다.
+
+5.2. 수반 작용소 [편집]
+수반 작용소 는 복소수체에서 켤레 복소수의 정의 및 성질과 유사한 개념이다. 두 힐베르트 공간 H , K H, K H , K 사이의 유계 선형변환 공간 B ( H , K ) \mathcal{B}(H, K) B ( H , K ) 의 작용소 A A A 에 대하여 A A A 의 수반 작용소 (adjoint operator) [2] 는 임의의 x ∈ H , y ∈ K x\in H, y\in K x ∈ H , y ∈ K 에 대하여 다음을 만족시키는 작용소 B ∈ B ( K , H ) B\in \mathcal{B}(K, H) B ∈ B ( K , H ) 이다.
+< A x , y > K = < x , B y > H \left<Ax, y\right>_K=\left<x, By\right>_H ⟨ A x , y ⟩ K ​ = ⟨ x , B y ⟩ H ​ A A A 의 수반 작용소 B B B 를 B = A ∗ B=A^* B = A ∗ 로 나타낸다. 수반 작용소의 존재성은 리즈 표현 정리에 의해 보장된다. 두 K \mathbb{K} K -힐베르트 공간 H , K H, K H , K 에 대하여 반쌍선형 형식 u : H × K → K u:H\times K\to \mathbb{K} u : H × K → K 가
+M = sup ⁡ { ∣ u ( x , y ) ∣ : ∥ x ∥ H = ∥ y ∥ K = 1 } < ∞ M=\sup\{|u(x,y)|:\|x\|_H=\|y\|_K=1\}<\infty M = sup { ∣ u ( x , y ) ∣ : ∥ x ∥ H ​ = ∥ y ∥ K ​ = 1 } < ∞ 에 의해 유계일 때, 다음을 만족시키는 작용소 A ∈ B ( H , K ) , B ∈ B ( K , H ) A\in \mathcal{B}(H, K), B\in \mathcal{B}(K, H) A ∈ B ( H , K ) , B ∈ B ( K , H ) 가 유일하게 존재한다.
+u ( x , y ) = < A x , y > K = < x , B y > H ∀ x ∈ H , y ∈ K u(x, y)=\left<Ax, y\right>_K=\left<x, By\right>_H\quad\forall x\in H, y\in K u ( x , y ) = ⟨ A x , y ⟩ K ​ = ⟨ x , B y ⟩ H ​ ∀ x ∈ H , y ∈ K 또한 ∥ A ∥ = ∥ B ∥ = M \|A\|=\|B\|=M ∥ A ∥ = ∥ B ∥ = M 이 성립한다. 증명
+각 x ∈ H x\in H x ∈ H 에 대하여 u x ( y ) = u ( x , y ) ‾ u_x(y)=\overline{u(x,y)} u x ​ ( y ) = u ( x , y ) ​ 라 하면 y 1 , y 2 ∈ K , α ∈ K y_1, y_2\in K, \alpha\in\mathbb{K} y 1 ​ , y 2 ​ ∈ K , α ∈ K 에 대하여
+u x ( y 1 + α y 2 ) = u ( x , y 1 + α y 2 ) ‾ = u ( x , y 1 ) + α ‾ u ( x , y 2 ) ‾ = u x ( y 1 ) + α u x ( y 2 ) \begin{aligned}u_x(y_1+\alpha y_2)&=\overline{u(x,y_1+\alpha y_2)}\\ &=\overline{u(x,y_1)+\overline{\alpha}u(x,y_2)}\\ &=u_x(y_1)+\alpha u_x(y_2) \end{aligned} u x ​ ( y 1 ​ + α y 2 ​ ) ​ = u ( x , y 1 ​ + α y 2 ​ ) ​ = u ( x , y 1 ​ ) + α u ( x , y 2 ​ ) ​ = u x ​ ( y 1 ​ ) + α u x ​ ( y 2 ​ ) ​ 이므로 u x : K → K u_x:K\to\mathbb{K} u x ​ : K → K 는 선형범함수이고 ∣ u x ( y ) ∣ ≤ M ∥ x ∥ H ∥ y ∥ K|u_x(y)|\le M\|x\|_H\|y\|_K ∣ u x ​ ( y ) ∣ ≤ M ∥ x ∥ H ​ ∥ y ∥ K ​ 에서 ∥ u x ∥ ≤ M ∥ x ∥ \| u_x\|\le M\|x\| ∥ u x ​ ∥ ≤ M ∥ x ∥ 가 성립한다. 따라서 리즈 표현 정리에 의해
+u x ( y ) = < y , z > K , ∥ z ∥ K = ∥ u x ∥ u_x(y)=\left<y, z\right>_K, \|z\|_K=\|u_x\| u x ​ ( y ) = ⟨ y , z ⟩ K ​ , ∥ z ∥ K ​ = ∥ u x ​ ∥ 를 만족시키는 유일한 벡터 z ∈ K {z\in K} z ∈ K 가 존재한다. 사상 A : H → K A:H\to K A : H → K 를 A x = z Ax=z A x = z 로 정의하자. x 1 , x 2 ∈ H , α ∈ K x_1, x_2\in H, \alpha\in \mathbb{K} x 1 ​ , x 2 ​ ∈ H , α ∈ K 에 대하여
+u x 1 + x 2 ( y ) = u ( x 1 + α x 2 , y ) ‾ = u ( x 1 , y ) ‾ + α u ( x 2 , y ) ‾ = u x 1 ( y ) + α u x 2 ( y ) = < y , A x 1 > K + α < y , A x 2 > K \begin{aligned}u_{x_1+x_2}(y)&=\overline{u(x_1+\alpha x_2,y)}\\ &=\overline{u(x_1,y)}+\alpha\overline{u(x_2,y)}\\ &=u_{x_1}(y)+\alpha u_{x_2}(y)\\ &=\left<y, Ax_1\right>_K+\alpha\left<y, Ax_2\right>_K\end{aligned} u x 1 ​ + x 2 ​ ​ ( y ) ​ = u ( x 1 ​ + α x 2 ​ , y ) ​ = u ( x 1 ​ , y ) ​ + α u ( x 2 ​ , y ) ​ = u x 1 ​ ​ ( y ) + α u x 2 ​ ​ ( y ) = ⟨ y , A x 1 ​ ⟩ K ​ + α ⟨ y , A x 2 ​ ⟩ K ​ ​ 이므로 A A A 는 선형사상이며
+∣ < y , A x > K ∣ = ∣ u x ( y ) ∣ ≤ ∥ u x ∥ ∥ y ∥ K = ∥ A x ∥ K ∥ y ∥ K ≤ M ∥ x ∥ H ∥ y ∥ K \begin{aligned} |\left<y,Ax\right>_K|&=|u_x(y)|\\ &\le\|u_x\|\|y\|_K\\ &=\|Ax\|_K\|y\|_K\\ &\le M\|x\|_H\|y\|_K\end{aligned} ∣ ⟨ y , A x ⟩ K ​ ∣ ​ = ∣ u x ​ ( y ) ∣ ≤ ∥ u x ​ ∥∥ y ∥ K ​ = ∥ A x ∥ K ​ ∥ y ∥ K ​ ≤ M ∥ x ∥ H ​ ∥ y ∥ K ​ ​ 에서 ∥ A ∥ ≤ M \|A\|\le M ∥ A ∥ ≤ M 이므로 A ∈ B ( H , K ) A\in\mathcal{B}(H,K) A ∈ B ( H , K ) 이다. 또한
+∣ u ( x , y ) ∣ = u x ( y ) ≤ ∥ A x ∥ K ∥ y ∥ K ≤ ∥ A ∥ ∥ x ∥ H ∥ y ∥ K \begin{aligned} |u(x,y)|&=u_x(y)\\ &\le \|Ax\|_K\|y\|_K\\ &\le \|A\|\|x\|_H\|y\|_K \end{aligned} ∣ u ( x , y ) ∣ ​ = u x ​ ( y ) ≤ ∥ A x ∥ K ​ ∥ y ∥ K ​ ≤ ∥ A ∥∥ x ∥ H ​ ∥ y ∥ K ​ ​ 에서 ∥ A ∥ ≥ M \|A\|\ge M ∥ A ∥ ≥ M 이므로 ∥ A ∥ = M \|A\|=M ∥ A ∥ = M 이다. B ∈ B ( K , H ) B\in\mathcal{B}(K, H) B ∈ B ( K , H ) 의 경우도 동일하게 증명한다.
+
+5.2.1. 수반 작용소의 성질 [편집]
+수반 작용소의 기본적인 성질은 다음과 같다. A , B ∈ B ( H ) A, B\in \mathcal{B}(H) A , B ∈ B ( H ) 와 α ∈ K \alpha\in\mathbb{}K α ∈ K 에 대하여 - ( α A + B ) ∗ = α ‾ A ∗ + B ∗ (\alpha A+B)^*=\overline{\alpha}A^* +B^* ( α A + B ) ∗ = α A ∗ + B ∗ ,
+- ( A B ) ∗ = B ∗ A ∗ (AB)^*=B^*A^* ( A B ) ∗ = B ∗ A ∗ ,
+- A ∗ ∗ : = ( A ∗ ) ∗ = A A^{**}:=(A^*)^*=A A ∗∗ := ( A ∗ ) ∗ = A ,
+- A A A 가 가역이면 A ∗ A^* A ∗ 도 가역이고 ( A ∗ ) − 1 = ( A − 1 ) ∗ (A^*)^{-1}=(A^{-1})^* ( A ∗ ) − 1 = ( A − 1 ) ∗ 이다.
+
+증명
+내적의 성질에 의해 임의의 x , y ∈ H x,y\in H x , y ∈ H 에 대하여 < A x , y > = < A ′ x , y > \left<Ax,y\right>=\left<A^\prime x,y\right> ⟨ A x , y ⟩ = ⟨ A ′ x , y ⟩ 이면 A = A ′ A=A^\prime A = A ′ 이다. - < x , ( α A + B ) ∗ ( y ) > = < ( α A + B ) x , y > = < x , α ‾ A ∗ y > + < x , B ∗ y > = < x , ( α ‾ A ∗ + B ∗ ) y > \left<x, (\alpha A+B)^*(y)\right>=\left<(\alpha A+B)x,y\right>=\left<x,\overline{\alpha}A^*y\right>+\left<x,B^*y\right>=\left<x,(\overline{\alpha}A^* +B^*)y\right> ⟨ x , ( α A + B ) ∗ ( y ) ⟩ = ⟨ ( α A + B ) x , y ⟩ = ⟨ x , α A ∗ y ⟩ + ⟨ x , B ∗ y ⟩ = ⟨ x , ( α A ∗ + B ∗ ) y ⟩
+- < x , ( A B ) ∗ ( y ) > = < A B x , y > = < B x , A ∗ y > = < x , B ∗ A ∗ y > \left<x,(AB)^*(y)\right>=\left<ABx,y\right>=\left<Bx,A^*y\right>=\left<x,B^*A^*y\right> ⟨ x , ( A B ) ∗ ( y ) ⟩ = ⟨ A B x , y ⟩ = ⟨ B x , A ∗ y ⟩ = ⟨ x , B ∗ A ∗ y ⟩
+- < A x , y > = < x , A ∗ y > = < ( A ∗ ) ∗ x , y > \left<Ax,y\right>=\left<x,A^*y\right>=\left<(A^*)^*x,y\right> ⟨ A x , y ⟩ = ⟨ x , A ∗ y ⟩ = ⟨ ( A ∗ ) ∗ x , y ⟩
+
+가 성립한다. 또한 b.에 의하여 ( A − 1 ) ∗ A ∗ = ( A A − 1 ) ∗ = I ∗ = I (A^{-1})^*A^*=(AA^{-1})^*=I^*=I ( A − 1 ) ∗ A ∗ = ( A A − 1 ) ∗ = I ∗ = I 이므로 ( A − 1 ) ∗ = ( A ∗ ) − 1 (A^{-1})^*=(A^*)^{-1} ( A − 1 ) ∗ = ( A ∗ ) − 1 이다.
+
+수반 작용소의 정의 및 성질에서 확인할 수 있는 켤레 복소수와의 유사성과 같이, 작용소 및 수반 작용소의 작용소 노름의 관계 또한 복소수와 그 켤레의 크기 사이의 관계와 유사하다. 작용소 A ∈ B ( H ) A\in \mathcal{B}(H) A ∈ B ( H ) 에 대하여 다음이 성립한다.
+∥ A ∥ = ∥ A ∗ ∥ = ∥ A ∗ A ∥ 1 / 2 \|A\|=\|A^*\|=\|A^*A\|^{1/2} ∥ A ∥ = ∥ A ∗ ∥ = ∥ A ∗ A ∥ 1/2 증명
+∥ x ∥ H ≤ 1 \|x\|_H\le 1 ∥ x ∥ H ​ ≤ 1 인 x ∈ H x\in H x ∈ H 에 대하여
+∥ A x ∥ H 2 = < A x , A x > = < A ∗ A x , A > ≤ ∥ A ∗ A x ∥ H ∥ x ∥ H \|Ax\|^2_H=\left<Ax,Ax\right>=\left<A^*Ax,A\right>\le \|A^*Ax\|_H\|x\|_H ∥ A x ∥ H 2 ​ = ⟨ A x , A x ⟩ = ⟨ A ∗ A x , A ⟩ ≤ ∥ A ∗ A x ∥ H ​ ∥ x ∥ H ​ 이다. 따라서
+∥ A ∥ 2 ≤ ∥ A ∗ A ∥ ≤ ∥ A ∗ ∥ ∥ A ∥ \|A\|^2\le \|A^*A\|\le\|A^*\|\|A\| ∥ A ∥ 2 ≤ ∥ A ∗ A ∥ ≤ ∥ A ∗ ∥∥ A ∥ 이다. 또한 A ∗ ∗ = A A^{**}=A A ∗∗ = A 이므로 부등식의 A A A 를 A ∗ A^* A ∗ 로 치환하면 ∥ A ∗ ∥ ≤ ∥ A ∥ \|A^*\|\le\|A\| ∥ A ∗ ∥ ≤ ∥ A ∥ 를 얻는다.
+
+힐베르트 공간에서 작용소와 그 수반 작용소의 핵과 상은 직교성과 관련된 성질을 갖는다. A ∈ B ( H , K ) A\in \mathcal{B}(H, K) A ∈ B ( H , K ) 에 대하여 다음이 성립한다. - ker ⁡ A = ( ran ⁡ A ∗ ) ⊥ , ker ⁡ A ∗ = ( ran ⁡ A ) ⊥ \ker A=(\operatorname{ran} A^*)^\perp,\ \ker A^*=(\operatorname{ran} A)^\perp ker A = ( ran A ∗ ) ⊥ , ker A ∗ = ( ran A ) ⊥
+- ran ⁡ A ‾ = ( ker ⁡ A ∗ ) ⊥ , ran ⁡ A ∗ ‾ = ( ker ⁡ A ) ⊥ \overline{\operatorname{ran}A}=(\ker A^*)^\perp,\ \overline{\operatorname{ran}A^*}=(\ker A)^\perp ran A = ( ker A ∗ ) ⊥ , ran A ∗ = ( ker A ) ⊥
+
+증명
+임의의 x ∈ ker ⁡ A x\in \ker A x ∈ ker A 와 w = A ∗ y ∈ ran ⁡ A ∗ w=A^*y\in \operatorname{ran} A^* w = A ∗ y ∈ ran A ∗ 에 대하여 < x , A ∗ y > = < A x , y > = 0 \left<x, A^*y\right>=\left<Ax, y\right>=0 ⟨ x , A ∗ y ⟩ = ⟨ A x , y ⟩ = 0 이므로 ker ⁡ A ⊆ ( ran ⁡ A ∗ ) ⊥ \ker A \subseteq (\operatorname{ran} A^*)^\perp ker A ⊆ ( ran A ∗ ) ⊥ 이다. 반대로 임의의 x ∈ ( ran ⁡ A ∗ ) ⊥ x\in(\operatorname{ran} A^*)^\perp x ∈ ( ran A ∗ ) ⊥ 와 w ∈ H w\in H w ∈ H 에 대하여 < A x , w > = < x , A ∗ w > = 0 \left<Ax,w\right>=\left<x,A^*w\right>=0 ⟨ A x , w ⟩ = ⟨ x , A ∗ w ⟩ = 0 이므로 A x = 0 Ax=0 A x = 0 이다. 즉, ker ⁡ A ⊇ ( ran ⁡ A ∗ ) ⊥ \ker A \supseteq (\operatorname{ran} A^*)^\perp ker A ⊇ ( ran A ∗ ) ⊥ 이다. 따라서 ker ⁡ A = ( ran ⁡ A ∗ ) ⊥ \ker A=(\operatorname{ran} A^*)^\perp ker A = ( ran A ∗ ) ⊥ 이다.
+
+ran ⁡ A ⊆ ( ran ⁡ A ) ⊥ ⊥ = ( ker ⁡ A ∗ ) ⊥ \operatorname{ran} A\subseteq (\operatorname{ran}A)^{\perp\perp}=(\ker A^*)^\perp ran A ⊆ ( ran A ) ⊥⊥ = ( ker A ∗ ) ⊥ 에서 ran ⁡ A ‾ ⊆ ( ker ⁡ A ∗ ) ⊥ \overline{\operatorname{ran} A}\subseteq(\ker A^*)^\perp ran A ⊆ ( ker A ∗ ) ⊥ 이다. 또한 ran ⁡ A ‾ = ran ⁡ A ‾ ⊥ ⊥ ⊇ ( ran ⁡ A ) ⊥ ⊥ = ( ker ⁡ A ∗ ) ⊥ \overline{\operatorname{ran} A}=\overline{\operatorname{ran} A}^{\perp\perp}\supseteq(\operatorname{ran} A)^{\perp\perp}=(\ker A^*)^\perp ran A = ran A ⊥⊥ ⊇ ( ran A ) ⊥⊥ = ( ker A ∗ ) ⊥ 이므로 ran ⁡ A ‾ = ( ker ⁡ A ∗ ) ⊥ \overline{\operatorname{ran}A}=(\ker A^*)^\perp ran A = ( ker A ∗ ) ⊥ 이다.
+
+A ∗ ∗ = A A^{**}=A A ∗∗ = A 에 의해 ker ⁡ A ∗ = ( ran ⁡ A ) ⊥ \ker A^*=(\operatorname{ran} A)^\perp ker A ∗ = ( ran A ) ⊥ , ran ⁡ A ∗ ‾ = ( ker ⁡ A ) ⊥ \overline{\operatorname{ran}A^*}=(\ker A)^\perp ran A ∗ = ( ker A ) ⊥ 이다.
+
+5.2.2. 에르미트 작용소 [편집]
+실수 x x x 에 대하여 x ‾ = x \overline{x}=x x = x 가 성립하는 것과 마찬가지로 A ∗ = A A^*=A A ∗ = A 를 만족시키는 작용소는 실수와 유사한 성질을 갖는다. 힐베르트 공간 H H H 의 작용소 A ∈ B ( H ) A\in \mathcal{B}(H) A ∈ B ( H ) 가 A ∗ = A A^*=A A ∗ = A 를 만족시키면 A A A 를 에르미트 작용소 (Hermitian) 또는 자기 수반 작용소 (self-adjoint)라고 한다. 임의의 작용소 A ∈ B ( H ) A\in\mathcal{B}(H) A ∈ B ( H ) 에 대하여
+B = A + A ∗ 2 , C = A − A ∗ 2 i \displaystyle B=\frac{A+A^*}{2},\quad C=\frac{A-A^*}{2i} B = 2 A + A ∗ ​ , C = 2 i A − A ∗ ​ [3] 라 하면 B , C B, C B , C 는 A = B + i C A=B+iC A = B + i C 를 유일하게 만족시키는 에르미트 작용소이다. 복소수와 유사하게 두 에르미트 작용소 B , C B, C B , C 를 각각 작용소 A A A 의 실부분 (real part)과 허부분 (imaginary part)이라고 한다. 일반적으로 작용소의 합성은 교환법칙이 성립하지 않으며, 이는 작용소와 그 수반 작용소의 합성에서도 마찬가지다. 예를 들어, l 2 l^2 l 2 공간의 우측 이동 작용소 S ( α 1 , α 2 , … ) = ( 0 , α 1 , α 2 , … ) S(\alpha_1,\alpha_2,\ldots)=(0,\alpha_1,\alpha_2,\ldots) S ( α 1 ​ , α 2 ​ , … ) = ( 0 , α 1 ​ , α 2 ​ , … ) 와 좌측 이동 작용소 A ( α 1 , α 2 , … ) = ( α 2 , α 3 , … ) A(\alpha_1, \alpha_2, \ldots)=(\alpha_2,\alpha_3,\ldots) A ( α 1 ​ , α 2 ​ , … ) = ( α 2 ​ , α 3 ​ , … ) 에 대하여
+< S α n , β n > = 0 ⋅ β 1 ‾ + α 1 β 2 ‾ + α 2 β 3 ‾ + … = < α n , A β n > \left<S\alpha_n,\beta_n\right>=0\cdot\overline{\beta_1}+\alpha_1\overline{\beta_2}+\alpha_2\overline{\beta_3}+\ldots=\left<\alpha_n, A\beta_n\right> ⟨ S α n ​ , β n ​ ⟩ = 0 ⋅ β 1 ​ ​ + α 1 ​ β 2 ​ ​ + α 2 ​ β 3 ​ ​ + … = ⟨ α n ​ , A β n ​ ⟩ 이므로 S ∗ = A S^*=A S ∗ = A 이고,
+A S ( α 1 , α 2 , … ) = A ( 0 , α 1 , … ) = ( α 1 , α 2 , … ) , S A ( α 1 , α 2 , … ) = A ( α 2 , α 3 … ) = ( 0 , α 2 , … ) AS(\alpha_1,\alpha_2,\ldots)=A(0,\alpha_1,\ldots)=(\alpha_1,\alpha_2,\ldots),\\ SA(\alpha_1,\alpha_2,\ldots)=A(\alpha_2,\alpha_3\ldots)=(0,\alpha_2,\ldots) A S ( α 1 ​ , α 2 ​ , … ) = A ( 0 , α 1 ​ , … ) = ( α 1 ​ , α 2 ​ , … ) , S A ( α 1 ​ , α 2 ​ , … ) = A ( α 2 ​ , α 3 ​ … ) = ( 0 , α 2 ​ , … ) 이므로 S S ∗ ≠ S ∗ S SS^*\ne S^*S S S ∗  = S ∗ S 이다. 이는 작용소 체계를 복소수와 유사하게 다루는 데에 제한이 된다. 따라서 A A ∗ = A ∗ A AA^*=A^*A A A ∗ = A ∗ A 를 만족시키는 작용소를 정규 작용소 (normal operator)로 정의한다. 특히 U U ∗ = U ∗ U = I UU^*=U^*U=I U U ∗ = U ∗ U = I 를 만족시키는 정규 작용소 U U U 를 유니터리 작용소 (unitary operator)라 한다. 정규 작용소는 복소수의, 유니터리 작용소는 단위 크기를 갖는 복소수의 일반화로 볼 수 있다.
+
+일반적으로 에르미트 작용소의 합성은 에르미트 작용소가 아니다. 두 에르미트 작용소 A , B A, B A , B 에 대하여 A B AB A B 가 에르미트 작용소일 필요충분조건은 A B = B A AB=BA A B = B A 인 것이다. 증명
+( ⇒ ) (\Rightarrow ) ( ⇒ ) A B AB A B 가 에르미트 작용소이므로 A B = ( A B ) ∗ = B ∗ A ∗ AB=(AB)^*=B^*A^* A B = ( A B ) ∗ = B ∗ A ∗ 이다. 또한 A , B A, B A , B 가 에르미트 작용소이므로 A B = A ∗ B ∗ AB=A^*B^* A B = A ∗ B ∗ 이다. 따라서 ( B A ) ∗ = A ∗ B ∗ = B ∗ A ∗ = ( A B ) ∗ (BA)^*=A^*B^*=B^*A^*=(AB)^* ( B A ) ∗ = A ∗ B ∗ = B ∗ A ∗ = ( A B ) ∗ 로, A B = B A AB=BA A B = B A 이다.
+( ⇐ ) (\Leftarrow) ( ⇐ ) A B = B A = B ∗ A ∗ = ( A B ) ∗ AB=BA=B^*A^*=(AB)^* A B = B A = B ∗ A ∗ = ( A B ) ∗ 이므로 A B AB A B 는 에르미트 작용소이다.
+
+내적을 이용하여 에르미트 작용소의 판단과 그 작용소 노름을 계산할 수 있다. C \mathbb{C} C -힐베르트 공간 H H H 의 작용소 A A A 가 에르미트 작용소일 필요충분조건은
+< A x , x > ∈ R ∀ x ∈ H \left<Ax, x\right>\in\mathbb{R}\quad\forall x\in H ⟨ A x , x ⟩ ∈ R ∀ x ∈ H 이다. 이때, R \mathbb{R} R -힐베르트 공간에서 내적은 항상 실숫값을 가지므로 위 판정법을 적용할 수 없다. 예를 들어, R 2 \mathbb{R^2} R 2 의 작용소 A = [ 0 1 − 1 0 ] A=\begin{bmatrix}0&1\\-1&0\end{bmatrix} A = [ 0 − 1 ​ 1 0 ​ ] 는 모든 ( x , y ) ∈ R 2 (x,y)\in\mathbb{R^2} ( x , y ) ∈ R 2 에 대하여 < A ( x , y ) , ( x , y ) > = < ( y , − x ) , ( x , y ) > = 0 \left<A(x,y), (x,y)\right>=\left<(y,-x),(x,y)\right>=0 ⟨ A ( x , y ) , ( x , y ) ⟩ = ⟨ ( y , − x ) , ( x , y ) ⟩ = 0 이지만 A ∗ = A T ≠ A A^*=A^T\ne A A ∗ = A T  = A 이므로 에르미트 작용소가 아니다. 증명
+( ⇒ ) (\Rightarrow) ( ⇒ ) C − \mathbb{C}- C − 힐베르트 공간 H H H 의 에르미트 작용소 A ∈ B ( H ) A\in \mathcal{B}(H) A ∈ B ( H ) 에 대하여 < A x , x > = < x , A x > = < A x , x > ‾ \left<Ax,x\right>=\left<x, Ax\right>=\overline{\left<Ax,x\right>} ⟨ A x , x ⟩ = ⟨ x , A x ⟩ = ⟨ A x , x ⟩ ​ 이므로 < A x , x > ∈ R \left<Ax, x\right>\in\mathbb{R} ⟨ A x , x ⟩ ∈ R 이다.
+
+( ⇐ ) (\Leftarrow) ( ⇐ ) 임의의 x ∈ H x\in H x ∈ H 에 대하여 작용소 A ∈ B ( H ) A\in\mathcal{B}(H) A ∈ B ( H ) 가 < A x , x > ∈ R \left<Ax,x\right>\in\mathbb{R} ⟨ A x , x ⟩ ∈ R 을 만족시킨다고 하자. 임의의 x , y ∈ H , α ∈ C x, y\in H, \alpha\in\mathbb{C} x , y ∈ H , α ∈ C 에 대하여
+< A ( x + α y ) , x + α y > = < A x , x > + α ‾ < A x , y > + α < A y , x > + ∣ α ∣ 2 < A y , y > ∈ R \left<A(x+\alpha y),x+\alpha y\right>=\left<Ax,x\right>+\overline{\alpha}\left<Ax, y\right>+\alpha\left<Ay,x\right>+|\alpha|^2\left<Ay,y\right>\in\mathbb{R} ⟨ A ( x + α y ) , x + α y ⟩ = ⟨ A x , x ⟩ + α ⟨ A x , y ⟩ + α ⟨ A y , x ⟩ + ∣ α ∣ 2 ⟨ A y , y ⟩ ∈ R 이고 < A x , x > , < A y , y > ∈ R \left<Ax,x\right>, \left<Ay,y\right>\in\mathbb{R} ⟨ A x , x ⟩ , ⟨ A y , y ⟩ ∈ R 이므로
+α ‾ < A x , y > + α < A y , x > = α ‾ < A x , y > + α < A y , x > ‾ \overline{\alpha}\left<Ax, y\right>+\alpha\left<Ay,x\right>=\overline{\overline{\alpha}\left<Ax, y\right>+\alpha\left<Ay,x\right>} α ⟨ A x , y ⟩ + α ⟨ A y , x ⟩ = α ⟨ A x , y ⟩ + α ⟨ A y , x ⟩ ​ 이다. 따라서
+α ‾ < A x , y > + α < A y , x > = α < A ∗ y , x > + α ‾ < A ∗ x , y > \overline{\alpha}\left<Ax, y\right>+\alpha\left<Ay,x\right>=\alpha\left<A^* y, x\right>+\overline{\alpha}\left<A^*x,y\right> α ⟨ A x , y ⟩ + α ⟨ A y , x ⟩ = α ⟨ A ∗ y , x ⟩ + α ⟨ A ∗ x , y ⟩ 이다. 위 등식에 α = 1 \alpha=1 α = 1 과 α = i \alpha=i α = i 를 차례로 대입하면
+< A x , y > + < A y , x > = < A ∗ x , y > + < A ∗ y , x > ⋯ ( 1 ) − i < A x , y > + i < A y , x > = i < A ∗ y , x > − i < A ∗ x , y > ⋯ ( 2 ) \left<Ax,y\right>+\left<Ay,x\right>=\left<A^*x,y\right>+\left<A^*y,x\right>\cdots(1)\\ -i\left<Ax,y\right>+i\left<Ay,x\right>=i\left<A^* y, x\right>-i\left<A^*x,y\right>\cdots(2) ⟨ A x , y ⟩ + ⟨ A y , x ⟩ = ⟨ A ∗ x , y ⟩ + ⟨ A ∗ y , x ⟩ ⋯ ( 1 ) − i ⟨ A x , y ⟩ + i ⟨ A y , x ⟩ = i ⟨ A ∗ y , x ⟩ − i ⟨ A ∗ x , y ⟩ ⋯ ( 2 ) 이고, 등식 ( 2 ) (2) ( 2 ) 의 양변에 i i i 를 곱하여 등식 ( 1 ) (1) ( 1 ) 의 각 변에 더하면 < A x , y > = < A ∗ x , y > \left<Ax,y\right>=\left<A^*x,y\right> ⟨ A x , y ⟩ = ⟨ A ∗ x , y ⟩ 를 얻는다.
+
+또한 에르미트 작용소 A ∈ H A\in H A ∈ H 에 대하여
+∥ A ∥ = sup ⁡ { ∣ < A x , x > ∣ : ∥ x ∥ H = 1 } \|A\|=\sup\{|\left<Ax,x\right>|:\|x\|_H=1\} ∥ A ∥ = sup { ∣ ⟨ A x , x ⟩ ∣ : ∥ x ∥ H ​ = 1 } 이다. 이를 통해 에르미트 작용소 A A A 가 모든 x ∈ H x\in H x ∈ H 에 대하여 < A x , x > = 0 \left<Ax,x\right>=0 ⟨ A x , x ⟩ = 0 을 만족시키면 A = 0 A=0 A = 0 임을 밝힐 수 있다. 이 명제는 실수체 위의 힐베르트 공간에서 에르미트 조건을 생략할 수 없지만, 복소수체 위의 힐베르트 공간에서는 에르미트 조건 없이 성립한다. 증명
+M = sup ⁡ { ∣ < A x , x > ∣ : ∥ x ∥ H = 1 } M=\sup\{|\left<Ax,x\right>|:\|x\|_H=1\} M = sup { ∣ ⟨ A x , x ⟩ ∣ : ∥ x ∥ H ​ = 1 } 라 하자. 코시-슈바르츠 부등식에 의해 ∣ < A x , x > ∣ ≤ ∥ A x ∥ H ∥ x ∥ H ≤ ∥ A ∥ ∥ x ∥ H 2|\left<Ax,x\right>|\le\|Ax\|_H \|x\|_H \le \| A \|\|x\|^2_H ∣ ⟨ A x , x ⟩ ∣ ≤ ∥ A x ∥ H ​ ∥ x ∥ H ​ ≤ ∥ A ∥∥ x ∥ H 2 ​ 이므로 ∥ x ∥ H = 1 \|x\|_H=1 ∥ x ∥ H ​ = 1 이면 M ≤ ∥ A ∥ M\le\|A\| M ≤ ∥ A ∥ 이다. ∥ x ∥ H = ∥ y ∥ H = 1 \|x\|_H=\|y\|_H=1 ∥ x ∥ H ​ = ∥ y ∥ H ​ = 1 인 경우
+< A ( x ± y ) , x ± y > = < A x , x > ± < A x , y > ± < A y , x > + < A y , y > \left<A(x\pm y), x\pm y\right>=\left<Ax,x\right>\pm\left<Ax,y\right>\pm\left<Ay,x\right>+\left<Ay,y\right> ⟨ A ( x ± y ) , x ± y ⟩ = ⟨ A x , x ⟩ ± ⟨ A x , y ⟩ ± ⟨ A y , x ⟩ + ⟨ A y , y ⟩ 이고 < A x , y > = < x , A ∗ y > = < x , A y > \left<Ax,y\right>=\left<x,A^*y\right>=\left<x,Ay\right> ⟨ A x , y ⟩ = ⟨ x , A ∗ y ⟩ = ⟨ x , A y ⟩ 에서
+< A ( x ± y ) , x ± y > = < A x , x > ± 2 Re ⁡ < A x , y > + < A y , y > \left<A(x\pm y), x\pm y\right>=\left<Ax,x\right>\pm2\operatorname{Re}\left<Ax,y\right>+\left<Ay,y\right> ⟨ A ( x ± y ) , x ± y ⟩ = ⟨ A x , x ⟩ ± 2 Re ⟨ A x , y ⟩ + ⟨ A y , y ⟩ 이다. 따라서
+4 Re ⁡ < A x , y > = < A ( x + y ) , x + y > − < A ( x − y ) , x − y > 4\operatorname{Re}\left<Ax,y\right>=\left<A(x+y),x+y\right>-\left<A(x-y),x-y\right> 4 Re ⟨ A x , y ⟩ = ⟨ A ( x + y ) , x + y ⟩ − ⟨ A ( x − y ) , x − y ⟩ 이다. 임의의 z ∈ H z\in H z ∈ H 에 대하여 u = z / ∥ z ∥ H u=z/\|z\|_H u = z /∥ z ∥ H ​ 라 하면 < A u , u > ≤ M \left<Au,u\right>\le M ⟨ A u , u ⟩ ≤ M 에서 < A z , z > ≤ M ∥ z ∥ H 2 \left<Az ,z\right>\le M\|z\|_H^2 ⟨ A z , z ⟩ ≤ M ∥ z ∥ H 2 ​ 이므로 평행사변형 법칙에 의해
+4 Re ⁡ < A x , y > ≤ M ( ∥ x + y ∥ H 2 + ∥ x − y ∥ H 2 ) = 2 M ( ∥ x ∥ H 2 + ∥ y ∥ H 2 ) = 4 M \begin{aligned}4\operatorname{Re}\left<Ax,y\right>&\le M(\|x+y\|^2_H+\|x-y\|^2_H)\\ &=2M(\|x\|^2_H+\|y\|^2_H)\\ &=4M\end{aligned} 4 Re ⟨ A x , y ⟩ ​ ≤ M ( ∥ x + y ∥ H 2 ​ + ∥ x − y ∥ H 2 ​ ) = 2 M ( ∥ x ∥ H 2 ​ + ∥ y ∥ H 2 ​ ) = 4 M ​ 이다. < A x , y > = e i θ ∣ < A x , y > ∣ \left<Ax, y\right>=e^{i\theta}|\left<Ax,y\right>| ⟨ A x , y ⟩ = e i θ ∣ ⟨ A x , y ⟩ ∣ 라 하고 위 부등식에서 x = e − i θ x x=e^{-i\theta}x x = e − i θ x 로 놓으면 임의의 ∥ x ∥ H = ∥ y ∥ H = 1 \|x\|_H=\|y\|_H=1 ∥ x ∥ H ​ = ∥ y ∥ H ​ = 1 인 x , y ∈ H x, y\in H x , y ∈ H 에 대하여 ∣ < A x , y > ∣ ≤ M|\left<Ax,y\right>|\le M ∣ ⟨ A x , y ⟩ ∣ ≤ M 을 얻는다. 따라서 ∥ x ∥ H = 1 \|x\|_H=1 ∥ x ∥ H ​ = 1 일 때
+∥ A x ∥ H = ∣ < A x , A x ∥ A x ∥ H > ∣ ≤ sup ⁡ ∥ y ∥ H = 1 ∣ < A x , y > ∣ ≤ M \displaystyle\|Ax\|_H=\left|\left<Ax,\frac{Ax}{\|Ax\|_H}\right>\right|\le \sup_{\|y\|_H=1}|\left<Ax, y\right>|\le M ∥ A x ∥ H ​ = ​ ⟨ A x , ∥ A x ∥ H ​ A x ​ ⟩ ​ ≤ ∥ y ∥ H ​ = 1 sup ​ ∣ ⟨ A x , y ⟩ ∣ ≤ M 이므로 ∥ A ∥ ≤ M \|A\|\le M ∥ A ∥ ≤ M 이다. 즉, ∥ A ∥ = M \|A\|=M ∥ A ∥ = M 이다.
+
+에르미트 작용소 A ∈ B ( H ) A\in \mathcal{B}(H) A ∈ B ( H ) 가 임의의 x ∈ H x\in H x ∈ H 에 대하여 < A x , x > = 0 \left<Ax ,x\right>=0 ⟨ A x , x ⟩ = 0 을 만족시키면 A A A 의 작용소 노름이 ∥ A ∥ = 0 \|A\|=0 ∥ A ∥ = 0 이므로 노름의 성질에 의해 A = 0 A=0 A = 0 이다. H H H 가 C \mathbb{C} C -힐베르트 공간이면 임의의 x , y ∈ H x,y\in H x , y ∈ H 및 α ∈ C \alpha\in \mathbb{C} α ∈ C 에 대하여
+< A ( x + α y ) , x + α y > = α ‾ < A x , y > + α < A y , x > = 0 \left<A(x+\alpha y),x+\alpha y\right>=\overline{\alpha}\left<Ax, y\right>+\alpha\left<Ay, x\right>=0 ⟨ A ( x + α y ) , x + α y ⟩ = α ⟨ A x , y ⟩ + α ⟨ A y , x ⟩ = 0 이다. 위 등식에서 α = 1 , α = i \alpha=1, \alpha=i α = 1 , α = i 를 각각 대입하면
+< A x , y > + < A y , x > = 0 − < A x , y > + < A y , x > = 0 \begin{aligned}\left<Ax, y\right>+\left<Ay, x\right>=0\\ -\left<Ax, y\right>+\left<Ay, x\right>=0\end{aligned} ⟨ A x , y ⟩ + ⟨ A y , x ⟩ = 0 − ⟨ A x , y ⟩ + ⟨ A y , x ⟩ = 0 ​ 에서 < A x , y > = 0 \left<Ax, y\right>=0 ⟨ A x , y ⟩ = 0 을 얻는다. x , y x, y x , y 는 임의의 원소이므로 임의의 x x x 에 대하여 A x = 0 Ax=0 A x = 0 으로, A = 0 A=0 A = 0 이다.
+
+정규 작용소의 필요충분조건은 다음과 같다. A ∈ B ( H ) A\in \mathcal{B}(H) A ∈ B ( H ) 에 대하여 다음은 동치이다. - A A A 는 정규 작용소이다.
+- 모든 x ∈ H x\in H x ∈ H 에 대하여 ∥ A x ∥ H = ∥ A ∗ x ∥ H \|Ax\|_H=\|A^*x\|_H ∥ A x ∥ H ​ = ∥ A ∗ x ∥ H ​ 이다.
+- 작용소 A A A 의 실부분 B B B 와 허부분 C C C 에 대하여 B C = C B BC=CB B C = C B 이다.
+
+명제 b.는 수반 작용소의 성질인 ∥ A ∥ o p = ∥ A ∗ ∥ o p \|A\|_{\mathrm{op}}=\|A^*\|_{\mathrm{op}} ∥ A ∥ op ​ = ∥ A ∗ ∥ op ​ 와 구분된다. 예를 들어, l 2 l^2 l 2 공간의 우측 이동 작용소 S S S , 좌측 이동 작용소 S ∗ S^* S ∗ 에 대하여 ∥ S ∥ = ∥ S ∗ ∥ = 1 \|S\|=\|S^*\|=1 ∥ S ∥ = ∥ S ∗ ∥ = 1 이지만 자연수 n ∈ N n\in\mathbb{N} n ∈ N 에 대하여 α n = 2 − n \alpha_n=\sqrt{2^{-n}} α n ​ = 2 − n ​ 으로 정의된 벡터 ( α 1 , α 2 , … ) (\alpha_1,\alpha_2,\ldots) ( α 1 ​ , α 2 ​ , … ) 에 대하여 ∥ S ( α 1 , α 2 , … ) ∥ l 2 = 1 \|S(\alpha_1,\alpha_2,\ldots)\|_{l^2}=1 ∥ S ( α 1 ​ , α 2 ​ , … ) ∥ l 2 ​ = 1 , ∥ S ∗ ( α 1 , α 2 , … ) ∥ l 2 = 2 − 1 \|S^*(\alpha_1,\alpha_2,\ldots)\|_{l^2}=2^{-1} ∥ S ∗ ( α 1 ​ , α 2 ​ , … ) ∥ l 2 ​ = 2 − 1 이다. 즉, 이동 작용소는 정규 작용소가 아니다. 증명
+( a . ⇔ b . ) (a.\Leftrightarrow b.) ( a . ⇔ b . ) x ∈ H x\in H x ∈ H 에 대하여
+∥ A x ∥ 2 − ∥ A ∗ x ∥ 2 = < A x , A x > − < A ∗ x , A ∗ x > = < ( A ∗ A − A A ∗ ) x , x > \|Ax\|^2-\|A^*x\|^2=\left<Ax,Ax\right>-\left<A^*x,A^*x\right>=\left<(A^*A-AA^*)x,x\right> ∥ A x ∥ 2 − ∥ A ∗ x ∥ 2 = ⟨ A x , A x ⟩ − ⟨ A ∗ x , A ∗ x ⟩ = ⟨ ( A ∗ A − A A ∗ ) x , x ⟩ 이다. A A A 가 정규 작용소인 경우 ∥ A x ∥ 2 − ∥ A ∗ x ∥ 2 = 0 \|Ax\|^2-\|A^*x\|^2=0 ∥ A x ∥ 2 − ∥ A ∗ x ∥ 2 = 0 을 얻으며, ∥ A x ∥ H = ∥ A ∗ x ∥ H \|Ax\|_H=\|A^*x\|_H ∥ A x ∥ H ​ = ∥ A ∗ x ∥ H ​ 인 경우 A A ∗ − A ∗ A AA^*-A^*A A A ∗ − A ∗ A 는 에르미트 작용소이고 x x x 는 임의의 벡터이므로 A A ∗ − A ∗ A = 0 AA^*-A^*A=0 A A ∗ − A ∗ A = 0 으로 A A ∗ = A ∗ A AA^*=A^*A A A ∗ = A ∗ A 를 얻는다.
+
+( a . ⇔ c . ) (a.\Leftrightarrow c.) ( a . ⇔ c . ) 에르미트 작용소 B , C B, C B , C 에 대하여 A = B + i C A=B+iC A = B + i C 라 하자.
+A A ∗ = B 2 + i C B − i B C + C 2 A A ∗ = B 2 − i C B + i B C + C 2 AA^*=B^2+iCB-iBC+C^2\\ AA^*=B^2-iCB+iBC+C^2 A A ∗ = B 2 + i C B − i B C + C 2 A A ∗ = B 2 − i C B + i B C + C 2 이므로 A A ∗ = A ∗ A AA^*=A^*A A A ∗ = A ∗ A 의 필요충분조건은 B C = C B BC=CB B C = C B 이다.
+
+유니터리 작용소의 필요충분조건은 다음과 같다. U ∈ B ( H ) U\in \mathcal{B}(H) U ∈ B ( H ) 에 대하여 다음은 동치이다. - U U U 는 유니터리 작용소이다.
+- U U U 는 자기동형사상이다.
+- U U U 는 정규 등거리 변환이다.
+
+증명
+( a . ⇒ b . ) (a.\Rightarrow b.) ( a . ⇒ b . ) U ∗ U = U U ∗ = I U^*U=UU^*=I U ∗ U = U U ∗ = I 이므로 U U U 는 가역으로 전사이다. 또한 임의의 x , y ∈ H x, y\in H x , y ∈ H 에 대하여 < U x , U y > = < U ∗ U x , y > = < x , y > \left<Ux, Uy\right>=\left<U^*Ux,y\right>=\left<x,y\right> ⟨ U x , U y ⟩ = ⟨ U ∗ U x , y ⟩ = ⟨ x , y ⟩ 이므로 U U U 는 등거리 변환이다.
+( b . ⇒ c . ) (b.\Rightarrow c.) ( b . ⇒ c . ) U U U 는 자기동형사상이므로 등거리 변환이고, 임의의 x , y ∈ H x, y\in H x , y ∈ H 에 대하여 < U x , U y > = < U ∗ U x , y > = < x , y > \left<Ux, Uy\right>=\left<U^*Ux,y\right>=\left<x,y\right> ⟨ U x , U y ⟩ = ⟨ U ∗ U x , y ⟩ = ⟨ x , y ⟩ 에서 U ∗ U = I U^*U=I U ∗ U = I 로 U − 1 = U ∗ U^{-1}=U^* U − 1 = U ∗ 이다. 따라서 U ∗ U = U U ∗ U^*U=UU^* U ∗ U = U U ∗ 로 U U U 는 정규 작용소이다.
+( c . ⇒ a . ) (c.\Rightarrow a.) ( c . ⇒ a . ) 임의의 x , y ∈ H x, y\in H x , y ∈ H 에 대하여 < U x , U y > = < x , y > \left<Ux, Uy\right>=\left<x,y\right> ⟨ U x , U y ⟩ = ⟨ x , y ⟩ 에서 < U ∗ U x , y > = < U U ∗ x , y > = < x , y > \left<U^*Ux, y\right>=\left<UU^*x, y\right>=\left<x,y\right> ⟨ U ∗ U x , y ⟩ = ⟨ U U ∗ x , y ⟩ = ⟨ x , y ⟩ 이므로 U ∗ U = U U ∗ = I U^*U=UU^*=I U ∗ U = U U ∗ = I 이다.
+
+5.3. 사영 [편집]
+힐베르트 공간 H H H 의 유계 작용소 E ∈ B ( H ) E\in\mathcal{B}(H) E ∈ B ( H ) 가 E 2 = E E^2=E E 2 = E 를 만족시키면 E E E 를 멱등 (idempotent)이라고 한다. 작용소 E ∈ B ( H ) E\in\mathcal{B}(H) E ∈ B ( H ) 가 멱등일 필요충분조건은 I − E I-E I − E 가 멱등인 것이다. 또한 멱등 작용소 E E E 에 대하여 다음이 성립한다. - ran ⁡ E , ker ⁡ E \operatorname{ran} E, \ker E ran E , ker E 는 모두 H H H 의 부분공간이다.
+- ran ⁡ E = ker ⁡ ( I − E ) , ker ⁡ E = ran ⁡ ( I − E ) \operatorname{ran} E=\ker(I-E), \ker E=\operatorname{ran}(I-E) ran E = ker ( I − E ) , ker E = ran ( I − E ) 이다.
+- ran ⁡ E ∩ ker ⁡ E = { 0 } , ran ⁡ E + ker ⁡ E = H \operatorname{ran} E \cap \ker E=\{0\}, \operatorname{ran} E+\ker E=H ran E ∩ ker E = { 0 } , ran E + ker E = H 이다.
+
+증명
+E E E 가 멱등이면 ( I − E ) 2 = I − 2 E + E 2 = I − E (I-E)^2=I-2E+E^2=I-E ( I − E ) 2 = I − 2 E + E 2 = I − E 이므로 I − E I-E I − E 는 멱등이다. E = I − ( I − E ) E=I-(I-E) E = I − ( I − E ) 이므로 그 역 또한 성립한다. - E E E 가 선형변환이므로 ran ⁡ E , ker ⁡ E \operatorname{ran} E, \ker E ran E , ker E 는 선형다양체이며, E E E 는 유계로 연속사상이므로 ran ⁡ E , ker ⁡ E \operatorname{ran} E, \ker E ran E , ker E 는 닫힌공간이다. 즉, ran ⁡ E , ker ⁡ E \operatorname{ran} E, \ker E ran E , ker E 는 H H H 의 부분공간이다.
+- y ∈ ran ⁡ E y\in\operatorname{ran} E y ∈ ran E 에 대하여 y = E x ( x ∈ H ) y=Ex(x\in H) y = E x ( x ∈ H ) 라 하면
+( I − E ) y = y − E y = y − E 2 x = y − E x = y − y = 0 (I-E)y=y-Ey=y-E^2x=y-Ex=y-y=0 ( I − E ) y = y − E y = y − E 2 x = y − E x = y − y = 0 이므로 ran ⁡ E ⊆ ker ⁡ ( I − E ) \operatorname{ran} E\subseteq\ker(I-E) ran E ⊆ ker ( I − E ) 이다. 반대로 x ∈ ker ⁡ ( I − E ) x\in\ker(I-E) x ∈ ker ( I − E ) 인 경우 ( I − E ) x = 0 (I-E)x=0 ( I − E ) x = 0 에서 E x = x Ex=x E x = x 이므로 x ∈ ran ⁡ E x\in \operatorname{ran} E x ∈ ran E 로 ran ⁡ E ⊇ ker ⁡ ( I − E ) \operatorname{ran} E\supseteq\ker(I-E) ran E ⊇ ker ( I − E ) 이다.
+- z ∈ ran ⁡ E ∩ ker ⁡ E z\in \operatorname{ran} E \cap \ker E z ∈ ran E ∩ ker E 에 대하여 z = E y z=Ey z = E y 라 하면 0 = E z = E 2 y = E y = z 0=Ez=E^2y=Ey=z 0 = E z = E 2 y = E y = z 이다. 각 x ∈ H x\in H x ∈ H 에 대하여 y = E x , z = x − E x y=Ex, z=x-Ex y = E x , z = x − E x 라 하면 E z = E x − E 2 x = E x − E x = 0 Ez=Ex-E^2x=Ex-Ex=0 E z = E x − E 2 x = E x − E x = 0 으로 z ∈ ker ⁡ E z\in\ker E z ∈ ker E 이고 x = y + z x=y+z x = y + z 이므로 ran ⁡ E + ker ⁡ E = H \operatorname{ran} E+\ker E=H ran E + ker E = H 이다.
+
+작용소 P P P 가 멱등이며 ker ⁡ P = ( ran ⁡ P ) ⊥ \ker P=(\operatorname{ran} P)^\perp ker P = ( ran P ) ⊥ 을 만족시키면 P P P 를 사영 (projection)이라고 한다. 사영은 힐베르트 공간보다 더 일반적인 공간에서도 정의 가능하며, 힐베르트 공간의 사영 작용소는 직교성과 관련된 성질을 추가로 갖는다. 힐베르트 공간 H H H 의 영이 아닌 멱등 작용소 E ∈ B ( H ) E\in \mathcal{B}(H) E ∈ B ( H ) 에 대하여 다음은 동치이다. - E E E 는 사영이다.
+- E E E 는 H H H 에서 ran ⁡ E \operatorname{ran} E ran E 위로의 직교정사영이다.
+- ∥ E ∥ = 1 \|E\|=1 ∥ E ∥ = 1 이다.
+- E E E 는 에르미트 작용소이다.
+- E E E 는 정규 작용소이다.
+- 모든 x ∈ H x\in H x ∈ H 에 대하여 < E x , x > ≥ 0 \left<Ex, x\right>\ge 0 ⟨ E x , x ⟩ ≥ 0 이다.
+
+5.3.1. 불변 및 축소 부분공간 [편집]
+힐베르트 공간 H H H 의 유계 작용소 A ∈ B ( H ) A\in\mathcal{B}(H) A ∈ B ( H ) 와 부분공간 M ≤ H M\le H M ≤ H 에 대하여 A M ⊆ M AM\subseteq M A M ⊆ M 을 만족시키면 M M M 을 A A A 의 불변 부분공간 (invariant subspace)이라 한다. M M M 이 A M ⊥ ⊆ M ⊥ AM^\perp\subseteq M^\perp A M ⊥ ⊆ M ⊥ 를 추가로 만족시키면, 즉 M , M ⊥ M, M^\perp M , M ⊥ 이 동시에 A A A 의 불변 부분공간이면 M M M 을 A A A 의 축소 부분공간 (reducing subspace)이라 한다.
+
+불변 및 축소 부분공간의 필요충분조건은 다음과 같다. 힐베르트 공간 H H H 의 작용소 A ∈ B ( H ) A\in\mathcal{B}(H) A ∈ B ( H ) 와 부분공간 M ≤ H M\le H M ≤ H 및 M M M 위로의 직교정사영 P = P M P=P_M P = P M ​ 에 대하여 다음은 서로 동치다. - M M M 은 A A A 의 불변 부분공간이다.
+- P A P = A P PAP=AP P A P = A P
+- A A A 의 작용소 행렬 표현 [ W X Y Z ] \begin{bmatrix}W&X\\Y&Z\end{bmatrix} [ W Y ​ X Z ​ ] 에 대하여 Y = 0 Y=0 Y = 0 이다.
+
+증명
+( a . ⇒ b . ) (a.\Rightarrow b.) ( a . ⇒ b . ) x ∈ H x\in H x ∈ H 에 대하여 P x ∈ M Px\in M P x ∈ M 이므로 A P x ∈ M APx\in M A P x ∈ M 이다. 따라서 P A P x = A P x PAPx=APx P A P x = A P x 이다.
+( b . ⇒ c . ) (b. \Rightarrow c.) ( b . ⇒ c . ) H = M ⊕ M ⊥ H=M\oplus M^\perp H = M ⊕ M ⊥ 이고 P P P 는 M M M 위로의 직교 정사영이므로 P P P 의 작용소 행렬 표현은
+P = [ I 0 0 0 ] P=\begin{bmatrix}I&0\\0&0\end{bmatrix} P = [ I 0 ​ 0 0 ​ ] 이다. 따라서
+P A P = [ W 0 0 0 ] = A P = [ W 0 Y 0 ] \begin{aligned}PAP&=\begin{bmatrix}W&0\\0&0\end{bmatrix}\\ =AP&=\begin{bmatrix}W&0\\Y&0\end{bmatrix}\end{aligned} P A P = A P ​ = [ W 0 ​ 0 0 ​ ] = [ W Y ​ 0 0 ​ ] ​ 으로, Y = 0 Y=0 Y = 0 이다.
+( c . ⇒ a . ) (c. \Rightarrow a.) ( c . ⇒ a . ) x ∈ M x\in M x ∈ M 에 대하여 x = ( x , 0 ) ∈ M ⊕ M ⊥ x=(x,0)\in M\oplus M^\perp x = ( x , 0 ) ∈ M ⊕ M ⊥ 이므로
+A x = [ W X 0 Z ] [ x 0 ] = [ W x 0 ] ∈ M Ax=\begin{bmatrix}W&X\\0&Z\end{bmatrix}\begin{bmatrix}x\\0\end{bmatrix}=\begin{bmatrix}Wx\\ 0\end{bmatrix}\in M A x = [ W 0 ​ X Z ​ ] [ x 0 ​ ] = [ W x 0 ​ ] ∈ M 이다.
+
+또한 다음은 서로 동치다. - M M M 은 A A A 의 축소 부분공간이다.
+- P A = A P PA=AP P A = A P
+- A A A 의 작용소 행렬 표현 [ W X Y Z ] \begin{bmatrix}W&X\\Y&Z\end{bmatrix} [ W Y ​ X Z ​ ] 에 대하여 X = Y = 0 X=Y=0 X = Y = 0 이다.
+- M M M 은 A , A ∗ A, A^* A , A ∗ 에 대한 불변 부분공간이다.
+
+증명
+( a . ⇒ b . ) (a.\Rightarrow b.) ( a . ⇒ b . ) x ∈ H = M ⊕ M ⊥ x\in H=M\oplus M^\perp x ∈ H = M ⊕ M ⊥ 에 대하여
+x = x 1 ⊕ x 2 ( x 1 ∈ M , x 2 ∈ M ⊥ ) x=x_1\oplus x_2\quad(x_1\in M, x_2\in M^\perp) x = x 1 ​ ⊕ x 2 ​ ( x 1 ​ ∈ M , x 2 ​ ∈ M ⊥ ) 라 하자. A x 1 ∈ M , A x 2 ∈ M ⊥ Ax_1\in M, Ax_2\in M^\perp A x 1 ​ ∈ M , A x 2 ​ ∈ M ⊥ 이므로 P A x = A x 1 PAx=Ax_1 P A x = A x 1 ​ 이다. 반대로 P x 1 = x 1 , P x 2 = 0 Px_1=x_1, Px_2=0 P x 1 ​ = x 1 ​ , P x 2 ​ = 0 이므로 A P x = A x 1 APx=Ax_1 A P x = A x 1 ​ 이다. 따라서 P A x = A P x PAx=APx P A x = A P x 이다.
+( b . ⇒ c . ) (b. \Rightarrow c.) ( b . ⇒ c . ) P P P 의 작용소 행렬 표현 [ I 0 0 0 ] \begin{bmatrix}I&0\\0&0\end{bmatrix} [ I 0 ​ 0 0 ​ ] 에 대하여여
+P A = [ W X 0 0 ] = A P = [ W 0 Y 0 ] \begin{aligned}PA&=\begin{bmatrix}W&X\\0&0\end{bmatrix}\\ =AP&=\begin{bmatrix}W&0\\Y&0\end{bmatrix}\end{aligned} P A = A P ​ = [ W 0 ​ X 0 ​ ] = [ W Y ​ 0 0 ​ ] ​ 으로, X = Y = 0 X=Y=0 X = Y = 0 이다.
+( c . ⇒ a . ) (c. \Rightarrow a.) ( c . ⇒ a . ) ( x , 0 ) ∈ M ⊕ M ⊥ (x,0)\in M\oplus M^\perp ( x , 0 ) ∈ M ⊕ M ⊥ 에 대하여
+A x = [ W 0 0 Z ] [ x 0 ] = [ W x 0 ] ∈ M Ax=\begin{bmatrix}W&0\\0&Z\end{bmatrix}\begin{bmatrix}x\\0\end{bmatrix}=\begin{bmatrix}Wx\\ 0\end{bmatrix}\in M A x = [ W 0 ​ 0 Z ​ ] [ x 0 ​ ] = [ W x 0 ​ ] ∈ M 이다. 또한 ( 0 , y ) ∈ M ⊕ M ⊥ (0,y)\in M\oplus M^\perp ( 0 , y ) ∈ M ⊕ M ⊥ 에 대하여
+A x = [ W 0 0 Z ] [ 0 y ] = [ 0 Z y ] ∈ M ⊥ Ax=\begin{bmatrix}W&0\\0&Z\end{bmatrix}\begin{bmatrix}0\\y\end{bmatrix}=\begin{bmatrix}0\\ Zy\end{bmatrix}\in M^\perp A x = [ W 0 ​ 0 Z ​ ] [ 0 y ​ ] = [ 0 Z y ​ ] ∈ M ⊥ 이다.
+( a . ⇔ d . ) (a.\Leftrightarrow d.) ( a . ⇔ d . ) M M M 이 A A A 의 축소 부분공간이므로 M M M 이 A A A 의 불변 부분공간임은 자명하다. 임의의 x ∈ M , y ∈ M ⊥ x\in M, y\in M^\perp x ∈ M , y ∈ M ⊥ 에 대하여 A y ∈ M ⊥ Ay\in M^\perp A y ∈ M ⊥ 이므로 < y , A ∗ x > = < A y , x > = 0 \left<y, A^*x\right>=\left<Ay, x\right>=0 ⟨ y , A ∗ x ⟩ = ⟨ A y , x ⟩ = 0 으로, A ∗ x ∈ ( M ⊥ ) ⊥ = M A^*x\in (M^\perp)^\perp=M A ∗ x ∈ ( M ⊥ ) ⊥ = M 이다. 즉, M M M 은 A ∗ A^* A ∗ 의 불변 부분공간이다. 반대로, M M M 이 A , A ∗ A, A^* A , A ∗ 의 불변 부분공간이면 임의의 x ∈ M , y ∈ M ⊥ x\in M, y\in M^\perp x ∈ M , y ∈ M ⊥ 에 대하여 < A y , x > = < y , A ∗ x > = 0 \left<Ay,x\right>=\left<y,A^*x\right>=0 ⟨ A y , x ⟩ = ⟨ y , A ∗ x ⟩ = 0 이므로 A y ∈ M ⊥ Ay\in M^\perp A y ∈ M ⊥ 으로 A A A 는 M ⊥ M^\perp M ⊥ 의 불변 부분공간이다.
+
+5.3.2. 사영의 연산 [편집]
+힐베르트 공간의 두 사영 P , Q P, Q P , Q 에 대하여 P + Q P+Q P + Q 가 사영일 필요충분조건은 ran ⁡ P ⊥ ran ⁡ Q \operatorname{ran}P\perp \operatorname{ran} Q ran P ⊥ ran Q 이다. 이 때,
+ran ⁡ ( P + Q ) = ran ⁡ P + ran ⁡ Q , ker ⁡ ( P + Q ) = ker ⁡ P ∩ ker ⁡ Q \begin{aligned}\operatorname{ran}(P+Q)&=\operatorname{ran}P+\operatorname{ran}Q,\\ \ker(P+Q)&=\ker P \cap \ker Q\end{aligned} ran ( P + Q ) ker ( P + Q ) ​ = ran P + ran Q , = ker P ∩ ker Q ​ 가 성립한다. 증명
+( ⇒ ) (\Rightarrow) ( ⇒ ) P , Q , P + Q P, Q, P+Q P , Q , P + Q 는 사영이므로 멱등 작용소로, ( P + Q ) 2 = P 2 + P Q + Q P + Q 2 = P + Q (P+Q)^2=P^2+PQ+QP+Q^2=P+Q ( P + Q ) 2 = P 2 + P Q + QP + Q 2 = P + Q 에서 P Q + Q P = 0 PQ+QP=0 P Q + QP = 0 을 얻는다. 따라서 임의의 x ∈ H x\in H x ∈ H 에 대하여
+∥ ( P + Q ) x ∥ 2 − ∥ Q x ∥ 2 = ∥ P x ∥ 2 + < P x , Q x > + < Q x , P x > = ∥ P x ∥ 2 + < x , ( P Q + Q P ) x > = ∥ P x ∥ 2 \begin{aligned} &\|(P+Q)x\|^2-\|Qx\|^2\\ &=\|Px\|^2+\left<Px,Qx\right>+\left<Qx,Px\right>\\ &=\|Px\|^2+\left<x,(PQ+QP)x\right>\\ &=\|Px\|^2 \end{aligned} ​ ∥ ( P + Q ) x ∥ 2 − ∥ Q x ∥ 2 = ∥ P x ∥ 2 + ⟨ P x , Q x ⟩ + ⟨ Q x , P x ⟩ = ∥ P x ∥ 2 + ⟨ x , ( P Q + QP ) x ⟩ = ∥ P x ∥ 2 ​ 이다. 즉, ∥ P x + Q x ∥ 2 = ∥ P x ∥ 2 + ∥ Q x ∥ 2 \|Px+Qx\|^2=\|Px\|^2+\|Qx\|^2 ∥ P x + Q x ∥ 2 = ∥ P x ∥ 2 + ∥ Q x ∥ 2 이다. 임의의 x ∈ ran ⁡ P ( x ≠ 0 ) x\in \operatorname{ran}P(x\ne0) x ∈ ran P ( x  = 0 ) 에 대하여 P x = x Px=x P x = x 이므로
+∥ x + Q x ∥ 2 = ∥ x ∥ 2 + ∥ Q x ∥ 2 \|x+Qx\|^2=\|x\|^2+\|Qx\|^2 ∥ x + Q x ∥ 2 = ∥ x ∥ 2 + ∥ Q x ∥ 2 를 얻고, 따라서 Re ⁡ < x , Q x > = 0 \operatorname{Re}\left<x, Qx\right>=0 Re ⟨ x , Q x ⟩ = 0 이다. Q Q Q 는 사영이므로 < x , Q x > ≥ 0 \left<x, Qx\right>\ge0 ⟨ x , Q x ⟩ ≥ 0 이고 따라서 x ∈ ker ⁡ Q x\in \ker Q x ∈ ker Q 이다. ker ⁡ Q ⊥ ran ⁡ Q \ker Q \perp \operatorname{ran} Q ker Q ⊥ ran Q 이므로 ran ⁡ P ⊥ ran ⁡ Q \operatorname{ran}P\perp\operatorname{ran}Q ran P ⊥ ran Q 이다.
+( ⇐ ) (\Leftarrow) ( ⇐ ) ran ⁡ P ⊥ ran ⁡ Q \operatorname{ran}P\perp\operatorname{ran}Q ran P ⊥ ran Q 이므로 P Q = Q P = 0 PQ=QP=0 P Q = QP = 0 이다. 따라서 ( P + Q ) 2 = P 2 + P Q + Q P + Q 2 = P + Q (P+Q)^2=P^2+PQ+QP+Q^2=P+Q ( P + Q ) 2 = P 2 + P Q + QP + Q 2 = P + Q 로 P + Q P+Q P + Q 는 멱등 작용소이다. 또한 ( P + Q ) ∗ = P ∗ + Q ∗ = P + Q (P+Q)^*=P^*+Q^*=P+Q ( P + Q ) ∗ = P ∗ + Q ∗ = P + Q 이므로 P + Q P+Q P + Q 는 사영이다.
+
+임의의
+x = ( P + Q ) ( u ) ∈ ran ⁡ ( P + Q ) ( u ∈ H ) x=(P+Q)(u)\in\operatorname{ran}(P+Q)\quad(u\in H) x = ( P + Q ) ( u ) ∈ ran ( P + Q ) ( u ∈ H ) 에 대하여 x = ( P + Q ) ( u ) = P u + Q u ∈ ran ⁡ P + ran ⁡ Q x=(P+Q)(u)=Pu+Qu\in\operatorname{ran}P+\operatorname{ran}Q x = ( P + Q ) ( u ) = P u + Q u ∈ ran P + ran Q 이다. 반대로 0 0 0 이 아닌 임의의
+x = P u + Q v ∈ ran ⁡ P + ran ⁡ Q ( u , v ∈ H ) x=Pu+Qv\in\operatorname{ran}P+\operatorname{ran}Q\quad(u,v\in H) x = P u + Q v ∈ ran P + ran Q ( u , v ∈ H ) 라 하면 ran ⁡ P ⊥ ran ⁡ Q \operatorname{ran}P\perp \operatorname{ran} Q ran P ⊥ ran Q 이므로
+( P + Q ) x = P u + P Q v + Q P u + Q v = P u + Q v = x (P+Q)x=Pu+PQv+QPu+Qv=Pu+Qv=x ( P + Q ) x = P u + P Q v + QP u + Q v = P u + Q v = x 이다. 즉, x ∈ ran ⁡ ( P + Q ) x\in \operatorname{ran}(P+Q) x ∈ ran ( P + Q ) 이다.
+
+x ∈ ker ⁡ ( P + Q ) x\in\ker(P+Q) x ∈ ker ( P + Q ) 에 대하여 ( P + Q ) x = 0 (P+Q)x=0 ( P + Q ) x = 0 이므로 P x = − Q x Px=-Qx P x = − Q x 이다. ran ⁡ P ⊥ ran ⁡ Q \operatorname{ran}P\perp \operatorname{ran} Q ran P ⊥ ran Q 이므로
+P 2 x = P x = − P Q x = 0 Q 2 x = Q x = − Q P x = 0 P^2x=Px=-PQx=0\\ Q^2x=Qx=-QPx=0 P 2 x = P x = − P Q x = 0 Q 2 x = Q x = − QP x = 0 이다. 즉, x ∈ ker ⁡ P ∩ ker ⁡ Q x\in \ker P \cap\ker Q x ∈ ker P ∩ ker Q 이다. 반대로 x ∈ ker ⁡ P ∩ ker ⁡ Q x\in \ker P \cap\ker Q x ∈ ker P ∩ ker Q 이면 ( P + Q ) x = P x + Q x = 0 (P+Q)x=Px+Qx=0 ( P + Q ) x = P x + Q x = 0 이므로 x ∈ ker ⁡ ( P + Q ) x\in\ker(P+Q) x ∈ ker ( P + Q ) 이다.
+
+또한 P Q PQ P Q 가 사영일 필요충분조건은 다음과 같다. - P Q = Q P PQ=QP P Q = QP
+- P + Q − P Q P+Q-PQ P + Q − P Q 가 사영이다.
+
+이 때,
+ran ⁡ ( P + Q − P Q ) = ran ⁡ P + ran ⁡ Q , ker ⁡ ( P + Q − P Q ) = ker ⁡ P ∩ ker ⁡ Q \begin{aligned}\operatorname{ran}(P+Q-PQ)&=\operatorname{ran}P+\operatorname{ran}Q,\\ \ker(P+Q-PQ)&=\ker P \cap \ker Q\end{aligned} ran ( P + Q − P Q ) ker ( P + Q − P Q ) ​ = ran P + ran Q , = ker P ∩ ker Q ​ 가 성립한다. 증명
+P Q PQ P Q 는 사영이므로 에르미트 작용소로 P Q = Q P PQ=QP P Q = QP 가 성립한다. 반대로 P Q = Q P PQ=QP P Q = QP 이면 ( P Q ) 2 = P Q P Q = P 2 Q 2 = P Q (PQ)^2=PQPQ=P^2Q^2=PQ ( P Q ) 2 = P QP Q = P 2 Q 2 = P Q 로 P Q PQ P Q 는 멱등 작용소이고, P Q PQ P Q 는 에르미트 작용소이므로 P Q PQ P Q 는 사영이다.
+
+5.4. 컴팩트 작용소 [편집]
+
+5.4.1. 유한계수 작용소 [편집]
+힐베르트 공간 H H H 의 작용소 A ∈ B ( H , K ) A\in \mathcal{B}(H,K) A ∈ B ( H , K ) 에 대하여 ran ⁡ A \operatorname{ran}A ran A 의 차원을 계수 (rank)라고 한다. 계수가 유한인 작용소를 유한계수 작용소 (finite rank operator)라고 하며, H H H 에서 K K K 로의 연속 유한 계수 작용소들의 공간을 R ( H , K ) \mathcal{R}(H, K) R ( H , K ) 로 나타내며, 특히 H = K H=K H = K 인 경우 R ( H , K ) = R ( H ) \mathcal{R}(H,K)=\mathcal{R}(H) R ( H , K ) = R ( H ) 로 나타낸다.
+
+유한차원 선형사상이 행렬인 것과 같이 유한계수 작용소 또한 행렬과 유사하게 표현할 수 있다. K \mathbb{K} K -힐베르트 공간 H , K H, K H , K 에 대하여 작용소 A ∈ R ( H , K ) A\in\mathcal{R}(H,K) A ∈ R ( H , K ) 가 유한 계수일 필요충분조건은 다음을 만족시키는 K K K 의 유한 정규직교집합 { e k } k = 1 N \{e_k\}_{k=1}^N { e k ​ } k = 1 N ​ 과 상수 c i , j ∈ K c_{i,j}\in\mathbb{K} c i , j ​ ∈ K 가 존재하는 것이다.
+A x = ∑ i , j = 1 N c i , j < x , e j > e i ∀ x ∈ H \displaystyle Ax=\sum_{i, j=1}^N c_{i,j}\left<x,e_j\right>e_i\quad \forall x\in H A x = i , j = 1 ∑ N ​ c i , j ​ ⟨ x , e j ​ ⟩ e i ​ ∀ x ∈ H 증명
+( ⇒ ) (\Rightarrow) ( ⇒ ) A ( H ) A(H) A ( H ) 는 K K K 의 유한차원 부분공간이므로 유한 정규직교기저 { d k } k = 1 n \{d_k\}_{k=1}^n { d k ​ } k = 1 n ​ 을 갖는다. 따라서 임의의 x ∈ H x\in H x ∈ H 에 대하여
+A x = ∑ k = 1 n < A x , d k > d k \displaystyle Ax=\sum_{k=1}^n\left<Ax,d_k\right>d_k A x = k = 1 ∑ n ​ ⟨ A x , d k ​ ⟩ d k ​ 이다. 수반 작용소의 정의에 따라 위 식은
+A x = ∑ k = 1 n < x , A ∗ d k > d k \displaystyle Ax=\sum_{k=1}^n\left<x,A^*d_k\right>d_k A x = k = 1 ∑ n ​ ⟨ x , A ∗ d k ​ ⟩ d k ​ 으로 다시 쓸 수 있다. 집합 { d 1 , … , d n , A ∗ d 1 , … , A ∗ d n } \{d_1,\ldots,d_n,A^*d_1,\ldots,A^*d_n\} { d 1 ​ , … , d n ​ , A ∗ d 1 ​ , … , A ∗ d n ​ } 에 그람-슈미트 직교화 과정을 적용하여 얻은 정규직교집합을 { e 1 , … e N } \{e_1,\ldots e_N\} { e 1 ​ , … e N ​ } 이라 하면
+d k = ∑ i = 1 N a k , i e i , A ∗ d k = ∑ j = 1 N b k , j e j \displaystyle d_k=\sum_{i=1}^N a_{k,i}e_i,\ A^*d_k=\sum_{j=1}^N b_{k, j}e_j d k ​ = i = 1 ∑ N ​ a k , i ​ e i ​ , A ∗ d k ​ = j = 1 ∑ N ​ b k , j ​ e j ​ 이므로
+A x = ∑ i , j = 1 N ( ∑ k = 1 n a k , i b k , j ‾ ) < x , e j > e i \displaystyle Ax=\sum_{i, j=1}^N\left(\sum_{k=1}^n a_{k,i}\overline{b_{k, j}}\right)\left<x,e_j\right>e_i A x = i , j = 1 ∑ N ​ ( k = 1 ∑ n ​ a k , i ​ b k , j ​ ​ ) ⟨ x , e j ​ ⟩ e i ​ 이다.
+( ⇐ ) (\Leftarrow) ( ⇐ ) A ( H ) ⊆ span ⁡ { e k } k = 1 N A(H)\subseteq \operatorname{span}\{e_k\}_{k=1}^N A ( H ) ⊆ span { e k ​ } k = 1 N ​ 이므로 dim ⁡ A ( H ) < ∞ \dim A(H)<\infty dim A ( H ) < ∞ 이다.
+
+유한계수 작용소 공간은 대수적 구조를 이룬다. 세 K \mathbb{K} K -힐베르트 공간 H , K , L H, K, L H , K , L 에 대하여 다음이 성립한다. - R ( H , K ) \mathcal{R}(H, K) R ( H , K ) 는 B ( H , K ) \mathcal{B}(H, K) B ( H , K ) 의 선형다양체이다.
+- A ∈ R ( K , L ) , T ∈ B ( H , K ) ⇒ A T ∈ R ( H , L ) A\in \mathcal{R}(K, L), T\in \mathcal{B}(H, K)\Rightarrow AT\in \mathcal{R}(H, L) A ∈ R ( K , L ) , T ∈ B ( H , K ) ⇒ A T ∈ R ( H , L )
+- B ∈ R ( H , K ) , T ∈ B ( K , L ) ⇒ T B ∈ R ( H , L ) B\in \mathcal{R}(H, K), T\in \mathcal{B}(K, L)\Rightarrow TB\in \mathcal{R}(H, L) B ∈ R ( H , K ) , T ∈ B ( K , L ) ⇒ T B ∈ R ( H , L )
+- A ∈ R ( H , K ) ⇔ A ∗ ∈ R ( H , K ) A\in \mathcal{R}(H, K)\Leftrightarrow A^*\in \mathcal{R}(H, K) A ∈ R ( H , K ) ⇔ A ∗ ∈ R ( H , K ) 이고 dim ⁡ ( ran ⁡ A ) = dim ⁡ ( ran ⁡ A ∗ ) \dim(\operatorname{ran}A)=\dim(\operatorname{ran}A^*) dim ( ran A ) = dim ( ran A ∗ ) 이다.
+
+따라서 힐베르트 공간 H H H 의 유한계수 작용소 공간 R ( H ) \mathcal{R}(H) R ( H ) 는 유계 작용소 공간 B ( H ) \mathcal{B}(H) B ( H ) 의 양측 아이디얼이며, 대합 A ↦ A ∗ A\mapsto A^* A ↦ A ∗ 를 갖는다. 증명 - A 1 , A 2 ∈ R ( H , K ) A_1, A_2\in \mathcal{R}(H, K) A 1 ​ , A 2 ​ ∈ R ( H , K ) , α ∈ K \alpha\in\mathbb{K} α ∈ K 에 대하여 dim ⁡ ran ⁡ ( α A 1 + A 2 ) ≤ dim ⁡ ran ⁡ A 1 + dim ⁡ ran ⁡ A 2 \dim\operatorname{ran}(\alpha A_1+A_2)\le \dim \operatorname{ran}A_1+\dim\operatorname{ran}A_2 dim ran ( α A 1 ​ + A 2 ​ ) ≤ dim ran A 1 ​ + dim ran A 2 ​ 이므로 α A 1 + A 2 ∈ R ( H , K ) \alpha A_1+ A_2\in\mathcal{R}(H, K) α A 1 ​ + A 2 ​ ∈ R ( H , K ) 이다.
+- A ( H ) ≤ K A(H)\le K A ( H ) ≤ K 이므로 A T ( H ) ≤ A ( K ) AT(H)\le A(K) A T ( H ) ≤ A ( K ) 이고 따라서 dim ⁡ A T ( H ) ≤ dim ⁡ A ( K ) < ∞ \dim AT(H)\le \dim A(K)<\infty dim A T ( H ) ≤ dim A ( K ) < ∞ 이다.
+- B ( H ) B(H) B ( H ) 의 기저 { e 1 , … e n } \{e_1,\ldots e_n\} { e 1 ​ , … e n ​ } 에 대하여 T B ( H ) = span ⁡ { T e 1 , … T e n } TB(H)=\operatorname{span}\{Te_1,\ldots Te_n\} T B ( H ) = span { T e 1 ​ , … T e n ​ } 이므로 dim ⁡ T B ( H ) ≤ n \dim TB(H)\le n dim T B ( H ) ≤ n 이다.
+- A ∈ R ( H , K ) A\in\mathcal{R}(H, K) A ∈ R ( H , K ) 이면 수반 작용소의 성질에 의해 ran ⁡ A ‾ = ( ker ⁡ A ∗ ) ⊥ \overline{\operatorname{ran} A}= (\ker A^*)^\perp ran A = ( ker A ∗ ) ⊥ 이다. ran ⁡ A \operatorname{ran} A ran A 는 유한차원이므로 K K K 의 닫힌 부분공간이고, 따라서 ran ⁡ A = ( ker ⁡ A ∗ ) ⊥ \operatorname{ran} A= (\ker A^*)^\perp ran A = ( ker A ∗ ) ⊥ 이다. A A A 는 유한계수 작용소이므로 A A A 의 정의역을 ( ker ⁡ A ) ⊥ (\ker A)^\perp ( ker A ) ⊥ 으로 제한하면 ( ker ⁡ A ) ⊥ (\ker A)^\perp ( ker A ) ⊥ 과 ran ⁡ A \operatorname{ran}A ran A 사이의 동형사상을 얻고, ( ker ⁡ A ) ⊥ = ran ⁡ A ∗ (\ker A)^\perp= \operatorname{ran}A^* ( ker A ) ⊥ = ran A ∗ 이므로 ran ⁡ ( A ) \operatorname{ran}(A) ran ( A ) 와 ran ⁡ ( A ∗ ) \operatorname{ran}(A^*) ran ( A ∗ ) 는 동형이다. 따라서 A ∗ A^* A ∗ 는 유한계수 작용소이고 dim ⁡ ( ran ⁡ A ) = dim ⁡ ( ran ⁡ A ∗ ) \dim(\operatorname{ran}A)=\dim(\operatorname{ran}A^*) dim ( ran A ) = dim ( ran A ∗ ) 이 성립한다.
+
+유한계수 작용소 집합은 유계 작용소 공간의 선형다양체이므로 작용소 노름에 의한 노름공간이지만 바나흐 공간은 아니다. l 2 l^2 l 2 공간의 작용소 A n A_n A n ​ 을 x = ( x 1 , x 2 , … ) x=(x_1,x_2,\ldots) x = ( x 1 ​ , x 2 ​ , … ) 에 대하여
+A n x = ( x 1 , x 2 2 , … , x n n , 0 , … ) \displaystyle A_nx=\left(x_1,\frac{x_2}{2}, \ldots,\frac{x_n}{n},0,\ldots\right) A n ​ x = ( x 1 ​ , 2 x 2 ​ ​ , … , n x n ​ ​ , 0 , … ) 로 정의하면 각 n n n 에 대하여 dim ⁡ ( ran ⁡ A n ) = n \dim(\operatorname{ran}A_n)=n dim ( ran A n ​ ) = n 으로 A n A_n A n ​ 은 유한계수 작용소이다. 또한
+A x = ( x 1 , x 2 2 , … , x n n , … ) \displaystyle Ax=\left(x_1,\frac{x_2}{2}, \ldots,\frac{x_n}{n},\ldots\right) A x = ( x 1 ​ , 2 x 2 ​ ​ , … , n x n ​ ​ , … ) 로 정의된 작용소 A ∈ B ( l 2 ) A\in\mathcal{B}(l^2) A ∈ B ( l 2 ) 에 대하여
+∥ A x − A n x ∥ l 2 2 = ( ∑ m = n + 1 ∞ ∣ x n ∣ 2 n 2 ) ≤ 1 n + 1 ∥ x ∥ l 2 2 \displaystyle\begin{aligned} \|Ax-A_nx\|_{l^2}^2&=\left(\sum_{m=n+1}^\infty\frac{|x_n|^2}{n^2}\right)\\ &\le\frac{1}{n+1}\|x\|_{l^2}^2 \end{aligned} ∥ A x − A n ​ x ∥ l 2 2 ​ ​ = ( m = n + 1 ∑ ∞ ​ n 2 ∣ x n ​ ∣ 2 ​ ) ≤ n + 1 1 ​ ∥ x ∥ l 2 2 ​ ​ 이므로 ∥ A − A n ∥ ≤ 1 / ( n + 1 ) → 0 \|A-A_n\|\le1/(n+1)\to 0 ∥ A − A n ​ ∥ ≤ 1/ ( n + 1 ) → 0 이다. 그러나 dim ⁡ ran ⁡ A = ∞ \dim\operatorname{ran}A=\infty dim ran A = ∞ 이므로 A ∉ R ( l 2 ) A\notin\mathcal{R}(l^2) A ∈ / R ( l 2 ) 이다.
+
+5.4.2. 컴팩트 작용소 [편집]
+두 힐베르트 공간 H , K H, K H , K 에 대하여 선형변환 A : H → K A:H\to K A : H → K 가 H H H 의 유계 부분집합을 K K K 의 상대 컴팩트 집합, 즉 컴팩트 폐포를 갖는 집합으로 사상하면 A A A 를 컴팩트 (compact) 작용소라고 한다. 이는 H H H 의 단위구 B B B 에 대하여 A ( B ) ‾ \overline{A(B)} A ( B ) ​ 가 K K K 의 컴팩트 집합임과 동치다. H H H 에서 K K K 로의 컴팩트 작용소 공간을 K ( H , K ) \mathcal{K}(H, K) K ( H , K ) 로 나타내며, 특히 H = K H=K H = K 인 경우 K ( H , K ) = K ( H ) \mathcal{K}(H,K)=\mathcal{K}( H) K ( H , K ) = K ( H ) 로 나타낸다. 유한계수 작용소에 의한 단위구의 상은 유한차원 유계 집합이므로 하이네-보렐 정리에 의해 그 폐포는 컴팩트 집합이다. 따라서 유한계수 작용소는 컴팩트 작용소이다.
+
+힐베르트 공간의 컴팩트 집합은 유한차원 부분공간으로 근사 가능한 유계 닫힌 집합이므로 유한계수 작용소의 근사를 통해 컴팩트 작용소의 필요충분조건을 얻을 수 있다. 두 힐베르트 공간 H , K H, K H , K 의 작용소 A ∈ B ( H , K ) A\in\mathcal{B}(H, K) A ∈ B ( H , K ) 가 컴팩트일 필요충분조건은 ∥ A − A n ∥ → 0 \|A-A_n\|\to0 ∥ A − A n ​ ∥ → 0 를 만족시키는 R ( H , K ) \mathcal{R}(H, K) R ( H , K ) 의 작용소열 { A n } n = 1 ∞ \{A_n\}_{n=1}^\infty { A n ​ } n = 1 ∞ ​ 이 존재하는 것이다. 증명
+( ⇒ ) (\Rightarrow) ( ⇒ ) A ( H ) A(H) A ( H ) 가 힐베르트 공간 K K K 의 컴팩트 부분공간이므로 각 자연수 n n n 에 대하여
+sup ⁡ y ∈ A ( H ) inf ⁡ w ∈ W n ∥ w − y ∥ K < 1 n \displaystyle\sup_{y\in A(H)}\inf_{w\in W_n}\|w-y\|_K<\frac{1}{n} y ∈ A ( H ) sup ​ w ∈ W n ​ in f ​ ∥ w − y ∥ K ​ < n 1 ​ 을 만족시키는 유한차원 부분공간 W n ≤ K W_n\le K W n ​ ≤ K 가 존재한다. W n W_n W n ​ 위로의 직교정사영 P n P_n P n ​ 에 대하여 A n = P n A A_n=P_nA A n ​ = P n ​ A 라 하자. P n P_n P n ​ 이 유한계수 작용소이므로 A n A_n A n ​ 또한 유한계수 작용소이다. 직교정사영의 정의에 의해 임의의 x ∈ H x\in H x ∈ H 에 대하여
+∥ A x − P n A x ∥ K = inf ⁡ w ∈ W n ∥ A x − w ∥ K \displaystyle\|Ax-P_n Ax\|_K=\inf_{w\in W_n}\|Ax-w\|_K ∥ A x − P n ​ A x ∥ K ​ = w ∈ W n ​ in f ​ ∥ A x − w ∥ K ​ 이므로 ∥ A x − P n A x ∥ K < n − 1 \|Ax-P_nAx\|_K<n^{-1} ∥ A x − P n ​ A x ∥ K ​ < n − 1 이다. 따라서 ∥ A − P n A ∥ < n − 1 \|A-P_nA\|<n^{-1} ∥ A − P n ​ A ∥ < n − 1 로, n → ∞ n\to\infty n → ∞ 에 따라 ∥ A − P n A ∥ → 0 \|A-P_nA\|\to0 ∥ A − P n ​ A ∥ → 0 이다. 즉, ∥ A − A n ∥ → 0 \|A-A_n\|\to0 ∥ A − A n ​ ∥ → 0 이다.
+
+( ⇐ ) (\Leftarrow) ( ⇐ ) R ( H , K ) \mathcal{R}(H, K) R ( H , K ) 의 작용소열 { A n } \{A_n\} { A n ​ } 이 A ∈ B ( H , K ) A\in\mathcal{B}(H, K) A ∈ B ( H , K ) 로 수렴한다 하자. A ( B ) A(B) A ( B ) 가 컴팩트 폐포를 가짐을 보인다. 임의의 ϵ > 0 \epsilon>0 ϵ > 0 에 대하여 ∥ A − A n ∥ < ϵ / 3 \|A-A_n\|<\epsilon/3 ∥ A − A n ​ ∥ < ϵ /3 을 만족시키는 자연수 n n n 을 택한다. A n A_n A n ​ 은 유한계수 작용소이므로 컴팩트 작용소로, ∥ x ∥ H ≤ 1 \|x\|_H\le1 ∥ x ∥ H ​ ≤ 1 이면 A n ( B ) ⊆ ⋃ k = 1 m B ( A n x k , ϵ / 3 ) A_n(B)\subseteq \bigcup_{k=1}^m B(A_n x_k,\epsilon/3) A n ​ ( B ) ⊆ ⋃ k = 1 m ​ B ( A n ​ x k ​ , ϵ /3 ) 을 만족시키는 유한 개의 벡터 x 1 , … , x m x_1, \ldots , x_m x 1 ​ , … , x m ​ 이 존재한다. 따라서
+∥ A x k − A x ∥ K ≤ ∥ A x k − A n x k ∥ K + ∥ A n x k − A n x ∥ K + ∥ A n x − A x ∥ K < 2 ∥ A − A n ∥ K + ϵ / 3 < ϵ \|Ax_k-Ax\|_K\le\|Ax_k-A_n x_k\|_K+\|A_n x_k -A_nx\|_K+\|A_n x-Ax\|_K\\ <2\|A-A_n\|_K+\epsilon/3<\epsilon ∥ A x k ​ − A x ∥ K ​ ≤ ∥ A x k ​ − A n ​ x k ​ ∥ K ​ + ∥ A n ​ x k ​ − A n ​ x ∥ K ​ + ∥ A n ​ x − A x ∥ K ​ < 2∥ A − A n ​ ∥ K ​ + ϵ /3 < ϵ 으로, A ( B ) ⊆ ⋃ k = 1 m B ( A x k , ϵ ) A(B)\subseteq \bigcup_{k=1}^m B(Ax_k, \epsilon) A ( B ) ⊆ ⋃ k = 1 m ​ B ( A x k ​ , ϵ ) 이다.
+
+컴팩트 작용소 공간은 유한계수 작용소 공간과 마찬가지로 대수적 구조를 이룬다. - K ( H , K ) ≤ B ( H , K ) \mathcal{K}(H, K)\le\mathcal{B}(H, K) K ( H , K ) ≤ B ( H , K ) 이고 R ( H , K ) \mathcal{R}(H, K) R ( H , K ) 는 K ( H , K ) \mathcal{K}(H, K) K ( H , K ) 이다.
+- A ∈ K ( K , L ) , A ∈ B ( H , K ) ⇒ A A ∈ K ( H , L ) A\in \mathcal{K}(K, L), A\in \mathcal{B}(H, K)\Rightarrow AA\in \mathcal{K}(H, L) A ∈ K ( K , L ) , A ∈ B ( H , K ) ⇒ AA ∈ K ( H , L )
+- B ∈ K ( H , K ) , A ∈ B ( K , L ) ⇒ A B ∈ K ( H , L ) B\in \mathcal{K}(H, K), A\in \mathcal{B}(K, L)\Rightarrow AB\in \mathcal{K}(H, L) B ∈ K ( H , K ) , A ∈ B ( K , L ) ⇒ A B ∈ K ( H , L )
+- A ∈ K ( H , K ) ⇔ A ∗ ∈ K ( H , K ) A\in \mathcal{K}(H, K)\Leftrightarrow A^*\in \mathcal{K}(H, K) A ∈ K ( H , K ) ⇔ A ∗ ∈ K ( H , K ) 이다.
+
+따라서 힐베르트 공간 H H H 의 컴팩트 작용소 공간 K ( H ) \mathcal{K}(H) K ( H ) 는 유계 작용소 공간 B ( H ) \mathcal{B}(H) B ( H ) 의 닫힌 양측 아이디얼이며, 대합 A ↦ A ∗ A\mapsto A^* A ↦ A ∗ 를 갖는다. 증명 - H H H 의 단위구 B B B 에 대하여 ran ⁡ A ‾ \overline{\operatorname{ran} A} ran A 가 K K K 의 컴팩트 집합이므로 모든 ∥ x ∥ K = 1 \|x\|_K=1 ∥ x ∥ K ​ = 1 인 x ∈ B x\in B x ∈ B 에 대하여 ∥ A x ∥ K ≤ M = M ∥ x ∥ H \|Ax\|_K\le M=M\|x\|_H ∥ A x ∥ K ​ ≤ M = M ∥ x ∥ H ​ 를 만족시키는 M > 0 M>0 M > 0 이 존재한다. 즉, A ≤ B ( H , K ) A\le \mathcal{B}(H, K) A ≤ B ( H , K ) 이다. { A n } \{A_n\} { A n ​ } 을 A ∈ B ( H , K ) A\in \mathcal{B}(H,K) A ∈ B ( H , K ) 로 수렴하는 K ( H , K ) \mathcal{K}(H, K) K ( H , K ) 의 작용소열이라 하자. 임의의 ϵ > 0 \epsilon>0 ϵ > 0 에 대하여 ∥ A − A n ∥ < ϵ / 2 \|A-A_n\|<\epsilon/2 ∥ A − A n ​ ∥ < ϵ /2 를 만족시키는 A n A_n A n ​ 을 택하면 A n A_n A n ​ 은 컴팩트 작용소이므로 A n A_n A n ​ 으로 수렴하는 유한계수 작용소열 { A n k } k = 1 ∞ \{A_{n_k}\}_{k=1}^\infty { A n k ​ ​ } k = 1 ∞ ​ 가 존재한다. ∥ A n − A n k ∥ < ϵ / 2 \|A_n-A_{n_k}\|<\epsilon/2 ∥ A n ​ − A n k ​ ​ ∥ < ϵ /2 를 만족시키는 k ∈ N k\in \mathbb{N} k ∈ N 를 택하여 S n = A n k S_n=A_{n_k} S n ​ = A n k ​ ​ 라 하자.
+∥ A − S n ∥ ≤ ∥ A − A n ∥ + ∥ A n − S n ∥ < ϵ \|A-S_n\|\le\|A-A_n\|+\|A_n-S_n\|<\epsilon ∥ A − S n ​ ∥ ≤ ∥ A − A n ​ ∥ + ∥ A n ​ − S n ​ ∥ < ϵ 이므로 { S n } \{S_n\} { S n ​ } 은 A A A 로 수렴하는 유한계수 작용소열이다. 즉 A A A 는 컴팩트 작용소이다. 따라서 K ( H , K ) \mathcal{K}(H, K) K ( H , K ) 는 B ( H , K ) \mathcal{B}(H, K) B ( H , K ) 의 부분공간이다.
+- { A n } \{A_n\} { A n ​ } 을 A A A 로 수렴하는 R ( H , K ) \mathcal{R}(H, K) R ( H , K ) 의 유한계수 작용소열이라 하면 A n = A n A A_n=A_nA A n ​ = A n ​ A 는 R ( H , L ) \mathcal{R}(H, L) R ( H , L ) 의 유한계수 작용소열이다. ∥ x ∥ H = 1 \|x\|_H=1 ∥ x ∥ H ​ = 1 인 임의의 x ∈ H x\in H x ∈ H 에 대하여
+∥ ( A − A n ) A x ∥ L ≤ ∥ A − A n ∥ ∥ A ∥ \|(A-A_n)Ax\|_L\le\|A-A_n\|\|A\| ∥ ( A − A n ​ ) A x ∥ L ​ ≤ ∥ A − A n ​ ∥∥ A ∥ 이므로 ∥ A A − A n ∥ ≤ ∥ A ∥ ∥ A − A n ∥ → 0 \|AA-A_n\|\le \|A\|\|A-A_n\|\to 0 ∥ AA − A n ​ ∥ ≤ ∥ A ∥∥ A − A n ​ ∥ → 0 로 A n → A A A_n\to AA A n ​ → AA 이다. 즉, A A ∈ K ( H , L ) AA\in \mathcal{K}(H, L) AA ∈ K ( H , L ) 이다.
+- b.의 증명 방법과 동일하다.
+- { A n } \{A_n\} { A n ​ } 을 A A A 로 수렴하는 R ( H , K ) \mathcal{R}(H, K) R ( H , K ) 의 유한계수 작용소열이라 하면. { A n ∗ } \{A_n^*\} { A n ∗ ​ } 은 R ( H , K ) \mathcal{R}(H, K) R ( H , K ) 의 유한계수 작용소열이다. ( A − A n ) ∗ = A ∗ − A n ∗ (A-A_n)^*=A^*-A_n^* ( A − A n ​ ) ∗ = A ∗ − A n ∗ ​ 에서 ∥ A − A n ∥ = ∥ A ∗ − A n ∗ ∥ \|A-A_n\|=\|A^*-A_n^*\| ∥ A − A n ​ ∥ = ∥ A ∗ − A n ∗ ​ ∥ 이므로 A n ∗ → A ∗ A_n^*\to A^* A n ∗ ​ → A ∗ 로 A ∗ ∈ K ( H , K ) A^*\in\mathcal{K}(H,K) A ∗ ∈ K ( H , K ) 이다.
+
+5.5. 작용소의 스펙트럼 [편집]
+유계 작용소의 스펙트럼 (spectrum)은 유한차원 작용소의 고윳값 을 일반화한 개념이다. 힐베르트 공간 H H H 의 유계 작용소 A ∈ B ( H ) A\in\mathcal{B}(H) A ∈ B ( H ) 에 대하여 λ I − A \lambda I-A λ I − A 가 가역이 되도록 하는 복소수 λ \lambda λ 의 집합 ρ ( A ) \rho(A) ρ ( A ) 를 A A A 의 분해집합 (resolvent set)이라고 한다. 여기서 I I I 는 항등 작용소를 의미한다. 즉, A A A 의 분해집합은
+ρ ( A ) = { λ ∈ C : λ I − A is invertible } \rho(A)=\{\lambda\in\mathbb{C}:\lambda I-A\text{ is invertible} \} ρ ( A ) = { λ ∈ C : λ I − A is invertible } 이다. A A A 의 분해집합의 여집합 σ ( A ) \sigma(A) σ ( A ) 를 A A A 의 스펙트럼 (spectrum)이라고 한다. 즉, A A A 의 스펙트럼은
+σ ( A ) = { λ ∈ C : λ I − A is not invertible } = C ∖ ρ ( M ) \sigma(A)=\{\lambda\in\mathbb{C}:\lambda I-A\text{ is not invertible} \}=\mathbb{C}\setminus\rho(M) σ ( A ) = { λ ∈ C : λ I − A is not invertible } = C ∖ ρ ( M ) 이다. ker ⁡ ( A − λ I ) ≠ { 0 } \ker(A-\lambda I)\ne\{0\} ker ( A − λ I )  = { 0 } 인 복소수 λ \lambda λ 를 A A A 의 고윳값 (eigenvalue)이라 하며, A A A 의 고윳값 λ \lambda λ 에 대하여 dim ⁡ ker ⁡ ( A − λ I ) \dim\ker(A-\lambda I) dim ker ( A − λ I ) 를 λ \lambda λ 의 (기하적) 중복도 (multiplicity)라고 한다. 고윳값의 집합을 점 스펙트럼 (point spectrum)이라 하며 σ P ( A ) \sigma_P(A) σ P ​ ( A ) 로 나타낸다. 즉, A A A 의 점 스펙트럼은
+σ P ( A ) = { λ ∈ C : ker ⁡ ( A − λ I ) ≠ { 0 } } \sigma_P(A)=\{\lambda\in\mathbb{C}:\ker(A-\lambda I)\ne\{0\}\} σ P ​ ( A ) = { λ ∈ C : ker ( A − λ I )  = { 0 }} 이다. 정의에 따라서 점 스펙트럼은 스펙트럼의 부분집합이다.
+
+유한차원 힐베르트 공간에서 스펙트럼은 점 스펙트럼과 일치한다. 유한차원 힐베르트 공간의 작용소 A A A 의 행렬 표현을 M A M_A M A ​ 라고 하면 복소수 λ \lambda λ 에 대하여 A − λ A-\lambda A − λ 가 가역일 필요충분조건은 det ⁡ ( M A − λ I ) = 0 \det(M_A-\lambda I)=0 det ( M A ​ − λ I ) = 0 이고 행렬 M A M_A M A ​ 의 고윳값 집합은
+{ λ ∈ C : det ⁡ ( M A − λ I ) = 0 } = σ P ( A ) \{\lambda\in\mathbb{C}:\det(M_A-\lambda I)=0\}=\sigma_P(A) { λ ∈ C : det ( M A ​ − λ I ) = 0 } = σ P ​ ( A ) 이므로 σ ( A ) = σ P ( A ) \sigma(A)=\sigma_P(A) σ ( A ) = σ P ​ ( A ) 이다.
+
+그러나 무한차원 힐베르트 공간에서 스펙트럼과 점 스펙트럼은 일반적으로 일치하지 않는다. 예를 들어, L 2 ( [ 0 , 1 ] ) L^2([0,1]) L 2 ([ 0 , 1 ]) 위의 작용소 A f ↦ x f Af\mapsto xf A f ↦ x f 에 대하여 σ P ( A ) = ∅ \sigma_P(A)=\varnothing σ P ​ ( A ) = ∅ 이지만 σ ( A ) = [ 0 , 1 ] \sigma(A)=[0,1] σ ( A ) = [ 0 , 1 ] 이다.
+
+5.5.1. 스펙트럼의 성질 [편집]
+작용소의 스펙트럼은 복소평면의 컴팩트 집합이다. A ∈ B ( H ) A\in \mathcal{B}(H) A ∈ B ( H ) 에 대하여
+σ ( A ) ⊆ { λ ∈ C : ∣ λ ∣ ≤ ∥ A ∥ } \sigma(A)\subseteq \{\lambda\in\mathbb{C}:|\lambda|\le\|A\|\} σ ( A ) ⊆ { λ ∈ C : ∣ λ ∣ ≤ ∥ A ∥ } 이다. 특히, 에르미트 작용소의 스펙트럼은 실직선의 컴팩트 집합이다. A = A ∗ A=A^* A = A ∗ 인 A ∈ B ( H ) A\in \mathcal{B}(H) A ∈ B ( H ) 에 대하여
+a − = inf ⁡ ∥ x ∥ H = 1 < A x , x > , a + = sup ⁡ ∥ x ∥ H = 1 < A x , x > \displaystyle a_-=\inf_{\|x\|_H=1}\left<Ax,x\right>,\quad a_+=\sup_{\|x\|_H=1}\left<Ax,x\right> a − ​ = ∥ x ∥ H ​ = 1 in f ​ ⟨ A x , x ⟩ , a + ​ = ∥ x ∥ H ​ = 1 sup ​ ⟨ A x , x ⟩ 라고 할 때, a − , a + ∈ σ ( A ) a_-, a_+\in \sigma(A) a − ​ , a + ​ ∈ σ ( A ) 이고 σ ( A ) ⊆ [ a − , a + ] \sigma(A)\subseteq [a_-, a_+] σ ( A ) ⊆ [ a − ​ , a + ​ ] 이다. 이 때, ∥ A ∥ = max ⁡ { a + , − a − } \|A\|=\max\{a_+, -a_-\} ∥ A ∥ = max { a + ​ , − a − ​ } 이므로 ∥ A ∥ \|A\| ∥ A ∥ 와 − ∥ A ∥ -\|A\| − ∥ A ∥ 중 적어도 하나의 값이 σ ( A ) \sigma(A) σ ( A ) 에 속함을 알 수 있다. 증명
+A A A 의 분해집합 ρ ( A ) \rho(A) ρ ( A ) 가 ρ ( A ) ⊇ { λ ∈ C : ∣ λ ∣ ≤ ∥ A ∥ } \rho(A)\supseteq \{\lambda\in\mathbb{C}:|\lambda|\le\|A\|\} ρ ( A ) ⊇ { λ ∈ C : ∣ λ ∣ ≤ ∥ A ∥ } 를 만족시키는 열린집합임을 보임과 동치이다. λ 0 ∈ ρ ( A ) \lambda_0\in\rho(A) λ 0 ​ ∈ ρ ( A ) 에 대하여 A − λ 0 A-\lambda_0 A − λ 0 ​ 는 가역이고, B ( H ) \mathcal{B}(H) B ( H ) 의 가역작용소 집합 I I I 는 B ( H ) \mathcal{B}(H) B ( H ) 의 열린집합이므로
+∥ S − ( A − λ 0 ) ∥ < ϵ 0 ⇒ S ∈ I \|S-(A-\lambda_0)\|<\epsilon_0 \Rightarrow S\in I ∥ S − ( A − λ 0 ​ ) ∥ < ϵ 0 ​ ⇒ S ∈ I 를 만족시키는 ϵ 0 > 0 \epsilon_0>0 ϵ 0 ​ > 0 가 존재한다.
+∣ λ − λ 0 ∣ < ϵ 0 ⇒ ∣ λ − λ 0 ∣ ∥ x ∥ H < ϵ 0 ∥ x ∥ H ⇒ ∥ λ I − λ 0 I ∥ < ϵ 0 ⇒ ∥ ( A − λ ) − ( A − λ 0 ) ∥ < ϵ 0 \begin{aligned} &|\lambda-\lambda_0|<\epsilon_0\\ \Rightarrow&|\lambda-\lambda_0|\|x\|_H<\epsilon_0\|x\|_H\\ \Rightarrow&\|\lambda I -\lambda_0 I\|<\epsilon_0\\ \Rightarrow&\|(A-\lambda)-(A-\lambda_0)\|<\epsilon_0 \end{aligned} ⇒ ⇒ ⇒ ​ ∣ λ − λ 0 ​ ∣ < ϵ 0 ​ ∣ λ − λ 0 ​ ∣∥ x ∥ H ​ < ϵ 0 ​ ∥ x ∥ H ​ ∥ λ I − λ 0 ​ I ∥ < ϵ 0 ​ ∥ ( A − λ ) − ( A − λ 0 ​ ) ∥ < ϵ 0 ​ ​ 이므로 λ ∈ ρ ( A ) \lambda \in \rho(A) λ ∈ ρ ( A ) 이다. 따라서 ρ ( A ) \rho(A) ρ ( A ) 는 B ( H ) \mathcal{B}(H) B ( H ) 의 열린집합이다. ∣ λ ∣ > ∥ A ∥|\lambda|>\|A\| ∣ λ ∣ > ∥ A ∥ 라고 하자. 그러면 ∥ λ − 1 A ∥ < 1 \|\lambda^{-1}A\|<1 ∥ λ − 1 A ∥ < 1 이므로 I − λ − 1 A I-\lambda^{-1}A I − λ − 1 A 는 가역이다. 따라서 A − λ = − λ ( I − λ − 1 A ) A-\lambda=-\lambda(I-\lambda^{-1}A) A − λ = − λ ( I − λ − 1 A ) 도 가역이고 λ ∈ ρ ( A ) \lambda\in\rho(A) λ ∈ ρ ( A ) 이다.
+
+에르미트 작용소 A A A 에 대하여 σ ( A ) ⊂ R \sigma(A)\subset\mathbb{R} σ ( A ) ⊂ R 임을 보인다. 즉, λ = s + i t ( t ≠ 0 ) \lambda=s+it(t\ne0) λ = s + i t ( t  = 0 ) 에 대하여 A − λ I A-\lambda I A − λ I 가 전단사임을 보인다. 이 때, A − λ I = ( A − s I ) − i t I A-\lambda I = (A-sI)-itI A − λ I = ( A − s I ) − i t I 에 대하여 A − s I A-sI A − s I 는 에르미트 작용소이므로 λ = i t ( t ≠ 0 ) \lambda=it(t\ne0) λ = i t ( t  = 0 ) 인 경우를 고려하는 것만으로 충분하다. ( A − i t I ) x = 0 (A-itI)x=0 ( A − i t I ) x = 0 이면 에르미트 작용소의 성질에 의해 < A x , x > = i t < x , x > ∈ R \left<Ax,x\right>=it\left<x,x\right>\in\mathbb{R} ⟨ A x , x ⟩ = i t ⟨ x , x ⟩ ∈ R 이므로 x = 0 x=0 x = 0 이다. 즉, A − i t I A-itI A − i t I 는 단사이다. 또한 ( A − i t I ) ∗ = A + i t I (A-itI)^*=A+itI ( A − i t I ) ∗ = A + i t I 이므로 ( A − i t ) ∗ (A-it)^* ( A − i t ) ∗ 도 단사로,
+ran ⁡ ( A − i t I ) ⊥ = ker ⁡ ( A − i t ) ∗ = { 0 } \operatorname{ran}(A-itI)^\perp=\ker(A-it)^*=\{0\} ran ( A − i t I ) ⊥ = ker ( A − i t ) ∗ = { 0 } 이다. 따라서
+ran ⁡ ( A − i t I ) ‾ = { 0 } ⊥ = H \overline{\operatorname{ran}(A-itI)}=\{0\}^\perp=H ran ( A − i t I ) ​ = { 0 } ⊥ = H 로, ran ⁡ ( A − i t I ) \operatorname{ran}(A-itI) ran ( A − i t I ) 는 H H H 의 조밀집합이다. 따라서 ran ⁡ ( A − i t I ) \operatorname{ran}(A-itI) ran ( A − i t I ) 가 닫힌집합임을 보인다. { y n } n = 1 ∞ \{y_n\}_{n=1}^\infty { y n ​ } n = 1 ∞ ​ 를 ran ⁡ ( A − i t I ) \operatorname{ran}(A-itI) ran ( A − i t I ) 의 수렴하는 점렬이라 하자. y n = ( A − i t ) x n → y y_n=(A-it)x_n\to y y n ​ = ( A − i t ) x n ​ → y 라 하면 A A A 의 에르미트성에 의해
+Im ⁡ < y m − y n , x m − x n > = ∣ t ∣ ∥ x m − x n ∥ 2 \operatorname{Im}\left<y_m-y_n,x_m-x_n\right>=|t|\|x_m-x_n\|^2 Im ⟨ y m ​ − y n ​ , x m ​ − x n ​ ⟩ = ∣ t ∣∥ x m ​ − x n ​ ∥ 2 이고 코시-슈바르츠 부등식에 의해
+Im ⁡ < y m − y n , x m − x n > ≤ ∥ y m − y n ∥ ∥ x m − x n ∥ \operatorname{Im}\left<y_m-y_n,x_m-x_n\right>\le \|y_m-y_n\|\|x_m-x_n\| Im ⟨ y m ​ − y n ​ , x m ​ − x n ​ ⟩ ≤ ∥ y m ​ − y n ​ ∥∥ x m ​ − x n ​ ∥ 이므로
+∥ x m − x n ∥ ≤ 1 ∣ t ∣ ∥ y m − y n ∥ \displaystyle\|x_m-x_n\|\le \frac{1}{|t|}\|y_m-y_n\| ∥ x m ​ − x n ​ ∥ ≤ ∣ t ∣ 1 ​ ∥ y m ​ − y n ​ ∥ 이다. { y n } n = 1 ∞ \{y_n\}_{n=1}^\infty { y n ​ } n = 1 ∞ ​ 이 수렴하는 점렬이므로 { x n } n = 1 ∞ \{x_n\}_{n=1}^\infty { x n ​ } n = 1 ∞ ​ 는 H H H 의 코시열이고, 힐베르트 공간의 완비성에 의해 극한 x ∈ H x\in H x ∈ H 가 존재한다. 유계 작용소의 연속성에 의해
+lim ⁡ n → ∞ y n = lim ⁡ n → ∞ ( A − i t I ) ( x n ) = ( A − i t I ) ( lim ⁡ n → ∞ x n ) = ( A − i t I ) x \displaystyle\begin{aligned} \lim_{n\to\infty}y_n&=\lim_{n\to\infty}(A-itI)(x_n)\\ &=(A-itI)\left(\lim_{n\to\infty}x_n\right)\\ &=(A-itI)x\end{aligned} n → ∞ lim ​ y n ​ ​ = n → ∞ lim ​ ( A − i t I ) ( x n ​ ) = ( A − i t I ) ( n → ∞ lim ​ x n ​ ) = ( A − i t I ) x ​ 이고 극한은 유일하므로 y = lim ⁡ n → ∞ ( A − i t I ) x y=\lim_{n\to\infty}(A-itI)x y = lim n → ∞ ​ ( A − i t I ) x 이다. 즉, ran ⁡ ( A − i t I ) \operatorname{ran}(A-itI) ran ( A − i t I ) 는 닫힌집합이고 따라서 A − i t I A-itI A − i t I 는 전단사이다.
+
+에르미트 작용소의 성질에 의해 임의의 x ∈ H x\in H x ∈ H 에 대하여 − ∥ A ∥ ≤ < A x , x > ≤ ∥ A ∥ -\|A\|\le\left<Ax, x\right>\le \|A\| − ∥ A ∥ ≤ ⟨ A x , x ⟩ ≤ ∥ A ∥ 이다.
+− ∥ A ∥ ≤ a − ≤ a + ≤ ∥ A ∥ -\|A\|\le a_-\le a_+\le \|A\| − ∥ A ∥ ≤ a − ​ ≤ a + ​ ≤ ∥ A ∥ 이고 상한 및 하한의 정의에 의해 < A x n ± , x n ± > \left<Ax_n^\pm,x_n^\pm\right> ⟨ A x n ± ​ , x n ± ​ ⟩ 이 a ± a_\pm a ± ​ 으로 수렴하는 두 단위벡터열 { e n ± } \{e_n^\pm\} { e n ± ​ } 이 존재한다. < ( A − a ± ) e n ± , e n ± > → 0 \left<(A-a_\pm)e_n^\pm,e_n^\pm\right>\to0 ⟨ ( A − a ± ​ ) e n ± ​ , e n ± ​ ⟩ → 0 이므로 a ± ∈ σ ( A ) a_\pm\in\sigma(A) a ± ​ ∈ σ ( A ) 이다. b = ( a + − a − ) / 2 b=(a_+-a_-)/2 b = ( a + ​ − a − ​ ) /2 라 하면 S = A − b I S=A-bI S = A − b I 는 에르미트 작용소이고, sup ⁡ ∥ x ∥ = 1 ∣ < S x , x > ∣ = b \sup_{\|x\|=1}|\left<Sx, x\right>|=b sup ∥ x ∥ = 1 ​ ∣ ⟨ S x , x ⟩ ∣ = b 를 만족시킨다. 따라서 ∥ S ∥ = b \|S\|=b ∥ S ∥ = b 이고 σ ( S ) ⊆ { x ∈ R : ∣ x ∣ ≤ ∥ S ∥ } \sigma(S)\subseteq\{x\in\mathbb{R}:|x|\le \|S\|\} σ ( S ) ⊆ { x ∈ R : ∣ x ∣ ≤ ∥ S ∥ } 에 의해
+σ ( A ) ⊆ [ − ∥ S ∥ + b , ∥ S ∥ + b ] = [ a − , a + ] \sigma(A)\subseteq[-\|S\|+b, \|S\|+b]=[a_-,a_+] σ ( A ) ⊆ [ − ∥ S ∥ + b , ∥ S ∥ + b ] = [ a − ​ , a + ​ ] 이다.
+
+작용소의 스펙트럼은 작용소에 대한 변환에 자연스럽게 대응하여 변환된다. 작용소 A ∈ B ( H ) A\in \mathcal{B}(H) A ∈ B ( H ) 에 대하여 다음이 성립한다. - 다항식 p ( x ) ∈ C [ x ] p(x)\in\mathbb{C}[x] p ( x ) ∈ C [ x ] 에 대하여 σ ( p ( A ) ) = p ( σ ( A ) ) = { p ( λ ) : λ ∈ σ ( A ) } \sigma(p(A))=p(\sigma(A))=\{p(\lambda):\lambda\in\sigma(A)\} σ ( p ( A )) = p ( σ ( A )) = { p ( λ ) : λ ∈ σ ( A )} 이다.
+- A A A 가 가역이면 σ ( A − 1 ) = σ ( A ) − 1 = { λ − 1 : λ ∈ σ ( A ) } \sigma(A^{-1})=\sigma(A)^{-1}=\{\lambda^{-1}:\lambda\in\sigma(A)\} σ ( A − 1 ) = σ ( A ) − 1 = { λ − 1 : λ ∈ σ ( A )} 이다.
+- σ ( A ∗ ) = σ ( A ) ‾ = { λ ‾ : λ ∈ σ ( A ) } \sigma(A^*)=\overline{\sigma(A)}=\{\overline{\lambda}:\lambda\in\sigma(A)\} σ ( A ∗ ) = σ ( A ) ​ = { λ : λ ∈ σ ( A )} 이다.
+
+증명
+(a.) 다항식 p p p 와 임의의 λ 0 ∈ σ ( A ) \lambda_0\in\sigma(A) λ 0 ​ ∈ σ ( A ) 에 대하여 p ( λ ) − p ( λ 0 ) = ( λ = λ 0 ) q ( λ ) p(\lambda)-p(\lambda_0)=(\lambda=\lambda_0)q(\lambda) p ( λ ) − p ( λ 0 ​ ) = ( λ = λ 0 ​ ) q ( λ ) 를 만족시키는 다항식 q q q 가 존재하고, 이에 따라
+p ( A ) − p ( λ 0 ) I = ( A − λ 0 I ) q ( A ) p(A)-p(\lambda_0)I=(A-\lambda_0I)q(A) p ( A ) − p ( λ 0 ​ ) I = ( A − λ 0 ​ I ) q ( A ) 를 얻는다. S = ( A − λ 0 I ) q ( A ) S=(A-\lambda_0I)q(A) S = ( A − λ 0 ​ I ) q ( A ) 가 가역이라 가정하면
+( A − λ 0 I ) q ( A ) S − 1 = I = S − 1 ( A − λ 0 I ) q ( A ) = S − 1 q ( A ) ( A − λ 0 I ) \begin{aligned} &(A-\lambda_0I)q(A)S^{-1}\\ =&I\\ =&S^{-1}(A-\lambda_0I)q(A)\\ =&S^{-1}q(A)(A-\lambda_0I) \end{aligned} = = = ​ ( A − λ 0 ​ I ) q ( A ) S − 1 I S − 1 ( A − λ 0 ​ I ) q ( A ) S − 1 q ( A ) ( A − λ 0 ​ I ) ​ 이므로 A − λ 0 I A-\lambda_0I A − λ 0 ​ I 는 가역이다. 이는 모순이므로 S S S 는 비가역이다. 따라서 p ( λ 0 ) ∈ σ ( p ( A ) ) p(\lambda_0)\in\sigma(p(A)) p ( λ 0 ​ ) ∈ σ ( p ( A )) 로, p ( λ ( A ) ) ⊆ σ ( p ( A ) ) p(\lambda(A))\subseteq\sigma(p(A)) p ( λ ( A )) ⊆ σ ( p ( A )) 이다. 반대로 λ 0 ∈ σ ( p ( A ) ) \lambda_0\in\sigma(p(A)) λ 0 ​ ∈ σ ( p ( A )) 일 때, λ \lambda λ 에 대한 방정식 p ( λ ) = λ 0 p(\lambda)=\lambda_0 p ( λ ) = λ 0 ​ 의 근을 λ 1 , … , λ n \lambda_1,\ldots,\lambda_n λ 1 ​ , … , λ n ​ 이라 하면
+p ( A ) − λ 0 I = α ( A − λ 1 I ) ⋯ ( A − λ n I ) , α = λ n p ( 1 λ ) ∣ λ = 0 p(A)-\lambda_0I=\alpha(A-\lambda_1I)\cdots(A-\lambda_nI),\quad\alpha=\lambda^np\left.\left(\dfrac{1}{\lambda}\right)\right|_{\lambda=0} p ( A ) − λ 0 ​ I = α ( A − λ 1 ​ I ) ⋯ ( A − λ n ​ I ) , α = λ n p ( λ 1 ​ ) ​ λ = 0 ​ 이다. p ( A ) − λ 0 I p(A)-\lambda_0I p ( A ) − λ 0 ​ I 가 비가역이므로 A − λ k I A-\lambda_kI A − λ k ​ I 가 비가역인 k ( 1 ≤ k ≤ n ) k(1\le k \le n) k ( 1 ≤ k ≤ n ) 가 존재하고 따라서 λ k ∈ σ ( A ) \lambda_k\in\sigma(A) λ k ​ ∈ σ ( A ) 이다. p ( λ k ) = λ 0 p(\lambda_k)=\lambda_0 p ( λ k ​ ) = λ 0 ​ 이므로 λ 0 ∈ p ( σ ( A ) ) \lambda_0\in p(\sigma(A)) λ 0 ​ ∈ p ( σ ( A )) 로, σ ( p ( A ) ) ⊆ p ( σ ( A ) ) \sigma(p(A))\subseteq p(\sigma(A)) σ ( p ( A )) ⊆ p ( σ ( A )) 이다. 따라서 σ ( p ( A ) ) = p ( σ ( A ) ) \sigma(p(A))=p(\sigma(A)) σ ( p ( A )) = p ( σ ( A )) 이다.
+
+(b.) A A A 가 가역이므로 0 ∉ σ ( A ) 0\notin\sigma(A) 0 ∈ / σ ( A ) 이다. λ ∈ ρ ( A ) \lambda\in\rho(A) λ ∈ ρ ( A ) 에 대하여 등식
+A − 1 − λ − 1 I = ( λ I − A ) λ − 1 A − 1 A^{-1}-\lambda^{-1}I=(\lambda I-A)\lambda^{-1}A^{-1} A − 1 − λ − 1 I = ( λ I − A ) λ − 1 A − 1 에서 A − 1 − λ − 1 A^{-1}-\lambda^{-1} A − 1 − λ − 1 이므로 λ − 1 ∈ ρ ( A − 1 ) \lambda^{-1}\in\rho(A^{-1}) λ − 1 ∈ ρ ( A − 1 ) 이다. 즉, λ − 1 ∈ σ ( A − 1 ) \lambda^{-1}\in\sigma(A^{-1}) λ − 1 ∈ σ ( A − 1 ) 이면 λ ∈ σ ( A ) \lambda \in \sigma(A) λ ∈ σ ( A ) 로, σ ( A − 1 ) ⊆ σ ( A ) − 1 \sigma(A^{-1})\subseteq\sigma(A)^{-1} σ ( A − 1 ) ⊆ σ ( A ) − 1 이다. 반대로 λ ∈ ρ ( A − 1 ) \lambda\in\rho(A^{-1}) λ ∈ ρ ( A − 1 ) 및 A − 1 , ( A − 1 ) − 1 = A A^{-1}, (A^{-1})^{-1}=A A − 1 , ( A − 1 ) − 1 = A 에 대하여 위 과정을 적용하면 σ ( A − 1 ) ⊇ σ ( A ) − 1 \sigma(A^{-1})\supseteq\sigma(A)^{-1} σ ( A − 1 ) ⊇ σ ( A ) − 1 를 얻는다. 따라서 σ ( A − 1 ) = σ ( A ) − 1 \sigma(A^{-1})=\sigma(A)^{-1} σ ( A − 1 ) = σ ( A ) − 1 이다.
+
+(c.) λ ∈ ρ ( A ) \lambda\in\rho(A) λ ∈ ρ ( A ) 에 대하여 A − λ I A-\lambda I A − λ I 가 가역이므로 ( A − λ I ) ∗ = A ∗ − λ ‾ I (A-\lambda I)^*=A^*-\overline{\lambda}I ( A − λ I ) ∗ = A ∗ − λ I 또한 가역이고 λ ‾ ∈ ρ ( A ∗ ) \overline{\lambda}\in\rho(A^*) λ ∈ ρ ( A ∗ ) 이다. 즉, σ ( A ∗ ) ⊆ σ ( A ) ‾ \sigma(A^*)\subseteq\overline{\sigma(A)} σ ( A ∗ ) ⊆ σ ( A ) ​ 이다. 반대로 λ ∈ ρ ( A ∗ ‾ ) \lambda\in\rho(\overline{A^*}) λ ∈ ρ ( A ∗ ) 및 A ∗ , A ∗ ∗ = A A^*, A^{**}=A A ∗ , A ∗∗ = A 에 대하여 위 과정을 적용하면 σ ( A ∗ ) ⊇ σ ( A ) ‾ \sigma(A^*)\supseteq\overline{\sigma(A)} σ ( A ∗ ) ⊇ σ ( A ) ​ 를 얻는다. 따라서 σ ( A ∗ ) = σ ( A ) ‾ \sigma(A^*)=\overline{\sigma(A)} σ ( A ∗ ) = σ ( A ) ​ 이다.
+
+5.5.2. 스펙트럼 정리 [편집]
+힐베르트 공간 H H H 의 컴팩트 에르미트 작용소 A ∈ B ( H ) A\in\mathcal{B}(H) A ∈ B ( H ) 는 가산 개의 서로 다른 고윳값 λ 1 , λ 2 , … \lambda_1,\lambda_2,\ldots λ 1 ​ , λ 2 ​ , … 을 가지며, P n P_n P n ​ 을 ker ⁡ ( A − λ n ) \ker(A-\lambda_n) ker ( A − λ n ​ ) 위로의 정사영이라 하면 m ≠ n m\ne n m  = n 인 임의의 m , n ∈ N m, n\in\mathbb{N} m , n ∈ N 에 대하여 P n P m = P m P n = 0 P_n P_m =P_m P_n=0 P n ​ P m ​ = P m ​ P n ​ = 0 이고 다음이 성립한다.
+A = ∑ n = 1 ∞ λ n P n \displaystyle A= \sum_{n=1}^\infty \lambda_n P_n A = n = 1 ∑ ∞ ​ λ n ​ P n ​ 증명
+A A A 가 에르미트 작용소이므로 ∣ λ 1 ∣ = ∥ T ∥|\lambda_1|=\|T\| ∣ λ 1 ​ ∣ = ∥ T ∥ 를 만족시키는 실수 λ 1 ∈ σ P ( A ) \lambda_1\in\sigma_P(A) λ 1 ​ ∈ σ P ​ ( A ) 가 존재한다.
+
+A A A 는 에르미트 작용소로, 정규 작용소이므로 A − λ 1 I A-\lambda_1 I A − λ 1 ​ I 는 정규 작용소이다. 따라서 임의의 x ∈ H x\in H x ∈ H 에 대하여 ∥ ( A − λ 1 I ) x ∥ H = ∥ ( A − λ 1 I ) ∗ x ∥ H \|(A-\lambda_1I)x\|_H=\|(A-\lambda_1I)^*x\|_H ∥ ( A − λ 1 ​ I ) x ∥ H ​ = ∥ ( A − λ 1 ​ I ) ∗ x ∥ H ​ 로, ker ⁡ ( A − λ 1 I ) = ker ⁡ ( A − λ 1 I ) ∗ \ker(A-\lambda_1I)=\ker(A-\lambda_1I)^* ker ( A − λ 1 ​ I ) = ker ( A − λ 1 ​ I ) ∗ 이다. x ∈ ker ⁡ ( A − λ 1 I ) x\in\ker(A-\lambda_1I) x ∈ ker ( A − λ 1 ​ I ) 에 대하여
+A x = λ 1 x ∈ ker ⁡ ( A − λ 1 I ) Ax=\lambda_1x\in\ker(A-\lambda_1 I) A x = λ 1 ​ x ∈ ker ( A − λ 1 ​ I ) , A ∗ x = λ 1 ‾ x ∈ ker ⁡ ( A − λ 1 I ) A^*x=\overline{\lambda_1}x\in\ker(A-\lambda_1 I) A ∗ x = λ 1 ​ ​ x ∈ ker ( A − λ 1 ​ I ) 이므로 ker ⁡ ( A − λ 1 I ) \ker(A-\lambda_1I) ker ( A − λ 1 ​ I ) 는 A A A 의 축소 부분공간이다.
+
+부분공간 E 1 , H 2 E_1, H_2 E 1 ​ , H 2 ​ 를 각각 E 1 : = ker ⁡ ( A − λ 1 I ) , H 2 : = E 1 ⊥ E_1:=\ker(A-\lambda_1I), H_2:=E_1^\perp E 1 ​ := ker ( A − λ 1 ​ I ) , H 2 ​ := E 1 ⊥ ​ 라 하자. E 1 E_1 E 1 ​ 은 A A A 의 축소 부분공간이므로 H 2 H_2 H 2 ​ 도 A A A 의 축소 부분공간이다. A 2 = A ∣ H 2 A_2=A|_{H_2} A 2 ​ = A ∣ H 2 ​ ​ 라 하자. x , y ∈ H 2 x, y\in H_2 x , y ∈ H 2 ​ 에 대하여
+< A 2 x , y > H = < A x , y > H = < x , A y > H = < x , A 2 y > H \left<A_2x, y\right>_H=\left<Ax, y\right>_H=\left<x, Ay\right>_H=\left<x, A_2y\right>_H ⟨ A 2 ​ x , y ⟩ H ​ = ⟨ A x , y ⟩ H ​ = ⟨ x , A y ⟩ H ​ = ⟨ x , A 2 ​ y ⟩ H ​ 이고 A 2 H 2 ⊂ H 2 A_2H_2\subset H_2 A 2 ​ H 2 ​ ⊂ H 2 ​ 와 A 2 H 2 = A H 2 ⊂ A H A_2H_2=AH_2\subset AH A 2 ​ H 2 ​ = A H 2 ​ ⊂ A H 에서 A 2 H 2 ‾ \overline{A_2H_2} A 2 ​ H 2 ​ ​ 는 H 2 H_2 H 2 ​ 의 컴팩트 부분공간이므로 A 2 A_2 A 2 ​ 는 H 2 H_2 H 2 ​ 의 컴팩트 에르미트 작용소이다. 따라서 ∣ λ 2 ∣ = ∥ A 2 ∥|\lambda_2|=\|A_2\| ∣ λ 2 ​ ∣ = ∥ A 2 ​ ∥ 를 만족시키는 실수 λ 2 ∈ σ P ( A 2 ) \lambda_2\in\sigma_P(A_2) λ 2 ​ ∈ σ P ​ ( A 2 ​ ) 가 존재한다. E 2 = ker ⁡ ( A 2 − λ 2 I ) E_2=\ker(A_2-\lambda_2I) E 2 ​ = ker ( A 2 ​ − λ 2 ​ I ) 라 하면 { 0 } ≠ E 2 ⊆ ker ⁡ ( A − λ 2 ) \{0\}\ne E_2\subseteq\ker(A-\lambda_2) { 0 }  = E 2 ​ ⊆ ker ( A − λ 2 ​ ) 이다. λ 1 = λ 2 \lambda_1=\lambda_2 λ 1 ​ = λ 2 ​ 이면 E 2 ⊆ E 1 E_2 \subseteq E_1 E 2 ​ ⊆ E 1 ​ 이다. 그러나 E 1 ⊥ E 2 E_1 \perp E_2 E 1 ​ ⊥ E 2 ​ 이므로 이는 모순으로, λ 1 ≠ λ 2 \lambda_1 \ne \lambda_2 λ 1 ​  = λ 2 ​ 이다. 또한 ∥ A 2 ∥ ≤ ∥ A ∥ \|A_2\|\le \|A\| ∥ A 2 ​ ∥ ≤ ∥ A ∥ 이므로 ∣ λ 2 ∥ ≤ ∥ λ 1 ∥|\lambda_2\|\le \|\lambda_1\| ∣ λ 2 ​ ∥ ≤ ∥ λ 1 ​ ∥ 이다. H 3 = ( E 1 ⊕ E 2 ) ⊥ H_3=(E_1\oplus E_2)^\perp H 3 ​ = ( E 1 ​ ⊕ E 2 ​ ) ⊥ 이라 하자. 이를 반복하여 다음을 만족시키는 σ P ( A ) \sigma_P(A) σ P ​ ( A ) 의 수열 { λ n } \{\lambda_n\} { λ n ​ } 을 얻는다. - ∣ λ 1 ∥ ≥ ∣ λ 2 ∣ ≥ …|\lambda_1\|\ge |\lambda_2|\ge\ldots ∣ λ 1 ​ ∥ ≥ ∣ λ 2 ​ ∣ ≥ …
+- E n = ker ⁡ ( A − λ n I ) , ∣ λ n + 1 = ∥ T ∣ H n + 1 ∥ E_n=\ker(A-\lambda_nI), |\lambda_{n+1}=\|T|_{H_{n+1}}\| E n ​ = ker ( A − λ n ​ I ) , ∣ λ n + 1 ​ = ∥ T ∣ H n + 1 ​ ​ ∥
+
+각 E n E_n E n ​ 에서 단위벡터 e n e_n e n ​ 을 택하자. A A A 가 컴팩트 작용소이므로 { e n } \{e_n\} { e n ​ } 의 수렴하는 부분열 { e n k } \{e_{n_k}\} { e n k ​ ​ } 가 존재한다. m ≠ n m\ne n m  = n 이면 e m ⊥ e n e_m \perp e_n e m ​ ⊥ e n ​ 이고 T e n k = λ n k e n k Te_{n_k}=\lambda_{n_k}e_{n_k} T e n k ​ ​ = λ n k ​ ​ e n k ​ ​ 이므로
+∥ T e n k − T e n l ∥ 2 = λ n k 2 + λ n l 2 \|Te_{n_k}-Te_{n_l}\|^2=\lambda_{n_k}^2+\lambda_{n_l}^2 ∥ T e n k ​ ​ − T e n l ​ ​ ∥ 2 = λ n k ​ 2 ​ + λ n l ​ 2 ​ 이고 ∥ T e n k − T e n l ∥ 2 → 0 \|Te_{n_k}-Te_{n_l}\|^2\to0 ∥ T e n k ​ ​ − T e n l ​ ​ ∥ 2 → 0 이므로 ∣ λ n k ∣ → 0|\lambda_{n_k}|\to 0 ∣ λ n k ​ ​ ∣ → 0 이다. 따라서 λ n → 0 \lambda_n \to 0 λ n ​ → 0 이다.
+
+P n P_n P n ​ 을 H H H 에서 E n E_n E n ​ 위로의 정사영이라 하자. x ∈ E i ( 1 ≤ i ≤ n ) x\in E_i(1\le i\le n) x ∈ E i ​ ( 1 ≤ i ≤ n ) 에 대하여 ( A − ∑ k = 1 n λ k P k ) x = A x − λ i x = 0 (A-\sum_{k=1}^n\lambda_k P_k)x=Ax-\lambda_ix=0 ( A − ∑ k = 1 n ​ λ k ​ P k ​ ) x = A x − λ i ​ x = 0 이므로 ⨁ k = 1 n E k ⊆ ker ⁡ ( A − ∑ k = 1 n λ k P k ) \bigoplus_{k=1}^n E_k \subseteq \ker(A-\sum_{k=1}^n\lambda_kP_k) ⨁ k = 1 n ​ E k ​ ⊆ ker ( A − ∑ k = 1 n ​ λ k ​ P k ​ ) 이다. 또한 x ∈ ( ⨁ k = 1 n E k ) ⊥ = H n + 1 x\in\left(\bigoplus_{k=1}^n E_k\right)^\perp=H_{n+1} x ∈ ( ⨁ k = 1 n ​ E k ​ ) ⊥ = H n + 1 ​ 이면 ( A − ∑ k = 1 n λ k P k ) x = A x (A-\sum_{k=1}^n\lambda_kP_k)x=Ax ( A − ∑ k = 1 n ​ λ k ​ P k ​ ) x = A x 이다. 따라서 H n + 1 H_{n+1} H n + 1 ​ 은 T T T 의 축소 부분공간이고
+∥ A − ∑ k = 1 n λ k P k ∥ = ∥ T ∣ H n + 1 ∥ = ∣ λ n + 1 ∣ → 0 \displaystyle\left\|A-\sum_{k=1}^n \lambda_k P_k\right\|=\|T|_{H_{n+1}}\|=\left|\lambda_{n+1}\right|\to0 ​ A − k = 1 ∑ n ​ λ k ​ P k ​ ​ = ∥ T ∣ H n + 1 ​ ​ ∥ = ∣ λ n + 1 ​ ∣ → 0 이다. 즉, A = ∑ n = 1 ∞ λ n P n A=\sum_{n=1}^\infty \lambda_nP_n A = ∑ n = 1 ∞ ​ λ n ​ P n ​ 이다.
+
+이는 컴팩트 정규 작용소로 일반화된다. 복소 힐베르트 공간 H H H 의 컴팩트 정규 작용소 A ∈ B ( H ) A\in\mathcal{B}(H) A ∈ B ( H ) 는 가산 개의 서로 다른 고윳값 λ 1 , λ 2 , … \lambda_1, \lambda_2, \ldots λ 1 ​ , λ 2 ​ , … 를 가지며, P n P_n P n ​ 을 ker ⁡ ( A − λ n ) \ker(A-\lambda_n) ker ( A − λ n ​ ) 위로의 정사영이라 하면 m ≠ n m\ne n m  = n 인 임의의 m , n ∈ N m, n\in\mathbb{N} m , n ∈ N 에 대하여 P n P m = P m P n = 0 P_n P_m =P_m P_n=0 P n ​ P m ​ = P m ​ P n ​ = 0 이고 다음이 성립한다.
+A = ∑ n = 1 ∞ λ n P n \displaystyle A= \sum_{n=1}^\infty \lambda_n P_n A = n = 1 ∑ ∞ ​ λ n ​ P n ​
+
+6. 예시 [편집]
+- L 2 L^2 L 2 공간 : 측도공간 ( X , M , μ ) (X,\mathcal{M},\mu) ( X , M , μ ) 에 대하여 L 2 ( X , M , μ ) \mathcal{L}^2(X, \mathcal{M},\mu) L 2 ( X , M , μ ) 는 다음 조건을 충족하는 보렐 가측 함수 f f f 의 집합으로 정의된다.
+∥ f ∥ L 2 = ( ∫ X ∣ f ∣ 2 d μ ) 1 2 < ∞ \displaystyle\|f\|_{L^2}=\left(\int_X|f|^2\,d\mu\right)^{\frac{1}{2}}<\infty ∥ f ∥ L 2 ​ = ( ∫ X ​ ∣ f ∣ 2 d μ ) 2 1 ​ < ∞ 거의 어디에서나 같은 함수를 동치로 분류하는 동치 관계 ∼ \sim ∼ 에 의한 L 2 \mathcal{L}^2 L 2 공간의 동치류
+L 2 ( X , M , μ ) : = L 2 ( X , M , μ ) / ∼ L^2(X,\mathcal{M},\mu):=\mathcal{L^2}(X,\mathcal{M},\mu)/\sim L 2 ( X , M , μ ) := L 2 ( X , M , μ ) / ∼
+는 내적
+< f , g > = ∫ X f g ‾ d μ \displaystyle\left<f,g\right>=\int_X f\overline{g}\,d\mu ⟨ f , g ⟩ = ∫ X ​ f g ​ d μ 를 갖는 힐베르트 공간이다.
+
+7. 적용 [편집]
+
+7.1. 양자역학 [편집]
+양자역학 에서 계에 대한 정보는 힐베르트 공간의 원소인 파동함수 로 나타낸다. 파동함수의 함숫값 자체는 계에 관한 정보를 주지 않지만 내적, 연산자(작용소) 계산을 통해 계의 정보를 측정할 수 있다. 특히 위치, 운동량, 에너지 등의 물리량은 연산자로 표현되어 연산자에 대한 기댓값, 스펙트럼 계산 등을 통해 물리량을 측정 및 분석한다.
+
+힐베르트 공간의 일반적 성질과 정준교환관계 등의 양자역학의 기본적 가정들을 통하여 양자역학의 성질을 유도할 수 있다. 대표적으로 위치와 운동량과 같은 특정 쌍의 물리량을 동시에 정밀하게 측정할 수 없음을 의미하는 불확정성 원리 가 있다. 불확정성 원리는 교환법칙이 성립하지 않는 두 작용소의 분산에 코시 슈바르츠 부등식 을 적용해 유도한다.
+
+힐베르트 공간에서는 중첩의 원리 가 성립한다. 예를 들어, 힐베르트 공간에서 입자의 위치는 여러 가능한 위치들의 중첩으로 표현될 수 있다. 하지만 거시적 대상에 대해 중첩의 원리를 적용하면 슈뢰딩거의 고양이 라는 역설이 발생한다.
+
+양자역학에 힐베르트 공간이 쓰인다는 사실은 물리학-수학 관계 의 밀접함을 보여주는 예시이다. 이는 힐베르트 본인도 예상하지 못한 결과였기에 힐베르트는 이를 듣고 매우 놀라워했다고 전해진다.
+
+7.2. 푸리에 해석 [편집]
+푸리에 해석 에서 주기함수의 정의역을 복소 평면의 단위원 T \mathbb{T} T 로 볼 때, 함수 f ∈ L 2 ( T ) f\in L^2(\mathbb{T}) f ∈ L 2 ( T ) 의 푸리에 급수 ∑ n ∈ Z f ^ ( n ) e i n θ \sum_{n\in\mathbb{Z}}\hat{f}(n)e^{in\theta} ∑ n ∈ Z ​ f ^ ​ ( n ) e in θ 는 힐베르트 공간 L 2 ( T ) L^2(\mathbb{T}) L 2 ( T ) 의 정규직교기저 { e i n θ : n ∈ Z } \{e^{in\theta}:n\in\mathbb{Z}\} { e in θ : n ∈ Z } 에 관하여 f f f 를 정규직교기저의 선형결합으로 표현한 것이다.
+
+푸리에 변환 작용소 는 힐베르트 공간인 L 2 L^2 L 2 공간을 정의역으로 볼 때 유니터리 작용소로 잘 정의된다.
+
+7.3. 편미분방정식 [편집]
+편미분방정식 의 풀이에 힐베르트 공간의 이론이 유용하게 활용된다. 편미분방정식이 선형인 경우 애용되며 비선형인 경우 편미분방정식이 근사적으로 선형이라 가정하여 근사적인 해를 구하는데 사용된다. 신호 처리에서도 사용된다.
+
+8. 역사 [편집]
+1903년 에리크 이바르 프레드홀름이 무한차원 행렬로 적분방정식을 푸는 방법을 개발하였다. 1906년에서 1908년 사이 독일의 수학자 다비트 힐베르트 와 그의 제자 에르하르트 슈미트가 유클리드 공간의 성질을 제곱 적분 가능 실함수 공간에서 일반화하면서 최초로 무한차원 내적공간이 대두되었다. 동시에 1907년 리스 프리제시는 힐베르트 공간의 완비성을 증명했고 르베그에 의한 측도론 의 도입과 함께 함수 공간에 대한 이론이 발전하였다. 이후 폰 노이만 이 완비 내적공간을 추상적인 형태로 정립하였다. [ 남동구이사청소 쿠팡
+www.coupang.com v-if
+[ [ 로켓배송 ] [ 로켓직구 ] [ 골드박스 ] [ 로켓프레시 ] ]
+가성비 좋은 남동구이사청소, 쿠팡에서 실속있게 구매하세요.
+
+] | [ 인천논현동 맛집 소문난껍데기
+map.naver.com/p/entry/place/1943388597 v-if
+여기 껍데기 안 먹어봤다는 건 인생의 반을 손해 본 거예요! 동네 맛집의 자부심!
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+]
+
+[1] 단위구는 일반적인 무한차원 노름공간 에서도 컴팩트 집합이 아니다. 자세한 내용은 노름공간 문서 참조. [2] 역행렬을 구하는 데에 사용되는 여인수 행렬의 전치행렬과는 관계 없으며, 이러한 행렬은 고전적 수반 행렬이라 한다. [3] 전자는 ℜ ( A ) \Re(A) ℜ ( A ) 또는 Re ⁡ ( A ) \operatorname{Re}(A) Re ( A ) , 후자는 ℑ ( A ) \Im(A) ℑ ( A ) 또는 Im ⁡ ( A ) \operatorname{Im}(A) Im ( A ) 로 표기할 수 있다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

@@ -1,0 +1,116 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 푸아송 괄호
+최근 수정 시각: 2025-06-27 11:29:32 [ [ [ ] [ [ 3 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 해석학(수학)
+- 물리학
+]
+
+[ [ ] [ 고전역학
+Classical Mechanics
+[ 펼치기 · 접기 ] 기본 개념 | 텐서 ( 스칼라 · 벡터 ) · 모멘트 · 위치 · 거리 ( 변위 · 이동거리 ) · 시간 · 공간 · 질량 ( 질량중심 ) · 속력 ( 속도 · 가속도 ) · 운동 ( 운동량 ) · 힘 · 합력 · 뉴턴의 운동법칙 · 일 ( 일률 ) · 에너지 ( 퍼텐셜 에너지 · 운동 에너지 ) · 보존력 · 운동량 보존의 법칙 · 에너지 보존 법칙 · 질량 보존 법칙 · 운동 방정식
+동역학 | 관성 좌표계 · 비관성 좌표계 ( 관성력 ) · 항력 ( 수직항력 · 마찰력 ) · 등속직선운동 · 등가속도 운동 · 자유 낙하 · 포물선 운동 · 원운동 ( 구심력 · 원심력 · 등속 원운동 ) · 전향력 · 운동학 · 질점의 운동역학 · 입자계의 운동역학 · 운동 방정식
+정역학 및 강체 역학 | 정적 평형 · 블록 쌓기 문제 · 강체 · 응력 ( /응용 ) · 충돌 · 충격량 · 각속도 ( 각가속도 ) · 각운동량 ( 각운동량 보존 법칙 · 떨어지는 고양이 문제 ) · 토크 ( 비틀림 ) · 관성 모멘트 · 관성 텐서 · 우력 · 반력 · 탄성력 ( 후크 법칙 · 탄성의 한계 ) · 구성방정식 · 장동 · 소성 · 고체역학
+천체 역학 | 중심력 · 만유인력의 법칙 · 이체문제 ( 케플러의 법칙 ) · 기조력 · 삼체문제 ( 라그랑주점 ) · 궤도역학 · 수정 뉴턴 역학 · 비리얼 정리
+진동 및 파동 | 각진동수 · 진동수 · 주기 · 파장 · 파수 · 스넬의 법칙 · 전반사 · 하위헌스 원리 · 페르마의 원리 · 간섭 · 회절 · 조화 진동자 · 산란 · 진동학 · 파동방정식 · 막의 진동 · 정상파 · 결합된 진동 · 도플러 효과 · 음향학
+해석 역학 | 일반화 좌표계 ( 자유도 ) · 변분법 { 오일러 방정식 ( 벨트라미 항등식 )} · 라그랑주 역학 ( 해밀턴의 원리 · 라그랑지안 · 작용 ) · 해밀턴 역학 ( 해밀토니안 · 푸아송 괄호 · 정준 변환 · 해밀턴-야코비 방정식 · 위상 공간 ) · 뇌터 정리 · 르장드르 변환 · 고전장론
+응용 및 기타 문서 | 기계공학 ( 기계공학 둘러보기 ) · 건축학 ( 건축공학 · 구조역학 ) · 토목공학 · 매달린 줄 문제 · 치올코프스키 로켓 방정식 · 탄도학 ( 탄도 계수 ) · 자이로스코프 · 공명 · 운동 방정식 · 진자 ( 단진자 ) · 사이클로이드
+
+1 . 개요 2 . 정의 3 . 성질 4 . 교환자와의 관계 5 . 기타
+
+1. 개요 [편집]
+푸아송 괄호 (푸아송 括 弧 , Poisson bracket)는 해밀턴 역학 의 운동방정식을 표현할 때 유용한 이항 연산자이다. 1809년 프랑스 수학자 시에몽 드니 푸아송(Siméon Denis Poisson, 생몰 1781년~1840년)이 제안하였다.
+
+2. 정의 [편집]
+푸아송 괄호는 위치 q i q_{i} q i ​ 와 운동량 p i p_{i} p i ​ 로 정해지는 정규 좌표계 ( q i , p i ) (q_{i},\,p_{i}) ( q i ​ , p i ​ ) 와 시간 t t t 위에서의 두 함수 f ( q i , p i , t ) f(q_{i},\,p_{i},\,t) f ( q i ​ , p i ​ , t ) , g ( q i , p i , t ) g(q_{i},\,p_{i},\,t) g ( q i ​ , p i ​ , t ) 에 대하여 다음과 같이 정의된다. { f , g } ≡ ∑ i ( ∂ f ∂ q i ∂ g ∂ p i − ∂ f ∂ p i ∂ g ∂ q i ) \begin{aligned} \{ f,\, g\} \equiv \sum_{i} \biggl( \frac{\partial f}{\partial q_{i}}\frac{\partial g}{\partial p_{i}}-\frac{\partial f}{\partial p_{i}}\frac{\partial g}{\partial q_{i}} \biggr) \end{aligned} { f , g } ≡ i ∑ ​ ( ∂ q i ​ ∂ f ​ ∂ p i ​ ∂ g ​ − ∂ p i ​ ∂ f ​ ∂ q i ​ ∂ g ​ ) ​
+
+여기서 다음이 도출된다. - { p i , p j } = 0 \{p_{i},\,p_{j} \}=0 { p i ​ , p j ​ } = 0
+- { q i , q j } = 0 \{q_{i},\,q_{j} \}=0 { q i ​ , q j ​ } = 0
+- { q i , p j } = δ i j \{q_{i},\,p_{j} \}=\delta_{ij} { q i ​ , p j ​ } = δ ij ​
+
+δ i j \delta_{ij} δ ij ​ 는 크로네커 델타 이다.
+
+다만 양자역학 등지에서는 반교환자 와 함께 등장할 수도 있으므로, 푸아송 괄호를 { } P B \{ \quad \}_{\sf{PB}} { } PB ​ 로 쓰거나 반교환자를 [ ] + [\quad]_{+} [ ] + ​ 로 쓰기도 한다.
+
+3. 성질 [편집]
+세 함수 f ( q i , p i , t ) f(q_{i},\,p_{i},\,t) f ( q i ​ , p i ​ , t ) , g ( q i , p i , t ) g(q_{i},\,p_{i},\,t) g ( q i ​ , p i ​ , t ) , h ( q i , p i , t ) h(q_{i},\,p_{i},\,t) h ( q i ​ , p i ​ , t ) 에 대하여 다음이 성립한다. - { f , g } = − { g , f } \{f,\,g\}=-\{g,\,f\} { f , g } = − { g , f }
+- { f + g , h } = { f , h } + { g , h } \{ f+g,\,h\}=\{ f,\,h\}+\{ g,\,h\} { f + g , h } = { f , h } + { g , h }
+- { f g , h } = { f , h } g + { g , h } f \{ fg,\,h\}=\{ f,\,h\}g+\{ g,\,h\}f { f g , h } = { f , h } g + { g , h } f
+- { f , { g , h } } + { g , { h , f } } + { h , { f , g } } = 0 \{f,\,\{g,\,h \} \}+\{g,\,\{h,\,f \} \}+\{h,\,\{f,\,g \} \}=0 { f , { g , h }} + { g , { h , f }} + { h , { f , g }} = 0
+
+4. 교환자와의 관계 [편집]
+교환자 와 푸아송 괄호의 정의는 성질이 매우 유사하다는 것을 깨달을 수 있다. 실제로 고전역학에서 출발하여 양자역학을 전재하는 다양한 방법 중 푸아송 괄호를 교환자로 치환하는 방법이 있다. 즉, 해밀턴 역학에서 { q i , p j } = δ i j \begin{aligned} \{q_{i},\,p_{j} \}=\delta_{ij} \end{aligned} { q i ​ , p j ​ } = δ ij ​ ​
+
+이므로 위치 q i q_{i} q i ​ 에 대응하는 연산자 q ^ i \hat{q}_{i} q ^ ​ i ​ , 운동량 p j p_{j} p j ​ 에 대응하는 연산자 p ^ j \hat{p}_{j} p ^ ​ j ​ 를 고려했을 때, [ q ^ i , p ^ j ] = ? δ i j \begin{aligned} [\hat{q}_{i},\,\hat{p}_{j}]\overset{?}{=} \delta_{ij} \end{aligned} [ q ^ ​ i ​ , p ^ ​ j ​ ] = ? δ ij ​ ​
+
+인지를 고려하는 것이다.
+
+첫 번째는 본래의 결과와 그 결과의 켤레 에르미트 켤레 사이의 관계이다. 푸아송 괄호의 계산 결과는 1 × 1 1 \times 1 1 × 1 행렬로 생각할 수 있으므로 에르미트 켤레는 곧 켤레 복소수와 같다. 또한 고전역학에서의 함수 p p p 와 q q q 는 실함수이므로 켤레 복소수는 본래 함수와 같다. 다시 말해서 푸아송 괄호의 결과는 실수이고, 이는 위의 식에서도 확인할 수 있다. 그러나 양자역학에서 관측 가능한 연산자는 모두 에르미트 행렬 [1] 로 표현할 수 있는데, 에르미트 행렬의 교환자는 다음에서 볼 수 있듯이 반 에르미트 행렬 [2] 이다. [ A , B ] † = ( A B − B A ) † = ( A B ) † − ( B A ) † = B † A † − A † B † = B A − A B = − [ A , B ] \begin{aligned} [A,\,B]^{\dagger}&=(AB-BA)^{\dagger} \\ &=(AB)^{\dagger}-(BA)^{\dagger} \\ &=B^{\dagger}A^{\dagger}-A^{\dagger}B^{\dagger}\\&=BA-AB \\&=-[A,\,B] \end{aligned} [ A , B ] † ​ = ( A B − B A ) † = ( A B ) † − ( B A ) † = B † A † − A † B † = B A − A B = − [ A , B ] ​
+
+따라서 푸아송 괄호를 이용한 연산에서 교환자를 이용한 연산으로 옮겨가기 위해서는, 교환자 연산의 결과에서 허수단위 i i i 를 곱해주어야 한다.
+
+두 번째는 차원이다. 푸아송 괄호에서는 두 함수의 p p p 와 q q q 에 관한 미분이 포함되어 있으므로 두 함수의 곱의 단위에서 J ⋅ s \mathrm{J\cdot s} J ⋅ s 만큼을 나누어 준 단위가 푸아송 괄호의 결과의 단위가 된다. 즉 { q i , p j } \{q_i,\,p_j\} { q i ​ , p j ​ } 의 단위는 없고, 이는 위에서도 확인된다. 그러나 교환자에는 그러한 차원 변환 과정이 없어 단지 두 연산자의 곱에 의하여 단위가 결정된다. 따라서 푸아송 괄호의 결과를 교환자의 결과로 바꾸기 위해서는, 교환자에서의 결과에 J ⋅ s \mathrm{J\cdot s} J ⋅ s 의 단위를 가지는 상수를 곱해주어야 한다. 이 상수가 바로 ℏ \hbar ℏ , 즉 플랑크 상수 이다. [3]
+
+이렇게 양자역학의 표준 교환 관계(canonical commutation relation)를 끌어내었다. 더욱 중요한 것은 이 관계는 위치와 운동량에 관해서만 성립하는 것이 아닌, 위치와 운동량으로 표현되는 모든 물리량에서 성립한다는 것이다. 즉 물리량 A A A , B B B 와 이들에 각각 대응하는 연산자 A ^ \hat{A} A ^ , B ^ \hat{B} B ^ 에 대하여 다음이 성립한다. { A , B } = 1 i ℏ [ A ^ , B ^ ] \begin{aligned} \{A,\,B\}=\frac{1}{i\hbar}[\hat{A},\,\hat{B}] \end{aligned} { A , B } = i ℏ 1 ​ [ A ^ , B ^ ] ​
+
+5. 기타 [편집]
+푸아송 괄호는 해밀턴 역학의 다양한 식을 직관적인 꼴로 나타내기 매우 적합하다.
+
+예를 들어 해밀턴 역학에서 운동 방정식 q ˙ i = ∂ H ∂ p i − p ˙ i = ∂ H ∂ q i \begin{aligned} \dot{q}_{i}&=\frac{\partial \mathcal{H}}{\partial p_{i}} \\ -\dot{p}_{i}&=\frac{\partial \mathcal{H}}{\partial q_{i}} \end{aligned} q ˙ ​ i ​ − p ˙ ​ i ​ ​ = ∂ p i ​ ∂ H ​ = ∂ q i ​ ∂ H ​ ​
+
+을 고려해보자. 이것을 다음과 같이 나타낼 수 있다. q ˙ i = { q i , H } p ˙ i = { p i , H } \begin{aligned} \dot{q}_{i}&=\{q_{i},\,\mathcal{H}\} \\ \dot{p}_{i}&=\{p_{i},\,\mathcal{H}\}\end{aligned} q ˙ ​ i ​ p ˙ ​ i ​ ​ = { q i ​ , H } = { p i ​ , H } ​
+
+이로써 위치 함수와 시간 함수가 완전히 대칭적 형태를 띔을 알 수 있다.
+
+위에서 더 나아가 일반적인 함수 f f f 에 대해서는 d f d t = { f , H } + ∂ f ∂ t \begin{aligned} \frac{{\rm d} f}{{\rm d}t}&=\{f,\,\mathcal{H}\}+\frac{\partial f}{\partial t}\end{aligned} d t d f ​ ​ = { f , H } + ∂ t ∂ f ​ ​
+
+[증명]
+일반적인 함수 f ( q i , p i , t ) f(q_{i},\,p_{i},\,t) f ( q i ​ , p i ​ , t ) 를 고려하자. 이 함수의 전미분을 고려하면 d f = ∑ i ( ∂ f ∂ q i d q i + ∂ f ∂ p i d p i ) + ∂ f ∂ t d t \begin{aligned} {\rm d}f=\sum_{i}\biggl(\frac{\partial f}{\partial q_{i}}{\rm d} q_{i}+\frac{\partial f}{\partial p_{i}}{\rm d} p_{i} \biggr)+\frac{\partial f}{\partial t}{\rm d} t \end{aligned} d f = i ∑ ​ ( ∂ q i ​ ∂ f ​ d q i ​ + ∂ p i ​ ∂ f ​ d p i ​ ) + ∂ t ∂ f ​ d t ​
+
+이상에서 d f d t = ∑ i ( ∂ f ∂ q i d q i d t + ∂ f ∂ p i d p i d t ) + ∂ f ∂ t \begin{aligned} \frac{{\rm d}f}{{\rm d}t}=\sum_{i}\biggl(\frac{\partial f}{\partial q_{i}}\frac{{\rm d} q_{i}}{{\rm d} t}+\frac{\partial f}{\partial p_{i}}\frac{{\rm d} p_{i}}{{\rm d} t} \biggr)+\frac{\partial f}{\partial t} \end{aligned} d t d f ​ = i ∑ ​ ( ∂ q i ​ ∂ f ​ d t d q i ​ ​ + ∂ p i ​ ∂ f ​ d t d p i ​ ​ ) + ∂ t ∂ f ​ ​
+
+해밀토니언의 운동 방정식을 사용하면 d f d t = ∑ i ( ∂ f ∂ q i ∂ H ∂ p i − ∂ f ∂ p i ∂ H ∂ q i ) + ∂ f ∂ t = { f , H } + ∂ f ∂ t \begin{aligned} \frac{{\rm d}f}{{\rm d}t}&=\sum_{i}\biggl(\frac{\partial f}{\partial q_{i}}\frac{\partial \mathcal{H}}{\partial p_{i}}-\frac{\partial f}{\partial p_{i}}\frac{\partial \mathcal{H}}{\partial q_{i}}\biggr)+\frac{\partial f}{\partial t} \\&=\{f,\,\mathcal{H}\}+\frac{\partial f}{\partial t} \end{aligned} d t d f ​ ​ = i ∑ ​ ( ∂ q i ​ ∂ f ​ ∂ p i ​ ∂ H ​ − ∂ p i ​ ∂ f ​ ∂ q i ​ ∂ H ​ ) + ∂ t ∂ f ​ = { f , H } + ∂ t ∂ f ​ ​
+
+함수 f f f 가 시간에 의존하지 않는다면 우변의 제2항은 0이 되는데, d f d t = { f , H } \begin{aligned} \frac{{\rm d} f}{{\rm d}t}&=\{f,\,\mathcal{H}\}\end{aligned} d t d f ​ ​ = { f , H } ​
+
+여기서 f f f 가 시간에 대한 보존량이 되기 위한 조건이 나온다. { f , H } = 0 \begin{aligned} \{f,\,\mathcal{H}\}=0\end{aligned} { f , H } = 0 ​
+
+고전역학 자체에 뭔가 새로운 물리를 더해주지는 않는다고 생각할 수 있지만, 위에서 언급하였듯이 푸아송 괄호는 고전 역학과 양자 역학 사이를 이어주는 견고한 다리 역할을 한다. 즉 쓸모가 있는 수준이 아니라 무지막지하게 중요하다. 이러한 점이 물리학자들이 푸아송 괄호를 진정 아름답다고 부르는 이유일 것이다. [ 남동구가구 전문 썸앤데코
+m.place.naver.com/place/1778971598 v-if
+자체제작 가구 및 타브랜드제품을 가성비있게 제공하는 가구전문 브랜드 썸앤데코
+
+] | [ 사무실의 모든것 지니오피스!
+jinioffice.co.kr v-if
+[ [ 회사소개 ] [ 납품실적 ] [ 견적문의 ] [ 고객센터 ] ]
+기업맞춤형 비즈니스 토탈 쇼핑몰! 사무집기, 냉난방, OA전문, 상품+가격 경쟁력
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+]
+
+[1] 자신과 자신의 에르미트 켤레가 같은 행렬 [2] 자신과 자신의 에르미트 켤레의 합이 0이 되는 행렬 [3] 차원은 이렇게 결정되지만 그 상수의 실제 값에 대해서는 어떠한 정보도 얻을 수 없다. 플랑크 상수가 현재의 값을 가진다는 사실만큼은 현재의 물리학으로는 연역적으로 설명할 수 없다. 그도 그럴 만한 게, 플랑크 상수 값은 순전히 단위의 선택에 따라 결정되는 값이기 때문이다. 그리고 물론 미터나 킬로그램 같은 단위들의 정의는 인간의 편의에 맞춰 정해진 것이다. 현재의 물리학이 아니라 (과학)역사학 같은 인문학이 오히려 이를 설명하기에 적절할 것이다. 그런 관점에서 ℏ \hbar ℏ 를 1로 두는 자연 단위계 가 좀 더 자연스러울 수도 있을 것이다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

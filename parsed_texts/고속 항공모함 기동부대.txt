@@ -1,0 +1,395 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 고속 항공모함 기동부대
+최근 수정 시각: 2026-02-01 22:07:40 [ [ [ ] [ [ 6 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 미국 해군
+- 함대
+- 태평양 전쟁/부대
+]
+
+[ [ ] [ Fast Carrier Task Force
+
+1 . 개요 2 . 역사 3 . 1944년 기준 전투서열
+
+1. 개요 [편집]
+Fast Carrier Task Force, 고속 항공모함 기동부대는 태평양 전쟁 당시 미국 해군 의 주력 공격 부대였다.
+
+2. 역사 [편집]
+고속 항공모함 기동부대는 태평양 전쟁 말기 2년 동안 진행된 모든 해전의 주역이다. 기동부대를 구성하는 각 기동전대는 3~4척의 항공모함 과 호위 부대로 구성되었으며, 호위 부대에는 차장 구축함 과 순양함 및 새롭게 건조된 고속전함 이 포함되어 있었다. 기동전대는 독립적으로 기동하거나, 또는 연합하여 필요한 곳에 투입될 수 있었으며, 때로는 더 작은 단위로 나누어져 작은 작전에 투입되기도 했다.
+
+이오지마 전투 나 오키나와 전투 같은 때에는 고속 항공모함 기동부대를 주력으로 상륙지원부대와 포격부대, 보급부대 등이 뭉쳐 일명 "Big Blue Fleet"라고 불리는 거대한 함대 로 기능하기도 했다.
+
+윌리엄 홀시 대장 의 제3함대 예하에서는 제38기동부대(Task Force 38), 레이먼드 스프루언스 대장의 제5함대 예하에서는 제58기동부대(Task Force 58)로 활동했다. 제3함대 예하에서는 존 매케인 중장 이, 제5함대 예하에서는 마크 미처 중장이 고속 항공모함 기동부대를 이끌었다. [1]
+
+올림픽 작전 이 개시되면 제3함대와 제5함대가 동시에 투입될 예정이었기 때문에, 고속 항공모함 기동부대 역시 제38기동부대와 제58기동부대가 동시에 투입될 예정이었다. 존 타워스 중장이 이끄는 제38기동부대가 혼슈와 홋카이도 전역을 공격하면서 규슈를 봉쇄하고, 프레더릭 셔먼 중장이 이끄는 제58기동부대가 규슈에서 상륙지원에 나설 예정이었지만 [2] , 히로시마·나가사키 원자폭탄 투하 로 인해 일본이 항복하면서 현실화되지는 않았다.
+
+3. 1944년 기준 전투서열 [편집]
+- 제58.1기동전대
+Task Group 58.1 - USS 호넷 Essex class
+USS Hornet - 제2폭격비행대대 33× SB2C-1C
+Bombing Squadron 2
+- 제2전투비행대대 36× F6F-3
+Fighting Squadron 2
+- 제2뇌격비행대대 4× TBF-1C /15× TBM-1C
+Torpedo Squadron 2
+- 제76야간전투기비행대대 4× F6F-3N
+Night Fighter Squadron 76
+- USS 요크타운 Essex class
+USS Yorktown - 제1폭격비행대대 40×SB2C-1C/4× SBD-5
+Bombing Squadron 1
+- 제1전투비행대대 42×F6F-3
+Fighting Squadron 1
+- 제1뇌격비행대대 1×TBF-1C/16×TBM-1C
+Torpedo Squadron 1
+- 제77야간전투기비행대대 4×F6F-3N
+Night Fighter Squadron 77
+- USS 벨로 우드 Independence class
+USS Belleau Wood - 제24전투비행대대 26×F6F-3
+Fighting Squadron 24
+- 제24뇌격비행대대 3×TBF-1C/6×TBM-1C
+Torpedo Squadron 24
+- USS 바탄 Independence class
+USS Bataan - 제50전투비행대대 24×F6F-3
+Fighting Squadron 50
+- 제50뇌격비행대대 9×TBM-1C
+Torpedo Squadron 50
+- 제10순양함분대
+Cruiser Division 10 - USS 보스턴 Baltimore class
+USS Boston
+- USS 볼티모어 Baltimore class
+USS Baltimore
+- USS 캔버라 Baltimore class
+USS Canberra
+- USS 산 후안 Atlanta class
+USS San Juan
+- USS 오클랜드 Atlanta class
+USS Oakland
+- 제11구축함분대
+Destroyer Division 11 - USS 헬름 Bagley class
+USS Helm
+- USS 머리 Gridley class
+USS Maury
+- USS 크레이븐 Gridley class
+USS Craven
+- USS 그리들리 Gridley class
+USS Gridley
+- USS 맥콜 Gridley class
+USS McCall
+- 제46구축함전대
+Destroyer Squadron 46 - 제91구축함분대
+Destroyer Division 91 - USS 이자드 Fletcher class
+USS Izard
+- USS 코너 Fletcher class
+USS Conner
+- USS 벨 Fletcher class
+USS Bell
+- USS 샤렛 Fletcher class
+USS Charrette
+- USS 번즈 Fletcher class
+USS Burns
+- 제92구축함분대
+Destroyer Division 92 - USS 보이드 Fletcher class
+USS Boyd
+- USS 브래드포드 Fletcher class
+USS Bradford
+- USS 브라운 Fletcher class
+USS Brown
+- USS 코웰 Fletcher class
+USS Cowell
+
+- 제58.2기동전대
+Task Group 58.2 - USS 벙커힐 Essex class
+USS Bunker Hill - 제8폭격비행대대 33×SB2C-1C
+Bombing Squadron 8
+- 제8전투비행대대 38×F6F-3
+Fighting Squadron 8
+- 제8뇌격비행대대 13×TBF-1C/5×TBM-1C
+Torpedo Squadron 8
+- 제76야간전투기비행대대 4×F6F-3N
+Night Fighter Squadron 76
+- USS 와스프 Essex class
+USS Wasp - 제14폭격비행대대 32×SB2C-1C
+Bombing Squadron 14
+- 제14전투비행대대 35×F6F-3
+Fighting Squadron 14
+- 제14뇌격비행대대 15×TBF-1C/3×TBF-1D
+Torpedo Squadron 14
+- 제77야간전투기비행대대 4×F6F-3N
+Night Fighter Squadron 77
+- USS 몬테레이 Independence class
+USS Monterey - 제28전투비행대대 24×F6F-3
+Fighting Squadron 28
+- 제28뇌격비행대대 8×TBF-1C
+Torpedo Squadron 28
+- USS 카봇 Independence class
+USS Cabot - 제31전투비행대대 24×F6F-3
+Fighting Squadron 31
+- 제31뇌격비행대대 1×TBF-1C/8×TBM-1C
+Torpedo Squadron 31
+- 제13순양함분대
+Cruiser Division 13 - USS 산타페 Cleveland class
+USS Santa Fe
+- USS 모빌 Cleveland class
+USS Mobile
+- USS 빌럭시 Cleveland class
+USS Biloxi
+- 제52구축함전대
+Destroyer Squadron 52 - 제103구축함분대
+Destroyer Division 103 - USS 밀러 Fletcher class
+USS Miler
+- USS 오웬 Fletcher class
+USS Owen
+- USS 더 설리번즈 Fletcher class
+USS The Sullivans
+- USS 틴지 Fletcher class
+USS Tingey
+- USS 스티븐 포터 Fletcher class
+USS Stephen Potter
+- 제104구축함분대
+Destroyer Divison 104 - USS 마셜 Fletcher class
+USS Marshall
+- USS 헌트 Fletcher class
+USS Hunt
+- USS 루이스 핸콕 Fletcher class
+USS Lewis Hancock
+- USS 히콕스 Fletcher class
+USS Hickox
+- 제1구축함분대
+Destroyer Divison 1 - USS 맥도너 Farragut class
+USS Macdonough
+- USS 듀이 Farragut class
+USS Dewey
+- USS 헐 Farragut class
+USS Hull
+
+- 제58.3기동전대
+Task Group 58.3 - USS 엔터프라이즈 Yorktown
+USS Enterprise - 제10폭격비행대대 21×SBD-5
+Bombing Squadron 10
+- 제10전투비행대대 31×F6F-3
+Fighting Squadron 10
+- 제10뇌격비행대대 9×TBF-1C/5×TBM-1C
+Torpedo Squadron 10
+- 제101야간전투기비행대대 3× F4U-2
+Night Fighter Squadron 101
+- USS 렉싱턴 Essex class/ Flagship
+USS Lexington - 제16폭격비행대대 34×SBD-5
+Bombing Squadron 16
+- 제16전투비행대대 38×F6F-3
+Fighting Squadron 16
+- 제16뇌격비행대대 17×TBF-1C/1×TBM-1C
+Torpedo Squadron 16
+- 제76야간전투기비행대대 4×F6F-3N
+Night Fighter Squadron 76
+- USS 샌 재신토 Independence class
+USS San Jacinto - 제51전투비행대대 24×F6F-3
+Fighting Squadron 51
+- 제51뇌격비행대대 6×TBF-1C/2× TBF-1D
+Torpedo Squadron 51
+- USS 프린스턴 Independence class
+USS Princeton - 제27전투비행대대 24×F6F-3
+Fighting Squadron 27
+- 제27뇌격비행대대 9×TBF-1C
+Torpedo Squadron 27
+- USS 인디애나폴리스 Portland class
+USS Indianapolis
+- 제12순양함분대
+Cruiser Division 12 - USS 몬트필리어 Cleveland class
+USS Monpelier
+- USS 클리블랜드 Cleveland class
+USS Cleveland
+- USS 버밍햄 Cleveland class
+USS Birmingham
+- USS 리노 Atlanta class
+USS Reno
+- 제50구축함전대
+Destroyer Squadron 50 - 제99구축함분대
+Destroyer Division 99 - USS 클래런스 K. 브론슨 Fletcher class
+USS Clarence K. Bronson
+- USS 코튼 Fletcher class
+USS Cotten
+- USS 도치 Fletcher class
+USS Dortch
+- USS 개틀링 Fletcher class
+USS Gatling
+- USS 힐리 Fletcher class
+USS Healy
+- 제100구축함분대
+Destroyer Division 100 - USS 캐퍼턴 Fletcher class
+USS Caperton
+- USS 콕스웰 Fletcher class
+USS Cogswell
+- USS 냅 Fletcher class
+USS Knapp
+- USS 잉거솔 Fletcher class
+USS Ingersoll
+- 제90구축함분대
+Destroyer Division 90 - USS 앤서니 Fletcher class
+USS Anthony
+- USS 워즈워스 Fletcher class
+USS Wadsworth
+- USS 테리 Fletcher class
+USS Terry
+- USS 브레인 Fletcher class
+USS Braine
+
+- 제58.4기동전대
+Task Group 58.4 - USS 에식스 Essex class
+USS Essex - 제15폭격비행대대 36×SB2C-1C
+Bombing Squadron 15
+- 제15전투비행대대 39×F6F-3
+Fighting Squadron 15
+- 제15뇌격비행대대 15×TBF-1C/5×TBM-1C
+Torpedo Squadron 15
+- 제77야간전투기비행대대 4×F6F-3N
+Night Fighter Squadron 77
+- USS 랭글리 Independence class
+USS Langley - 제32전투비행대대 23×F6F-3
+Fighting Squadron 32
+- 제32뇌격비행대대 7×TBF-1C/2×TBM-1C
+Torpedo Squadron 32
+- USS 카우펜스 Independence class
+USS Cowpens - 제25전투비행대대 23×F6F-3
+Fighting Squadron 25
+- 제25뇌격비행대대 3×TBF-1C/6×TBM-1C
+Torpedo Squadron 25
+- 제11순양함분대
+Cruiser Division 11 - USS 샌디에이고 Atlanta class
+USS San Diego
+- 제14순양함분대
+Cruiser Division 14 - USS 빈센스 Cleveland class
+USS Vincennes
+- USS 휴스턴 Cleveland class
+USS Houston
+- USS 마이애미 Cleveland class
+USS Miami
+- 제12구축함전대
+Destroyer Squadron 12 - 제23구축함분대
+Destroyer Division 23 - USS 랜드다운 Gleaves class
+USS Lansdowne
+- USS 라드너 Gleaves class
+USS Lardner
+- USS 맥칼라 Gleaves class
+USS McCalla
+- USS 케이스 Mahan class
+USS Case
+- 제24구축함분대
+Destroyer Division 24 - USS 랭 Benham class
+USS Lang
+- USS 스테렛 Benham class
+USS Sterett
+- USS 윌슨 Benham class
+USS Wilson
+- USS 엘럿 Benham class
+USS Ellet
+- 제23구축함전대
+Destroyer Squadron 23 - 제45구축함분대
+Destroyer Division 45 - USS 찰스 오스본 Fletcher class
+USS Charles Ausburne
+- USS 스탠리 Fletcher class
+USS Stanly
+- USS 다이슨 Fletcher class
+USS Dyson
+- 제46구축함분대
+Destroyer Division 46 - USS 컨버스 Fletcher class
+USS Converse
+- USS 스펜스 Fletcher class
+USS Spence
+- USS 대처 Fletcher class
+USS Thatcher
+
+- 제58.7기동전대
+Task Group 58.7 - 제6전함분대
+Battleship Division 6 - USS 노스캐롤라이나 North Carolina class
+USS North Carolina
+- USS 워싱턴 North Carolina class
+USS Washington
+- 제7전함분대
+Battleship Division 7 - USS 아이오와 Iowa class
+USS Iowa
+- USS 뉴저지 Iowa class
+USS New Jersey
+- 제8전함분대
+Battleship Division 8 - USS 인디애나 South Dakota class
+USS Indiana
+- 제9전함분대
+Battleship Division 9 - USS 사우스다코타 South Dakota class
+USS South Dakota
+- USS 앨라배마 South Dakota class
+USS Alabama
+- 제6순양함분대
+Cruiser Division 6 - USS 위치타 Wichita class
+USS Wichita
+- USS 뉴올리언스 New Orleans class
+USS New Orleans
+- USS 샌프란시스코 New Orleans class
+USS San Francisco
+- 제12구축함분대
+Destroyer Division 12 - USS 머그포드 Bagley class
+USS Mugford
+- USS 배글리 Bagley class
+USS Bagley
+- USS 패터슨 Bagley class
+USS Patterson
+- USS 셀프리지 Porter class
+USS Selfridge
+- 제89구축함분대
+Destroyer Division 89 - USS 핼퍼드 Fletcher class
+USS Halford
+- USS 풀럼 Fletcher class
+USS Fullam
+- USS 허드슨 Fletcher class
+USS Hudson
+- USS 게스트 Fletcher class
+USS Guest
+- USS 베넷 Fletcher class
+USS Bennett
+- 제106구축함분대
+Destroyer Division 106 - USS 야널 Fletcher class
+USS Yarnall
+- USS 트와이닝 Fletcher class
+USS Twining
+- USS 스톡햄 Fletcher class
+USS Stockham
+- USS 몬센 Fletcher class
+USS Monssen
+
+[ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 인천논현동 맛집 소문난껍데기
+map.naver.com/p/entry/place/1943388597 v-if
+여기 껍데기 안 먹어봤다는 건 인생의 반을 손해 본 거예요! 동네 맛집의 자부심!
+
+] | [ 남동구퀵서비스 하나로퀵
+1577-3410.com
+[ [ 하나로퀵업체 ] [ 화물퀵서비스 ] [ 법인신청접수 ] [ 하나로퀵후기 ] ]
+5분내출발 오토바이서류퀵서비스 빠른퀵배송 심부름 실명제퀵기사 퀵하세요.
+
+]
+
+[1] 참고로 제3함대와 제5함대는 같은 함대다. 함대는 하나인데 사령관과 참모진은 둘이었기 때문. 당시 태평양해역군 은 함대 사령부를 교대로 야전에 투입했고, 야전에서 돌아온 함대 사령부는 후방에서 휴식과 재정비를 가졌다. 그 때문에 홀시 휘하에서는 제3함대, 스프루언스 휘하에서는 제5함대로 불렸다. 당시 미 태평양 함대에 야전사령관을 맡기에 부족함이 없는 홀시와 스프루언스라는 제독이 둘이나 있었기에 가능했던 일이다. [2] https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-057/h-057-1.html ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

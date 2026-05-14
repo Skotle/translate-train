@@ -1,0 +1,126 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 곱측도
+최근 수정 시각: 2026-01-04 20:25:29 [ [ [ ] [ [ 1 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 해석학(수학)
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 정의 및 성질 2.1 . 곱 σ-대수 2.2 . 곱측도 3 . 적용 3.1 . 푸비니-토넬리 정리
+
+1. 개요 [편집]
+곱측도는 주어진 측도공간들에 대하여 각 측도공간들의 σ \sigma σ -대수들의 곱인 곱 σ \sigma σ -대수 위에서 정의되는 측도이다. 푸비니-토넬리 정리는 곱공간에서 정의된 적분을 반복적분으로 계산할 수 있음을 의미한다.
+
+2. 정의 및 성질 [편집]
+
+2.1. 곱 σ-대수 [편집]
+가측공간족 { ( X α , m α ) } α ∈ Γ \{(X_\alpha,\ \mathcal{m}_\alpha)\}_{\alpha\in\Gamma} {( X α ​ , m α ​ ) } α ∈ Γ ​ 에 대하여 X = ∏ α ∈ Γ X α X=\prod_{\alpha\in\Gamma}X_\alpha X = ∏ α ∈ Γ ​ X α ​ 라고 하자. X X X 위의 곱 σ \sigma σ -대수 는 좌표사상 π α : X → X α \pi_\alpha:X\to X_\alpha π α ​ : X → X α ​ 에 대하여 집합
+
+{ π α − 1 ( E α ) : E α ∈ M α , α ∈ Γ } \{\pi_\alpha^{-1}(E_\alpha):E_\alpha\in\mathcal{M}_\alpha,\ \alpha\in\Gamma\} { π α − 1 ​ ( E α ​ ) : E α ​ ∈ M α ​ , α ∈ Γ }
+로 생성된 σ \sigma σ -대수이다. 곱 σ \sigma σ -대수는 ⨂ α ∈ Γ M α \bigotimes_{\alpha\in\Gamma}\mathcal{M}_\alpha ⨂ α ∈ Γ ​ M α ​ 로 나타낸다. 첨수집합 γ \gamma γ 가 가산집합인 경우 위 정의의 생성집합족은 좌표사상을 사용하지 않은 정의로 다음과 같이 대체할 수 있다.
+
+{ ∏ α ∈ Γ E α : E α ∈ M α , α ∈ Γ } \{\prod_{\alpha\in\Gamma}E_\alpha:E_\alpha\in\mathcal{M}_\alpha,\ \alpha\in\Gamma\} { ∏ α ∈ Γ ​ E α ​ : E α ​ ∈ M α ​ , α ∈ Γ }
+각 α ∈ Γ \alpha\in\Gamma α ∈ Γ 에 대하여 σ \sigma σ -대수 M α \mathcal{M}_\alpha M α ​ 가 집합족 E α \mathcal{E_\alpha} E α ​ 로 생성되는 경우, 위 정의의 생성집합족의 원소는 E α ∈ E α E_\alpha\in\mathcal{E_\alpha} E α ​ ∈ E α ​ 로 한정할 수 있다. - { π α − 1 ( E α ) : E α ∈ E α , α ∈ Γ } \{\pi_\alpha^{-1}(E_\alpha):E_\alpha\in\mathcal{E}_\alpha,\ \alpha\in\Gamma\} { π α − 1 ​ ( E α ​ ) : E α ​ ∈ E α ​ , α ∈ Γ }
+- { ∏ α ∈ Γ E α : E α ∈ E α , α ∈ Γ } \{\prod_{\alpha\in\Gamma}E_\alpha:E_\alpha\in\mathcal{E}_\alpha,\ \alpha\in\Gamma\} { ∏ α ∈ Γ ​ E α ​ : E α ​ ∈ E α ​ , α ∈ Γ } , ( Γ \Gamma Γ 가 가산집합인 경우)
+
+보렐 σ \sigma σ -대수가 주어진 거리공간 의 경우 다음과 같은 관계가 성립한다. 거리공간 X k ( k = 1 , … , n ) X_k\ (k=1,\ \ldots\ ,\ n) X k ​ ( k = 1 , … , n ) 에 대하여 X = ∏ k = 1 n X k X=\prod_{k=1}^n X_k X = ∏ k = 1 n ​ X k ​ 가 곱 거리 공간이면 ⨂ k = 1 n B X k ⊆ B X \bigotimes_{k=1}^n\mathcal{B}_{X_k}\subseteq\mathcal{B}_X ⨂ k = 1 n ​ B X k ​ ​ ⊆ B X ​ 이다. 만약 모든 X k X_k X k ​ 가 가분공간이면 ⨂ k = 1 n B X k = B X \bigotimes_{k=1}^n\mathcal{B}_{X_k}=\mathcal{B}_X ⨂ k = 1 n ​ B X k ​ ​ = B X ​ 이다. 따라서 B R n = ⨂ k = 1 n B R \mathcal{B}_{\mathbb{R}^n}=\bigotimes_{k=1}^n\mathcal{B}_\mathbb{R} B R n ​ = ⨂ k = 1 n ​ B R ​ 이다.
+
+곱 σ \sigma σ -대수로의 가측 함수는 곱공간으로의 연속함수와 유사하게 정의된다. 가측 공간 ( Y α , N α ) ( α ∈ Γ ) (Y_\alpha,\ \mathcal{N}_\alpha)\ (\alpha\in\Gamma) ( Y α ​ , N α ​ ) ( α ∈ Γ ) 에 대하여 Y = ∏ α ∈ Γ Y α Y=\prod_{\alpha\in\Gamma}Y_\alpha Y = ∏ α ∈ Γ ​ Y α ​ 이고 π α : Y → Y α \pi_\alpha:Y\to Y_\alpha π α ​ : Y → Y α ​ 가 좌표사상이라 하자. ( X , M ) (X,\ \mathcal{M}) ( X , M ) 에 대하여 함수 f : X → Y f:X\to Y f : X → Y 가 가측일 필요충분조건은 모든 α \alpha α 에 대하여 f α = π α ∘ f f_\alpha=\pi_\alpha\circ f f α ​ = π α ​ ∘ f 가 ( M , N α ) (\mathcal{M},\ \mathcal{N_\alpha}) ( M , N α ​ ) -가측인 것이다.
+
+두 측도 공간 ( X , M ) (X,\ \mathcal{M}) ( X , M ) , ( Y , N ) (Y,\ \mathcal{N}) ( Y , N ) 와 a ∈ X , b ∈ Y a\in X,\ b\in Y a ∈ X , b ∈ Y 에 대하여 E ⊆ X × Y E\subseteq X\times Y E ⊆ X × Y 의 a a a -단면 과 b b b -단면 을 다음과 같이 정의한다.
+
+E a = { y ∈ Y : ( a , y ) ∈ E } , E b = { x ∈ X : ( x , b ) ∈ E } E_a=\{y\in Y:(a,\ y)\in E\},\quad E^b=\{x\in X:(x,\ b)\in E\} E a ​ = { y ∈ Y : ( a , y ) ∈ E } , E b = { x ∈ X : ( x , b ) ∈ E }
+X × Y X\times Y X × Y 위의 함수 f f f 에 대한 a a a -단면 과 b b b -단면 또한 동일한 방식으로 정의한다.
+
+f a ( y ) = f ( a , y ) , f b ( x ) = f ( x , b ) f_a(y)=f(a,\ y),\quad f^b(x)=f(x,\ b) f a ​ ( y ) = f ( a , y ) , f b ( x ) = f ( x , b )
+가측 집합과 가측 함수의 절단면은 각각 다시 가측 집합과 가측 함수를 이룬다. 즉 다음이 성립한다. - 집합 E E E 가 M ⊗ N \mathcal{M\otimes N} M ⊗ N -가측이면 모든 a ∈ X a\in X a ∈ X 와 b ∈ Y b\in Y b ∈ Y 에 대하여 E a ∈ N E_a \in \mathcal{N} E a ​ ∈ N , E b ∈ M E^b \in \mathcal{M} E b ∈ M 이다.
+- 함수 f f f 가 M ⊗ N \mathcal{M\otimes N} M ⊗ N -가측이면 모든 a ∈ X a\in X a ∈ X 와 b ∈ Y b\in Y b ∈ Y 에 대하여 f a f_a f a ​ 와 f b f^b f b 는 각각 N \mathcal{N} N -가측 함수와 M \mathcal{M} M -가측 함수이다.
+
+2.2. 곱측도 [편집]
+두 측도 공간 ( X , M , μ ) (X,\ \mathcal{M},\ \mu) ( X , M , μ ) 와 ( Y , N , ν ) (Y,\ \mathcal{N},\ \nu) ( Y , N , ν ) 위의 곱측도는 대수 위에서 구성된 예비 측도의 확장으로 정의된다. 예비 측도의 구성을 위해 X × Y X\times Y X × Y 위의 대수를 정의한다. A ∈ M , B ∈ N A\in\mathcal{M},\ B\in\mathcal{N} A ∈ M , B ∈ N 에 대하여 A × B A\times B A × B 를 직사각형이라고 한다. ( X , M ) × ( Y , N ) (X,\ \mathcal{M})\times (Y,\ \mathcal{N}) ( X , M ) × ( Y , N ) 의 직사각형족 A \mathcal{A} A 는 대수를 이루며, 곱 σ \sigma σ -대수 M ⊗ N \mathcal{M}\otimes\mathcal{N} M ⊗ N 을 생성한다. 서로소 직사각형 A 1 × B 1 , … , A n × B n A_1\times B_1,\ \ldots\ ,\ A_n\times B_n A 1 ​ × B 1 ​ , … , A n ​ × B n ​ 의 합을 E E E 라고 할 때,
+
+π ( E ) = ∑ k = 1 n μ ( A k ) ν ( B k ) \displaystyle\pi(E)=\sum_{k=1}^n \mu(A_k)\nu(B_k) π ( E ) = k = 1 ∑ n ​ μ ( A k ​ ) ν ( B k ​ )
+으로 정의된 함수 π : A → [ 0 , ∞ ] \pi:\mathcal{A}\to[0,\ \infty] π : A → [ 0 , ∞ ] 는 A \mathcal{A} A 위의 예비측도이다. 대수 A \mathcal{A} A 위의 예비측도 π \pi π 는 곱 σ \sigma σ -대수 M ⊗ N \mathcal{M}\otimes\mathcal{N} M ⊗ N 위의 측도 μ × ν \mu\times\nu μ × ν 로 확장되며, 이 측도는 임의의 직사각형 A × B A\times B A × B 에 대하여 μ × ν ( A × B ) = μ ( A ) ν ( B ) \mu\times\nu(A\times B)=\mu(A)\nu(B) μ × ν ( A × B ) = μ ( A ) ν ( B ) 를 만족시키는 유일한 측도이다.
+
+두 측도 공간 ( X , M , μ ) , ( Y , N , ν ) (X,\ \mathcal{M},\ \mu),\ (Y,\ \mathcal{N},\ \nu) ( X , M , μ ) , ( Y , N , ν ) 가 모두 σ \sigma σ -유한이면 곱측도 μ × ν \mu\times\nu μ × ν 는 E ∈ M ⊗ N E\in \mathcal{M\otimes N} E ∈ M ⊗ N 에 대하여 다음과 같이 정의할 수 있다.
+
+μ × ν ( E ) = ∫ X ∫ Y 1 E d ν ( y ) d μ ( x ) = ∫ X ν ( E x ) d μ ( x ) = ∫ Y μ ( E y ) d ν ( y ) \begin{aligned}\mu\times\nu(E)&=\int_X\int_Y1_E\,d\nu(y)\,d\mu(x)\\ &=\displaystyle\int_X \nu(E_x)\,d\mu(x)\\ &=\int_Y \mu(E^y)\,d\nu(y)\end{aligned} μ × ν ( E ) ​ = ∫ X ​ ∫ Y ​ 1 E ​ d ν ( y ) d μ ( x ) = ∫ X ​ ν ( E x ​ ) d μ ( x ) = ∫ Y ​ μ ( E y ) d ν ( y ) ​
+
+3. 적용 [편집]
+
+3.1. 푸비니-토넬리 정리 [편집]
+푸비니-토넬리 정리는 곱공간에서의 적분을 반복 적분으로 계산할 수 있음을 보장한다. 푸비니-토넬리 정리 (The Fubini-Tonelli Theorem) σ \sigma σ -유한 측도 공간 ( X , M , μ ) , ( Y , N , ν ) (X,\ \mathcal{M},\ \mu),\ (Y,\ \mathcal{N},\ \nu) ( X , M , μ ) , ( Y , N , ν ) 에 대하여 다음이 성립한다. - (토넬리) 함수 f ∈ L + ( X × Y ) f\in L^+(X\times Y) f ∈ L + ( X × Y ) 에 대하여 g ( x ) = ∫ f x d ν ∈ L + ( X ) g(x)=\int f_x \,d\nu\in L^+(X) g ( x ) = ∫ f x ​ d ν ∈ L + ( X ) , h ( y ) = ∫ f y d μ ∈ L + ( Y ) h(y)=\int f^y \, d\mu\in L^+(Y) h ( y ) = ∫ f y d μ ∈ L + ( Y ) 이며 다음이 성립한다.
+
+∫ f d ( μ × ν ) = ∫ [ ∫ f ( x , y ) d ν ( y ) ] d μ ( x ) = ∫ [ ∫ f ( x , y ) d μ ( x ) ] d ν ( y ) \begin{aligned}\int f\, d(\mu\times\nu)&=\int\left[\int f(x,\ y)\, d\nu(y)\right]\, d\mu(x)\\ &=\int\left[\int f(x,\ y)\, d\mu(x)\right]\, d\nu(y)\end{aligned} ∫ f d ( μ × ν ) ​ = ∫ [ ∫ f ( x , y ) d ν ( y ) ] d μ ( x ) = ∫ [ ∫ f ( x , y ) d μ ( x ) ] d ν ( y ) ​
+- (푸비니) 함수 f ∈ L 1 ( μ × ν ) f\in L^1(\mu\times\nu) f ∈ L 1 ( μ × ν ) 에 대하여 f x ∈ L 1 ( ν ) a.e. x ∈ X f_x\in L^1(\nu)\text{ a.e. }x\in X f x ​ ∈ L 1 ( ν ) a.e. x ∈ X , f y ∈ L 1 ( μ ) a.e. y ∈ Y f^y\in L^1(\mu)\text{ a.e. }y\in Y f y ∈ L 1 ( μ ) a.e. y ∈ Y 이고 거의 어디에서나 g ( x ) = ∫ f x d ν ∈ L + ( X ) g(x)=\int f_x \,d\nu\in L^+(X) g ( x ) = ∫ f x ​ d ν ∈ L + ( X ) , h ( y ) = ∫ f y d μ ∈ L + ( Y ) h(y)=\int f^y \, d\mu\in L^+(Y) h ( y ) = ∫ f y d μ ∈ L + ( Y ) 이다. 또한 다음이 성립한다.
+
+∫ f d ( μ × ν ) = ∫ [ ∫ f ( x , y ) d ν ( y ) ] d μ ( x ) = ∫ [ ∫ f ( x , y ) d μ ( x ) ] d ν ( y ) \begin{aligned}\int f\, d(\mu\times\nu)&=\int\left[\int f(x,\ y)\, d\nu(y)\right]\, d\mu(x)\\ &=\int\left[\int f(x,\ y)\, d\mu(x)\right]\, d\nu(y)\end{aligned} ∫ f d ( μ × ν ) ​ = ∫ [ ∫ f ( x , y ) d ν ( y ) ] d μ ( x ) = ∫ [ ∫ f ( x , y ) d μ ( x ) ] d ν ( y ) ​
+
+[ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 1미리치과의원
+치아미백이벤트-앞니레진.com v-if
+신중동역 6번 출구, 치과보철과 전문의
+
+] | [ 송내역 일신자동차운전전문학원
+isdrive.co.kr
+부평구 구산동(송내역)에 위치한 자체시험장, 빠른교육,주야간,주말,톡톡문의 환영
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

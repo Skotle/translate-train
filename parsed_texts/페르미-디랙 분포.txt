@@ -1,0 +1,270 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 양자 통계역학
+최근 수정 시각: 2025-05-05 04:59:08 [ [ [ ] [ [ 4 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ [ 페르미-디랙 분포 에서 넘어옴 ] 분류 [ - 물리학
+]
+
+[ [ ] [ 열역학 · 통계역학
+Thermodynamics · Statistical Mechanics
+[ 펼치기 · 접기 ] 기본 개념 | 열역학 법칙 { 열역학 제1법칙 ( 열역학 과정 ) · 열역학 제2법칙 ( 엔트로피 )} · 질량 보존 법칙 · 에너지 · 물질 · 온도 ( 절대영도 ) · 압력 · 열 ( 비열 · 열용량 ) · 일 ( 일률 ) · 계 ( 반응계 · 고립계 · 닫힌계 ) · 상 · 밀도 · 기체 법칙 { 보일 법칙 · 샤를 법칙 · 게이뤼삭 법칙 · 아보가드로 법칙 · 이상 기체 법칙 ( 이상 기체 )} · 기체 분자 운동론 · 압축인자
+통계역학 | 앙상블 · 분배함수 · 양자 통계역학 · 볼츠만 분포 · 맥스웰-볼츠만 분포 · 페르미-디랙 분포 · 보스-아인슈타인 분포 · 페르미온 응집 · 보스-아인슈타인 응집 · 복잡계 ( 카오스 이론 ) · 흑체복사 · 브라운 운동 · 역온도 · 위상 공간 · 조머펠트 전개
+열역학 퍼텐셜 | 내부 에너지 · 엔탈피 · 자유 에너지 ( 헬름홀츠 자유 에너지 · 깁스 자유 에너지 ) · 맥스웰 관계식 · 란다우 퍼텐셜 · 르장드르 변환
+응용 및 현상 | 현상 | 가역성 · 화학 퍼텐셜 · 상전이 · 열전달과 열교환기 { 전도 ( 열전도율 · 전도체 ) · 대류 · 복사 } · 판데르발스 힘 · 열처리 · 열량 ( 칼로리 ) · 네른스트 식 · 음발광 · 물리화학 둘러보기
+열기관 | 내연기관 · 외연기관 · 열효율 ( 엑서지 ) · 히트펌프 · 카르노 기관 · 영구기관 · 열전 소자
+관련 문서 | 화학 둘러보기 · 스털링 근사 · 전자친화도 · 이온화 에너지 · 응집물질물리학 · 고체물리학 · 기계공학 · 화학공학 · 정보이론 · 맥스웰의 악마 · 볼츠만 두뇌 · 에르고딕 가설 · 브라질너트 효과
+
+1 . 개요 2 . 이상 기체 3 . 상태 밀도 4 . 양자 기체 4.1 . 분포 4.2 . 페르미 기체 4.2.1 . 페르미 준위 4.2.2 . 절대 영도가 아닐 때 4.2.3 . 저온 페르미 기체의 열용량 4.3 . 보스 기체 4.3.1 . 보스-아인슈타인 응집 5 . 광자 와 포논 5.1 . 광자 5.2 . 포논
+
+1. 개요 [편집]
+quantum statistical mechanics
+
+이 문서에서는 학부생 수준의 양자 통계를 소개하게 된다.
+
+2. 이상 기체 [편집]
+우선 양자 통계역학에 들어가기 전에 삼차원 무한 퍼텐셜 우물에 갇힌 이상기체에 대해 알아보자.
+
+사각 퍼텐셜 문제 의 결과를 빌려 한 축에 대한 이상 기체의 파수
+
+k j = n j π V 1 / 3 \begin{aligned} k_{j}=\frac{n_{j}\pi}{V^{1/3}} \end{aligned} k j ​ = V 1/3 n j ​ π ​ ​
+이다. 이때, V V V 는 정사각형 퍼텐셜 우물의 부피이며, n n n 은 자연수이다. j j j 는 삼차원 좌표 중 하나로, x x x , y y y , z z z 중 하나이다. 더불어서
+
+∣ k ∣ 2 = ∑ j k j 2 \begin{aligned} |\mathbf{k}|^{2}=\sum_{j}k_{j}^{2} \end{aligned} ∣ k ∣ 2 = j ∑ ​ k j 2 ​ ​
+이다.
+
+이상 기체의 에너지는
+
+E k = ℏ 2 ∣ k ∣ 2 2 m \begin{aligned} E_{\mathbf{k}}=\frac{\hbar^{2} |\mathbf{k}|^{2}}{2m} \end{aligned} E k ​ = 2 m ℏ 2 ∣ k ∣ 2 ​ ​
+이다.
+
+3. 상태 밀도 [편집]
+입자가 가질 수 있는 에너지는 위와 같이 자연수 n n n , 더 나아가 파수 ∣ k ∣ 2|\mathbf{k}|^{2} ∣ k ∣ 2 에 의존한다.
+
+이제 2차원에 국한 시켜 생각해보자. 이 경우 각 축에 가질 수 있는 n j n_{j} n j ​ 를 놓고, 서로 그리드로 연결하면, 무한한 정사각형 모양이 나오며, 교점을 점으로 연결하자.
+
+이것은 k j k_{j} k j ​ 에 해도 마찬가지이다.
+
+이제 원점에서 어떤 점까지의 벡터를 생각할 수 있고, 그것이 곧 k \mathbf{k} k 가 된다.
+
+만약 위 그림에서 k 4 < ∣ k ∣ < k 5 k_{4} < |\mathbf{k}| < k_{5} k 4 ​ < ∣ k ∣ < k 5 ​ 인 상태는 몇 가지가 있을까? 그렇게 되면, 우선 두 반지름을 갖는 각각의 사분원을 그린 뒤 영역을 지정하자.
+
+이제 단위 사각형 당 점이 1개 있다는 사실을 이용하면, 해당 영역의 넓이를 사각형의 넓이로 나누면, 그 점의 개수를 파악할 수 있고, 그것이 곧 상태의 개수가 된다.
+
+그렇다면, [ k , k + d k ] [k,\,k+{\rm d} k] [ k , k + d k ] 영역의 경우에는 그 사이에 몇 개의 상태가 있을까? 이제 위의 논리를 그대로 따라해서 삼차원의 상황을 알아보자.
+
+우선 반지름 k k k , k + d k k+{\rm d}k k + d k 인 각각의 팔분구를 생각해보자. 이 경우에는 팔분구 영역의 미소 부피는
+
+d v = 1 8 × 4 π k 2 d k = 1 2 π k 2 d k \begin{aligned} {\rm d}v=\frac{1}{8} \times 4\pi k^{2}\,{\rm d}k =\frac{1}{2}\pi k^{2} \,{\rm d}k \end{aligned} d v = 8 1 ​ × 4 π k 2 d k = 2 1 ​ π k 2 d k ​
+이제 점은 한 변의 넓이가 π / V 1 / 3 \pi/V^{1/3} π / V 1/3 인 정육면체 한 변에 점 1개가 존재하므로 구하는 것은
+
+d v N = V k 2 2 π 2 d k \begin{aligned} \frac{{\rm d}v}{N}=\frac{Vk^{2}}{2\pi^{2} }\,{\rm d}k \end{aligned} N d v ​ = 2 π 2 V k 2 ​ d k ​
+이때, 이것을 아래와 같은 꼴로 나타내고,
+
+d N d k = V k 2 2 π 2 ≡ D ( k ) \begin{aligned} \frac{{\rm d}N}{{\rm d}k}=\frac{Vk^{2}}{2\pi^{2} } \equiv \mathcal{D}(k)\end{aligned} d k d N ​ = 2 π 2 V k 2 ​ ≡ D ( k ) ​
+라 하여, 상태 밀도 로 정의한다.
+
+만약 변수를 파수가 아닌 에너지 ε \varepsilon ε 로 하고 싶다면,
+
+ε = ℏ 2 k 2 2 m \begin{aligned} \varepsilon=\frac{\hbar^2 k^2}{2m} \end{aligned} ε = 2 m ℏ 2 k 2 ​ ​
+임을 이용하면, 다음과 같이 바꿀 수 있다.
+
+d N d ε = V 4 π 2 ( 2 m ℏ 2 ) 3 / 2 ε ≡ D ( ε ) \begin{aligned} \frac{{\rm d}N}{{\rm d}\varepsilon}=\frac{V}{4\pi^{2}} \biggl(\frac{2m}{\hbar^{2}} \biggr)^{3/2} \sqrt{\varepsilon} \equiv \mathcal{D}(\varepsilon )\end{aligned} d ε d N ​ = 4 π 2 V ​ ( ℏ 2 2 m ​ ) 3/2 ε ​ ≡ D ( ε ) ​
+
+이로써 우리는 상자에 포함된 이상 기체의 개수를
+
+N = ∫ D ( ε ) N ( ε ) d ε \begin{aligned} N=\int \mathcal{D}(\varepsilon) \mathcal{N}(\varepsilon) \,{\rm d}\varepsilon \end{aligned} N = ∫ D ( ε ) N ( ε ) d ε ​
+으로 구할 수 있다. N ( ε ) \mathcal{N}(\varepsilon) N ( ε ) 은 어떤 입자의 분포 함수이다.
+
+4. 양자 기체 [편집]
+
+4.1. 분포 [편집]
+분배함수 를 논의하면서 페르미온과 보손에 대한 분포함수는 아래와 같음을 알아내었다.
+- 페르미-디랙 분포
+⟨ N j ⟩ = 1 e β ( ε j − μ ) + 1 \begin{aligned} \langle N_{j} \rangle =\frac{1}{e^{\beta(\varepsilon_{j}-\mu) }+1} \end{aligned} ⟨ N j ​ ⟩ = e β ( ε j ​ − μ ) + 1 1 ​ ​
+
+- 보스-아인슈타인 분포
+⟨ N j ⟩ = 1 e β ( ε j − μ ) − 1 \begin{aligned} \langle N_{j} \rangle =\frac{1}{e^{\beta(\varepsilon_{j}-\mu) }-1} \end{aligned} ⟨ N j ​ ⟩ = e β ( ε j ​ − μ ) − 1 1 ​ ​
+
+β \beta β 는 역온도 , μ \mu μ 는 화학 퍼텐셜 이다.
+
+계의 척도가 커지면, ε \varepsilon ε 은 연속적으로 취급할 수 있어,
+
+N ( ε ) = 1 e β ( ε − μ ) ± 1 \begin{aligned} \mathcal{N}(\varepsilon) =\frac{1}{e^{\beta(\varepsilon-\mu) } \pm 1} \end{aligned} N ( ε ) = e β ( ε − μ ) ± 1 1 ​ ​
+으로 쓸 수 있다.
+페르미-디랙 분포 | 보스-아인슈타인 분포
+그래프
+식 | N ( ε ) = 1 e β ( ε − μ ) + 1 \begin{aligned} \mathcal{N}(\varepsilon) =\frac{1}{e^{\beta(\varepsilon-\mu) } + 1} \end{aligned} N ( ε ) = e β ( ε − μ ) + 1 1 ​ ​ | N ( ε ) = 1 e β ( ε − μ ) − 1 \begin{aligned} \mathcal{N}(\varepsilon) =\frac{1}{e^{\beta(\varepsilon-\mu) } - 1} \end{aligned} N ( ε ) = e β ( ε − μ ) − 1 1 ​ ​
+특성 | - 절대 영도에 도달할 수록 계단 함수의 모양을 갖는다.
+- 전반적으로 함수의 꼴은 시그모이드 이다. | - 전반적으로 지수함수적으로 감소하는 꼴이다.
+- 온도가 낮을수록 세로 축에 접근한다.
+
+4.2. 페르미 기체 [편집]
+스핀이 1 / 2 1/2 1/2 인 페르미온을 고려하자.
+
+페르미온은 부피가 V V V 인 상자에 갇혀 역온도가 β \beta β 인 열 저장고와 접촉하고 있다.
+
+페르미온 특성 상 하나의 에너지 준위에는 스핀 up 상태와 스핀 down 상태 두 개의 페르미온만 점유 가능하다.
+
+스핀을 고려한다면, 상태 밀도는
+
+D ( ε ) = 2 × V 4 π 2 ( 2 m ℏ 2 ) 3 / 2 ε = V 2 π 2 ( 2 m ℏ 2 ) 3 / 2 ε \begin{aligned} \mathcal{D}(\varepsilon )&=2 \times \frac{V}{4\pi^{2}} \biggl(\frac{2m}{\hbar^{2}} \biggr)^{3/2} \sqrt{\varepsilon} \\&=\frac{V}{2\pi^{2}} \biggl(\frac{2m}{\hbar^{2}} \biggr)^{3/2} \sqrt{\varepsilon} \end{aligned} D ( ε ) ​ = 2 × 4 π 2 V ​ ( ℏ 2 2 m ​ ) 3/2 ε ​ = 2 π 2 V ​ ( ℏ 2 2 m ​ ) 3/2 ε ​ ​
+가 된다.
+
+4.2.1. 페르미 준위 [편집]
+절대 영도에서 화학 퍼텐셜 μ ≡ ε F \mu \equiv \varepsilon_{F} μ ≡ ε F ​ 라 하여 이것을 페르미 준위 라 한다.
+
+더불어서 ε = μ \varepsilon=\mu ε = μ 일 때, N ( ε ) = 0.5 \mathcal{N}(\varepsilon)=0.5 N ( ε ) = 0.5 가 된다. 이때, 화학 페텬셜을 μ = ε F \mu=\varepsilon_{F} μ = ε F ​ 이며, 이것은 위의 정의와 일반적으로 같다.
+
+이 값은 다소 중요한 것으로, 절대 영도인 상황을 보면, 에너지가 페르미 준위 이하인 준위에만 페르미온이 점유 가능하고, 초과하는 에너지에서는 전혀 점유하지 않는다.
+
+이제 이 값을 구하여 보자.
+
+만약 N N N 개의 페르미온이 상자 안에 있다면, 절대 영도인 상황에서
+
+N = 2 × V 4 π 2 ( 2 m ℏ 2 ) 3 / 2 ∫ 0 ε F ε e β ( ε − μ ) + 1 d ε \begin{aligned} N=2 \times \frac{V}{4\pi^{2}} \biggl(\frac{2m}{\hbar^{2}} \biggr)^{3/2} \int_{0}^{\varepsilon_{F}} \frac{\sqrt{\varepsilon}}{e^{\beta(\varepsilon-\mu) }+1}\,{\rm d}\varepsilon \end{aligned} N = 2 × 4 π 2 V ​ ( ℏ 2 2 m ​ ) 3/2 ∫ 0 ε F ​ ​ e β ( ε − μ ) + 1 ε ​ ​ d ε ​
+이 된다. 그런데 절대 영도인 상황이므로 적분은
+
+N = V π 2 ( 2 m ℏ 2 ) 3 / 2 ∫ 0 ε F 1 2 ε d ε \begin{aligned} N=\frac{V}{\pi^{2}} \biggl(\frac{2m}{\hbar^{2}} \biggr)^{3/2} \int_{0}^{\varepsilon_{F}} \frac{1}{2}\sqrt{\varepsilon}\,{\rm d}\varepsilon \end{aligned} N = π 2 V ​ ( ℏ 2 2 m ​ ) 3/2 ∫ 0 ε F ​ ​ 2 1 ​ ε ​ d ε ​
+이므로 곧
+
+N = V π 2 ( 2 m ℏ 2 ) 3 / 2 × 1 3 ε F 3 / 2 \begin{aligned} N=\frac{V}{\pi^{2}} \biggl(\frac{2m}{\hbar^{2}} \biggr)^{3/2} \times \frac{1}{3} \varepsilon_{F}^{3/2} \end{aligned} N = π 2 V ​ ( ℏ 2 2 m ​ ) 3/2 × 3 1 ​ ε F 3/2 ​ ​
+이것을 페르미 에너지에 대하여 풀면,
+
+ε F = ℏ 2 2 m ( 3 N π 2 V ) 2 / 3 \begin{aligned} \varepsilon_{F}=\frac{\hbar^{2}}{2m}\biggl( \frac{3N\pi^{2}}{V} \biggr)^{2/3} \end{aligned} ε F ​ = 2 m ℏ 2 ​ ( V 3 N π 2 ​ ) 2/3 ​
+
+4.2.2. 절대 영도가 아닐 때 [편집]
+절대 영도에서 페르미 준위 이하의 준위에만 차 있던 페르미온들은 이제 더 높은 에너지로 전이할 수 있다.
+
+따라서 동일하게 페르미온의 개수를 고정시킨다면,
+
+N = V 2 π 2 ( 2 m ℏ 2 ) 3 / 2 ∫ 0 ∞ ε e β ( ε − μ ) + 1 d ε \begin{aligned} N=\frac{V}{2\pi^{2}} \biggl(\frac{2m}{\hbar^{2}} \biggr)^{3/2} \int_{0}^{\infty} \frac{\sqrt{\varepsilon}}{e^{\beta(\varepsilon-\mu) }+1}\,{\rm d}\varepsilon \end{aligned} N = 2 π 2 V ​ ( ℏ 2 2 m ​ ) 3/2 ∫ 0 ∞ ​ e β ( ε − μ ) + 1 ε ​ ​ d ε ​
+가 된다. 위 적분을 두 구간으로 나누자.
+
+N = V 2 π 2 ( 2 m ℏ 2 ) 3 / 2 [ ∫ 0 ε F ε e β ( ε − μ ) + 1 d ε + ∫ ε F ∞ ε e β ( ε − μ ) + 1 d ε ] \begin{aligned} N=\frac{V}{2\pi^{2}} \biggl(\frac{2m}{\hbar^{2}} \biggr)^{3/2}\biggl[ \int_{0}^{\varepsilon_{F}} \frac{\sqrt{\varepsilon}}{e^{\beta(\varepsilon-\mu) }+1}\,{\rm d}\varepsilon+ \int_{\varepsilon_{F}}^{\infty} \frac{\sqrt{\varepsilon}}{e^{\beta(\varepsilon-\mu) }+1}\,{\rm d}\varepsilon \biggr]\end{aligned} N = 2 π 2 V ​ ( ℏ 2 2 m ​ ) 3/2 [ ∫ 0 ε F ​ ​ e β ( ε − μ ) + 1 ε ​ ​ d ε + ∫ ε F ​ ∞ ​ e β ( ε − μ ) + 1 ε ​ ​ d ε ] ​
+첫 번째 적분항은 ε = ε F \varepsilon=\varepsilon_{F} ε = ε F ​ 인 준위까지 차 있는 페르미온의 개수이며, 두 번째 적분항은 결국 전이된 페르미온의 개수가 된다. 한편, 위 논의에서
+
+V 2 π 2 ( 2 m ℏ 2 ) 3 / 2 ∫ 0 ε F ε d ε = V 2 π 2 ( 2 m ℏ 2 ) 3 / 2 [ ∫ 0 ε F ε e β ( ε − μ ) + 1 d ε + ∫ ε F ∞ ε e β ( ε − μ ) + 1 d ε ] \begin{aligned} \frac{V}{2\pi^{2}} \biggl(\frac{2m}{\hbar^{2}} \biggr)^{3/2} \int_{0}^{\varepsilon_{F}} \sqrt{\varepsilon}\,{\rm d}\varepsilon =\frac{V}{2\pi^{2}} \biggl(\frac{2m}{\hbar^{2}} \biggr)^{3/2}\biggl[ \int_{0}^{\varepsilon_{F}} \frac{\sqrt{\varepsilon}}{e^{\beta(\varepsilon-\mu) }+1}\,{\rm d}\varepsilon+ \int_{\varepsilon_{F}}^{\infty} \frac{\sqrt{\varepsilon}}{e^{\beta(\varepsilon-\mu) }+1}\,{\rm d}\varepsilon \biggr]\end{aligned} 2 π 2 V ​ ( ℏ 2 2 m ​ ) 3/2 ∫ 0 ε F ​ ​ ε ​ d ε = 2 π 2 V ​ ( ℏ 2 2 m ​ ) 3/2 [ ∫ 0 ε F ​ ​ e β ( ε − μ ) + 1 ε ​ ​ d ε + ∫ ε F ​ ∞ ​ e β ( ε − μ ) + 1 ε ​ ​ d ε ] ​
+이므로 이것은 다음과 같다.
+
+V 2 π 2 ( 2 m ℏ 2 ) 3 / 2 ∫ 0 ε F [ 1 − 1 e β ( ε − μ ) + 1 ] ε d ε = V 2 π 2 ( 2 m ℏ 2 ) 3 / 2 ∫ ε F ∞ ε e β ( ε − μ ) + 1 d ε \begin{aligned} \frac{V}{2\pi^{2}} \biggl(\frac{2m}{\hbar^{2}} \biggr)^{3/2} \int_{0}^{\varepsilon_{F}}\biggl[ 1-\frac{1}{e^{\beta(\varepsilon-\mu) }+1} \biggr]\sqrt{\varepsilon}\,{\rm d}\varepsilon = \frac{V}{2\pi^{2}} \biggl(\frac{2m}{\hbar^{2}} \biggr)^{3/2}\int_{\varepsilon_{F}}^{\infty} \frac{\sqrt{\varepsilon}}{e^{\beta(\varepsilon-\mu) }+1}\,{\rm d}\varepsilon \end{aligned} 2 π 2 V ​ ( ℏ 2 2 m ​ ) 3/2 ∫ 0 ε F ​ ​ [ 1 − e β ( ε − μ ) + 1 1 ​ ] ε ​ d ε = 2 π 2 V ​ ( ℏ 2 2 m ​ ) 3/2 ∫ ε F ​ ∞ ​ e β ( ε − μ ) + 1 ε ​ ​ d ε ​
+즉, 새로운 분포함수
+
+N ′ ( ε ) = 1 − 1 e β ( ε − μ ) + 1 \begin{aligned} \mathcal{N}'(\varepsilon)= 1-\frac{1}{e^{\beta(\varepsilon-\mu) }+1} \end{aligned} N ′ ( ε ) = 1 − e β ( ε − μ ) + 1 1 ​ ​
+은 페르미온이 얼마나 전이됐는지를 나타내게 된다.
+
+4.2.3. 저온 페르미 기체의 열용량 [편집]
+이제 페르미 기체의 열용량에 대해서 알아보자.
+
+페르미 기체의 전체 에너지는 다음과 같이 구할 수 있다.
+
+U = V 2 π 2 ( 2 m ℏ 2 ) 3 / 2 ∫ 0 ∞ ε ε e β ( ε − μ ) + 1 d ε \begin{aligned}U=\frac{V}{2\pi^{2}} \biggl(\frac{2m}{\hbar^{2}} \biggr)^{3/2} \int_{0}^{\infty} \frac{\varepsilon\sqrt{\varepsilon}}{e^{\beta(\varepsilon-\mu) }+1}\,{\rm d}\varepsilon \end{aligned} U = 2 π 2 V ​ ( ℏ 2 2 m ​ ) 3/2 ∫ 0 ∞ ​ e β ( ε − μ ) + 1 ε ε ​ ​ d ε ​
+간단히 쓰면,
+
+U = ∫ 0 ∞ ε D ( ε ) e ε − μ + 1 d ε \begin{aligned}U=\int_{0}^{\infty} \frac{\varepsilon \mathcal{D}(\varepsilon)}{e^{\varepsilon-\mu}+1} {\rm d} \varepsilon \end{aligned} U = ∫ 0 ∞ ​ e ε − μ + 1 ε D ( ε ) ​ d ε ​
+이제 여기에 μ ≫ k B T \mu \gg k_{B}T μ ≫ k B ​ T 라는 저온 조건을 걸고 조머펠트 전개 를 적용한다.
+
+U ≈ ∫ 0 ε F ε D ( ε ) d ε + π 2 6 ( k B T ) 2 D ( ε F ) \begin{aligned}U \approx \int_{0}^{\varepsilon_{F}} \varepsilon \mathcal{D}(\varepsilon)\,{\rm d}\varepsilon+\frac{\pi^{2}}{6}(k_{B}T)^{2} \mathcal{D}(\varepsilon_{F}) \end{aligned} U ≈ ∫ 0 ε F ​ ​ ε D ( ε ) d ε + 6 π 2 ​ ( k B ​ T ) 2 D ( ε F ​ ) ​
+따라서
+
+C V = d U d T = π 2 3 k B 3 T D ( ε F ) \begin{aligned} C_{V}=\frac{{\rm d}U}{{\rm d}T}=\frac{\pi^{2}}{3}k_{B}^{3}T \mathcal{D}(\varepsilon_{F}) \end{aligned} C V ​ = d T d U ​ = 3 π 2 ​ k B 3 ​ T D ( ε F ​ ) ​
+이다. 따라서 저온에서는 C V ∝ T C_{V} \propto T C V ​ ∝ T 이다.
+
+4.3. 보스 기체 [편집]
+
+4.3.1. 보스-아인슈타인 응집 [편집]
+자세한 내용은 보스-아인슈타인 응집 문서를 참고하십시오.
+
+5. 광자 와 포논 [편집]
+
+5.1. 광자 [편집]
+자세한 내용은 흑체복사 문서를 참고하십시오. 이제 상자에 갇힌 전자기파를 생각하자. 광자는 스핀이 1이기 때문에 3가지의 상태가 존재가능하나, 0인 상태는 존재하지 않는다. [1] 즉, 광자는 보손 중 하나이다.
+
+따라서 상자에 갇힌 전자기파는 2가지의 편광 상태가 가능하다.
+
+전자기파의 에너지는 다음과 같이 양자화돼있다.
+
+ε = ℏ ω \displaystyle \begin{aligned} \varepsilon=\hbar \omega \end{aligned} ε = ℏ ω ​
+
+전자기파는 보손이므로 보스-아인슈타인 분포 함수를 따른다.
+
+N ( ε ) = 1 e β ( ε − μ ) − 1 = 1 e β ( ℏ ω − μ ) − 1 \begin{aligned} \mathcal{N}(\varepsilon) =\frac{1}{e^{\beta(\varepsilon-\mu) }-1} =\frac{1}{e^{\beta(\hbar \omega-\mu) }-1}\end{aligned} N ( ε ) = e β ( ε − μ ) − 1 1 ​ = e β ( ℏ ω − μ ) − 1 1 ​ ​
+그런데 광자의 화학 퍼텐셜은 0이다. [2]
+
+N ( ε ) = 1 e β ℏ ω − 1 \begin{aligned} \mathcal{N}(\varepsilon) =\frac{1}{e^{\beta\hbar \omega }-1}\end{aligned} N ( ε ) = e β ℏ ω − 1 1 ​ ​
+
+이제 상태 밀도를 구하자. 광자의 경우에는 다음을 이용한다.
+
+ℏ ω = ∣ p ∣ c \displaystyle \begin{aligned} \hbar \omega = |\mathbf{p}|c \end{aligned} ℏ ω = ∣ p ∣ c ​
+p \mathbf{p} p 는 광자의 운동량이다. 이제 해당 문서 에서 논의했던 공동 공진기를 다시보자. 여기서 가질 수 있는 에너지는
+
+ℏ ω = ℏ c π V 1 / 3 n x 2 + n y 2 + n z 2 \displaystyle \begin{aligned} \hbar \omega = \frac{\hbar c \pi}{V^{1/3}} \sqrt{ n_{x}^2+n_{y}^{2}+n_{z}^{2} }\end{aligned} ℏ ω = V 1/3 ℏ c π ​ n x 2 ​ + n y 2 ​ + n z 2 ​ ​ ​
+이므로 이또한 상태 밀도를 구해보면,
+
+1 8 × 4 π p 2 d p π 3 ℏ 3 V = V p 2 2 ℏ 3 π 2 d p \displaystyle \begin{aligned} \frac{\dfrac{1}{8} \times 4\pi p^{2}\,{\rm d}p }{\dfrac{\pi^{3}\hbar^{3} }{V}}=\frac{V p^{2}}{2 \hbar^{3} \pi^{2} }\,{\rm d}p \end{aligned} V π 3 ℏ 3 ​ 8 1 ​ × 4 π p 2 d p ​ = 2 ℏ 3 π 2 V p 2 ​ d p ​
+이상에서
+
+d N d ω = V ω 2 2 c 3 π 2 \displaystyle \begin{aligned} \frac{{\rm d}N}{{\rm d}\omega}=\frac{V \omega^{2} }{ 2c^{3} \pi^2} \end{aligned} d ω d N ​ = 2 c 3 π 2 V ω 2 ​ ​
+인데, 두 개의 편광을 고려함으로써
+
+D ( ω ) = V ω 2 c 3 π 2 \displaystyle \begin{aligned} \mathcal{D}(\omega)=\frac{V \omega^{2} }{ c^{3} \pi^2} \end{aligned} D ( ω ) = c 3 π 2 V ω 2 ​ ​
+
+따라서 계의 에너지는
+
+U = ∫ 0 ∞ ℏ ω D ( ω ) N ( ω ) d ω = V c 3 π 2 ∫ 0 ∞ ℏ ω 3 e β ℏ ω − 1 d ω = V c 3 ℏ 3 π 2 β 4 ∫ 0 ∞ x 3 e x − 1 d x ( x → β ℏ ω ) = π 2 k B 4 V 15 ℏ 3 c 3 T 4 \displaystyle \begin{aligned} U &=\int_{0}^{\infty} \hbar \omega \mathcal{D}(\omega) \mathcal{N}(\omega)\,{\rm d}\omega \\&=\frac{V}{c^3 \pi^2} \int_{0}^{\infty} \frac{\hbar{\omega}^{3}}{e^{\beta\hbar \omega }-1} \,{\rm d}\omega \\&=\frac{V}{c^3 \hbar^{3} \pi^2 \beta^{4}} \int_{0}^{\infty} \frac{x^3}{e^x-1}\,{\rm d}x \quad (x \to \beta \hbar \omega) \\ &=\frac{\pi^2 k_{B}^{4} V}{15\hbar^{3} c^3 }T^{4}\end{aligned} U ​ = ∫ 0 ∞ ​ ℏ ω D ( ω ) N ( ω ) d ω = c 3 π 2 V ​ ∫ 0 ∞ ​ e β ℏ ω − 1 ℏ ω 3 ​ d ω = c 3 ℏ 3 π 2 β 4 V ​ ∫ 0 ∞ ​ e x − 1 x 3 ​ d x ( x → β ℏ ω ) = 15 ℏ 3 c 3 π 2 k B 4 ​ V ​ T 4 ​
+이 되고, 결국 에너지 밀도는 다음과 같이 주어진다.
+
+u = U V = π 2 k B 4 15 ℏ 3 c 3 T 4 \displaystyle \begin{aligned} u=\frac{U}{V}=\frac{\pi^2 k_{B}^{4} }{15\hbar^{3} c^3 }T^{4} \end{aligned} u = V U ​ = 15 ℏ 3 c 3 π 2 k B 4 ​ ​ T 4 ​
+
+다음 식에 주목하자.
+
+u = 1 c 3 π 2 ∫ 0 ∞ ℏ ω 3 e β ℏ ω − 1 d ω \displaystyle \begin{aligned} u =\frac{1}{c^3 \pi^2} \int_{0}^{\infty} \frac{\hbar{\omega}^{3}}{e^{\beta\hbar \omega }-1} \,{\rm d}\omega \end{aligned} u = c 3 π 2 1 ​ ∫ 0 ∞ ​ e β ℏ ω − 1 ℏ ω 3 ​ d ω ​
+디랙 상수와 플랑크 상수와의 관계와 각진동수와 진동수와의 관계를 이용하여 위 식을 다음과 같이 쓴다.
+
+u = ∫ 0 ∞ 8 π h c 3 ν 3 e β h ν − 1 d ν \displaystyle \begin{aligned} u = \int_{0}^{\infty} \frac{8 \pi h}{c^3 }\frac{\nu^{3}}{e^{\beta h \nu }-1} \,{\rm d}\nu \end{aligned} u = ∫ 0 ∞ ​ c 3 8 π h ​ e β h ν − 1 ν 3 ​ d ν ​
+여기서 나온
+
+u ( ν ) ≡ 8 π h c 3 ν 3 e β h ν − 1 \displaystyle u(\nu) \equiv \frac{8 \pi h}{c^3 }\frac{\nu^{3}}{e^{\beta h \nu }-1} u ( ν ) ≡ c 3 8 π h ​ e β h ν − 1 ν 3 ​
+를 단위 진동수 당 에너지 밀도라 정의한다. 이것이 흑체 복사에 대한 플랑크 법칙 이다.
+
+더 자세한 내용은 흑체복사 문서를 참조한다.
+
+5.2. 포논 [편집]
+자세한 내용은 포논 문서의 4 번 문단을 참고하십시오. [ 인천논현동 맛집 소문난껍데기
+map.naver.com/p/entry/place/1943388597 v-if
+여기 껍데기 안 먹어봤다는 건 인생의 반을 손해 본 거예요! 동네 맛집의 자부심!
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 확실한 지원금! 인터넷가입
+internetsignal.shop v-if
+[ [ 인터넷가입 ] [ 전국최대 ] [ 지원금받기 ] ]
+남동인터넷 비밀지원금지급 고객불만Zero 당일개통! 당일입금! 확실한 요금설계
+
+]
+
+[1] 간단히 설명하면, 전자기파는 게이지 대칭성 에 의해 양자화가 되는데, 게이지 불변성을 0인 상태는 만족하지 않기 때문이다. [2] 이는 광자 자체가 자체적으로 소멸하거나 생성될 수 있음에서 기인된 것이다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

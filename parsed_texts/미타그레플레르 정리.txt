@@ -1,0 +1,163 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 미타그레플레르 정리
+최근 수정 시각: 2026-03-16 10:22:26 [ [ [ ] [ [ 7 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 해석학(수학)
+- 삼각함수
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+삼각함수 · 쌍곡선함수
+Trigonometric Functions · Hyperbolic Functions
+[ 펼치기 · 접기 ] 기하학 | 평면기하학 ( 삼각형 · 삼각비 · 원 · 쌍곡선 )
+해석학 | 좌표계 · 복소평면 · 함수 ( 초월함수 · 특수함수 ) · 바이어슈트라스 분해 정리 · 미타그레플레르 정리 · 오일러 공식 · 푸리에 해석 ( 푸리에 변환 )
+삼각함수 | 사인곡선 ( 위상수학자의 사인곡선 ) · 역삼각함수 · 도함수 · 역도함수 · 관련 함수 · 삼각함수의 덧셈정리 · 삼각 적분 함수 · 구데르만 함수 · 프레넬 적분 함수 · 디리클레 함수 · 바이어슈트라스 함수 · 볼테라 함수 · 에어리 함수 · 야코비 타원 함수
+쌍곡선함수 | 현수선 · 쌍곡선 적분 함수 · 구데르만 함수
+
+1 . 개요 2 . 내용 3 . 특징 4 . 예시 5 . 유리함수의 극점 전개 5.1 . 삼각함수 5.2 . 쌍곡선 함수 5.3 . 바이어슈트라스 무한곱과의 관계 6 . 참고 문헌
+
+1. 개요 [편집]
+Mittag-Leffler's theorem / 미타그레플레르 定 理 / ( 스웨덴어 ) Mittag-Lefflers sats
+
+복소해석학 에서 주어진 극점 을 가지고 유리형 함수의 존재를 설명하는 정리이다. 이 정리는 부분 분수들의 합으로써 유리형 함수를 표현하는 데에 사용한다. 또한 주어진 영점을 가지고 전해석함수의 존재를 설명하는 [1] 바이어슈트라스 분해 정리 와 비슷하기도 하다. 스웨덴의 수학자 예스타 미타그레플레르 가 정립했다.
+
+2. 내용 [편집]
+복소수를 정의역으로 삼는 함수 f f f 가 단순극을 가지며, 연속 혹은 z = 0 z = 0 z = 0 에서 제거할 수 있는 특이점을 갖는 유리함수 라고 하고, f f f 의 극들의 정의역 집합을 X X X 라고 하자.
+N ∈ N N\in\N N ∈ N 에 대하여, 원점에서 반지름이 R N R_N R N ​ 인 원판 C N C_N C N ​ 을 상정하고, N → ∞ N\to\infty N → ∞ 일 때 R N → ∞ R_N\to\infty R N ​ → ∞ 이고, 원판의 경계 ∂ C N \partial C_N ∂ C N ​ 은 임의의 N N N 에 대해서 f f f 의 극을 포함하지 않으면서 z ∈ ∂ C N z \in \partial C_N z ∈ ∂ C N ​ 이면 ∣ f ( z ) ∣ < M|f(z)|<M ∣ f ( z ) ∣ < M 을 만족하는, N N N 과는 독립인 실수 M > 0 M>0 M > 0 이 존재한다고 할 때 f ( z ) f(z) f ( z ) 는 다음과 같이 나타낼 수 있다. f ( z ) = f ( 0 ) + ∑ k ∈ X Res ⁡ ( f , k ) ( 1 k + 1 z − k ) \displaystyle f(z) = f(0) + \sum_{k\in X}\operatorname{Res}(f,\,k){\left(\frac1k + \frac1{z-k}\right)} f ( z ) = f ( 0 ) + k ∈ X ∑ ​ Res ( f , k ) ( k 1 ​ + z − k 1 ​ )
+
+단, z z z 는 f f f 의 극이 아니며, z = 0 z = 0 z = 0 이 f f f 의 제거할 수 있는 특이점일 경우 f ( 0 ) = lim ⁡ z → 0 f ( z ) f(0) = \lim\limits_{z\to0}f(z) f ( 0 ) = z → 0 lim ​ f ( z ) 로 대체되고, Res ⁡ ( f , k ) \operatorname{Res}(f,\,k) Res ( f , k ) 은 f f f 의 극점 k k k 에서의 유수 이다.
+
+3. 특징 [편집]
+D D D 를 C \mathbb C C 의 열린 집합으로 두고, E ⊂ D E\subset D E ⊂ D 를 닫힌 이산 부분집합 이라고 하자. E E E 의 각 원소 a a a 에서, p a ( z ) p_a(z) p a ​ ( z ) 를 1 z − a \cfrac1{z-a} z − a 1 ​ 의 다항식 이라고 한다면, [2] D D D 의 유리형 함수 f f f 가 a ∈ E a\in E a ∈ E 에서 존재할 때, 함수 f ( z ) − p a ( z ) f(z)-p_a(z) f ( z ) − p a ​ ( z ) 는 a a a 에서만 소거될 수 있다.
+
+눈여겨봐야 할 것은 a a a 에서의 f f f 의 주요부분이 p a ( z ) p_a(z) p a ​ ( z ) 라는 것이다. 추가로 확인할 것은, E E E 가 유한할 때, f ( z ) = ∑ a ∈ E p a ( z ) \displaystyle f(z) = \sum_{a\in E}p_a(z) f ( z ) = a ∈ E ∑ ​ p a ​ ( z ) 로 정의되지만, E E E 가 무한할때는 E E E 에서 유한 부분 집합 F F F 로 구성된 유한합인 S F ( z ) = ∑ a ∈ E p a ( z ) \displaystyle S_F(z)= \sum_{a\in E}p_a(z) S F ​ ( z ) = a ∈ E ∑ ​ p a ​ ( z ) 로 정의된다. 그럼에도 불구하고, S F ( z ) S_F(z) S F ​ ( z ) 의 수렴이 여전히 불가능할 때, S F ( z ) S_F(z) S F ​ ( z ) 의 주요부분의 변형없이 적절히 선택된 D D D 값과 무관한 극점들을 가진 유리형 함수들을 소거해야 한다.
+
+4. 예시 [편집]
+원점을 지나는 어떤 함수 f ( z ) f(z) f ( z ) 가 모든 양수에서 단순극을 갖고 유수가 1이라고 하자. 그러면 f ( 0 ) = 0 f(0) = 0 f ( 0 ) = 0 , k = n ∈ Z + k = n\in\Z^+ k = n ∈ Z + 이고 유수가 1이므로 Res ⁡ ( f , n ) = 1 \operatorname{Res}(f,\,n) = 1 Res ( f , n ) = 1 이며 f ( z ) f(z) f ( z ) 는 미타그레플레르 정리에 따라 다음과 같이 나타낼 수 있다. f ( z ) = ∑ n = 1 ∞ ( 1 n + 1 z − n ) = z ∑ n = 1 ∞ 1 n ( z − n ) \begin{aligned} f(z) &= \sum_{n=1}^\infty{\left(\frac1n + \frac1{z-n}\right)} \\ &= z\sum_{n=1}^\infty\frac1{n(z-n)} \end{aligned} f ( z ) ​ = n = 1 ∑ ∞ ​ ( n 1 ​ + z − n 1 ​ ) = z n = 1 ∑ ∞ ​ n ( z − n ) 1 ​ ​
+
+복소수 집합 C \mathbb C C 에서 이 급수는 완벽히 수렴한다.
+
+5. 유리함수의 극점 전개 [편집]
+
+5.1. 삼각함수 [편집]
+삼각함수 · 쌍곡선함수
+Trigonometric Functions · Hyperbolic Functions
+[ 펼치기 · 접기 ] 기하학 | 평면기하학 ( 삼각형 · 삼각비 · 원 · 쌍곡선 )
+해석학 | 좌표계 · 복소평면 · 함수 ( 초월함수 · 특수함수 ) · 바이어슈트라스 분해 정리 · 미타그레플레르 정리 · 오일러 공식 · 푸리에 해석 ( 푸리에 변환 )
+삼각함수 | 사인곡선 ( 위상수학자의 사인곡선 ) · 역삼각함수 · 도함수 · 역도함수 · 관련 함수 · 삼각함수의 덧셈정리 · 삼각 적분 함수 · 구데르만 함수 · 프레넬 적분 함수 · 디리클레 함수 · 바이어슈트라스 함수 · 볼테라 함수 · 에어리 함수 · 야코비 타원 함수
+쌍곡선함수 | 현수선 · 쌍곡선 적분 함수 · 구데르만 함수
+
+극을 갖는 삼각함수 tan ⁡ \tan tan , cot ⁡ \cot cot , sec ⁡ \sec sec , csc ⁡ \csc csc 에 미타그레플레르 정리를 적용하면 다음과 같다. - tan ⁡ z = ∑ n = 0 ∞ 8 z ( 2 n + 1 ) 2 π 2 − 4 z 2 = 8 z π 2 − 4 z 2 + 8 z 9 π 2 − 4 z 2 + 8 z 25 π 2 − 4 z 2 + 8 z 49 π 2 − 4 z 2 + ⋯ \begin{aligned} \tan z &= \sum_{n=0}^\infty\frac{8z}{(2n+1)^2\pi^2-4z^2} \\ &= \frac{8z}{\pi^2-4z^2} + \frac{8z}{9\pi^2-4z^2} + \frac{8z}{25\pi^2-4z^2} + \frac{8z}{49\pi^2-4z^2} +\cdots\end{aligned} tan z ​ = n = 0 ∑ ∞ ​ ( 2 n + 1 ) 2 π 2 − 4 z 2 8 z ​ = π 2 − 4 z 2 8 z ​ + 9 π 2 − 4 z 2 8 z ​ + 25 π 2 − 4 z 2 8 z ​ + 49 π 2 − 4 z 2 8 z ​ + ⋯ ​
+
+tan ⁡ z \tan z tan z 는 z = ( n + 1 2 ) π z = \biggl(n+\cfrac12\biggr)\pi z = ( n + 2 1 ​ ) π (단, n ∈ Z n\in\Z n ∈ Z )에서 극을 갖는데 lim ⁡ z → ( n + 1 2 ) π { z − ( n + 1 2 ) π } tan ⁡ z = lim ⁡ z → ( n + 1 2 ) π { z − ( n + 1 2 ) π } sin ⁡ z cos ⁡ z = l’H o ˆ pital lim ⁡ z → ( n + 1 2 ) π sin ⁡ z + { z − ( n + 1 2 ) π } cos ⁡ z − sin ⁡ z = − 1 \begin{aligned} \lim_{z\to{\left(n+\frac12\right)}\pi}{\left\{z - {\left(n+\frac12\right)}\pi\right\}}\tan z &= \lim_{z\to{\left(n+\frac12\right)}\pi}{\left\{z - {\left(n+\frac12\right)}\pi\right\}}\frac{\sin z}{\cos z} \\ &\xlongequal[]{\textsf{l'H\^opital}}\lim_{z\to{\left(n+\frac12\right)}\pi}\frac{\sin z + {\left\{z - {\left(n+\dfrac12\right)}\pi\right\}}\cos z}{-\sin z} \\ &= -1\end{aligned} z → ( n + 2 1 ​ ) π lim ​ { z − ( n + 2 1 ​ ) π } tan z ​ = z → ( n + 2 1 ​ ) π lim ​ { z − ( n + 2 1 ​ ) π } cos z sin z ​ l’H o ˆ pital ​ z → ( n + 2 1 ​ ) π lim ​ − sin z sin z + { z − ( n + 2 1 ​ ) π } cos z ​ = − 1 ​
+
+이므로 해당 극은 단순극이며 유수는 − 1 -1 − 1 이다. tan ⁡ 0 = 0 \tan 0 = 0 tan 0 = 0 이므로 tan ⁡ z = 0 + ∑ n ∈ Z ( − 1 ) ( 1 2 n + 1 2 π + 1 z − 2 n + 1 2 π ) = ∑ n ∈ Z ( 1 2 n + 1 2 π − z − 1 2 n + 1 2 π ) = ∑ n = − ∞ − 1 ( 1 2 n + 1 2 π − z − 1 2 n + 1 2 π ) + ∑ n = 0 ∞ ( 1 2 n + 1 2 π − z − 1 2 n + 1 2 π ) = ∑ n = 0 ∞ ( 1 − 2 n − 1 2 π − z − 1 − 2 n − 1 2 π ) + ∑ n = 0 ∞ ( 1 2 n + 1 2 π − z − 1 2 n + 1 2 π ) = ∑ n = 0 ∞ ( 1 2 n + 1 2 π − z − 1 2 n + 1 2 π − 1 2 n + 1 2 π + z + 1 2 n + 1 2 π ) = ∑ n = 0 ∞ ( 1 2 n + 1 2 π − z − 1 2 n + 1 2 π + z ) = ∑ n = 0 ∞ 2 z ( 2 n + 1 2 π ) 2 − z 2 = ∑ n = 0 ∞ 8 z ( 2 n + 1 ) 2 π 2 − 4 z 2 \begin{aligned}\tan z &= 0 + \sum_{n\in\Z}(-1){\left(\frac1{\dfrac{2n+1}2\pi}+\frac1{z-\dfrac{2n+1}2\pi}\right)} \\ &= \sum_{n\in\Z}{\left(\frac1{\dfrac{2n+1}2\pi-z}-\frac1{\dfrac{2n+1}2\pi}\right)} \\ &= \sum_{n=-\infty}^{-1}{\left(\frac1{\dfrac{2n+1}2\pi-z}-\frac1{\dfrac{2n+1}2\pi}\right)} + \sum_{n=0}^\infty{\left(\frac1{\dfrac{2n+1}2\pi-z}-\frac1{\dfrac{2n+1}2\pi}\right)} \\ &= \sum_{n=0}^\infty{\left(\frac1{\dfrac{-2n-1}2\pi-z}-\frac1{\dfrac{-2n-1}2\pi}\right)} + \sum_{n=0}^\infty{\left(\frac1{\dfrac{2n+1}2\pi-z}-\frac1{\dfrac{2n+1}2\pi}\right)} \\ &= \sum_{n=0}^\infty{\left(\frac1{\dfrac{2n+1}2\pi-z}-\cancel{\frac1{\dfrac{2n+1}2\pi}} - \frac1{\dfrac{2n+1}2\pi+z}+\cancel{\frac1{\dfrac{2n+1}2\pi}}\right)} \\ &= \sum_{n=0}^\infty{\left(\frac1{\dfrac{2n+1}2\pi-z}-\frac1{\dfrac{2n+1}2\pi+z}\right)}\\ &= \sum_{n=0}^\infty\frac{2z}{{\left(\dfrac{2n+1}2\pi\right)}^2-z^2} \\ &= \sum_{n=0}^\infty\frac{8z}{(2n+1)^2\pi^2-4z^2}\end{aligned} tan z ​ = 0 + n ∈ Z ∑ ​ ( − 1 ) ​ 2 2 n + 1 ​ π 1 ​ + z − 2 2 n + 1 ​ π 1 ​ ​ = n ∈ Z ∑ ​ ​ 2 2 n + 1 ​ π − z 1 ​ − 2 2 n + 1 ​ π 1 ​ ​ = n = − ∞ ∑ − 1 ​ ​ 2 2 n + 1 ​ π − z 1 ​ − 2 2 n + 1 ​ π 1 ​ ​ + n = 0 ∑ ∞ ​ ​ 2 2 n + 1 ​ π − z 1 ​ − 2 2 n + 1 ​ π 1 ​ ​ = n = 0 ∑ ∞ ​ ​ 2 − 2 n − 1 ​ π − z 1 ​ − 2 − 2 n − 1 ​ π 1 ​ ​ + n = 0 ∑ ∞ ​ ​ 2 2 n + 1 ​ π − z 1 ​ − 2 2 n + 1 ​ π 1 ​ ​ = n = 0 ∑ ∞ ​ ​ 2 2 n + 1 ​ π − z 1 ​ − 2 2 n + 1 ​ π 1 ​ ​ − 2 2 n + 1 ​ π + z 1 ​ + 2 2 n + 1 ​ π 1 ​ ​ ​ = n = 0 ∑ ∞ ​ ​ 2 2 n + 1 ​ π − z 1 ​ − 2 2 n + 1 ​ π + z 1 ​ ​ = n = 0 ∑ ∞ ​ ( 2 2 n + 1 ​ π ) 2 − z 2 2 z ​ = n = 0 ∑ ∞ ​ ( 2 n + 1 ) 2 π 2 − 4 z 2 8 z ​ ​
+- cot ⁡ z = − 1 z + ∑ n = 0 ∞ 2 z z 2 − n 2 π 2 = 1 z + 2 z z 2 − π 2 + 2 z z 2 − 4 π 2 + 2 z z 2 − 9 π 2 + ⋯ \begin{aligned}\cot z &= -\frac1z + \sum_{n=0}^\infty\cfrac{2z}{z^2-n^2\pi^2} \\ &= \frac1z + \frac{2z}{z^2 - \pi^2} + \frac{2z}{z^2 - 4\pi^2} + \frac{2z}{z^2 - 9\pi^2} +\cdots\end{aligned} cot z ​ = − z 1 ​ + n = 0 ∑ ∞ ​ z 2 − n 2 π 2 2 z ​ = z 1 ​ + z 2 − π 2 2 z ​ + z 2 − 4 π 2 2 z ​ + z 2 − 9 π 2 2 z ​ + ⋯ ​
+
+cot ⁡ z = − tan ⁡ ( z − π 2 ) \cot z = -\tan\biggl(z-\cfrac\pi2\biggr) cot z = − tan ( z − 2 π ​ ) 이므로 cot ⁡ z = − ∑ n = 0 ∞ ( 1 2 n + 1 2 π − z + π 2 − 1 2 n + 1 2 π + z − π 2 ) = ∑ n = 0 ∞ { 1 n π + z − 1 ( n + 1 ) π − z } = ∑ n = 0 ∞ ( 1 n π + z − 1 n π − z ) − 1 z = − 1 z − ∑ n = 0 ∞ 2 z ( n π ) 2 − z 2 = − 1 z + ∑ n = 0 ∞ 2 z z 2 − n 2 π 2 \begin{aligned} \cot z &= -\sum_{n=0}^\infty{\left(\frac1{\dfrac{2n+1}2\pi-z+\dfrac\pi2}-\frac1{\dfrac{2n+1}2\pi+z-\dfrac\pi2}\right)} \\ &= \sum_{n=0}^\infty{\left\{\frac1{n\pi+z}-\frac1{(n+1)\pi-z}\right\}}\\ &= \sum_{n=0}^\infty{\left(\frac1{n\pi+z} - \frac1{n\pi-z}\right)} - \frac1z \\ &= -\frac1z - \sum_{n=0}^\infty\frac{2z}{(n\pi)^2-z^2} \\ &= -\frac1z + \sum_{n=0}^\infty\frac{2z}{z^2-n^2\pi^2} \end{aligned} cot z ​ = − n = 0 ∑ ∞ ​ ​ 2 2 n + 1 ​ π − z + 2 π ​ 1 ​ − 2 2 n + 1 ​ π + z − 2 π ​ 1 ​ ​ = n = 0 ∑ ∞ ​ { nπ + z 1 ​ − ( n + 1 ) π − z 1 ​ } = n = 0 ∑ ∞ ​ ( nπ + z 1 ​ − nπ − z 1 ​ ) − z 1 ​ = − z 1 ​ − n = 0 ∑ ∞ ​ ( nπ ) 2 − z 2 2 z ​ = − z 1 ​ + n = 0 ∑ ∞ ​ z 2 − n 2 π 2 2 z ​ ​
+- sec ⁡ z = ∑ n = 0 ∞ 4 ( − 1 ) n ( 2 n + 1 ) π ( 2 n + 1 ) 2 π 2 − 4 z 2 = 4 π π 2 − 4 z 2 − 12 π 9 π 2 − 4 z 2 + 20 π 25 π 2 − 4 z 2 − 28 π 49 π 2 − 4 z 2 + ⋯ \begin{aligned}\sec z &= \sum_{n=0}^\infty\frac{4(-1)^n(2n+1)\pi}{(2n+1)^2\pi^2-4z^2} \\ &= \frac{4\pi}{\pi^2 - 4z^2} - \frac{12\pi}{9\pi^2 - 4z^2} + \frac{20\pi}{25\pi^2 - 4z^2} - \frac{28\pi}{49\pi^2 - 4z^2} +\cdots\end{aligned} sec z ​ = n = 0 ∑ ∞ ​ ( 2 n + 1 ) 2 π 2 − 4 z 2 4 ( − 1 ) n ( 2 n + 1 ) π ​ = π 2 − 4 z 2 4 π ​ − 9 π 2 − 4 z 2 12 π ​ + 25 π 2 − 4 z 2 20 π ​ − 49 π 2 − 4 z 2 28 π ​ + ⋯ ​
+
+tan ⁡ z \tan z tan z 의 경우와 마찬가지로 극의 특성을 알아보면 lim ⁡ z → ( n + 1 2 ) π { z − ( n + 1 2 ) π } sec ⁡ z = lim ⁡ z → ( n + 1 2 ) π z − ( n + 1 2 ) π cos ⁡ z = l’H o ˆ pital lim ⁡ z → ( n + 1 2 ) π 1 − sin ⁡ z = ( − 1 ) n − 1 \begin{aligned} \lim_{z\to{\left(n+\frac12\right)}\pi}{\left\{z - {\left(n+\dfrac12\right)}\pi\right\}}\sec z &= \lim_{z\to{\left(n+\frac12\right)}\pi}\frac{z - {\left(n+\dfrac12\right)}\pi}{\cos z} \\ &\xlongequal[]{\textsf{l'H\^opital}}\lim_{z\to{\left(n+\frac12\right)}\pi}\frac1{-\sin z} \\ &= (-1)^{n-1}\end{aligned} z → ( n + 2 1 ​ ) π lim ​ { z − ( n + 2 1 ​ ) π } sec z ​ = z → ( n + 2 1 ​ ) π lim ​ cos z z − ( n + 2 1 ​ ) π ​ l’H o ˆ pital ​ z → ( n + 2 1 ​ ) π lim ​ − sin z 1 ​ = ( − 1 ) n − 1 ​
+
+이므로 해당 극은 단순극이며 유수는 ( − 1 ) n − 1 (-1)^{n-1} ( − 1 ) n − 1 이다. sec ⁡ 0 = 1 \sec 0 = 1 sec 0 = 1 이므로 sec ⁡ z = 1 + ∑ n ∈ Z ( − 1 ) n − 1 ( 1 2 n + 1 2 π + 1 z − 2 n + 1 2 π ) = 1 + ∑ n ∈ Z ( − 1 ) n − 1 2 n + 1 2 π + ∑ n ∈ Z ( − 1 ) n 2 n + 1 2 π − z \begin{aligned}\sec z &= 1 + \sum_{n\in\Z}(-1)^{n-1}{\left(\frac1{\dfrac{2n+1}2\pi}+\frac1{z-\dfrac{2n+1}2\pi}\right)} \\ &= 1 + \sum_{n\in\Z}\frac{(-1)^{n-1}}{\dfrac{2n+1}2\pi} + \sum_{n\in\Z}\frac{(-1)^n}{\dfrac{2n+1}2\pi-z}\end{aligned} sec z ​ = 1 + n ∈ Z ∑ ​ ( − 1 ) n − 1 ​ 2 2 n + 1 ​ π 1 ​ + z − 2 2 n + 1 ​ π 1 ​ ​ = 1 + n ∈ Z ∑ ​ 2 2 n + 1 ​ π ( − 1 ) n − 1 ​ + n ∈ Z ∑ ​ 2 2 n + 1 ​ π − z ( − 1 ) n ​ ​
+
+이때, 제2항 부분은 arctan ⁡ z = ∑ n = 0 ∞ ( − 1 ) n 2 n + 1 z 2 n + 1 \displaystyle \arctan z = \sum_{n=0}^\infty\cfrac{(-1)^n}{2n+1}z^{2n+1} arctan z = n = 0 ∑ ∞ ​ 2 n + 1 ( − 1 ) n ​ z 2 n + 1 로부터 π 4 = ∑ n = 0 ∞ ( − 1 ) n 2 n + 1 \displaystyle\cfrac\pi4 = \sum_{n=0}^\infty\cfrac{(-1)^n}{2n+1} 4 π ​ = n = 0 ∑ ∞ ​ 2 n + 1 ( − 1 ) n ​ 임을 이용하면 ∑ n ∈ Z ( − 1 ) n − 1 2 n + 1 2 π = ∑ n = − ∞ − 1 ( − 1 ) n − 1 2 n + 1 2 π + ∑ n = 0 ∞ ( − 1 ) n − 1 2 n + 1 2 π = ∑ n = 0 ∞ ( − 1 ) − n − 2 − 2 n − 1 2 π + ∑ n = 0 ∞ ( − 1 ) n − 1 2 n + 1 2 π = ∑ n = 0 ∞ 4 ( − 1 ) n − 1 ( 2 n + 1 ) π = − 4 π ∑ n = 0 ∞ ( − 1 ) n 2 n + 1 = − 4 π ⋅ π 4 = − 1 \begin{aligned}\sum_{n\in\Z}\frac{(-1)^{n-1}}{\dfrac{2n+1}2\pi} &= \sum_{n=-\infty}^{-1}\frac{(-1)^{n-1}}{\dfrac{2n+1}2\pi} + \sum_{n=0}^\infty\frac{(-1)^{n-1}}{\dfrac{2n+1}2\pi} \\ &= \sum_{n=0}^\infty\frac{(-1)^{-n-2}}{\dfrac{-2n-1}2\pi} + \sum_{n=0}^\infty\frac{(-1)^{n-1}}{\dfrac{2n+1}2\pi} \\ &= \sum_{n=0}^\infty\frac{4(-1)^{n-1}}{(2n+1)\pi} \\ &= -\frac4\pi\sum_{n=0}^\infty\frac{(-1)^n}{2n+1} \\ &= -\frac4\pi{\cdot}\frac\pi4 \\ &= -1\end{aligned} n ∈ Z ∑ ​ 2 2 n + 1 ​ π ( − 1 ) n − 1 ​ ​ = n = − ∞ ∑ − 1 ​ 2 2 n + 1 ​ π ( − 1 ) n − 1 ​ + n = 0 ∑ ∞ ​ 2 2 n + 1 ​ π ( − 1 ) n − 1 ​ = n = 0 ∑ ∞ ​ 2 − 2 n − 1 ​ π ( − 1 ) − n − 2 ​ + n = 0 ∑ ∞ ​ 2 2 n + 1 ​ π ( − 1 ) n − 1 ​ = n = 0 ∑ ∞ ​ ( 2 n + 1 ) π 4 ( − 1 ) n − 1 ​ = − π 4 ​ n = 0 ∑ ∞ ​ 2 n + 1 ( − 1 ) n ​ = − π 4 ​ ⋅ 4 π ​ = − 1 ​
+
+따라서 sec ⁡ z = 1 + ∑ n ∈ Z ( − 1 ) n − 1 2 n + 1 2 π + ∑ n ∈ Z ( − 1 ) n 2 n + 1 2 π − z = ∑ n ∈ Z ( − 1 ) n 2 n + 1 2 π − z = ∑ n = − ∞ − 1 ( − 1 ) n 2 n + 1 2 π − z + ∑ n = 0 ∞ ( − 1 ) n 2 n + 1 2 π − z = ∑ n = 0 ∞ ( − 1 ) − n − 1 − 2 n − 1 2 π − z + ∑ n = 0 ∞ ( − 1 ) n 2 n + 1 2 π − z = ∑ n = 0 ∞ { ( − 1 ) n 2 n + 1 2 π + z + ( − 1 ) n 2 n + 1 2 π − z } = ∑ n = 0 ∞ ( − 1 ) n ( 2 n + 1 ) π ( 2 n + 1 2 π ) 2 − z 2 = ∑ n = 0 ∞ 4 ( − 1 ) n ( 2 n + 1 ) π ( 2 n + 1 ) 2 π 2 − 4 z 2 \begin{aligned}\sec z &= 1 + \sum_{n\in\Z}\frac{(-1)^{n-1}}{\dfrac{2n+1}2\pi} + \sum_{n\in\Z}\frac{(-1)^n}{\dfrac{2n+1}2\pi-z} \\ &= \sum_{n\in\Z}\frac{(-1)^n}{\dfrac{2n+1}2\pi-z} \\ &= \sum_{n=-\infty}^{-1}\frac{(-1)^n}{\dfrac{2n+1}2\pi-z} + \sum_{n=0}^\infty\frac{(-1)^n}{\dfrac{2n+1}2\pi-z} \\ &= \sum_{n=0}^\infty\frac{(-1)^{-n-1}}{\dfrac{-2n-1}2\pi-z} + \sum_{n=0}^\infty\frac{(-1)^n}{\dfrac{2n+1}2\pi-z} \\ &= \sum_{n=0}^\infty{\left\{\frac{(-1)^n}{\dfrac{2n+1}2\pi+z}+\frac{(-1)^n}{\dfrac{2n+1}2\pi-z}\right\}} \\ &= \sum_{n=0}^\infty\frac{(-1)^n(2n+1)\pi}{{\left(\dfrac{2n+1}2\pi\right)}^2-z^2} \\ &= \sum_{n=0}^\infty\frac{4(-1)^n(2n+1)\pi}{(2n+1)^2\pi^2 - 4z^2}\end{aligned} sec z ​ = 1 + n ∈ Z ∑ ​ 2 2 n + 1 ​ π ( − 1 ) n − 1 ​ + n ∈ Z ∑ ​ 2 2 n + 1 ​ π − z ( − 1 ) n ​ = n ∈ Z ∑ ​ 2 2 n + 1 ​ π − z ( − 1 ) n ​ = n = − ∞ ∑ − 1 ​ 2 2 n + 1 ​ π − z ( − 1 ) n ​ + n = 0 ∑ ∞ ​ 2 2 n + 1 ​ π − z ( − 1 ) n ​ = n = 0 ∑ ∞ ​ 2 − 2 n − 1 ​ π − z ( − 1 ) − n − 1 ​ + n = 0 ∑ ∞ ​ 2 2 n + 1 ​ π − z ( − 1 ) n ​ = n = 0 ∑ ∞ ​ ⎩ ⎨ ⎧ ​ 2 2 n + 1 ​ π + z ( − 1 ) n ​ + 2 2 n + 1 ​ π − z ( − 1 ) n ​ ⎭ ⎬ ⎫ ​ = n = 0 ∑ ∞ ​ ( 2 2 n + 1 ​ π ) 2 − z 2 ( − 1 ) n ( 2 n + 1 ) π ​ = n = 0 ∑ ∞ ​ ( 2 n + 1 ) 2 π 2 − 4 z 2 4 ( − 1 ) n ( 2 n + 1 ) π ​ ​
+- csc ⁡ z = − 1 z + ∑ n = 0 ∞ ( − 1 ) n 2 z z 2 − n 2 π 2 = 1 z − 2 z z 2 − π 2 + 2 z z 2 − 4 π 2 − 2 z z 2 − 9 π 2 + ⋯ \begin{aligned}\csc z &= -\frac1z + \sum_{n=0}^\infty\frac{(-1)^n2z}{z^2-n^2\pi^2} \\ &= \frac1z - \frac{2z}{z^2 - \pi^2} + \frac{2z}{z^2 - 4\pi^2} - \frac{2z}{z^2 - 9\pi^2} +\cdots\end{aligned} csc z ​ = − z 1 ​ + n = 0 ∑ ∞ ​ z 2 − n 2 π 2 ( − 1 ) n 2 z ​ = z 1 ​ − z 2 − π 2 2 z ​ + z 2 − 4 π 2 2 z ​ − z 2 − 9 π 2 2 z ​ + ⋯ ​
+
+csc ⁡ z = sec ⁡ ( z − π 2 ) \csc z = \sec\biggl(z-\cfrac\pi2\biggr) csc z = sec ( z − 2 π ​ ) 이므로 csc ⁡ z = ∑ n = 0 ∞ { ( − 1 ) n 2 n + 1 2 π + z − π 2 + ( − 1 ) n 2 n + 1 2 π − z + π 2 } = ∑ n = 0 ∞ { ( − 1 ) n n π + z + ( − 1 ) n ( n + 1 ) π − z } = ∑ n = 0 ∞ { ( − 1 ) n n π + z − ( − 1 ) n n π − z } − 1 z = − 1 z − ∑ n = 0 ∞ ( − 1 ) n 2 z ( n π ) 2 − z 2 = − 1 z + ∑ n = 0 ∞ ( − 1 ) n 2 z z 2 − n 2 π 2 \begin{aligned}\csc z &= \sum_{n=0}^\infty{\left\{\frac{(-1)^n}{\dfrac{2n+1}2\pi+z-\dfrac\pi2}+\frac{(-1)^n}{\dfrac{2n+1}2\pi-z+\dfrac\pi2}\right\}} \\ &= \sum_{n=0}^\infty{\left\{\frac{(-1)^n}{n\pi+z}+\frac{(-1)^n}{(n+1)\pi-z}\right\}} \\ &= \sum_{n=0}^\infty{\left\{\frac{(-1)^n}{n\pi+z} - \frac{(-1)^n}{n\pi-z}\right\}} - \frac1z \\ &= -\frac1z - \sum_{n=0}^\infty\frac{(-1)^n2z}{(n\pi)^2-z^2} \\ &= -\frac1z + \sum_{n=0}^\infty\frac{(-1)^n2z}{z^2-n^2\pi^2}\end{aligned} csc z ​ = n = 0 ∑ ∞ ​ ⎩ ⎨ ⎧ ​ 2 2 n + 1 ​ π + z − 2 π ​ ( − 1 ) n ​ + 2 2 n + 1 ​ π − z + 2 π ​ ( − 1 ) n ​ ⎭ ⎬ ⎫ ​ = n = 0 ∑ ∞ ​ { nπ + z ( − 1 ) n ​ + ( n + 1 ) π − z ( − 1 ) n ​ } = n = 0 ∑ ∞ ​ { nπ + z ( − 1 ) n ​ − nπ − z ( − 1 ) n ​ } − z 1 ​ = − z 1 ​ − n = 0 ∑ ∞ ​ ( nπ ) 2 − z 2 ( − 1 ) n 2 z ​ = − z 1 ​ + n = 0 ∑ ∞ ​ z 2 − n 2 π 2 ( − 1 ) n 2 z ​ ​
+
+5.2. 쌍곡선 함수 [편집]
+쌍곡선 함수를 삼각함수로 나타낸 정의식에서 유도할 수 있다. tanh ⁡ ( i z ) = i tan ⁡ z coth ⁡ ( i z ) = − i cot ⁡ z sech ⁡ ( i z ) = sec ⁡ z csch ⁡ ( i z ) = − i csc ⁡ z \begin{aligned} \tanh(iz) &= i\tan z \\ \coth(iz) &= -i\cot z \\ \operatorname{sech}(iz) &= \sec z \\ \operatorname{csch}(iz) &= -i\csc z \end{aligned} tanh ( i z ) coth ( i z ) sech ( i z ) csch ( i z ) ​ = i tan z = − i cot z = sec z = − i csc z ​
+
+이므로 tanh ⁡ z = − i tan ⁡ ( i z ) coth ⁡ z = i cot ⁡ ( i z ) sech ⁡ z = sec ⁡ ( i z ) csch ⁡ z = i csc ⁡ ( i z ) \begin{aligned} \tanh z &= -i\tan(iz) \\ \coth z &= i\cot(iz) \\ \operatorname{sech}z &= \sec(iz) \\ \operatorname{csch}z &= i\csc(iz) \end{aligned} tanh z coth z sech z csch z ​ = − i tan ( i z ) = i cot ( i z ) = sec ( i z ) = i csc ( i z ) ​
+
+에서 - tanh ⁡ z = ∑ n = 0 ∞ 8 ( − i 2 ) z ( 2 n + 1 ) 2 π 2 − 4 ( i z ) 2 = ∑ n = 0 ∞ 8 z ( 2 n + 1 ) 2 π 2 + 4 z 2 = 8 z π 2 + 4 z 2 + 8 z 9 π 2 + 4 z 2 + 8 z 25 π 2 + 4 z 2 + 8 z 49 π 2 + 4 z 2 + ⋯ \begin{aligned}\tanh z &= \sum_{n=0}^\infty\frac{8(-i^2)z}{(2n+1)^2\pi^2-4(iz)^2} \\ &= \sum_{n=0}^\infty\frac{8z}{(2n+1)^2\pi^2+4z^2} \\ &= \frac{8z}{\pi^2+4z^2} + \frac{8z}{9\pi^2+4z^2} + \frac{8z}{25\pi^2+4z^2} + \frac{8z}{49\pi^2+4z^2}+\cdots\end{aligned} tanh z ​ = n = 0 ∑ ∞ ​ ( 2 n + 1 ) 2 π 2 − 4 ( i z ) 2 8 ( − i 2 ) z ​ = n = 0 ∑ ∞ ​ ( 2 n + 1 ) 2 π 2 + 4 z 2 8 z ​ = π 2 + 4 z 2 8 z ​ + 9 π 2 + 4 z 2 8 z ​ + 25 π 2 + 4 z 2 8 z ​ + 49 π 2 + 4 z 2 8 z ​ + ⋯ ​
+- coth ⁡ z = − i i z + ∑ n = 0 ∞ 2 i 2 z ( i z ) 2 − n 2 π 2 = − 1 z + ∑ n = 0 ∞ 2 z z 2 + n 2 π 2 = 1 z + 2 z z 2 + π 2 + 2 z z 2 + 4 π 2 + 2 z z 2 + 9 π 2 + ⋯ \begin{aligned}\coth z &= -\frac i{iz} + \sum_{n=0}^\infty\frac{2i^2z}{(iz)^2-n^2\pi^2} \\ &= -\frac1z + \sum_{n=0}^\infty\frac{2z}{z^2+n^2\pi^2} \\ &= \frac1z + \frac{2z}{z^2 + \pi^2} + \frac{2z}{z^2 + 4\pi^2} + \frac{2z}{z^2 + 9\pi^2} +\cdots\end{aligned} coth z ​ = − i z i ​ + n = 0 ∑ ∞ ​ ( i z ) 2 − n 2 π 2 2 i 2 z ​ = − z 1 ​ + n = 0 ∑ ∞ ​ z 2 + n 2 π 2 2 z ​ = z 1 ​ + z 2 + π 2 2 z ​ + z 2 + 4 π 2 2 z ​ + z 2 + 9 π 2 2 z ​ + ⋯ ​
+- sech ⁡ z = ∑ n = 0 ∞ 4 ( − 1 ) n ( 2 n + 1 ) π ( 2 n + 1 ) 2 π 2 − 4 ( i z ) 2 = ∑ n = 0 ∞ 4 ( − 1 ) n ( 2 n + 1 ) π ( 2 n + 1 ) 2 π 2 + 4 z 2 = 4 π π 2 + 4 z 2 − 12 π 9 π 2 + 4 z 2 + 20 π 25 π 2 + 4 z 2 − 28 π 49 π 2 + 4 z 2 + ⋯ \begin{aligned}\operatorname{sech}z &= \sum_{n=0}^\infty\frac{4(-1)^n(2n+1)\pi}{(2n+1)^2\pi^2-4(iz)^2} \\ &= \sum_{n=0}^\infty\frac{4(-1)^n(2n+1)\pi}{(2n+1)^2\pi^2+4z^2} \\ &= \frac{4\pi}{\pi^2 + 4z^2} - \frac{12\pi}{9\pi^2 + 4z^2} + \frac{20\pi}{25\pi^2 + 4z^2} - \frac{28\pi}{49\pi^2 + 4z^2}+\cdots\end{aligned} sech z ​ = n = 0 ∑ ∞ ​ ( 2 n + 1 ) 2 π 2 − 4 ( i z ) 2 4 ( − 1 ) n ( 2 n + 1 ) π ​ = n = 0 ∑ ∞ ​ ( 2 n + 1 ) 2 π 2 + 4 z 2 4 ( − 1 ) n ( 2 n + 1 ) π ​ = π 2 + 4 z 2 4 π ​ − 9 π 2 + 4 z 2 12 π ​ + 25 π 2 + 4 z 2 20 π ​ − 49 π 2 + 4 z 2 28 π ​ + ⋯ ​
+- csch ⁡ z = − i i z + ∑ n = 0 ∞ ( − 1 ) n 2 i 2 z ( i z ) 2 − n 2 π 2 = − 1 z + ∑ n = 0 ∞ ( − 1 ) n 2 z z 2 + n 2 π 2 = 1 z − 2 z z 2 + π 2 + 2 z z 2 + 4 π 2 − 2 z z 2 + 9 π 2 + ⋯ \begin{aligned}\operatorname{csch}z &= -\frac i{iz} + \sum_{n=0}^\infty\frac{(-1)^n2i^2z}{(iz)^2-n^2\pi^2} \\ &= -\frac1z + \sum_{n=0}^\infty\frac{(-1)^n2z}{z^2+n^2\pi^2} \\ &= \frac1z - \frac{2z}{z^2 + \pi^2} + \frac{2z}{z^2 + 4\pi^2} - \frac{2z}{z^2 + 9\pi^2}+\cdots\end{aligned} csch z ​ = − i z i ​ + n = 0 ∑ ∞ ​ ( i z ) 2 − n 2 π 2 ( − 1 ) n 2 i 2 z ​ = − z 1 ​ + n = 0 ∑ ∞ ​ z 2 + n 2 π 2 ( − 1 ) n 2 z ​ = z 1 ​ − z 2 + π 2 2 z ​ + z 2 + 4 π 2 2 z ​ − z 2 + 9 π 2 2 z ​ + ⋯ ​
+
+5.3. 바이어슈트라스 무한곱과의 관계 [편집]
+바이어슈트라스 분해 정리 문서를 보면 알겠지만, 특정한 전해석 함수를 수렴 조건과 영점을 가진 무한곱으로 표현함에 의의를 두고 있다. 마찬가지로, 미타그레플레르 정리를 활용하여 전해석함수의 바이어슈트라스꼴 무한곱을 만들 수 있다.
+
+미타그레플레르 정리에 로그 미분을 대입하면 f ′ ( z ) f ( z ) = f ′ ( 0 ) f ( 0 ) + ∑ k = 1 ∞ z k ( z − k ) \displaystyle \dfrac{f'(z)}{f(z)} = \dfrac{f'(0)}{f(0)} +\sum_{k=1}^\infty \dfrac z{k(z-k)} f ( z ) f ′ ( z ) ​ = f ( 0 ) f ′ ( 0 ) ​ + k = 1 ∑ ∞ ​ k ( z − k ) z ​
+
+양 변을 적분하면 ∫ 0 z f ′ ( z ) f ( z ) d z = ln ⁡ f ( z ) − ln ⁡ f ( 0 ) = z f ′ ( 0 ) f ( 0 ) + ∑ k = 1 ∞ [ ln ⁡ ( z − k ) − ln ⁡ ( − k ) + z k ] \displaystyle \begin{aligned} \int_0^z \dfrac{f'(z)}{f(z)} \,{\rm d}z &= \ln f(z) -\ln f(0) = z\dfrac{f'(0)}{f(0)} +\sum_{k=1}^\infty \left[ \ln(z - k) -\ln(-k) +\dfrac z{k} \right] \end{aligned} ∫ 0 z ​ f ( z ) f ′ ( z ) ​ d z ​ = ln f ( z ) − ln f ( 0 ) = z f ( 0 ) f ′ ( 0 ) ​ + k = 1 ∑ ∞ ​ [ ln ( z − k ) − ln ( − k ) + k z ​ ] ​
+
+함수 f ( z ) f(z) f ( z ) 에서 자연로그를 없애고, k를 n으로 두면 아래와 같은 바이어슈트라스꼴 무한곱이 나온다. f ( z ) = f ( 0 ) e z f ′ ( 0 ) f ( 0 ) ∏ k = 1 ∞ ( 1 − z k ) e z k \displaystyle \begin{aligned} f(z) = f(0) e^{z\frac{f'(0)}{f(0)}} \prod_{k=1}^\infty \biggl( 1 -\dfrac zk \biggr) e^{\frac zk} \end{aligned} f ( z ) = f ( 0 ) e z f ( 0 ) f ′ ( 0 ) ​ k = 1 ∏ ∞ ​ ( 1 − k z ​ ) e k z ​ ​
+
+6. 참고 문헌 [편집]
+- https://en.m.wikipedia.org/wiki/Mittag-Leffler%27s_theorem
+
+- G. B. Arfken et al., Mathematical Method for Physicists : A Comprehensive Guide
+
+[ 남동구가구 전문 썸앤데코
+m.place.naver.com/place/1778971598 v-if
+자체제작 가구 및 타브랜드제품을 가성비있게 제공하는 가구전문 브랜드 썸앤데코
+
+] | [ 사무실의 모든것 지니오피스!
+jinioffice.co.kr v-if
+[ [ 회사소개 ] [ 납품실적 ] [ 견적문의 ] [ 고객센터 ] ]
+기업맞춤형 비즈니스 토탈 쇼핑몰! 사무집기, 냉난방, OA전문, 상품+가격 경쟁력
+
+] | [ 인천남동구인테리어 태영데코
+www.tydeco.co.kr v-if
+욕실인테리어.실내인테리어.착한가격,도배/장판.페인트.샤시.책임견적시공전문업체
+
+]
+
+[1] 혹은 전해석함수를 영점을 가진 무한곱으로 표현하는 [2] 좀 더 정확하게는 p a ( z ) = ∑ k = 1 n c a , k ( z − a ) k \displaystyle p_a(z) = \sum_{k=1}^n\frac{c_{a,\,k}}{(z-a)^k} p a ​ ( z ) = k = 1 ∑ n ​ ( z − a ) k c a , k ​ ​ ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

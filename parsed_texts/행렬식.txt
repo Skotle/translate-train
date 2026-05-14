@@ -1,0 +1,269 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 행렬식
+최근 수정 시각: 2026-05-06 03:33:28 [ [ [ ] [ [ 12 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 행렬(수학)
+]
+
+[ [ ] [ 선형대수학
+Linear Algebra
+[ 펼치기 · 접기 ] ▲ 대수학
+기본 대상 | 일차함수 · 벡터 · 행렬 · 선형 변환
+대수적 구조 | 가군(모듈) · 벡터 공간 · 내적 공간 · 노름 공간
+선형 연산자 | 기본 개념 | 연립방정식 ( 1차 · 2차 ) · 행렬곱 · 단위행렬 · 역행렬 과 크라메르 공식 · 가역행렬 · 전치행렬 · 행렬식 ( 라플라스 전개 ) · 주대각합
+선형계 | 기본행연산 과 기본행렬 · 가우스-조르당 소거법 · 행사다리꼴 · 행렬표현 · 라그랑주 보간법
+주요 정리 | 선형대수학의 기본정리 · 차원 정리 · 가역행렬의 기본정리 · 스펙트럼 정리
+기타 | 제곱근행렬 · 멱등행렬 · 멱영행렬 · 대칭행렬 · 에르미트 행렬 · 야코비 행렬 · 방데르몽드 행렬 · 아다마르 행렬 변환 · 노름(수학) · 벡터장
+벡터공간의 분해 | 행렬의 닮음(상사) · 고유치 문제 · 케일리-해밀턴 정리 · 대각화 ( 대각행렬 ) · 삼각화 · 조르당 분해
+벡터의 연산 | 노름 · 거리함수 · 내적 · 외적 ( 신발끈 공식 ) · 다중선형형식 · ∇ · 크로네커 델타
+내적공간 | 그람-슈미트 과정 · 수반 연산자 ( 에르미트 내적 )
+다중선형대수 | 텐서 · 텐서곱 · 레비치비타 기호
+
+1 . 개요 2 . 역사 3 . 표기법 4 . 행렬식을 엄밀히 정의하기 위한 조건 5 . 행렬식의 엄밀한 정의 5.1 . 의미 5.2 . 교대 다중 선형형식으로부터의 유도 5.3 . 예시 6 . 성질 7 . 선형변환 에서의 행렬식 8 . 계산법 8.1 . 사루스 법칙 8.2 . 스칼라 삼중곱 연산 8.3 . 라플라스 전개 8.4 . 가우스 소거법 8.5 . LU 분해법 9 . 기하학적 특징 9.1 . 넓이, 부피, 초부피 9.2 . 방향 (orientation) 10 . 기타
+
+1. 개요 [편집]
+determinant · 行 列 式
+
+정사각행렬 ( n × n n\times n n × n 행렬)에서만 정의되는 값으로, 행렬의 가역성을 판별 해주는 교대 다중선형형식이자 일종의 범함수이다.
+
+2. 역사 [편집]
+역사적으로 본다면 행렬 은 연립일차방정식 의 풀이를 어떻게 하면 될까라고 고민한 데서 시작했다. 이미 고대 중국의 구장산술(九章算術)에 연립일차방정식을 행렬과 유사한 형태로 푸는 과정이 저술되어 있었던 만큼 그 메커니즘은 매우 오래되었다. 그렇지만 행렬식은 행렬이 탄생하기 전부터 지속적으로 연구되었다. 물론 해밀턴의 행렬 표기 이전에는 행렬식을 '연립방정식 미지수의 계수만을 이용해 나타낸 특수한 값'으로 이해하는 것이 좋다.
+
+17세기 말 일본의 세키 다카카즈 (関孝和)와 독일의 고트프리트 빌헬름 라이프니츠 (Gottfried Wilhelm Leibniz)가 각기 독자적으로 행렬식의 개념을 창안했으며, 라이프니츠는 치환을 사용해 행렬식의 엄밀한 정의를 나타내는 식을 제시했다. 1771년 프랑스의 알렉상드르테오필 방데르몽드(Alexandre-Théophile Vandermonde)는 행렬식이 단지 연립방정식의 해법에 수반되는 무언가가 아닌 독자적인 함수로 취급될 수 있다는 점을 보였고, 이듬해 피에르시몽 라플라스 (Pierre-Simon Laplace)는 기존에 라이프니츠가 정의한 것과 달리 여인수 전개를 이용해 행렬식을 간단히 계산하는 방법을 소개했다. 1841년 카를 구스타프 야코프 야코비 (Carl Gustav Jacob Jacobi)는 다변수 벡터함수의 편도함수로 이루어진 야코비안 및 그 행렬식을 도입하기도 했다.
+
+이렇게 활용도가 매우 높은 행렬식이 현재와 같이 "determinant" [1] 라는 이름을 지니면서 두 세로선 사이에 직사각형 형태로 성분을 배치하는 형태로 나타내고, (특정 조건 하에서) 행렬식 사이의 덧셈 연산이 성립되도록 정립한 것은 프랑스의 오귀스탱루이 코시 (Augustin-Louis Cauchy), 영국의 제임스 조지프 실베스터 (James Joseph Sylvester)와 아서 케일리 (Arthur Cayley), 그리고 영국 치하 아일랜드의 윌리엄 로원 해밀턴 (William Rowan Hamilton)의 업적이다.
+
+먼저, 1812년 코시는 동료 수학자 자크 필리프 마리 비네(Jacques Philippe Marie Binet)가 1811년 현재의 행렬곱 에 해당하는 연구 결과를 개선하고 발표하면서 "déterminant"이라는 용어를 처음 사용했다. 그리고 1839년과 1841년 행렬식은 현대적인 모습을 정립하게 된다. 실베스터와 케일리는 연립방정식의 식과 미지수의 수에 따라 고유한 식 [2] 에 따라 연립방정식의 해가 다르게 나오는 것을 발견하면서, 이 값이 해의 존재 여부(궁극적으로는 행렬의 가역 여부)를 '판별'한다는 뜻에서 "determinant"라는 용어가 영어에서도 사용되었다. 여기서 해밀턴이 연립방정식의 미지수와 그 계수를 서로 분리하여 나타낼 수 있음을 생각해냈고, 그 계수만을 모아 괄호로 묶어서 나타낸 직사각형 형태의 '현대적인 모습의 행렬' 사이에서 따로 덧셈과 곱셈이 가능함을 선보였다.
+
+이렇게 행렬식과 행렬이 현재의 모습을 갖추게 되면서, 19세기부터 시작된 수학의 추상화 물결에 합류하여, 행렬은 선형사상의 컴팩트한 표기이자 그 자체로 벡터공간의 원소로, 행렬식은 교대 다중선형형식으로 엄밀히 재정립되었다.
+
+3. 표기법 [편집]
+행렬식의 표기법으로는, 영어식 determinant의 약자인 det ⁡ \det det 와 절댓값 기호( ∣ ⋅ ∣|\cdot| ∣ ⋅ ∣ )를 쓰는 방법이 있다. 행렬 A = ( a b c d ) A = \begin{pmatrix} a & b \\ c & d \end{pmatrix} A = ( a c ​ b d ​ ) 의 행렬식은 ∣ A ∣ = ∣ a b c d ∣ = ∣ ( a b c d ) ∣ = det ⁡ A = det ⁡ ( a b c d ) = a d − b c \begin{aligned} |A| &= \begin{vmatrix} a & b \\ c & d \end{vmatrix} = {\left| \begin{pmatrix} a & b \\ c & d \end{pmatrix} \right|} \\ &= \det A = \det \begin{pmatrix} a & b \\ c & d \end{pmatrix} \\ &= ad - bc \end{aligned} ∣ A ∣ ​ = ​ a c ​ b d ​ ​ = ​ ( a c ​ b d ​ ) ​ = det A = det ( a c ​ b d ​ ) = a d − b c ​
+
+와 같이 나타낸다.
+
+앞 두 항에서 절댓값 기호가 두 겹일 경우 행렬식을 구한 뒤 그 값의 절댓값 을 구하라는 의미이다. 다시 말해 안쪽 절댓값 기호는 '행렬식을 연산해라'라는 뜻이고, 바깥쪽 절댓값 기호는 '그 후에 절댓값을 취해라'라는 뜻이다. ∣ ∣ A ∣ ∣ = ∥ a b c d ∥ = ∣ a d − b c ∣ = { a d − b c ( a d − b c > 0 ) − ( a d − b c ) ( a d − b c < 0 ) \begin{aligned} ||A|| &= \begin{Vmatrix} a & b \\ c & d \end{Vmatrix} \\ &= |ad-bc| \\ &= \begin{cases} ad-bc & (ad-bc > 0) \\ -(ad-bc) & (ad-bc < 0)\end{cases} \end{aligned} ∣∣ A ∣∣ ​ = ​ a c ​ b d ​ ​ = ∣ a d − b c ∣ = { a d − b c − ( a d − b c ) ​ ( a d − b c > 0 ) ( a d − b c < 0 ) ​ ​
+
+주의해야 할 것은 이것은 ∣ ⋅ ∣|\cdot| ∣ ⋅ ∣ 기호가 두 번 쓰인 것이지 ∥ ⋅ ∥ \|\cdot\| ∥ ⋅ ∥ 처럼 두 줄짜리 기호가 쓰인 것이 아니라는 점이다. 통상 ∥ ⋅ ∥ \|\cdot\| ∥ ⋅ ∥ 이것은 행렬식이 아니라 행렬의 노름 을 표기하는 방법이다. 영문 위키백과 Matrix norm 문서를 보면 알겠지만 노름공간 위에서 행해지는 특수한 연산이며, 노름 연산도 유일하지 않아서 그 노름공간이 어떻게 정의되어 있는가에 따라 오만 가지 별의 별 연산이 정의되어 있다. 그래서 행렬식의 절댓값은 ∣ det ⁡ A ∣|\det A| ∣ det A ∣ 라고 표기하는 것이 더 바람직하다.
+
+4. 행렬식을 엄밀히 정의하기 위한 조건 [편집]
+우선, 열벡터 각각을 하나의 인수로 보자. 그러면 행렬식은 다음 3가지 성질을 만족하는 함수로 정의할 수 있다. - n = 2 n=2 n = 2 이면 det ⁡ ⁣ : ( F 2 ) 2 → F \det\colon \bigl(F^2\bigr)^2\to F det : ( F 2 ) 2 → F
+
+이 관점에서 행렬식은 다중선형(multi-linear), 교대(alternating) 범함수 (functional) [3] 이다. 이걸 좀 더 일반화한 다음, 풀어쓰면 다음과 같다. - 다중 선형성 [4]
+각 열벡터 v i {\bf v}_i v i ​ , u ∈ F n {\bf u} \in F^n u ∈ F n 와 임의의 스칼라 a a a 에 대해
+det ⁡ ( v 1 ⋯ ⋯ a v i + u ⋯ ⋯ v n ) = a det ⁡ ( v 1 ⋯ ⋯ v i ⋯ ⋯ v n ) + det ⁡ ( v 1 ⋯ ⋯ u ⋯ ⋯ v n ) \det \begin{pmatrix} {\bf v}_1 & \cdots\cdots & a{\bf v}_i + {\bf u} & \cdots\cdots & {\bf v}_n \end{pmatrix} = a \det \begin{pmatrix} {\bf v}_1 & \cdots\cdots & {\bf v}_i & \cdots\cdots {\bf v}_n \end{pmatrix} + \det \begin{pmatrix} {\bf v}_1 & \cdots\cdots & \bf u & \cdots\cdots & {\bf v}_n \end{pmatrix} det ( v 1 ​ ​ ⋯⋯ ​ a v i ​ + u ​ ⋯⋯ ​ v n ​ ​ ) = a det ( v 1 ​ ​ ⋯⋯ ​ v i ​ ​ ⋯⋯ v n ​ ​ ) + det ( v 1 ​ ​ ⋯⋯ ​ u ​ ⋯⋯ ​ v n ​ ​ ) [5]
+- 교대성 [6] [7]
+det ⁡ ( v 1 ⋯ ⋯ v i ⋯ ⋯ v j ⋯ ⋯ v n ) = − det ⁡ ( v 1 ⋯ ⋯ v j ⋯ ⋯ v i ⋯ ⋯ v n ) \det \begin{pmatrix} {\bf v}_1 & \cdots\cdots & {\bf v}_i & \cdots\cdots & {\bf v}_j & \cdots\cdots & {\bf v}_n \end{pmatrix}= - \det \begin{pmatrix} {\bf v}_1 & \cdots\cdots & {\bf v}_j & \cdots\cdots & {\bf v}_i & \cdots\cdots & {\bf v}_n \end{pmatrix} det ( v 1 ​ ​ ⋯⋯ ​ v i ​ ​ ⋯⋯ ​ v j ​ ​ ⋯⋯ ​ v n ​ ​ ) = − det ( v 1 ​ ​ ⋯⋯ ​ v j ​ ​ ⋯⋯ ​ v i ​ ​ ⋯⋯ ​ v n ​ ​ ) [8]
+- 단위 행렬의 값
+det ⁡ I = det ⁡ ( e j ) = 1 \det I=\det({\bf e}_j)=1 det I = det ( e j ​ ) = 1
+
+수식이 아닌 이런 장황한 문장으로 정의하는 까닭은, 행렬식과는 전혀 관계가 없어 보이는 대칭군 이라는 개념을 알아야 4 4 4 차 이상의 고차 행렬식도 계산할 수 있기 때문 [9] 이다. 사실 라이프니츠 가 대칭군 을 도입해서 행렬식을 정의하기 전까지는 위처럼 간단명료하지 않았기 때문에 처음 본 사람은, 복잡하게 느낄 수도 있다. 개론을 들었다면, 계산법만 배웠기에 무의미하게 느껴지기도 할 것이고. 위의 다중 선형성과 교대성을 행렬식의 성질이라 배웠는데, 왜 정의로 가져다 썼나 싶을 것이다. 그러나 다중 선형성과 교대성은 선형대수에서 아주 흔히 보이는 성질이라는 것을 생각하면 그렇지 않다. 그리고 지저분한 계산으로 정의하는 것보다는 (더 어렵긴 하지만) 자주 등장하는 성질로 정의하는 것이 본질에 더 가깝다는 것을 기억하자. 계산에 의한 정의보다 다른 성질들을 증명하기 훨씬 편하다.
+
+5. 행렬식의 엄밀한 정의 [편집]
+∣ ( a i j ) n × n ∣ = ∑ σ ∈ S n sgn ⁡ ( σ ) ∏ i = 1 n a i σ ( i ) \displaystyle |(a_{ij})_{n\times n}| = \sum_{\sigma \in S_n} \operatorname{sgn}(\sigma) \prod_{i=1}^n a_{i\sigma(i)} ∣ ( a ij ​ ) n × n ​ ∣ = σ ∈ S n ​ ∑ ​ sgn ( σ ) i = 1 ∏ n ​ a iσ ( i ) ​
+
+실제로 위 식이 상술한 다중 선형성과 교대성, 그리고 단위행렬의 행렬식이 1 1 1 임을 보일 수 있다. 또한 저 세 성질을 만족하는 식은 위 식 하나뿐 이다. 또한 위 식의 유일성 덕분에 행렬식을 계산할 때 쓰는 방식인 여인수 전개를 이용한 행렬식 정의 역시 정당화된다.
+
+아예 정의를 위의 성질로 할 수도 있다. 이 경우 ( n n n 을 V V V 의 차원이라 할 때) 단위행렬에서의 값이 1 \bf1 1 인 교대 n \bm n n -다중 선형형식(alternating n \bm n n -multilinear form) 이라는 간단한 정의가 나온다. [10]
+
+이 식은 서양에서 행렬식의 값을 구하는 최초의 메커니즘으로, 1693년에 라이프니츠가 고안했기 때문에 영어권에서는 "Leibniz formula (라이프니츠 공식)"이라고 부른다. 그런데 행렬식이 교대 다중선형형식이고 이를 라이프니츠 공식으로 나타낼 수 있다는 점이 밝혀진 것은 20세기의 일이니, 경이로운 일이 아닐 수 없다.
+
+5.1. 의미 [편집]
+원활한 이해를 돕기 위해 대칭군 및 치환 항목도 참조.
+
+항등치환 ε = ( 1 2 3 ⋯ ⋯ i ⋯ ⋯ n 1 2 3 ⋯ ⋯ i ⋯ ⋯ n ) \varepsilon = \begin{pmatrix} 1 & 2 & 3 & \cdots\cdots & i & \cdots\cdots & n \\ 1 & 2 & 3 & \cdots\cdots & i & \cdots\cdots & n \end{pmatrix} ε = ( 1 1 ​ 2 2 ​ 3 3 ​ ⋯⋯ ⋯⋯ ​ i i ​ ⋯⋯ ⋯⋯ ​ n n ​ ) 에 대해 아래와 같은 대칭군 σ \sigma σ σ = ( 1 2 3 ⋯ ⋯ i ⋯ ⋯ n σ ( 1 ) σ ( 2 ) σ ( 3 ) ⋯ ⋯ σ ( i ) ⋯ ⋯ σ ( n ) ) \sigma = \begin{pmatrix} 1 & 2 & 3 & \cdots\cdots & i & \cdots\cdots & n \\ \sigma(1) & \sigma(2) & \sigma(3) & \cdots\cdots & \sigma(i) & \cdots\cdots & \sigma(n) \end{pmatrix} σ = ( 1 σ ( 1 ) ​ 2 σ ( 2 ) ​ 3 σ ( 3 ) ​ ⋯⋯ ⋯⋯ ​ i σ ( i ) ​ ⋯⋯ ⋯⋯ ​ n σ ( n ) ​ )
+
+에 이르는데 필요한 치환 의 조작 횟수를 N ( σ ) N(\sigma) N ( σ ) 이라고 하면, 부호(signature) sgn ⁡ ( σ ) \operatorname{sgn}(\sigma) sgn ( σ ) 를 sgn ⁡ ( σ ) = ( − 1 ) N ( σ ) \operatorname{sgn}(\sigma) = (-1)^{N(\sigma)} sgn ( σ ) = ( − 1 ) N ( σ ) 로 정의한다. [11]
+이 부호와 행렬의 ( i , σ ( i ) ) (i,\,\sigma(i)) ( i , σ ( i )) 성분 a i σ ( i ) a_{i \sigma(i)} a iσ ( i ) ​ 의 계승 ∏ i = 1 n a i σ ( i ) \displaystyle \prod_{i=1}^n a_{i \sigma(i)} i = 1 ∏ n ​ a iσ ( i ) ​ 을 곱하면 행렬식을 계산하기 위한 항 1 1 1 개가 얻어진다. 대칭군 의 경우의 수는 n n n 개의 숫자를 나열하는 방법의 수 n ! n! n ! 과 같으므로 모든 대칭군의 경우의 수에 대해 위 계산을 해서 모두 더해주면 ( ∑ ) \Bigl(\displaystyle \sum\Bigl) ( ∑ ) 구하고자 하는 행렬식의 값이 얻어진다.
+
+5.2. 교대 다중 선형형식으로부터의 유도 [편집]
+정말로 위의 식이 교대 다중 선형형식으로부터 얻어지는지 확인해 보도록 하자. 이는 아래에 소개될 성질들을 증명하는데 있어서도 중요한 역할을 한다.
+
+먼저 임의로 고른 벡터 v 1 , v 2 , ⋯ , v n {\bf v}_1,\,{\bf v}_2,\,\cdots,\,{\bf v}_n v 1 ​ , v 2 ​ , ⋯ , v n ​ 을 생각해 보자. 그리고 어떤 스칼라들 a i j ( i , j = 1 , 2 , ⋯ , n ) a_{ij} \pod{i,\,j = 1,\,2,\,\cdots,\,n} a ij ​ ( i , j = 1 , 2 , ⋯ , n ) 을 생각해 보자. 그러면 다중 선형성으로부터 다음을 얻는다. det ⁡ ( ∑ j 1 a 1 j 1 v j 1 , ∑ j 2 a 2 j 2 v j 2 , ⋯ , ∑ j n a n j n v j n ) = ∑ j 1 , j 2 , ⋯ , j n a 1 j 1 a 2 j 2 ⋯ a n j n det ⁡ ( v j 1 , v j 2 , ⋯ , v j n ) \displaystyle \det\Biggl( \sum_{j_1} a_{1j_1} {\bf v}_{j_1},\,\sum_{j_2} a_{2j_2} {\bf v}_{j_2},\,\cdots,\,\sum_{j_n} a_{nj_n} {\bf v}_{j_n} \Biggr) = \sum_{j_1,\,j_2,\,\cdots,\,j_n} a_{1j_1} a_{2j_2} \cdots a_{nj_n} \det({\bf v}_{j_1},\,{\bf v}_{j_2},\,\cdots,\,{\bf v}_{j_n}) det ( j 1 ​ ∑ ​ a 1 j 1 ​ ​ v j 1 ​ ​ , j 2 ​ ∑ ​ a 2 j 2 ​ ​ v j 2 ​ ​ , ⋯ , j n ​ ∑ ​ a n j n ​ ​ v j n ​ ​ ) = j 1 ​ , j 2 ​ , ⋯ , j n ​ ∑ ​ a 1 j 1 ​ ​ a 2 j 2 ​ ​ ⋯ a n j n ​ ​ det ( v j 1 ​ ​ , v j 2 ​ ​ , ⋯ , v j n ​ ​ )
+
+그런데 교대성으로부터 만약 j 1 , j 2 , ⋯ , j n j_1,\,j_2,\,\cdots,\,j_n j 1 ​ , j 2 ​ , ⋯ , j n ​ 들 중 어느 둘이라도 중복되는 경우 det ⁡ ( v j 1 , v j 2 , ⋯ , v j n ) = 0 \det({\bf v}_{j_1},\,{\bf v}_{j_2},\,\cdots,\,{\bf v}_{j_n}) = 0 det ( v j 1 ​ ​ , v j 2 ​ ​ , ⋯ , v j n ​ ​ ) = 0 이 되어 버린다. 따라서 위 식 우변에서 남는 항은 j 1 , j 2 , ⋯ , j n j_1,\,j_2,\,\cdots,\,j_n j 1 ​ , j 2 ​ , ⋯ , j n ​ 들이 제각각 모두 다 다른 경우들에 대한 항들이어야 할 것이다. 이때 남은 항들의 j 1 , j 2 , ⋯ , j n j_1,\,j_2,\,\cdots,\,j_n j 1 ​ , j 2 ​ , ⋯ , j n ​ 은 사실 1 , 2 , ⋯ , n 1,\,2,\,\cdots,\,n 1 , 2 , ⋯ , n 을 임의로 뒤섞은 것이다. 이를 치환의 언어로 쓴 게 바로 다음 식이다. ∑ j 1 , j 2 , ⋯ , j n a 1 j 1 a 2 j 2 ⋯ a n j n det ⁡ ( v j 1 , v j 2 , ⋯ , v j n ) = ∑ σ ∈ S n a 1 σ ( 1 ) a 2 σ ( 2 ) ⋯ a n σ ( n ) det ⁡ ( v σ ( 1 ) , v σ ( 2 ) , ⋯ , v σ ( n ) ) = ∑ σ ∈ S n ( ∏ i = 1 n a i σ ( i ) ) det ⁡ ( v σ ( 1 ) , v σ ( 2 ) , ⋯ , v σ ( n ) ) \begin{aligned} \sum_{j_1,\,j_2,\,\cdots, j_n} a_{1j_1} a_{2j_2} \cdots a_{nj_n} \det({\bf v}_{j_1},\,{\bf v}_{j_2},\,\cdots,\,{\bf v}_{j_n}) &= \sum_{\sigma \in S_n} a_{1\sigma(1)} a_{2\sigma(2)} \cdots a_{n\sigma(n)} \det\bigl( {\bf v}_{\sigma(1)},\,{\bf v}_{\sigma(2)},\,\cdots,\,{\bf v}_{\sigma(n)} \bigr) \\ &= \sum_{\sigma \in S_n} \Biggl( \prod_{i=1}^n a_{i \sigma(i)} \Biggr) \det\bigl( {\bf v}_{\sigma(1)},\,{\bf v}_{\sigma(2)},\,\cdots,\,{\bf v}_{\sigma(n)} \bigr) \end{aligned} j 1 ​ , j 2 ​ , ⋯ , j n ​ ∑ ​ a 1 j 1 ​ ​ a 2 j 2 ​ ​ ⋯ a n j n ​ ​ det ( v j 1 ​ ​ , v j 2 ​ ​ , ⋯ , v j n ​ ​ ) ​ = σ ∈ S n ​ ∑ ​ a 1 σ ( 1 ) ​ a 2 σ ( 2 ) ​ ⋯ a nσ ( n ) ​ det ( v σ ( 1 ) ​ , v σ ( 2 ) ​ , ⋯ , v σ ( n ) ​ ) = σ ∈ S n ​ ∑ ​ ( i = 1 ∏ n ​ a iσ ( i ) ​ ) det ( v σ ( 1 ) ​ , v σ ( 2 ) ​ , ⋯ , v σ ( n ) ​ ) ​
+
+여기서 한 번 더 교대성을 쓰면 위에서 설명한 대로 det ⁡ ( v σ ( 1 ) , v σ ( 2 ) , ⋯ , v σ ( n ) ) = sgn ⁡ ( σ ) det ⁡ ( v 1 , v 2 , ⋯ , v n ) \det\bigl( {\bf v}_{\sigma(1)},\,{\bf v}_{\sigma(2)},\,\cdots,\,{\bf v}_{\sigma(n)} \bigr) = \operatorname{sgn}(\sigma) \det({\bf v}_1,\,{\bf v}_2,\,\cdots,\,{\bf v}_n) det ( v σ ( 1 ) ​ , v σ ( 2 ) ​ , ⋯ , v σ ( n ) ​ ) = sgn ( σ ) det ( v 1 ​ , v 2 ​ , ⋯ , v n ​ )
+
+과 같이 쓸 수 있다. 이것까지 대입하면 최종적으로 다음을 얻게 된다. det ⁡ ( ∑ j 1 a 1 j 1 v j 1 , ∑ j 2 a 2 j 2 v j 2 , ⋯ ∑ j n a n j n v j n ) = [ ∑ σ ∈ S n sgn ⁡ ( σ ) ( ∏ i = 1 n a i σ ( i ) ) ] det ⁡ ( v 1 , v 2 , ⋯ , v n ) \displaystyle \det\Biggl( \sum_{j_1} a_{1j_1} {\bf v}_{j_1},\,\sum_{j_2} a_{2j_2} {\bf v}_{j_2},\,\cdots \sum_{j_n} a_{nj_n} {\bf v}_{j_n} \Biggr) = \Biggl[ \sum_{\sigma \in S_n} \operatorname{sgn}(\sigma) \Biggl( \prod_{i=1}^n a_{i \sigma(i)} \Biggr) \Biggr] \det({\bf v}_1,\,{\bf v}_2,\,\cdots,\,{\bf v}_n) det ( j 1 ​ ∑ ​ a 1 j 1 ​ ​ v j 1 ​ ​ , j 2 ​ ∑ ​ a 2 j 2 ​ ​ v j 2 ​ ​ , ⋯ j n ​ ∑ ​ a n j n ​ ​ v j n ​ ​ ) = [ σ ∈ S n ​ ∑ ​ sgn ( σ ) ( i = 1 ∏ n ​ a iσ ( i ) ​ ) ] det ( v 1 ​ , v 2 ​ , ⋯ , v n ​ )
+
+맨 끝에 붙은 det ⁡ ( v 1 , v 2 , ⋯ , v n ) \det({\bf v}_1,\,{\bf v}_2,\,\cdots,\,{\bf v}_n) det ( v 1 ​ , v 2 ​ , ⋯ , v n ​ ) 을 빼면 정확하게 위의 정의 식과 일치한다. 실제로 v j {\bf v}_j v j ​ 를 e j {\bf e}_j e j ​ 로 놓고 det ⁡ ( e 1 , e 2 , ⋯ , e n ) = 1 \det({\bf e}_1,\,{\bf e}_2,\,\cdots,\,{\bf e}_n) = 1 det ( e 1 ​ , e 2 ​ , ⋯ , e n ​ ) = 1 로 정의하면 좌변은 그대로 행렬식이 되고 [12] 우변은 그 정의 식이 된다.
+
+이 식은 언급되었다시피 다양한 성질들을 증명하는데 많이 사용되는데, 여기서 한 가지 성질을 소개한다. 이번엔 v j {\bf v}_j v j ​ 를 e j {\bf e}_j e j ​ 로 놓는 대신에 임의지만 이들이 선형독립(linearly independent)이라고 하자. 이들 개수가 n n n 개라는 것으로부터 이들이 기저(basis)를 이룬다는 것은 분명하며, 따라서 모든 벡터들을 이들의 선형결합(linear combination)으로 쓸 수 있다. 이는 e j {\bf e}_j e j ​ 들도 마찬가지이다. 즉, e i = ∑ j b i j v j {\bf e}_i = \sum_j b_{ij} {\bf v}_j e i ​ = ∑ j ​ b ij ​ v j ​ 를 만족하는 스칼라들 b i j b_{ij} b ij ​ 가 존재함을 알 수 있다. 위 결과 식에 이걸 그대로 대입하면 다음을 얻을 수 있다. det ⁡ ( e 1 , e 2 , ⋯ , e n ) = [ ∑ σ ∈ S n sgn ⁡ ( σ ) ( ∏ i = 1 n b i σ ( i ) ) ] det ⁡ ( v 1 , v 2 , ⋯ , v n ) \displaystyle \det({\bf e}_1,\,{\bf e}_2,\,\cdots,\,{\bf e}_n) = \Biggl[ \sum_{\sigma \in S_n} \operatorname{sgn}(\sigma) \Biggl( \prod_{i=1}^n b_{i \sigma(i)} \Biggr) \Biggr] \det({\bf v}_1,\,{\bf v}_2,\,\cdots,\,{\bf v}_n) det ( e 1 ​ , e 2 ​ , ⋯ , e n ​ ) = [ σ ∈ S n ​ ∑ ​ sgn ( σ ) ( i = 1 ∏ n ​ b iσ ( i ) ​ ) ] det ( v 1 ​ , v 2 ​ , ⋯ , v n ​ )
+
+일단 ∑ σ ∈ S n sgn ⁡ ( σ ) ( ∏ i = 1 n b i σ ( i ) ) = 0 ? \displaystyle \sum_{\sigma \in S_n} \operatorname{sgn}(\sigma) \Biggl( \prod_{i=1}^n b_{i \sigma(i)} \Biggr) = 0? σ ∈ S n ​ ∑ ​ sgn ( σ ) ( i = 1 ∏ n ​ b iσ ( i ) ​ ) = 0 ?
+
+인 상황이다. 하지만 적어도 우리는 이미 det ⁡ ( e 1 , e 2 , ⋯ , e n ) = 1 \det({\bf e}_1,\,{\bf e}_2,\,\cdots,\,{\bf e}_n) = 1 det ( e 1 ​ , e 2 ​ , ⋯ , e n ​ ) = 1 , 즉 좌변이 0이 아님을 알고 있다. 따라서 ∑ σ ∈ S n sgn ⁡ ( σ ) ( ∏ i = 1 n b i σ ( i ) ) ≠ 0 \displaystyle \sum_{\sigma \in S_n} \operatorname{sgn}(\sigma) \Biggl( \prod_{i=1}^n b_{i \sigma(i)} \Biggr) \ne0 σ ∈ S n ​ ∑ ​ sgn ( σ ) ( i = 1 ∏ n ​ b iσ ( i ) ​ )  = 0 인 것은 물론 det ⁡ ( v 1 , v 2 , ⋯ , v n ) ≠ 0 \det({\bf v}_1,\,{\bf v}_2,\,\cdots,\,{\bf v}_n)\ne0 det ( v 1 ​ , v 2 ​ , ⋯ , v n ​ )  = 0 이어야 한다는 것을 알 수 있다. 결국 다음을 알 수 있다.
+선형독립인 v 1 , v 2 , ⋯ , v n {\bf v}_1,\,{\bf v}_2,\,\cdots,\,{\bf v}_n v 1 ​ , v 2 ​ , ⋯ , v n ​ 에 대해 det ⁡ ( v 1 , v 2 , ⋯ , v n ) ≠ 0 \det({\bf v}_1,\,{\bf v}_2,\,\cdots,\,{\bf v}_n) \ne0 det ( v 1 ​ , v 2 ​ , ⋯ , v n ​ )  = 0 이다.
+
+한편, 다중선형성과 교대성으로부터 다음을 쉽게 바로 보일 수 있다. 임의의 벡터 v 1 , v 2 , ⋯ , v n {\bf v}_1,\,{\bf v}_2,\,\cdots,\,{\bf v}_n v 1 ​ , v 2 ​ , ⋯ , v n ​ 와 i = 1 , 2 , ⋯ , n i=1,\,2,\,\cdots,\,n i = 1 , 2 , ⋯ , n , 그리고 스칼라 a 1 , a 2 , ⋯ , a n a_1,\,a_2,\,\cdots,\,a_n a 1 ​ , a 2 ​ , ⋯ , a n ​ 에 대해 다음이 성립한다.
+det ⁡ ( v 1 , v 2 , ⋯ , v n ) = det ⁡ ( v 1 , v 2 , ⋯ , v i + ∑ j ≠ i a j v j , ⋯ , v n ) \displaystyle \det({\bf v}_1,\,{\bf v}_2,\,\cdots,\,{\bf v}_n) = \det{\left( {\bf v}_1,\,{\bf v}_2,\,\cdots,\,{\bf v}_i + \sum_{j \ne i} a_j {\bf v}_j,\,\cdots,\,{\bf v}_n \right)} det ( v 1 ​ , v 2 ​ , ⋯ , v n ​ ) = det ​ v 1 ​ , v 2 ​ , ⋯ , v i ​ + j  = i ∑ ​ a j ​ v j ​ , ⋯ , v n ​ ​
+
+여기서 만약 v 1 , v 2 , ⋯ , v n {\bf v}_1,\,{\bf v}_2,\,\cdots,\,{\bf v}_n v 1 ​ , v 2 ​ , ⋯ , v n ​ 가 선형종속(linearly dependent)이면 적당한 i i i 에 대하여 v i + ∑ j ≠ i a j v j = 0 \displaystyle{\bf v}_i + \sum_{j \ne i} a_j {\bf v}_j = {\bf0} v i ​ + j  = i ∑ ​ a j ​ v j ​ = 0 이도록 하는 스칼라 a 1 , a 2 , ⋯ , a n a_1,\,a_2,\,\cdots,\,a_n a 1 ​ , a 2 ​ , ⋯ , a n ​ 을 항상 찾을 수 있다. 이는 곧 det ⁡ ( v 1 , v 2 , ⋯ , v n ) = 0 \det({\bf v}_1,\,{\bf v}_2,\,\cdots,\,{\bf v}_n) = 0 det ( v 1 ​ , v 2 ​ , ⋯ , v n ​ ) = 0 임을 의미한다. 이 결과를 결합하여 다음을 얻을 수 있다. 벡터 v 1 , v 2 , ⋯ , v n {\bf v}_1,\,{\bf v}_2,\,\cdots,\,{\bf v}_n v 1 ​ , v 2 ​ , ⋯ , v n ​ 가 선형독립일 필요충분조건은 det ⁡ ( v 1 , v 2 , ⋯ , v n ) ≠ 0 \det({\bf v}_1,\,{\bf v}_2,\,\cdots,\,{\bf v}_n) \ne 0 det ( v 1 ​ , v 2 ​ , ⋯ , v n ​ )  = 0 인 것이다.
+
+5.3. 예시 [편집]
+3 3 3 차 행렬식 ∣ A ∣ = ∣ a 11 a 12 a 13 a 21 a 22 a 23 a 31 a 32 a 33 ∣|A| = \begin{vmatrix} a_{11} & a_{12} & a_{13} \\ a_{21} & a_{22} & a_{23} \\ a_{31} & a_{32} & a_{33} \end{vmatrix} ∣ A ∣ = ​ a 11 ​ a 21 ​ a 31 ​ ​ a 12 ​ a 22 ​ a 32 ​ ​ a 13 ​ a 23 ​ a 33 ​ ​ ​ 의 경우 n = 3 n=3 n = 3 이므로 다음과 같은 대칭군이 존재하며 부호는 다음과 같다. ε = ( 1 2 3 1 2 3 ) , sgn ⁡ ( ε ) = ( − 1 ) 0 = 1 σ 23 = ( 1 2 3 1 3 2 ) , sgn ⁡ ( σ 23 ) = ( − 1 ) 1 = − 1 σ 12 = ( 1 2 3 2 1 3 ) , sgn ⁡ ( σ 12 ) = ( − 1 ) 1 = − 1 σ 231 = ( 1 2 3 2 3 1 ) , sgn ⁡ ( σ 231 ) = ( − 1 ) 2 = 1 σ 13 = ( 1 2 3 3 2 1 ) , sgn ⁡ ( σ 13 ) = ( − 1 ) 1 = − 1 σ 312 = ( 1 2 3 3 1 2 ) , sgn ⁡ ( σ 312 ) = ( − 1 ) 2 = 1 \begin{aligned} \varepsilon &= \begin{pmatrix} 1 & 2 & 3 \\ 1 & 2 & 3 \end{pmatrix}, && \operatorname{sgn}(\varepsilon) = (-1)^0 = 1 \\ \sigma_{23} &= \begin{pmatrix} 1 & 2 & 3 \\ 1 & 3 & 2 \end{pmatrix}, && \operatorname{sgn}(\sigma_{23}) = (-1)^1 = -1 \\ \sigma_{12} &= \begin{pmatrix} 1 & 2 & 3 \\ 2 & 1 & 3 \end{pmatrix}, && \operatorname{sgn}(\sigma_{12}) = (-1)^1 = -1 \\ \sigma_{231} &= \begin{pmatrix} 1 & 2 & 3 \\ 2 & 3 & 1 \end{pmatrix}, && \operatorname{sgn}(\sigma_{231}) = (-1)^2 = 1 \\ \sigma_{13} &= \begin{pmatrix} 1 & 2 & 3 \\ 3 & 2 & 1 \end{pmatrix}, && \operatorname{sgn}(\sigma_{13}) = (-1)^1 = -1 \\ \sigma_{312} &= \begin{pmatrix} 1 & 2 & 3 \\ 3 & 1 & 2 \end{pmatrix}, && \operatorname{sgn}(\sigma_{312}) = (-1)^2 = 1 \end{aligned} ε σ 23 ​ σ 12 ​ σ 231 ​ σ 13 ​ σ 312 ​ ​ = ( 1 1 ​ 2 2 ​ 3 3 ​ ) , = ( 1 1 ​ 2 3 ​ 3 2 ​ ) , = ( 1 2 ​ 2 1 ​ 3 3 ​ ) , = ( 1 2 ​ 2 3 ​ 3 1 ​ ) , = ( 1 3 ​ 2 2 ​ 3 1 ​ ) , = ( 1 3 ​ 2 1 ​ 3 2 ​ ) , ​ ​ sgn ( ε ) = ( − 1 ) 0 = 1 sgn ( σ 23 ​ ) = ( − 1 ) 1 = − 1 sgn ( σ 12 ​ ) = ( − 1 ) 1 = − 1 sgn ( σ 231 ​ ) = ( − 1 ) 2 = 1 sgn ( σ 13 ​ ) = ( − 1 ) 1 = − 1 sgn ( σ 312 ​ ) = ( − 1 ) 2 = 1 ​
+
+따라서 ∣ A ∣ = ∑ σ ∈ S n sgn ⁡ ( σ ) ∏ i = 1 3 a i σ ( i ) = a 11 a 22 a 33 + a 12 a 23 a 31 + a 13 a 21 a 32 − a 11 a 23 a 32 − a 12 a 21 a 33 − a 13 a 22 a 31 \begin{aligned} |A| &= \sum_{\sigma \in S_n} \operatorname{sgn}(\sigma) \prod_{i=1}^3 a_{i \sigma(i)} \\ &= a_{11}a_{22}a_{33} + a_{12}a_{23}a_{31} + a_{13}a_{21}a_{32} - a_{11}a_{23}a_{32} - a_{12}a_{21}a_{33} - a_{13}a_{22}a_{31} \end{aligned} ∣ A ∣ ​ = σ ∈ S n ​ ∑ ​ sgn ( σ ) i = 1 ∏ 3 ​ a iσ ( i ) ​ = a 11 ​ a 22 ​ a 33 ​ + a 12 ​ a 23 ​ a 31 ​ + a 13 ​ a 21 ​ a 32 ​ − a 11 ​ a 23 ​ a 32 ​ − a 12 ​ a 21 ​ a 33 ​ − a 13 ​ a 22 ​ a 31 ​ ​
+
+이며 이는 3 3 3 차 행렬식을 구하는 방법에 의한 결과와 정확히 일치한다.
+
+6. 성질 [편집]
+- det ⁡ ( k A ) = k n det ⁡ A \det(kA)=k^n \det A det ( k A ) = k n det A [13]
+행렬식의 다중 선형성으로부터 바로 얻어진다.
+- A T A^{\rm T} A T 를 A A A 의 전치행렬(transpose matrix)이라고 하면 det ⁡ ( A T ) = det ⁡ A \det\bigl(A^{\rm T}\bigr) = \det A det ( A T ) = det A .
+곱셈 순서를 치환의 반대가 되도록 뒤섞는 것으로 임의의 치환 σ \sigma σ 에 대해 ∏ i = 1 n a i σ ( i ) = ∏ i = 1 n a σ − 1 ( i ) i \displaystyle \prod_{i=1}^n a_{i\sigma(i)} = \prod_{i=1}^n a_{\sigma^{-1}(i)i} i = 1 ∏ n ​ a iσ ( i ) ​ = i = 1 ∏ n ​ a σ − 1 ( i ) i ​
+
+가 성립한다는 것을 바로 알 수 있다. 이로부터 det ⁡ ( A T ) = ∑ σ ∈ S n sgn ⁡ ( σ ) ∏ i = 1 n a σ ( i ) i = ∑ σ ∈ S n sgn ⁡ ( σ ) ∏ i = 1 n a i σ − 1 ( i ) = ∑ σ ∈ S n sgn ⁡ ( σ − 1 ) ∏ i = 1 n a i σ − 1 ( i ) = det ⁡ A \begin{aligned} \det\bigl(A^{\rm T}\bigr) &= \sum_{\sigma \in S_n} \operatorname{sgn}(\sigma) \prod_{i=1}^n a_{\sigma(i)i} \\ &= \sum_{\sigma \in S_n} \operatorname{sgn} (\sigma) \prod_{i=1}^n a_{i \sigma^{-1}(i)} \\ &= \sum_{\sigma \in S_n} \operatorname{sgn}\bigl(\sigma^{-1}\bigr) \prod_{i=1}^n a_{i \sigma^{-1}(i)} \\ &= \det A \end{aligned} det ( A T ) ​ = σ ∈ S n ​ ∑ ​ sgn ( σ ) i = 1 ∏ n ​ a σ ( i ) i ​ = σ ∈ S n ​ ∑ ​ sgn ( σ ) i = 1 ∏ n ​ a i σ − 1 ( i ) ​ = σ ∈ S n ​ ∑ ​ sgn ( σ − 1 ) i = 1 ∏ n ​ a i σ − 1 ( i ) ​ = det A ​
+
+임을 알 수 있다.
+- det ⁡ ( A B ) = det ⁡ A det ⁡ B \det(AB) = \det A\det B det ( A B ) = det A det B
+다시 A A A 의 j j j 번째 열벡터를 A j A^j A j 라 표기하고 B B B 의 성분들을 b i j b_{ij} b ij ​ 라 표기하겠다. 사실 A B AB A B 의 j j j 번째 열벡터는 다음과 같이 쓸 수 있다. ( A B ) j = ∑ r = 1 n b r j A r \displaystyle (AB)^j = \sum_{r=1}^n b_{rj} A^r ( A B ) j = r = 1 ∑ n ​ b r j ​ A r
+
+이로부터 다음을 얻을 수 있다. det ⁡ A B = det ⁡ ( ∑ r 1 b r 1 1 A r 1 , ∑ r 2 b r 2 2 A r 2 , ⋯ , ∑ r n b r n n A r n ) \displaystyle \det{AB} = \det\Biggl( \sum_{r_1} b_{r_1 1} A^{r_1},\,\sum_{r_2} b_{r_2 2} A^{r_2},\,\cdots,\,\sum_{r_n} b_{r_n n} A^{r_n} \Biggr) det A B = det ( r 1 ​ ∑ ​ b r 1 ​ 1 ​ A r 1 ​ , r 2 ​ ∑ ​ b r 2 ​ 2 ​ A r 2 ​ , ⋯ , r n ​ ∑ ​ b r n ​ n ​ A r n ​ )
+
+여기서 위의 교대 다중 선형형식으로부터 얻은 결과를 통해 이를 다음과 같이 쓸 수 있다. det ⁡ ( A B ) = [ ∑ σ ∈ S n sgn ⁡ ( σ ) ( ∏ r = 1 n b σ ( r ) r ) ] det ⁡ ( A 1 , A 2 , ⋯ , A n ) \displaystyle \det(AB) = \Biggl[ \sum_{\sigma \in S_n} \operatorname{sgn}(\sigma) \Biggl( \prod_{r=1}^n b_{\sigma(r) r} \Biggr) \Biggr] \det\bigl( A^1,\,A^2,\,\cdots,\,A^n \bigr) det ( A B ) = [ σ ∈ S n ​ ∑ ​ sgn ( σ ) ( r = 1 ∏ n ​ b σ ( r ) r ​ ) ] det ( A 1 , A 2 , ⋯ , A n )
+
+여기서 det ⁡ ( A 1 , A 2 , ⋯ , A n ) = det ⁡ A \det\bigl( A^1,\,A^2,\,\cdots,\,A^n \bigr) = \det A det ( A 1 , A 2 , ⋯ , A n ) = det A 임은 잘 알고 있다. 한편 우변의 나머지 파트가 다름 아닌 det ⁡ ( B T ) \det\bigl(B^{\rm T}\bigr) det ( B T ) 임을 볼 수 있다. 따라서 det ⁡ ( A B ) = det ⁡ A det ⁡ ( B T ) \det(AB) = \det A \det\bigl(B^{\rm T}\bigr) det ( A B ) = det A det ( B T ) 임을 보였다. 이제 위에서 보인 대로 det ⁡ ( B T ) = det ⁡ B \det\bigl(B^{\rm T}\bigr) = \det B det ( B T ) = det B 이기 때문에 결국 우리가 원하는 식을 얻었다.
+- det ⁡ ( A B ) = det ⁡ ( B A ) \det(AB) = \det(BA) det ( A B ) = det ( B A ) [14]
+det ⁡ ( A B ) = det ⁡ A det ⁡ B \det(AB) = \det A\det B det ( A B ) = det A det B 이고, 행렬식이 범함수이므로 그 값은 곱셈의 교환법칙이 성립하기에 당연하다.
+- A A A 가 가역행렬일 경우 det ⁡ ( A − 1 ) = ( det ⁡ A ) − 1 \det\bigl(A^{-1}\bigr) = (\det A)^{-1} det ( A − 1 ) = ( det A ) − 1
+det ⁡ ( A B ) = det ⁡ A det ⁡ B \det(AB) = \det A\det B det ( A B ) = det A det B 로부터 1 = det ⁡ I = det ⁡ ( A − 1 A ) = det ⁡ A det ⁡ ( A − 1 ) 1 = \det I = \det\bigl(A^{-1} A\bigr) = \det A\det\bigl(A^{-1}\bigr) 1 = det I = det ( A − 1 A ) = det A det ( A − 1 ) 임을 얻을 수 있다.
+- A A A 와 B B B 가 서로 닮은행렬이면 det ⁡ A = det ⁡ B \det A=\det B det A = det B
+이때 B = U A U − 1 B = UAU^{-1} B = U A U − 1 인 가역행렬 U U U 가 존재한다는 사실로부터 det ⁡ B = det ⁡ ( U A U − 1 ) = det ⁡ U det ⁡ A det ⁡ ( U − 1 ) = det ⁡ A \det B = \det\bigl(UAU^{-1}\bigr) = \det U \det A \det\bigl(U^{-1}\bigr) = \det A det B = det ( U A U − 1 ) = det U det A det ( U − 1 ) = det A 임을 얻게 된다.
+- 정사각행렬 A A A 에 대해 다음 명제들은 동치이다. - (1) A A A 가 가역이다
+- (2) 모든 0 ≠ v ∈ F n {\bf 0}\neq {\bf v} \in F^{n} 0  = v ∈ F n 에 대해 A v ≠ 0 A {\bf v} \ne {\bf 0} A v  = 0 이다.
+- (3) A A A 의 열벡터들은 선형독립이다.
+- (4) det ⁡ A ≠ 0 \det{A} \neq 0 det A  = 0 이다. - (1) → (2): 만약 A v ≠ 0 A{\bf v} \ne {\bf0} A v  = 0 인 0 ≠ v ∈ F n {\bf 0} \ne {\bf v} \in F^n 0  = v ∈ F n 가 존재할 경우 v = A − 1 ( A v ) = 0 {\bf v} = A^{-1} (A{\bf v}) = {\bf0} v = A − 1 ( A v ) = 0 가 되는 모순이 발생한다는 것으로 보일 수 있다.
+- (2) → (3): A A A 의 열벡터들을 A i A^i A i 라고 표기하겠다. 사실 A v = ∑ i v i A i \displaystyle A{\bf v} = \sum_i v_i A^i A v = i ∑ ​ v i ​ A i (단, v i v_i v i ​ 는 v \bf v v 의 i i i 번째 성분)과 같은데, 만약 이 열벡터들이 선형종속이면 ∑ i v i A i = 0 \displaystyle \sum_i v_i A^i = {\bf0} i ∑ ​ v i ​ A i = 0 인 모두 0은 아닌 v i v_i v i ​ 들이 존재한다는 것이며, 따라서 A v = 0 A{\bf v} = {\bf0} A v = 0 인 0이 아닌 v \bf v v 가 존재할 텐데, 이는 (2)와 모순이다.
+- (3) → (1): 이때 A i A^i A i 들이 기저를 이루는 걸 알 수 있다. 따라서 모든 벡터들은 A i A^i A i 들의 선형결합으로 나타낼 수 있으며 그 꼴은 유일하다. 그런데 이 선형결합은 항상 A x A\bf x A x 꼴로 써질 수 있다. 즉, 모든 벡터 v \bf v v 에 대해 유일한 A x A\bf x A x 가 존재하여 v = A x {\bf v} = A{\bf x} v = A x 인 것이다. 이는 선형 사상 f ⁣ : x ↦ A x f\colon {\bf x} \mapsto A{\bf x} f : x ↦ A x 가 전단사(bijective)임을 의미한다. 이제 선형대수의 기본정리를 사용하여 A A A 가 가역임을 알 수 있다. [15]
+- (3) ↔ (4): 저 위의 '교대 다중 선형형식으로부터의 유도' 항목에서 이를 설명하였다.
+- 블록행렬 A A A 와 C C C 가 각각 정사각행렬일 때 det ⁡ ( A B O C ) = det ⁡ A det ⁡ C \det \begin{pmatrix} A & B \\ O & C \end{pmatrix}=\det A\det C det ( A O ​ B C ​ ) = det A det C [16]
+
+이건 여인수 전개 로 증명하는 것이 편하다. 저 블록행렬을 X X X 라고 표기하고 X X X 의 성분들을 x i j x_{ij} x ij ​ 라고 표기하자. 그리고 A A A 가 m × m m\times m m × m 행렬이라고 두자. 만약 C C C 가 1 × 1 1\times1 1 × 1 행렬이면 맨 마지막 행에 대한 여인수 전개를 통해 det ⁡ M = ∑ i = 1 m + 1 ( − 1 ) ( m + 1 ) + i x i ( m + 1 ) M i ( m + 1 ) = ( − 1 ) ( m + 1 ) + ( m + 1 ) c 11 M ( m + 1 ) ( m + 1 ) \displaystyle \det M = \sum_{i=1}^{m+1}(-1)^{(m+1)+i} x_{i(m+1)} M_{i(m+1)} = (-1)^{(m+1) + (m+1)} c_{11}M_{(m+1)(m+1)} det M = i = 1 ∑ m + 1 ​ ( − 1 ) ( m + 1 ) + i x i ( m + 1 ) ​ M i ( m + 1 ) ​ = ( − 1 ) ( m + 1 ) + ( m + 1 ) c 11 ​ M ( m + 1 ) ( m + 1 ) ​
+
+임을 얻는다. [17] 그런데 M ( m + 1 ) ( m + 1 ) M_{(m+1)(m+1)} M ( m + 1 ) ( m + 1 ) ​ 은 다름 아닌 det ⁡ A \det A det A 와 같다. 따라서 det ⁡ M = c 11 det ⁡ A = det ⁡ A det ⁡ B \det M = c_{11}\det A = \det A\det B det M = c 11 ​ det A = det A det B 를 얻는다.
+이번에는 어떤 n n n 에 대하여 만약 C C C 가 n × n n\times n n × n 행렬이면 우리가 원하는 식이 항상 성립한다고 가정하자. 이제 C C C 가 ( n + 1 ) × ( n + 1 ) (n+1)\times(n+1) ( n + 1 ) × ( n + 1 ) 행렬이라고 하자. 한편, C C C 의 ( n + 1 ) (n+1) ( n + 1 ) 번째 열과 i i i 번째 행을 지워서 얻은 부분행렬을 C i C_i C i ​ 라고 표기하자. 그러면 i ≤ n + 1 i \le n+1 i ≤ n + 1 인 i i i 에 대하여 다음을 얻는다. M ( i + m ) ( m + n + 1 ) = det ⁡ ( A B O C i ) \displaystyle M_{(i+m)(m+n+1)} = \det \begin{pmatrix} A & B \\ O & C_i \end{pmatrix} M ( i + m ) ( m + n + 1 ) ​ = det ( A O ​ B C i ​ ​ )
+
+여기서 C i C_i C i ​ 가 n × n n\times n n × n 행렬임을 상기하자. 그러면 가정에 의하여 M ( i + m ) ( m + n + 1 ) = det ⁡ A det ⁡ ( C i ) M_{(i+m)(m+n+1)} = \det A\det(C_i) M ( i + m ) ( m + n + 1 ) ​ = det A det ( C i ​ ) 임을 얻는다. 한편, C C C 의 성분들을 c i j c_{ij} c ij ​ 라고 표기하면 x ( i + m ) ( j + m ) = c i j x_{(i+m)(j+m)} = c_{ij} x ( i + m ) ( j + m ) ​ = c ij ​ 임을 얻는다. 이제 맨 마지막 행에 대하여 det ⁡ X \det X det X 의 여인수 전개를 해 보자. 그러면 다음을 얻는다. det ⁡ X = ∑ i = 1 m + n + 1 ( − 1 ) i + ( m + n + 1 ) x i ( m + n + 1 ) M i ( m + n + 1 ) = ∑ i = m + 1 m + n + 1 ( − 1 ) i + ( m + n + 1 ) x i ( m + n + 1 ) M i ( m + n + 1 ) = ∑ i = 1 n + 1 ( − 1 ) i + ( n + 1 ) x ( i + m ) ( m + n + 1 ) M ( i + m ) ( m + n + 1 ) = ∑ i = 1 n + 1 ( − 1 ) i + ( n + 1 ) c i ( n + 1 ) det ⁡ A det ⁡ ( C i ) = det ⁡ A det ⁡ C \begin{aligned} \det X &= \sum_{i=1}^{m+n+1} (-1)^{i+(m+n+1)} x_{i(m + n + 1)} M_{i(m+n+1)} \\ &= \sum_{i = m+1}^{m+n+1} (-1)^{i + (m+n+1)} x_{i(m+n+1)} M_{i(m+n+1)} \\ &= \sum_{i=1}^{n+1} (-1)^{i + (n+1)} x_{(i+m)(m+n+1)} M_{(i+m)(m+n+1)} \\ &= \sum_{i=1}^{n+1} (-1)^{i + (n+1)} c_{i(n+1)} \det A \det(C_i) \\ &= \det A\det C \end{aligned} det X ​ = i = 1 ∑ m + n + 1 ​ ( − 1 ) i + ( m + n + 1 ) x i ( m + n + 1 ) ​ M i ( m + n + 1 ) ​ = i = m + 1 ∑ m + n + 1 ​ ( − 1 ) i + ( m + n + 1 ) x i ( m + n + 1 ) ​ M i ( m + n + 1 ) ​ = i = 1 ∑ n + 1 ​ ( − 1 ) i + ( n + 1 ) x ( i + m ) ( m + n + 1 ) ​ M ( i + m ) ( m + n + 1 ) ​ = i = 1 ∑ n + 1 ​ ( − 1 ) i + ( n + 1 ) c i ( n + 1 ) ​ det A det ( C i ​ ) = det A det C ​
+
+따라서 C C C 가 ( n + 1 ) × ( n + 1 ) (n + 1) \times (n + 1) ( n + 1 ) × ( n + 1 ) 행렬임에도 우리가 원하는 식이 성립함을 알 수 있다. 이제 n n n 에 대한 수학적 귀납법을 통해 위 식이 항상 성립함을 알 수 있다.
+- 삼각행렬의 행렬식은 주대각 성분의 곱과 같다.
+위 결과에서 C C C 가 1 × 1 1\times1 1 × 1 인 경우에 대해 생각하고 행렬의 크기에 대해 수학적 귀납법을 사용하면 바로 얻어진다.
+- 정사각행렬의 행렬식은 고윳값 각각에 대수적 중복도(algebraic multiplicity)를 거듭제곱한 걸 모두 곱한 것과 같다.
+행렬 A A A 의 고윳값들을 λ i \lambda_i λ i ​ 라 하면 A A A 의 특성다항식 은 det ⁡ ( t I − A ) = ∏ i ( t − λ i ) r i \displaystyle \det(tI - A) = \prod_i(t - \lambda_i)^{r_i} det ( t I − A ) = i ∏ ​ ( t − λ i ​ ) r i ​ 로 정리할 수 있는데, 이때 고윳값의 대수적 중복도를 r i r_i r i ​ 라고 정의한다. 이제 t = 0 t=0 t = 0 을 대입해 보자.
+- det ⁡ ( adj ⁡ A ) = ( det ⁡ A ) n − 1 \det(\operatorname{adj}A)=(\det A)^{n-1} det ( adj A ) = ( det A ) n − 1 [18]
+역행렬의 정의 A − 1 = adj ⁡ A det ⁡ A A^{-1}=\cfrac{\operatorname{adj}A}{\det A} A − 1 = det A adj A ​ 에 다른 행렬식의 성질을 종합하여 얻어진다.
+I n = A A − 1 = A adj ⁡ A det ⁡ A I_n=AA^{-1}=A\cfrac{\operatorname{adj}A}{\det A} I n ​ = A A − 1 = A det A adj A ​ 이므로 분모의 det ⁡ A \det A det A 를 양 변에 곱하고 행렬식을 취하면 ∣ ( ∣ A ∣ I n ) ∣ = ∣ A ∣ ∣ adj ⁡ A ∣|(|A|I_n)|=|A||\operatorname{adj}A| ∣ ( ∣ A ∣ I n ​ ) ∣ = ∣ A ∣∣ adj A ∣ 가 되는데, 여기서 det ⁡ ( k A ) = k n det ⁡ A \det(kA)=k^n\det A det ( k A ) = k n det A 성질을 적용하면 이 식은 ∣ A ∣ n = ∣ A ∣ ∣ adj ⁡ A ∣|A|^n=|A||\operatorname{adj}A| ∣ A ∣ n = ∣ A ∣∣ adj A ∣ 가 된다. 행렬식이 0이라면 따질 필요가 없고 [19] 0이 아니라면 ∣ A ∣|A| ∣ A ∣ 로 양 변을 약분할 수 있으므로 det ⁡ ( adj ⁡ A ) = ( det ⁡ A ) n − 1 \det(\operatorname{adj}A)=(\det A)^{n-1} det ( adj A ) = ( det A ) n − 1 이 성립한다.
+
+7. 선형변환 에서의 행렬식 [편집]
+유한 차원 벡터 공간 V V V 의 선형변환 T ⁣ : V → V T\colon V\to V T : V → V 가 주어져 있을 때, 임의의 두 기저 β \beta β 와 β ′ \beta' β ′ 에 대하여, 행렬표현 [ T ] β β [T]_\beta^\beta [ T ] β β ​ 와 [ T ] β ′ β ′ [T]_{\beta'}^{\beta'} [ T ] β ′ β ′ ​ 은 닮은행렬이다. 그런데, 행렬식은 닮음불변량이므로, 선형변환의 행렬식을 det ⁡ T = det ⁡ ( [ T ] β β ) \det T=\det\Bigl([T]_\beta^\beta\Bigr) det T = det ( [ T ] β β ​ ) 로 자연스럽게 정의할 수 있다.
+
+8. 계산법 [편집]
+위에서 알 수 있듯 n × n n×n n × n 행렬식을 정의할 때 필요한 항의 개수는 n ! n! n ! 이며, 이마저도 각 항을 구할 때 치환의 홀짝 여부, 그리고 치환으로 인한 성분의 변화를 고려해야 한다. 그래서 라이프니츠의 정의는 현대수학의 시각으로는 매우 컴팩트하고 아름다운 방식이지만, 이를 이용해서 행렬식을 구하기에는 몹시 번잡하다. 이러한 불편함을 해소하기 위해 라이프니츠 이래로 행렬식을 간편히 계산하는 방법이 많이 고안되었으며, 아래 제시된 것들은 그중에서 특히 유용한 방법들이다.
+
+8.1. 사루스 법칙 [편집]
+사루스 법칙(Rule of Sarrus) [20] 은 3 × 3 3\times3 3 × 3 행렬식을 계산하는 공식 중 하나이다. 3 3 3 차 정사각 행렬 이외에는 적용이 안 된다는 점에 주의하자. [21] 3 × 3 3\times3 3 × 3 행렬 A A A 가 다음과 같이 주어져있다고 하자. ( a 11 a 12 a 13 a 21 a 22 a 23 a 31 a 32 a 33 ) \begin{pmatrix} a_{11}& a_{12}& a_{13} \\ a_{21}& a_{22}& a_{23} \\ a_{31}& a_{32}& a_{33} \end{pmatrix} ​ a 11 ​ a 21 ​ a 31 ​ ​ a 12 ​ a 22 ​ a 32 ​ ​ a 13 ​ a 23 ​ a 33 ​ ​ ​
+
+(1) 1열과 2열을 차례대로 4열과 5열에 한 번 더 쓴다. ( a 11 a 12 a 13 a 11 a 12 a 21 a 22 a 23 a 21 a 22 a 31 a 32 a 33 a 31 a 32 ) \begin{pmatrix} a_{11}& a_{12}& a_{13}&a_{11}& a_{12} \\ a_{21}& a_{22}& a_{23}&a_{21}& a_{22} \\ a_{31}& a_{32}& a_{33}&a_{31}& a_{32} \end{pmatrix} ​ a 11 ​ a 21 ​ a 31 ​ ​ a 12 ​ a 22 ​ a 32 ​ ​ a 13 ​ a 23 ​ a 33 ​ ​ a 11 ​ a 21 ​ a 31 ​ ​ a 12 ​ a 22 ​ a 32 ​ ​ ​
+
+(2) 다음과 같이 대각선을 긋는다 . (3) 같은 대각선에 위치한 성분끼리 곱해준다.
+(4) ↘ 방향의 결과는 더해주고, ↙방향의 결과는 빼준다. 즉, det ⁡ A = a 11 a 22 a 33 + a 12 a 23 a 31 + a 13 a 21 a 32 − a 13 a 22 a 31 − a 11 a 23 a 32 − a 12 a 21 a 33 \det A=a_{11}a_{22}a_{33}+a_{12}a_{23}a_{31}+a_{13}a_{21}a_{32}-a_{13}a_{22}a_{31}-a_{11}a_{23}a_{32}-a_{12}a_{21}a_{33} det A = a 11 ​ a 22 ​ a 33 ​ + a 12 ​ a 23 ​ a 31 ​ + a 13 ​ a 21 ​ a 32 ​ − a 13 ​ a 22 ​ a 31 ​ − a 11 ​ a 23 ​ a 32 ​ − a 12 ​ a 21 ​ a 33 ​
+
+가 원하는 행렬식의 값이다.
+
+사루스 법칙이 쓸모있는 곳은 3차원 벡터의 외적 및 회전 이다. 우리는 두 3차원 벡터의 외적을 a × b = det ⁡ [ x ^ y ^ z ^ a 1 a 2 a 3 b 1 b 2 b 3 ] {\bf a\bm\times b} = \det \begin{bmatrix} \bf\hat x & \bf\hat y & \bf\hat z \\ a_1 & a_2 & a_3 \\ b_1 & b_2 & b_3 \end{bmatrix} a × b = det ​ x ^ a 1 ​ b 1 ​ ​ y ^ ​ a 2 ​ b 2 ​ ​ z ^ a 3 ​ b 3 ​ ​ ​
+
+로 쓰는 것을 안다.
+
+이를 위처럼 [ x ^ y ^ z ^ x ^ y ^ a 1 a 2 a 3 a 1 a 2 b 1 b 2 b 3 b 1 b 2 ] \begin{bmatrix} \bf\hat x & \bf\hat y & \bf\hat z & \bf\hat x & \bf\hat y \\ a_1 & a_2 & a_3 & a_1 & a_2 \\ b_1 & b_2 & b_3 & b_1 & b_2 \end{bmatrix} ​ x ^ a 1 ​ b 1 ​ ​ y ^ ​ a 2 ​ b 2 ​ ​ z ^ a 3 ​ b 3 ​ ​ x ^ a 1 ​ b 1 ​ ​ y ^ ​ a 2 ​ b 2 ​ ​ ​
+
+로 만들어 계산할 수 있음을 얻는다. 회전 또한 같은 맥락으로 curl ⁡ a ⟹ [ x ^ y ^ z ^ x ^ y ^ ∂ ∂ x ∂ ∂ y ∂ ∂ z ∂ ∂ x ∂ ∂ y a x a y a z a x a y ] \operatorname{curl}{\bf a} \Longrightarrow \begin{bmatrix} \bf\hat x & \bf\hat y & \bf\hat z & \bf\hat x & \bf\hat y \\ \dfrac\partial{\partial x} & \dfrac\partial{\partial y} & \dfrac\partial{\partial z} & \dfrac\partial{\partial x} & \dfrac\partial{\partial y} \\ a_x & a_y & a_z & a_x & a_y \end{bmatrix} curl a ⟹ ​ x ^ ∂ x ∂ ​ a x ​ ​ y ^ ​ ∂ y ∂ ​ a y ​ ​ z ^ ∂ z ∂ ​ a z ​ ​ x ^ ∂ x ∂ ​ a x ​ ​ y ^ ​ ∂ y ∂ ​ a y ​ ​ ​
+
+로 바꿔 계산할 수 있다.
+
+8.2. 스칼라 삼중곱 연산 [편집]
+3차 정사각행렬의 행렬식 한정으로는 다음과 같은 계산법이 있다. 사루스 법칙과 비슷하면서도 다른 계산법이다.
+
+3차 정사각행렬의 각 행이나 열을 각각 벡터로 취급하면 A = [ u 1 u 2 u 3 ] A=\begin{bmatrix} \bf u_1 & \bf u_2 & \bf u_3 \end{bmatrix} A = [ u 1 ​ ​ u 2 ​ ​ u 3 ​ ​ ] 혹은 A = [ v 1 v 2 v 3 ] A=\begin{bmatrix} \bf v_1 \\ \bf v_2 \\ \bf v_3 \end{bmatrix} A = ​ v 1 ​ v 2 ​ v 3 ​ ​ ​ 로 둘 수 있다. 이 때, 다음이 성립한다. det ⁡ A = u 1 ⋅ ( u 2 × u 3 ) = v 1 ⋅ ( v 2 × v 3 ) \begin{aligned} \det A &= \bf u_1\bm\cdot(u_2\bm\times u_3) \\ &= \bf v_1\bm\cdot(v_2\bm\times v_3) \end{aligned} det A ​ = u 1 ​ ⋅ ( u 2 ​ × u 3 ​ ) = v 1 ​ ⋅ ( v 2 ​ × v 3 ​ ) ​ [22]
+
+위와 같이 3차 정사각행렬의 행렬식을 3차원 유클리드 공간의 스칼라 삼중곱으로 표현하는 것은 일종의 기하학적 해석으로도 볼 수 있다. 이 둘 모두 실수 위에서 정의된 벡터 공간의 벡터 3개가 스칼라 하나로 대응되는 3중 선형사상의 일종이기 때문. 이때 행렬식의 절댓값은 벡터 3개로 정의된 평행육면체의 부피와 같다.
+
+8.3. 라플라스 전개 [편집]
+여인수 전개(cofactor expansion)으로도 많이 알려져 있다. 라플라스 전개 항목 참조
+
+8.4. 가우스 소거법 [편집]
+행렬식의 근본적인 세 가지 성질인 교대성, 다중선형성, det ⁡ I = 1 \det I=1 det I = 1 을 이용하면, 가우스 소거법을 통해 행렬식을 계산하는 방법을 알 수 있다. 행렬 A A A 와 기본 행 연산이 적용된 행렬 E i A E_iA E i ​ A 간의 관계는 다음과 같다. ( E i E_i E i ​ 는 각 기본 행 연산에 대응 하는 기본행렬이다.) - 두 행의 교환: det ⁡ ( E 1 A ) = − det ⁡ A \det(E_1A)=-\det A det ( E 1 ​ A ) = − det A
+- 한 행에 다른 행의 k k k 배를 더함: det ⁡ ( E 2 A ) = det ⁡ A \det(E_2A)=\det A det ( E 2 ​ A ) = det A
+- 한 행의 k k k 배: det ⁡ ( E 3 A ) = k det ⁡ A \det(E_3A)=k\det A det ( E 3 ​ A ) = k det A
+
+여기서 주목할 점은, det ⁡ ( E A ) = det ⁡ E det ⁡ A \det(EA)=\det E\det A det ( E A ) = det E det A 의 관계가 성립한다는 것이다. 가우스 소거법을 통해 A = E 1 E 2 ⋯ ⋯ E n R A = E_1 E_2 \cdots\cdots E_nR A = E 1 ​ E 2 ​ ⋯⋯ E n ​ R 이 성립하는 기본행렬 E i E_i E i ​ 와 기약 행 사다리꼴행렬 R R R 을 찾아낼 수 있고, det ⁡ A = det ⁡ E 1 ⋯ ⋯ det ⁡ E n det ⁡ R \det A=\det E_1 \cdots\cdots \det E_n \det R det A = det E 1 ​ ⋯⋯ det E n ​ det R
+
+이 성립함을 알 수 있다. 여기서 삼각행렬의 행렬식이 주대각성분의 곱과 같다는 성질을 사용하면 행렬식이 구해진다. 이렇게 가우스 소거법은 행렬식을 여인수 전개보다도 빠르게 계산할 수 있는 무기가 된다.
+
+8.5. LU 분해법 [편집]
+행렬을 LU분해하면, 행렬식 공식도 다음과 같이 나타낼 수 있는데 det ⁡ A = det ⁡ ( L U ) = det ⁡ L det ⁡ U \det A = \det(LU) = \det L\det U det A = det ( LU ) = det L det U
+
+행렬 L L L 와 U U U 는 각각 삼각행렬이기 때문에, 주대각 성분들을 곱하는 것 만으로 행렬식을 쉽게 구할 수 있다.
+
+위에 나온 여인수 전개 같은 알고리즘들은 비효율적이기 때문에, 보통 컴퓨터로 행렬식을 계산할 때는 이 방식을 자주 이용한다.
+허나 일부 행렬은 단순 LU 분해로만 할 수 없는 경우에 대비하기 위해 NumPy 같은 경우 일반적인 LU 분해법이 아닌 행교체를 수치화하는 순열행렬P를 첨가한 PLU 분해법을 대신 사용한다.
+
+예시로 [ 0 1 5 0 2 4 6 5 3 ] \begin{bmatrix} 0 & 1 & 5 \\ 0 & 2 & 4 \\ 6 & 5 & 3 \end{bmatrix} ​ 0 0 6 ​ 1 2 5 ​ 5 4 3 ​ ​
+
+는 가우스 소거법을 바로 사용할 수 없기 때문에 [ 0 0 1 1 0 0 0 1 0 ] [ 6 5 3 0 1 5 0 2 4 ] \begin{bmatrix} 0 & 0 & 1 \\ 1 & 0 & 0 \\ 0 & 1 & 0 \end{bmatrix} \begin{bmatrix} 6 & 5 & 3 \\ 0 & 1 & 5 \\ 0 & 2 & 4 \end{bmatrix} ​ 0 1 0 ​ 0 0 1 ​ 1 0 0 ​ ​ ​ 6 0 0 ​ 5 1 2 ​ 3 5 4 ​ ​
+
+왼쪽의 P P P 행렬을 통해 원 행렬의 행을 교환한 후에 LU 분해를 할 수 있게 한다.
+
+9. 기하학적 특징 [편집]
+
+9.1. 넓이, 부피, 초부피 [편집]
+좌표평면 R 2 \R^2 R 2 에서 두 벡터 ( 1 , 0 ) (1,\,0) ( 1 , 0 ) , ( 0 , 1 ) (0,\,1) ( 0 , 1 ) 을 두 변으로 하는 평행사변형의 넓이는 1이다. 이 값은 det ⁡ I \det I det I 와 값이 같다. R 2 \R^2 R 2 의 일차독립인 임의의 두 벡터 v 1 = ( a , b ) v_1=(a,\,b) v 1 ​ = ( a , b ) , v 2 = ( c , d ) v_2=(c,\,d) v 2 ​ = ( c , d ) 가 주어졌을 때, I I I 에 기본행연산을 유한번 적용하면 행렬 ( a b c d ) \begin{pmatrix} a & b \\ c & d \end{pmatrix} ( a c ​ b d ​ )
+
+을 구할 수 있다. 이 때, 각 기본행연산을 적용하는 과정에서 변형된 평행사변형의 넓이가 다음과 같이 바뀐다. - 두 행을 교환할 때: 그대로
+- 한 행에 다른 행의 상수배를 더해줄 때: 그대로
+- 한 행에 k k k 배: ∣ k ∣|k| ∣ k ∣ 배
+
+행렬식의 교대성, 다중선형성과 비교해보면, 각 단계에서 변화된 행렬식에 절댓값을 취한것과 같다. 그러므로, 2차 정사각행렬 A A A 의 각 행벡터를 두 변으로 하는 평행사변형의 넓이는 ∣ det ⁡ A ∣|\det A| ∣ det A ∣ 이다. 이를 3차원으로 확장하면 3차원 좌표공간에서 3차 정사각행렬 A A A 의 행벡터에 의해 결정되는 평행육면체의 부피는 ∣ det ⁡ A ∣|\det A| ∣ det A ∣ 가 된다. n n n 차원으로 확장하면, 초부피 도 ∣ det ⁡ A ∣|\det A| ∣ det A ∣ 라 할 수 있다.
+
+9.2. 방향 (orientation) [편집]
+
+10. 기타 [편집]
+양자역학 에서 페르미온 을 표현할 때 사용한다. [ 인천남동구,서울365치과의원
+seoul365dental.com v-if
+박준규 대표원장, 인천 남동구 예술로 138 212~214호
+
+] | [ 남동구치과 다비안치과의원
+www.dabien.co.kr v-if
+인천논현역100m, 세심한진료, 철저한 사후관리, 임플란트, 교정, 충치, 잇몸
+
+] | [ 인천논현동 맛집 소문난껍데기
+map.naver.com/p/entry/place/1943388597 v-if
+여기 껍데기 안 먹어봤다는 건 인생의 반을 손해 본 거예요! 동네 맛집의 자부심!
+
+]
+
+[1] 이 단어는 일반적으로 '결정 인자', '결정 요인'을 의미하는 뉘앙스로 쓰인다. [2] 예를 들어 2 × 2 2\times2 2 × 2 행렬의 a d − b c ad-bc a d − b c . [3] 범함수 란 벡터 공간에서 스칼라로 가는 선형변환을 말한다. [4] 각 인수들에 대해 선형이다. [5] 짧게 쓰자면, det ⁡ ( a δ i j v j + δ i j u ) = a det ⁡ ( v j ) + det ⁡ { ( 1 − δ i j ) v j + δ i j u } \det \bigl(a^{\delta_{ij}}{\bf v}_j+\delta_{ij}{\bf u}\bigr)=a\det ({\bf v}_j)+\det\{(1-\delta_{ij}){\bf v}_j+\delta_{ij}{\bf u}\} det ( a δ ij ​ v j ​ + δ ij ​ u ) = a det ( v j ​ ) + det {( 1 − δ ij ​ ) v j ​ + δ ij ​ u } . 여기서 δ i j \delta_{ij} δ ij ​ 는 크로네커 델타 이다. [6] 두 열벡터를 교환하면 부호가 바뀐다. 이 때 v i = v j {\bf v}_i = {\bf v}_j v i ​ = v j ​ 이면 det ⁡ ( v j ) = − det ⁡ ( v j ) ⇒ 2 det ⁡ ( v j ) = 0 \det({\bf v}_j) = -\det({\bf v}_j) \Rightarrow 2\det({\bf v}_j) = 0 det ( v j ​ ) = − det ( v j ​ ) ⇒ 2 det ( v j ​ ) = 0 에서 det ⁡ ( v j ) = 0 \det({\bf v}_j)=0 det ( v j ​ ) = 0 , 즉 두 열벡터가 같을 경우 그 행렬식의 값은 무조건 0 0 0 이 된다. 행렬식은 전치를 해도 값이 같으므로 두 행벡터가 같은 경우에 대해서도 똑같이 적용할 수 있다. [7] 다만, 이것은 1+1=2가 0이 아닐때의 얘기이다. F의 표수(characteristic)가 2이면, 2로 나누는 것이 0으로 나누는 것 이 되어버리기 때문이다. 이 경우에는 두 벡터가 같을때 행렬식이 0이라는 조건이 추가로 있어야 행렬식의 정의가 된다. [8] 짧게 쓰자면, 호환 σ = ( i j ) \sigma=\begin{pmatrix} i & j \end{pmatrix} σ = ( i ​ j ​ ) 에 대해, det ⁡ ( v j ) = − det ⁡ ( v σ ( j ) ) \det({\bf v}_j)=-\det\bigl({\bf v}_{\sigma(j)}\bigr) det ( v j ​ ) = − det ( v σ ( j ) ​ ) 이다. 이것이 행렬식의 계산법에서 홀치환-짝치환을 따지는 이유이다. [9] 그런데 사실 이러한 고차 행렬식은 라플라스 전개 를 이용하여 차수를 낮춰버리면 된다. 이 역시 행렬식의 특징을 이용해서 증명할 수 있다. [10] 참고로 좀 더 추상적으로 할 경우, 교대 다중 선형형식의 존재성을 텐서와 그 몫공간(quotient space) 중 하나로부터 유도할 수도 있다. [11] 앞서 언급한 것처럼 행렬식이 교대 다중선형형식이기 때문에 행렬식의 행 혹은 열을 야바위 하듯이 한 번 서로 바꾸면 부호가 바뀐다. 쉽게 설명하면, 항등치환에서 특정 치환으로 바꾸기 위해 서로 다른 두 행 혹은 열을 호환하는 최소 횟수가 바로 N ( σ ) N(\sigma) N ( σ ) 이다. 이때 N ( σ ) N(\sigma) N ( σ ) 가 홀수이면 음수, 짝수이면 양수다. [12] 여기서 각 i i i 에 대해 ∑ j i a i j i v j i \displaystyle \sum_{j_i} a_{ij_i} {\bf v}_{j_i} j i ​ ∑ ​ a i j i ​ ​ v j i ​ ​ 는 행렬 ( a i j ) (a_{ij}) ( a ij ​ ) 의 i i i 번째 열이 된다. [13] n n n 은 행렬의 크기 [14] 단, 이것은 A A A 와 B B B 가 모두 크기가 같은 정사각행렬일 때 성립한다. 그렇지 않으면 반례가 존재한다. [15] 선형대수의 기본정리에 의하여 어떤 n × n n\times n n × n 행렬 B B B 가 존재해 모든 벡터 v \bf v v 에 대하여 f − 1 ( v ) = B v f^{-1}({\bf v}) = B{\bf v} f − 1 ( v ) = B v 임을 알 수 있다. 그리고 다시 기본정리에 의하여 ( f ∘ f − 1 ) ( v ) = A B v \bigl(f \circ f^{-1}\bigr)({\bf v}) = AB{\bf v} ( f ∘ f − 1 ) ( v ) = A B v , ( f − 1 ∘ f ) ( v ) = B A v \bigl(f^{-1} \circ f\bigr)({\bf v}) = BA{\bf v} ( f − 1 ∘ f ) ( v ) = B A v 가 성립함을 알 수 있다. 이는 A B = B A = I AB = BA = I A B = B A = I 임을 의미하며, 따라서 A A A 가 가역임을 보일 수 있다. [16] 이걸 선형 사상의 언어로 쓰면 다음과 같이 쓸 수 있다. 벡터 공간 V V V 와 부분 공간(subspace) W W W , 그리고 선형 사상 L ⁣ : V → V L\colon V \to V L : V → V 가 주어져 있고 W W W 가 L L L -불변(invariant)이라고 하자. (즉 L L L 은 W W W 의 모든 원소들을 W W W 로 보낸다.) 그러면 L L L 로부터 선형 사상 L ~ ⁣ : V / W → V / W \widetilde L\colon V/W \to V/W L : V / W → V / W 를 자연스럽게 정의할 수 있다 ( L ~ ( v + W ) = ( L v ) + W ) \Bigl(\widetilde L(v + W) = (Lv) + W\Bigr) ( L ( v + W ) = ( Lv ) + W ) . 이때 det ⁡ L = det ⁡ ( L ~ ) det ⁡ ( L ∣ W ) \det L = \det\Bigl(\widetilde L\Bigr) \det(L|_W) det L = det ( L ) det ( L ∣ W ​ ) 가 성립한다. [17] 아래에 정의되어 있지만 M i j M_{ij} M ij ​ 는 행렬 X X X 에서 i i i 번째 행과 j j j 번째 열을 지워서 얻은 부분행렬(submatrix)의 행렬식이다 ( C = ( c 11 ) ) (C = (c_{11})) ( C = ( c 11 ​ )) . [18] 여기서 n n n 은 정사각행렬의 크기이고 adj ⁡ A \operatorname{adj}A adj A 는 행렬 A A A 의 고전적 수반행렬이다. [19] 행렬식이 0이라는 소리는 비가역 행렬이라는 소리이므로 고전적 수반행렬을 취한다고 하더라도 해당 행렬 역시 비가역행렬이 되어 행렬식이 0이 되기 때문에 따질 필요가 없다. [20] 프랑스 의 수학자 피에르 프레데릭 사뤼(Pierre Frédéric Sarrus, 1798-1861) 가 발견해서 붙여졌다. 그렇기에 원래대로라면 '사뤼 법칙'으로 쓰는 게 맞지만, 한국에서는 ' 야코비 행렬 '을 '자코비안'이라 칭하는 것처럼 영어식 독음으로 정착하는 경향이 있어서 이 법칙 역시 '사루스 법칙'으로 굳어졌다. [21] 3차 정사각 행렬의 행렬식이 우연히 후술하는 방법으로 계산할 수 있기에 붙은 이름이다. 정확히 말하면, 행렬식은 각 행을 치환한 행렬의 대각성분을 곱하고 그 치환의 홀짝성을 고려해 모두 더한 값인데, 3×3 행렬에서 행을 치환하는 모든 경우의 수가 3 ! = 6 3! =6 3 ! = 6 으로 사뤼 법칙으로 구하는 방법과 우연히 맞아 떨어진다. 4×4 이상에서는 행을 치환하는 경우의 수가 폭증하기 때문에 사뤼 법칙을 적용할 수 없다. [22] 여기서 × \bm\times × 는 벡터의 벡터곱(외적)을, ⋅ \bm\cdot ⋅ 은 벡터의 내적을 의미한다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

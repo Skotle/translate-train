@@ -1,0 +1,157 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 수반 행렬
+최근 수정 시각: 2026-04-01 12:43:39 [ [ [ ] [ [ 10 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ [ 수반 연산자 에서 넘어옴 ] 분류 [ - 동음이의어
+- 행렬(수학)
+]
+
+[ [ ] [ 선형대수학
+Linear Algebra
+[ 펼치기 · 접기 ] ▲ 대수학
+기본 대상 | 일차함수 · 벡터 · 행렬 · 선형 변환
+대수적 구조 | 가군(모듈) · 벡터 공간 · 내적 공간 · 노름 공간
+선형 연산자 | 기본 개념 | 연립방정식 ( 1차 · 2차 ) · 행렬곱 · 단위행렬 · 역행렬 과 크라메르 공식 · 가역행렬 · 전치행렬 · 행렬식 ( 라플라스 전개 ) · 주대각합
+선형계 | 기본행연산 과 기본행렬 · 가우스-조르당 소거법 · 행사다리꼴 · 행렬표현 · 라그랑주 보간법
+주요 정리 | 선형대수학의 기본정리 · 차원 정리 · 가역행렬의 기본정리 · 스펙트럼 정리
+기타 | 제곱근행렬 · 멱등행렬 · 멱영행렬 · 대칭행렬 · 에르미트 행렬 · 야코비 행렬 · 방데르몽드 행렬 · 아다마르 행렬 변환 · 노름(수학) · 벡터장
+벡터공간의 분해 | 행렬의 닮음(상사) · 고유치 문제 · 케일리-해밀턴 정리 · 대각화 ( 대각행렬 ) · 삼각화 · 조르당 분해
+벡터의 연산 | 노름 · 거리함수 · 내적 · 외적 ( 신발끈 공식 ) · 다중선형형식 · ∇ · 크로네커 델타
+내적공간 | 그람-슈미트 과정 · 수반 연산자 ( 에르미트 내적 )
+다중선형대수 | 텐서 · 텐서곱 · 레비치비타 기호
+
+1 . 개요 2 . 수반 연산자 에 대응되는 행렬 2.1 . 수반 연산자(adjoint operator)의 정의 2.2 . 유한차원 벡터 공간에서의 수반 연산자의 존재성 2.3 . 자기 수반(self-adjoint) 연산자 2.4 . 수반 행렬의 성질에 관한 특별한 행렬들 2.5 . 유니터리 대각화(unitary diagonalization)와 정규 연산자(normal operator) 2.5.1 . 유니터리 대각화(unitary diagonalization) 2.5.2 . 정규 연산자(normal operator) 2.5.3 . 따름 정리들 2.6 . 기타 3 . 역행렬 을 구할 때 쓰이는 행렬
+
+1. 개요 [편집]
+연산
+A ∗ A^* A ∗
+결과 | 허수부의 부호가 반전된 전치행렬 \text{허수부의 부호가 반전된 전치행렬} 허수부의 부호가 반전된 전치행렬
+연산자 이름 | 수반 행렬(켤레 전치 행렬)
+한국어 | 에이의 켤레 전치
+영어 | adjoint of A
+
+원래 형식적으로는 수반 행렬(隨伴行列, 딸림 행렬, 기호는 adj)은 어떤 행렬 에서 각 성분의 여인수 행렬로 이루어진 전치 행렬 을 가리킨다. 이를 고전적 수반 행렬이라고 한다.
+
+현대에는 켤레전치행렬(켤레轉置行列,conjugate transpose matrix) 처럼 복소수체 위의 행렬 A에 대하여 A의 각 성분들 자리에 그 성분의 켤레 복소수를 대치한 후 행과 열을 바꾼 행렬도 수반 행렬로 보기 때문에 이러한 여러 종류의 수반 행렬이 정의될수있어 보다 광범위해진 의미를 갖는다. 따라서 형식적 수반행렬(딸림행렬)을 고전수반행렬이라고 부르고 이를 구별하기도 한다. 켤레전치행렬은 에르미트 전치 수반 행렬(-轉置, Hermitian transpose adjoint matrix) 이라고 부르기도 한다.
+
+2. 수반 연산자 에 대응되는 행렬 [편집]
+
+2.1. 수반 연산자(adjoint operator)의 정의 [편집]
+체 F F F 위의 벡터 공간 V V V 와 그 위의 내적 ( ⋅ ∣ ⋅ ) \left(\cdot\mid\cdot\right) ( ⋅ ∣ ⋅ ) , 선형 연산자 T T T 를 생각하자. V V V 위의 선형 연산자 U U U 가 T T T 의 수반 연산자(adjoint operator) 라 함은 다음이 성립하는 것이다.
+- ( u ∣ T v ) = ( U u ∣ v ) \left(u\mid Tv\right)=\left(Uu\mid v\right) ( u ∣ T v ) = ( U u ∣ v )
+
+이때 U = T ∗ U=T^{*} U = T ∗ 로 표기한다. [1] - 자명하게, T T T 가 수반 연산자를 가지면, T ∗ T^{*} T ∗ 역시 그러하며 T = T ∗ ∗ T=T^{**} T = T ∗∗ 이다.
+- T T T , U U U 가 수반 연산자를 가지면, T U TU T U 역시 그러하며 ( T U ) ∗ = U ∗ T ∗ \left(TU\right)^{*}=U^{*}T^{*} ( T U ) ∗ = U ∗ T ∗ 이다.
+
+유한 차원 벡터 공간에서는, 모든 선형 연산자는 수반 연산자를 갖는다. 그러나 무한 차원 벡터 공간에서는 경우마다 다르다. T T T 가 수반 연산자를 갖는 경우, T ∗ T^{*} T ∗ 라 표현한다.
+내적을 보통, F = R , C F=\mathbb{R},\mathbb{C} F = R , C 에서 다루므로, 수반 연산자도 F = R , C F=\mathbb{R},\mathbb{C} F = R , C 에서 다루는 것이 일반적이다.
+
+2.2. 유한차원 벡터 공간에서의 수반 연산자의 존재성 [편집]
+그람-슈미트 과정 에 의하면, V V V 의 기저 B = { ϵ i : 1 ≤ i ≤ n } \mathcal{B}=\left\{ \epsilon_{i}:1\leq i\leq n\right\} B = { ϵ i ​ : 1 ≤ i ≤ n }
+
+가 존재하여, 임의의 u , v ∈ V u,v\in V u , v ∈ V 에 대해, ( u ∣ v ) = [ u ] B ∗ [ v ] B \left(u\mid v\right)=\left[u\right]_{\mathcal{B}}^{*}\left[v\right]_{\mathcal{B}} ( u ∣ v ) = [ u ] B ∗ ​ [ v ] B ​
+
+이다. 이것을 이용하면 다음을 얻는다. ( u ∣ T v ) = [ u ] B ∗ [ T v ] B = [ u ] B ∗ ( [ T ] B [ v ] B ) = ( [ u ] B ∗ [ T ] B ) [ v ] B = ( [ T ] B ∗ [ u ] B ) ∗ [ v ] B \left(u\mid Tv\right)=\left[u\right]_{\mathcal{B}}^{*}\left[Tv\right]_{\mathcal{B}}=\left[u\right]_{\mathcal{B}}^{*}\left(\left[T\right]_{\mathcal{B}}\left[v\right]_{\mathcal{B}}\right)=\left(\left[u\right]_{\mathcal{B}}^{*}\left[T\right]_{\mathcal{B}}\right)\left[v\right]_{\mathcal{B}}=\left(\left[T\right]_{\mathcal{B}}^{*}\left[u\right]_{\mathcal{B}}\right)^{*}\left[v\right]_{\mathcal{B}} ( u ∣ T v ) = [ u ] B ∗ ​ [ T v ] B ​ = [ u ] B ∗ ​ ( [ T ] B ​ [ v ] B ​ ) = ( [ u ] B ∗ ​ [ T ] B ​ ) [ v ] B ​ = ( [ T ] B ∗ ​ [ u ] B ​ ) ∗ [ v ] B ​
+
+이다. [ T ] B ∗ \left[T\right]_{\mathcal{B}}^{*} [ T ] B ∗ ​ 에 해당하는 선형 변환 을 U U U 라 하면, ( [ T ] B ∗ [ u ] B ) ∗ [ v ] B = [ U u ] B ∗ [ v ] B = ( U u ∣ v ) \left(\left[T\right]_{\mathcal{B}}^{*}\left[u\right]_{\mathcal{B}}\right)^{*}\left[v\right]_{\mathcal{B}}=\left[Uu\right]_{\mathcal{B}}^{*}\left[v\right]_{\mathcal{B}}=\left(Uu\mid v\right) ( [ T ] B ∗ ​ [ u ] B ​ ) ∗ [ v ] B ​ = [ U u ] B ∗ ​ [ v ] B ​ = ( U u ∣ v )
+
+이다. 따라서, T ∗ T^{*} T ∗ 는 T ∗ = U T^{*}=U T ∗ = U 로 존재한다.
+
+이 과정에서 알 수 있듯이, 수반 연산자는 Hermitian 연산으로 직접 주어진다. Hermitian 연산자를 단순히 전치해주고, 켤레를 취해주는 것보다는, 수반 연산자의 관점으로 보는 것이 더 본질적이다.
+
+다음을 쉽게 보일 수 있다. T T T 를 임의의 선형 연산자라 하자. W W W 가 T T T 의 불변부분공간이면, W ⊥ W^{\perp} W ⊥ 는 T ∗ T^{*} T ∗ 의 불변부분공간이다.
+
+2.3. 자기 수반(self-adjoint) 연산자 [편집]
+T T T 의 수반 연산자가 T ∗ = T T^{*}=T T ∗ = T 이면 자기 수반 연산자(self-adjoint) 라 한다. 달리 에르미트 연산자(Hermitian operator)라고 하기도 한다.
+
+2.4. 수반 행렬의 성질에 관한 특별한 행렬들 [편집]
+군(대수학) 문서 참조. GL n \text{GL}_n GL n ​ 은 n × n n\times n n × n 가역행렬을 모은 일반선형군(general linear group)이며, SL n \text{SL}_n SL n ​ 은 그 중 행렬식 이 1인 행렬을 모은 특수선형군(special linear proup)이다. - F = R F=\R F = R
+F = R F=\R F = R 일 때는 켤레를 취해주는 과정이 무의미하므로, ∗ ^* ∗ 대신 전치 인 t ^t t 를 쓴다. [2] - 직교군(orthogonal group) O ( n ) : = { A ∈ GL n ( R ) : A t A = I } \text{O}(n) := \left\{ A\in\text{GL}_n(\R): A^tA=I \right\} O ( n ) := { A ∈ GL n ​ ( R ) : A t A = I }
+직교군에 속하는 행렬들을 직교행렬(orthogonal matrix) 이라 부른다. 이 행렬들은 내적을 보존해준다.
+- 특수 직교군(special orthogonal group) SO ( n ) : = { A ∈ SL n ( R ) : A t A = I } \text{SO}(n) := \left\{ A\in\text{SL}_n(\R): A^tA=I \right\} SO ( n ) := { A ∈ SL n ​ ( R ) : A t A = I }
+- 자기 수반 행렬 { A ∈ GL n ( R ) : A t = A } \left\{ A\in\text{GL}_n(\R): A^t=A \right\} { A ∈ GL n ​ ( R ) : A t = A }
+대칭행렬(symmetric matrix) 이라고도 부른다.
+- F = C F=\mathbb{C} F = C - 유니터리군(unitary group) U ( n ) : = { A ∈ GL n ( C ) : A ∗ A = I } \text{U}(n) := \left\{ A\in\text{GL}_n(\mathbb{C}): A^*A=I \right\} U ( n ) := { A ∈ GL n ​ ( C ) : A ∗ A = I }
+유니터리군에 속하는 행렬들을 유니터리 행렬(unitary matrix) 이라 부른다. 이 행렬들은 에르미트 내적(Hermitian inner product)을 보존해준다.
+- 특수 유니터리군(special unitary group) SU ( n ) : = { A ∈ SL n ( C ) : A ∗ A = I } \text{SU}(n) := \left\{ A\in\text{SL}_n(\mathbb{C}): A^*A=I \right\} SU ( n ) := { A ∈ SL n ​ ( C ) : A ∗ A = I } [3]
+- 에르미트 행렬(Hermitian matrix) { A ∈ GL n ( C ) : A ∗ = A } \left\{ A\in\text{GL}_n(\mathbb{C}): A^*=A \right\} { A ∈ GL n ​ ( C ) : A ∗ = A }
+
+2.5. 유니터리 대각화(unitary diagonalization)와 정규 연산자(normal operator) [편집]
+
+2.5.1. 유니터리 대각화(unitary diagonalization) [4] [편집]
+유니터리 대각화(unitary diagonalization) 는 행렬 A ∈ M n ( F ) A\in M_n(F) A ∈ M n ​ ( F ) 를, 적절한 U ∈ U n U\in\text{U}_n U ∈ U n ​ 와 대각행렬 [5] D ∈ M n ( C ) D\in M_n(\mathbb{C}) D ∈ M n ​ ( C ) 를 찾아, A = U D U ∗ A=UDU^* A = U D U ∗ 로 표현하는 일이다. U ∗ = U − 1 U^* = U^{-1} U ∗ = U − 1 이므로, 대각화 의 일종으로, 더 강한 개념이다.
+
+질문은 이것이다. 어떤 행렬이 유니터리 대각화 가능할 필요충분조건은 무엇인가? 자명하게, A A A 유니터리 대각화 가능이면, A ∗ A = A A ∗ A^{*}A=AA^{*} A ∗ A = A A ∗ 이다. 이것의 역도 성립할까? 정규 연산자 개념이 이에 대한 긍정적인 답을 준다.
+
+2.5.2. 정규 연산자(normal operator) [편집]
+유한 차원 벡터 공간 V V V 상의 선형 변환 T T T 가 정규 연산자(normal operator) 라 함은, T ∗ T = T T ∗ T^{*}T=TT^{*} T ∗ T = T T ∗ 가 성립하는 것이다.
+
+다음이 성립한다.
+T T T 를 정규 연산자라 하자. 임의의 c ∈ C c\in \mathbb{C} c ∈ C , v ∈ V v\in V v ∈ V 에 대해, T v = c v Tv=cv T v = c v 이면, T ∗ v = c ‾ v T^{*}v=\overline{c}v T ∗ v = c v 이다.
+
+이것에서 다음을 얻는다.
+T T T 를 정규 연산자, μ \mu μ , λ \lambda λ 를 T T T 의 서로 다른 고유치라 하자. 그러면, W λ ⊥ W μ W_{\lambda}\perp W_{\mu} W λ ​ ⊥ W μ ​ 이다. [6]
+
+여기서, 직교 분해 ⨁ λ :char. val. W λ < V {\displaystyle \bigoplus_{\lambda\text{:char. val.}}}W_{\lambda}<V λ :char. val. ⨁ ​ W λ ​ < V
+
+를 얻는다. W : = ⨁ λ :char. val. W λ W:={\displaystyle \bigoplus_{\lambda\text{:char. val.}}}W_{\lambda} W := λ :char. val. ⨁ ​ W λ ​
+
+에 대해, W W W 가 T T T 의 불변 부분 공간이다. 따라서, #s-1 의 가장 마지막 명제를 적용하면, W ⊥ W^{\perp} W ⊥ 가 T ∗ T^{*} T ∗ 의 불변부분공간이다. T ∗ ∣ W ⊥ : W ⊥ → W ⊥ \left.T^{*}\right|_{W^{\perp}}:W^{\perp}\rightarrow W^{\perp} T ∗ ∣ W ⊥ ​ : W ⊥ → W ⊥
+
+이다.
+W ⊥ ≠ ⟨ ∅ ⟩ W^{\perp}\neq\left\langle \emptyset\right\rangle W ⊥  = ⟨ ∅ ⟩ 을 가정하면, c ∈ C c\in \mathbb{C} c ∈ C , 0 ≠ v ∈ W ⊥ 0\neq v\in W^{\perp} 0  = v ∈ W ⊥
+
+가 존재하여, T ∗ v = c v T^{*}v=cv T ∗ v = c v 이다. 따라서, T v = c ‾ v Tv=\overline{c}v T v = c v 이다. 따라서, v ∈ W v\in W v ∈ W 인데 이는 모순이다. 따라서, W ⊥ = 0 W^{\perp}=0 W ⊥ = 0 이다. 고로, V = W ⨁ W ⊥ = ⨁ λ :char. val. W λ V=W\bigoplus W^{\perp}={\displaystyle \bigoplus_{\lambda\text{:char. val.}}}W_{\lambda} V = W ⨁ W ⊥ = λ :char. val. ⨁ ​ W λ ​
+
+이다.
+
+이상에서 본 것과 같이 정규 연산자와 유니터리 대각화 가능은 동치이다. A = U D U ∗ A=UDU^{*} A = U D U ∗ 인 U ∈ U ( n ) U\in\text{U}\left(n\right) U ∈ U ( n ) 는 W λ W_{\lambda} W λ ​ 의 직교 기저들로 구성해주면 된다. 보통 이를 정규연산자의 스펙트럼 정리 (spectral theorem) 라 부른다.
+
+2.5.3. 따름 정리들 [편집]
+- 대칭행렬(혹은 자기수반 행렬)은 유니터리 대각화 가능이고, 그 대각행렬은 실행렬이다. 대칭행렬의 고유치 는 실수라는 것을 이용하면 된다. 그리고 대칭행렬은 정규 연산자이다.
+- 유니터리 행렬도 정규 연산자이므로 유니터리 대각화를 할 수 있고, 고유치는 절댓값 1의 복소수가 된다.
+
+2.6. 기타 [편집]
+양자역학 을 공부하다 보면 + h . c . +\,{\rm h.c.} + h.c. 라는 표기를 많이 볼 수 있는데, 이 기호 앞의 항을 통째로 수반 연산자를 취한 다음 본래 항에다 더하라는 의미 다.
+
+3. 역행렬 을 구할 때 쓰이는 행렬 [편집]
+자세한 내용은 크라메르 공식 문서를 참고하십시오.
+[1] 순수수학에서는 별표(*)를 쓰지만, 물리학에서는 칼표 를 쓴 U = T † U=T^{\dag} U = T † 를 자주 쓴다. [2] 뭘 사용해도 상관은 없다. [3] 특수 유니터리군의 원소가 이루는 리 대수 (Lie algebra)는 블랙 레터 를 쓴 s u ( n ) \mathfrak{su} \left(n\right) su ( n ) 로 구분하기도 한다. [4] 실행렬의 경우, 유니터리 개념이 직교 개념이 되므로, 직교 대각화(orthogonally diagonalization) 가능이라 부르면 된다. 이하의 논의에서도 유니터리를 모두 직교로 바꿔 읽으면 된다. [5] 대각선 외의 성분이 모두 0 0 0 인 행렬, 대각선의 성분은 0 0 0 이어도 좋다. [6] W μ W_{\mu} W μ ​ , W λ W_{\lambda} W λ ​ 는, μ \mu μ , λ \lambda λ 에 해당하는 고유 공간이다. 이 문서의 내용 중 전체 또는 일부는 수반 연산자 문서의 r22 판에서 가져왔습니다. 이전 역사 보러 가기 [ 남동구가구 전문 썸앤데코
+m.place.naver.com/place/1778971598 v-if
+자체제작 가구 및 타브랜드제품을 가성비있게 제공하는 가구전문 브랜드 썸앤데코
+
+] | [ 사무실의 모든것 지니오피스!
+jinioffice.co.kr v-if
+[ [ 회사소개 ] [ 납품실적 ] [ 견적문의 ] [ 고객센터 ] ]
+기업맞춤형 비즈니스 토탈 쇼핑몰! 사무집기, 냉난방, OA전문, 상품+가격 경쟁력
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

@@ -1,0 +1,103 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 양자역학의 묘사
+최근 수정 시각: 2026-03-22 04:46:25 [ [ [ ] [ [ 1 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ [ 슈뢰딩거 묘사 에서 넘어옴 ] 분류 [ - 1925년 연구
+- 양자역학
+]
+
+[ [ ] [ 양자역학 Quantum Mechanics
+[ 펼치기 · 접기 ] 배경 | 흑체복사 · 이중슬릿 실험 · 광전효과 · 콤프턴 산란 · 보어의 원자 모형 · 물질파 · 데이비슨-저머 실험 · 불확정성 원리 · 슈테른-게를라흐 실험 · 프랑크-헤르츠 실험
+이론 체계 | 체계 플랑크 상수 ( 플랑크 단위계 ) · 공리 · 슈뢰딩거 방정식 · 파동함수 · 연산자 ( 해밀토니언 · 선운동량 · 각운동량 ) · 스핀 ( 스피너 ) · 파울리 배타 원리 해석 코펜하겐 해석 ( 보어-아인슈타인 논쟁 ) · 숨은 변수 이론 ( EPR 역설 · 벨의 부등식 · 광자 상자 ) · 다세계 해석 · 앙상블 해석 · 서울 해석 묘사 묘사 ( 슈뢰딩거 묘사 · 하이젠베르크 묘사 · 디랙 묘사) · 행렬역학
+연관 학문 | 천체물리학 ( 천문학 틀 · 우주론 · 양자블랙홀 · 중력 특이점 ) · 핵물리학 틀 ( 원자력 공학 틀 ) · 응집물질물리학 틀 · 컴퓨터 과학 틀 ( 양자컴퓨터 · 양자정보과학 ) · 통계역학 틀 · 양자화학 ( 물리화학 틀 ) · 입자물리학 ( 입자물리학 틀 )
+현상 · 응용 | 양자요동 · 양자 얽힘 · 양자 터널링 · 퍼텐셜 우물 · 양자 조화 진동자 · 오비탈 · 수소 원자 모형 · 쌓음 원리 · 훈트 규칙 · 섭동 ( 스핀 - 궤도 결합 · 제이만 효과 · 슈타르크 효과 · 헬만-파인만 정리 ) · 선택 규칙 · 변분 원리 · WKB 근사법 · 시간 결정 · 보스-아인슈타인 응집 · 솔리톤 · 카시미르 효과 · 아하로노프-봄 효과 · 블랙홀 정보 역설 · 양자점 · 하트리-포크 방법 · 밀도범함수 이론 · 준위 · 양자장론 ( 양자전기역학 · 양자색역학 ) · 뤼드베리 방정식 · 체렌코프 현상
+기타 | 군론 · 기본 입자 · 대칭성 · 비리얼 정리 · 리만 가설 · 매듭이론 · 밀도행렬 · 물질 · 방사선 ( 반감기 ) · 라플라스의 악마 · 슈뢰딩거의 고양이 ( 위그너의 친구 )
+문헌 | 교재 · 분류:물리학술지
+
+1 . 개요 2 . 슈뢰딩거 묘사 3 . 하이젠베르크 묘사 4 . 관련 문서
+
+1. 개요 [편집]
+dynamical pictures
+
+양자역학의 묘사 는 양자 상태를 기술할 수 있는 다양한 수학적인 방법을 뜻한다.
+
+2. 슈뢰딩거 묘사 [편집]
+Schrödinger-Bild / Schrödinger picture / Schrödinger 描 寫
+
+양자역학을 기술할 때 가장 흔히 사용되는 묘사로 슈뢰딩거 묘사 가 있다. 슈뢰딩거 묘사에서 파동함수 ∣ Ψ ( t ) > \left|\Psi(t)\right> ∣ Ψ ( t ) ⟩ 는 시간에 대한 함수이며, 슈뢰딩거 방정식 을 풀어서 구할 수 있다. i ℏ ∂ ∂ t ∣ Ψ ( t ) > = H ^ ∣ Ψ ( t ) > \displaystyle i \hbar \frac{\partial}{\partial t} \left|\Psi(t)\right>= \hat{\mathcal{H}} \left|\Psi(t)\right> i ℏ ∂ t ∂ ​ ∣ Ψ ( t ) ⟩ = H ^ ∣ Ψ ( t ) ⟩
+
+이때 H ^ \hat{\mathcal{H}} H ^ 이 시간에 대한 함수가 아니라고 하자. 시간이 t = 0 t = 0 t = 0 일 때 양자상태 ∣ Ψ ( 0 ) > \left|\Psi(0)\right> ∣ Ψ ( 0 ) ⟩ 이 주어졌다고 하면, 슈뢰딩거 방정식의 해는 다음과 같다. ∣ Ψ ( t ) > = e − i H ^ t / ℏ ∣ Ψ ( 0 ) > \displaystyle \left|\Psi(t)\right> = e^{-i \hat{\mathcal{H}} t/\hbar} \left|\Psi(0)\right> ∣ Ψ ( t ) ⟩ = e − i H ^ t /ℏ ∣ Ψ ( 0 ) ⟩
+
+3. 하이젠베르크 묘사 [편집]
+베르너 하이젠베르크
+관련 문서
+[ 펼치기 · 접기 ] 연구 업적 | 양자역학 ( 양자역학의 공리 · 코펜하겐 해석 · 행렬역학 · 불확정성 원리 · 하이젠베르크 묘사 )
+프로젝트 | 우란프로옉트
+생애 | 생애
+소속 | 뮌헨 대학교
+괴팅겐 대학교
+관련 학자 | 닐스 보어 · 막스 보른 · 알베르트 아인슈타인 · 막스 플랑크 · 아르놀트 조머펠트
+저서 | 부분과 전체 · 물리와 철학
+
+Heisenberg-Bild / Heisenberg picture / Heisenberg 描 寫
+
+슈뢰딩거 묘사에서, H ^ \hat{\mathcal{H}} H ^ 가 시간에 의존하지 않을 때 어떤 연산자 A ^ \hat{A} A ^ [1] 의 기댓값은 다음과 같이 쓸 수 있다. ⟨ A ^ ⟩ = < Ψ ( t ) ∣ A ^ ∣ Ψ ( t ) > = < Ψ ( 0 ) ∣ e i H ^ t / ℏ A ^ e − i H ^ t / ℏ ∣ Ψ ( 0 ) > \displaystyle \langle \hat{A} \rangle = {\color{blue} \left< \Psi (t) \right|} {\color{red} \hat{A}} {\color{blue} \left| \Psi (t) \right>} = {\color{blue} \left< \Psi (0) \right| e^{i \hat{\mathcal{H}} t/\hbar}} {\color{red} \hat{A}} {\color{blue} e^{-i \hat{\mathcal{H}} t/\hbar} \left|\Psi(0)\right>} ⟨ A ^ ⟩ = ⟨ Ψ ( t ) ∣ A ^ ∣ Ψ ( t ) ⟩ = ⟨ Ψ ( 0 ) ∣ e i H ^ t /ℏ A ^ e − i H ^ t /ℏ ∣ Ψ ( 0 ) ⟩
+
+여기서 파란색 글씨는 파동함수, 빨간색 글씨는 연산자를 의미한다. 즉 파동함수는 시간에 대한 함수이며, 연산자는 시간에 의존하지 않는다. 그런데 반대로 파동함수를 시간에 의존하지 않으며, 연산자가 시간에 의존하는 것으로 보고 기댓값을 다음과 같이 쓸 수도 있다. ⟨ A ^ ⟩ = < Ψ ( 0 ) ∣ e i H ^ t / ℏ A ^ e − i H ^ t / ℏ ∣ Ψ ( 0 ) > = < Ψ H ∣ A ^ H ( t ) ∣ Ψ H > \displaystyle \langle \hat{A} \rangle = {\color{blue} \left< \Psi (0) \right|} {\color{red} e^{i \hat{\mathcal{H}} t/\hbar} \hat{A} e^{-i \hat{\mathcal{H}} t/\hbar}} {\color{blue} \left|\Psi(0)\right>} = {\color{blue} \left< \Psi_H \right|} {\color{red} \hat{A}_H (t)} {\color{blue} \left| \Psi_H \right>} ⟨ A ^ ⟩ = ⟨ Ψ ( 0 ) ∣ e i H ^ t /ℏ A ^ e − i H ^ t /ℏ ∣ Ψ ( 0 ) ⟩ = ⟨ Ψ H ​ ∣ A ^ H ​ ( t ) ∣ Ψ H ​ ⟩
+
+이것을 하이젠베르크 묘사 라고 하며, 이때 파동함수와 연산자를 다음과 같이 정의한다. ∣ Ψ > H = ∣ Ψ ( 0 ) > S A ^ H ( t ) = e i H ^ t / ℏ A ^ S e − i H ^ t / ℏ \displaystyle \begin{aligned} \left| \Psi \right>_H &= \left| \Psi (0) \right>_S\\ \hat{A}_H (t) &= e^{i \hat{\mathcal{H}} t/\hbar} \hat{A}_S e^{-i \hat{\mathcal{H}} t/\hbar} \end{aligned} ∣ Ψ ⟩ H ​ A ^ H ​ ( t ) ​ = ∣ Ψ ( 0 ) ⟩ S ​ = e i H ^ t /ℏ A ^ S ​ e − i H ^ t /ℏ ​
+
+여기서 S S S 는 슈뢰딩거 묘사에서, H H H 는 하이젠베르크 묘사에서 나타내었다는 것을 의미한다. 참고로 H ^ H = e i H ^ S t / ℏ H ^ S e − i H ^ S t / ℏ = H ^ S e i H ^ S t / ℏ e − i H ^ S t / ℏ = H ^ S \displaystyle \hat{\mathcal{H}}_H = e^{i \hat{\mathcal{H}}_S t/\hbar} \hat{\mathcal{H}}_S e^{-i \hat{\mathcal{H}}_S t/\hbar} = \hat{\mathcal{H}}_S e^{i \hat{\mathcal{H}}_S t/\hbar} e^{-i \hat{\mathcal{H}}_S t/\hbar} = \hat{\mathcal{H}}_S H ^ H ​ = e i H ^ S ​ t /ℏ H ^ S ​ e − i H ^ S ​ t /ℏ = H ^ S ​ e i H ^ S ​ t /ℏ e − i H ^ S ​ t /ℏ = H ^ S ​
+
+이므로, 해밀토니언 은 슈뢰딩거 묘사와 하이젠베르크 묘사에서 동일하며, 첨자 없이 H ^ \hat{\mathcal{H}} H ^ 로 쓸 수 있다.
+
+하이젠베르크 묘사에서는 연산자가 시간에 대한 함수이기 때문에, 방정식을 풀어서 파동함수를 구하는 것이 아니라 연산자 A ^ H ( t ) \hat{A}_H (t) A ^ H ​ ( t ) 를 구해야 한다. 이때 연산자가 만족하는 방정식은 다음과 같다. d A ^ H ( t ) d t = i ℏ [ H ^ , A ^ H ( t ) ] + ( ∂ A ^ S ∂ t ) H \displaystyle \frac{\mathrm{d} \hat{A}_H (t)}{\mathrm{d} t} = \frac{i}{\hbar}[ \hat{\mathcal{H}}, \hat{A}_H (t) ] + \biggl( \frac{\partial \hat{A}_S}{\partial t} \biggr)_H d t d A ^ H ​ ( t ) ​ = ℏ i ​ [ H ^ , A ^ H ​ ( t )] + ( ∂ t ∂ A ^ S ​ ​ ) H ​
+
+이때 [ A , B ] [A,B] [ A , B ] 는 교환자 이다. 이것을 하이젠베르크 운동방정식 (Heisenberg equation of motion)이라고 한다.
+
+4. 관련 문서 [편집]
+- 양자역학
+- 양자역학의 공리
+- 파동함수
+- 연산자
+
+[ 남동구용달 하나로퀵
+www.1577-3410.com
+[ [ 퀵서비스접수 ] [ 퀵서비스안내 ] [ 쉽고빠른배달 ] [ 하나로퀵배송 ] ]
+5분 내 출발 가능! 오토바이 용달 빠른 당일퀵배송 실명제퀵기사 안전배송퀵전문업체
+
+] | [ 한국로지스 !친절배송!
+www.18332442.co.kr v-if
+한국로지스, 포장이사, 리프트화물, 용달, 전국당일특송 365일 가능합니다.
+
+] | [ 확실한 지원금! 인터넷가입
+internetsignal.shop v-if
+[ [ 인터넷가입 ] [ 전국최대 ] [ 지원금받기 ] ]
+남동인터넷 비밀지원금지급 고객불만Zero 당일개통! 당일입금! 확실한 요금설계
+
+]
+
+[1] Peskin 을 위시로 한 양자장론 교재에서는 O \mathcal{O} O 라고 쓰기도 한다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

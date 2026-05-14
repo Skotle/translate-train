@@ -1,0 +1,159 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 곱미분
+최근 수정 시각: 2026-05-11 15:03:30 [ [ [ ] [ [ 6 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 수학 용어
+- 미적분
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 증명 2.1 . 세 가지 식이 곱해져 있는 경우 3 . 일반화 3.1 . 여러 함수의 곱의 미분 3.2 . 두 함수의 곱의 여러 번 미분 3.3 . 여러 함수의 곱의 여러 번 미분 4 . 삼각함수의 곱미분 4.1 . 삼각함수의 미분 예 5 . 곱미분과 부분적분의 관계 6 . 고등학교 교육과정 7 . 여담
+
+1. 개요 [편집]
+곱미분 (product rule), 또는 고교 교육과정에서 곱의 미분법 은 두 실함수 f ( x ) f(x) f ( x ) 와 g ( x ) g(x) g ( x ) 의 곱의 형태를 가진 함수 f ( x ) g ( x ) f(x)g(x) f ( x ) g ( x ) 의 도함수를 구하는 공식으로, 다음과 같다. [ f ( x ) g ( x ) ] ′ = f ′ ( x ) g ( x ) + f ( x ) g ′ ( x ) [f(x)g(x) ]'=f'(x)g(x) + f(x)g'(x) [ f ( x ) g ( x ) ] ′ = f ′ ( x ) g ( x ) + f ( x ) g ′ ( x )
+
+2. 증명 [편집]
+미분계수 의 정의에 의하여 함수 F ( x ) = f ( x ) g ( x ) \displaystyle F(x) = f(x)g(x) F ( x ) = f ( x ) g ( x ) 의 도함수를 구해 보자.
+F ′ ( x ) = lim ⁡ h → 0 F ( x + h ) − F ( x ) h = lim ⁡ h → 0 f ( x + h ) g ( x + h ) − f ( x ) g ( x ) h \displaystyle \begin{aligned} F'(x) &= \lim_{h \to 0} \frac{F(x+h)-F(x)}{h} \\&=\lim_{h \to 0} \frac{f(x+h)g(x+h)-f(x)g(x)}{h} \end{aligned} F ′ ( x ) ​ = h → 0 lim ​ h F ( x + h ) − F ( x ) ​ = h → 0 lim ​ h f ( x + h ) g ( x + h ) − f ( x ) g ( x ) ​ ​
+
+분자에 f ( x ) g ( x + h ) f(x)g(x+h) f ( x ) g ( x + h ) 를 빼고 더하면, F ′ ( x ) = lim ⁡ h → 0 f ( x + h ) g ( x + h ) − f ( x ) g ( x + h ) + f ( x ) g ( x + h ) − f ( x ) g ( x ) h = lim ⁡ h → 0 f ( x ) [ g ( x + h ) − g ( x ) ] + g ( x + h ) [ f ( x + h ) − f ( x ) ] h = f ( x ) lim ⁡ h → 0 g ( x + h ) − g ( x ) h + lim ⁡ h → 0 g ( x + h ) lim ⁡ h → 0 f ( x + h ) − f ( x ) h = f ( x ) g ′ ( x ) + f ′ ( x ) g ( x ) \displaystyle \begin{aligned} F'(x) &=\lim_{h \to 0} \frac{f(x+h)g(x+h)-f(x)g(x+h)+f(x)g(x+h)-f(x)g(x)}{h} \\&=\lim_{h \to 0} \frac{f(x)[g(x+h)-g(x) ]+g(x+h)[f(x+h)-f(x) ]}{h} \\&=f(x) \lim_{h \to 0} \frac{g(x+h)-g(x)}{h} +\lim_{h \to 0} g(x+h) \lim_{h \to 0} \frac{f(x+h)-f(x)}{h} \\&=f(x)g'(x)+f'(x)g(x) \end{aligned} F ′ ( x ) ​ = h → 0 lim ​ h f ( x + h ) g ( x + h ) − f ( x ) g ( x + h ) + f ( x ) g ( x + h ) − f ( x ) g ( x ) ​ = h → 0 lim ​ h f ( x ) [ g ( x + h ) − g ( x )] + g ( x + h ) [ f ( x + h ) − f ( x )] ​ = f ( x ) h → 0 lim ​ h g ( x + h ) − g ( x ) ​ + h → 0 lim ​ g ( x + h ) h → 0 lim ​ h f ( x + h ) − f ( x ) ​ = f ( x ) g ′ ( x ) + f ′ ( x ) g ( x ) ​
+
+두 함수 f ( x ) f(x) f ( x ) , g ( x ) g(x) g ( x ) 모두 좌미분계수만 존재하거나, 우미분계수만 존재한다고 하더라도, 위의 증명에서 h → 0 h \to 0 h → 0 을 h → 0 + h \to 0^{+} h → 0 + 또는 h → 0 − h \to 0^{-} h → 0 − 로 바꾸어도 증명에 무리가 없으므로, 좌미분계수, 우미분계수에 대해서도 곱의 미분법이 성립한다.
+
+2.1. 세 가지 식이 곱해져 있는 경우 [편집]
+세 함수 f ( x ) f(x) f ( x ) , g ( x ) g(x) g ( x ) , h ( x ) h(x) h ( x ) 가 곱해진 함수 f ( x ) g ( x ) h ( x ) f(x)g(x)h(x) f ( x ) g ( x ) h ( x ) 의 도함수는 위의 결과를 참조해보면, 아래와 같음을 알 수 있다. [ f ( x ) g ( x ) h ( x ) ] ′ = [ [ f ( x ) g ( x ) ] h ( x ) ] ′ = [ f ( x ) g ( x ) ] ′ h ( x ) + f ( x ) g ( x ) h ′ ( x ) = [ f ( x ) g ′ ( x ) + f ′ ( x ) g ( x ) ] h ( x ) + f ( x ) g ( x ) h ′ ( x ) = f ′ ( x ) g ( x ) h ( x ) + f ( x ) g ′ ( x ) h ( x ) + f ( x ) g ( x ) h ′ ( x ) \begin{aligned} [f(x)g(x)h(x) ]'&=[[f(x)g(x) ] h(x) ]' \\&= [f(x)g(x) ]'h(x)+f(x)g(x)h'(x) \\&=[f(x)g'(x)+f'(x)g(x) ]h(x)+f(x)g(x)h'(x) \\ &=f'(x) g(x) h(x) + f(x) g'(x) h(x) + f(x) g(x) h'(x) \end{aligned} [ f ( x ) g ( x ) h ( x ) ] ′ ​ = [[ f ( x ) g ( x )] h ( x ) ] ′ = [ f ( x ) g ( x ) ] ′ h ( x ) + f ( x ) g ( x ) h ′ ( x ) = [ f ( x ) g ′ ( x ) + f ′ ( x ) g ( x )] h ( x ) + f ( x ) g ( x ) h ′ ( x ) = f ′ ( x ) g ( x ) h ( x ) + f ( x ) g ′ ( x ) h ( x ) + f ( x ) g ( x ) h ′ ( x ) ​
+
+3. 일반화 [편집]
+아래의 두 일반화 모두 수학적 귀납법 으로 증명할 수 있다. 해당 부분에서 등장하는 ∏ \prod ∏ 에 대해서는 곱의 기호 참고.
+
+3.1. 여러 함수의 곱의 미분 [편집]
+n n n 개의 함수 f 1 ( x ) , ⋯ , f n ( x ) f_{1}(x), \, \cdots, \, f_{n}(x) f 1 ​ ( x ) , ⋯ , f n ​ ( x ) 가 모두 미분가능할 때 다음이 성립한다. [ ∏ i = 1 n f i ( x ) ] ′ = [ f 1 ( x ) f 2 ( x ) ⋯ f n ( x ) ] ′ = f 1 ′ ( x ) f 2 ( x ) ⋯ f n ( x ) + ⋯ + f 1 ( x ) f 2 ( x ) ⋯ f n ′ ( x ) = ∑ i = 1 n f i ′ ( x ) ∏ j ≠ i f j ( x ) \begin{aligned} \displaystyle \left[\prod_{i=1}^n f_{i}(x) \right]^{\prime} &= [f_{1}(x)f_{2}(x)\cdots f_{n}(x) ]^{\prime} \\&= f'_{1}(x)f_{2}(x)\cdots f_{n}(x)+\cdots+f_{1}(x)f_{2}(x) \cdots f'_{n}(x) \\&= \displaystyle \sum_{i=1}^n f'_{i}(x) \prod_{j \ne i} f_{j}(x) \end{aligned} [ i = 1 ∏ n ​ f i ​ ( x ) ] ′ ​ = [ f 1 ​ ( x ) f 2 ​ ( x ) ⋯ f n ​ ( x ) ] ′ = f 1 ′ ​ ( x ) f 2 ​ ( x ) ⋯ f n ​ ( x ) + ⋯ + f 1 ​ ( x ) f 2 ​ ( x ) ⋯ f n ′ ​ ( x ) = i = 1 ∑ n ​ f i ′ ​ ( x ) j  = i ∏ ​ f j ​ ( x ) ​
+
+3.2. 두 함수의 곱의 여러 번 미분 [편집]
+n n n 번 미분가능한 함수 f ( x ) f(x) f ( x ) , g ( x ) g(x) g ( x ) 에 대하여 [ f ( x ) g ( x ) ] ( n ) = ∑ r = 0 n ( n r ) f ( n − r ) ( x ) g ( r ) ( x ) \displaystyle[f(x)g(x) ]^{(n)}=\displaystyle\sum_{r=0}^{n} {{n}\choose{r}} f^{(n-r)}(x)g^{(r)}(x) [ f ( x ) g ( x ) ] ( n ) = r = 0 ∑ n ​ ( r n ​ ) f ( n − r ) ( x ) g ( r ) ( x )
+
+이 성립하는데, 이를 라이프니츠 법칙(Leibniz rule) 이라고 한다. 위에서 ( n r ) \binom{n}{r} ( r n ​ ) 는 조합 이고, f ( n ) f^{(n)} f ( n ) 은 f ( x ) f(x) f ( x ) 의 n n n 계 미분이며 f ( 0 ) = f ( x ) f^{(0)}=f(x) f ( 0 ) = f ( x ) 이다. 이는 보다시피 이항정리 와 형태가 매우 유사하다.
+
+증명 [펼치기·접기]
+수학적 귀납법 으로 증명하자. 증명하고자 하는 명제를 P ( n ) P(n) P ( n ) 이라 하면 P ( 1 ) P(1) P ( 1 ) 은 다음과 같다.
+
+( f g ) ′ = f ′ g + f g ′ (fg)'=f'g+fg' ( f g ) ′ = f ′ g + f g ′
+이며 이는 참이다. 이제 자연수 n n n 에 대하여 P ( n ) P(n) P ( n ) 이 참이면 P ( n + 1 ) P(n+1) P ( n + 1 ) 도 참임을 증명하자. 즉,
+
+( f g ) ( n ) = ∑ r = 0 n ( n r ) f ( n − r ) g ( r ) (fg)^{(n)}=\displaystyle\sum_{r=0}^n {{n}\choose{r}} f^{(n-r)}g^{(r)} ( f g ) ( n ) = r = 0 ∑ n ​ ( r n ​ ) f ( n − r ) g ( r )
+이 참임을 가정한 채 양변을 미분해 보자.
+
+( f g ) ( n + 1 ) = [ ∑ r = 0 n ( n r ) f ( n − r ) g ( r ) ] ′ = ∑ r = 0 n ( n r ) f ( n + 1 − r ) g ( r ) + ∑ r = 0 n ( n r ) f ( n − r ) g ( r + 1 ) = ∑ r = 0 n ( n r ) f ( n + 1 − r ) g ( r ) + ∑ r = 1 n + 1 ( n r − 1 ) f ( n + 1 − r ) g ( r ) = ( n 0 ) f ( n + 1 ) g + ∑ r = 1 n ( n r ) f ( n + 1 − r ) g ( r ) + ∑ r = 1 n ( n r − 1 ) f ( n + 1 − r ) g ( r ) + ( n n ) f g ( n + 1 ) = ( n + 1 0 ) f ( n + 1 ) g + ( ∑ r = 1 n [ ( n r − 1 ) + ( n r ) ] f ( n + 1 − r ) g ( r ) ) + ( n + 1 n + 1 ) f g ( n + 1 ) = ( n + 1 0 ) f ( n + 1 ) g + ∑ r = 1 n ( n + 1 r ) f ( n + 1 − r ) g ( r ) + ( n + 1 n + 1 ) f g ( n + 1 ) = ∑ r = 0 n + 1 ( n + 1 r ) f ( n + 1 − r ) g ( r ) \begin{aligned}(fg)^{(n+1)}&=\left[\displaystyle\sum_{r=0}^n{{n}\choose{r}}f^{(n-r)}g^{(r)}\right]'\\&=\sum_{r=0}^n\binom{n}{r}f^{(n+1-r)}g^{(r)}+\sum_{r=0}^n\binom{n}{r}f^{(n-r)}g^{(r+1)}\\&=\sum_{r=0}^n\binom{n}{r}f^{(n+1-r)}g^{(r)}+\sum_{r=1}^{n+1}\binom{n}{r-1}f^{(n+1-r)}g^{(r)}\\&=\binom{n}{0}f^{(n+1)}g+\sum_{r=1}^{n}\binom{n}{r}f^{(n+1-r)}g^{(r)}+\sum_{r=1}^n\binom{n}{r-1}f^{(n+1-r)}g^{(r)}+\binom{n}{n} fg^{(n+1)}\\&=\binom{n+1}{0} f^{(n+1)}g+\left(\sum_{r=1}^n\left[\binom{n}{r-1}+\binom{n}{r} \right]f^{(n+1-r)} g^{(r)} \right)+\binom{n+1}{n+1}fg^{(n+1)}\\&=\binom{n+1}{0} f^{(n+1)}g+\sum_{r=1}^n \binom{n+1}{r}f^{(n+1-r)}g^{(r)}+\binom{n+1}{n+1}fg^{(n+1)}\\&=\sum_{r=0}^{n+1}\binom{n+1}{r}f^{(n+1-r)}g^{(r)}\end{aligned} ( f g ) ( n + 1 ) ​ = [ r = 0 ∑ n ​ ( r n ​ ) f ( n − r ) g ( r ) ] ′ = r = 0 ∑ n ​ ( r n ​ ) f ( n + 1 − r ) g ( r ) + r = 0 ∑ n ​ ( r n ​ ) f ( n − r ) g ( r + 1 ) = r = 0 ∑ n ​ ( r n ​ ) f ( n + 1 − r ) g ( r ) + r = 1 ∑ n + 1 ​ ( r − 1 n ​ ) f ( n + 1 − r ) g ( r ) = ( 0 n ​ ) f ( n + 1 ) g + r = 1 ∑ n ​ ( r n ​ ) f ( n + 1 − r ) g ( r ) + r = 1 ∑ n ​ ( r − 1 n ​ ) f ( n + 1 − r ) g ( r ) + ( n n ​ ) f g ( n + 1 ) = ( 0 n + 1 ​ ) f ( n + 1 ) g + ( r = 1 ∑ n ​ [ ( r − 1 n ​ ) + ( r n ​ ) ] f ( n + 1 − r ) g ( r ) ) + ( n + 1 n + 1 ​ ) f g ( n + 1 ) = ( 0 n + 1 ​ ) f ( n + 1 ) g + r = 1 ∑ n ​ ( r n + 1 ​ ) f ( n + 1 − r ) g ( r ) + ( n + 1 n + 1 ​ ) f g ( n + 1 ) = r = 0 ∑ n + 1 ​ ( r n + 1 ​ ) f ( n + 1 − r ) g ( r ) ​
+이 결과는 P ( n + 1 ) P(n+1) P ( n + 1 ) 그 자체이므로 모든 자연수 n n n 에 대하여 P ( n ) P(n) P ( n ) 이 증명되었다.
+
+이항정리와의 유사성을 이용한, 좀 덜 엄밀하지만 더 직관적인 증명도 있다.
+증명 [펼치기·접기]
+a m b n {a^m}{b^n} a m b n 에 a + b a+b a + b 가 곱해질 때 나오는 결과를 보자.
+a m b n × ( a + b ) = a m + 1 b n + a m b n + 1 {a^m}{b^n}\times(a+b)={a^{m+1}}{b^n}+{a^m}{b^{n+1}} a m b n × ( a + b ) = a m + 1 b n + a m b n + 1
+이 식은 f ( m ) ( x ) g ( n ) ( x ) f^{(m)}(x)g^{(n)}(x) f ( m ) ( x ) g ( n ) ( x ) 를 미분한 결과인 f ( m + 1 ) ( x ) g ( n ) ( x ) + f ( m ) ( x ) g ( n + 1 ) ( x ) f^{(m+1)}(x)g^{(n)}(x)+f^{(m)}(x)g^{(n+1)}(x) f ( m + 1 ) ( x ) g ( n ) ( x ) + f ( m ) ( x ) g ( n + 1 ) ( x ) 와 형태가 같다.
+그러므로 ∑ c i j f ( i ) ( x ) g ( j ) ( x ) \displaystyle\sum{c_{ij}f^{(i)}(x)g^{(j)}(x)} ∑ c ij ​ f ( i ) ( x ) g ( j ) ( x ) 를 한 번 미분한 식의 계수는 ∑ c i j a i b j \displaystyle\sum{c_{ij}a^{i}b^{j}} ∑ c ij ​ a i b j 에 a + b a+b a + b 를 곱한 식의 계수와 같다. 따라서, 이항정리에 의해 라이프니츠 법칙이 증명되었다.
+
+3.3. 여러 함수의 곱의 여러 번 미분 [편집]
+n n n 번 미분가능한 m m m 개의 함수 f 1 , ⋯ , f n f_1,\,\cdots,\,f_n f 1 ​ , ⋯ , f n ​ 이라 하면
+
+( f 1 f 2 ⋯ f m ) ( n ) = ∑ k 1 + k 2 + ⋯ + k m = n ( n k 1 , k 2 , … , k m ) ∏ 1 ≤ t ≤ m f t ( k t ) \left(f_1 f_2 \cdots f_m\right)^{(n)}=\displaystyle\sum_{k_1+k_2+\cdots+k_m=n} {n \choose k_1, k_2, \ldots, k_m}\prod_{1\le t\le m}f_{t}^{(k_{t})} ( f 1 ​ f 2 ​ ⋯ f m ​ ) ( n ) = k 1 ​ + k 2 ​ + ⋯ + k m ​ = n ∑ ​ ( k 1 ​ , k 2 ​ , … , k m ​ n ​ ) 1 ≤ t ≤ m ∏ ​ f t ( k t ​ ) ​
+이는 보다시피 다항정리 와 형태가 매우 유사하다. 이것을 함수 2개인 경우에 대해 적은 것이 일반 라이프니츠 규칙이다.
+
+4. 삼각함수의 곱미분 [편집]
+F ( x ) = f ( x ) g ( x ) F(x) = f(x)g(x) F ( x ) = f ( x ) g ( x ) 에서 곱미분에 의해 F ′ ( x ) = f ′ ( x ) g ( x ) + f ( x ) g ′ ( x ) F'(x) = f'(x)g(x) + f(x)g'(x) F ′ ( x ) = f ′ ( x ) g ( x ) + f ( x ) g ′ ( x ) 이다.
+
+한편, f ( x ) = g ( x ) f(x) = g(x) f ( x ) = g ( x ) 로 놓으면 { g ( x ) g ( x ) } ′ = g ′ ( x ) g ( x ) + g ( x ) g ′ ( x ) = 2 g ( x ) g ′ ( x ) \left\{g(x)g(x) \right\}'= g'(x)g(x) + g(x)g'(x) = 2 g(x)g'(x) { g ( x ) g ( x ) } ′ = g ′ ( x ) g ( x ) + g ( x ) g ′ ( x ) = 2 g ( x ) g ′ ( x )
+
+따라서 [ { g ( x ) } n ] ′ = n { g ( x ) } n − 1 g ′ ( x ) \left[ \left\{ g(x) \right\}^n \right]' = n \left\{ g(x) \right\}^{n-1} g'(x) [ { g ( x ) } n ] ′ = n { g ( x ) } n − 1 g ′ ( x )
+
+임을 알 수 있다. g ( x ) = sin ⁡ x g(x) = \sin x g ( x ) = sin x 를 대입하면 아래와 같은 식을 얻는다. { sin ⁡ n x } ′ = n sin ⁡ n − 1 x sin ⁡ ′ x = n sin ⁡ n − 1 x cos ⁡ x \left\{ \sin^n x \right\}' = n \sin^{n-1} x \sin' x = n \sin^{n-1} x \cos x { sin n x } ′ = n sin n − 1 x sin ′ x = n sin n − 1 x cos x
+
+4.1. 삼각함수의 미분 예 [편집]
+- sin ⁡ 2 x \sin^2 x sin 2 x 의 미분: ( sin ⁡ 2 x ) ′ = 2 sin ⁡ x sin ⁡ ′ x = 2 sin ⁡ x cos ⁡ x \displaystyle \left( \sin^2 x \right)' = 2 \sin x \sin' x = 2 \sin x \cos x ( sin 2 x ) ′ = 2 sin x sin ′ x = 2 sin x cos x
+
+5. 곱미분과 부분적분의 관계 [편집]
+- 두 함수 간 곱미분에서 식을 조작하고 양변에 적분 기호를 씌우면 부분적분 의 정의식이 탄생한다.
+
+6. 고등학교 교육과정 [편집]
+- 6차 교육과정: 수학Ⅰ
+- 7차 교육과정: 수학Ⅱ
+- 2007 개정 교육과정: 미적분과 통계 기본 · 수학Ⅱ
+- 2009 개정 교육과정: 미적분Ⅰ
+- 2015 개정 교육과정: 수학Ⅱ
+- 2022 개정 교육과정: 미적분Ⅰ
+- 일차 다항식 의 곱으로만 이루어진 다항함수 의 미분계수 를 구하는 공식도 곱미분으로 유도된다. 다항함수/공식 참고.
+
+7. 여담 [편집]
+- 라이프니츠 는 처음에 곱미분이 분배법칙 과 같은 법칙을 따른다고 추측했다. 즉, 여러 함수들의 곱으로 이루어진 함수식 전체를 미분한 함수는, 각 함수들의 도함수들의 곱과 같다고 생각했다. 하지만 이 추측이 틀렸음을 알고난 뒤에 곱의 미분법을 발견했다.
+
+- 사각형을 이용해서 곱의 미분법의 기본 원리를 이해할 수 있다. 가로와 세로의 각각의 증분을 이용한 뒤, 가로와 세로의 곱의 전체 변화량을 식으로 나타내고, 가로와 세로가 x에 대한 함수라고 가정한 다음, 양변을 x의 증분으로 나눈 다음 유도할 수 있다.
+
+[ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 남동구알바 쿠팡
+www.coupang.com v-if
+[ [ 로켓배송 ] [ 로켓직구 ] [ 골드박스 ] [ 로켓프레시 ] ]
+흥미진진한 남동구알바, 밤새도록 읽는 재미에 빠져보세요.
+
+] | [ 인천남동구,서울365치과의원
+seoul365dental.com v-if
+박준규 대표원장, 인천 남동구 예술로 138 212~214호
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

@@ -1,0 +1,249 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 절대 연속 측도
+최근 수정 시각: 2025-05-10 10:04:21 [ [ [ ] [ [ 2 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ [ 라돈-니코딤 도함수 에서 넘어옴 ] 분류 [ - 해석학(수학)
+- 확률론
+- 크기
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 정의 및 성질 2.1 . 부호 측도 2.1.1 . 분해 정리 2.1.2 . 성질 2.2 . 절대 연속 측도 2.2.1 . 라돈-니코딤 도함수 2.3 . 복소 측도 2.4 . 유계 변동 함수 2.4.1 . 절대 연속 함수 3 . 적용 3.1 . 미적분의 기본정리 의 확장 3.1.1 . 제1 기본정리의 확장 3.1.2 . 제2 기본정리의 확장 3.2 . Lp 공간의 쌍대성 3.3 . 조건부 기댓값
+
+1. 개요 [편집]
+절대 연속 측도는 측도 공간의 가측 집합 E E E 와 적분 가능한 함수 f f f 에 대하여 적분 ∫ E f d μ \int_E f \, d\mu ∫ E ​ f d μ 에서 일반화된 측도이다. 절대 연속 측도는 영역이 갖는 밀도를 이용해 구하는 무게, 영역에 가해진 압력으로부터 계산된 하중 등의 개념에 빗대어 이해할 수 있다.
+
+2. 정의 및 성질 [편집]
+
+2.1. 부호 측도 [편집]
+부호 측도는 측도 의 일반화로, 음수를 가질 수 있는 측도이다. 측도공간 ( X , M ) (X,\ \mathcal{M}) ( X , M ) 에 대하여 다음 조건을 만족시키는 함수 ν : M → [ − ∞ , ∞ ] \nu:\mathcal{M}\to[-\infty,\ \infty] ν : M → [ − ∞ , ∞ ] 를 ( X , M ) (X,\ \mathcal{M}) ( X , M ) 위의 부호 측도 라고 한다. - 서로소 집합렬 { E n } ⊆ M \{E_n\}\subseteq \mathcal{M} { E n ​ } ⊆ M 에 대하여 ν ( ⋃ n = 1 ∞ E n ) = ∑ n = 1 ∞ ν ( E n ) \nu(\bigcup_{n=1}^\infty E_n)=\sum_{n=1}^\infty\nu(E_n) ν ( ⋃ n = 1 ∞ ​ E n ​ ) = ∑ n = 1 ∞ ​ ν ( E n ​ )
+- ν \nu ν 는 양의 무한대와 음의 무한대 중 많아야 한 가지 값만을 취할 수 있다.
+
+상술된 조건에 의해 합 ∑ n = 1 ∞ ν ( E n ) \sum_{n=1}^\infty\nu(E_n) ∑ n = 1 ∞ ​ ν ( E n ​ ) 이 수렴하면 ∑ n = 1 ∞ ν ( E n ) \sum_{n=1}^\infty\nu(E_n) ∑ n = 1 ∞ ​ ν ( E n ​ ) 은 E n E_n E n ​ 의 재배열과 관계없이 일정한 값을 가져야 한다. 만약 ∑ n = 1 ∞ ν ( E n ) \sum_{n=1}^\infty\nu(E_n) ∑ n = 1 ∞ ​ ν ( E n ​ ) 이 조건수렴하면 리만 재배열 정리 에 의해 재배열 급수의 값이 달라질 수 있으므로 ∑ n = 1 ∞ ν ( E n ) \sum_{n=1}^\infty\nu(E_n) ∑ n = 1 ∞ ​ ν ( E n ​ ) 은 절대수렴한다. 또한 ν ( ∅ ) = ν ( ∅ ∪ ∅ ) = 2 ν ( ∅ ) \nu(\emptyset)=\nu(\emptyset\cup\emptyset)=2\nu(\emptyset) ν ( ∅ ) = ν ( ∅ ∪ ∅ ) = 2 ν ( ∅ ) 이므로 ν ( ∅ ) = 0 \nu(\emptyset)=0 ν ( ∅ ) = 0 이다.
+
+측도 공간 ( X , M , μ ) (X,\ \mathcal{M},\ \mu) ( X , M , μ ) 와 ∫ f + d μ \int f^+\, d\mu ∫ f + d μ 또는 ∫ f − d μ \int f^-\, d\mu ∫ f − d μ 가 유한인 함수 f : X → [ − ∞ , ∞ ] f:X\to[-\infty,\ \infty] f : X → [ − ∞ , ∞ ] 에 대하여
+
+ν ( E ) = ∫ E f d μ \displaystyle\nu(E)=\int_E f\,d\mu ν ( E ) = ∫ E ​ f d μ
+로 정의된 함수 ν : X → [ − ∞ , ∞ ] \nu:X\to[-\infty,\ \infty] ν : X → [ − ∞ , ∞ ] 는 부호 측도이다. 이와 같이 정의된 부호 측도는 라돈-니코딘 도함수의 정의 과정에서 핵심적인 역할을 한다.
+
+부호 측도와의 구분을 위해 양의 값만을 갖는 측도를 양측도라고 하기도 한다. 부호측도 ν \nu ν 와 가측 집합 E ∈ E E\in\mathcal{E} E ∈ E 에 대하여 E E E 의 모든 부분집합 F ∈ M F\in\mathcal{M} F ∈ M 에서 ν ( F ) > 0 \nu(F)>0 ν ( F ) > 0 , ν ( F ) = 0 \nu(F)=0 ν ( F ) = 0 , ν ( F ) < 0 \nu(F)<0 ν ( F ) < 0 일 때, E E E 를 각각 ν \nu ν 에 대한 양집합, 영집합, 음집합이라고 한다.
+
+부호 측도 ν \nu ν 는 아래의 분해 정리에 의해 두 양측도 ν + , ν − \nu^+,\ \nu^- ν + , ν − 의 차로 유일하게 나타낼 수 있다. 부호 측도의 ν = ν + − ν − \nu=\nu^+-\nu^- ν = ν + − ν − 표현을 ν \nu ν 의 조르단 분해 라고 한다. 이는 가측함수 f f f 를 양수 부분과 음수 부분의 차 f + − f − f^+ - f^- f + − f − 로 나타내는 것과 유사하다. ν \nu ν 의 조르단 분해에서 ν + \nu^+ ν + 와 ν − \nu^- ν − 를 각각 ν \nu ν 의 양변동 과 음변동 이라고 하며, ∣ ν ∣ = ν + + ν −|\nu|=\nu^++\nu^- ∣ ν ∣ = ν + + ν − 를 ν \nu ν 의 전변동 이라고 한다. 전변동이 유한(또는 σ \sigma σ -유한) 측도인 부호측도를 유한(또는 σ \sigma σ -유한) 부호 측도 라고 한다.
+
+부호 측도 ν \nu ν 에 대한 적분은 그 조르단 분해로부터 자연스럽게 정의된다.
+
+L 1 ( ν ) = L 1 ( ν + ) ∩ L 1 ( ν − ) , ∫ f d ν = ∫ f d ν + − ∫ f d ν − ( f ∈ L 1 ( ν ) ) \begin{aligned}L^1(\nu)&=L^1(\nu^+)\cap L^1(\nu^-),\\\displaystyle\int f\,d\nu&=\int f\,d\nu^+-\int f\, d\nu^-\quad(f\in L^1(\nu))\end{aligned} L 1 ( ν ) ∫ f d ν ​ = L 1 ( ν + ) ∩ L 1 ( ν − ) , = ∫ f d ν + − ∫ f d ν − ( f ∈ L 1 ( ν )) ​
+
+2.1.1. 분해 정리 [편집]
+부호 측도의 조르단 분해는 정의역 X X X 의 분할로부터 얻어진다. 한 분해 정리 (The Hahn Decomposition Theorem) 가측공간 X , M X,\ \mathcal{M} X , M 위의 부호 측도 ν \nu ν 에 대하여 다음 조건을 만족시키는 X X X 의 분할 { P , N } \{P,\ N\} { P , N } 이 존재한다.
+
+P P P 와 N N N 은 각각 ν \nu ν 에 대한 양집합과 음집합이다.
+
+위 정리로부터 얻은 분할 X = P ∪ N X=P\cup N X = P ∪ N 를 ν \nu ν 에 대한 한 분해 라고 한다. 한 분해는 유일하지 않으나, X = P ′ ∪ N ′ X=P^\prime\cup N^\prime X = P ′ ∪ N ′ 이 X X X 의 또다른 한 분해일 경우 ν ( P △ P ′ ) = ν ( N △ N ′ ) = 0 \nu(P\triangle P^\prime)=\nu(N\triangle N^\prime)=0 ν ( P △ P ′ ) = ν ( N △ N ′ ) = 0 이다.
+
+가측 공간 ( X , M ) (X,\ \mathcal{M}) ( X , M ) 위의 두 부호 측도 μ , ν \mu,\ \nu μ , ν 가 X X X 의 두 가측 집합에 의한 분할 X = E ∪ ˙ F X=E\dot{\cup}F X = E ∪ ˙ F 에 대하여 μ ( F ) = ν ( E ) = 0 \mu(F)=\nu(E)=0 μ ( F ) = ν ( E ) = 0 을 만족시키면 두 부호 측도는 상호 특이 라 하고 μ ⊥ ν \mu\perp\nu μ ⊥ ν 로 나타낸다.
+
+집합 X X X 의 한 분해 위에서 부호 측도 ν \nu ν 는 상호 특이 양측도의 합으로 유일하게 분해된다. 조르단 분해 정리 (The Jordan Decomposition Theorem) 가측공간 X , M X,\ \mathcal{M} X , M 위의 부호 측도 ν \nu ν 에 대하여 ν = ν + − ν − \nu=\nu^+-\nu^- ν = ν + − ν − 를 만족시키는 상호 특이 양측도 ν + , ν − \nu^+,\ \nu^- ν + , ν − 가 유일하게 존재한다.
+
+2.1.2. 성질 [편집]
+가측 공간 ( X , M ) (X,\ \mathcal{M}) ( X , M ) 위의 부호 측도 ν \nu ν 와 μ \mu μ 에 대하여 다음이 성립한다. - (Continuity from below) M \mathcal{M} M 의 증가집합열 { E k } \{E_k\} { E k ​ } 에 대하여 ν ( ⋃ k = 1 ∞ E k ) = lim ⁡ k → ∞ ν ( E k ) \nu\left(\bigcup_{k=1}^{\infty}E_k\right)=\lim_{k\to\infty}\nu(E_k) ν ( ⋃ k = 1 ∞ ​ E k ​ ) = lim k → ∞ ​ ν ( E k ​ ) 이다.
+- (Continuity from above) M \mathcal{M} M 의 ν ( E 1 ) < ∞ \nu(E_1)<\infty ν ( E 1 ​ ) < ∞ 인 감소집합열 { E k } \{E_k\} { E k ​ } 에 대하여 ν ( ⋂ k = 1 ∞ E k ) = lim ⁡ k → ∞ ν ( E k ) \nu\left(\bigcap_{k=1}^{\infty}E_k\right)=\lim_{k\to\infty}\nu(E_k) ν ( ⋂ k = 1 ∞ ​ E k ​ ) = lim k → ∞ ​ ν ( E k ​ ) 이다.
+- E ∈ M E\in\mathcal{M} E ∈ M 에 대하여 ν ( E ) = 0 ⟺ ∣ ν ∣ ( E ) = 0 \nu(E)=0\Longleftrightarrow|\nu|(E)=0 ν ( E ) = 0 ⟺ ∣ ν ∣ ( E ) = 0 .
+- ν ⊥ μ ⟺ ∣ ν ∣ ⊥ μ ⟺ ν + ⊥ μ and ν − ⊥ μ \nu\perp\mu\Longleftrightarrow|\nu|\perp\mu\Longleftrightarrow\nu^+\perp\mu\text{ and }\nu^-\perp\mu ν ⊥ μ ⟺ ∣ ν ∣ ⊥ μ ⟺ ν + ⊥ μ and ν − ⊥ μ .
+- ν \nu ν 와 μ \mu μ 가 모두 유한 부호 측도일 경우, ∣ ν + μ ∣ ≤ ∣ ν ∣ + ∣ μ ∣|\nu+\mu|\leq|\nu|+|\mu| ∣ ν + μ ∣ ≤ ∣ ν ∣ + ∣ μ ∣ .
+- L 1 ( ν ) = L 1 ( ∣ ν ∣ ) L^1(\nu)=L^1(|\nu|) L 1 ( ν ) = L 1 ( ∣ ν ∣ ) .
+- f ∈ L 1 ( ν ) f\in L^1(\nu) f ∈ L 1 ( ν ) 에 대하여 ∣ ∫ f d ν ∣ ≤ ∫ ∣ f ∣ d ∣ ν ∣|\int f\, d\nu|\leq \int |f|\, d|\nu| ∣ ∫ f d ν ∣ ≤ ∫ ∣ f ∣ d ∣ ν ∣ .
+
+2.2. 절대 연속 측도 [편집]
+가측 공간 X , M X,\ \mathcal{M} X , M 위의 부호 측도 ν \nu ν 와 양측도 μ \mu μ 가 다음을 만족시키면 ν \nu ν 는 μ \mu μ 에 대하여 절대 연속 이라 하고 ν ≪ μ \nu\ll\mu ν ≪ μ 로 나타낸다.
+
+μ ( E ) = 0 \mu(E)=0 μ ( E ) = 0 인 임의의 E ∈ M E\in\mathcal{M} E ∈ M 에 대하여 ν ( E ) = 0 \nu(E)=0 ν ( E ) = 0 이다.
+두 부호 측도의 절대 연속과 상호 특이는 대립적인 성질이다. 즉 ν ⊥ μ \nu\perp\mu ν ⊥ μ 이고 동시에 ν ≪ μ \nu\ll\mu ν ≪ μ 이면 ν = 0 \nu=0 ν = 0 으로, ν = 0 \nu=0 ν = 0 을 제외하면 ν \nu ν 는 동시에 μ \mu μ 에 대하여 절대연속이며 상호 특이일 수 없다.
+
+유한 부호 측도의 절대 연속성의 정의는 ϵ − δ \epsilon-\delta ϵ − δ 논법으로 표현할 수 있다. 측도 공간 ( X , M ) (X,\ \mathcal{M}) ( X , M ) 위의 유한 부호 측도 ν \nu ν 와 양측도 μ \mu μ 에 대하여 ν ≪ μ \nu\ll\mu ν ≪ μ 의 필요충분조건은 임의의 ϵ > 0 \epsilon>0 ϵ > 0 에 대하여 μ ( E ) < δ ⇒ ∣ ν ( E ) ∣ < ϵ \mu(E)<\delta\Rightarrow |\nu(E)|<\epsilon μ ( E ) < δ ⇒ ∣ ν ( E ) ∣ < ϵ 을 만족시키는 δ > 0 \delta>0 δ > 0 가 존재하는 것이다.
+
+측도 공간 ( X , M ) (X,\ \mathcal{M}) ( X , M ) 위의 μ \mu μ 와 μ \mu μ -적분 가능 함수 f : X → [ − ∞ , ∞ ] f:X\to[-\infty,\ \infty] f : X → [ − ∞ , ∞ ] 에 대하여 ν ( E ) = ∫ E f d μ \nu(E)=\int_E f\, d\mu ν ( E ) = ∫ E ​ f d μ 로 정의된 부호 측도 ν \nu ν 는 μ \mu μ 에 대한 절대 연속 측도이다. 이와 같이 정의된 식을 d ν = f d μ d\nu=f\,d\mu d ν = f d μ 와 같이 나타낸다.
+
+2.2.1. 라돈-니코딤 도함수 [편집]
+σ \sigma σ -유한 부호 측도 ν \nu ν 와 σ \sigma σ -유한 양측도 μ \mu μ 가 주어졌을 때 ν \nu ν 는 μ \mu μ 에 대하여 상호 특이인 측도와 절대연속인 측도로 분해할 수 있다. 르베그-라돈-니코딤 정리 (Lebesgue-Radon-Nikodym Theorem) 측도 공간 ( X , M ) (X,\ \mathcal{M}) ( X , M ) 위의 σ \sigma σ -유한 부호 측도 ν \nu ν 와 σ \sigma σ -유한 양측도 μ \mu μ 에 대하여 다음을 만족시키는 ( X , M ) (X,\ \mathcal{M}) ( X , M ) 위의 σ \sigma σ -유한 부호 측도 λ , ρ \lambda,\ \rho λ , ρ 가 유일하게 존재한다.
+
+λ ⊥ μ , ρ ≪ μ , ν = λ + ρ \lambda\perp\mu,\quad\rho\ll\mu,\quad \nu=\lambda+\rho λ ⊥ μ , ρ ≪ μ , ν = λ + ρ
+위의 ρ \rho ρ 에 대하여 d ρ = f d μ d\rho=f\, d\mu d ρ = f d μ 를 만족시키는 μ \mu μ -적분 가능 함수 f : X → [ 0 , ∞ ] f:X\to[0,\ \infty] f : X → [ 0 , ∞ ] 가 μ -a.e. \mu\text{-a.e.} μ -a.e. 유일하게 존재한다.
+
+르베그-라돈-니코딤 정리의 가정에서 ν ≪ μ \nu\ll\mu ν ≪ μ 인 경우 ρ = ν \rho=\nu ρ = ν 이다. 이를 라돈-니코딤 정리라고 한다. 즉, 라돈-니코딤 정리는 르베그-라돈-니코딤 정리에서 ν ≪ μ \nu\ll\mu ν ≪ μ 인 특별한 경우이다. 라돈-니코딤 정리 (Radon-Nikodym Theorem) 측도 공간 ( X , M ) (X,\ \mathcal{M}) ( X , M ) 위의 σ \sigma σ -유한 부호 측도 ν \nu ν 와 σ \sigma σ -유한 양측도 μ \mu μ 에 대하여 ν ≪ μ \nu\ll\mu ν ≪ μ 를 만족시키면 d ν = f d μ d\nu=f\,d\mu d ν = f d μ 인 μ \mu μ -적분 가능 가측함수 f : X → [ 0 , ∞ ] f:X\to[0,\ \infty] f : X → [ 0 , ∞ ] 가 μ -a.e. \mu\text{-a.e.} μ -a.e. 유일하게 존재한다.
+
+라돈-니코딤 정리의 함수 f f f 를 ν \nu ν 의 μ \mu μ 에 대한 라돈-니코딤 도함수 라고 하며, d ν / d μ d\nu/d\mu d ν / d μ 로 나타낸다. 따라서 ν \nu ν , μ \mu μ , f = d ν / d μ f=d\nu/d\mu f = d ν / d μ 사이의 관계식은 다음과 같이 표현된다.
+
+d ν = d ν d μ d μ \displaystyle d\nu=\frac{d\nu}{d\mu}d\mu d ν = d μ d ν ​ d μ
+라돈-니코딤 도함수는 적분 영역에 밀도를 부여하여 질량을 구하는 과정으로 이해할 수 있다. 질량( ν \nu ν )를 구하기 위해 밀도와 단위면적을 곱하여( f d μ f\, d\mu f d μ ) 합하는 것이다.
+
+또한 라돈-니코딘 도함수는 도함수의 일반화로, 선형성과 연쇄법칙 등 도함수의 성질을 유지한다. 가측공간 ( X , M ) (X,\ \mathcal{M}) ( X , M ) 위의 σ \sigma σ -유한 부호 측도 ν , ν ′ \nu,\ \nu^\prime ν , ν ′ 과 σ \sigma σ -유한 측도 σ , λ \sigma,\ \lambda σ , λ 가 ν , ν ′ ≪ μ ≪ λ \nu,\ \nu^\prime\ll\mu\ll\lambda ν , ν ′ ≪ μ ≪ λ 일 때, 다음이 성립한다. - d ( ν + ν ′ ) / d μ = ( d ν / d μ ) + ( d ν ′ / d μ ) d(\nu+\nu^\prime)/d\mu=(d\nu/d\mu)+(d\nu^\prime/d\mu) d ( ν + ν ′ ) / d μ = ( d ν / d μ ) + ( d ν ′ / d μ ) .
+- ν ≪ λ \nu\ll\lambda ν ≪ λ 이고 d ν d λ = d ν d μ d μ d λ ( λ -a.e. ) \displaystyle\frac{d\nu}{d\lambda}=\frac{d\nu}{d\mu}\frac{d\mu}{d\lambda}\quad (\lambda\text{-a.e.}) d λ d ν ​ = d μ d ν ​ d λ d μ ​ ( λ -a.e. ) .
+- g ∈ L 1 ( ν ) g\in L^1(\nu) g ∈ L 1 ( ν ) 에 대하여 g d ν d μ ∈ L 1 ( μ ) g\dfrac{d\nu}{d\mu}\in L^1(\mu) g d μ d ν ​ ∈ L 1 ( μ ) 이고 ∫ g d ν = ∫ g d ν d μ d μ \displaystyle\int g\, d\nu=\int g\dfrac{d\nu}{d\mu}\,d\mu ∫ g d ν = ∫ g d μ d ν ​ d μ .
+
+2.3. 복소 측도 [편집]
+가측 공간 ( X , M ) (X,\ \mathcal{M}) ( X , M ) 위의 복소 측도 는 다음 조건을 만족시키는 함수 ν : M → C \nu:\mathcal{M}\to\mathbb{C} ν : M → C 이다. - ν ( ∅ ) = 0 \nu(\emptyset)=0 ν ( ∅ ) = 0 .
+- 서로소 집합열 { E n } ⊆ M \{E_n\}\subseteq\mathcal{M} { E n ​ } ⊆ M 에 대하여 ν ( ⋃ n = 1 ∞ E n ) = ∑ n = 1 ∞ ν ( E n ) \nu(\bigcup_{n=1}^\infty E_n)=\sum_{n=1}^\infty \nu(E_n) ν ( ⋃ n = 1 ∞ ​ E n ​ ) = ∑ n = 1 ∞ ​ ν ( E n ​ ) 이고 우변의 급수는 절대수렴한다.
+
+복소 측도 ν \nu ν 는 두 부호 측도 실수부 ν r \nu_r ν r ​ 과 허수부 ν i \nu_i ν i ​ 의 합으로 표현된다. 복소 측도는 ∞ \infty ∞ 값을 가질 수 없고, 따라서 실수부와 허수부는 모두 유한 측도이다. 기존 부호 측도에서 정의된 개념은 복소 측도로 자연스럽게 확장된다. - L 1 ( ν ) = L 1 ( ν r ) ∩ L 1 ( ν i ) L^1(\nu)=L^1(\nu_r)\cap L^1(\nu_i) L 1 ( ν ) = L 1 ( ν r ​ ) ∩ L 1 ( ν i ​ )
+- 함수 f ∈ L 1 ( ν ) f\in L^1(\nu) f ∈ L 1 ( ν ) 에 대하여 ∫ f d ν = ∫ f d ν r + i ∫ f d ν i \int f\,d\nu=\int f\,d\nu_r +i\int f\, d\nu_i ∫ f d ν = ∫ f d ν r ​ + i ∫ f d ν i ​
+- 두 복소 측도 ν , μ \nu,\ \mu ν , μ 에 대하여 ν ⊥ μ ⟺ ν a ⊥ μ b ( a , b = r , i ) \nu\perp\mu\Longleftrightarrow\nu_a\perp\mu_b\ (a,\ b=r,\ i) ν ⊥ μ ⟺ ν a ​ ⊥ μ b ​ ( a , b = r , i )
+- 양측도 λ \lambda λ 에 대하여 μ ≪ λ ⟺ ν r ≪ λ and ν i ≪ λ \mu\ll\lambda \Longleftrightarrow \nu_r\ll\lambda \text{ and }\nu_i\ll\lambda μ ≪ λ ⟺ ν r ​ ≪ λ and ν i ​ ≪ λ
+
+르베그-라돈-니코딤 정리 또한 복소 측도로 확장된다.
+르베그-라돈-니코딤 정리 (Lebesgue-Radon-Nikodym Theorem) 측도 공간 ( X , M ) (X,\ \mathcal{M}) ( X , M ) 위의 복소 측도 ν \nu ν 와 σ \sigma σ -유한 양측도 μ \mu μ 에 대하여 다음을 만족시키는 ( X , M ) (X,\ \mathcal{M}) ( X , M ) 위의 유일한 복소 측도 λ \lambda λ 와 a.e. \text{a.e.} a.e. -유일한 함수 f ∈ L 1 ( μ ) f\in L^1(\mu) f ∈ L 1 ( μ ) 가 존재한다.
+
+λ ⊥ μ , d ν = d λ + f d μ \lambda\perp\mu,\quad d\nu=d\lambda+f\,d\mu λ ⊥ μ , d ν = d λ + f d μ
+
+2.4. 유계 변동 함수 [편집]
+보렐 σ \sigma σ -대수가 주어진 가측 공간 ( R , B R ) (\mathbb{R},\ \mathcal{B}_{\mathbb{R}}) ( R , B R ​ ) 위의 측도는 우연속 증가 함수의 확장으로 얻을 수 있으며, 역으로 측도를 이용하여 함수를 정의할 수 있다. 유계 변동 함수는 이처럼 보렐 가측 공간의 복소 측도와 대응되는 함수이다.
+
+복소 함수 F : R → C F:\mathbb{R}\to\mathbb{C} F : R → C 와 실수 x ∈ R x\in\mathbb{R} x ∈ R 에 대하여 다음을 함수 F F F 의 전변동 함수 라고 한다.
+
+T F ( x ) = sup ⁡ ∑ k = 1 n ∣ F ( x k ) − F ( x k − 1 ) ∣ T_F(x)=\displaystyle\sup\sum_{k=1}^n |F(x_k)-F(x_{k-1})| T F ​ ( x ) = sup k = 1 ∑ n ​ ∣ F ( x k ​ ) − F ( x k − 1 ​ ) ∣
+여기서 { x k } 1 n \{x_k\}_1^n { x k ​ } 1 n ​ 는 x n = x x_n=x x n ​ = x 인 임의의 단조 증가 유한 수열이다. T F ( ∞ ) = lim ⁡ x → ∞ T F ( x ) T_F(\infty)=\lim_{x\to\infty}T_F(x) T F ​ ( ∞ ) = lim x → ∞ ​ T F ​ ( x ) 가 유한할 경우, F F F 는 유계 변동 함수 라고 하며, 유계 변동 함수 공간을 B V BV B V 로 나타낸다. 유계 변동 함수는 다음과 같은 성질을 갖는다. - F ∈ B V ⟺ R e F ∈ B V and I m F ∈ B V F\in BV\Longleftrightarrow \mathrm{Re}\, F\in BV \text{ and }\mathrm{Im}\,F\in BV F ∈ B V ⟺ Re F ∈ B V and Im F ∈ B V
+- 실함수 F : R → R F:\mathbb{R}\to\mathbb{R} F : R → R 에 대하여 F ∈ B V F\in BV F ∈ B V 일 필요충분조건은 F F F 가 두 유계 증가 함수의 차로 표현 가능한 것이다. 이 때, F = 1 2 ( T F + F ) − 1 2 ( T F − F ) F=\dfrac{1}{2}(T_F+F)-\dfrac{1}{2}(T_F-F) F = 2 1 ​ ( T F ​ + F ) − 2 1 ​ ( T F ​ − F ) (조르단 분해)표현을 주로 활용한다.
+- F ∈ B V F\in BV F ∈ B V 에 대하여 모든 x ∈ R x\in\mathbb{R} x ∈ R 에서 좌극한과 우극한이 존재하며, F ( ± ∞ ) F(\pm\infty) F ( ± ∞ ) 은 유한하다.
+- F ∈ B V F\in BV F ∈ B V 에 대하여 F F F 의 불연속점 집합은 가산이다.
+- F ∈ B V F\in BV F ∈ B V 와 G ( x ) = F ( x + ) G(x)=F(x+) G ( x ) = F ( x + ) 에 대하여 거의 모든 점에서 F ′ , G ′ F^\prime,\ G^\prime F ′ , G ′ 이 존재하고 F ′ = G ′ F^\prime=G^\prime F ′ = G ′ 이다.
+
+F ∈ B V F\in BV F ∈ B V 에 대하여 G ( x ) = F ( x + ) − F ( − ∞ ) G(x)=F(x+)-F(-\infty) G ( x ) = F ( x + ) − F ( − ∞ ) 로 정의하면 G ∈ B V G\in BV G ∈ B V 는 우연속이고 G ( − ∞ ) = 0 G(-\infty)=0 G ( − ∞ ) = 0 이다. 이와 같은 함수를 유계 변동 함수의 정규화라고 하며, 정규 유계 변동 함수의 집합을 N B V N\, BV N B V 로 나타낸다. 즉,
+
+{ F ∈ B V : F is right continuous and F ( − ∞ ) = 0 } \{F\in BV:F\text{ is right continuous and }F(-\infty)=0\} { F ∈ B V : F is right continuous and F ( − ∞ ) = 0 }
+이다. R \mathbb{R} R 의 복소 보렐 측도는 N B V N\,BV N B V 의 함수를 결정하며 그 역 또한 성립한다. 정리 R \mathbb{R} R 위의 복소 보렐 측도 μ \mu μ 에 대하여 F ( x ) = μ ( ( − ∞ , x ] F(x)=\mu((-\infty,\ x] F ( x ) = μ (( − ∞ , x ] 로 정의된 함수 F F F 는 정규 유계 변동 함수이다. 반대로 F ∈ N B V F\in N\,BV F ∈ N B V 에 대하여 F ( x ) = μ F ( ( − ∞ , x ] ) F(x)=\mu_F((-\infty,\ x]) F ( x ) = μ F ​ (( − ∞ , x ]) 를 만족시키는 유일한 보렐 측도 μ F \mu_F μ F ​ 가 존재하며, ∣ μ F ∣ = μ T F|\mu_F|=\mu_{T_F} ∣ μ F ​ ∣ = μ T F ​ ​ 이다.
+
+위 정리에 따라 복소 보렐 측도와 정규 유계 변동 함수는 일대일 대응하므로 복소 보렐 측도와 르베그 측도 사이의 상호 특이성과 절대 연속성 또한 해당 측도에 대응하는 정규 유계 변동 함수에 관하여 표현 가능하다. F ∈ N B V F\in N\, BV F ∈ N B V 에 대하여 F ′ ∈ L 1 ( m ) F^\prime \in L^1(m) F ′ ∈ L 1 ( m ) 이고, 다음이 성립한다.
+
+μ F ⊥ m ⟺ F ′ = 0 μ F ≪ m ⟺ ∫ − ∞ x F ′ ( t ) d t \begin{aligned}\mu_F\perp m &\Longleftrightarrow F^\prime=0\\ \mu_F\ll m &\Longleftrightarrow \displaystyle \int_{-\infty}^x F^\prime (t)\, dt\end{aligned} μ F ​ ⊥ m μ F ​ ≪ m ​ ⟺ F ′ = 0 ⟺ ∫ − ∞ x ​ F ′ ( t ) d t ​
+
+2.4.1. 절대 연속 함수 [편집]
+함수 F : R → C F:\mathbb{R\to C} F : R → C 가 임의의 ϵ > 0 \epsilon>0 ϵ > 0 과 임의의 유한개 서로소 구간 ( a 1 , b 1 ) , … , ( a n , b n ) (a_1,\ b_1),\ \ldots\ ,\ (a_n,\ b_n) ( a 1 ​ , b 1 ​ ) , … , ( a n ​ , b n ​ ) 에 대하여 다음을 만족시키는 δ > 0 \delta>0 δ > 0 가 존재하면 절대 연속 이라고 한다.
+
+∑ k = 1 n ( b k − a k ) < δ ⟹ ∑ k = 1 n ∣ F ( b k ) − F ( a k ) ∣ < ϵ \displaystyle \sum_{k=1}^n (b_k-a_k)<\delta\Longrightarrow \sum_{k=1}^n |F(b_k)-F(a_k)|<\epsilon k = 1 ∑ n ​ ( b k ​ − a k ​ ) < δ ⟹ k = 1 ∑ n ​ ∣ F ( b k ​ ) − F ( a k ​ ) ∣ < ϵ
+위 정의는 n = 1 n=1 n = 1 일 때 균등 연속의 정의와 같으므로, 절대 연속 함수는 균등 연속이다. 정규 유계 변동 함수의 절대 연속성은 그에 대응하는 보렐 측도의 절대 연속성과 일치한다. 즉, F ∈ N B V F\in N\, BV F ∈ N B V 에 대하여 F F F 가 절대 연속 함수일 필요 충분 조건은 μ F ≪ m \mu_F\ll m μ F ​ ≪ m 이다. 따라서 유계 변동 함수에 대하여 절대 연속성은 a.e. \text{a.e.} a.e. -미분 가능성과 동치이고 다음이 성립한다. 정리 f ∈ L 1 ( m ) f\in L^1(m) f ∈ L 1 ( m ) 에 대하여 F ( x ) = ∫ − ∞ x f ( t ) d t F(x)=\int_{-\infty}^x f(t)\, dt F ( x ) = ∫ − ∞ x ​ f ( t ) d t 라고 하면 F F F 는 정규 유계 변동 함수이고 절대 연속이다. 또한 f = F ′ f=F^\prime f = F ′ 이다. 반대로, 정규 유계 변동 함수 F F F 가 절대 연속이면 F ′ ∈ L 1 ( m ) F^\prime\in L^1(m) F ′ ∈ L 1 ( m ) 이고 F ( x ) = ∫ − ∞ x F ′ ( t ) d t F(x)=\int_{-\infty}^x F^\prime (t)\, dt F ( x ) = ∫ − ∞ x ​ F ′ ( t ) d t 이다.
+
+3. 적용 [편집]
+
+3.1. 미적분의 기본정리 의 확장 [편집]
+미적분학의 기본정리는 다음과 같다. 미적분의 기본정리 (제1 기본정리) 리만 적분 가능 함수 f : [ a , b ] → R f:[a,\ b]\to\mathbb{R} f : [ a , b ] → R 에 대하여 함수 F ( x ) = ∫ a x f ( t ) d t F(x)=\int_a^x f(t)\,dt F ( x ) = ∫ a x ​ f ( t ) d t 는 립시츠 연속이다. f f f 가 연속이면 F F F 는 미분 가능하고 F ′ = f F^\prime =f F ′ = f 이다.
+(제2 기본정리) 리만 적분 가능 함수 f : [ a , b ] → R f:[a,\ b]\to\mathbb{R} f : [ a , b ] → R 에 대하여 미분 가능 함수 F : [ a , b ] → R F:[a,\ b]\to\mathbb{R} F : [ a , b ] → R 가 F ′ = f F^\prime=f F ′ = f 를 만족시키면 ∫ a b f ( x ) d x = F ( b ) − F ( a ) \int_a^b f(x)\,dx=F(b)-F(a) ∫ a b ​ f ( x ) d x = F ( b ) − F ( a ) 이다.
+
+3.1.1. 제1 기본정리의 확장 [편집]
+제1 기본정리에서 함수 f f f 의 연속성이 가정되지 않은 경우 함수 F F F 의 [ a , b ] [a,\ b] [ a , b ] 에서 미분 불가능한 점이 존재할 수 있어 F F F 의 [ a , b ] [a,\ b] [ a , b ] 에서 미분 가능성은 보장되지 않는다. 그러나 르베그 적분과 측도론의 관점에서 F F F 는 [ a , b ] [a,\ b] [ a , b ] 의 거의 모든 점에서 미분 가능하다. 또한, 정리의 적용 범위를 R n \mathbb{R}^n R n 위의 복소 함수로 확장 가능하다. 따라서 이 문단에서는 르베그 측도 공간 ( R n , L n , m ) (\mathbb{R^n},\ \mathcal{L^n},\ m) ( R n , L n , m ) 에서의 적분을 다룬다.
+
+제1 기본정리를 르베그 적분으로 확장하는 과정에서 함수의 리만 적분 가능성은 국소적 적분 가능성으로 대체된다. 가측 함수 f : R n → C f:\mathbb{R^n\to C} f : R n → C 가 임의의 유계 가측함수 K ⊂ R n K\subset\mathbb{R^n} K ⊂ R n 위에서 적분 가능할 때, f f f 는 국소적 적분 가능 함수라고 하며 국소적 적분 가능 함수 공간을 L l o c 1 L_{\rm loc}^1 L loc 1 ​ 로 나타낸다.
+
+먼저, 대표적인 유계 가측 집합 열린 구 B ( r , x ) ( x ∈ R n , r > 0 ) B(r,\ x)\ (x\in\mathbb{R^n},\ r>0) B ( r , x ) ( x ∈ R n , r > 0 ) 위에서의 적분에 대하여 논한다. 함수 f ∈ L l o c 1 f\in L_{\rm loc}^1 f ∈ L loc 1 ​ 의 B ( r , x ) B(r,\ x) B ( r , x ) 위에서의 적분으로 정의된 함수 ∫ B ( r , x ) f ( t ) d t \int_{B(r,\ x)}f(t)\,dt ∫ B ( r , x ) ​ f ( t ) d t 의 미분은
+
+A r f ( x ) = 1 m ( B ( r , x ) ) ∫ B ( r , x ) f ( t ) d t \displaystyle A_rf(x)=\frac{1}{m(B(r,\ x))}\int_{B(r,\ x)}f(t)\,dt A r ​ f ( x ) = m ( B ( r , x )) 1 ​ ∫ B ( r , x ) ​ f ( t ) d t
+의 극한값이다. 실제로, f ∈ L l o c 1 f\in L_{\rm loc}^1 f ∈ L loc 1 ​ 에 대하여 a.e. \text{a.e.} a.e. -모든 점에서 lim ⁡ r → 0 A r f ( x ) = f ( x ) \lim_{r\to0}A_rf(x)=f(x) lim r → 0 ​ A r ​ f ( x ) = f ( x ) 이다. 이와 같이 확장된 미적분의 기본정리는 보다 일반적인 집합에서 더 강한 조건으로 성립한다. 이를 표현하기 위해 두 가지 새로운 정의를 도입한다.
+
+첫째, 다음 조건을 만족시키는 R n \mathbb{R^n} R n 의 집합족 { E r } r > 0 \{E_r\}_{r>0} { E r ​ } r > 0 ​ 은 x x x 로 알맞게 축소한다(shrink necely)고 한다. - 각 r r r 에 대하여 E r ⊆ B ( r , x ) E_r \subseteq B(r,\ x) E r ​ ⊆ B ( r , x ) .
+- r r r 과 무관하게 m ( E r ) > α m ( B ( r , x ) ) m(E_r)>\alpha m(B(r,\ x)) m ( E r ​ ) > α m ( B ( r , x )) 를 만족시키는 α > 0 \alpha>0 α > 0 가 존재한다.
+
+둘째, 극한 lim ⁡ r → 0 A r f ( x ) = f ( x ) \lim_{r\to 0}A_rf(x)=f(x) lim r → 0 ​ A r ​ f ( x ) = f ( x ) 는 r → 0 r\to 0 r → 0 에 따라
+
+1 B ( r , x ) ∫ B ( r , x ) [ f ( t ) − f ( x ) ] d t → 0 \displaystyle\frac{1}{B(r,\ x)}\int_{B(r,\ x)}{\left[f(t)-f(x)\right] \, dt}\to0 B ( r , x ) 1 ​ ∫ B ( r , x ) ​ [ f ( t ) − f ( x ) ] d t → 0
+를 뜻한다. 여기서 피적분 함수 f ( t ) − f ( x ) f(t)-f(x) f ( t ) − f ( x ) 의 절댓값을 취해도 극한은 0 0 0 으로 수렴한다. 다음 집합을 f f f 의 르베그 집합 L f L_f L f ​ 라고한다.
+
+{ x : lim ⁡ r → 0 1 m ( B ( r , x ) ) ∫ B ( r , x ) ∣ f ( t ) − f ( x ) ∣ d t = 0 } \displaystyle\left\{x:\lim_{r\to0}\frac{1}{m(B(r,\ x))}\int_{B(r,\ x)}|f(t)-f(x)|\,dt=0\right\} { x : r → 0 lim ​ m ( B ( r , x )) 1 ​ ∫ B ( r , x ) ​ ∣ f ( t ) − f ( x ) ∣ d t = 0 }
+실제로 함수 f ∈ L l o c 1 f\in L_{loc}^1 f ∈ L l oc 1 ​ 에 대하여 m ( ( L f ) c ) = 0 m((L_f)^c)=0 m (( L f ​ ) c ) = 0 이다.
+
+이상을 종합하여 다음을 얻는다. 르베그 미분 정리 (The Lebesgue Differentiation Theorem) 함수 f ∈ L l o c 1 f\in L_{\rm loc}^1 f ∈ L loc 1 ​ 와 임의의 x ∈ L f x\in L_f x ∈ L f ​ 에 대하여 { E r } r > 0 \{E_r\}_{r>0} { E r ​ } r > 0 ​ 가 x x x 로 알맞게 축소하는 집합렬이면 다음이 성립한다.
+
+lim ⁡ r → 0 1 m ( E r ) ∫ E r ∣ f ( t ) − f ( x ) ∣ d t = 0 , lim ⁡ r → 0 1 m ( E r ) ∫ E r f ( t ) d t = f ( x ) \displaystyle\begin{aligned}\lim_{r\to 0}\frac{1}{m(E_r)}&\int_{E_r}|f(t)-f(x)|\,dt=0,\\ \lim_{r\to 0}\frac{1}{m(E_r)}&\int_{E_r}f(t)\, dt=f(x)\end{aligned} r → 0 lim ​ m ( E r ​ ) 1 ​ r → 0 lim ​ m ( E r ​ ) 1 ​ ​ ∫ E r ​ ​ ∣ f ( t ) − f ( x ) ∣ d t = 0 , ∫ E r ​ ​ f ( t ) d t = f ( x ) ​
+
+3.1.2. 제2 기본정리의 확장 [편집]
+미분 가능 함수 G G G 의 도함수 g = G ′ g=G^{\,\prime} g = G ′ 에 미적분의 제2 기본정리를 적용하기 위해선 g g g 에 대한 추가 가정이 필요하다. 도함수는 일반적으로 연속성이 보장되지 않음이 잘 알려져 있다. 연속성보다 약한 개념인 리만 적분 가능성 역시 도함수에선 보장되지 않는다. 볼테라 함수 는 리만 적분 불가능한 도함수를 갖는 대표적인 예시이다. 이와 같이 함수 G G G 의 도함수가 리만 적분 불가능하면 도함수의 정적분을 논할 수 없다.
+
+g g g 에 리만 적분 가능성을 추가로 가정하더라도 칸토어 함수 와 같이 도함수가 적분 가능하나, G ( b ) − G ( a ) ≠ ∫ a b g ( x ) d x G(b)-G(a)\ne \int_a^b g(x)\, dx G ( b ) − G ( a )  = ∫ a b ​ g ( x ) d x 인 함수가 존재한다. 칸토어 함수는 [ 0 , 1 ] [0,\ 1] [ 0 , 1 ] 에서 정의되어 거의 어디에서나 미분 가능하고 그 도함수가 거의 어디에서나 0 0 0 이지만 함숫값이 0 0 0 에서 1 1 1 까지 증가하는 연속함수이다. 이와 같은 경우, G ( 1 ) − G ( 0 ) = 1 G(1)-G(0)=1 G ( 1 ) − G ( 0 ) = 1 이지만, ∫ 0 1 g ( x ) d x = 0 \int_0^1 g(x)\,dx=0 ∫ 0 1 ​ g ( x ) d x = 0 이다.
+
+따라서 측도론이 도입되지 않은 미적분학에서 도함수의 적분을 원래의 함수를 이용해 계산하기 위해서는 도함수의 연속성이 추가로 가정되어야 한다. 측도를 도입함으로써 위와 같은 상황에서 도함수의 연속성을 배제할 수 있는 조건을 찾을 수 있다. 르베그 적분의 미적분 기본정리 함수 F : [ a , b ] → C ( − ∞ < a < b < ∞ ) F:[a,\ b]\to\mathbb{C}\ (-\infty<a<b<\infty) F : [ a , b ] → C ( − ∞ < a < b < ∞ ) 에 대하여 다음은 동치이다. - F F F 는 [ a , b ] [a,\ b] [ a , b ] 에서 절대 연속이다.
+- 어떤 함수 f ∈ L 1 ( [ a , b ] , m ) f\in L^1([a,\ b],\ m) f ∈ L 1 ([ a , b ] , m ) 에 대하여 F ( x ) − F ( a ) = ∫ a x f ( t ) d t F(x)-F(a)=\int_a^x f(t)\, dt F ( x ) − F ( a ) = ∫ a x ​ f ( t ) d t 이다.
+- F F F 는 [ a , b ] [a,\ b] [ a , b ] 의 거의 어디에서나 미분 가능하고 F ′ ∈ L 1 ( [ a , b ] , m ) F^\prime\in L^1([a,\ b],\ m) F ′ ∈ L 1 ([ a , b ] , m ) 이며 F ( x ) − F ( a ) = ∫ a x F ′ ( t ) d t F(x)-F(a)=\int_a^x F^\prime(t)\, dt F ( x ) − F ( a ) = ∫ a x ​ F ′ ( t ) d t 이다.
+
+비형식적으로, 기존의 미적분 기본정리는 주어진 함수를 적분한 함수에 대한 정보만 제공할 수 있었으며 미분한 함수를 다시 적분하는 상황에서는 여러 제약을 가졌으나, 확장된 미적분 기본정리는 미분과 적분의 순서에 상관 없이 일정한 정보를 얻을 수 있게 해준다.
+
+절대 연속이 아닌 증가함수 f f f 의 경우 위 정리는 일반적으로 참이 아니지만, 부등식 ∫ a b f ′ ( x ) d x ≤ f ( b ) − f ( a ) \int_a^b f^\prime(x)\, dx\le f(b)-f(a) ∫ a b ​ f ′ ( x ) d x ≤ f ( b ) − f ( a ) 가 성립한다.
+
+3.2. L p 공간의 쌍대성 [편집]
+( p , q ) ( 1 < p , q < ∞ ) (p,q)(1<p,q<\infty) ( p , q ) ( 1 < p , q < ∞ ) 가 횔더 켤레일 때, 각 T ∈ ( L p ) ∗ T\in (L^p)^* T ∈ ( L p ) ∗ 는 g ∈ L q g\in L^q g ∈ L q 에 대하여 T ( f ) = ∫ f g T(f)=\int fg T ( f ) = ∫ f g 이고, 따라서 ( L p ) ∗ (L^p)^* ( L p ) ∗ 와 L q L^q L q 사이에 전단사 거리 동형 사상이 존재한다. 이 때 T T T 에 대응하는 g g g 의 존재는 라돈-니코딤 정리에 의하여 보장된다. 자세한 내용은 L p L^p L p 공간 문서의 L p L^p L p 공간의 쌍대공간 문단 참고.
+
+3.3. 조건부 기댓값 [편집]
+라돈-니코딤 도함수는 조건부 기댓값의 존재를 보장한다. 확률 공간 ( Ω , F , P ) (\Omega,\ \mathcal{F},\ P) ( Ω , F , P ) 와 F \mathcal{F} F 의 부분 σ \sigma σ -체 G \mathcal{G} G 에 대하여 X ∈ L 1 ( Ω ) X\in L^1(\Omega) X ∈ L 1 ( Ω ) 일 때, 조건부 기댓값 E ( X ∣ G ) E(X|\mathcal{G}) E ( X ∣ G ) 는 다음 조건을 a.e. \text{a.e.} a.e. -유일하게 만족시키는 확률변수이다. - E ( X ∣ Ω ) E(X|\Omega) E ( X ∣Ω ) 는 G \mathcal{G} G -가측 함수이다.
+- 모든 G ∈ G G\in\mathcal{G} G ∈ G 에 대하여 ∫ G E ( X ∣ G ) d P = ∫ G X d P \displaystyle\int_G E(X|\mathcal{G})\,dP=\int_G X\,dP ∫ G ​ E ( X ∣ G ) d P = ∫ G ​ X d P .
+
+위와 같은 조건을 만족시키는 가측함수의 존재성은 다음과 같이 증명된다. 유한 측도 공간 ( X , M , μ ) (X,\ \mathcal{M},\ \mu) ( X , M , μ ) 와 M \mathcal{M} M 의 부분 σ \sigma σ -대수 N \mathcal{N} N 에 대하여 f ∈ L 1 ( μ ) f\in L^1(\mu) f ∈ L 1 ( μ ) 가 주어졌을 때, ( X , M ) (X,\ \mathcal{M}) ( X , M ) 위의 측도 λ \lambda λ 를 임의의 E ∈ M E\in\mathcal{M} E ∈ M 에 대하여 λ ( E ) = ∫ E f d μ \lambda(E)=\int_E f\,d\mu λ ( E ) = ∫ E ​ f d μ 로 정의 하자. λ ≪ μ \lambda\ll\mu λ ≪ μ 이므로 ρ = λ ∣ n \rho=\lambda|_\mathcal{n} ρ = λ ∣ n ​ , ν = μ ∣ n \nu=\mu|_\mathcal{n} ν = μ ∣ n ​ 라고 하면 ρ ≪ ν \rho\ll\nu ρ ≪ ν 이다. ρ \rho ρ 의 ν \nu ν 에 대한 라돈-니코딤 도함수를 g ∈ L 1 ( ν ) g\in L^1(\nu) g ∈ L 1 ( ν ) 라고 하면 임의의 E ∈ N E\in\mathcal{N} E ∈ N 에 대하여
+
+λ ( E ) = ρ ( E ) = ∫ E g d ν = ∫ E g d μ \displaystyle\lambda(E)=\rho(E)=\int_E g\,d\nu=\int_E g\, d\mu λ ( E ) = ρ ( E ) = ∫ E ​ g d ν = ∫ E ​ g d μ
+이고, 라돈-니코딤 정리와 ν = μ ∣ N \nu=\mu|_{\mathcal{N}} ν = μ ∣ N ​ 에 의하여 g g g 는 μ -a.e. \mu\text{-a.e.} μ -a.e. 유일하게 존재한다. 위 증명 과정에서 ( X , M , μ ) = ( Ω , F , P ) (X,\ \mathcal{M},\ \mu)=(\Omega,\ \mathcal{F},\ P) ( X , M , μ ) = ( Ω , F , P ) , N = G \mathcal{N}=\mathcal{G} N = G , f = X f=X f = X , g = E ( X ∣ G ) g=E(X|\mathcal{G}) g = E ( X ∣ G ) 라 하면 조건부 기댓값의 존재성을 얻을 수 있다.
+[ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 남동구이사청소 쿠팡
+www.coupang.com v-if
+[ [ 로켓배송 ] [ 로켓직구 ] [ 골드박스 ] [ 로켓프레시 ] ]
+가성비 좋은 남동구이사청소, 쿠팡에서 실속있게 구매하세요.
+
+] | [ 남동구컴퓨터수리 쿠팡
+www.coupang.com v-if
+[ [ 로켓프레시 ] [ 골드박스 ] [ 로켓직구 ] [ 로켓배송 ] ]
+세련된 남동구컴퓨터수리, 감성 가득한 디자인으로 식탁 분위기를 바꿔보세요.
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

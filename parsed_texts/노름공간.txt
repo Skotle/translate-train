@@ -1,0 +1,241 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 노름공간
+최근 수정 시각: 2026-01-17 02:55:05 [ [ [ ] [ [ 12 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 함수해석학
+- 선형대수학
+- 크기
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+선형대수학
+Linear Algebra
+[ 펼치기 · 접기 ] ▲ 대수학
+기본 대상 | 일차함수 · 벡터 · 행렬 · 선형 변환
+대수적 구조 | 가군(모듈) · 벡터 공간 · 내적 공간 · 노름 공간
+선형 연산자 | 기본 개념 | 연립방정식 ( 1차 · 2차 ) · 행렬곱 · 단위행렬 · 역행렬 과 크라메르 공식 · 가역행렬 · 전치행렬 · 행렬식 ( 라플라스 전개 ) · 주대각합
+선형계 | 기본행연산 과 기본행렬 · 가우스-조르당 소거법 · 행사다리꼴 · 행렬표현 · 라그랑주 보간법
+주요 정리 | 선형대수학의 기본정리 · 차원 정리 · 가역행렬의 기본정리 · 스펙트럼 정리
+기타 | 제곱근행렬 · 멱등행렬 · 멱영행렬 · 대칭행렬 · 에르미트 행렬 · 야코비 행렬 · 방데르몽드 행렬 · 아다마르 행렬 변환 · 노름(수학) · 벡터장
+벡터공간의 분해 | 행렬의 닮음(상사) · 고유치 문제 · 케일리-해밀턴 정리 · 대각화 ( 대각행렬 ) · 삼각화 · 조르당 분해
+벡터의 연산 | 노름 · 거리함수 · 내적 · 외적 ( 신발끈 공식 ) · 다중선형형식 · ∇ · 크로네커 델타
+내적공간 | 그람-슈미트 과정 · 수반 연산자 ( 에르미트 내적 )
+다중선형대수 | 텐서 · 텐서곱 · 레비치비타 기호
+
+1 . 개요 2 . 정의 2.1 . 노름 2.2 . 노름공간 2.3 . 연속 쌍대공간 3 . 연산 3.1 . 곱노름공간 3.2 . 몫노름공간 4 . 성질 4.1 . 내적 및 거리공간과의 관계 4.2 . 연산과 노름의 연속성 4.3 . 몫 노름공간의 성질 4.4 . 위상적 성질 4.4.1 . 국소적 볼록성 4.4.2 . 국소적 컴팩트성 4.5 . 연속쌍대공간의 성질 4.5.1 . 완비성 4.5.2 . 약한 *-위상 4.5.3 . 바나흐-앨러오글루 정리 5 . 예시 5.1 . 유한차원 노름공간 5.2 . 무한차원 노름공간
+
+1. 개요 [편집]
+노름공간(normed space, 노름벡터공간, normed vector space, 노름선형공간, normed linear space)은 노름을 갖춘 벡터공간 이다. 노름(norm) [1] 은 실수 집합의 절댓값 과 같이 벡터에 크기를 부여하는 함수이다. 노름은 두 원소 사이의 거리를 자연스럽게 유도하여 노름공간은 거리공간 이다.
+
+2. 정의 [편집]
+
+2.1. 노름 [편집]
+체 K ∈ { R , C } \mathbb{K \in \{R, C\}} K ∈ { R , C } 위의 벡터공간 X X X 에 대하여 다음을 만족시키는 사상 ∥ ⋅ ∥ : X → [ 0 , ∞ ) \|\cdot\|: X \rightarrow [0, \infty) ∥ ⋅ ∥ : X → [ 0 , ∞ ) 를 X X X 위의 반노름 (seminorm)이라고 한다. - (양의 동차성) 모든 x ∈ X x \in X x ∈ X , a ∈ K a \in \mathbb{K} a ∈ K 에 대하여 ∥ a x ∥ = ∣ a ∣ ⋅ ∥ x ∥ \|ax\| = |a| \cdot \|x\| ∥ a x ∥ = ∣ a ∣ ⋅ ∥ x ∥
+- ( 삼각부등식 ) 모든 x ∈ X x \in X x ∈ X , y ∈ X y \in X y ∈ X 에 대하여 ∥ x + y ∥ ≤ ∥ x ∥ + ∥ y ∥ \| x+y \| \le \|x\| + \|y\| ∥ x + y ∥ ≤ ∥ x ∥ + ∥ y ∥
+
+다음 조건을 추가로 만족시키는 반노름을 노름 이라고 한다. - (양의 정부호성) ∥ x ∥ = 0 \|x\|=0 ∥ x ∥ = 0 이면 x = 0 x=0 x = 0 이다. [2]
+
+벡터공간 X X X 위의 두 노름 ∥ ⋅ ∥ 1 \|\cdot\|_1 ∥ ⋅ ∥ 1 ​ , ∥ ⋅ ∥ 2 \|\cdot\|_2 ∥ ⋅ ∥ 2 ​ 에 대하여 다음을 만족시키는 두 양수 C 1 , C 2 C_1,C_2 C 1 ​ , C 2 ​ 가 존재하면 두 노름 ∥ ⋅ ∥ 1 \|\cdot\|_1 ∥ ⋅ ∥ 1 ​ 과 ∥ ⋅ ∥ 2 \|\cdot\|_2 ∥ ⋅ ∥ 2 ​ 를 서로 동치 라고 한다. - 모든 x ∈ X x \in X x ∈ X 에 대하여 C 1 ∥ x ∥ 2 ≤ ∥ x ∥ 1 ≤ C 2 ∥ x ∥ 2 C_1 \|x\|_2 \le \|x\|_1 \le C_2 \|x\|_2 C 1 ​ ∥ x ∥ 2 ​ ≤ ∥ x ∥ 1 ​ ≤ C 2 ​ ∥ x ∥ 2 ​
+
+2.2. 노름공간 [편집]
+노름이 부여된 K \mathbb{K} K -벡터공간을 K \mathbb{K} K - 노름 공간 (노름벡터공간, 노름선형공간)이라고 한다. 노름 공간 X X X 의 벡터 x , y x, y x , y 에 대하여 ρ ( x , y ) = ∥ x − y ∥ \rho(x, y) = \| x-y \| ρ ( x , y ) = ∥ x − y ∥ 로 정의된 함수 ρ : X → [ 0 , ∞ ] \rho: X \to [0, \infty] ρ : X → [ 0 , ∞ ] 는 X X X 위의 거리함수 로, 노름 공간 X X X 에 거리 위상을 부여한다. 이러한 위상을 X X X 의 노름 위상 이라고 한다. 이 문서에서는 특별한 언급이 없는 경우 노름공간은 노름 위상이 부여된 위상벡터공간을 의미한다. 동치인 두 노름은 동치인 거리를 유도하여 노름공간에 동일한 노름 위상을 부여한다.
+
+노름으로부터 유도된 거리에 대한 완비성 을 갖춘 노름공간을 바나흐 공간 (Banach space)이라고 한다.
+
+2.3. 연속 쌍대공간 [편집]
+두 노름공간 X , Y X, Y X , Y 사이의 선형사상 T : X → Y T: X \to Y T : X → Y 에 대하여 임의의 x ∈ X x \in X x ∈ X 에서 ∥ T x ∥ ≤ C ∥ x ∥ \|Tx\| \le C\|x\| ∥ T x ∥ ≤ C ∥ x ∥ 를 만족시키는 C ≥ 0 C\ge0 C ≥ 0 가 존재할 경우, 선형사상 T T T 를 유계 라고 한다. 이는 T T T 가 연속사상임과 동치이다. X X X 에서 Y Y Y 로의 모든 유계 선형사상의 공간을 L ( X , Y ) L(X, Y) L ( X , Y ) 로 나타낸다. L ( X , Y ) L(X, Y) L ( X , Y ) 는 다음과 같은 작용소 노름 이 부여된 노름벡터공간이다.
+∥ T ∥ = sup ⁡ { ∥ T x ∥ : ∥ x ∥ = 1 } = sup ⁡ ⁣ { ∥ T x ∥ ∥ x ∥ : x ≠ 0 } = inf ⁡ { C : ∥ T x ∥ ≤ C ∥ x ∥ ∀ x ∈ X } \displaystyle \begin{aligned} \|T\| &= \sup \{ \|Tx\|: \|x\| = 1 \} \\ &= \sup \!\left\{ \frac{\|Tx\|}{\|x\|} : x \ne 0 \right\} \\ &= \inf \{ C: \|Tx\| \le C\|x\|\ \forall x\in X \} \end{aligned} ∥ T ∥ ​ = sup { ∥ T x ∥ : ∥ x ∥ = 1 } = sup { ∥ x ∥ ∥ T x ∥ ​ : x  = 0 } = in f { C : ∥ T x ∥ ≤ C ∥ x ∥ ∀ x ∈ X } ​ K \mathbb{K} K -벡터공간 X X X 에 대하여 X X X 에서 K \mathbb{K} K 로의 선형사상을 선형범함수 라고 한다. K \mathbb{K} K -노름공간 X X X 에 대하여 연속선형범함수 공간 X ∗ = L ( X , K ) X^* = L(X, \mathbb{K}) X ∗ = L ( X , K ) 를 X X X 의 연속 쌍대공간 (continuous dual space)이라고 한다. 자명하지 않은 연속선형범함수의 존재성은 한-바나흐 정리 에 의해 보장된다.
+
+3. 연산 [편집]
+
+3.1. 곱노름공간 [편집]
+두 노름공간 X , Y X, Y X , Y 의 직합 X ⊕ Y X \oplus Y X ⊕ Y 에 다음과 같은 곱노름 을 부여하면 벡터공간 X ⊕ Y X \oplus Y X ⊕ Y 은 노름공간을 이룬다.
+∥ ( x , y ) ∥ = max ⁡ ( ∥ x ∥ , ∥ y ∥ ) \displaystyle \begin{aligned} \| (x, y) \| = \max ( \|x\|, \|y\| ) \end{aligned} ∥ ( x , y ) ∥ = max ( ∥ x ∥ , ∥ y ∥ ) ​ 이는 ∥ ( x , y ) ∥ = ∥ x ∥ + ∥ y ∥ \| (x, y) \| = \|x\| + \|y\| ∥ ( x , y ) ∥ = ∥ x ∥ + ∥ y ∥ 또는 ∥ ( x , y ) ∥ = ∥ x ∥ 2 + ∥ y ∥ 2 \| (x, y) \| = \sqrt{ \|x\|^2 + \|y\|^2 } ∥ ( x , y ) ∥ = ∥ x ∥ 2 + ∥ y ∥ 2 ​ 등과 동치이다.
+
+3.2. 몫노름공간 [편집]
+K \mathbb{K} K -노름공간 X X X 의 닫힌 K \mathbb{K} K -부분공간 W W W 에 대하여 몫집합 X / W X/W X / W 에 다음과 같은 몫노름 을 부여하면 벡터공간 X / W X/W X / W 는 노름공간을 이룬다.
+∥ x + W ∥ W = inf ⁡ w ∈ W ∥ x + w ∥ \displaystyle \begin{aligned} \| x+W \|_W = \inf_{w \in W} \| x+w \| \end{aligned} ∥ x + W ∥ W ​ = w ∈ W in f ​ ∥ x + w ∥ ​
+
+4. 성질 [편집]
+
+4.1. 내적 및 거리공간과의 관계 [편집]
+내적 이 정의되면 노름은 그 내적에서 ∥ x ∥ : = ⟨ x , x ⟩ \|x\| := \sqrt{\langle x, x \rangle} ∥ x ∥ := ⟨ x , x ⟩ ​ 에 의해 자연스럽게 정의된다. 또한 노름 공간의 정의에서 확인할 수 있듯이 노름은 거리를 자연스럽게 유도하여 노름을 갖춘 벡터공간은 거리공간 이다. 이상을 종합하면 다음과 같다.
+내적공간 ⇐ 힐베르트 공간 ⇓ ⇓ 노름공간 ⇐ 바나흐 공간 ⇓ ⇓ 거리공간 ⇐ 완비거리공간 \begin{matrix} \textsf{\footnotesize 내적공간}&\Leftarrow&\textsf{\footnotesize 힐베르트 공간}\\ \Downarrow& &\Downarrow\\ \textsf{\footnotesize 노름공간}&\Leftarrow&\textsf{\footnotesize 바나흐 공간}\\ \Downarrow& &\Downarrow\\ \textsf{\footnotesize 거리공간}&\Leftarrow&\textsf{\footnotesize 완비거리공간} \end{matrix} 내적공간 ⇓ 노름공간 ⇓ 거리공간 ​ ⇐ ⇐ ⇐ ​ 힐베르트 공간 ⇓ 바나흐 공간 ⇓ 완비거리공간 ​ 위 도표에서 수직 방향의 함의 관계의 역은 성립하지 않는다. 즉 모든 노름공간에 노름을 유도하는 내적이 항상 존재하는 것은 아니며, 마찬가지로 모든 거리공간 에 거리를 유도하는 노름이 존재하는 것은 아니다. [3] 수평 방향 함의 관계의 역 또한 일반적으로 성립하지 않으나, 완비가 아닌 내적, 노름, 거리공간의 완비화 를 통하여 기존의 공간을 조밀한 부분집합으로 갖는 힐베르트, 바나흐, 완비 거리공간을 얻을 수 있다.
+
+어떤 노름공간 ( X , ∥ ⋅ ∥ ) (X, \|\cdot\|) ( X , ∥ ⋅ ∥ ) 가 내적공간일 필요충분조건은 노름이 평행사변형 법칙 (parallelogram law)
+2 ( ∥ x ∥ 2 + ∥ y ∥ 2 ) = ∥ x + y ∥ 2 + ∥ x − y ∥ 2 ∀ x , y ∈ X {2(\|x\|^2+\|y\|^2)=\|x+y\|^2+\|x-y\|^2}\quad\forall x,y\in X 2 ( ∥ x ∥ 2 + ∥ y ∥ 2 ) = ∥ x + y ∥ 2 + ∥ x − y ∥ 2 ∀ x , y ∈ X 를 만족시키는 것이다. 평행사변형 법칙을 만족시키는 K \mathbb{K} K -노름공간 ( X , ∥ ⋅ ∥ ) (X, \|\cdot\|) ( X , ∥ ⋅ ∥ ) 에 대하여 범함수 < ⋅ , ⋅ > : X × X → K \left<\cdot,\cdot\right>:X\times X\to\mathbb{K} ⟨ ⋅ , ⋅ ⟩ : X × X → K 를
+< x , y > = ∥ x + y ∥ 2 − ∥ x − y ∥ 2 4 + i ∥ x + i y ∥ 2 − ∥ x − i y ∥ 2 4 \displaystyle\left<x, y\right>=\frac{\|x+y\|^2-\|x-y\|^2}{4}+i\frac{\|x+iy\|^2-\|x-iy\|^2}{4} ⟨ x , y ⟩ = 4 ∥ x + y ∥ 2 − ∥ x − y ∥ 2 ​ + i 4 ∥ x + i y ∥ 2 − ∥ x − i y ∥ 2 ​ 로 정의하면 < ⋅ , ⋅ > \left<\cdot,\cdot\right> ⟨ ⋅ , ⋅ ⟩ 는 ∥ ⋅ ∥ \|\cdot\| ∥ ⋅ ∥ 를 유도하는 X X X 의 내적이다.
+
+한편 어떤 국소 볼록 공간 X X X 가 노름화 가능할 필요충분조건은 X X X 가 공집합 이 아닌 유계 열린 집합을 갖는 것이다.
+
+노름을 이용해 위와 같은 자연스러운 거리함수(the norm-induced metric)뿐만 아니라 다른 거리함수도 만들 수 있다. d ( x , y ) d(x, y) d ( x , y ) 를
+d ( x , y ) = { ∥ x ∥ + ∥ y ∥ if x ≠ y 0 otherwise \displaystyle \begin{aligned} d(x, y) = \begin{cases} \|x\| + \|y\| &\text{if }x\ne y \\ 0 \quad &\text{otherwise} \end{cases} \end{aligned} d ( x , y ) = { ∥ x ∥ + ∥ y ∥ 0 ​ if x  = y otherwise ​ ​ 라 정의하면 d ( x , y ) d(x, y) d ( x , y ) 도 거리함수의 공리를 만족하며, 이를 흔히 우체국 거리(post office metric)라고 부른다. d ( x , y ) d(x, y) d ( x , y ) 를 x x x 에서 y y y 로 편지를 보낼 때 원점의 우체국을 거쳐 편지가 이동하는 거리로 파악할 수 있기 때문이다.
+
+4.2. 연산과 노름의 연속성 [편집]
+K \mathbb{K} K -노름공간 X X X 는 위상벡터공간이므로 덧셈 + : X × X → X +: X \times X \to X + : X × X → X 과 스칼라곱 ⋅ : K × X → X \cdot: \mathbb{K} \times X \to X ⋅ : K × X → X 은 모두 연속사상이다. X X X 의 노름 ∥ ⋅ ∥ \|\cdot\| ∥ ⋅ ∥ 에 대하여 부등식 ∣ ∥ x ∥ − ∥ y ∥ ∣ ≤ ∥ x − y ∥|\, \|x\| - \|y\| \,| \le \|x-y\| ∣ ∥ x ∥ − ∥ y ∥ ∣ ≤ ∥ x − y ∥ 가 성립하므로 노름 또한 X X X 의 연속사상이다. 증명
+∥ x ∥ = ∥ x − y + y ∥ ≤ ∥ x − y ∥ + ∥ y ∥ {\|x\| = \|x-y+y\| \le \|x-y\| + \|y\|} ∥ x ∥ = ∥ x − y + y ∥ ≤ ∥ x − y ∥ + ∥ y ∥ 에서
+∥ x ∥ − ∥ y ∥ ≤ ∥ x − y ∥ {\|x\| - \|y\| \le \|x-y\|} ∥ x ∥ − ∥ y ∥ ≤ ∥ x − y ∥ 이고 ∥ y ∥ = ∥ x − x − y ∥ ≤ ∥ x − y ∥ + ∥ x ∥ {\|y\| = \|x-x-y\| \le \|x-y\| + \|x\|} ∥ y ∥ = ∥ x − x − y ∥ ≤ ∥ x − y ∥ + ∥ x ∥ 에서
+∥ x ∥ − ∥ y ∥ ≥ − ∥ x − y ∥ {\|x\| - \|y\| \ge -\|x-y\|} ∥ x ∥ − ∥ y ∥ ≥ − ∥ x − y ∥ 이므로
+∣ ∥ x ∥ − ∥ y ∥ ∣ ≤ ∥ x − y ∥|\, \|x\| - \|y\| \,| \le \|x-y\| ∣ ∥ x ∥ − ∥ y ∥ ∣ ≤ ∥ x − y ∥ 이다. 임의의 ϵ > 0 \epsilon>0 ϵ > 0 이 주어졌을 때, δ = ϵ \delta=\epsilon δ = ϵ 이라 하면 ∥ x − y ∥ < δ \|x-y\|<\delta ∥ x − y ∥ < δ 일 때
+∣ ∥ x ∥ − ∥ y ∥ ∣ ≤ ∥ x − y ∥ < δ = ϵ|\, \|x\| - \|y\| \,| \le \|x-y\| < \delta = \epsilon ∣ ∥ x ∥ − ∥ y ∥ ∣ ≤ ∥ x − y ∥ < δ = ϵ 이므로 노름은 연속사상이다.
+
+4.3. 몫 노름공간의 성질 [편집]
+노름공간 X X X 와 부분공간 W W W 에 대하여 몫집합 X / W X/W X / W 가 노름공간을 이루기 위해서는 W W W 가 X X X 의 닫힌집합이어야 한다. W W W 가 X X X 의 닫힌 부분공간이 아닌 경우 사상 ∥ ⋅ ∥ W \|\cdot\|_W ∥ ⋅ ∥ W ​ 는 X / W X/W X / W 의 반노름이고 X / W X/W X / W 는 노름공간을 이루지 않는다. W W W 가 닫힌 부분공간이 아니더라도 W W W 의 폐포 W ‾ \overline W W 를 취하여 X X X 의 닫힌 부분공간을 얻을 수 있다.
+
+반노름 공간으로부터 노름공간을 유도하는 것 또한 가능하다. 반노름벡터공간 X X X 위의 반노름 ∥ ⋅ ∥ \|\cdot\| ∥ ⋅ ∥ 에 대하여 X X X 의 부분공간 N = { x ∈ X : ∥ x ∥ = 0 } N = \{ x \in X: \|x\| = 0 \} N = { x ∈ X : ∥ x ∥ = 0 } 의 몫공간 X / N X/N X / N 은 노름 x + N ↦ ∥ x ∥ x+N \mapsto \|x\| x + N ↦ ∥ x ∥ 이 부여된 노름공간이다. 이는 L p L^p L p 공간 을 구성할 때 활용된다.
+
+상술한 두 방법은 동일한 노름공간을 유도한다. X X X 의 부분공간 W W W 가 닫힌집합이 아닌 경우 그 폐포를 취하여 구성한 몫노름공간 X / W ‾ X/\overline W X / W 와 반노름공간에서 영집합에 의해 유도된 노름공간 ( X / W ) / N W (X/W)/N_W ( X / W ) / N W ​ 은 서로 거리동형이다.
+
+몫노름공간에서 사영사상 π : X → X / W \pi: X \to X/W π : X → X / W 는 연산자 노름이 1 1 1 인 연속 선형범함수이며, 몫노름공간은 노름공간 ( X , ∥ ⋅ ∥ ) (X, \|\cdot\|) ( X , ∥ ⋅ ∥ ) 의 몫위상공간 X / W X/W X / W 와 같다. 또한, X X X 가 바나흐 공간이면 X / W X/W X / W 도 바나흐 공간이다. 증명
+∥ x ∥ = 1 \|x\|=1 ∥ x ∥ = 1 인 각 x ∈ X x \in X x ∈ X 와 0 ∈ W 0 \in W 0 ∈ W 에 대하여 ∥ x + 0 ∥ = 1 \|x+0\|=1 ∥ x + 0∥ = 1 이므로 ∥ x + W ∥ W ≤ 1 \|x+W\|_W \le 1 ∥ x + W ∥ W ​ ≤ 1 로, ∥ π ∥ ≤ 1 \|\pi\| \le 1 ∥ π ∥ ≤ 1 이다. 아래 보조정리 에 의해 ∥ π ∥ ≥ 1 \| \pi \| \ge 1 ∥ π ∥ ≥ 1 이므로 ∥ π ∥ = 1 \| \pi \| = 1 ∥ π ∥ = 1 이다.
+
+노름공간의 유한차원 부분공간이 닫힌 부분공간이라는 사실과 몫 노름에 대한 다음 보조정리는 몫 노름공간을 이용하는 여러 정리의 증명 과정에서 유용하게 사용된다.
+증명
+K \mathbb{K} K -노름공간 X X X 의 닫힌 부분공간 W W W 와 벡터 x ∈ X ∖ W {x \in X \setminus W} x ∈ X ∖ W 에 대하여 W + K x W+\mathbb{K}x W + K x 가 X X X 의 닫힌 부분공간이 아니라고 가정하면, W W W 의 어떤 열 ( w n + k n x ) (w_n + k_nx) ( w n ​ + k n ​ x ) 에 대하여 ∥ y − ( w n + k n x ) ∥ → 0 {\| y-(w_n+k_nx) \| \to 0} ∥ y − ( w n ​ + k n ​ x ) ∥ → 0 인 벡터 y ∈ W ‾ ∖ W y \in \overline{W} \setminus W y ∈ W ∖ W 가 존재한다. 한-바나흐 정리에 의해 T ( x ) ≠ 0 T(x)\ne0 T ( x )  = 0 , T ∣ W = 0 T|_W=0 T ∣ W ​ = 0 인 연속 선형사상 T ∈ X ∗ T \in X^* T ∈ X ∗ 가 존재하고, 이러한 T T T 에 대하여 ∥ y − ( w n + k n x ) ∥ → 0 {\| y-(w_n+k_nx) \| \to 0} ∥ y − ( w n ​ + k n ​ x ) ∥ → 0 이므로 T ( y − ( w n + k n x ) ) = T ( y ) − k n T ( x ) → 0 {T(y - (w_n + k_nx))} = {T(y) - k_n T(x)} \to 0 T ( y − ( w n ​ + k n ​ x )) = T ( y ) − k n ​ T ( x ) → 0 이다. T ( x ) ≠ 0 T(x)\ne0 T ( x )  = 0 이므로 k n → T ( y ) / T ( x ) k_n \to T(y)/T(x) k n ​ → T ( y ) / T ( x ) 이고, k = T ( y ) / T ( x ) {k=T(y)/T(x)} k = T ( y ) / T ( x ) 라고 하면
+∥ ( y − k x ) − w n ∥ = ∥ y − k x + k n x − k n x + w n ∥ ≤ ∥ y − ( k n x + w n ) ∥ + ∣ k n − k ∣ ∥ x ∥ \displaystyle \begin{aligned} &\| (y-kx)-w_n \| \\&= \| y - kx + k_nx - k_nx + w_n \| \\ &\le \| y-(k_nx+w_n) \| + |k_n-k| \,\|x\| \end{aligned} ​ ∥ ( y − k x ) − w n ​ ∥ = ∥ y − k x + k n ​ x − k n ​ x + w n ​ ∥ ≤ ∥ y − ( k n ​ x + w n ​ ) ∥ + ∣ k n ​ − k ∣ ∥ x ∥ ​ 이므로 n → ∞ n\to\infty n → ∞ 에 따라 ∥ ( y − k x ) − w n ∥ \| (y-kx)-w_n \| ∥ ( y − k x ) − w n ​ ∥ 는 0 0 0 으로 수렴한다. 즉, 닫힌공간 W W W 의 열 ( w n ) (w_n) ( w n ​ ) 가 y − k x y-kx y − k x 로 수렴하여 y − k x ∈ W y-kx \in W y − k x ∈ W 이다. 이는 y ∈ W + K x y \in W + \mathbb{K}x y ∈ W + K x 를 의미하므로 모순이다. 따라서 W + K x W+\mathbb{K}x W + K x 는 X X X 의 닫힌 부분공간이다.
+
+Y Y Y 를 X X X 의 유한차원 부분공간이라고 하자. Y Y Y 의 기저를 { y 1 , ⋯ ⁣ , y n } \{ y_1, \cdots\!, y_n \} { y 1 ​ , ⋯ , y n ​ } 이라 하고 W 0 = { 0 } , W k + 1 = W k + K y k + 1 ( k ≥ 1 ) W_0 = \{ 0 \},\ W_{k+1} = W_k + \mathbb{K}y_{k+1}\ (k\ge1) W 0 ​ = { 0 } , W k + 1 ​ = W k ​ + K y k + 1 ​ ( k ≥ 1 ) 이라고 하면 W 0 W_0 W 0 ​ 가 X X X 의 닫힌 부분공간이므로 모든 k k k (단, 0 ≤ k ≤ n 0 \le k \le n 0 ≤ k ≤ n )에 대하여 W k W_k W k ​ 가 X X X 의 닫힌 부분공간이므로 Y = W n Y=W_n Y = W n ​ 은 X X X 의 닫힌 부분공간이다.
+
+보조정리 노름공간 ( X , ∥ ⋅ ∥ ) (X, \|\cdot\|) ( X , ∥ ⋅ ∥ ) 와 X X X 의 닫힌 진부분공간 W W W 에 대하여 임의의 ϵ > 0 \epsilon>0 ϵ > 0 가 주어졌을 때, ∥ x ∥ = 1 \|x\|=1 ∥ x ∥ = 1 과 ∥ x + W ∥ W ≥ 1 − ϵ \| x+W \|_W \ge 1 -\epsilon ∥ x + W ∥ W ​ ≥ 1 − ϵ 을 만족시키는 벡터 x ∈ X x \in X x ∈ X 가 존재한다.
+
+증명
+y ∉ W y \notin W y ∈ / W 에 대하여 ∥ y + w n ∥ ↘ ∥ y + W ∥ W \| y+w_n \| \searrow \| y+W \|_W ∥ y + w n ​ ∥ ↘ ∥ y + W ∥ W ​ 인 W W W 의 열 { w n } \{w_n\} { w n ​ } 이 존재한다. 주어진 ϵ > 0 \epsilon>0 ϵ > 0 에 대하여
+∥ y + w n ∥ − ∥ y + W ∥ W ≤ ∥ y + W ∥ W ⋅ ϵ \| y+w_n \| - \| y+W \|_W \le \| y+W \|_W \cdot \epsilon ∥ y + w n ​ ∥ − ∥ y + W ∥ W ​ ≤ ∥ y + W ∥ W ​ ⋅ ϵ 을 만족시키는 n ∈ N n\in\N n ∈ N 을 택한다. 부등식
+∥ y + W ∥ W = ∥ y + w n + W ∥ W ≥ ∥ y + w n ∥ − ∥ y + W ∥ W ⋅ ϵ \displaystyle \begin{aligned} \| y+W \|_W &= \| y+w_n+W \|_W \\ &\ge \| y+w_n \| - \| y+W \|_W \cdot \epsilon \end{aligned} ∥ y + W ∥ W ​ ​ = ∥ y + w n ​ + W ∥ W ​ ≥ ∥ y + w n ​ ∥ − ∥ y + W ∥ W ​ ⋅ ϵ ​ 의 양변을 ∥ y + w n ∥ \|y+w_n\| ∥ y + w n ​ ∥ 으로 나누면
+∥ y + w n ∥ y + w n ∥ + W ∥ W ≥ 1 − ∥ y + W ∥ W ∥ y + w n ∥ ⋅ ϵ ≥ 1 − ϵ \displaystyle \begin{aligned} \left\| \frac{y+w_n}{\| y+w_n \|} +W \right\|_W &\ge 1 -\frac{\| y+W \|_W}{\| y+w_n \|} \cdot \epsilon \\ &\ge 1-\epsilon \end{aligned} ​ ∥ y + w n ​ ∥ y + w n ​ ​ + W ​ W ​ ​ ≥ 1 − ∥ y + w n ​ ∥ ∥ y + W ∥ W ​ ​ ⋅ ϵ ≥ 1 − ϵ ​ 이다. 여기서 ( y + w n ) / ∥ y + w n ∥ = x ( y+w_n ) / \| y+w_n \| = x ( y + w n ​ ) /∥ y + w n ​ ∥ = x 라 하면 ∥ x ∥ = 1 \|x\|=1 ∥ x ∥ = 1 과 ∥ x + W ∥ W ≥ 1 − ϵ \| x+W \|_W \ge 1-\epsilon ∥ x + W ∥ W ​ ≥ 1 − ϵ 을 만족시키는 벡터 x ∈ X x \in X x ∈ X 를 얻는다.
+
+4.4. 위상적 성질 [편집]
+
+4.4.1. 국소적 볼록성 [편집]
+K \mathbb{K} K -노름공간 X X X 는 노름공간은 국소 볼록 공간 이며 노름 ∥ ⋅ ∥ \|\cdot\| ∥ ⋅ ∥ 은 X X X 의 볼록함수다. 또한 노름공간 X X X 의 단위구 B X B_X B X ​ 는 닫힌집합, 원점대칭, 볼록집합이다. 반대로 볼록성은 삼각부등식을 함의한다. 따라서 양의 동차성과 양의 정부호성을 만족시키는 볼록 실함수는 노름이다. 노름공간은 거리공간 으로 하우스도르프 공간이므로 노름공간은 국소 볼록 하우스도르프 공간이다.
+
+4.4.2. 국소적 컴팩트성 [편집]
+유한차원 노름공간은 유클리드 공간과 같으므로 국소적 컴팩트 공간이다. 그러나 무한차원 노름공간은 국소적 컴팩트 공간이 아니다. 즉, 노름공간이 국소적 컴팩트 공간일 필요충분조건은 노름공간의 차원이 유한한 것이다. 이는 하우스도르프 위상벡터공간에서 일반적으로 성립한다. 증명
+모든 n n n 에 대하여 ∥ x n ∥ = 1 \|x_n\|=1 ∥ x n ​ ∥ = 1 이고 n ≠ m n \ne m n  = m 이면 ∥ x n − x m ∥ ≥ 2 − 1 \| x_n-x_m \| \ge 2^{-1} ∥ x n ​ − x m ​ ∥ ≥ 2 − 1 인 열 ( x n ) (x_n) ( x n ​ ) 이 무한차원 K \mathbb{K} K -노름공간 X X X 에 존재함을 보인다. x ≠ 0 x\ne0 x  = 0 인 x ∈ X x \in X x ∈ X 에 대하여 x 1 = x / ∥ x ∥ x_1 = x / \|x\| x 1 ​ = x /∥ x ∥ 라고 하자. W 1 = K x 1 W_1=\mathbb{K}x_1 W 1 ​ = K x 1 ​ 은 X X X 의 닫힌 부분공간이므로, 보조정리 에서 ϵ = 2 − 1 \epsilon=2^{-1} ϵ = 2 − 1 이라 하면 ∥ x 2 ∥ = 1 {\|x_2\| = 1} ∥ x 2 ​ ∥ = 1 과 ∥ x 2 + W 1 ∥ W 1 ≥ 2 − 1 {\| x_2+W_1 \|_{W_1} \ge 2^{-1}} ∥ x 2 ​ + W 1 ​ ∥ W 1 ​ ​ ≥ 2 − 1 를 만족시키는 x 2 ∈ X ∖ W 1 x_2 \in X \setminus W_1 x 2 ​ ∈ X ∖ W 1 ​ 가 존재한다. W 2 = W 1 + K x 2 W_2 = W_1 + \mathbb{K}x_2 W 2 ​ = W 1 ​ + K x 2 ​ 는 X X X 의 닫힌 부분공간이므로, 이를 반복하여 모든 n n n 에 대하여 ∥ x n ∥ = 1 {\|x_n\| = 1} ∥ x n ​ ∥ = 1 과
+∥ x n − x n − 1 ∥ ≥ ∥ x n + W n − 1 ∥ W n − 1 ≥ 2 − 1 {\| x_n-x_{n-1} \| \ge \| x_ n+W_{n-1} \|_{W_{n-1}} \ge 2^{-1}} ∥ x n ​ − x n − 1 ​ ∥ ≥ ∥ x n ​ + W n − 1 ​ ∥ W n − 1 ​ ​ ≥ 2 − 1 를 만족시키는 X X X 의 열 ( x n ) (x_n) ( x n ​ ) 을 얻는다. m > n m>n m > n 이면 x n ∈ W m − 1 x_n \in W_{m-1} x n ​ ∈ W m − 1 ​ 이므로
+∥ x m − x n ∥ ≥ ∥ x m + W m − 1 ∥ ≥ 2 − 1 \| x_m-x_n \| \ge \| x_m + W_{m-1} \| \ge 2^{-1} ∥ x m ​ − x n ​ ∥ ≥ ∥ x m ​ + W m − 1 ​ ∥ ≥ 2 − 1 이다.
+
+0 0 0 의 임의의 근방 N N N 에 대하여 ϵ > 0 \epsilon>0 ϵ > 0 을 B ϵ ( 0 ) ⊂ N B_\epsilon(0) \subset N B ϵ ​ ( 0 ) ⊂ N 을 만족시키는 값이라고 하자. y n = 2 − 1 ϵ x n y_n = 2^{-1} \epsilon x_n y n ​ = 2 − 1 ϵ x n ​ 이라 하면, ( y n ) (y_n) ( y n ​ ) 은 0 0 0 의 ϵ \epsilon ϵ -근방 B ϵ ( 0 ) B_\epsilon(0) B ϵ ​ ( 0 ) 에 포함되는 열이다. 집합족 U = { B 2 − 3 ϵ ( x ) : x ∈ N } \mathcal{U} = \{ B_{2^{-3} \epsilon}(x): x \in N \} U = { B 2 − 3 ϵ ​ ( x ) : x ∈ N } 는 N N N 의 열린 덮개이고, 어떤 x ∈ N x \in N x ∈ N 에 대하여 y m , y n ∈ B 2 − 3 ϵ ( x ) y_m, y_n \in B_{2^{-3} \epsilon}(x) y m ​ , y n ​ ∈ B 2 − 3 ϵ ​ ( x ) (단, m ≠ n m \ne n m  = n )라고 가정하면 ∥ x − y m ∥ < 2 − 3 ϵ {\| x-y_m \| < 2^{-3} \epsilon} ∥ x − y m ​ ∥ < 2 − 3 ϵ 와 ∥ x − y n ∥ < 2 − 3 ϵ {\| x-y_n \| < 2^{-3} \epsilon} ∥ x − y n ​ ∥ < 2 − 3 ϵ 에서 ∥ y m − y n ∥ < 2 − 2 ϵ \| y_m-y_n \| < 2^{-2} \epsilon ∥ y m ​ − y n ​ ∥ < 2 − 2 ϵ 이다. 즉, ∥ x n − x m ∥ < 2 − 1 \|x_n-x_m\|<2^{-1} ∥ x n ​ − x m ​ ∥ < 2 − 1 이고 이는 ∥ x m − x n ∥ ≥ 2 − 1 \| x_m-x_n \| \ge 2^{-1} ∥ x m ​ − x n ​ ∥ ≥ 2 − 1 에 모순이므로 각 B 2 − 3 ϵ ( x ) B_{2^{-3} \epsilon}(x) B 2 − 3 ϵ ​ ( x ) 는 많아야 한 개의 y n y_n y n ​ 을 원소로 갖는다. 따라서 U \mathcal U U 의 임의의 유한집합 U ′ \mathcal{U}^\prime U ′ 은 y n y_n y n ​ 의 모든 원소의 근방을 갖지 못하므로 N N N 의 덮개가 아니다. 즉, X X X 는 국소적 컴팩트 공간이 아니다.
+
+4.5. 연속쌍대공간의 성질 [편집]
+
+4.5.1. 완비성 [편집]
+두 노름공간 X X X , Y Y Y 사이의 연속 선형사상 공간 L ( X , Y ) L(X, Y) L ( X , Y ) 의 완비성은 Y Y Y 에 의해 결정된다. 즉, Y Y Y 가 완비공간이면 L ( X , Y ) L(X, Y) L ( X , Y ) 도 완비공간이다. 이에 따라, 노름공간 X X X 의 연속 쌍대공간 X ∗ X^* X ∗ 는 바나흐 공간이다. 한-바나흐 정리 에 의해 노름공간 X X X 의 영이 아닌 각 벡터 x x x 에 대하여 T ( x ) = ∥ x ∥ , ∥ T ∥ = 1 T(x) = \|x\|, \|T\| = 1 T ( x ) = ∥ x ∥ , ∥ T ∥ = 1 을 만족시키는 T ∈ X ∗ T \in X^* T ∈ X ∗ 가 존재한다. 선형범함수 x ^ : X ∗ → C \widehat x: X^* \to \mathbb{C} x : X ∗ → C 를 x ^ ( T ) = T ( x ) \widehat x(T) = T(x) x ( T ) = T ( x ) 로 정의하면 x ^ \widehat x x 는 X ∗ ∗ X^{**} X ∗∗ 에 속하며, x x x 를 x ^ \widehat x x 로 대응시키는 사상은 X X X 와 X ∗ ∗ X^{**} X ∗∗ 의 부분집합 사이의 등거리 변환을 이룬다. X ∗ ∗ = L ( X ∗ , K ) X^{**} = L(X^*, \mathbb{K}) X ∗∗ = L ( X ∗ , K ) 는 완비공간이므로 X ∗ ∗ X^{**} X ∗∗ 의 부분집합 X ^ = { x ^ : x ∈ X } \widehat X = \{ \widehat x: x \in X \} X = { x : x ∈ X } 의 폐포 X ^ ‾ \overline{\widehat X} X 는 X ∗ ∗ X^{**} X ∗∗ 에 포함되며, X ^ ‾ \overline{\widehat X} X 를 X X X 의 완비화라고 한다. X X X 가 유한차원인 경우 X ^ = X ∗ ∗ \widehat X = X^{**} X = X ∗∗ 이지만, 이는 일반적으로 참이 아니다. X ^ = X ∗ ∗ \widehat X = X^{**} X = X ∗∗ 를 만족시키는 노름공간 X X X 를 반사적 이라고 한다.
+
+4.5.2. 약한 *-위상 [편집]
+노름 공간 X X X 와 X X X 의 연속 쌍대공간 X ∗ X^* X ∗ 에 대하여 X ∗ X^* X ∗ 로 생성된 X X X 의 약위상을 약한 위상이라고 한다. 반대로 X ∗ X^* X ∗ 에 X ∗ ∗ X^{**} X ∗∗ 로 생성된 X ∗ X^* X ∗ 의 약한 위상을 고려할 수 있다. X X X 를 X ∗ ∗ X^{**} X ∗∗ 의 부분공간으로 볼 때, X ∗ X^* X ∗ 에 X X X 로 생성된 약한 위상을 부여할 수 있다. 이를 X ∗ X^* X ∗ 의 약한 *-위상 (약한 스타 위상)이라고 한다. X ∗ X^* X ∗ 의 약한 *-위상은 약한 위상보다 더 약하며, X X X 가 반사적일 경우 두 위상은 서로 같다.
+
+4.5.3. 바나흐-앨러오글루 정리 [편집]
+K \mathbb{K} K -노름 공간 X X X 에 대하여 연속 쌍대 공간 X ∗ X^* X ∗ 의 단위구 ball ⁡ X ∗ = { x ∗ ∈ X ∗ : ∥ x ∗ ∥ ≤ 1 } \operatorname{ball}X^*=\{x^*\in X^*:\|x^*\|\le 1\} ball X ∗ = { x ∗ ∈ X ∗ : ∥ x ∗ ∥ ≤ 1 } 는 약한 *-위상에서는 컴팩트이다. 증명
+각 벡터 x ∈ X x\in X x ∈ X 에 대하여 체 K \mathbb{K} K 의 부분집합 D x D_x D x ​ 를
+D x = { α ∈ K : ∣ α ∣ ≤ ∥ x ∥ } D_x=\{\alpha\in\mathbb{K}:|\alpha|\le\|x\|\} D x ​ = { α ∈ K : ∣ α ∣ ≤ ∥ x ∥ } 라 하자. 티호노프 정리 에 의해 D = ∏ x ∈ X D x D=\prod_{x\in X}D_x D = ∏ x ∈ X ​ D x ​ 는 컴팩트 집합이다. 집합 D D D 의 각 원소 d d d 는 모든 x ∈ X x\in X x ∈ X 에 대응하는 각각의 스칼라 값으로 이루어져 있으므로 d d d 는 부등식 ∣ f ( x ) ∣ ≤ ∥ x ∥|f(x)|\le \|x\| ∣ f ( x ) ∣ ≤ ∥ x ∥ 를 만족시키는, X X X 위의 범함수로 파악할 수 있다. 또한 곱위상은 사영사상 π x \pi_x π x ​ 가 연속인 최소 위상이고, X ∗ X^* X ∗ 의 wk ∗ \text{wk}^* wk ∗ -위상은 x x x 가 연속인 최소 위상이므로 D D D 와 X ∗ X^* X ∗ 는 동일한 점별수렴 위상을 갖는다. 따라서 ball ⁡ X ∗ \operatorname{ball}X^* ball X ∗ 는 D D D 의 원소 중 선형인 것만을 모은 집합이다. { f i } \{f_i\} { f i ​ } 를 f f f 로 수렴하는 ball ⁡ X ∗ \operatorname{ball}X^* ball X ∗ 의 그물이라 하자. 임의의 x , y ∈ X x, y\in X x , y ∈ X 와 α , β ∈ K \alpha, \beta \in\mathbb{K} α , β ∈ K 에 대하여
+f ( α x + β y ) = lim ⁡ f i ( α x + β y ) = lim ⁡ { α f i ( x ) + β f i ( y ) } = α f ( x ) + β f ( y ) \begin{aligned} f(\alpha x+\beta y)&=\lim f_i(\alpha x +\beta y)\\ &=\lim\{\alpha f_i(x)+\beta f_i (y)\}\\ &=\alpha f(x) + \beta f(y) \end{aligned} f ( α x + β y ) ​ = lim f i ​ ( α x + β y ) = lim { α f i ​ ( x ) + β f i ​ ( y )} = α f ( x ) + β f ( y ) ​ 이므로 f ∈ ball ⁡ X ∗ f\in \operatorname{ball}X^* f ∈ ball X ∗ 이다. 즉, ball ⁡ X ∗ \operatorname{ball} X^* ball X ∗ 는 컴팩트 공간 D D D 의 닫힌 집합으로, 컴팩트 집합이다.
+
+단, 이는 연속 쌍대공간 X ∗ X^* X ∗ 가 컴팩트 공간 또는 국소 컴팩트 공간임을 보장하지 않는다. 바나흐-앨러오글루 정리는 바나흐 공간과 바나흐 대수의 분류 문제에서 유용하게 활용된다.
+
+5. 예시 [편집]
+
+5.1. 유한차원 노름공간 [편집]
+유한차원 벡터공간의 모든 노름은 동치이다. 따라서 다음과 같이 정의된 유클리드 공간 R n \mathbb{R^n} R n 의 L p L^p L p 노름은 모두 유클리드 위상을 유도하는 동치 노름이다. (단, p ≥ 1 p\ge1 p ≥ 1 )
+∥ x ∥ p = ∣ x 1 ∣ p + ∣ x 2 ∣ p + ⋯ + ∣ x n ∣ p p = ⁣ ( ∑ k = 1 n ∣ x k ∣ p ) 1 p \displaystyle \begin{aligned} \| {\bf x} \|_p &= \sqrt[p]{ |x_1|^p + |x_2|^p + \cdots + |x_n|^p} \\ &= \!\left( \sum_{k=1}^n |x_k|^p \right)^{\frac1p} \end{aligned} ∥ x ∥ p ​ ​ = p ∣ x 1 ​ ∣ p + ∣ x 2 ​ ∣ p + ⋯ + ∣ x n ​ ∣ p ​ = ( k = 1 ∑ n ​ ∣ x k ​ ∣ p ) p 1 ​ ​ 증명
+유한차원 K \mathbb{K} K -벡터공간 V V V 의 벡터 a ∈ V a \in V a ∈ V 와 기저 { e 1 , ⋯ ⁣ , e n } \{ e_1, \cdots\!, e_n \} { e 1 ​ , ⋯ , e n ​ } 에 대하여 a = ∑ k = 1 n a k e k a = \sum_{k=1}^n a_k e_k a = ∑ k = 1 n ​ a k ​ e k ​ (단, a 1 , ⋯ ⁣ , a n ∈ K a_1, \cdots\!, a_n \in \mathbb{K} a 1 ​ , ⋯ , a n ​ ∈ K )라고 하면
+∥ a ∥ 1 = ∥ ∑ k = 1 n a k e k ∥ 1 ⁣ = ∑ k = 1 n ∣ a k ∣ \displaystyle \begin{aligned} \|a\|_1 = \left\| \sum_{k=1}^n a_k e_k \right\|_1 \!= \sum_{k=1}^n |a_k| \end{aligned} ∥ a ∥ 1 ​ = ​ k = 1 ∑ n ​ a k ​ e k ​ ​ 1 ​ = k = 1 ∑ n ​ ∣ a k ​ ∣ ​ 는 V V V 의 노름이다. 벡터공간 V V V 의 노름 ∥ ⋅ ∥ \|\cdot\| ∥ ⋅ ∥ 에 대하여 N = max ⁡ { ∥ e 1 ∥ , ⋯ ⁣ , ∥ e n ∥ } N = \max \{ \|e_1\|, \cdots\!, \|e_n\| \} N = max { ∥ e 1 ​ ∥ , ⋯ , ∥ e n ​ ∥ } 이라 하자. 임의의 ϵ > 0 \epsilon>0 ϵ > 0 에 대하여 ∥ x − a ∥ 1 < ϵ / N \|x-a\|_1 < \epsilon/N ∥ x − a ∥ 1 ​ < ϵ / N 일 때
+∣ ∥ x ∥ − ∥ a ∥ ∣ ≤ ∥ ∑ k = 1 n ( x k − a k ) e k ∥ ≤ ∑ k = 1 n ∣ x k − a k ∣ ∥ e k ∥ ≤ ∥ x − a ∥ 1 ⋅ N < ϵ \displaystyle \begin{aligned} |\, \|x\| - \|a\| \,| &\le \left\| \sum_{k=1}^n (x_k-a_k) e_k \right\| \\ &\le \sum_{k=1}^n |x_k-a_k| \,\|e_k\| \\ &\le \|x-a\|_1 \cdot N \\ &< \epsilon \end{aligned} ∣ ∥ x ∥ − ∥ a ∥ ∣ ​ ≤ ​ k = 1 ∑ n ​ ( x k ​ − a k ​ ) e k ​ ​ ≤ k = 1 ∑ n ​ ∣ x k ​ − a k ​ ∣ ∥ e k ​ ∥ ≤ ∥ x − a ∥ 1 ​ ⋅ N < ϵ ​ 이므로 노름 ∥ ⋅ ∥ \|\cdot\| ∥ ⋅ ∥ 은 위상공간 ( V , ∥ ⋅ ∥ 1 ) (V, \|\cdot\|_1) ( V , ∥ ⋅ ∥ 1 ​ ) 의 연속사상이다. 유클리드 공간 K n \mathbb{K}^n K n 에서 노름공간 ( V , ∥ ⋅ ∥ 1 ) (V, \|\cdot\|_1) ( V , ∥ ⋅ ∥ 1 ​ ) 로의 사상 ( a 1 , ⋯ ⁣ , a n ) ↦ ∑ k = 1 n a k e k (a_1, \cdots\!, a_n) \mapsto \sum_{k=1}^n a_k e_k ( a 1 ​ , ⋯ , a n ​ ) ↦ ∑ k = 1 n ​ a k ​ e k ​ 를 T T T 라고 하자. 각 A = ( a 1 , ⋯ ⁣ , a n ) ∈ K n A = (a_1, \cdots\!, a_n) \in \mathbb{K}^n A = ( a 1 ​ , ⋯ , a n ​ ) ∈ K n 에 대하여 임의의 ϵ > 0 \epsilon>0 ϵ > 0 이 주어졌을 때 δ = ϵ / n \delta = \epsilon / n δ = ϵ / n 이라 하면, ∥ X − A ∥ < δ \|X-A\| < \delta ∥ X − A ∥ < δ 일 때 각 k k k (단, 1 ≤ k ≤ n 1 \le k \le n 1 ≤ k ≤ n )에 대하여 ∣ x k − a k ∣ < δ = ϵ / n|x_k-a_k| < \delta = \epsilon/n ∣ x k ​ − a k ​ ∣ < δ = ϵ / n 이다. 따라서
+∥ T ( X ) − T ( A ) ∥ 1 = ∥ ∑ k = 1 n ( x k − a k ) e k ∥ 1 = ∑ k = 1 n ∣ x k − a k ∣ < n ⋅ ϵ n = ϵ \displaystyle \begin{aligned} \| T(X)-T(A) \|_1 &= \left\| \sum_{k=1}^n (x_k-a_k) e_k \right\|_1 \\ &= \sum_{k=1}^n |x_k-a_k| \\ &< n \cdot \frac\epsilon{n} = \epsilon \end{aligned} ∥ T ( X ) − T ( A ) ∥ 1 ​ ​ = ​ k = 1 ∑ n ​ ( x k ​ − a k ​ ) e k ​ ​ 1 ​ = k = 1 ∑ n ​ ∣ x k ​ − a k ​ ∣ < n ⋅ n ϵ ​ = ϵ ​ 이므로 T T T 는 연속사상이다. 집합 D = { ( a 1 , ⋯ ⁣ , a n ) ∈ K n : ∑ k = 1 n ∣ a k ∣ } D = \{ (a_1, \cdots\!, a_n) \in \mathbb{K}^n: \sum_{k=1}^n |a_k| \} D = {( a 1 ​ , ⋯ , a n ​ ) ∈ K n : ∑ k = 1 n ​ ∣ a k ​ ∣ } 는 K n \mathbb{K}^n K n 의 유계 닫힌집합이므로 컴팩트 집합이다. 따라서 T ( D ) = { x ∈ X : ∥ x ∥ 1 = 1 } T(D) = \{ x \in X: \|x\|_1 = 1 \} T ( D ) = { x ∈ X : ∥ x ∥ 1 ​ = 1 } 는 ( X , ∥ ⋅ ∥ 1 ) (X, \|\cdot\|_1) ( X , ∥ ⋅ ∥ 1 ​ ) 의 컴팩트 집합이다. 노름 ∥ ⋅ ∥ \|\cdot\| ∥ ⋅ ∥ 은 위상공간 ( V , ∥ ⋅ ∥ 1 ) (V, \|\cdot\|_1) ( V , ∥ ⋅ ∥ 1 ​ ) 의 연속사상이므로, ∥ T ( D ) ∥ \| T(D) \| ∥ T ( D ) ∥ 에는 최댓값 M M M 과 최솟값 m m m 이 존재한다. 따라서 임의의 x ∈ V x \in V x ∈ V (단, x ≠ 0 x\neq0 x  = 0 )에 대하여 m ≤ ∥ x / ∥ x ∥ 1 ∥ ≤ M m \le \| x / \|x\|_1 \| \le M m ≤ ∥ x /∥ x ∥ 1 ​ ∥ ≤ M 이므로 m ∥ x ∥ 1 ≤ ∥ x ∥ ≤ M ∥ x ∥ 1 m\|x\|_1 \le \|x\| \le M\|x\|_1 m ∥ x ∥ 1 ​ ≤ ∥ x ∥ ≤ M ∥ x ∥ 1 ​ 이다. 즉, 노름 ∥ ⋅ ∥ \|\cdot\| ∥ ⋅ ∥ 와 ∥ ⋅ ∥ 1 \|\cdot\|_1 ∥ ⋅ ∥ 1 ​ 은 동치이다.
+
+- 유클리드 노름( L 2 L^2 L 2 )
+n n n 차원 유클리드 공간에서의 노름은 유클리드 노름 (Euclidean norm)이라고 부르고 다음과 같이 정의한다.
+∥ x ∥ 2 = x 1 2 + x 2 2 + ⋯ + x n 2 = ∑ k = 1 n x k 2 \displaystyle \begin{aligned} \| {\bf x} \|_2 &= \sqrt{{x_1}^2 + {x_2}^2 + \cdots + {x_n}^2} \\ &= \sqrt{ \sum_{k=1}^n {x_k}^2 } \end{aligned} ∥ x ∥ 2 ​ ​ = x 1 ​ 2 + x 2 ​ 2 + ⋯ + x n ​ 2 ​ = k = 1 ∑ n ​ x k ​ 2 ​ ​ 유클리드 노름은 평행선 법칙을 만족시켜, 내적으로부터 유도된 노름이다.
+- 택시 노름( L 1 L^1 L 1 )
+L p L^p L p 노름에서 p = 1 p=1 p = 1 인 경우엔 택시 노름(Taxicab norm, 맨해튼 노름, Manhattan norm)이라고 한다.
+∥ x ∥ 1 = ∣ x 1 ∣ + ∣ x 2 ∣ + ⋯ + ∣ x n ∣ = ∑ k = 1 n ∣ x k ∣ \displaystyle \begin{aligned} \| {\bf x} \|_1 &= |x_1| + |x_2| + \cdots + |x_n| \\ &= \sum_{k=1}^n |x_k| \end{aligned} ∥ x ∥ 1 ​ ​ = ∣ x 1 ​ ∣ + ∣ x 2 ​ ∣ + ⋯ + ∣ x n ​ ∣ = k = 1 ∑ n ​ ∣ x k ​ ∣ ​ 유클리드 평만 위의 두 점 사이의 최단거리는 유클리드 노름으로 계산하지만, 만약에 그 사이에 밑면의 한 변의 크기가 1인 정사각형 모양의 빌딩이 있고 田자 모양의 도로망이 있을 때에는 ㄱ자 형태로 가로 1, 세로 1만큼, 총 2의 거리를 가야 한다. 이 거리를 계산하는 방법이 택시 노름이다. 맨해튼의 도로 구조가 위와 같이 격자 모양에 가까워 다른 이름이 맨해튼 노름인 것. 당연히 여기서 유도되는 거리함수 이름은 택시 거리 함수(Taxicab metric) / 맨해튼 거리 함수(Manhattan metric) 이다. 머신러닝이나 통계학을 전공한다면 L 1 정규화(L 1 regularization)라는 개념으로 접할 수 있다. 택시 기하학 문서 참고. 1차원 유클리드 공간의 경우 L 1 L^1 L 1 노름은 절댓값 이다.
+- 상한 노름( L ∞ L^\infty L ∞ )
+주어진 성분 중 최댓값을 취하는 노름이다.
+∥ x ∥ ∞ = max ⁡ ( ∣ x 1 ∣ , ∣ x 2 ∣ , ⋯ ⁣ , ∣ x n ∣ ) \displaystyle \begin{aligned} \| {\bf x} \|_\infty = \max( |x_1|, |x_2|, \cdots\!, |x_n|) \end{aligned} ∥ x ∥ ∞ ​ = max ( ∣ x 1 ​ ∣ , ∣ x 2 ​ ∣ , ⋯ , ∣ x n ​ ∣ ) ​ 상한 거리 함수, 혹은 최대 거리 함수(max metric)가 이 노름에서 정의된다. 하한은 반노름을 이룬다.
+
+5.2. 무한차원 노름공간 [편집]
+- 리만적분 가능 함수 공간
+닫힌구간 [ a , b ] [a, b] [ a , b ] 에서 리만적분 가능한 함수들의 공간 R [ a , b ] \mathcal{R}[a, b] R [ a , b ] 에 대하여
+∥ f ∥ R = ∫ a b f ( x ) d x \displaystyle \begin{aligned} \|f\|_R = \int_a^b f(x) \,{\rm d}x \end{aligned} ∥ f ∥ R ​ = ∫ a b ​ f ( x ) d x ​ 라고 하면, ∥ ⋅ ∥ R \|\cdot\|_R ∥ ⋅ ∥ R ​ 은 R [ a , b ] \mathcal{R}[a, b] R [ a , b ] 의 반노름이다. N = { f ∈ R [ a , b ] : ∥ f ∥ R = 0 } \mathcal{N} = \{ f \in \mathcal{R}[a, b]: \|f\|_R = 0 \} N = { f ∈ R [ a , b ] : ∥ f ∥ R ​ = 0 } 에 의한 상공간 R [ a , b ] = R [ a , b ] / N R[a, b] = \mathcal{R}[a, b] / \mathcal{N} R [ a , b ] = R [ a , b ] / N 은 노름공간이며, [ a , b ] [a, b] [ a , b ] 에 속하는 유리수의 집합 Q = Q ∩ [ a , b ] = { q 1 , q 2 , ⋯ } Q = \mathbb{Q} \cap [a, b] = \{q_1, q_2, \cdots\} Q = Q ∩ [ a , b ] = { q 1 ​ , q 2 ​ , ⋯ } 에 대하여 Q n = { q 1 , ⋯ ⁣ , q n } Q_n = \{ q_1, \cdots\!, q_n\} Q n ​ = { q 1 ​ , ⋯ , q n ​ } 이라 하면 R [ a , b ] R[a, b] R [ a , b ] 의 함수열 ( 1 Q n ) (1_{Q_n}) ( 1 Q n ​ ​ ) 은 1 Q 1_Q 1 Q ​ 로 수렴한다. 그러나 1 Q 1_Q 1 Q ​ 는 리만적분 불가능하므로 1 Q ∉ R [ a , b ] 1_Q \not\in R[a, b] 1 Q ​  ∈ R [ a , b ] 이다. 즉, R [ a , b ] R[a, b] R [ a , b ] 는 바나흐 공간이 아닌 노름공간이다.
+- L p L^p L p 공간
+측도공간 ( X , M , μ ) (X, \mathcal{M}, \mu) ( X , M , μ ) 의 C \mathbb C C -보렐 가측함수 f f f 와 실수 p ∈ [ 0 , ∞ ] p \in [0, \infty] p ∈ [ 0 , ∞ ] 에 대하여
+∥ f ∥ L p = { ⁣ ( ∫ ∣ f ∣ p d μ ) ⁣ 1 p i f p ∈ [ 1 , ∞ ) ess sup ⁡ ∣ f ( x ) ∣ i f p = ∞ \displaystyle \begin{aligned} \|f\|_{L^p} = \begin{cases} \displaystyle \!\left( \int |f|^p \,{\rm d}\mu \right)^{\!\frac1p} \quad &{\sf if} \quad p \in [1, \infty) \\ {\operatorname{ess\ sup}} \,|f(x)| \quad &{\sf if} \quad p = \infty \end{cases} \end{aligned} ∥ f ∥ L p ​ = ⎩ ⎨ ⎧ ​ ( ∫ ∣ f ∣ p d μ ) p 1 ​ ess sup ∣ f ( x ) ∣ ​ if p ∈ [ 1 , ∞ ) if p = ∞ ​ ​ 는 민코프스키 부등식 에 의하여 함수공간 L p ( X , M , μ ) = { f : X → C : ∥ f ∥ L p < ∞ } \mathcal{L}^p(X, \mathcal{M}, \mu) = \{ f: X \to \mathbb{C}: \|f\|_{L^p} < \infty \} L p ( X , M , μ ) = { f : X → C : ∥ f ∥ L p ​ < ∞ } 의 반노름이다. 따라서 함수공간 L p \mathcal{L}^p L p 의 부분집합
+W = { f : f ( x ) = 0 a . e . x ∈ X } = { f : ∥ f ∥ L p = 0 } \displaystyle \begin{aligned} W &= \{ f: f(x) = 0 \ {\sf a.e.} \ x \in X \} \\ &= \{ f: \|f\|_{L^p} = 0 \} \end{aligned} W ​ = { f : f ( x ) = 0 a.e. x ∈ X } = { f : ∥ f ∥ L p ​ = 0 } ​ 에 대한 상공간 L p = L p / W L^p = \mathcal{L^p}/W L p = L p / W 은 노름공간이며, 특히 절대수렴 급수가 수렴하여 완비성을 갖춘 바나흐 공간이다. L p L^p L p 공간에서 p p p 의 값에 따라 내적공간이 아닌 노름공간과 노름공간이 아닌 거리공간의 예를 확인할 수 있다. - ( 1 ≤ p ≤ ∞ 1\le p\le\infty 1 ≤ p ≤ ∞ 인 경우) p = 2 p=2 p = 2 이면 L p L^p L p 공간은 내적
+< f , g > = ∫ f g ‾ d μ \displaystyle\left<f,g\right>=\int f\overline{g}\,d\mu ⟨ f , g ⟩ = ∫ f g ​ d μ 가 정의된 내적공간이다. 그러나 p ≠ 2 p\ne2 p  = 2 이면 L p L^p L p 노름은 평행사변형 법칙을 만족시키지 않아 내적공간이 아닌 노름공간이다.
+- ( 0 < p < 1 0<p<1 0 < p < 1 인 경우) ∥ ⋅ ∥ L p \|\cdot\|_{L^p} ∥ ⋅ ∥ L p ​ 는 삼각부등식을 만족시키지 않아 노름이 아니다. 그러나 ∥ ⋅ ∥ L p p \|\cdot\|_{L^p}^p ∥ ⋅ ∥ L p p ​ 는 삼각부등식을 만족시켜 L p L^p L p 공간은 거리공간이다. 이때, L p L^p L p 공간은 노름화 불가능하여 노름공간이 아닌 거리공간이다.
+- 복소측도 공간
+가측공간 ( X , M ) (X, \mathcal{M}) ( X , M ) 위의 복소측도의 공간을 M ( X ) M(X) M ( X ) 에 노름 ∥ μ ∥ = ∣ μ ∣ ( X ) \|\mu\| = |\mu| (X) ∥ μ ∥ = ∣ μ ∣ ( X ) 를 부여하면 M ( X ) M(X) M ( X ) 는 바나흐 공간이다.
+- 유계 함수 공간
+집합 X X X 에 대하여 X X X 에서 체 K ∈ { R , C } \mathbb{K \in \{R, C\}} K ∈ { R , C } 로의 유계함수와 연속함수의 벡터공간을 각각 B ( X , K ) B(X, \mathbb{K}) B ( X , K ) , C ( X , K ) C(X, \mathbb{K}) C ( X , K ) 라 하면, B C ( X , K ) = B ( X , K ) ∩ C ( X , K ) BC(X, \mathbb{K}) = B(X, \mathbb{K}) \cap C(X, \mathbb{K}) B C ( X , K ) = B ( X , K ) ∩ C ( X , K ) 는 X X X 에서 K \mathbb{K} K 로의 유계 연속 함수의 벡터공간이다. 유계함수 공간 B ( X , K ) B(X, \mathbb{K}) B ( X , K ) 에 다음과 같이 주어진 노름을 균등노름 (uniform norm)이라고 한다.
+∥ f ∥ u = sup ⁡ { ∣ f ( x ) ∣ : x ∈ X } \displaystyle \begin{aligned} \|f\|_u = \sup \{ |f(x)|: x \in X \} \end{aligned} ∥ f ∥ u ​ = sup { ∣ f ( x ) ∣ : x ∈ X } ​ B ( X , K ) B(X, \mathbb{K}) B ( X , K ) 와 B C ( X , K ) BC(X, \mathbb{K}) B C ( X , K ) 는 모두 바나흐 공간이다.
+
+[1] 미국식 영어 기준 발음은 /nɔɹm/으로, 노음이라고 하는 경우도 있으며 대한수학회의 표준용어로는 노름이지만 대부분은 그냥 '놈'이라고 읽는다. 본 문서에서는 대한수학회의 표준용어를 따라 노름으로 표기하기로 한다. 한국어의 노름 과는 무관하다. [2] 양의 동차성으로부터 x = 0 x=0 x = 0 이면 ∥ x ∥ = 0 \|x\|=0 ∥ x ∥ = 0 이 성립하기 때문에, 일부 저자는 이를 같이 추가해 서술하기도 한다. [3] 후자의 예시로는 이산 거리 함수 d ( x , y ) = [ x ≠ y ] d(x,y)=[x≠y] d ( x , y ) = [ x  = y ] 가 부여된 이산 거리 공간이 있다. 정의식에 쓰인 대괄호는 '아이버슨 괄호(Iverson bracket)' 라고 하는 수학 표기법이다. 이 문서의 내용 중 전체 또는 일부는 놈 문서의 r47 판에서 가져왔습니다. 이전 역사 보러 가기
+
+[ KCTV광주방송 가입,사은품
+cable-tv.co.kr v-if
+남동케이블방송 신규가입할인, 결합특가할인, 실시간스포츠, 당일설치.
+
+] | [ 남동케이블방송 가입센터
+www.tv-road.co.kr v-if
+이달특가상품 디지털파격할인.결합상품, 와이파이공유기 제공, 설치비무료
+
+] | [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

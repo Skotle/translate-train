@@ -1,0 +1,144 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 밀도행렬
+최근 수정 시각: 2025-04-15 09:43:50 [ [ [ ] [ v-if ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 물리학
+]
+
+[ [ ] [ 양자역학 Quantum Mechanics
+[ 펼치기 · 접기 ] 배경 | 흑체복사 · 이중슬릿 실험 · 광전효과 · 콤프턴 산란 · 보어의 원자 모형 · 물질파 · 데이비슨-저머 실험 · 불확정성 원리 · 슈테른-게를라흐 실험 · 프랑크-헤르츠 실험
+이론 체계 | 체계 플랑크 상수 ( 플랑크 단위계 ) · 공리 · 슈뢰딩거 방정식 · 파동함수 · 연산자 ( 해밀토니언 · 선운동량 · 각운동량 ) · 스핀 ( 스피너 ) · 파울리 배타 원리 해석 코펜하겐 해석 ( 보어-아인슈타인 논쟁 ) · 숨은 변수 이론 ( EPR 역설 · 벨의 부등식 · 광자 상자 ) · 다세계 해석 · 앙상블 해석 · 서울 해석 묘사 묘사 ( 슈뢰딩거 묘사 · 하이젠베르크 묘사 · 디랙 묘사) · 행렬역학
+연관 학문 | 천체물리학 ( 천문학 틀 · 우주론 · 양자블랙홀 · 중력 특이점 ) · 핵물리학 틀 ( 원자력 공학 틀 ) · 응집물질물리학 틀 · 컴퓨터 과학 틀 ( 양자컴퓨터 · 양자정보과학 ) · 통계역학 틀 · 양자화학 ( 물리화학 틀 ) · 입자물리학 ( 입자물리학 틀 )
+현상 · 응용 | 양자요동 · 양자 얽힘 · 양자 터널링 · 퍼텐셜 우물 · 양자 조화 진동자 · 오비탈 · 수소 원자 모형 · 쌓음 원리 · 훈트 규칙 · 섭동 ( 스핀 - 궤도 결합 · 제이만 효과 · 슈타르크 효과 · 헬만-파인만 정리 ) · 선택 규칙 · 변분 원리 · WKB 근사법 · 시간 결정 · 보스-아인슈타인 응집 · 솔리톤 · 카시미르 효과 · 아하로노프-봄 효과 · 블랙홀 정보 역설 · 양자점 · 하트리-포크 방법 · 밀도범함수 이론 · 준위 · 양자장론 ( 양자전기역학 · 양자색역학 ) · 뤼드베리 방정식 · 체렌코프 현상
+기타 | 군론 · 기본 입자 · 대칭성 · 비리얼 정리 · 리만 가설 · 매듭이론 · 밀도행렬 · 물질 · 방사선 ( 반감기 ) · 라플라스의 악마 · 슈뢰딩거의 고양이 ( 위그너의 친구 )
+문헌 | 교재 · 분류:물리학술지
+
+1 . 개요 2 . 순수 상태와 혼합 상태 2.1 . 순수 상태 2.2 . 혼합 상태 3 . 정의 4 . 기댓값 5 . 성질 5.1 . 자기수반성 5.2 . 순수 상태와 혼합 상태 6 . 시간 전개 7 . 관련 문서
+
+1. 개요 [편집]
+density matrix / 密 度 行 列
+
+확률 p j p_{j} p j ​ 로 상태 ∣ ψ j ⟩| \psi_{j}\rangle ∣ ψ j ​ ⟩ 가 나타나는 혼합 상태를 고려해보자. 이때, 밀도행렬은 다음과 같이 정의된다.
+
+ρ ^ = ∑ j p j ∣ ψ j ⟩ ⟨ ψ j ∣ \displaystyle \begin{aligned} \hat{\rho}=\sum_{j}p_{j} | \psi_{j} \rangle \langle \psi_{j} | \end{aligned} ρ ^ ​ = j ∑ ​ p j ​ ∣ ψ j ​ ⟩ ⟨ ψ j ​ ∣ ​
+
+만약 계가 하나의 상태 ∣ ψ ⟩| \psi \rangle ∣ ψ ⟩ 만 존재한다면, p j = 1 p_{j}=1 p j ​ = 1 이 되고, 이에 따라
+
+ρ ^ = ∣ ψ ⟩ ⟨ ψ ∣ \displaystyle \begin{aligned} \hat{\rho}= | \psi\rangle \langle \psi | \end{aligned} ρ ^ ​ = ∣ ψ ⟩ ⟨ ψ ∣ ​
+이 된다.
+
+2. 순수 상태와 혼합 상태 [편집]
+
+2.1. 순수 상태 [편집]
+계가 순수하게 하나의 상태 ∣ ψ ⟩| \psi \rangle ∣ ψ ⟩ 로 존재함을 알고 있다면
+
+ρ ^ = ∣ ψ ⟩ ⟨ ψ ∣ \displaystyle \begin{aligned} \hat{\rho}= | \psi\rangle \langle \psi | \end{aligned} ρ ^ ​ = ∣ ψ ⟩ ⟨ ψ ∣ ​
+이 된다.
+
+이러한 상태를 순수 상태 라 한다.
+
+2.2. 혼합 상태 [편집]
+혼합 상태는 외부와의 간섭 등으로 여러 가지 혼합 상태로 나타날 확률 p j p_{j} p j ​ 가 존재하고, 그 확률에 따라 순수 상태 ∣ ψ j ⟩| \psi_{j} \rangle ∣ ψ j ​ ⟩ 가 나타난다.
+
+그러므로 이때의 경우에는
+
+ρ ^ = ∑ j p j ∣ ψ j ⟩ ⟨ ψ j ∣ , ( p r o b a b i l i t y : p j ) \displaystyle \begin{aligned} \hat{\rho}=\sum_{j}p_{j} | \psi_{j} \rangle \langle \psi_{j} |,\quad\, (\small{{\sf{probability}\text{: }}p_{j} }) \end{aligned} ρ ^ ​ = j ∑ ​ p j ​ ∣ ψ j ​ ⟩ ⟨ ψ j ​ ∣ , ( probability : p j ​ ) ​
+
+형태로 나타날 것이다.
+
+3. 정의 [편집]
+이제 가측량 A ^ \hat{A} A ^ 에 대한 평균값을 계산해보자.
+
+⟨ A ⟩ = ⟨ Ψ ∣ A ^ ∣ Ψ ⟩ = ∑ i p i ⟨ ψ i ∣ A ^ ∣ ψ i ⟩ = ∑ i j k p i ⟨ ψ i ∣ j ⟩ ⟨ j ∣ A ^ ∣ k ⟩ ⟨ k ∣ ψ i ⟩ = ∑ j k [ ∑ i p i ⟨ k ∣ ψ i ⟩ ⟨ ψ i ∣ j ⟩ ] ⟨ j ∣ A ^ ∣ k ⟩ \displaystyle \begin{aligned} \langle A \rangle&=\langle \Psi |\hat{A}| \Psi \rangle \\&= \sum_{i} p_{i} \langle \psi_{i} |\hat{A}| \psi_{i} \rangle \\ &= \sum_{ijk} p_{i} \langle \psi_{i}| j \rangle \langle j |\hat{A}| k \rangle \langle k| \psi_{i} \rangle \\ &= \sum_{jk} \biggl[\sum_{i} p_{i} \langle k| \psi_{i} \rangle \langle \psi_{i}| j \rangle \biggr] \langle j |\hat{A}| k \rangle \end{aligned} ⟨ A ⟩ ​ = ⟨ Ψ∣ A ^ ∣Ψ ⟩ = i ∑ ​ p i ​ ⟨ ψ i ​ ∣ A ^ ∣ ψ i ​ ⟩ = ij k ∑ ​ p i ​ ⟨ ψ i ​ ∣ j ⟩ ⟨ j ∣ A ^ ∣ k ⟩ ⟨ k ∣ ψ i ​ ⟩ = j k ∑ ​ [ i ∑ ​ p i ​ ⟨ k ∣ ψ i ​ ⟩ ⟨ ψ i ​ ∣ j ⟩ ] ⟨ j ∣ A ^ ∣ k ⟩ ​
+여기서 나온
+
+ρ ^ ≡ ∑ i p i ∣ ψ i ⟩ ⟨ ψ i ∣ \displaystyle \begin{aligned} \hat{\rho} \equiv \sum_{i} p_{i} | \psi_{i} \rangle \langle \psi_{i}| \end{aligned} ρ ^ ​ ≡ i ∑ ​ p i ​ ∣ ψ i ​ ⟩ ⟨ ψ i ​ ∣ ​
+를 밀도 연산자 라 하고, 그것에 대응되는 행렬을 밀도행렬 이라 한다.
+
+4. 기댓값 [편집]
+이상에서 윗 식은 다음과 같이 표현 가능하다.
+
+⟨ A ⟩ = ∑ j k ⟨ k ∣ ρ ^ ∣ j ⟩ ⟨ j ∣ A ^ ∣ k ⟩ = tr ⁡ ( ρ ^ A ^ ) \displaystyle \begin{aligned} \langle A \rangle&= \sum_{jk} \langle k|\hat{\rho}| j \rangle \langle j|\hat{A}| k \rangle \\ &= \operatorname{tr}{(\hat{\rho} \hat{A})} \end{aligned} ⟨ A ⟩ ​ = j k ∑ ​ ⟨ k ∣ ρ ^ ​ ∣ j ⟩ ⟨ j ∣ A ^ ∣ k ⟩ = tr ( ρ ^ ​ A ^ ) ​
+
+5. 성질 [편집]
+위 식에서
+
+tr ⁡ ρ ^ = ∑ i j p i ⟨ j ∣ ψ i ⟩ ⟨ ψ i ∣ j ⟩ = ∑ i p i ⟨ ψ i ∣ ψ i ⟩ = ∑ i p i = 1 \displaystyle \begin{aligned} \operatorname{tr}{\hat{\rho}}&=\sum_{ij} p_{i} \langle j| \psi_{i} \rangle \langle \psi_{i}| j \rangle \\ &=\sum_{i} p_{i} \langle \psi_{i} | \psi_{i} \rangle \\ &=\sum_{i}p_{i} \\&=1 \end{aligned} tr ρ ^ ​ ​ = ij ∑ ​ p i ​ ⟨ j ∣ ψ i ​ ⟩ ⟨ ψ i ​ ∣ j ⟩ = i ∑ ​ p i ​ ⟨ ψ i ​ ∣ ψ i ​ ⟩ = i ∑ ​ p i ​ = 1 ​
+
+5.1. 자기수반성 [편집]
+쉽게 ρ ^ † = ρ ^ \hat{\rho}^{\dagger}=\hat{\rho} ρ ^ ​ † = ρ ^ ​ 임을 알 수 있으므로 밀도 연산자는 자기수반성을 가진다.
+
+5.2. 순수 상태와 혼합 상태 [편집]
+모든 밀도 행렬은
+
+tr ⁡ ρ ^ 2 ≤ 1 \displaystyle \begin{aligned} \operatorname{tr}{\hat{\rho}^{2}}\le1 \end{aligned} tr ρ ^ ​ 2 ≤ 1 ​
+을 만족한다.
+
+순수 상태의 경우 ρ ^ 2 = ρ ^ \hat{\rho}^{2}=\hat{\rho} ρ ^ ​ 2 = ρ ^ ​ 임을 알 수 있고, 이에 따라
+
+tr ⁡ ρ ^ 2 = 1 \displaystyle \begin{aligned} \operatorname{tr}{\hat{\rho}^{2}}=1 \end{aligned} tr ρ ^ ​ 2 = 1 ​
+이다. 그러나 혼합 상태의 경우에는
+
+tr ⁡ ρ ^ 2 < 1 \displaystyle \begin{aligned} \operatorname{tr}{\hat{\rho}^{2}}<1 \end{aligned} tr ρ ^ ​ 2 < 1 ​
+이다.
+
+6. 시간 전개 [편집]
+슈뢰딩거 방정식에 의하면
+
+i ℏ ∂ ∂ t ∣ ψ ⟩ = H ^ ∣ ψ ⟩ \displaystyle \begin{aligned} i\hbar \frac{\partial}{\partial t} | \psi \rangle=\hat{\mathcal{H}} | \psi \rangle \end{aligned} i ℏ ∂ t ∂ ​ ∣ ψ ⟩ = H ^ ∣ ψ ⟩ ​
+양변에 복소 공액을 취하면,
+
+− i ℏ ∂ ∂ t ⟨ ψ ∣ = ⟨ ψ ∣ H ^ \displaystyle \begin{aligned} -i\hbar \frac{\partial}{\partial t} \langle \psi |=\langle \psi | \hat{\mathcal{H}} \end{aligned} − i ℏ ∂ t ∂ ​ ⟨ ψ ∣ = ⟨ ψ ∣ H ^ ​
+
+따라서 밀도행렬의 시간 전개는
+
+i ℏ ∂ ρ ^ ∂ t = i ℏ ∑ j p j [ ( ∂ ∂ t ∣ ψ j ⟩ ) ⟨ ψ j ∣ + ∣ ψ j ⟩ ( ∂ ∂ t ⟨ ψ j ∣ ) ] = ∑ j p j ( H ^ ρ j − ρ j H ^ ) = [ H ^ , ρ ^ ] \displaystyle \begin{aligned} i\hbar \frac{\partial \hat{\rho}}{\partial t} &=i\hbar \sum_{j} p_{j}\biggl[ \biggl( \frac{\partial}{\partial t}| \psi_{j} \rangle \biggr) \langle \psi_{j}| + | \psi_{j} \rangle \biggl( \frac{\partial}{\partial t}\langle \psi_{j}| \biggr) \biggr] \\ &=\sum_{j}p_{j} (\hat{\mathcal{H}} \rho_{j}-\rho_{j}\hat{\mathcal{H}} ) \\ &=[\hat{\mathcal{H}},\,\hat{\rho}] \end{aligned} i ℏ ∂ t ∂ ρ ^ ​ ​ ​ = i ℏ j ∑ ​ p j ​ [ ( ∂ t ∂ ​ ∣ ψ j ​ ⟩ ) ⟨ ψ j ​ ∣ + ∣ ψ j ​ ⟩ ( ∂ t ∂ ​ ⟨ ψ j ​ ∣ ) ] = j ∑ ​ p j ​ ( H ^ ρ j ​ − ρ j ​ H ^ ) = [ H ^ , ρ ^ ​ ] ​
+으로, 다음과 같다.
+
+i ℏ ∂ ρ ^ ∂ t = [ H ^ , ρ ^ ] \displaystyle \begin{aligned} i\hbar \frac{\partial \hat{\rho}}{\partial t} = [\hat{\mathcal{H}},\,\hat{\rho}] \end{aligned} i ℏ ∂ t ∂ ρ ^ ​ ​ = [ H ^ , ρ ^ ​ ] ​
+이것을 폰 노이만 방정식 이라 한다.
+
+7. 관련 문서 [편집]
+- 물리학
+- 양자역학
+- 통계역학
+
+[ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 남동구가구 전문 썸앤데코
+m.place.naver.com/place/1778971598 v-if
+자체제작 가구 및 타브랜드제품을 가성비있게 제공하는 가구전문 브랜드 썸앤데코
+
+] | [ 사무실의 모든것 지니오피스!
+jinioffice.co.kr v-if
+[ [ 회사소개 ] [ 납품실적 ] [ 견적문의 ] [ 고객센터 ] ]
+기업맞춤형 비즈니스 토탈 쇼핑몰! 사무집기, 냉난방, OA전문, 상품+가격 경쟁력
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

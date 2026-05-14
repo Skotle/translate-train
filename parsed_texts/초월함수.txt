@@ -1,0 +1,205 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 초월함수
+최근 수정 시각: 2026-02-20 13:40:02 [ [ [ ] [ [ 22 ] ] ] [ [ ] [ 편집 v-if ] ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 해석학(수학)
+- 함수
+]
+
+[ [ ] [ 해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 상세 3 . 초월함수/특수함수들의 목록
+
+1. 개요 [편집]
+超 越 函 數 / transcendental function
+
+대수함수 가 아닌 함수, 즉 다항함수가 포함된 다항식의 근으로 나타낼 수 없는 함수이다. 즉, 어떤 2변수 다항식 Φ \Phi Φ 가 Φ ( x , f ( x ) ) = 0 \Phi(x,f(x))=0 Φ ( x , f ( x )) = 0 을 만족시키면 f f f 는 대수함수라 할 수 있고, 그렇지 않은 함수들이 초월함수이다. [1] 초등함수 인 지수함수 , 로그함수 , 삼각함수 는 모두 "초월함수"이다. 반대로 대수함수이지만 초등함수가 아닌 함수도 많다. 대표적으로 브링 근호 가 있다.
+
+2. 상세 [편집]
+초월함수(transcendental function)들은 대수적으로 표현할 수 없는 함수로 주로 미분방정식 및 적분 방정식의 풀이에 등장한다. 대표적으로 베셀의 미분 방정식 x 2 y ′ ′ + x y ′ + ( x 2 − n 2 ) y = 0 x^2 y'' + xy' + (x^2-n^2)y=0 x 2 y ′′ + x y ′ + ( x 2 − n 2 ) y = 0 을 풀었을 때 나오는 베셀 함수 (Bessel function)가 그 예이다. 이 함수는 원통좌표계(cylindrical coordinate system)가 들어간 물리현상이면 거의 무조건이라고 해도 좋다 싶을 정도로 등장한다. 특수한 경우가 아니면 일반적인 초등함수로 나타내어질 수 없기에 난해하지만, 삼각함수의 성질만큼이나 다양한 성질들을 가지고 있으며 활용되는 곳도 많다.
+
+특수함수(special function)는 특수한 목적으로 고안된 함수로 초월함수를 포함하는 광범위한 부류의 명칭으로 쓰이곤 한다. 보통 초월함수라 하면 미분방정식 및 적분방정식의 풀이에서 등장하는 특수함수들을 의미하고, (경우에 따라 다르긴 하지만) 소수 계량 함수 같은 불연속인 특수함수들은 잘 포함시키지 않는 편이다. [2]
+
+물리학과와 공학계열은 기초 미적분학에서 쌍곡함수 를 만나고, 감마 함수 , 베셀 함수 , 르장드르 함수 정도는 공업수학 , 수리물리학 이나 각종 전공에서 심심치 않게 만난다. 수학과는 정수론 중 해석적 정수론 을 공부하면 리만 제타 함수의 친척들인 L L L -함수 등의 특수함수들을 지겹게 보게 될 것이다.
+
+3. 초월함수/특수함수들의 목록 [편집]
+초등함수
+Elementary Functions
+[ 펼치기 · 접기 ] 대수함수 | 유리함수 · 무리함수
+다항함수 | 상수함수 · 일차함수 · 이차함수 · 삼차함수 · 사차함수 · 추론 · 공식 ( 길이 · 넓이 ) · 소수생성다항식
+초월함수 | 지수함수 ( 확률밀도함수 · 허수지수함수 ) · 로그함수 ( 복소로그함수 ) · 삼각함수 ( 역삼각함수 ) · 쌍곡선 함수 ( 역쌍곡선 함수 )
+
+특수함수
+Special Functions
+[ 펼치기 · 접기 ] 적분 | 오차함수 (error function) ( 가우스 함수 · 가우스 적분 함수) · 베타 함수 ( 불완전 베타 함수 ) · 감마 함수 ( 불완전 감마 함수 · 로그 감마 함수 ) · 타원 적분 · 야코비 타원 함수 · 지수 적분 함수 · 로그 적분 함수 · 삼각 적분 함수 · 쌍곡선 적분 함수 · 프레넬 적분 함수 · 구데르만 함수 · 세타 함수
+미분방정식 | 르장드르 함수 ∗ ^\ast ∗ ( 구면 조화 함수 ) · 베셀 함수 · 에르미트 함수 · 라게르 함수 · 에어리 함수
+역함수 | 브링 근호 · 람베르트 W 함수 · 역삼각함수
+급수 | 제타 함수 · 후르비츠 제타 함수 · 디리클레 베타 함수 · 초기하함수 · 폴리로그함수 · 폴리감마 함수 · 바이어슈트라스 타원 함수
+정수론 | 소수 계량 함수 · 소인수 계량 함수 · 뫼비우스 함수 · 최대공약수 · 최소공배수 · 약수 함수 · 오일러 피 함수 · 폰 망골트 함수 · 체비쇼프 함수 · 바쁜 비버 함수
+기타 | 헤비사이드 계단함수 · 부호 함수 ( 절댓값 ) · 테트레이션 ( 무한 지수 탑 함수 ) · 지시함수 · 바닥함수 / 천장함수 · 허수지수함수 · 혹 함수
+∗ ^\ast ∗ 특수함수가 아니라 특정 조건을 만족시키는 다항함수이지만, 편의상 이곳에 기술했다.
+
+- 최대 정수 함수
+- 최소 정수 함수
+- 최대공약수
+- 최소공배수
+- 켤레복소수 함수 z ‾ = z ∗ = { ∣ z ∣ 2 z if z ≠ 0 0 if z = 0 \overline{z} = z^* = \begin{cases} \dfrac{|z|^2}{z} &\textsf{if }z\neq 0\\ 0 &\textsf{if }z=0 \end{cases} z = z ∗ = ⎩ ⎨ ⎧ ​ z ∣ z ∣ 2 ​ 0 ​ if z  = 0 if z = 0 ​
+
+허수부의 부호를 반전시키는 함수이다.
+- 실수부/허수부 함수 ℜ ( z ) = Re ( z ) = z + z ‾ 2 \Re(z)=\text{Re}(z)=\dfrac{z+\overline{z}}{2} ℜ ( z ) = Re ( z ) = 2 z + z ​
+ℑ ( z ) = Im ( z ) = z − z ‾ 2 i \Im(z)=\text{Im}(z)=\dfrac{z-\overline{z}}{2i} ℑ ( z ) = Im ( z ) = 2 i z − z ​
+
+복소수 에서 실수 부 혹은 허수 부만을 취할 때 사용하는 함수이다.
+실수부 함수의 경우 ( ℜ ∘ ℜ ) ( z ) = ℜ ( z ) (\Re\circ\Re)(z)=\Re(z) ( ℜ ∘ ℜ ) ( z ) = ℜ ( z ) 가 성립하는 멱등함수이다.
+- 부호 함수 [3] s g n ( x ) = { x ∥ x ∥ if x ≠ 0 0 if x = 0 \mathrm{sgn}(x)=\begin{cases} \dfrac{x}{\|x\|} &\textsf{if }x\neq 0\\ 0 &\textsf{if }x=0 \end{cases} sgn ( x ) = ⎩ ⎨ ⎧ ​ ∥ x ∥ x ​ 0 ​ if x  = 0 if x = 0 ​
+
+절댓값 함수를 미분하면 나오는 함수로, 말 그대로 수의 부호를 판별한다. 일반적으로 양수를 넣을 경우 1 1 1 이, 음수를 넣을 경우 − 1 -1 − 1 이, 0 0 0 을 넣을 경우 0 0 0 이 나온다. 주로 점화식 에서 특정한 수의 부호만을 취할 때 사용한다. ( s g n ∘ s g n ) ( x ) = s g n ( x ) (\mathrm{sgn}\circ\mathrm{sgn})(x)=\mathrm{sgn}(x) ( sgn ∘ sgn ) ( x ) = sgn ( x ) 가 성립하는 멱등함수이다.
+그런데 복소수 가 들어올 경우 이 함수가 고장(?)이 나버리는데, 분모의 절댓값(엄밀히는 노름 )이 복소수에서는 정의가 달라지기 때문이다. [4] [5] - 복소 부호 함수 c s g n ( z ) = { ℜ ( z ) ∥ ℜ ( z ) ∥ if ℜ ( z ) ≠ 0 ℑ ( z ) ∥ ℑ ( z ) ∥ if ℜ ( z ) = 0 , ℑ ( z ) ≠ 0 0 if ℜ ( z ) = 0 , ℑ ( z ) = 0 \mathrm{csgn}(z)=\begin{cases} \dfrac{\Re(z)}{\|\Re(z)\|} &\textsf{if } \Re(z)\neq 0\\ \dfrac{\Im(z)}{\|\Im(z)\|} &\textsf{if } \Re(z)=0,\Im(z)\neq 0\\ 0 &\textsf{if } \Re(z)= 0,\Im(z)= 0 \end{cases} csgn ( z ) = ⎩ ⎨ ⎧ ​ ∥ℜ ( z ) ∥ ℜ ( z ) ​ ∥ℑ ( z ) ∥ ℑ ( z ) ​ 0 ​ if ℜ ( z )  = 0 if ℜ ( z ) = 0 , ℑ ( z )  = 0 if ℜ ( z ) = 0 , ℑ ( z ) = 0 ​
+
+위 부호 함수가 복소수에서 고장나는 맹점을 해결하기 위해 복소수용으로 따로 만든 함수. 순허수 일 경우에만 허수부의 부호를 판별하고 그 외의 경우에는 실수부의 부호만을 판별한다.
+- 삼각함수 - 싱크 함수 s i n c ( x ) = sin ⁡ x x \displaystyle\mathrm{sinc}(x)=\frac{\sin{x}}{x} sinc ( x ) = x sin x ​
+- 역삼각함수
+- 지수함수 - 테트레이션 함수
+- 초제곱근함수 x s = e ( W ∘ ln ⁡ ) ( x ) \sqrt{x}_s=e^{(W\circ\ln)(x)} x ​ s ​ = e ( W ∘ l n ) ( x ) [6]
+- 로그함수 - 폴리로그함수
+- 초로그함수 s l o g n ( x ) : f ( x ) = n ↑ ↑ x → x \mathrm{slog}_n(x):f(x)=n\uparrow\uparrow x\to x slog n ​ ( x ) : f ( x ) = n ↑↑ x → x
+
+위의 테트레이션 함수의 역함수이다.
+- 쌍곡선함수
+- 정규분포 함수
+- 소수 계량 함수
+- 감마 함수 - 폴리감마 함수
+- 베타 함수
+- 제타 함수
+- 타원 적분
+- 르장드르 함수 [7] , 버금 르장드르 함수 , 구면 조화 함수
+- 베셀 함수 [8] , 노이만 함수(제2종 베셀 함수), 한켈 함수 (제3종 베셀 함수), 수정 베셀 함수 , 구면 베셀 함수 , ...
+- 오차함수 [9] e r f ( x ) = 2 π ∫ 0 x e − t 2 d t \displaystyle\mathrm{erf}(x)=\frac{2}{\sqrt{\pi}}\int_{0}^{x}e^{-t^{2}}\mathrm{d}t erf ( x ) = π ​ 2 ​ ∫ 0 x ​ e − t 2 d t
+e r f c ( x ) = 2 π ∫ x ∞ e − t 2 d t \displaystyle\mathrm{erfc}(x)=\frac{2}{\sqrt{\pi}}\int_{x}^{\infty}e^{-t^{2}}\mathrm{d}t erfc ( x ) = π ​ 2 ​ ∫ x ∞ ​ e − t 2 d t
+e r f i ( x ) = 2 π ∫ 0 x e t 2 d t \displaystyle\mathrm{erfi}(x)=\frac{2}{\sqrt{\pi}}\int_{0}^{x}e^{t^{2}}\mathrm{d}t erfi ( x ) = π ​ 2 ​ ∫ 0 x ​ e t 2 d t
+- 지수 적분 함수 (exponential integral) [10] E i ( x ) = − ∫ − x ∞ e − t t d t \displaystyle\mathrm{Ei}(x)=-\int_{-x}^{\infty}\frac{e^{-t}}{t}\,\mathrm{d}t Ei ( x ) = − ∫ − x ∞ ​ t e − t ​ d t
+- 로그 적분 함수 (logarithmic integral) [11] l i ( x ) = ∫ 0 x d t ln ⁡ t \displaystyle\mathrm{li}(x)=\int_{0}^{x}\frac{\mathrm{d}t}{\ln t} li ( x ) = ∫ 0 x ​ ln t d t ​
+L i ( x ) = l i ( x ) − l i ( 2 ) = ∫ 2 x d t ln ⁡ t \displaystyle\mathrm{Li}(x)=\mathrm{li}(x)-\mathrm{li}(2)=\int_{2}^{x}\frac{\mathrm{d}t}{\ln t} Li ( x ) = li ( x ) − li ( 2 ) = ∫ 2 x ​ ln t d t ​ [12]
+- 코사인/사인 적분 (cosine and sine integrals) [13] C i ( x ) = − ∫ x ∞ cos ⁡ t t d t \displaystyle\mathrm{Ci}(x)=-\int_{x}^{\infty}\frac{\cos{t}}{t}\,\mathrm{d}t Ci ( x ) = − ∫ x ∞ ​ t cos t ​ d t
+S i ( x ) = ∫ 0 x sin ⁡ t t d t \displaystyle\mathrm{Si}(x)=\int_{0}^{x}\frac{\sin{t}}{t}\,\mathrm{d}t Si ( x ) = ∫ 0 x ​ t sin t ​ d t
+- 쌍곡선 적분 함수 (hyperbolic integrals) [14] S h i ( x ) = ∫ 0 x sinh ⁡ t t d t \displaystyle\mathrm{Shi}(x)=\int_{0}^{x}\frac{\sinh{t}}{t}\,\mathrm{d}t Shi ( x ) = ∫ 0 x ​ t sinh t ​ d t
+C h i ( x ) = γ + ln ⁡ x + ∫ 0 x cosh ⁡ t − 1 t d t \displaystyle\mathrm{Chi}(x)=\gamma+\ln x+\int_{0}^{x}\frac{\cosh{t}-1}{t}\,\mathrm{d}t Chi ( x ) = γ + ln x + ∫ 0 x ​ t cosh t − 1 ​ d t [15]
+- 프레넬 코사인/사인 적분 (Fresnel integrals) [16] S ( x ) = ∫ 0 x sin ⁡ t 2 d t \displaystyle S(x)=\int_{0}^{x} \sin t^2 \,\mathrm{d}t S ( x ) = ∫ 0 x ​ sin t 2 d t
+C ( x ) = ∫ 0 x cos ⁡ t 2 d t \displaystyle C(x)=\int_{0}^{x} \cos t^2 \,\mathrm{d}t C ( x ) = ∫ 0 x ​ cos t 2 d t
+- 에르미트 함수 (Hermite functions) H n ( x ) = ( − 1 ) n e x 2 ( d d x ) n e − x 2 \displaystyle H_{n}(x)=(-1)^{n}e^{x^{2}}\left(\frac{\mathrm{d}}{\mathrm{d}x}\right)^{n}e^{-x^{2}} H n ​ ( x ) = ( − 1 ) n e x 2 ( d x d ​ ) n e − x 2
+H 0 ( x ) = 1 H_{0}(x)=1 H 0 ​ ( x ) = 1
+H 1 ( x ) = 2 x H_{1}(x)=2x H 1 ​ ( x ) = 2 x
+H 2 ( x ) = 4 x 2 − 2 H_{2}(x)=4x^{2}-2 H 2 ​ ( x ) = 4 x 2 − 2
+H 3 ( x ) = 8 x 3 − 12 x H_{3}(x)=8x^{3}-12x H 3 ​ ( x ) = 8 x 3 − 12 x
+H 4 ( x ) = 16 x 4 − 48 x 2 + 12 H_{4}(x)=16x^{4}-48x^{2}+12 H 4 ​ ( x ) = 16 x 4 − 48 x 2 + 12
+⋯ \cdots ⋯
+
+주로 양자역학에서 단순 조화 진동자 문제를 풀었을 때 튀어나오는 놈이다. 얘도 n n n 이 정수일 때는 다항함수로 나타난다.
+- 라게르 함수 (Laguerre functions) L n ( x ) = e x n ! ( d d x ) n ( x n e − x ) \displaystyle L_{n}(x)=\frac{e^{x}}{n!}\left(\frac{\mathrm{d}}{\mathrm{d}x}\right)^{n}(x^{n}e^{-x}) L n ​ ( x ) = n ! e x ​ ( d x d ​ ) n ( x n e − x )
+L 0 ( x ) = 1 L_{0}(x)=1 L 0 ​ ( x ) = 1
+L 1 ( x ) = − x + 1 L_{1}(x)=-x+1 L 1 ​ ( x ) = − x + 1
+2 L 2 ( x ) = x 2 − 4 x + 2 2L_{2}(x)=x^{2}-4x+2 2 L 2 ​ ( x ) = x 2 − 4 x + 2
+6 L 3 ( x ) = − x 3 + 9 x 2 − 18 x + 6 6L_{3}(x)=-x^{3}+9x^{2}-18x+6 6 L 3 ​ ( x ) = − x 3 + 9 x 2 − 18 x + 6
+24 L 4 ( x ) = x 4 − 16 x 3 + 72 x 2 − 96 x + 24 24L_{4}(x)=x^{4}-16x^{3}+72x^{2}-96x+24 24 L 4 ​ ( x ) = x 4 − 16 x 3 + 72 x 2 − 96 x + 24
+⋯ \cdots ⋯
+- 버금 라게르 함수 (associated Laguerre functions) L n k ( x ) = ( − 1 ) n ( d d x ) k L n + k ( x ) \displaystyle L_{n}^{k}(x)=(-1)^{n}\left(\frac{\mathrm{d}}{\mathrm{d}x}\right)^{k}L_{n+k}(x) L n k ​ ( x ) = ( − 1 ) n ( d x d ​ ) k L n + k ​ ( x )
+
+수소 원자의 슈뢰딩거 방정식을 풀었을 때 반지름 방향의 해에서 나타난다.
+- 체비쇼프 다항식 (Chebyshev polynomial) T n ( x ) = ( − 1 ) n ( 1 − x 2 ) 1 / 2 ( 2 n − 1 ) ! ! ( d d x ) n ( 1 − x 2 ) n − 1 / 2 \displaystyle T_{n}(x)=\frac{(-1)^{n}(1-x^{2})^{1/2}}{(2n-1)!!}\left(\frac{\mathrm{d}}{\mathrm{d}x}\right)^{n}(1-x^{2})^{n-1/2} T n ​ ( x ) = ( 2 n − 1 )!! ( − 1 ) n ( 1 − x 2 ) 1/2 ​ ( d x d ​ ) n ( 1 − x 2 ) n − 1/2
+U n ( x ) = ( − 1 ) n ( n + 1 ) ( 2 n + 1 ) ! ! ⋅ ( 1 − x 2 ) 1 / 2 ( d d x ) n ( 1 − x 2 ) n + 1 / 2 \displaystyle U_{n}(x)=\frac{(-1)^{n}(n+1)}{(2n+1)!!\cdot(1-x^{2})^{1/2}}\left(\frac{\mathrm{d}}{\mathrm{d}x}\right)^{n}(1-x^{2})^{n+1/2} U n ​ ( x ) = ( 2 n + 1 )!! ⋅ ( 1 − x 2 ) 1/2 ( − 1 ) n ( n + 1 ) ​ ( d x d ​ ) n ( 1 − x 2 ) n + 1/2
+- 초기하함수 (hypergeometric functions) - 브링 근호 (Bring radical) B R ( x ) = − x 4 F 3 ( 1 5 , 2 5 , 3 5 , 4 5 ; 1 2 , 3 4 , 5 4 ; − 5 ( 5 x 4 ) 4 ) \mathrm{BR}(x)=-x\,{}_4{F}_3\left(\dfrac{1}{5},\,\dfrac{2}{5},\,\dfrac{3}{5},\,\dfrac{4}{5};\,\dfrac{1}{2},\,\dfrac{3}{4},\,\dfrac{5}{4};\,-5\left(\dfrac{5x}{4}\right)^4\right) BR ( x ) = − x 4 ​ F 3 ​ ( 5 1 ​ , 5 2 ​ , 5 3 ​ , 5 4 ​ ; 2 1 ​ , 4 3 ​ , 4 5 ​ ; − 5 ( 4 5 x ​ ) 4 )
+
+초기하함수로 유도할 수 있는 함수로, 5차방정식의 실수해를 구할 때 쓰인다.
+- Whittaker functions
+- Mathieu functions
+- 에어리 함수 (Airy functions)
+- 클라우젠 함수 (Clausen function)
+- 람베르트 W 함수 (Lambert W function) - 지수함수의 일종인 x e x xe^x x e x 의 역함수이다.
+- 후르비츠 제타 함수 (Hurwitz zeta function)
+- 헤비사이드 계단 함수 (Heaviside step function) θ ( x ) = 1 2 ( s g n ( x ) + 1 ) \theta(x)=\dfrac{1}{2}\left(\mathrm{sgn}(x)+1\right) θ ( x ) = 2 1 ​ ( sgn ( x ) + 1 ) [17]
+
+부호 없는 부호 함수 . 디랙 델타 함수 의 원시함수이며, 디랙 델타 함수를 연구했던 올리버 헤비사이드 의 이름을 따왔다.
+학자마다 x = 0 x=0 x = 0 의 함숫값의 정의가 다른데, 위 정의처럼 θ ( 0 ) = 1 2 \theta(0)=\dfrac{1}{2} θ ( 0 ) = 2 1 ​ 로 잡고 쓰는 사람이 있고, 함수 정의에 최소 정수 함수 ⌈ x ⌉ \left\lceil x\right\rceil ⌈ x ⌉ 를 사용해 θ ( 0 ) = 1 \theta(0)=1 θ ( 0 ) = 1 로 잡고 쓰는 사람도 있다.
+- 발판 함수 (ramp function) R ( x ) = x 2 ( s g n ( x ) + 1 ) = ∣ x ∣ + x 2 R(x)=\dfrac{x}{2}(\mathrm{sgn}(x)+1)=\dfrac{|x|+x}{2} R ( x ) = 2 x ​ ( sgn ( x ) + 1 ) = 2 ∣ x ∣ + x ​
+
+말 그대로 발판 모양의 그래프를 그리는 함수로, x < 0 x<0 x < 0 구간에서는 함숫값이 모두 0이며, x ≥ 0 x\geq 0 x ≥ 0 구간에서는 y = x y=x y = x 와 동일하다. 기계학습 에서는 ReLU (Rectified Linear Unit) 활성화 함수라고 부른다.
+또한 ( R ∘ R ) ( x ) = R ( x ) (R\circ R)(x)=R(x) ( R ∘ R ) ( x ) = R ( x ) 가 성립하는 멱등함수이다.
+- 지시함수 1 A ( x ) = { 1 if x ∈ A 0 if x ∉ A \bold{1}_A(x)=\begin{cases}1&\textsf{if }x\in A\\0&\textsf{if }x\notin A\end{cases} 1 A ​ ( x ) = { 1 0 ​ if x ∈ A if x ∈ / A ​
+
+원소가 해당하는 집합 에 속해 있는가를 가리는 함수. 지시함수, 특성함수라고도 한다.
+여기서 A = Q A=\mathbb{Q} A = Q 로 정의한 1 Q ( x ) \bold{1}_{\mathbb{Q}}(x) 1 Q ​ ( x ) 는 따로 디리클레 함수(Dirichlet Function) [18] 라는 이름으로 불린다.
+한편 A = N A=\mathbb{N} A = N 으로 정의한 1 N ( x ) \bold{1}_{\mathbb{N}}(x) 1 N ​ ( x ) 는 멱등함수이다.
+- 혹 함수 (bump Function) Ψ ( x ) = 1 { x : ∥ x ∥ < 1 } e − 1 1 − x 2 \mathrm{\Psi}(x)=\bold{1}_{\{x:\|x\|<1\}}e^{-\frac{1}{1-x^2}} Ψ ( x ) = 1 { x : ∥ x ∥ < 1 } ​ e − 1 − x 2 1 ​
+
+시험 함수(test function)라고도 하며, 분포(distribution)에 속하는 디랙 델타 함수 를 정의하는 데 쓰인다.
+
+- 바쁜 비버 함수 (busy beaver function)
+
+위 함수들에 대한 이론이나 적용은 관련 서적을 참고하기 바란다. [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 인천논현동 맛집 소문난껍데기
+map.naver.com/p/entry/place/1943388597 v-if
+여기 껍데기 안 먹어봤다는 건 인생의 반을 손해 본 거예요! 동네 맛집의 자부심!
+
+] | [ 확실한 지원금! 인터넷가입
+internetsignal.shop v-if
+[ [ 인터넷가입 ] [ 전국최대 ] [ 지원금받기 ] ]
+남동유선방송 비밀지원금지급 고객불만Zero 당일개통! 당일입금! 확실한 요금설계
+
+]
+
+[1] 대수함수를 '다항함수에 사칙연산과 거듭제곱근 연산을 유한 번 적용해 얻는 함수'로 정의하는 것은 흔한 오개념 중 하나이다. 거듭제곱근으로 나타낼 수 없는 대수함수로는 x 5 + x + a = 0 x^5+x+a=0 x 5 + x + a = 0 의 실근을 나타내는 브링 근호(Bring radical) B R ( a ) \mathrm{BR}(a) BR ( a ) 같은 함수들이 있다. [2] 전술한 소수 계량 함수같이 정수론 의 성격이 짙은 함수는 따로 산술함수 라고 불린다. [3] 시그넘 함수(signum Function)라고도 한다. [4] 가령 s g n ( 1 − i ) \mathrm{sgn}(1-i) sgn ( 1 − i ) 의 값은 1 − i ℜ ( 1 − i ) 2 + ℑ ( 1 − i ) 2 = 1 − i 2 \dfrac{1-i}{\sqrt{\Re(1-i)^2+\Im(1-i)^2}}=\dfrac{1-i}{\sqrt{2}} ℜ ( 1 − i ) 2 + ℑ ( 1 − i ) 2 ​ 1 − i ​ = 2 ​ 1 − i ​ 가 된다. [5] 한편으로는 이 '고장난 부호 함수'에 흥미로운 점이 있는데, 0 0 0 이 아닌 복소수의 함숫값은 반드시 단위원 위의 점이라는 것이다. 사실 복소수에서도 부호 함수의 작동 방식은 비슷한데, 실수에서는 수가 양 또는 음의 방향인가를 절댓값이 1 1 1 인 수로 나타내고, 복소수에서는 복소수가 향하는 방향(또는 편각)을 가지고 절댓값이 1 1 1 인 수로 나타낸다. [6] W ( x ) W(x) W ( x ) 는 람베르트 W 함수 이다. [7] 이 함수는 특수한 경우( P n ( x ) P_n(x) P n ​ ( x ) 에서 n n n 이 정수일 때)에서는 다항식 꼴이 된다. [8] 이 역시 특수한 경우에 한해서 대수함수와 삼각함수의 조합으로 나타낼 수 있다. [9] 五次函數(5차함수, quintic function)가 아니고 誤差函數(error function)이다. [10] e x x \displaystyle {e^x\over x} x e x ​ 의 부정적분에 대응한다. [11] 1 ln ⁡ x \displaystyle {1\over\ln x} ln x 1 ​ 의 부정적분에 대응한다. [12] 위의 로그 적분이 피적분함수의 특이점을 포함하기 때문에 골치 아픈 점을 피해가기 위한 함수다. [13] 각각 cos ⁡ x x \displaystyle{\cos x\over x} x cos x ​ 와 sin ⁡ x x \displaystyle{\sin x\over x} x sin x ​ 의 부정적분에 대응한다. [14] 각각 sinh ⁡ x x \displaystyle{\sinh x\over x} x sinh x ​ 와 cosh ⁡ x x \displaystyle{\cosh x\over x} x cosh x ​ 의 부정적분에 대응한다. [15] γ \gamma γ 는 오일러-마스케로니 상수 이다. [16] 각각 sin ⁡ x 2 \sin x^2 sin x 2 와 cos ⁡ x 2 \cos x^2 cos x 2 의 부정적분에 대응한다. [17] θ ( x ) \theta(x) θ ( x ) 대신 H ( x ) , u ( x ) H(x), u(x) H ( x ) , u ( x ) 등을 쓰기도 한다. u ( x ) u(x) u ( x ) 의 형태는 라플라스 변환 을 다룰 때 자주 등장하는 형태이다. [18] 실해석학 에서 '완전 불연속 함수'와 그에 대한 적분을 배울 때 나오는 녀석이다. ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]

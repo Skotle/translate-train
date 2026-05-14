@@ -1,0 +1,384 @@
+[ [ 최근 변경 최근 토론 [ 특수 기능 ] [ ] [ ] ] [ v-if
+
+v-if 미분
+최근 수정 시각: 2026-05-04 07:28:03 [ [ [ ] [ [ 48 ] ] ] [ [ [ ] [ 편집 요청 ] ] ] [ 편집 요청 ] [ 편집 권한이 부족합니다. 로그인된 사용자(이)여야 합니다. 해당 문서의 ACL 탭 을 확인하시기 바랍니다. [
+편집 권한이 부족한 경우 아래의 '편집 요청' 버튼으로 편집 요청을 생성할 수 있습니다. [편집 요청 도움말] ] ] [ 편집 요청 ] [ 닫기 ] [ [ ] [ 토론 ] ] [ [ ] [ 역사 ] ] ] [ [ ] ] v-if v-if [ [ [ [ 분류 [ - 해석학(수학)
+- 미적분
+]
+
+[ [ ] [ 쌀가루 미분(米粉)에 대한 내용은 쌀가루 문서를 참고하십시오.
+해석학 · 미적분학 Analysis · Calculus
+[ 펼치기 · 접기 ] 실수와 복소수 | 실수 ( 실직선 · 아르키메데스 성질 ) · 복소수 ( 복소평면 · 극형식 · 편각 ) · 근방 · 유계 · 콤팩트성 · 완비성
+함수 | 함수 · 조각적 정의 · 항등함수 · 역함수 · 멱함수 · 다변수함수 ( 동차함수 · 음함수 ) · 다가 함수 · 함수의 그래프 ( 절편 ) · 좌표계 · 닮은꼴 함수 · 극값 · 볼록/오목 · 증감표
+초등함수 ( 대수함수 · 초월함수 · 로그함수 · 지수함수 · 삼각함수 ) · 특수함수 · 범함수 ( 변분법 · 오일러 방정식 ) · 병리적 함수
+극한 ·연속 | 함수의 극한 · 수열의 극한 · 연속함수 · ε-δ 논법 · 수렴 ( 균등수렴 ) · 발산 · 부정형 · 점근선 · 무한대 · 무한소 · 특이점 · 0.999…=1
+중간값 정리 · 최대·최소 정리 · 부동점 정리 · 스털링 근사 · 선형근사 ( 어림 )
+수열 · 급수 | 수열 ( 규칙과 대응 ) · 급수 ( 기하급수 · 조화급수 · 멱급수 · 테일러 급수 ( /목록 ) · 그란디 급수 ( 라마누잔합 ) · 망원급수 ( 부분분수분해 )) · 그물
+오일러 수열 · 베르누이 수열 · 월리스 곱 · 피보나치 수열
+단조 수렴 정리 · 슈톨츠-체사로 정리 · 축소구간정리 · 급수의 수렴 판정 · 리만 재배열 정리 · 바젤 문제 · 파울하버의 공식 · 오일러-매클로린 공식 · 콜라츠 추측 미해결
+미분 | 미분 · 도함수 ( 이계도함수 · 도함수 일람 ) · 곱미분 · 몫미분 · 연쇄 법칙 · 임계점 ( 변곡점 · 안장점 ) · 매끄러움
+평균값 정리 ( 롤의 정리 ) · 테일러 정리 · 역함수 정리 · 다르부 정리 · 로피탈 정리
+립시츠 규칙 · 뉴턴-랩슨 방법 · 유율법 · 경사하강법
+적분 | 적분 · 정적분 ( /예제 ) · 스틸체스 적분 · 부정적분 ( 부정적분 일람 ) · 부분적분 ( LIATE 법칙 · 도표적분법 · /예제 ) · 치환적분 · 이상적분 ( 코시 주욧값 )
+미적분의 기본정리 · 적분의 평균값 정리
+리시 방법 · 2학년의 꿈
+다변수· 벡터 미적분 | 편도함수 · 미분형식 · ∇ · 중적분 ( 선적분 · 면적분 · 야코비안 ) · 야코비 공식
+라그랑주 승수법 · 오일러 동차함수 정리 · 선적분의 기본정리 · 스토크스 정리 ( 발산 정리 · 그린 정리 )· 변분법
+미분방정식 | 미분방정식 ( /풀이 ) · 라플라스 변환
+실해석 · 측도론 | 측도 · 가측함수 · 곱측도 · 르베그 적분 · 절대 연속 측도 · 라돈-니코딤 도함수
+칸토어 집합 · 비탈리 집합
+복소해석 | 코시-리만 방정식 · 로랑 급수 ( 주부 ) · 유수 · 해석적 연속 · 오일러 공식 ( 오일러 등식 · 드 무아브르 공식 ) · 리우빌의 정리 · 바이어슈트라스 분해 정리 · 미타그레플레르 정리
+함수해석 | 공간 | 위상 벡터 공간 · 국소 볼록 공간 · 거리공간 ( 거리함수 ) · 프레셰 공간 · 노름공간 · 바나흐 공간 · 내적공간 · 힐베르트 공간 · L p L^p L p 공간
+작용소 | 수반 작용소 · 에르미트 작용소 · 정규 작용소 · 유니터리 작용소 · 컴팩트 작용소
+대수 | 바나흐 대수 · C ∗ C^* C ∗ -대수 · 폰 노이만 대수
+정리 | 바나흐-앨러오글루 정리 · 베르 범주 정리 · 스펙트럼 정리 · 한-바나흐 정리
+이론 | 범함수 미적분학 · 디랙 델타 함수 ( 분포이론 )
+조화해석 | 푸리에 해석 ( 푸리에 변환 · 아다마르 변환 )
+동역학계 | 에르고딕 이론 · 복소 동역학 · 망델브로 집합 · 줄리아 집합
+관련 분야 | 해석 기하학 · 미분기하학 · 해석적 정수론 ( 1의 거듭제곱근 · 가우스 정수 · 아이젠슈타인 정수 · 소수 정리 · 리만 가설 미해결 ) · 확률론 ( 확률 변수 · 중심극한정리 ) · 수치해석학 · 카오스 이론 · 분수계 미적분학 · 수리물리학 ( 양-밀스 질량 간극 가설 미해결 · 나비에 스토크스 방정식의 해 존재 및 매끄러움 미해결 ) · 수리경제학 ( 경제수학 ) · 공업수학
+기타 | 퍼지 논리 · 합성곱
+
+1 . 개요 2 . 'differentiation'과 'differential' 3 . 정의 3.1 . 변화율(증분) 3.1.1 . 평균변화율 3.1.2 . 순간변화율(미분계수) 3.2 . 도함수 4 . 활용 4.1 . 어림값 4.2 . 미분가능성과 연속 4.3 . 곱함수의 미분가능성 4.3.1 . 예제 4.4 . 미분계수식의 치환 4.4.1 . 심화: 극한값 존재성과 미분가능성 4.5 . 절댓값 이 포함된 미분계수식 5 . 미분법 6 . 평균값 정리 7 . 파생 개념 8 . 기타
+
+1. 개요 [편집]
+미분 ( 微 分 , differentiation)은 함수의 정의역 속 함숫값의 변화량과 독립 변숫값의 변화량의 비, 즉 변화율의 극한들로 치역이 구성되는 함수 이다.
+
+미분이라는 단어는 영어 differentiation의 번역어이며, 점↔선↔면↔입체가 미적분 과 유사한 관계임에서 착안하여 만들어진 단어이다. 즉 어떤 면을 미세하게 층층이 쪼개었을 때, 각각의 층을 '미세한 부분'이라고 하여 '미분'이라고 부른 것이 어원이다. 영어 differentiation이나 differential은 '차이를 두다'라는 뜻의 differentiate에서 파생되었다.
+
+미분을 알기 위해서는 우선 몇 가지 개념에 대한 이해가 필요하다. 아래는 뉴턴 이 최초로 미적분을 발명하고 거의 비슷한 시기에 라이프니츠 가 최초로 정립한 미분계수의 정의와 평균변화율과 순간변화율 개념을 기술하고 있다. 나아가 이는 롤 , 가우스 , 코시 , 로피탈 , 리만 , 바이어슈트라스 등 여러 인물들이 만들어 놓은 이론과 정리들의 기본 원리가 되는 개념이다.
+
+2. 'differentiation'과 'differential' [편집]
+미분이라는 용어는 서로 다른 두 개념인 미분(differentiation)과 미분(differential)으로 동시에 쓰이기 때문에 이를 구분할 필요가 있다. Differentiation은 differentiate의 명사형이고, differentiate는 우리가 흔히 미분이라 부르는 도함수 (derivative)를 얻는 것 을 말하는 동사이다. 또한 differential은 고등학교에 나오지 않았던 개념으로, 원함수의 선형 근사 함수 를 말한다. [1] 가령, 일변수 함수 f ( x ) f(x) f ( x ) 의 한 점 a a a 에서의 미분(differential) d f {\rm d}f d f 는 d f ( Δ x ) = f ′ ( a ) Δ x {\rm d}f(\Delta x)=f'(a)\Delta x d f ( Δ x ) = f ′ ( a ) Δ x 로 나타나는 선형함수를 말한다. 여기서 Δ x \Delta x Δ x 는 단순히 변수의 표기에 불과하니 오해하지 말자.
+이러한 정의에서 y = f ( x ) y=f(x) y = f ( x ) 라 두고 항등함수 x x x 에 대한 미분(differential)이 d x ( Δ x ) = 1 Δ x = Δ x {\rm d}x(\Delta x)=1\Delta x=\Delta x d x ( Δ x ) = 1Δ x = Δ x 임을 생각하면
+d y ( Δ x ) = f ′ ( a ) Δ x = f ′ ( a ) d x ( Δ x ) {\rm d}y(\Delta x)=f'(a)\Delta x=f'(a){\rm d}x(\Delta x) d y ( Δ x ) = f ′ ( a ) Δ x = f ′ ( a ) d x ( Δ x )
+즉 d y = f ′ ( a ) d x {\rm d}y=f'(a){\rm d}x d y = f ′ ( a ) d x 라고 쓸 수 있다.
+
+왜 이러한 differential이라는 개념이 따로 필요한가는 다변수함수의 미분으로 가면 확실해진다. 일변수 함수에서는 변화하는 '방향'을 고려할 필요가 없기 때문에 평균변화율이나 순간변화율이 유일하게 결정되지만, 3차원(이변수 함수)으로만 가도 서로 다른 방향으로의 무수히 많은 변화율을 생각할 수 있기 때문에 단순하게 일차원의 변화율(직선의 기울기)을 적용하기에는 애로사항이 존재하게 된다. 따라서 미분의 개념에 대해 다른 방향으로 접근해야 하고, 그것이 바로 선형근사함수 이다. [2]
+
+선형함수란 L ( a x + y ) = a L ( x ) + L ( y ) L(ax+y)=aL(x)+L(y) L ( a x + y ) = a L ( x ) + L ( y ) 의 성질을 가지는 함수를 말하며, 일변수의 실숫값 함수에서는 원점을 지나는 직선으로, 이변수의 실숫값 함수에서는 원점을 지나는 평면으로 나타나며, 일반적으로 R n \R^n R n 에서 R m \R^m R m 으로 가는 함수의 경우에는 L ( x ) = A x L({\bf x})=A{\bf x} L ( x ) = A x 로서 m × n m\times n m × n 행렬 A A A 를 변수 앞에(변수를 열벡터의 형태로 간주하여) 곱한 간단한 형태로서 나타낼 수 있다.
+
+R n \R^n R n 에서 R m \R^m R m 으로 가는 다변수벡터함수 f : x ↦ f ( x ) \bf f:x\mapsto f(x) f : x ↦ f ( x ) 에 대해 한 점 a \bf a a 를 고정시키고 이로 만든 새로운 함수 f ( a + x ) − f ( a ) \bf f(a+x)-f(a) f ( a + x ) − f ( a ) [3] 와 원점 근방에서 가장 원함수와 비슷한 선형 근사 함수, 즉 lim ⁡ h → 0 ∣ ( f ( a + h ) − f ( a ) ) − L ( h ) ∣ ∣ h ∣ = 0 \bf\lim\limits_{h\to0}\dfrac{|(f(a+h)-f(a))-{\it L}(h)|}{|{h}|}=0 h → 0 lim ​ ∣ h ∣ ∣ ( f ( a + h ) − f ( a )) − L ( h ) ∣ ​ = 0 를 만족하는 선형함수 L ( x ) L\bf(x) L ( x ) 는 유일하게 결정할 수 있게 되고, [4] 이러한 방향으로 생각한 일변수 함수에서의 미분의 확장은 타당하다 할 수 있다. 이때 f ( x ) \bf f(x) f ( x ) 의 x = a \bf x=a x = a 에서의 선형 근사 함수 L ( x ) = A x L({\bf x})=A\bf x L ( x ) = A x 가 위에서 말한 a \bf a a 에서의 미분(differential)이고, 이러한 미분의 계수 를 미분계수라고 하게 된다. 차원이 높아지면 이러한 '계수'는 하나의 수가 아닌 행렬로 나타나며 그게 바로 ' 야코비안 행렬'이다. 모든 고등학생이 도함수의 값을 미분계수라고 부른다는 걸 알고 있지만 정작 왜 미분 계수 라고 부르는지는 잘 모르는데, 말 그대로 미분(differential)의 계수(coefficient)이기 때문에 그렇게 부르는 것이다. 다만, 미분의 계수로 스칼라 값이나 야코비 행렬이 나온다는 것을 이해하기 위해서는 꽤나 많은 내용을 알고 있어야 하기에 미분의 개념을 갓 익혀야 하는 고등학생의 입장으로서는 어느 정도 과분한 면이 있다.
+
+이렇게 다변수로 가면 미분을 먼저 정의해야 그로서 미분계수라는 용어가 자연스럽게 나오고, 그 미분계수와 해당하는 점을 이어주는 함수를 도함수 라고 정의할 수 있게 된다.
+
+미분이라는 용어의 정확한 의미와 역사적인 내용에 대해서는 이 글 에 좀 더 자세히 정리 되어있다.
+
+3. 정의 [편집]
+이 문단의 내용 중 전체 또는 일부는 변화량 문서의 r20 판에서 가져왔습니다. 이전 역사 보러 가기 이 문서에서는 여러 표현이 혼용된다. 모두 빈번히 사용되며 결국 다 같은 말이다. - lim ⁡ Δ x → 0 f ( a + Δ x ) − f ( a ) Δ x \lim\limits_{\Delta x\to0}\dfrac{f(a+\Delta x)-f(a)}{\Delta x} Δ x → 0 lim ​ Δ x f ( a + Δ x ) − f ( a ) ​
+- lim ⁡ h → 0 f ( a + h ) − f ( a ) h \lim\limits_{h\to0}\dfrac{f(a+h)-f(a)}h h → 0 lim ​ h f ( a + h ) − f ( a ) ​
+- lim ⁡ x → a f ( x ) − f ( a ) x − a \lim\limits_{x\to a}\dfrac{f(x)-f(a)}{x-a} x → a lim ​ x − a f ( x ) − f ( a ) ​
+
+3.1. 변화율(증분) [편집]
+변화율은 증분과 같은 뜻으로 미적분학에서 쓰이는 용어다. 다른 학문에서는 변화분 등의 다른 이름으로 칭해지기도 한다. 어떤 변수들이 변화한 정도의 비이다.
+
+예를 들어 함수 y = x 2 y=x^2 y = x 2 에서 x x x 의 값이 1 1 1 부터 3 3 3 까지 변하면 y y y 의 값은 1 1 1 부터 9 9 9 까지 변화한다. 이때 독립변수 x x x 의 변화량은 2 2 2 이며, 이를 x x x 의 증분 이라 하고 그리스 문자 Δ \Delta Δ (델타, Delta)를 사용하여 Δ x \Delta x Δ x 로 나타낸다. [5] 마찬가지로 종속변수 y y y 의 변화량인 8 8 8 을 Δ x \Delta x Δ x 에 대한 y y y 의 증분 이라 하고, Δ y \Delta y Δ y 로 나타낸다.
+
+변화량은 덧셈 및 뺄셈을 따로 뗄 수 있으며, 상수는 변화량 기호 밖으로 빼낼 수 있다. Δ ( x + y ) = Δ x + Δ y \Delta (x+y) = \Delta x + \Delta y Δ ( x + y ) = Δ x + Δ y , Δ ( x − y ) = Δ x − Δ y \Delta (x-y) = \Delta x - \Delta y Δ ( x − y ) = Δ x − Δ y , Δ ( c x ) = c Δ x \Delta (cx) = c \Delta x Δ ( c x ) = c Δ x 가 성립한다.
+
+3.1.1. 평균변화율 [편집]
+
+어떤 함수 f ( x ) f(x) f ( x ) 의 그래프가 있다고 할 때, x x x 축 위의 두 실수 a a a 와 b b b ( a < b a<b a < b )를 생각해 보자. 이제 f ( x ) f(x) f ( x ) 위에 위 사진과 같이 두 점 A ( a , f ( a ) ) {\rm A}(a,\,f(a)) A ( a , f ( a )) , 점 B ( b , f ( b ) ) {\rm B}(b,\,f(b)) B ( b , f ( b )) 를 잡고, 이 두 점을 이어 직선을 만들면 A \rm A A 부터 B \rm B B 까지의 y 증가량 x 증가량 \dfrac{y\small\textsf{증가량}}{x\small\textsf{증가량}} x 증가량 y 증가량 ​ , 즉 f ( b ) − f ( a ) b − a \dfrac{f(b)-f(a)}{b-a} b − a f ( b ) − f ( a ) ​ 는 두 점 A \rm A A , B \rm B B 을 지나는 직선의 기울기이다. 이때 x x x 의 증가량을 Δ x \Delta x Δ x , y y y 의 증가량을 Δ y \Delta y Δ y 라 한다. 어떤 변수의 증가량을 나타내려면 Δ \Delta Δ 를 붙여주자.
+
+미분에서는 이 기울기를 변화율이라고 부르게 되는데, 여기서 평균변화율은 두 점 사이의 그래프 전체 의 기울기이다.
+
+y y y 의 증분 Δ y \Delta y Δ y 를 x x x 의 증분 Δ x \Delta x Δ x 로 나눈 Δ y Δ x = 4 \dfrac{\Delta y}{\Delta x}=4 Δ x Δ y ​ = 4 를 닫힌 구간 [ 1 , 3 ] [1,\,3] [ 1 , 3 ] 에서의 y y y 의 평균변화율이라고 한다. 이 값은 y = x 2 y=x^{2} y = x 2 위의 두 점 ( 1 , 1 ) (1,\,1) ( 1 , 1 ) , ( 3 , 9 ) (3,\,9) ( 3 , 9 ) 를 지나는 직선의 기울기와 같다. 일반적인 평균변화율의 정의는 다음과 같다. 함수 y = f ( x ) y=f(x) y = f ( x ) 에서 x x x 의 값이 a a a 부터 a + Δ x a+\Delta x a + Δ x 까지 변할 때, Δ y Δ x = f ( a + Δ x ) − f ( a ) Δ x \dfrac{\Delta y}{\Delta x}=\dfrac{f(a+\Delta x)-f(a)}{\Delta x} Δ x Δ y ​ = Δ x f ( a + Δ x ) − f ( a ) ​ 를 구간 [ a , a + Δ x ] [a,\,a+\Delta x] [ a , a + Δ x ] 에서의 y y y 의 평균변화율 이라고 한다.
+
+이 때 평균변화율은 두 점 ( a , f ( a ) ) (a,\,f(a)) ( a , f ( a )) , ( a + Δ x , f ( a + Δ x ) ) (a+\Delta x,\,f(a+\Delta x)) ( a + Δ x , f ( a + Δ x )) 을 잇는 직선의 기울기와 같다.
+
+3.1.2. 순간변화율(미분계수) [편집]
+만약 x x x 의 증분의 절댓값인 ∣ Δ x ∣|\Delta x| ∣Δ x ∣ 를 아주 작게 하면, 즉 Δ x → 0 \Delta x\to0 Δ x → 0 일 때, 평균변화율 Δ y Δ x \dfrac{\Delta y}{\Delta x} Δ x Δ y ​ 의 극한값을 생각할 수 있다. 이를 함수 f ( x ) f(x) f ( x ) 의 x = a x=a x = a 에서의 순간변화율 또는 미분계수 라고 한다. x = a x=a x = a 에서 연속하는 함수 y = f ( x ) y=f(x) y = f ( x ) 에 대해 lim ⁡ Δ x → 0 Δ y Δ x = lim ⁡ Δ x → 0 f ( a + Δ x ) − f ( a ) Δ x \displaystyle\lim_{\Delta x\to0}\frac{\Delta y}{\Delta x}=\lim_{\Delta x\to0}\frac{f(a+\Delta x)-f(a)}{\Delta x} Δ x → 0 lim ​ Δ x Δ y ​ = Δ x → 0 lim ​ Δ x f ( a + Δ x ) − f ( a ) ​ 의 값이 존재할 때, 함수 f ( x ) f(x) f ( x ) 는 x = a x=a x = a 에서 미분가능(Differentiable) 하다고 하며, 이때 이 극한값은 함수 f ( x ) f(x) f ( x ) 의 x = a x=a x = a 에서의 변화율, 그 중에서도 순간변화율에 해당된다.
+
+이때 lim ⁡ Δ x → 0 f ( a + Δ x ) − f ( a ) Δ x \lim\limits_{\Delta x\to0}\dfrac{f(a+\Delta x)-f(a)}{\Delta x} Δ x → 0 lim ​ Δ x f ( a + Δ x ) − f ( a ) ​ 의 값이 존재한다는 것은 결국
+
+lim ⁡ Δ x → 0 − f ( a + Δ x ) − f ( a ) Δ x = lim ⁡ Δ x → 0 + f ( a + Δ x ) − f ( a ) Δ x \displaystyle\lim_{\Delta x\to0-}\frac{f(a+\Delta x)-f(a)}{\Delta x}=\lim_{\Delta x\to0+}\frac{f(a+\Delta x)-f(a)}{\Delta x} Δ x → 0 − lim ​ Δ x f ( a + Δ x ) − f ( a ) ​ = Δ x → 0 + lim ​ Δ x f ( a + Δ x ) − f ( a ) ​
+라는 것으로서, 전자 즉 평균변화율의 좌극한을 좌미분계수(left-hand derivative) , 후자 즉 평균변화율의 우극한을 우미분계수(right-hand derivative) 라고 한다. 즉 함수 f ( x ) f(x) f ( x ) 가 x = a x=a x = a 에서 미분가능하려면 x = a x=a x = a 에서의 좌미분계수와 우미분계수가 같아야 한다. 좌순간변화율, 우순간변화율이라고도 한다.
+
+이를 기호 f ′ ( a ) f'(a) f ′ ( a ) , y ′ ∣ x = a \left.y'\right|_{x=a} y ′ ∣ x = a ​ , [ d y d x ] x = a \biggl[\dfrac{{\rm d}y}{{\rm d}x}\biggr]_{x=a} [ d x d y ​ ] x = a ​ 로 나타낸다. 어떤 점에서의 순간변화율은 기하학적으로 그 점에서의 접선의 기울기 와 같다.
+
+미적분을 처음 접하면 순간변화율이라는 이름부터 알려주지만 본격적으로 미분을 시도할 때 미분 계수(differential coefficient)라는 이름이 더욱 자주 쓰인다. 미분을 할 때에는 식의 최고차항의 계수가 중요하게 여겨지기 때문이다. 어떻게 한 점에서의 기울기, 그러니까 미분계수를 구하느냐에 관한 것이 위 개념, 미분의 기초라고 보면 된다.
+
+이제 미분계수를 구해보자. 아까의 두 점 A \rm A A , B \rm B B 을 지나는 직선에서 x x x 의 증가량인 Δ x \Delta x Δ x 가 0 0 0 으로 가까워지면, 함수 f f f 가 연속이라는 가정하에 자연스럽게 점 B \rm B B 가 점 A A A 로 다가가며 [6] 직선이 짧아질 것이고, 이 Δ x \Delta x Δ x 가 lim ⁡ Δ x → 0 \lim\limits_{\Delta x\to0} Δ x → 0 lim ​ 이 붙어 0 0 0 은 아니지만 0 0 0 으로 한없이 다가가게 된다면 A \rm A A 와 B \rm B B 사이의 거리가 똑같이 0 0 0 은 아니지만 0 0 0 으로 한없이 가까워져 , 즉 A \rm A A 와 B \rm B B 가 동일한 것은 아니지만 한없이 가까워져 평균변화율을 구하던 식이 한 지점의 순간변화율을 구하는 식이 되기 때문이다.
+
+미분 계수의 d \rm d d 는 이탤릭체 d d d 가 아니라 로만체 d \rm d d 로 적어야 한다. 이탤릭체는 변수 나 문자를 의미하는데, d d d 는 두께나 거리 등을 나타내는 문자로 사용하기 때문에 헷갈릴 수 있기 때문이다. d x dx d x 가 x x x 의 미분계수인지, 거리 d d d 와 변수 x x x 의 곱인지 알 수 없기 때문이다. 더군다나 미분 계수의 d \rm d d 는 선형 사상 의 일종인 미분형식 이기 때문에 더욱이 로만체로 적어야 한다. [7] 적분의 d \rm d d 도 마찬가지.
+
+참고 문서 그러나 실제로는 거의 지켜지지 않는 규칙으로 블로그 등 일반 웹사이트에 올라오는 글뿐 아니라 학부, 대학원용 교재 및 논문과 같은 학술적인 글의 경우에도 이탤릭체 d d d 로 적힌 경우가 많다. 상술한 링크에 명시된 ISO 31/11 (현 ISO 80000-2) 규정이 확립된 1990년대 이후에도 이탤릭체 d d d 가 다른 변수로 쓰이는 경우가 아니라면 미분형식이 이탤릭체로 쓰이는 경우가 상당하다. 특히 미국 쪽에서 출판된 도서나 논문이 ISO 규정을 위반하는 서체가 많은 편.
+
+3.2. 도함수 [편집]
+자세한 내용은 도함수 문서를 참고하십시오.
+
+4. 활용 [편집]
+
+4.1. 어림값 [편집]
+자세한 내용은 선형근사 문서를 참고하십시오.
+
+4.2. 미분가능성과 연속 [편집]
+간단하게 말해서 미분가능이면 연속이다. 이것을 다음과 같이 나타낼 수 있다. f ′ ( c ) f'(c) f ′ ( c ) 의 값이 존재하면 f f f 는 x = c x=c x = c 에서 연속이다.
+
+어떤 함수가 x = c x=c x = c 에서 연속이라는 것은 lim ⁡ x → c f ( x ) = f ( c ) \lim\limits_{x\to c}f(x)=f(c) x → c lim ​ f ( x ) = f ( c ) 이므로 이를 증명하면 된다.
+
+x ≠ c x\ne c x  = c 일 때, f ( x ) = f ( c ) + { f ( x ) − f ( c ) x − c } ( x − c ) f(x)=f(c)+\biggl\{\dfrac{f(x)-f(c)}{x-c}\biggr\}(x-c) f ( x ) = f ( c ) + { x − c f ( x ) − f ( c ) ​ } ( x − c ) 이므로
+lim ⁡ x → c f ( x ) = lim ⁡ x → c { f ( c ) + f ( x ) − f ( c ) x − c ( x − c ) } = lim ⁡ x → c f ( c ) + lim ⁡ x → c f ( x ) − f ( c ) x − c ⋅ lim ⁡ x → c ( x − c ) = f ( c ) + f ′ ( c ) ⋅ 0 = f ( c ) \displaystyle\begin{aligned}\lim_{x\to c}f(x) &= \lim_{x\to c}\biggl\{f(c)+\frac{f(x)-f(c)}{x-c}(x-c)\biggr\}\\&=\lim_{x\to c}f(c)+\lim_{x\to c}\frac{f(x)-f(c)}{x-c}\cdot\lim_{x\to c}(x-c)\\&=f(c)+f'(c)\cdot0\\&=f(c)\end{aligned} x → c lim ​ f ( x ) ​ = x → c lim ​ { f ( c ) + x − c f ( x ) − f ( c ) ​ ( x − c ) } = x → c lim ​ f ( c ) + x → c lim ​ x − c f ( x ) − f ( c ) ​ ⋅ x → c lim ​ ( x − c ) = f ( c ) + f ′ ( c ) ⋅ 0 = f ( c ) ​
+
+이 정리의 역은 성립하지 않는다. 즉, f f f 가 x = c x=c x = c 에서 연속이더라도 f f f 가 x = c x=c x = c 에서 반드시 미분가능한 것은 아니다. 예를 들어 y = ∣ x ∣ y=|x| y = ∣ x ∣ 같은 함수는 x = 0 x=0 x = 0 에서 연속이지만 좌우 미분계수가 다르므로 x = 0 x=0 x = 0 에서 미분가능하지 않다. [8] 카를 바이어슈트라스 는 모든 점에서 연속이지만 동시에 모든 점에서 미분 불가능한 함수 를 제시하기도 했다.
+
+미분가능하지 않은 점에는 연속이 아닌 점, 첨점(뾰족점), 접선의 기울기가 발산하는 점 [9] 등이 있다. 접선의 기울기가 발산하는 점의 접선을 "수직접선"이라한다. 즉, 분명히 부드러운 점이고, 접선을 그을 수 있지만 미분이 불가능한 점이 존재한다.
+
+미분 가능 여부를 확인하는 또다른 방법으로는 그래프를 확대하는 것인데, 우선 y = f ( x ) y=f(x) y = f ( x ) 의 그래프를 x y xy x y 평면 위에 그린다. 그 위의 한 점 ( a , f ( a ) ) (a,f(a)) ( a , f ( a )) 을 중심으로 하여 확대할 때 이 그래프가 좌우 모두 이어진 하나의 직선으로 보이면 미분 가능하며, 아무리 확대하여도 곧은 선으로 표현되지 않는다면 미분이 불가능하다. 위의 '모든 점에서 연속이지만 동시에 모든 점에서 미분 불가능한 함수'가 아무리 확대해도 꺾은선으로밖에 나오지 않는다는 것을 염두에 두면 이해하기 쉽다.
+
+일반적으로 복소함수의 미분가능성은 실함수의 미분가능성보다 훨씬 조건이 까다롭다. 코시-리만 방정식 의 해가 되어야 하기 때문. 가령 켤레복소수 함수 f ( z ) = z ˉ f(z)=\bar z f ( z ) = z ˉ 는 복소평면 전체에서 연속이지만 코시-리만 방정식의 해가 되지 못해 미분 불가능하다.
+
+4.3. 곱함수의 미분가능성 [편집]
+고등학교 수학 에서는 미분불가능점이 있는 함수에 다른 함수를 곱했더니 그 점에서 미분가능해지는 상황 을 많이 출제한다. 이는 불연속점이 있는 함수에 다른 함수를 곱했더니 그 점에서 연속이 되는 상황 과도 깊은 연관이 있어서, 연속성과 미분가능성을 종합한 문제도 많이 나온다. 곱함수의 연속성에 대해서는 연속함수 문서 참고.
+
+함수 f ( x ) f(x) f ( x ) 가 x = f 1 , f 2 , ⋯ x=f_1, \,f_2,\, \cdots x = f 1 ​ , f 2 ​ , ⋯ 에서, g ( x ) g(x) g ( x ) 가 x = g 1 , g 2 , ⋯ x=g_1,\, g_2,\, \cdots x = g 1 ​ , g 2 ​ , ⋯ 에서 미분불가능할 때, f ( x ) g ( x ) f(x)g(x) f ( x ) g ( x ) 가 실수 전체의 집합에서 미분가능하려면 다음을 만족시켜야 한다.
+
+f ( g 1 ) = f ( g 2 ) = ⋯ = g ( f 1 ) = g ( f 2 ) = ⋯ = 0 f(g_1)=f(g_2)=\cdots=g(f_1)=g(f_2)=\cdots=0 f ( g 1 ​ ) = f ( g 2 ​ ) = ⋯ = g ( f 1 ​ ) = g ( f 2 ​ ) = ⋯ = 0
+쉽게 말해서 한 함수의 미분불가능점의 x x x 좌표를 다른 함수에 대입하면 0이 되어야 한다. 이유는 다음과 같다.
+
+우선, 곱미분 에 의하면
+
+{ f ( x ) g ( x ) } ′ = f ′ ( x ) g ( x ) + f ( x ) g ′ ( x ) \{f(x)g(x)\}'=f'(x)g(x)+f(x)g'(x) { f ( x ) g ( x ) } ′ = f ′ ( x ) g ( x ) + f ( x ) g ′ ( x )
+이다. 물론 f ( x ) f(x) f ( x ) 와 g ( x ) g(x) g ( x ) 에 미분불가능점이 있으면 이렇게 쓸 수는 없지만, 편의상 이 식을 가져다 쓰자.
+
+f ( x ) f(x) f ( x ) 가 x = a x=a x = a 에서 미분불가능하다는 것은 x = a x=a x = a 에서의 좌미분계수와 우미분계수가 일치하지 않아 f ′ ( a ) f'(a) f ′ ( a ) 의 값이 결정되지 않는다는 것이다. 그런데 여기에 다른 함수 g ( x ) g(x) g ( x ) 를 곱했더니 x = a x=a x = a 에서 미분가능하려면, g ( a ) = 0 g(a)=0 g ( a ) = 0 이어야
+
+{ f ( a ) g ( a ) } ′ = f ′ ( a ) g ( a ) + f ( a ) g ′ ( a ) \{f(a)g(a)\}'=f'(a)g(a)+f(a)g'(a) { f ( a ) g ( a ) } ′ = f ′ ( a ) g ( a ) + f ( a ) g ′ ( a )
+에서 f ′ ( a ) g ( a ) f'(a)g(a) f ′ ( a ) g ( a ) 가 하나의 값으로 결정될 수 있다. 0이 아니면 안 된다. 즉, f ′ ( a ) f'(a) f ′ ( a ) 의 값은 결정할 수 없지만, 모든 실수는 0을 곱하면 0 이기에 f ′ ( a ) g ( a ) f'(a)g(a) f ′ ( a ) g ( a ) 의 값만큼은 0으로 결정할 수 있다는 것이다. 마찬가지로 g ′ ( b ) g'(b) g ′ ( b ) 의 값이 존재하지 않으면 f ( b ) = 0 f(b)=0 f ( b ) = 0 이어야 한다. 요컨대, 서로 다른 수들에 어떤 수를 각각 곱한 결과가 모두 같다는 것은, 그 곱한 수가 0이라는 뜻이다.
+
+4.3.1. 예제 [편집]
+2021학년도 10월 7번
+
+아주 전형적인 미분가능성 문제로, 이제는 매우 쉬운 내용이 되어 3점짜리 문제로도 곧잘 나온다.
+
+풀이 [펼치기 · 접기]
+f ( x ) f(x) f ( x ) 는 x = − 3 x=-3 x = − 3 에서 미분불가능하므로 f ( x ) g ( x ) f(x)g(x) f ( x ) g ( x ) 가 실수 전체의 집합에서 미분가능하기 위해서는 g ( − 3 ) = 0 g(-3)=0 g ( − 3 ) = 0 이어야 한다. 즉, a = 6 a=6 a = 6 이다. 2020학년도 수능 나형 20번
+
+함수의 연속성과 미분가능성을 동시에 묻는 문제이다. ㄱ에서는 연속성을, ㄴ과 ㄷ에서는 미분가능성을 묻고 있다. 미분가능하면 연속 이라는 사실을 기억할 필요가 있다.
+
+풀이 [펼치기 · 접기]
+ㄱ을 보자.
+
+lim ⁡ x → 0 − f ( x ) = lim ⁡ x → 0 − ( − x ) = 0 ≠ lim ⁡ x → 0 + f ( x ) = lim ⁡ x → 0 + ( x − 1 ) = − 1 \begin{aligned}&\displaystyle\lim_{x\to0-}f(x)=\lim_{x\to0-}(-x)=0\\\neq&\lim_{x\to0+}f(x)=\lim_{x\to0+}(x-1)=-1\end{aligned}  = ​ x → 0 − lim ​ f ( x ) = x → 0 − lim ​ ( − x ) = 0 x → 0 + lim ​ f ( x ) = x → 0 + lim ​ ( x − 1 ) = − 1 ​
+이므로 f ( x ) f(x) f ( x ) 는 x = 0 x=0 x = 0 에서 불연속이다. 따라서 p ( x ) f ( x ) p(x)f(x) p ( x ) f ( x ) 가 실수 전체의 집합에서 연속이 되려면 p ( 0 ) = 0 p(0)=0 p ( 0 ) = 0 이어야 한다. 즉 ㄱ은 옳다.
+
+ㄴ을 보자.
+
+lim ⁡ x → 2 − f ( x ) = lim ⁡ x → 2 − ( x − 1 ) = 1 = lim ⁡ x → 2 + f ( x ) = lim ⁡ x → 2 + ( 2 x − 3 ) = 1 \begin{aligned}&\displaystyle\lim_{x\to2-}f(x)=\lim_{x\to2-}(x-1)=1\\=&\lim_{x\to2+}f(x)=\lim_{x\to2+}(2x-3)=1\end{aligned} = ​ x → 2 − lim ​ f ( x ) = x → 2 − lim ​ ( x − 1 ) = 1 x → 2 + lim ​ f ( x ) = x → 2 + lim ​ ( 2 x − 3 ) = 1 ​
+이므로 f ( x ) f(x) f ( x ) 는 x = 2 x=2 x = 2 에서 연속이다. 그러나
+
+lim ⁡ x → 2 − f ( x ) − f ( 2 ) x − 2 = lim ⁡ x → 2 − ( x − 1 ) − 1 ) x − 2 = 1 ≠ lim ⁡ x → 2 + f ( x ) − f ( 2 ) x − 2 = lim ⁡ x → 2 + ( 2 x − 3 ) − 1 x − 2 = 2 \begin{aligned}&\displaystyle\lim_{x\to2-}\frac{f(x)-f(2)}{x-2}=\lim_{x\to2-}\frac{(x-1)-1)}{x-2}=1\\\neq&\lim_{x\to2+}\frac{f(x)-f(2)}{x-2}=\lim_{x\to2+}\frac{(2x-3)-1}{x-2}=2\end{aligned}  = ​ x → 2 − lim ​ x − 2 f ( x ) − f ( 2 ) ​ = x → 2 − lim ​ x − 2 ( x − 1 ) − 1 ) ​ = 1 x → 2 + lim ​ x − 2 f ( x ) − f ( 2 ) ​ = x → 2 + lim ​ x − 2 ( 2 x − 3 ) − 1 ​ = 2 ​
+와 같이 좌미분계수와 우미분계수가 다르므로 x = 2 x=2 x = 2 에서 미분불가능하다. 따라서 p ( x ) f ( x ) p(x)f(x) p ( x ) f ( x ) 가 실수 전체의 집합에서 미분가능하려면 p ( 2 ) = 0 p(2)=0 p ( 2 ) = 0 이어야 한다. 즉 ㄴ은 옳다.
+
+ㄷ을 보자. 우선 { f ( x ) } 2 \{f(x)\}^2 { f ( x ) } 2 은 다음과 같다.
+
+f ( x ) = { ⁣ ⁣ x 2 ( x ≤ 0 ) ⁣ ⁣ ( x − 1 ) 2 ( 0 < x ≤ 2 ) ⁣ ⁣ ( 2 x − 3 ) 2 ( x > 2 ) f(x)=\begin{cases}\begin{array}{ll}\!\!x^2\;&(x\leq0)\\\!\!(x-1)^2\;&(0<x\leq2)\\\!\!(2x-3)^2\;&(x>2)\end{array}\end{cases} f ( x ) = ⎩ ⎨ ⎧ ​ x 2 ( x − 1 ) 2 ( 2 x − 3 ) 2 ​ ( x ≤ 0 ) ( 0 < x ≤ 2 ) ( x > 2 ) ​ ​
+이 함수는 f ( x ) f(x) f ( x ) 와 마찬가지로 x = 0 x=0 x = 0 에서 불연속이다. 따라서 p ′ ( 0 ) = 0 p'(0)=0 p ′ ( 0 ) = 0 이어야 한다. 또한 미분가능하면 연속이므로, x = 0 x=0 x = 0 에서 미분불가능하다. 그러므로 p ( 0 ) = 0 p(0)=0 p ( 0 ) = 0 이어야 한다. 한편 f ( x ) f(x) f ( x ) 가 x = 2 x=2 x = 2 에서 연속이므로 { f ( x ) } 2 \{f(x)\}^2 { f ( x ) } 2 역시 그러하다. 이제 x = 2 x=2 x = 2 에서의 미분가능성을 판별하자.
+lim ⁡ x → 2 − { f ( x ) } 2 − { f ( 2 ) } 2 x − 2 = lim ⁡ x → 2 − ( x − 1 ) 2 − 1 ) x − 2 = 2 ≠ lim ⁡ x → 2 + { f ( x ) } 2 − { f ( 2 ) } 2 x − 2 = lim ⁡ x → 2 + ( 2 x − 3 ) 2 − 1 x − 2 = 4 \begin{aligned}&\displaystyle\lim_{x\to2-}\frac{\{f(x)\}^2-\{f(2)\}^2}{x-2}=\lim_{x\to2-}\frac{(x-1)^2-1)}{x-2}=2\\\neq&\lim_{x\to2+}\frac{\{f(x)\}^2-\{f(2)\}^2}{x-2}=\lim_{x\to2+}\frac{(2x-3)^2-1}{x-2}=4\end{aligned}  = ​ x → 2 − lim ​ x − 2 { f ( x ) } 2 − { f ( 2 ) } 2 ​ = x → 2 − lim ​ x − 2 ( x − 1 ) 2 − 1 ) ​ = 2 x → 2 + lim ​ x − 2 { f ( x ) } 2 − { f ( 2 ) } 2 ​ = x → 2 + lim ​ x − 2 ( 2 x − 3 ) 2 − 1 ​ = 4 ​
+
+와 같이 좌미분계수와 우미분계수가 다르므로 x = 2 x=2 x = 2 에서 미분불가능하다. 따라서 p ( x ) f ( x ) p(x)f(x) p ( x ) f ( x ) 가 실수 전체의 집합에서 미분가능하려면 p ( 2 ) = 0 p(2)=0 p ( 2 ) = 0 이어야 한다.
+
+최종적으로 p ( x ) p(x) p ( x ) 는 x 2 ( x − 2 ) x^2(x-2) x 2 ( x − 2 ) 로 나누어떨어질 것을 요구받을 뿐, x 2 ( x − 2 ) 2 x^2(x-2)^2 x 2 ( x − 2 ) 2 으로 나누어떨어질 필요는 없다. 즉 ㄷ은 옳지 않으며, 정답은 ②이다.
+
+4.4. 미분계수식의 치환 [편집]
+상수 p p p 와 x = a x=a x = a 에서 미분가능한 함수 f ( x ) f(x) f ( x ) 에 대하여 다음이 성립한다.
+
+lim ⁡ h → 0 f ( a + p h ) − f ( a ) h = p f ′ ( a ) \displaystyle\lim_{h\to0}\frac{f(a+ph)-f(a)}h=pf'(a) h → 0 lim ​ h f ( a + p h ) − f ( a ) ​ = p f ′ ( a )
+증명 [펼치기·접기]
+함수 f ( x ) f(x) f ( x ) 의 형태는 매우 무궁무진하므로, 미분계수식에서 f ( ) f() f ( ) 안의 식은 사실상 변형할 수 없다. 따라서 그 이외의 부분을 변형시키는 것이 포인트이다. 0 0 0 이 아닌 상수 p p p 에 대하여 분모의 h h h 를 p h ph p h 로 만든 다음 p h = t ph=t p h = t 로 치환하면 쉽게 증명된다.
+
+lim ⁡ h → 0 f ( a + p h ) − f ( a ) h = lim ⁡ h → 0 f ( a + p h ) − f ( a ) p h × p = lim ⁡ t → 0 f ( a + t ) − f ( a ) t × p = p f ′ ( a ) \begin{aligned}\displaystyle\lim_{h\to0}\frac{f(a+ph)-f(a)}h&=\lim_{\color{red}h\to0}\frac{f(a+{\color{red}ph})-f(a)}{\color{red}ph}\times p\\&=\lim_{\color{red}t\to0}\frac{f(a+{\color{red}t})-f(a)}{\color{red}t}\times p\\&=pf'(a)\end{aligned} h → 0 lim ​ h f ( a + p h ) − f ( a ) ​ ​ = h → 0 lim ​ p h f ( a + p h ) − f ( a ) ​ × p = t → 0 lim ​ t f ( a + t ) − f ( a ) ​ × p = p f ′ ( a ) ​
+p = 0 p=0 p = 0 이면 다음과 같이 별도로 계산해야 한다.
+
+lim ⁡ h → 0 f ( a + p h ) − f ( a ) h = lim ⁡ h → 0 f ( a ) − f ( a ) h = lim ⁡ h → 0 0 h = lim ⁡ h → 0 0 = 0 \begin{aligned}\displaystyle\lim_{h\to0}\frac{f(a+ph)-f(a)}h&=\lim_{h\to0}\frac{f(a)-f(a)}h\\&=\lim_{h\to0}\frac0h=\lim_{h\to0}0=0\end{aligned} h → 0 lim ​ h f ( a + p h ) − f ( a ) ​ ​ = h → 0 lim ​ h f ( a ) − f ( a ) ​ = h → 0 lim ​ h 0 ​ = h → 0 lim ​ 0 = 0 ​
+그런데 p = 0 p=0 p = 0 일 때 p f ′ ( a ) = 0 pf'(a)=0 p f ′ ( a ) = 0 이므로 이 경우에도 증명하고자 하는 식이 성립한다.
+상수 p p p , q q q 와 x = a x=a x = a 에서 미분가능한 함수 f ( x ) f(x) f ( x ) 에 대하여 다음이 성립한다.
+
+lim ⁡ h → 0 f ( a + p h ) − f ( a + q h ) h = ( p − q ) f ′ ( a ) \displaystyle\lim_{h\to0}\frac{f(a+ph)-f(a+qh)}h=(p-q)f'(a) h → 0 lim ​ h f ( a + p h ) − f ( a + q h ) ​ = ( p − q ) f ′ ( a )
+증명 [펼치기·접기]
+포인트는 양쪽에 − f ( a ) -f(a) − f ( a ) 를 추가해 주어 미분계수의 형태를 두 개 만들어주는 것이다. 그러고 나면 위에서 먼저 증명한 사실을 적용하여 쉽게 증명할 수 있다. 다음은 p ≠ q p\neq q p  = q 인 경우의 증명이다.
+lim ⁡ h → 0 f ( a + p h ) − f ( a + q h ) h = lim ⁡ h → 0 { f ( a + p h ) − f ( a ) h − f ( a + q h ) − f ( a ) h } = ( p − q ) f ′ ( a ) \begin{aligned} \displaystyle \lim_{h\to0} \frac{f(a+ph)-f(a+qh)}h &= \lim_{h\to0} \left\{ \frac{f(a+ph)-f(a)}h -\frac{f(a+qh)-f(a)}h \right\} \\ &= (p-q)f'(a) \end{aligned} h → 0 lim ​ h f ( a + p h ) − f ( a + q h ) ​ ​ = h → 0 lim ​ { h f ( a + p h ) − f ( a ) ​ − h f ( a + q h ) − f ( a ) ​ } = ( p − q ) f ′ ( a ) ​
+
+반면 p = q p=q p = q 인 경우에는 다음과 같이 별도로 계산해야 한다.
+lim ⁡ h → 0 f ( a + p h ) − f ( a + q h ) h = lim ⁡ h → 0 f ( a + p h ) − f ( a + p h ) h = lim ⁡ h → 0 0 h = lim ⁡ h → 0 0 = 0 \begin{aligned} \displaystyle \lim_{h\to0} \frac{f(a+ph)-f(a+qh)}h &= \lim_{h\to0} \frac{f(a+ph)-f(a+ph)}h \\ &= \lim_{h\to0} \frac0h=\lim_{h\to0}0=0 \end{aligned} h → 0 lim ​ h f ( a + p h ) − f ( a + q h ) ​ ​ = h → 0 lim ​ h f ( a + p h ) − f ( a + p h ) ​ = h → 0 lim ​ h 0 ​ = h → 0 lim ​ 0 = 0 ​
+
+그런데 p = q p=q p = q 일 때 ( p − q ) f ′ ( a ) = 0 (p-q)f'(a)=0 ( p − q ) f ′ ( a ) = 0 이므로 이 경우에도 증명하고자 하는 식이 성립한다.
+
+4.4.1. 심화: 극한값 존재성과 미분가능성 [편집]
+다양하게 변형된 미분계수식의 극한값이 존재하는 것과 해당 함수가 해당 점에서 미분가능한 것은 별개이다. 이 사실을 직접 다룬 예제를 보며 이 말을 이해해 보자.
+2013학년도 사관학교 문과 18번
+
+풀이 [펼치기·접기]
+ㄱ을 보자. 극한값이 존재하려면 좌극한과 우극한의 값이 같아야 하므로, 좌극한과 우극한을 각각 조사하자. h 2 = t h^2=t h 2 = t 로 치환하면 다음과 같다.
+
+lim ⁡ h → 0 − f ( a + h 2 ) − f ( a ) h 2 = lim ⁡ t → 0 + f ( a + t ) − f ( a ) t lim ⁡ h → 0 + f ( a + h 2 ) − f ( a ) h 2 = lim ⁡ t → 0 + f ( a + t ) − f ( a ) t \begin{aligned}\displaystyle\lim_{\color{red}h\to0-}\dfrac{f(a+{\color{red}h^2})-f(a)}{\color{red}h^2}&=\lim_{\color{red}t\to0+}\dfrac{f(a+{\color{red}t})-f(a)}{\color{red}t}\\\lim_{\color{red}h\to0+}\dfrac{f(a+{\color{red}h^2})-f(a)}{\color{red}h^2}&=\lim_{\color{red}t\to0+}\dfrac{f(a+{\color{red}t})-f(a)}{\color{red}t}\end{aligned} h → 0 − lim ​ h 2 f ( a + h 2 ) − f ( a ) ​ h → 0 + lim ​ h 2 f ( a + h 2 ) − f ( a ) ​ ​ = t → 0 + lim ​ t f ( a + t ) − f ( a ) ​ = t → 0 + lim ​ t f ( a + t ) − f ( a ) ​ ​
+결국 ㄱ의 좌극한과 우극한은 모두 f ( x ) f(x) f ( x ) 의 우미분계수가 되므로 무조건 값이 같다. 즉, f ( x ) f(x) f ( x ) 의 좌미분계수의 값에 관계없이 항상 극한값이 존재하므로 필요충분조건이 아니다. 이렇게 되는 이유는 h 2 h^2 h 2 과 같이 식이 h h h 에 짝수 거듭제곱을 취한 형태이기 때문이다. 그래서 h h h 가 0 0 0 보다 작은 쪽에서 접근하든(좌극한) 큰 쪽에서 접근하든(우극한) 이를 제곱한 h 2 = t h^2=t h 2 = t 는 항상 0 0 0 보다 큰 쪽에서 접근하는 우극한이 되어 버리는 것이다. 따라서 h 2 h^2 h 2 이 ∣ h ∣|h| ∣ h ∣ , h 4 h^4 h 4 , h 100 h^{100} h 100 등으로 바뀌어도 결과는 같다.
+
+ㄴ을 보자. 이 역시 좌극한과 우극한을 각각 조사하자. h 3 = t h^3=t h 3 = t 로 치환하면 다음과 같다.
+
+lim ⁡ h → 0 − f ( a + h 3 ) − f ( a ) h 3 = lim ⁡ t → 0 − f ( a + t ) − f ( a ) t lim ⁡ h → 0 + f ( a + h 3 ) − f ( a ) h 3 = lim ⁡ t → 0 + f ( a + t ) − f ( a ) t \begin{aligned}\displaystyle\lim_{\color{red}h\to0-}\dfrac{f(a+{\color{red}h^3})-f(a)}{\color{red}h^3}&=\lim_{\color{red}t\to0-}\dfrac{f(a+{\color{red}t})-f(a)}{\color{red}t}\\\lim_{\color{red}h\to0+}\dfrac{f(a+{\color{red}h^3})-f(a)}{\color{red}h^3}&=\lim_{\color{red}t\to0+}\dfrac{f(a+{\color{red}t})-f(a)}{\color{red}t}\end{aligned} h → 0 − lim ​ h 3 f ( a + h 3 ) − f ( a ) ​ h → 0 + lim ​ h 3 f ( a + h 3 ) − f ( a ) ​ ​ = t → 0 − lim ​ t f ( a + t ) − f ( a ) ​ = t → 0 + lim ​ t f ( a + t ) − f ( a ) ​ ​
+ㄴ의 좌극한은 f ( x ) f(x) f ( x ) 의 좌미분계수와 같고, 우극한은 우미분계수와 같으므로, ㄴ의 극한값이 존재하면 f ( x ) f(x) f ( x ) 의 미분계수도 정의되며 그 역도 성립한다. 즉, ㄴ은 필요충분조건이다. 이렇게 되는 이유는 h 3 h^3 h 3 과 같이 식이 h h h 에 홀수 거듭제곱을 취한 형태이기 때문이다. h h h 의 극한의 방향은 이를 세제곱한 h 3 = t h^3=t h 3 = t 의 극한의 방향과 항상 일치한다는 것이다. 따라서 h 3 h^3 h 3 이 h 5 h^5 h 5 , h 7 h^7 h 7 , h 99 h^{99} h 99 등으로 바뀌어도 결과는 같다. 이것이 바로 ㄱ과 ㄴ의 결정적 차이점이다.
+
+ㄷ을 보자. 다음과 같이 좌극한과 우극한을 나누어 조사하면 된다. − h = t -h=t − h = t 로 치환하면 다음과 같다. 이때 f ′ ( a − ) f'(a^-) f ′ ( a − ) 는 x = a x=a x = a 에서의 f ( x ) f(x) f ( x ) 의 좌미분계수를, f ′ ( a + ) f'(a^+) f ′ ( a + ) 는 우미분계수를 뜻한다.
+lim ⁡ h → 0 − f ( a + h ) − f ( a − h ) 2 h = 1 2 lim ⁡ h → 0 − f ( a + h ) − f ( a ) h − 1 2 lim ⁡ h → 0 − f ( a − h ) − f ( a ) h = 1 2 lim ⁡ h → 0 − f ( a + h ) − f ( a ) h + 1 2 lim ⁡ t → 0 + f ( a + t ) − f ( a ) t = 1 2 f ′ ( a − ) + 1 2 f ′ ( a + ) lim ⁡ h → 0 + f ( a + h ) − f ( a − h ) 2 h = 1 2 lim ⁡ h → 0 + f ( a + h ) − f ( a ) h − 1 2 lim ⁡ h → 0 + f ( a − h ) − f ( a ) h = 1 2 lim ⁡ h → 0 + f ( a + h ) − f ( a ) h + 1 2 lim ⁡ t → 0 − f ( a + t ) − f ( a ) t = 1 2 f ′ ( a + ) + 1 2 f ′ ( a − ) \begin{aligned}\displaystyle\lim_{h\to0-}\dfrac{f(a+h)-f(a-h)}{2h}&=\dfrac12\lim_{h\to0-}\dfrac{f(a+h)-f(a)}h\,{\color{red}-}\,\dfrac12\lim_{\color{red}h\to0-}\dfrac{f(a\,{\color{red}-\,h})-f(a)}{\color{red}h}\\&=\dfrac12\lim_{h\to0-}\dfrac{f(a+h)-f(a)}h\,{\color{red}+}\,\dfrac12\lim_{\color{red}t\to0+}\dfrac{f(a\;{\color{red}+\;t})-f(a)}{\color{red}t}\\&=\dfrac12f'(a^-)+\dfrac12f'(a^+)\\\\\lim_{h\to0+}\dfrac{f(a+h)-f(a-h)}{2h}&=\dfrac12\lim_{h\to0+}\dfrac{f(a+h)-f(a)}h\,{\color{red}-}\,\dfrac12\lim_{\color{red}h\to0+}\dfrac{f(a\,{\color{red}-\,h})-f(a)}{\color{red}h}\\&=\dfrac12\lim_{h\to0+}\dfrac{f(a+h)-f(a)}h\,{\color{red}+}\,\dfrac12\lim_{\color{red}t\to0-}\dfrac{f(a\;{\color{red}+\;t})-f(a)}{\color{red}t}\\&=\dfrac12f'(a^+)+\dfrac12f'(a^-)\end{aligned} h → 0 − lim ​ 2 h f ( a + h ) − f ( a − h ) ​ h → 0 + lim ​ 2 h f ( a + h ) − f ( a − h ) ​ ​ = 2 1 ​ h → 0 − lim ​ h f ( a + h ) − f ( a ) ​ − 2 1 ​ h → 0 − lim ​ h f ( a − h ) − f ( a ) ​ = 2 1 ​ h → 0 − lim ​ h f ( a + h ) − f ( a ) ​ + 2 1 ​ t → 0 + lim ​ t f ( a + t ) − f ( a ) ​ = 2 1 ​ f ′ ( a − ) + 2 1 ​ f ′ ( a + ) = 2 1 ​ h → 0 + lim ​ h f ( a + h ) − f ( a ) ​ − 2 1 ​ h → 0 + lim ​ h f ( a − h ) − f ( a ) ​ = 2 1 ​ h → 0 + lim ​ h f ( a + h ) − f ( a ) ​ + 2 1 ​ t → 0 − lim ​ t f ( a + t ) − f ( a ) ​ = 2 1 ​ f ′ ( a + ) + 2 1 ​ f ′ ( a − ) ​
+
+따라서 좌극한과 우극한이 같다는 것은
+
+1 2 f ′ ( a − ) + 1 2 f ′ ( a + ) = 1 2 f ′ ( a + ) + 1 2 f ′ ( a − ) \dfrac12f'(a^-)+\dfrac12f'(a^+)=\dfrac12f'(a^+)+\dfrac12f'(a^-) 2 1 ​ f ′ ( a − ) + 2 1 ​ f ′ ( a + ) = 2 1 ​ f ′ ( a + ) + 2 1 ​ f ′ ( a − )
+라는 뜻인데 이는 항등식이다. 따라서 ㄷ도 ㄱ처럼 좌미분계수와 우미분계수가 같든 다르든 무조건 극한값이 존재하며, 필요충분조건이 아니다.
+
+ㄱ과 ㄷ 모두 함수 f ( x ) = ∣ x ∣ f(x) = |x| f ( x ) = ∣ x ∣ 가 반례이다.
+
+따라서 정답은 ②이다.
+
+참고로, 미분계수가 정의되는 경우에는 다음과 같이 식을 정리하면 된다. 이때에도 − h = t -h=t − h = t 로 치환하면 된다.
+lim ⁡ h → 0 f ( a + h ) − f ( a − h ) 2 h = 1 2 lim ⁡ h → 0 f ( a + h ) − f ( a ) h − 1 2 lim ⁡ h → 0 f ( a − h ) − f ( a ) h = 1 2 lim ⁡ h → 0 f ( a + h ) − f ( a ) h + 1 2 lim ⁡ t → 0 f ( a + t ) − f ( a ) t = 1 2 f ′ ( a ) + 1 2 f ′ ( a ) = f ′ ( a ) \begin{aligned}\displaystyle\lim_{h\to0}\dfrac{f(a+h)-f(a-h)}{2h}&=\dfrac12\lim_{h\to0}\dfrac{f(a+h)-f(a)}h\,{\color{red}-}\,\dfrac12\lim_{\color{red}h\to0}\dfrac{f(a\,{\color{red}-\,h})-f(a)}{\color{red}h}\\&=\dfrac12\lim_{h\to0}\dfrac{f(a+h)-f(a)}h\,{\color{red}+}\,\dfrac12\lim_{\color{red}t\to0}\dfrac{f(a\;{\color{red}+\;t})-f(a)}{\color{red}t}\\&=\dfrac12f'(a)+\dfrac12f'(a)=f'(a)\end{aligned} h → 0 lim ​ 2 h f ( a + h ) − f ( a − h ) ​ ​ = 2 1 ​ h → 0 lim ​ h f ( a + h ) − f ( a ) ​ − 2 1 ​ h → 0 lim ​ h f ( a − h ) − f ( a ) ​ = 2 1 ​ h → 0 lim ​ h f ( a + h ) − f ( a ) ​ + 2 1 ​ t → 0 lim ​ t f ( a + t ) − f ( a ) ​ = 2 1 ​ f ′ ( a ) + 2 1 ​ f ′ ( a ) = f ′ ( a ) ​
+
+이 경우에는 f ( a − ) = f ( a + ) = f ′ ( a ) f(a^-)=f(a^+)=f'(a) f ( a − ) = f ( a + ) = f ′ ( a ) 로 쓸 수 있기 때문에 굳이 좌극한과 우극한으로 나누지 않고서도 위와 같은 계산이 가능한 것이다. 그러나 x = a x=a x = a 에서 미분이 가능하지 않더라도 위와 같이 극한값 자체는 존재한다는 것이 특기할 만하다. 이에 대해서는 바로 아래에서 더 자세히 설명한다.
+위 예제의 ㄷ과 같은 형태의 식을 좀 더 자세히 탐구해 보자. 즉, f ( x ) f(x) f ( x ) 가 x = a x=a x = a 에서 미분가능한 것과, 0 0 0 이 아닌 서로 다른 두 상수 p p p 와 q q q 에 대하여
+
+lim ⁡ h → 0 f ( a + p h ) − f ( a + q h ) h ⋯ ( A ) \displaystyle\lim_{h\to0}\frac{f(a+ph)-f(a+qh)}h\;\cdots\;(\rm A) h → 0 lim ​ h f ( a + p h ) − f ( a + q h ) ​ ⋯ ( A )
+의 값이 존재하는 것의 관계를 알아 보자. 위에서 f ( x ) f(x) f ( x ) 가 x = a x=a x = a 에서 미분가능하면 이 값이 ( p − q ) f ′ ( a ) (p-q)f'(a) ( p − q ) f ′ ( a ) 가 된다는 것을 알아 보았다. 그러나 미분가능하지 않은 경우에는 식을 좌극한과 우극한으로 나누어 조사해야 한다.
+lim ⁡ h → 0 − f ( a + p h ) − f ( a + q h ) h = lim ⁡ h → 0 − f ( a + p h ) − f ( a ) h − lim ⁡ h → 0 − f ( a + q h ) − f ( a ) h = lim ⁡ h → 0 − p × f ( a + p h ) − f ( a ) p h − lim ⁡ h → 0 − q × f ( a + q h ) − f ( a ) q h \begin{aligned}\displaystyle\lim_{h\to0-}\frac{f(a+ph)-f(a+qh)}h&=\lim_{h\to0-}\frac{f(a+ph)-f(a)}h-\lim_{h\to0-}\frac{f(a+qh)-f(a)}h\\&=\lim_{\color{red}h\to0-}p\times\frac{f(a+{\color{red}ph})-f(a)}{\color{red}ph}-\lim_{\color{red}h\to0-}q\times\frac{f(a+{\color{red}qh})-f(a)}{\color{red}qh}\end{aligned} h → 0 − lim ​ h f ( a + p h ) − f ( a + q h ) ​ ​ = h → 0 − lim ​ h f ( a + p h ) − f ( a ) ​ − h → 0 − lim ​ h f ( a + q h ) − f ( a ) ​ = h → 0 − lim ​ p × p h f ( a + p h ) − f ( a ) ​ − h → 0 − lim ​ q × q h f ( a + q h ) − f ( a ) ​ ​
+
+이는 좌극한을 조사하는 과정의 일부이다. 이때, p p p 와 q q q 의 부호에 따라서 계산 결과가 달라진다. p p p 를 예로 들어 알아보자. p h = t ph=t p h = t 로 치환하면 다음과 같다.
+p > 0 : lim ⁡ h → 0 − f ( a + p h ) − f ( a ) p h = lim ⁡ t → 0 − f ( a + t ) − f ( a ) t = f ′ ( a − ) lim ⁡ h → 0 + f ( a + p h ) − f ( a ) p h = lim ⁡ t → 0 + f ( a + t ) − f ( a ) t = f ′ ( a + ) p < 0 : lim ⁡ h → 0 − f ( a + p h ) − f ( a ) p h = lim ⁡ t → 0 + f ( a + t ) − f ( a ) t = f ′ ( a + ) lim ⁡ h → 0 + f ( a + p h ) − f ( a ) p h = lim ⁡ t → 0 − f ( a + t ) − f ( a ) t = f ′ ( a − ) \begin{aligned}p>0:\quad\displaystyle\lim_{\color{red}h\to0-}\frac{f(a+{\color{red}ph})-f(a)}{\color{red}ph}&=\lim_{\color{red}t\to0-}\frac{f(a+{\color{red}t})-f(a)}{\color{red}t}\\&=f'(a^-)\\\lim_{\color{red}h\to0+}\frac{f(a+{\color{red}ph})-f(a)}{\color{red}ph}&=\lim_{\color{red}t\to0+}\frac{f(a+{\color{red}t})-f(a)}{\color{red}t}\\&=f'(a^+)\\\\p<0:\quad\displaystyle\lim_{\color{red}h\to0-}\frac{f(a+{\color{red}ph})-f(a)}{\color{red}ph}&=\lim_{\color{red}t\to0+}\frac{f(a+{\color{red}t})-f(a)}{\color{red}t}\\&=f'(a^+)\\\lim_{\color{red}h\to0+}\frac{f(a+{\color{red}ph})-f(a)}{\color{red}ph}&=\lim_{\color{red}t\to0-}\frac{f(a+{\color{red}t})-f(a)}{\color{red}t}\\&=f'(a^-)\end{aligned} p > 0 : h → 0 − lim ​ p h f ( a + p h ) − f ( a ) ​ h → 0 + lim ​ p h f ( a + p h ) − f ( a ) ​ p < 0 : h → 0 − lim ​ p h f ( a + p h ) − f ( a ) ​ h → 0 + lim ​ p h f ( a + p h ) − f ( a ) ​ ​ = t → 0 − lim ​ t f ( a + t ) − f ( a ) ​ = f ′ ( a − ) = t → 0 + lim ​ t f ( a + t ) − f ( a ) ​ = f ′ ( a + ) = t → 0 + lim ​ t f ( a + t ) − f ( a ) ​ = f ′ ( a + ) = t → 0 − lim ​ t f ( a + t ) − f ( a ) ​ = f ′ ( a − ) ​
+
+즉, p > 0 p>0 p > 0 이면 h h h 를 t t t 로 치환해도 극한의 방향은 유지되지만 p < 0 p<0 p < 0 이면 p h = t ph=t p h = t 로 놓고 치환하는 순간 극한의 방향이 반대가 되어 버린다는 것이다. 이 사실은 q q q 에 대해서도 동일하게 성립함은 물론이다.
+
+따라서 위 ( A ) (\rm A) ( A ) 의 좌극한과 우극한은 p p p 와 q q q 의 부호에 따라 다음과 같이 달라진다.
+
+좌극한 { p f ′ ( a − ) − q f ′ ( a − ) ( p > 0 , q > 0 ) p f ′ ( a − ) − q f ′ ( a + ) ( p > 0 , q < 0 ) p f ′ ( a + ) − q f ′ ( a − ) ( p < 0 , q > 0 ) p f ′ ( a + ) − q f ′ ( a + ) ( p < 0 , q < 0 ) \textsf{좌극한}\begin{cases}pf'(a^-)-qf'(a^-)\quad(p>0,\,q>0)\\pf'(a^-)-qf'(a^+)\quad(p>0,\,q<0)\\pf'(a^+)-qf'(a^-)\quad(p<0,\,q>0)\\pf'(a^+)-qf'(a^+)\quad(p<0,\,q<0)\end{cases} 좌극한 ⎩ ⎨ ⎧ ​ p f ′ ( a − ) − q f ′ ( a − ) ( p > 0 , q > 0 ) p f ′ ( a − ) − q f ′ ( a + ) ( p > 0 , q < 0 ) p f ′ ( a + ) − q f ′ ( a − ) ( p < 0 , q > 0 ) p f ′ ( a + ) − q f ′ ( a + ) ( p < 0 , q < 0 ) ​
+
+우극한 { p f ′ ( a + ) − q f ′ ( a + ) ( p > 0 , q > 0 ) p f ′ ( a + ) − q f ′ ( a − ) ( p > 0 , q < 0 ) p f ′ ( a − ) − q f ′ ( a + ) ( p < 0 , q > 0 ) p f ′ ( a − ) − q f ′ ( a − ) ( p < 0 , q < 0 ) \textsf{우극한}\begin{cases}pf'(a^+)-qf'(a^+)\quad(p>0,\,q>0)\\pf'(a^+)-qf'(a^-)\quad(p>0,\,q<0)\\pf'(a^-)-qf'(a^+)\quad(p<0,\,q>0)\\pf'(a^-)-qf'(a^-)\quad(p<0,\,q<0)\end{cases} 우극한 ⎩ ⎨ ⎧ ​ p f ′ ( a + ) − q f ′ ( a + ) ( p > 0 , q > 0 ) p f ′ ( a + ) − q f ′ ( a − ) ( p > 0 , q < 0 ) p f ′ ( a − ) − q f ′ ( a + ) ( p < 0 , q > 0 ) p f ′ ( a − ) − q f ′ ( a − ) ( p < 0 , q < 0 ) ​
+이에 따라 좌극한과 우극한이 같을 조건, 즉 ( A ) (\rm A) ( A ) 의 값이 존재할 조건은 최종적으로 다음과 같이 간단하게 정리된다.
+
+∣ p ∣ = ∣ q ∣ or f ′ ( a − ) = f ′ ( a + )|p|=|q|\;\textsf{or}\;f'(a^-)=f'(a^+) ∣ p ∣ = ∣ q ∣ or f ′ ( a − ) = f ′ ( a + )
+즉, 미분계수가 x = a x=a x = a 에서 정의되어 f ′ ( a ) f'(a) f ′ ( a ) 의 값이 존재하면 p p p 와 q q q 의 값에 관계없이 ( A ) (\rm A) ( A ) 의 값도 존재한다. 그러나 f ′ ( a ) f'(a) f ′ ( a ) 의 값이 정해지지 않으면 그 다음 조건을 따져야 한다. 즉, p p p 와 q q q 의 절댓값이 같으면 되는 것이다. p p p 와 q q q 의 부호가 같으면 p = q p=q p = q 이어야 하며, 다르면 p = − q p=-q p = − q 이면 된다. 그런데 p p p 와 q q q 의 부호가 같아 p = q p=q p = q 이면 ( A ) (\rm A) ( A ) 의 분자가 그냥 0 0 0 이 되어 버리므로 ( A ) (\rm A) ( A ) 의 값도 단순히 0 0 0 이 된다. 그러나 이렇게 단순한 경우는 논의할 의미가 희박하다. 처음에 p ≠ q p\neq q p  = q 를 가정한 것은 이 때문이다.
+
+따라서 실질적으로 미분계수가 정의되지 않으면서 ( A ) \boldsymbol{(}\bf A\boldsymbol{)} ( A ) 의 값이 무조건 존재하는 중요한 경우는 p = − q \boldsymbol{p=-q} p = − q 인 경우뿐이다. 이 경우 중 하나가 다름 아닌 위 예제의 ㄷ으로, ㄷ에서는 p = 1 p=1 p = 1 , q = − 1 q=-1 q = − 1 이었다. 따라서 x = a x=a x = a 에서 미분계수가 정의되지 않더라도 무조건 ㄷ은 극한값을 가지므로 ㄷ은 필요충분조건이 되지 못하는 것이다.
+
+또한 말을 뒤집으면, ∣ p ∣ = ∣ q ∣|p|=|q| ∣ p ∣ = ∣ q ∣ 이지 않으면서 ( A ) (\rm A) ( A ) 의 값이 존재하려면 그냥 x = a x=a x = a 에서 미분계수가 무조건 정의되어야 하는 셈이다.
+
+4.5. 절댓값 이 포함된 미분계수식 [편집]
+절댓값 함수와의 합성함수 의 미분계수는 부호 함수 가 포함된 식의 꼴로 나타낼 수 있다. 사실상 함수 하나가 절댓값 함수일 뿐인 연쇄 법칙 에 불과하다. ∣ f ( x ) ∣ ′ = ( sgn ⁡ ∘ f ) ( x ) f ′ ( x ) f ( ∣ x ∣ ) ′ = sgn ⁡ ( x ) f ′ ( ∣ x ∣ ) \begin{aligned} |f(x)|' &= (\operatorname{sgn} \circ f)(x)\,f'(x) \\ f(|x|)' &= \operatorname{sgn}(x)\,f'(|x|)\end{aligned} ∣ f ( x ) ∣ ′ f ( ∣ x ∣ ) ′ ​ = ( sgn ∘ f ) ( x ) f ′ ( x ) = sgn ( x ) f ′ ( ∣ x ∣ ) ​
+
+혹은 다음과 같이 미분가능성을 생각할 수도 있다.
+f ( x ) f(x) f ( x ) 가 x = a x=a x = a 에서 미분가능할 때, ∣ f ( x ) ∣|f(x)| ∣ f ( x ) ∣ 가 x = a x=a x = a 에서 미분가능할 필요충분조건은 다음 중 하나를 만족하는 것이다.
+1. f ( a ) ≠ 0 f(a)\ne 0 f ( a )  = 0
+2. f ( a ) = 0 f(a)=0 f ( a ) = 0 이고 f ′ ( a ) = 0 f'(a)=0 f ′ ( a ) = 0
+
+증명: 1. f ( a ) ≠ 0 f(a)\ne 0 f ( a )  = 0 인경우: f ( a ) > 0 f(a)>0 f ( a ) > 0 인 경우만 증명한다. [10]
+f ( x ) f(x) f ( x ) 는 x = a x=a x = a 에서 미분가능하므로 연속이다. 따라서 충분히 a a a 를 포함하는 충분히 작은 열린구간을 생각하면 이 구간에서 f ( x ) > 0 f(x)>0 f ( x ) > 0 이다. 즉, 이 구간에서 ∣ f ( x ) ∣ = f ( x )|f(x)|=f(x) ∣ f ( x ) ∣ = f ( x ) 이므로 f ( x ) f(x) f ( x ) 가 미분가능하면 ∣ f ( x ) ∣|f(x)| ∣ f ( x ) ∣ 도 미분가능하고 그 역도 성립한다.
+2. f ( a ) = 0 f(a)=0 f ( a ) = 0 인 경우: lim ⁡ x → a ∣ f ( x ) ∣ − ∣ f ( a ) ∣ x − a = lim ⁡ x → a ∣ f ( x ) ∣ x − a \displaystyle \lim_{x\to a}\frac{|f(x)|-|f(a)|}{x-a}=\lim_{x\to a}\frac{|f(x)|}{x-a} x → a lim ​ x − a ∣ f ( x ) ∣ − ∣ f ( a ) ∣ ​ = x → a lim ​ x − a ∣ f ( x ) ∣ ​ 의 좌극한과 우극한, 즉 ∣ f ( x ) ∣|f(x)| ∣ f ( x ) ∣ 의 좌미분계수와 우미분계수를 생각하자.
+x → a + x\to a+ x → a + 일 때 x − a = ∣ x − a ∣ x-a=|x-a| x − a = ∣ x − a ∣ 이므로 lim ⁡ x → a + ∣ f ( x ) ∣ x − a = lim ⁡ x → a + ∣ f ( x ) x − a ∣ = ∣ f ′ ( a ) ∣ ⋯ ( 1 ) \displaystyle \lim_{x\to a+}\frac{|f(x)|}{x-a}=\lim_{x\to a+}\left|\frac{f(x)}{x-a}\right|=|f'(a)|\cdots(1) x → a + lim ​ x − a ∣ f ( x ) ∣ ​ = x → a + lim ​ ​ x − a f ( x ) ​ ​ = ∣ f ′ ( a ) ∣ ⋯ ( 1 )
+x → a − x\to a- x → a − 일 때 x − a = − ∣ x − a ∣ x-a=-|x-a| x − a = − ∣ x − a ∣ 이므로 lim ⁡ x → a − ∣ f ( x ) ∣ x − a = lim ⁡ x → a − − ∣ f ( x ) x − a ∣ = − ∣ f ′ ( a ) ∣ ⋯ ( 2 ) \displaystyle \lim_{x\to a-}\frac{|f(x)|}{x-a}=\lim_{x\to a-}-\left|\frac{f(x)}{x-a}\right|=-|f'(a)|\cdots(2) x → a − lim ​ x − a ∣ f ( x ) ∣ ​ = x → a − lim ​ − ​ x − a f ( x ) ​ ​ = − ∣ f ′ ( a ) ∣ ⋯ ( 2 )
+∣ f ( x ) ∣|f(x)| ∣ f ( x ) ∣ 가 미분가능한 필요충분조건은 (1)과 (2)의 두 값이 같은 것이므로 f ′ ( a ) = 0 f'(a)=0 f ′ ( a ) = 0 이다.
+
+한편, 여기서 1.과 2., f ( x ) < 0 f(x)<0 f ( x ) < 0 일 조건을 모두 만족하는 ∣ f ( x ) ∣ ′ = ( sgn ⁡ ∘ f ) ( x ) f ′ ( x )|f(x)|'=(\operatorname{sgn} \circ f)(x)\,f'(x) ∣ f ( x ) ∣ ′ = ( sgn ∘ f ) ( x ) f ′ ( x )
+
+로 일반화된 미분계수식을 얻을 수 있다. ■ \qquad\blacksquare ■
+2022학년도 9월 고3 22번
+
+풀이 [펼치기 · 접기]
+문제의 식을 알기 쉽게 위하여 ∣ f ( x ) ∣ = p ( x )|f(x)|=p(x) ∣ f ( x ) ∣ = p ( x ) 로 두고, − h = t -h=t − h = t 로 치환하면 다음이 성립한다.
+lim ⁡ h → 0 + ∣ f ( x + h ) ∣ − ∣ f ( x − h ) ∣ h = lim ⁡ h → 0 + p ( x + h ) − p ( x − h ) h = lim ⁡ h → 0 + p ( x + h ) − p ( x ) h − lim ⁡ h → 0 + p ( x − h ) − p ( x ) h = lim ⁡ h → 0 + p ( x + h ) − p ( x ) h − lim ⁡ t → 0 − p ( x + t ) − p ( x ) − t = lim ⁡ h → 0 + p ( x + h ) − p ( x ) h + lim ⁡ t → 0 − p ( x + t ) − p ( x ) t \begin{aligned}\displaystyle\lim_{h\to0+}\frac{|f(x+h)|-|f(x-h)|}h&=\lim_{h\to0+}\frac{p(x+h)-p(x-h)}h\\&=\lim_{h\to0+}\frac{p(x+h)-p(x)}h-\lim_{\color{red}h\to0+}\frac{p(x\,{\color{red}-\,h})-p(x)}{\color{red}h}\\&=\lim_{h\to0+}\frac{p(x+h)-p(x)}h-\lim_{\color{red}t\to0-}\frac{p(x\,{\color{red}+\;t})-p(x)}{\color{red}-\,t}\\&=\lim_{h\to0+}\frac{p(x+h)-p(x)}h+\lim_{t\to0-}\frac{p(x+t)-p(x)}t\end{aligned} h → 0 + lim ​ h ∣ f ( x + h ) ∣ − ∣ f ( x − h ) ∣ ​ ​ = h → 0 + lim ​ h p ( x + h ) − p ( x − h ) ​ = h → 0 + lim ​ h p ( x + h ) − p ( x ) ​ − h → 0 + lim ​ h p ( x − h ) − p ( x ) ​ = h → 0 + lim ​ h p ( x + h ) − p ( x ) ​ − t → 0 − lim ​ − t p ( x + t ) − p ( x ) ​ = h → 0 + lim ​ h p ( x + h ) − p ( x ) ​ + t → 0 − lim ​ t p ( x + t ) − p ( x ) ​ ​
+
+즉, 함수 ∣ f ( x ) ∣ = p ( x )|f(x)|=p(x) ∣ f ( x ) ∣ = p ( x ) 의 좌미분계수와 우미분계수의 합을 나타낸다. 이제 이 식 전체를 q ( x ) q(x) q ( x ) 라 하고, q ( x ) q(x) q ( x ) 의 연속성을 조사하자.
+
+가령 ∣ f ( x ) ∣ = p ( x )|f(x)|=p(x) ∣ f ( x ) ∣ = p ( x ) 가 다음과 같은 개형인 경우를 보자.
+
+그림에 표시된 첨점을 제외한 p ( x ) p(x) p ( x ) 의 모든 점은 미분가능하다. 이때는 좌미분계수와 우미분계수가 같고 미분계수가 그 값으로 정의된다. q ( x ) q(x) q ( x ) 는 p ( x ) p(x) p ( x ) 의 좌미분계수와 우미분계수의 합이므로, 미분가능한 점에서는 미분계수의 두 배가 된다. 미분가능한 모든 구간에서는 그 도함수가 다항식으로 주어지므로, 도함수가 연속이다. 따라서 미분가능한 구간에서는 q ( x ) q(x) q ( x ) 역시 연속이다. 그러나 첨점에서는 좌미분계수와 우미분계수가 다르다. 정확히는 반수 ( 反 數 /opposite number, 절댓값이 같고 부호가 반대인 두 수) 관계이다. 왜냐하면 원래부터 수평선 위에 있던 부분은 f ( x ) f(x) f ( x ) 의 미분계수(이 그림에서는 좌미분계수)를, 원래 아래에 있었으나 뒤집어 올리면서 대칭이동된 부분은 − f ( x ) -f(x) − f ( x ) 의 미분계수(이 그림에서는 우미분계수)를 조사해야 하기 때문이다. 미분계수는 평균변화율의 극한이므로 결국 극한의 일종이다. 따라서 극한의 성질에 의하여 − f ( x ) -f(x) − f ( x ) 의 미분계수는 f ( x ) f(x) f ( x ) 의 미분계수에 음의 부호를 붙인 것과 같다. 따라서 위 그림의 첨점에서는 좌미분계수와 우미분계수가 정확히 반수 관계를 이루며, 첨점에서의 q ( x ) q(x) q ( x ) 의 값은 모두 0 0 0 이다. 첨점 근방에서는 q ( x ) q(x) q ( x ) 의 값이 0 0 0 이 아니므로, 결국 q ( x ) \boldsymbol{q(x)} q ( x ) 는 ∣ f ( x ) ∣ = p ( x ) \boldsymbol{|f(x)|=p(x)} ∣ f ( x ) ∣ = p ( x ) 의 첨점에서만 불연속 이다.
+
+참고로 f ( x ) = ( x + 1 ) 2 ( x − 2 ) f(x)=(x+1)^2(x-2) f ( x ) = ( x + 1 ) 2 ( x − 2 ) 이고 정답은 f ( 5 ) = 108 f(5)=108 f ( 5 ) = 108 이다. 연속함수 문서에서 밝힌 원리에 따라, q ( x ) q(x) q ( x ) 가 불연속점을 갖는데 (가)에 따라 g ( x ) = f ( x − 3 ) q ( x ) g(x)=f(x-3)q(x) g ( x ) = f ( x − 3 ) q ( x ) 가 연속함수가 되려면 첨점에서 f ( x − 3 ) = 0 f(x-3)=0 f ( x − 3 ) = 0 이 되어야 한다. 이 사실과 (나)를 적절히 이용하면 곡선 y = f ( x ) y=f(x) y = f ( x ) 의 개형을 추론할 수 있다. 2023학년도 3월 고3 22번
+
+풀이 [펼치기 · 접기]
+lim ⁡ x → k g ( x ) − g ( k ) ∣ x − k ∣ \displaystyle\lim_{x\to k}\frac{g(x)-g(k)}{|x-k|} x → k lim ​ ∣ x − k ∣ g ( x ) − g ( k ) ​ 의 값이 존재하려면 다음과 같이 좌극한과 우극한의 값이 같아야 한다.
+
+lim ⁡ x → k − g ( x ) − g ( k ) ∣ x − k ∣ = lim ⁡ x → k + g ( x ) − g ( k ) ∣ x − k ∣ \displaystyle\lim_{x\to k-}\frac{g(x)-g(k)}{|x-k|}=\lim_{x\to k+}\frac{g(x)-g(k)}{|x-k|} x → k − lim ​ ∣ x − k ∣ g ( x ) − g ( k ) ​ = x → k + lim ​ ∣ x − k ∣ g ( x ) − g ( k ) ​
+이때, 좌극한은 x x x 가 k k k 보다 작은 쪽에서 k k k 로 접근하는 극한이므로 ∣ x − k ∣ = − ( x − k )|x-k|=-(x-k) ∣ x − k ∣ = − ( x − k ) 가 되고, 우극한은 반대로 큰 쪽에서 접근하는 극한이므로 ∣ x − k ∣ = x − k|x-k|=x-k ∣ x − k ∣ = x − k 가 되므로 위 식의 양변을 다음과 같이 고쳐 쓸 수 있다.
+
+lim ⁡ x → k − − g ( x ) − g ( k ) x − k = lim ⁡ x → k + g ( x ) − g ( k ) x − k \displaystyle\lim_{x\to k-}-\frac{g(x)-g(k)}{x-k}=\lim_{x\to k+}\frac{g(x)-g(k)}{x-k} x → k − lim ​ − x − k g ( x ) − g ( k ) ​ = x → k + lim ​ x − k g ( x ) − g ( k ) ​
+다름이 아니라 좌변은 좌미분계수에 음의 부호를 붙인 것이고, 우변은 정확히 우미분계수이다. 즉, 문제의 극한값이 존재하려면 g ( x ) g(x) g ( x ) 의 좌미분계수와 우미분계수가 모두 0 0 0 이어서 x = k x=k x = k 에서의 미분계수가 0 0 0 으로 정의되거나, g ( x ) g(x) g ( x ) 의 좌미분계수와 우미분계수가 반수 ( 反 數 /opposite number, 절댓값이 같고 부호가 반대인 두 수) 관계이면 된다. 이 경우 미분계수는 정의되지 않는다. 이것의 기하학적 의미를 알아보자. 가령, f ( x ) f(x) f ( x ) 의 극값 이 세 개인 경우는 다음과 같다.
+
+위 그림과 같이, g ( x ) = ∣ f ( x ) − t ∣ g(x)=|f(x)-t| g ( x ) = ∣ f ( x ) − t ∣ 의 그래프의 개형은 f ( x ) f(x) f ( x ) 의 그래프를 직선 y = t y=t y = t 에 대하여 뒤집어 올린 모양이다. [11] 이때 초록색 점은 미분계수가 0 0 0 인 점이며, 빨간색 점은 좌미분계수와 우미분계수가 반수 관계인 점이다. 이 점들은 곡선 f ( x ) \boldsymbol{f(x)} f ( x ) 를 수평선에 대하여 뒤집어 올리는 과정에서 발생하는 첨점 이라고 할 수 있는데, 그 이유는 위 문제에서 설명한 바와 동일하다.
+
+서울특별시교육청 에서는 다음과 같은 해설을 제시했다. g ′ ( k ) = 0 g'(k)=0 g ′ ( k ) = 0 이려면 f ′ ( k ) = 0 f'(k)=0 f ′ ( k ) = 0 이면 충분하며, 첨점에서는 g ( k ) = f ( k ) = t g(k)=f(k)=t g ( k ) = f ( k ) = t 임을 위 그림을 통해서도 쉽게 이해할 수 있을 것이다.
+
+참고로 문제에서 f ( x ) = ( x + 2 ) 2 ( x − 2 ) ( x + 6 ) + 4 f(x)=(x+2)^2(x-2)(x+6)+4 f ( x ) = ( x + 2 ) 2 ( x − 2 ) ( x + 6 ) + 4 , h ( 4 ) = 5 h(4)=5 h ( 4 ) = 5 이며, 정답은 f ( 4 ) + h ( 4 ) = 724 + 5 = 729 f(4)+h(4)=724+5=729 f ( 4 ) + h ( 4 ) = 724 + 5 = 729 이다.
+
+5. 미분법 [편집]
+자세한 내용은 미분법 문서를 참고하십시오.
+
+6. 평균값 정리 [편집]
+자세한 내용은 평균값 정리 문서를 참고하십시오.
+
+7. 파생 개념 [편집]
+- 델 - 스칼라 장의 변화, 벡터 장의 발산, 회전 등을 나타내는 데 쓰이는 연산자이다.
+- 차분
+- 미분방정식
+- 미적분의 기본정리
+- 로피탈의 정리
+- 벡터 미적분학
+
+8. 기타 [편집]
+영국 수학계는 라이프니츠 식이 나온 이후에도 뉴턴 식을 고집하다가 결국 유럽 대륙에 비해 수학의 발전이 약 100~200년 뒤처지게 되었다.
+
+뉴턴과 라이프니츠 이전에, 사실 페르마 가 좌표평면 비슷한 것을 만들면서 접선을 구하는 방법을 생각해냈다. [12] 미분을 도입할 때 곡선상의 두 점에 대해 두 점을 잇는 직선인 할선을 생각한 후에, 한 점을 다른 한점에 극한으로 보내는 방식이 페르마가 생각했던 접선을 정의하는 방식이다. 다만 이는 모든 곡선에 보편적으로 적용할 수 있는 '완전한 해법'은 결코 아니었으며, 이러한 모든 곡선, 모든 점에서의 접선을 구할 수 있는 일반적인 방법은 뉴턴과 라이프니츠가 거의 동일한 시기에 '최초로' 발견해낸 것이 옳으며, 정확하게는 뉴턴이 더 빨랐다.
+
+물리 공부할 때에는 적분 과 더불어 사실상 필수이다 [13] . 물론 고등학생 수준에서는 최고값/최저값 찾기에나 쓰지만, 배워 놓으면 꽤 편리할 뿐만 아니라 물리 개념 이해에 도움을 주기 때문에 배워놓는 것을 권장한다. [14]
+
+상경계열 학생들에게도 필수다. 경제학 에서 모형분석 시 자주 사용하는 차원을 넘어서 경제원론 수준에서조차 탄력성, 한계효용 개념에서부터 미분 개념이 등장하기 때문에 못 하면 매우 피곤하다. 특히 미시경제학 은 행위자들의 행동원리 자체가 효용극대화, 비용극소화, 이윤극대화, 사회후생극대화 등 일변수함수나 이변수함수를 미분하여 풀 수밖에 없는 방향으로 결론이 나기 때문에 그야말로 미분으로 시작해서 미분으로 끝난다. 거시경제학 역시 미시경제학을 기초로 삼아 거시적으로 통합해서 바라보는 학문이므로 미분이 매우 자주 사용되며, 이를 이용한 미분방정식 도 절찬리에 사용되므로 미분과는 절대로 떼려야 뗄 수 없다. [15]
+
+공학에서도 공학수학의 기초 중 하나이기 때문에 필수다. 애초에 최적화 라는 개념 자체를 미분과 따로 떼어 놓을 수 없다. 고로 사실상 수식을 사용하는 거의 모든 학문에 필수로 들어간다고 보면 된다.
+
+사실 적분에 비해서는 계산이 훨씬 쉬운 편이다. 오죽하면 미분은 기술이지만 적분은 예술이라는 말이 있을 정도. 곱의 형태나 분수 형태로 된 함수도 공식만 잘 적용하면 쉽게 계산이 가능한 데다(참고로 곱이나 분수 형태의 함수를 적분하기 위한 일반적인 해법은 없다. [16] ) 위에 설명한 연쇄법칙(chain rule)의 존재로 인해 아무리 지수가 높아진 함수라도 계산이 복잡해질 뿐 도함수를 아예 못 구하는 경우는 많지 않기 때문이다. y = x x y=x^x y = x x 처럼 겉보기에는 절대로 도함수를 못 구할 것처럼 보이는 함수도 양쪽에 로그를 취하고 연쇄 법칙을 사용하면 도함수를 구할 수 있다. [17] 단, 지수, 로그, 삼각함수 [18] 같은 특수 함수의 도함수는 매번 극한을 써서 유도해내어 쓸 수 없으니 시험 잘 보려면 닥치고 외워야 한다(...). 정 뭣하면 오일러의 공식 이라도 알아두자. 지수함수로부터 삼각함수를, 삼각함수로부터 지수함수를 유도해낼 수 있는 마법을 쓸 수 있다!
+
+보다 고급 과정으로 들어가면 연속함수가 아닌 함수의 미분을 생각할 수가 있다. 재미있게도 정의하는 과정에서 적분 이 등장하는데, 제대로 이해하기 위해서는 사전에 측도론 에 관한 지식이 필히 요구된다. [19] 이러한 더 일반적인 개념을 약미분(weak derivative)이라고 부르는데, 예를 들어서 f ( x ) = ∣ x ∣ f(x)=|x| f ( x ) = ∣ x ∣ 의 약미분은 f ′ ( x ) = − 1 ( if x < 0 ) , + 1 ( if x ≥ 0 ) f'(x)=-1\,(\text{if }x<0)\,,+1\,(\text{if }x\geq 0) f ′ ( x ) = − 1 ( if x < 0 ) , + 1 ( if x ≥ 0 ) 이 되는 식이다. [20] 이러한 약미분은 소볼레프 공간(Sobolev space)이라는 바나흐 공간에서 잘 정의 된다.
+
+더욱 고급 과정으로 들어가면 매우 다양한 미분들이 등장한다. 예를 들어서, 볼록함수 의 경우에는 하방기울기(subgradient)라는 개념을 생각할 수 있다. 이때에는 어느 점에서의 미분계수가 더 이상 어느 수 하나가 아닌, 집합이 된다. 예를 들어, f ( x ) = ∣ x ∣ f(x)=|x| f ( x ) = ∣ x ∣ 의 x = 0 x=0 x = 0 에서의 하방기울기는 실수구간 [ − 1 , 1 ] [-1,1] [ − 1 , 1 ] 이 된다. 직관적으로 말하자면, x = 0 x=0 x = 0 에서 f ( x ) f(x) f ( x ) 밑에서 접하는 선형함수의 기울기를 모두 모은 집합이다. 이때 이 볼록함수 f f f 가 어떤 x x x 에서 미분가능이라면, 이 값에서 하방기울기의 원소는 하나 뿐이므로, f f f 의 미분이 된다.
+
+미분을 아예 함수가 아닌 분포(distribution, '일반화 함수'가 더 정식적인 명칭)에 대해서 정의하는 것도 가능하다. 예를 들어서, 헤비사이드 계단 함수 f ( x ) = 0 ( if x < 0 ) , + 1 ( if x ≥ 0 ) f(x)=0\,(\text{if }x<0)\,,+1\,(\text{if }x\geq 0) f ( x ) = 0 ( if x < 0 ) , + 1 ( if x ≥ 0 ) ]의 분포미분(distributional derivative)은 디랙 델타 함수 δ 0 \delta_0 δ 0 ​ 이 되고, 다시 디랙 델타 함수의 분포미분도 분포로 잘 정의되고 등. 이런 분포미분은 정말로 아무런 마구잡이 함수(혹은 측도나 분포)에 대해서도 잘 정의되기 때문에, 현대 편미분방정식론과 같은 분야에서는 많은 미분을 분포미분으로 이해하여 해의 존재성을 구한 다음에, 그 해의 연속성과 더 나아가서 매끄러움 등의 성질을 증명하는 식이다.
+
+또 다른 방향의 일반화로, 미분을 바나흐 공간 (Banach space) [21] 이나 더 나아가서 국소 볼록 공간 (locally convex space)에도 적용시킬 수 있다. 이때는 미분이 여러 가지로 쪼개지는데, 방향도함수(directional derivative), 가토 도함수(Gateaux derivative), 프레셰 도함수(Fréchet derivative) 순서로 약한 개념으로 확장된다. 즉, 프레셰 미분이 가능하면 가토 미분도 가능하며 그 미분은 일치하는 것. 이러한 미분은 변분법 등과 같은 해석 분야에서 많이 이용되고 있다. 예를 들어 함수를 변수로 갖는 범함수 F F F [22] 의 미분이 0이 되는 부분이 정류점(stationary point)이 되고, 즉 어느 함수 f f f 가 주어진 범함수 F F F 를 최소화시킨다면, D F ( f ) = 0 DF(f)=0 D F ( f ) = 0 이다. 오일러-라그랑주 방정식 이 바로 이 식의 특수한 경우.
+
+[1] 역사적으로는 미분(differential)은 라이프니츠가 무한소(infinitesimal)로 모호하게 설명한 dy,dx를 가리키는 용어로 시작되었으며 선형근사함수로의 정의는 엄밀성을 지키면서 미분형식 과 미적분학 사이의 갭을 매꿔주는 정의이다. [2] 정확히는, 방향을 고정하면 이런 식의 미분값들을 생각할 수는 있다. 방향도함수라고 하는데, 편미분 은 방향도함수의 벡터를 표준기저벡터로 설정했을 때 구해지는 것이므로 편미분은 방향도함수의 특수한 경우라 볼 수 있다. 하지만, 모든 방향에 대해서 방향도함수 값이 존재하면서도 불연속인 골때리는 상황도 존재하므로, 다른 방향의 일반화를 생각하는 것이다. [3] 원함수 f \bf f f 를 ( a , f ( a ) ) \bf(a,f(a)) ( a , f ( a )) 가 원점으로 오게끔 평행이동 시킨함수 혹은 증분함수(icrement function) [4] 단, 먼저 존재성을 따져야 한다. 이런 선형 근사 함수가 존재할 때 미분가능, 존재하지 않으면 미분 불가능이라 한다. [5] 어떤 책에서는 대문자 델타( Δ \Delta Δ )가 아닌 소문자 델타( δ \delta δ )를 쓰기도 하며, 고등학교 과정에서는 이 델타가 이탤릭( Δ \varDelta Δ )이다. [6] 그래프 상의 두 점 A \rm A A , B \rm B B 의 위치를 결정하는 x x x 축 위 b − a b-a b − a 가 Δ x \Delta x Δ x 이기 때문이다. [7] 이를 지키지 않는다면 d d x 2 x 2 + 4 x + 1 = 1 x × 2 x 2 + 4 x + 1 = 2 x + 4 x + 1 = 6 x + 1 \frac{d}{dx}2x^2+4x+1=\frac1x \times 2x^2+4x+1=2x+4x+1=6x+1 d x d ​ 2 x 2 + 4 x + 1 = x 1 ​ × 2 x 2 + 4 x + 1 = 2 x + 4 x + 1 = 6 x + 1 과 같이 답하는 엄청난 실수를 저지를 수 있다... [8] 참고로 ∣ x ∣|x| ∣ x ∣ 의 실제 미분은 ∣ x ∣ → sgn ⁡ ( x ) → 2 δ ( x ) → 2 δ ′ ( x ) ⋯|x|\to\operatorname{sgn}(x)\to2\delta(x)\to2\delta'(x)\cdots ∣ x ∣ → sgn ( x ) → 2 δ ( x ) → 2 δ ′ ( x ) ⋯ 같은 식으로 흘러간다. [9] 쉽게 말해 접선이 y축과 평행하거나 일치하는 경우. 예를 들면 lim ⁡ x → 0 + d x d x = ∞ \lim\limits_{x\to0^+}\dfrac{{\rm d}\sqrt x}{{\rm d}x}=\infty x → 0 + lim ​ d x d x ​ ​ = ∞ [10] f ( x ) < 0 f(x)<0 f ( x ) < 0 인 경우는 -만 붙여주면 된다. 위에 있는 ( sgn ⁡ ∘ f ) ( x ) (\operatorname{sgn} \circ f)(x) ( sgn ∘ f ) ( x ) 가 이 의미. [11] 주의할 것은 '모양'(또는 '개형')만이 그렇다는 것이지 그림의 굵은 그래프가 정확히 g ( x ) g(x) g ( x ) 의 그래프는 아니라는 점이다. 그림의 굵은 그래프의 정확한 방정식은 g ( x ) = ∣ f ( x ) − t ∣ g(x)=|f(x)-t| g ( x ) = ∣ f ( x ) − t ∣ 가 아니라 y = ∣ f ( x ) − t ∣ + t y=|f(x)-t|+t y = ∣ f ( x ) − t ∣ + t 이다. 그러나 상수항을 미분하면 0 0 0 이 되듯이, t t t 는 상수이므로 그래프를 위아래로 평행이동시킬 뿐 그래프의 개형에는 영향을 주지 않는다. 그래서 이 문제의 극한값이 존재하도록 하는 k k k 의 개수를 조사할 때에도 상수항 t t t 의 존재 여부는 전혀 중요하지 않다. 그래서 그림에서는 g ( x ) g(x) g ( x ) 의 '개형'만을 고려하는 것이다. [12] 좌표평면은 데카르트와 독자적으로 연구해서 ' 대수기하학 '의 시초기도 하다. [13] 애초에 그 유명한 F = m a {\bf F}=m{\bf a} F = m a 도 미분방정식이다! [14] 사실 대학별 논술시험에서는 막 나온다. [15] 거시경제학 의 경우는 학부에서는 연립방정식 이 대학원에서는 적분 이 주로 쓰이지만, 애초에 미분과 적분은 한 세트다. 적분이 자주 사용되는 이유도 대부분은 미분방정식 을 풀기 위해서다. 학부 수준에서도 '경제성장'이나 '거시경제학의 미시적 기초'와 같은 단원에서는 거의 미분으로 문제를 해결한다. 모 대학 경제학과 교수는 "(학부 경제학 및 고시 경제학 기준) 교과서에서 가장 많이 나오는 단어는 '한계'가 될 것이다"라고 말한 바 있다. [16] 곱의 형태로 된 함수를 적분하기 위해 부분적분 이란 기법이 등장하긴 했지만 (부분적분의 기법 자체는 f(x)g(x)=f'(x)g(x) + f(x)g'(x)의 양변을 적분해본 일반화된 공식에서 등장한다) 이 방법을 써도 풀리기는커녕 오히려 더 복잡해지는 함수가 훨씬 많다(대표적으로 e x tan ⁡ x e^x\tan x e x tan x ). 또 치환적분 이란 테크닉이 있기도 하지만 치환적분은 이걸 이렇게 치환하면 계산이 편해지는구나~ 라고 이미 알고 있는 함수를 적분하기 위해서 쓰는 방법이다. [17] y = x x , log ⁡ e y = x log ⁡ e x , y ′ y = 1 + log ⁡ e x , y ′ = y ( 1 + log ⁡ e x ) , y ′ = x x + x x log ⁡ e x y=x^x, \log_e y=x\log_e x, \dfrac{y'}{y}=1+\log_e x, y'=y(1+\log_e x), y'=x^x+x^x\log_e x y = x x , lo g e ​ y = x lo g e ​ x , y y ′ ​ = 1 + lo g e ​ x , y ′ = y ( 1 + lo g e ​ x ) , y ′ = x x + x x lo g e ​ x [18] 그나마 지수 같은 경우는 미분해 보았자 원함수에 ln(a)만 붙으니 외우기 쉽다. [19] 이러한 정의에서는 함숫값이 측도가 0인 집합에서 다른 것은 별 문제가 되지 않는다. 예를 들면 항등함수 0과 지시함수 는 같은 것으로 본다. 어차피 적분하면 0이므로. [20] 여기서 부등호가 0을 포함하느냐 마느냐는 상관없다. 어차피 { x = 0 } \{x=0\} { x = 0 } 의 르베그 측도는 0이기 때문에 L loc 1 ( R ) L_\text{loc}^1(\mathbb{R}) L loc 1 ​ ( R ) 위에서 f f f 는 x = 0 x=0 x = 0 에서 어떤 값을 가지든 상관 없기 때문이다. [21] 완비 노름 공간 (complete norm space)으로 무한차원에서도 정의된다. [22] 즉, 함수를 어느 무한 차원 바나흐 공간의 원소로서 생각한다. 이 문서의 내용 중 전체 또는 일부는 미분 문서의 r389 판에서 가져왔습니다. 이전 역사 보러 가기 [ 정성을 담은 수제요리 전문점
+map.naver.com/p/entry/place/1985295664 v-if
+특별한 날엔 특별하고 맛있는 음식들과 함께 잊지 못할 좋은 추억 만드세요
+
+] | [ 남동구컴퓨터수리 쿠팡
+www.coupang.com v-if
+[ [ 로켓프레시 ] [ 골드박스 ] [ 로켓직구 ] [ 로켓배송 ] ]
+세련된 남동구컴퓨터수리, 감성 가득한 디자인으로 식탁 분위기를 바꿔보세요.
+
+] | [ 전국24시 출장비0원 컴닥터
+www.컴닥터본사.kr v-if
+[ [ 홈페이지접수 ] [ 온라인문의 ] [ 체인점찾기 ] [ 서비스요금 ] ]
+전국 대표 컴닥터 컴퓨터수리 데이터복구 20분 무료 출장 서비스, A/S안심서비스
+
+]
+
+v-if ] [ ] [ ] ] ] ] ] ] 이 저작물은 CC BY-NC-SA 2.0 KR 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+
+나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+
+[ ]
+
+[ v-if ] [ ]
+
+[ ] [ ]
+
+[ 더 보기 ] ] [ - namu.wiki
+- Contáctenos
+- Términos de uso
+
+- Operado por umanle S.R.L.
+- Hecho con ❤️ en Asunción, República del Paraguay
+
+- Su zona horaria es GMT
+- Impulsado por the seed engine
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply.
+
+] [ ] ]
